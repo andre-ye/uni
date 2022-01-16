@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/russ
 ---
 
-# Russian
+# Русский язык
 
 Russian Language Series - Writing, Reading, Speaking, Culture
 {: .fs-6 .fw-300 }
