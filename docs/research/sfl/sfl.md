@@ -21,4 +21,4 @@ Project Supervisor: []
 Active: []
 {: .label .label-purple}
 
-[Content]
+I am currently looking into projects in crowdsourcing annotations for AI applications.
