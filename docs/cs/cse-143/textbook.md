@@ -207,6 +207,53 @@ public static boolean hasDuplicates(List<Integer> list) {
 
 ---
 
+## Chapter 13: Searching and Sorting
+
+### 13.1: Searching and Sorting in the Java Class Libraries
+- To search an `ArrayList` or `LinkedList`, you generally call the `indexOf` method.
+- Sometimes, you'll want to search through elements of an array that are already in sorted order.
+- Binary search looks at sorted data much faster than sequential search.
+- Binary search examines the center array and selects the half that contains the element, then recursively repeats.
+
+*Binary search on an array.*
+```java
+int index = Arrays.binarySearch(arr, target);
+```
+
+*Binary search on an `ArrayList`.*
+```java
+int index = Collections.binarySearch(list, target);
+```
+
+*Various methods to sort data*
+```java
+Arrays.sort(arr);
+Arrays.parallelSort(arr);
+Collections.sort(list);
+```
+
+- Parallel sort takes advantage of computer architectures with multiple processors or multi-core processors.
+- An array must implement the `Comparable` interface to be sorted.
+
+*Various methods to shuffle data*
+```java
+Collections.shuffle(list);
+```
+
+- Comparators are implemented as classes that implement the interface `Comparator` in the `java.util` package.
+
+```java
+public class customComparator implements Comparator<E> {
+  public int compare(obj obj1, obj obj2) {
+    return value;
+  }
+}
+
+Arrays.sort(array, new customComparator());
+```
+
+---
+
 ## Chapter 14: Stacks and Queues
 
 - Fundamental abstract data types: stacks and queues.
