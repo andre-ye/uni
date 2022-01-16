@@ -21,7 +21,7 @@ MATH 125
 - When we find the area under a curve or the distance traveled over time, we end up with a special type of limit.
 - Measure by using areas, Riemann sums.
 
-$$\lim_{n\to\infty} \sum^n_{i = 1} f(x_i^*} \Delta x = \lim_{n\to\infty} \left[ f(x_1^*) \Delta x + f(x_2^*) \Delta x + ... + f(x_n^*) \Delta x \right]$$
+$$\lim_{n\to\infty} \sum^n_{i = 1} f(x_i^*} \Delta x = \lim_{n\to\infty} \left[f(x_1^*) \Delta x + f(x_2^*) \Delta x + ... + f(x_n^*) \Delta x \right]$$
 
 ---
 
@@ -33,7 +33,7 @@ $$\int_a^b f(x) dx = \lim_{n\to\infty} \sum^n_{i = 1} f(x_i^*} \Delta x$$
 
 **Precise meaning of a limit that defines the integral.**
 
-> For every number $$\epsilon > 0$$, there is an integer $$N$$ such that for every integer $$n > N$$ and for every choice of $$x_i^*$$ in $$\left[x_{i-1}, x_i\right]$$, the following is true: $$\left| \int_a^b f(x) dx - \int^n_{i=1} f(x_i^*) \Delta x \right| < \epsilon$$.
+> For every number $$\epsilon > 0$$, there is an integer $$N$$ such that for every integer $$n > N$$ and for every choice of $$x_i^*$$ in $$\left[x_{i-1}, x_i\right]$$, the following is true: $$\| \int_a^b f(x) dx - \int^n_{i=1} f(x_i^*) \Delta x \| < \epsilon$$.
 
 **Theorem 3.**
 
@@ -64,37 +64,37 @@ $$\int_a^b f(x) dx = \lim_{n\to\infty} \sum^n_{i = 1} f(x_i^*} \Delta x$$
 
 > Alternatively, $$\frac{d}{dx} \int_a^x f(t) dt = f(x)$$.
 
-Proving Part 1:
+*Proving Part 1:*
 
-1. If $$x$$ and $$x+h$$ are in the range $$(a, b)$$, then we have
+If $$x$$ and $$x+h$$ are in the range $$(a, b)$$, then we have
 
 $$g(x + h) - g(x) = \int_a^{x+h} f(t) dt - \int_a^x f(t) dt = \int_x^{x+h} f(t) dt$$
 
-2. For $$h\neq$$ 0, we have
+For $$h\neq$$ 0, we have
 
 $$\frac{g(x+h) - g(x)}{h} = \frac{1}{h} \int_x^{x+h} f(t) dt$$.
 
-3. Assume $$h > 0$$. Let $$m$$ and $$M$$ be the absolute minimum and maximum values of $$f$$ on $$[x, x+h]$$. We have
+Assume $$h > 0$$. Let $$m$$ and $$M$$ be the absolute minimum and maximum values of $$f$$ on $$[x, x+h]$$. We have
 
 $$mh \le \int_x^{x+h} f(t) dt \le Mh$$
 
-4. Consider two numbers $$u$$ and $$v$$ such that $$f(u) = m$$ and $$f(v) = M$$. The inequality can be rewritten as
+Consider two numbers $$u$$ and $$v$$ such that $$f(u) = m$$ and $$f(v) = M$$. The inequality can be rewritten as
 
 $$f(u) h \le \int_x^{x+h} f(t) dt) \le f(v) h$$
 
-5. Dividing by $$h$$ yields
+Dividing by $$h$$ yields
 
 $$f(u) \le \frac{1}{h} \int_x^{x+h} f(t) dt \le f(v)$$
 
-6. From statement 2, we can replace the middle expression in the inequality: 
+From statement 2, we can replace the middle expression in the inequality: 
 
 $$f(u) \le \frac{g(x+h) - g(x)}{h} \le f(v)$$
 
-7. Let us take the limit as $$h \to 0$$. Since $$u$$ and $$v$$ lie between $$x$$ and $$x+h$$, $$u\to x$$ and $$v\to x$$.
+Let us take the limit as $$h \to 0$$. Since $$u$$ and $$v$$ lie between $$x$$ and $$x+h$$, $$u\to x$$ and $$v\to x$$.
 
 $$\lim_{h\to 0} f(u) = \lim_{u\to x} f(u) = f(x) \text{ and } \lim_{h\to 0} f(v) = \lim_{v\to x} f(u) = f(x)$$
 
-8. From the squeeze theorem, we can conclude that
+From the squeeze theorem, we can conclude that
 
 $$g'(x) = \lim_{h\to 0} \frac{g(x+h) - g(x)}{h} = f(x)$$
 
