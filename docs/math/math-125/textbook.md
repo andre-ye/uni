@@ -106,8 +106,6 @@ $$g'(x) = \lim_{h\to 0} \frac{g(x+h) - g(x)}{h} = f(x)$$
 
 ## 5.4: Indefinite Integrals and the Net Change Theorem
 
-**Antiderivative Rules**
-
 $$\int 0 \: dx = C$$
 
 $$\int cf\left(x\right)\: dx=c\int f\left(x\right)dx$$
