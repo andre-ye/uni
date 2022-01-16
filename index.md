@@ -6,7 +6,7 @@ description: "Notes from classes, research, speeches, student organizations, and
 permalink: /
 ---
 
-# Uni Notes - Test. Why doesn't this show up?
+# Uni Notes
 {: .fs-9 }
 
 Notes from classes, research, speeches, student organizations, and more from the University of Washington (from a 4.0 CGPA student!).
