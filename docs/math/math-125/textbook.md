@@ -54,7 +54,90 @@ $$\int_a^b f(x) dx = \lim_{n\to\infty} \sum^n_{i = 1} f(x_i^*} \Delta x$$
 ---
 
 ## 5.3: The Fundamental Theorem of Calculus
+- Establishes a connection between differential and integral calculus. 
 
+**Part 1**
 
+> If $$f$$ is continuous on $$[a, b]$$, then the function $$g$$ defined by $$g(x) = \int_a^x f(t) dt$$ with $$a \le x \le b$$ is continuous on $$[a, b]$$, and differentiable on $$(a, b)$$, then $$g'(x) = f(x)$$.
 
+> In other words, the derivative of a definite integral with respect to its upper limit is the integrand evaluated at the upper limit.
 
+> Alternatively, $$\frac{d}{dx} \int_a^x f(t) dt = f(x)$$.
+
+Proving Part 1:
+
+1. If $$x$$ and $$x+h$$ are in the range $$(a, b)$$, then we have
+
+$$g(x + h) - g(x) = \int_a^{x+h} f(t) dt - \int_a^x f(t) dt = \int_x^{x+h} f(t) dt$$
+
+2. For $$h\neq$$ 0, we have
+
+$$\frac{g(x+h) - g(x)}{h} = \frac{1}{h} \int_x^{x+h} f(t) dt$$.
+
+3. Assume $$h > 0$$. Let $$m$$ and $$M$$ be the absolute minimum and maximum values of $$f$$ on $$[x, x+h]$$. We have
+
+$$mh \le \int_x^{x+h} f(t) dt \le Mh$$
+
+4. Consider two numbers $$u$$ and $$v$$ such that $$f(u) = m$$ and $$f(v) = M$$. The inequality can be rewritten as
+
+$$f(u) h \le \int_x^{x+h} f(t) dt) \le f(v) h$$
+
+5. Dividing by $$h$$ yields
+
+$$f(u) \le \frac{1}{h} \int_x^{x+h} f(t) dt \le f(v)$$
+
+6. From statement 2, we can replace the middle expression in the inequality: 
+
+$$f(u) \le \frac{g(x+h) - g(x)}{h} \le f(v)$$
+
+7. Let us take the limit as $$h \to 0$$. Since $$u$$ and $$v$$ lie between $$x$$ and $$x+h$$, $$u\to x$$ and $$v\to x$$.
+
+$$\lim_{h\to 0} f(u) = \lim_{u\to x} f(u) = f(x) \text{ and } \lim_{h\to 0} f(v) = \lim_{v\to x} f(u) = f(x)$$
+
+8. From the squeeze theorem, we can conclude that
+
+$$g'(x) = \lim_{h\to 0} \frac{g(x+h) - g(x)}{h} = f(x)$$
+
+**Part 2**
+
+> If $$f$$ is continuous on $$[a, b]$$, then $$\int_a^b f(x) dx = F(b) - F(a)$$ where $$F$$ is any antiderivaitve of $$f$$ (i.e. a function such that $$F' = f$$).
+
+---
+
+## 5.4: Indefinite Integrals and the Net Change Theorem
+
+**Antiderivative Rules**
+
+$$\int 0 \: dx = C$$
+
+$$\int cf\left(x\right)\: dx=c\int f\left(x\right)dx$$
+
+$$\int x^n\: dx=\frac{x^{n+1}}{n+1}+C\left(n\ne -1\right)$$
+
+$$\int e^x\: dx=e^x+C$$
+
+$$\int \sin x\:dx=-\cos x+C$$
+
+$$\int \sec ^2x\:dx=\tan x+C$$
+
+$$\int \sec x\:\tan x\:dx=\sec x+C$$
+
+$$\int \frac{1}{x^2+1}\:dx=\tan ^{-1}x+C$$
+
+$$\int \sinh x\:dx=\cosh x+C$$
+
+$$\int \left[f\left(x\right)+g\left(x\right)\right]\:dx=\int f\left(x\right)dx+\int g\left(x\right)dx$$
+
+$$\int \frac{1}{x}\:dx=\ln \left|x\right|+C$$
+
+$$\int b^xdx=\frac{b^x}{\ln b}+C$$
+
+$$\int \cos x\:dx=\sin x+C$$
+
+$$\int \csc ^2x\:dx=-\cot x+C$$
+
+$$\int \csc x\cot x\:dx=-\csc x+C$$
+
+$$\int \frac{1}{\sqrt{1-x^2}}\:dx=\sin ^{-1}x+C$$
+
+$$\int \cosh x\:dx=\sinh x+C$$
