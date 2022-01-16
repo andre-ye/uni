@@ -21,4 +21,6 @@ Project Supervisor: David Smerkous
 Active: March 2020 - Present
 {: .label .label-purple}
 
-[Content]
+I work on building deep learning models for the semantic segmentation of cell features. With my project manager, David Smerkous, we have developed a host of interesting and successful deep learning modeling techniques.
+
+> We will be presenting at the UW Undergrad Research Symposium.
