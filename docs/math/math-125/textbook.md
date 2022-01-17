@@ -29,7 +29,7 @@ $$\lim_{n\to\infty} \sum^n_{i = 1} f(x_i^*} \Delta x = \lim_{n\to\infty} \left[f
 
 - The definite integral of $$f$$ from $$a$$ to $$b$$ is
 
-$$\int_a^b f(x) dx = \lim_{n\to\infty} \sum^n_{i = 1} f(x_i^*} \Delta x$$
+$$\int_a^b f(x) dx = \lim_{n\to\infty} \sum^n_{i = 1} f(x_i} \Delta x$$
 
 **Precise meaning of a limit that defines the integral.**
 
@@ -72,7 +72,7 @@ $$g(x + h) - g(x) = \int_a^{x+h} f(t) dt - \int_a^x f(t) dt = \int_x^{x+h} f(t) 
 
 For $$h\neq$$ 0, we have
 
-$$\frac{g(x+h) - g(x)}{h} = \frac{1}{h} \int_x^{x+h} f(t) dt$$.
+$$\frac{g(x+h) - g(x)}{h} = \frac{1}{h} \int_x^{x+h} f(t) dt$$
 
 Assume $$h > 0$$. Let $$m$$ and $$M$$ be the absolute minimum and maximum values of $$f$$ on $$[x, x+h]$$. We have
 
