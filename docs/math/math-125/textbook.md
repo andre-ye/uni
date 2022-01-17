@@ -132,6 +132,8 @@ $$\int b^xdx=\frac{b^x}{\ln b}+C$$
 
 $$\int \cos x\:dx=\sin x+C$$
 
+$$\int \tan x\: dx = \ln \| \cos x \| + C$$
+
 $$\int \csc ^2x\:dx=-\cot x+C$$
 
 $$\int \csc x\cot x\:dx=-\csc x+C$$
