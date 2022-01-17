@@ -55,6 +55,12 @@ Access [here](https://ieeexplore.ieee.org/document/7405343){:target="_blank"}
 
 ---
 
+## The Risk of Racial Bias in Hate Speech Detection
+
+Access [here](https://homes.cs.washington.edu/~msap/pdfs/sap2019risk.pdf){:target="_blank"}
+
+---
+
 ## Learning from Crowds in the Presence of Schools of Thought
 Yuandong Tian (Carnegie Mellon) and Jun Zhu (Tsinghua).
 
