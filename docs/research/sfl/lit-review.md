@@ -16,6 +16,12 @@ Notes from relevant papers reviewed or cited for research.
 ---
 
 ## Navigation
+* [Navigation](#navigation)
+* [Learning from Disagreement: A Survey](#learning-from-disagreement--a-survey)
+* [Learning Supervised Topic Models for Classification and Regression from Crowds](#learning-supervised-topic-models-for-classification-and-regression-from-crowds)
+* [Who Said What: Modeling Individual Labelers Improves Classification](#who-said-what--modeling-individual-labelers-improves-classification)
+* [AggNet: Deep Learning from Crowds for Mitosis Detection in Breast Cancer Histology Images](#aggnet--deep-learning-from-crowds-for-mitosis-detection-in-breast-cancer-histology-images)
+* [Learning from Crowds in the Presence of Schools of Thought](#learning-from-crowds-in-the-presence-of-schools-of-thought)
 
 ---
 
