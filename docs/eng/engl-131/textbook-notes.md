@@ -31,3 +31,24 @@ ENGL 131
 - Who is your audience?
 - Venue - places where your writing is situated.
 - Assessing your audience: demographics, who the audience excludes, preferences, biases, rhetorical appeals
+
+---
+
+## Chapter 3: Enhancing Genre Awareness
+- Understanding the context of writing has many facits.
+- You must determine and anlayze your context to make choices necessarily to effectively communicate.
+- Genre awareness - a keen sense of expectations of your writing situations.
+- You are navigating genre expectations every day.
+- Genre analysis - a tool to help promote genre awareness and allow learning the conventrions of new writing situations and contexts.
+- Steps to genre analysis
+  1. Collect samples of the genre
+  2. Describe the rhetorical situation of the genre
+  3. Identify the patterns of the genre
+  4. Analyze the meaning of the patterns
+- Genre analysis to genre production
+
+
+
+
+
+
