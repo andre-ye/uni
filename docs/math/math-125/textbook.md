@@ -100,7 +100,7 @@ $$g'(x) = \lim_{h\to 0} \frac{g(x+h) - g(x)}{h} = f(x)$$
 
 **Part 2**
 
-> If $$f$$ is continuous on $$[a, b]$$, then $$\int_a^b f(x) dx = F(b) - F(a)$$ where $$F$$ is any antiderivaitve of $$f$$ (i.e. a function such that $$F' = f$$).
+> If $$f$$ is continuous on $$[a, b]$$, then $$\int_a^b f(x) dx = F(b) - F(a)$$ where $$F$$ is any antiderivative of $$f$$ (i.e. a function such that $$F' = f$$).
 
 ---
 
@@ -139,3 +139,13 @@ $$\int \csc x\cot x\:dx=-\csc x+C$$
 $$\int \frac{1}{\sqrt{1-x^2}}\:dx=\sin ^{-1}x+C$$
 
 $$\int \cosh x\:dx=\sinh x+C$$
+
+---
+
+## 5.5: The Substitution Rule
+- Let $$u$$ be some quantity; we integrate with respect to $$du$$ instead of $$dx$$.
+- If $$u = f(x)$$, then $$du = f'(x) dx$$.
+- The substitution method works whenever we have an integral in the form $$f(g(x)) g'(x) dx$$.
+
+**Substitution Rule**
+> If $$u = g(x)$$ is a differentiable function whose range is an interval $$I$$ and $$f$$ is continuous $$I$$, then $$\int f(g(x)) g'(x) dx = \int f(u) du$$.
