@@ -46,12 +46,85 @@ Melody Guan (Stanford), Varun Gulshan (Google Brain), Andrew M. Dai (Google Brai
 
 Access [here](https://arxiv.org/pdf/1703.08774.pdf){:target="_blank"}
 
+**Introduction**
+- Neural networks would ideally perform better than human experts because training labels are often unreliable; poor agreement between different experts.
+- Main contribution: there are significantly better ways to use the opinions of multiple experts than to use the expert consensus or define a probability distribution.
+
+**Beating the Teacher**
+- MNIST dataset, testing out the performance of the model on validation dataset given a probability that the training labels are randomly switched to one of the other 9 classes. The model is actually very robust; until a certain point where the neural network does not "get the point".
+
+![image](https://user-images.githubusercontent.com/73039742/149873774-4b2928e0-d88c-4df1-8652-3da2a5dc0c21.png)
+
+- How many noisily labeled training examples are worth a correctly labeled training example?
+
+**Methods**
+- There is more information in particular labels proposed by particular annotators than is captured by simply taking the average of all doctors who have labeled an image and treating the distribution as correct.
+- Instead of using a single softmax, uses as many $$K$$-way softmaxes as there are doctors; do not backpropagate error from softmaxes used to model doctors that did not annotate a sample.
+- Weights for averaging doctor models should possibly be image-dependent.
+
+![image](https://user-images.githubusercontent.com/73039742/149873585-9f015410-3fe6-4599-b572-6fec35368e98.png)
+
+![image](https://user-images.githubusercontent.com/73039742/149876001-6ffe6707-0835-4b38-ac83-dd26233ed156.png)
+
+**Results**
+- Training with multi-class loss beats training with binary loss, *even on binary metrics*.
+- Averaging modeled annotators beats modeling the average annotator. This makes sense intuitively; averaging is a reductive operation and ideally reductive operations should be performed at the end of a pipeline for maximum information retention.
+- Learning averaging weights helps.
+
+
 ---
 
 ## AggNet: Deep Learning from Crowds for Mitosis Detection in Breast Cancer Histology Images
 Shadi Albarqouni, Christoph Baur, Felix Achilles, Vasileios Belagiannis, et al.
 
 Access [here](https://ieeexplore.ieee.org/document/7405343){:target="_blank"}
+
+**Introduction**
+- Crowdsourcing is a type of participative online activity in which multiple individuals of varying knowledge and heterogeneity undertake a task.
+- Medical domain - crowdsourcing presented as a solution to lack of publicly available ground-truth data.
+- Surprisingly, a crowd of non-professional, inexperienced users do not underperform medical exeprts.
+- Redundnacy and Aggregation (R&A) via majority voitng.
+- Questions:
+  - Can deep CNNs be trained with data collected from crowdsourcing and is it robust against noisy labels?
+  - How can CNNs be adapted when we have both the ground-truth label and multipel annotations that can potentially be noisy?
+  - How is the accuracy compared to that obtained by ground truth or majority voting?
+- AggNet - novel aggregation layer integrated into a multi-scale CNN.
+
+![image](https://user-images.githubusercontent.com/73039742/149872737-a3a138d4-7d4e-43bd-9e51-41e20dda22e5.png)
+
+*Fig 1 from paper. (1) the multi-scale CNN model is trained from gold-standard annotations. (2) then for any incoming unlabelled image, (3) the aggnet will produce a response map which is thresholded at selected optimal operating point. (4) these few resulting positive candidates are outsourced to crowds. (5) aggnet collects back the crowd votes and jointly aggregates the ground truth and refine the CNN model.*
+
+**Methodology**
+- Learning from crowd annotations exposes the presence of multiple different labels for the same sample.
+
+![image](https://user-images.githubusercontent.com/73039742/149872835-0bdba726-759d-4695-ab99-47cb15cc1c71.png)
+
+*AggNet architecture*
+
+- The input image is downsampled into different scales.
+- Patches are collected and passed into the model.
+- The model is applied to augmented inputs and a final detection map is produced.
+- Aggregation Layer: aggregate the ground truth from the crowdvotes matrix, compute sensitivity and specificity of each annotator, jointly learn the classifier.
+- Use Expectation-Maximization algorithm
+
+**Results**
+Validated on MICCAI-AMIDA13 challenge dataset
+
+![image](https://user-images.githubusercontent.com/73039742/149873254-0e828a94-aa06-4526-9158-70cf22ef5c23.png)
+
+![image](https://user-images.githubusercontent.com/73039742/149873271-d0df0a1a-7381-4473-853a-3b5b972a17f2.png)
+
+**Discussion**
+
+- AggNet is robust to noisy labels and positive influences the performance of the CNN.
+- Is it possible to learn from crowdsourced labels alone? Poor overall agreement among participatns and missing annotations renders aggregation and training impossible.
+- Learn instead from expert labels with a wide but noisy crowd.
+
+**Personal Notes**
+- Applied to expert annotation tasks with theoretical (somewhat) golden standard
+- Models on an annotator-by-annotator basis like many other approaches
+- Pretty mathematically involved approach
+- Slightly improves CNN performance, bigger gain seems to be information about annotator trustworthiness and quality.
 
 ---
 
