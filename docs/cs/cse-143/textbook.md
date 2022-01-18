@@ -252,6 +252,29 @@ public class customComparator implements Comparator<E> {
 Arrays.sort(array, new customComparator());
 ```
 
+### 13.2: Program Complexity
+- We want algorithms that can solve problems quickly and efficiently.
+- Complexity - techncial term for an algorithm's runtime.
+- Time complexity - dependent on the task.
+- Empirical algorithm analysis - actually timing program outputs.
+  - Not necessarily reliable because of varying processor speed and memory, etc.
+- Instead, examine code or pseudocode and roughly cout the statements executed. Mathematically approximate the performance of applying techniques.
+- Use loops as a multiplier or exponential
+- It's important to create algorithms that don't loop over data unnecessarily.
+- Drop the least 'important' or 'significant' term in complexity analysis.
+
+*Complexity class*
+
+| Name | Notation | Examples |
+| --- | --- | --- |
+| Constant | $$O(1)$$ | Don't depend on input size. Numerical functions. |
+| Logarithmic | $$O(\log N)$$ | Divide the problem space by a certain proportion repeatedly until the problem is solved. Binary search |
+| Linear | $$O(N)$$ | Algorithms process each element of the data. Count, sum, average, maximum. |
+| Log-Linear | $$O(N \log N)$$ | A combination of logarithmic and lienar operations. Merge sort |
+| Quadratic | $$O(N^2)$$ | Runtimes proportional to the square of the input size. Programs that construct a matrix from a one-dimensional array. |
+| Cubic | $$O(N^3)$$ | Runtimes proportional to the cube of the input size. Make triply nested passes over the data. |
+| Exponential | $$O(2^N)$$ | If the input siz increases by one, the lagorithm will take roughly twice as long. Print power set of a dataset. |
+
 ---
 
 ## Chapter 14: Stacks and Queues
