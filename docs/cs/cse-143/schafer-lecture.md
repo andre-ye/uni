@@ -81,7 +81,19 @@ public ArrayIntList(int capacity) {
 ---
 
 ## Lecture 6: LinkedList Nodes
-...
+- Assymetry: left-hand side is variable, right-hand side is field. We evaluate the field, find what is inside the box. The left side is the box.
+
+```java
+list1.next = list2.next;
+```
+
+----
+
+## Lecture 7: LinkedIntLists and Loops
+- Implementing list-like operations, like adding and removing.
+- To traverse a list, we make a new reference. `ListNode curr = list;` is not creating a new `ListNode`.
+- Encapsulate ListNodes so the client does not need to think about it.
+- To add elements to a list: go to the very end of the list and add a new node.
 
 ---
 
