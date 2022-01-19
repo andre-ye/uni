@@ -298,6 +298,11 @@ public interface IntList {
 - Garbage collector - looks for stray references that are unreachable; memory space is reclaimed.
 - If you want to keep part of a list, you need to create a temporary variable to store it.
 - Temporary variables are not nodes - they are references to actual nodes.
+- Understand comparison between `current.next != null` and `current != null`
+- Make sure to check for edge cases - null or low-element list
+
+
+
 
 
 
