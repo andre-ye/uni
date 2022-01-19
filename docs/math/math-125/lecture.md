@@ -229,8 +229,8 @@ You may choose not to take the exam and replace your midterm 1 grade with the av
 - Given a question like *find the area bounded between the parabola $$y = x^2$$ and the line $$y = x+2$$*, you need to find the intersections yourself (i.e. by finding the solutions to $$x^2 = x+2$$).
 - Sometimes, you need to separate the area into several pieces. e.g. *Find the total area between $$y = x^3 - x$$ and $$y = x$$.* Find the points of intersection, but you cannot simply integrate over the entire range. Which function tops and which function bottoms switches throughout the interval (i.e. you have vers functions). Separate into intervals where one function consistently tops the other and add ares.
 - Total area generally means absolute value.
-
-
+- Sometimes, it is easier to measure *horizontal strips*; we integrate over $$y$$.
+ - e.g. Find the area between $$x = y^2 - 1$$ and $$x = -2y^2 + 2$$.
 
 
 
