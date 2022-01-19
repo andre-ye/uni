@@ -34,10 +34,52 @@ Access [here](https://www.jair.org/index.php/jair/article/view/12752/26751){:tar
 
 ---
 
+## The Risk of Racial Bias in Hate Speech Detection
+Maarten Sap, Dallas Card, Saadia Gabriel, Yejin Choi, NOah A. Smith.
+
+Access [here](https://homes.cs.washington.edu/~msap/pdfs/sap2019risk.pdf){:target="_blank"}
+
+- Annotator insensitivity to differences in dialect can lead to racial bias in automatic hate speech detection models.
+- Models acquire biases in toxicity datasets.
+
+**Perosnal Notes**
+- The authors propose 'dialect and race priming' in annotation to show that annotators are significantly less likely to label a tweet as offensive when presented with the tweeter's dialect.
+- Is this problematic?
+  - People are not judging by what they think is offensive, they are now judging how they think other people may find a tweet offensive. That may be more dangerous. 
+  - What if you want a model that goes by certain standards/practices?
+  - The authors note that reclaimed language (e.g. 'queer', n-word) are used by communities to describe themselves but are unacceptable when an outsider is saying them. Does the user's race/sexuality need to be built into the model now? HOw does one quantify or demarcate these ideas when other scholarship suggests they are continuous or entirely discretized?
+- How are the authors getting ground truth labels to measure bias when toxicity is subjective?
+
+---
+
 ## Learning Supervised Topic Models for Classification and Regression from Crowds
 Filipe Rodrigues, Mariana Lourenco, Bernardete Ribeiro, Francisco C. Pereira.
 
 Access [here](https://arxiv.org/pdf/1808.05902.pdf){:target="_blank"}
+
+**Introduction**
+- Topic models like LDA allow us to analyze large collections of documetns by revealing their underlying themes.
+- Topic models are a standard tool in data analysis.
+- Documents are frequently associated with variables like labels, tags, or ratings. Supervised topic models jointly learn topic distributions and a classication or regression model.
+- Supervised topic models require human labeled data.
+- Quality od labels can vary significnalty due to task subjectivity and differences in annotator reliability or bias.
+- Subjectiveness of an exercise is prone to generate distinct labels from different annotators.
+- Propose a fully generative supervised topic model that is able to *account for different annotator reliabilities and account for biases.*
+
+**State of the Art**
+- LDA is a powerful tool for modeling documents and images by extracting underlying topics.
+- sLDA includes a response variable that is linearly dependent on the mean topic assignments of words in a document.
+- Learning from multiple annotators is becoming increasingly important.
+- Learning classifiers from multi-annotator data.
+
+**Classification Model**
+- Batch variational inference algorithm - approximate the posterior distribution across latentt variables.
+
+**Personal Thoughts and Notes**
+- Very mathematically involved approach.
+- Relies upon existence of a gold truth.
+- In many cases we are not necessarily modeling something that is the truth.
+- Don't know about prediction in very high prediction settings.
 
 ---
 
