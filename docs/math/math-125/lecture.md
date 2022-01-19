@@ -217,12 +217,18 @@ Take $$\frac{d}{dx} \sin \left(x^2 \right) = \cos (x^2) \cdot \frac{d}{dx} x^2 =
 - Choosing the best value of $$u$$ is a bit of an art.
 
 
+---
 
+## Week 3 Wednesday - Area Between Curves
+The first midterm will be in person on Thursday, January 27th. It will cover content through section 6.2.
 
+You may choose not to take the exam and replace your midterm 1 grade with the average of your Midterm 2 and Final.
 
-
-
-
+- Any problem that requires splitting into several small pieces and adding them up can be likely solved with integrals.
+- Consider an area that lies between two curves $$f(x)$$ and $$g(x)$$ in the interval $$[a, b]$$. The area of the region is $$\int_a^b f(x) - g(x) dx$$. (Relatively straightforward but only for straight-sided.)
+- Given a question like *find the area bounded between the parabola $$y = x^2$$ and the line $$y = x+2$$*, you need to find the intersections yourself (i.e. by finding the solutions to $$x^2 = x+2$$).
+- Sometimes, you need to separate the area into several pieces. e.g. *Find the total area between $$y = x^3 - x$$ and $$y = x$$.* Find the points of intersection, but you cannot simply integrate over the entire range. Which function tops and which function bottoms switches throughout the interval (i.e. you have vers functions). Separate into intervals where one function consistently tops the other and add ares.
+- Total area generally means absolute value.
 
 
 
