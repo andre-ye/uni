@@ -205,6 +205,29 @@ public static boolean hasDuplicates(List<Integer> list) {
 
 - Set operations modify existing sets rather than creating new ones.
 
+### 11.3: Maps
+- In many data processing tasks, we want to link pairs of objects.
+- A map is a collection that allows you to create one-way associations between pairs of objects.
+- A map is a collection that associates keys with values.
+- A key can map to only one value, but multiple keys can map to the same value.
+- `HashMap` and `TreeMap` - maps and sets have similar internal implementations.
+  - `HashMap` is a more general purpose map
+  - `TreeMap` stores comparable keys in sorted order
+- Map constructed with two type parameters separated by a comma - type of keys and values.
+
+```
+Map <String, Double> salaryMap = new HashMap<String, Double>();
+salaryMap.put("Bobess", 6.0);
+salaryMap.put("Aliceski von Aliski", 12.0);
+```
+
+- Look up values using `.get(key)`.
+- You can use `.containsKey(key)` to check if a key is present in the salary map.
+- `keySet()` returns a `Set` of all keys in the map
+- `values()` returns a `Collection` of all values in the map
+
+Map views (page 1135)
+
 ---
 
 ## Chapter 13: Searching and Sorting
