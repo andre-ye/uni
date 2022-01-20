@@ -97,3 +97,15 @@ list1.next = list2.next;
 
 ---
 
+## Lecture 8: Advanced LinkedIntList
+- Especially when writing Linked List code, think about edge cases and try to break your code.
+- You can simplify your code, but focus on reducing objects, not necessarily variables/references
+- To change, we need to stop one before and use `curr.next != null` as condition.
+
+
+
+
+
+
+
+
