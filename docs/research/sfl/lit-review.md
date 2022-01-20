@@ -113,6 +113,13 @@ Access [here](https://arxiv.org/pdf/1703.08774.pdf){:target="_blank"}
 - Averaging modeled annotators beats modeling the average annotator. This makes sense intuitively; averaging is a reductive operation and ideally reductive operations should be performed at the end of a pipeline for maximum information retention.
 - Learning averaging weights helps.
 
+---
+
+## Deep Learning From Crowds
+Filipe Rodrigues, Francisco C. Pereira.
+
+Access [here](https://arxiv.org/pdf/1709.01779.pdf){:target="_blank"}.
+
 
 ---
 
