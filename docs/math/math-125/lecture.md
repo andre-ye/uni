@@ -232,7 +232,19 @@ You may choose not to take the exam and replace your midterm 1 grade with the av
 - Sometimes, it is easier to measure *horizontal strips*; we integrate over $$y$$.
  - e.g. Find the area between $$x = y^2 - 1$$ and $$x = -2y^2 + 2$$.
 
+---
 
+## Week 3 Friday - Volume
+- Use integration to compute volumes.
+- To compute area, we find the volume of each slice. To compute volume, we cut into cross-sections and sum each up.
+- Compute the area of each slice and add the areas together.
+
+$$\text{Volume of a slice at } x \approx A(x) \cdot \Delta x$$
+
+- Express as a limit of a Riemann sum.
+- Volume is $$\int_a^b A(x) dx$$, where $$A$$ is the area of a cross-section at $$x$$.
+
+> Example: Find the volume of a sphere of radius $$r$$. We know that the radius is $$r$$, meaning that the distance between any point on the surface and the center is $$r$$. We have the radius of a cross section at $$x$$ as $$\sqrt{r^2 - x^2}$$. The area is $$A(x) = \pi (r^2 - x^2)$$. To find the volume, we integrate $$\int_{-r}^r \pi(r^2 - x^2) dx = \int_{-r}^r \pi r^2 - \pi x^2 dx = \pi r^2 x - \frac{pi}{3} x^3 \|_{-r}^r$$.
 
 
 
