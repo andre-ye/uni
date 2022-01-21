@@ -143,10 +143,11 @@ Access [here](https://arxiv.org/pdf/1709.01779.pdf){:target="_blank"}.
 - Crowd layer takes in an input what would normally be the output of the neural network and learns an annotator-specific mapping. Output layer becomes a bottleneck layer shared by different annotators.
 - The crow dlayer adjusts gradients coming from the labels of the annotator and adjusts their bias.
 - Bottleneck layer aggregates and adjusts; accounts for unreliable annotators and corrects systematic biases in labeling.
+- The crowd layer may need to be initialized with specific qualities.
 
 **Personal Thoughts**
 - Focus on distinguishing annotator 'reliability', trustworthiness.
-- The connection between a shared output and the specific mapping is very shallow, narrow. May not be sufficient to capture difficult datasets with significant disagreement.   
+- The connection between a shared output and the specific mapping is very shallow, narrow. May not be sufficient to capture difficult datasets with significant disagreement. Authors note overparametrization can damage presence of a ground truth. 
 
 
 
