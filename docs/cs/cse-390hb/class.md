@@ -34,3 +34,7 @@ Concepts
 ---
 
 ## Week 3
+- Concepts of race and class, prioritization/ranking of identity vs symbiosis/intersection of identity
+- What makes humans unique? Passing down information from one generation to another
+- Competition of memetic material
+- Crossing of genetic evolution ('hardware', Turing machine) to memetic cultural evolution ('software', Universal Turing Machine).
