@@ -302,8 +302,31 @@ public interface IntList {
 - Make sure to check for edge cases - null or low-element list
 
 
+---
 
+## Week 3 Friday - 
+- Constructing a linked list with elements.
+- Differentiating temperaroy/reference variables from actual nodes.
+- Writing a loop to traverse the Linked List.
 
+```java
+for (int i = 0; i <= n; i++) {
+  front = new ListNode(i, front);
+}
+```
+
+- Write a `public void` method called `addSorted` that takes in a value and inserts it into a sorted linked list such that the sorted characteristic is maintained.
+- Requires a `.next` lookahead method.
+- Think about possible cases in which we run into `null`.
+- Short-circuit evaluation on boolean expressions. If `x` is `false` in the expression `x && y`, then `y` is not evaluated.
+- Robust test first, sensitive test second
+- Handle all cases - front, end, middle, empty list.
+- Inchworm technique - have two pointers.
+
+```java
+prev = current;
+current = current.next;
+```
 
 
 
