@@ -120,6 +120,35 @@ Filipe Rodrigues, Francisco C. Pereira.
 
 Access [here](https://arxiv.org/pdf/1709.01779.pdf){:target="_blank"}.
 
+**Introduction**
+- Labeled data is challenging to obtain
+- Crowdsourcing provides a solution to obtain labeled data for human-like tasks
+- Modern data-savvy methods are capable of handling crowdsourced data.
+- Noise associated with labels can compromise applications.
+- Attempting to mitigate the effects of noise and biases in heterogenous sources of data.
+- Often, approaches with multiple annotators aggregfate data before training.
+- This paper highlights the limitations of Expectation Maximization (EM) algorithms for learning from crowds and proposes a crowd layer. This allows neural networks to be trained end to end using noisy labels with backpropagation.
+- Automatically distinguishes good from bad annotators to capture individual biases.
+- Obtains superior performance on datasets via the crowd layer
+
+**Related Work**
+- Label aggregfawtion mechanisms are generally suboptimal compared to approaches that jointly learn the classifier.
+- Albarqouni et al. proposed AggNet.
+- Guan et al. propose modeling the outputs of individual annotators, then learning specific combinations of outputs based on the inputs.
+  - No EM algorithm is required to estimate annotator weights.
+  - Proposed approach has the ability to *correct* biases. 
+
+**Crowd Layer**
+- Special type of network layer that directly allows the training of a deep neural network on noisy labels with multiple annotators.
+- Crowd layer takes in an input what would normally be the output of the neural network and learns an annotator-specific mapping. Output layer becomes a bottleneck layer shared by different annotators.
+- The crow dlayer adjusts gradients coming from the labels of the annotator and adjusts their bias.
+- Bottleneck layer aggregates and adjusts; accounts for unreliable annotators and corrects systematic biases in labeling.
+
+**Personal Thoughts**
+- Focus on distinguishing annotator 'reliability', trustworthiness.
+- The connection between a shared output and the specific mapping is very shallow, narrow. May not be sufficient to capture difficult datasets with significant disagreement.   
+
+
 
 ---
 
