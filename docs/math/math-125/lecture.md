@@ -246,6 +246,13 @@ $$\text{Volume of a slice at } x \approx A(x) \cdot \Delta x$$
 
 > Example: Find the volume of a sphere of radius $$r$$. We know that the radius is $$r$$, meaning that the distance between any point on the surface and the center is $$r$$. We have the radius of a cross section at $$x$$ as $$\sqrt{r^2 - x^2}$$. The area is $$A(x) = \pi (r^2 - x^2)$$. To find the volume, we integrate $$\int_{-r}^r \pi(r^2 - x^2) dx = \int_{-r}^r \pi r^2 - \pi x^2 dx = \pi r^2 x - \frac{pi}{3} x^3 \|_{-r}^r$$.
 
+> Example: Find the volume of a square pyramid whose base is $$L \times L$$ and whose height is $$h$$. The area for a certain height $$h$$ is $$\frac{l}{L} = \frac{z}{h} \to A(z) = \frac{L^2 z^2}{h^2}$$. The volume is thus given by $$\int_0^h \frac{L^2 z^2}{h^2} dz = \frac{L^2}{h^2} \cdot \frac{z^3}{3} \|^h_0 = \frac{1}{3} L^2 h$$.
+
+- A common type of solid is a solid of revolution forme dby rotating a region around an axis.
+- Use the 'washer method' to compute the area.
+
+> Example: Find the volume of a solid formed by rotating the region between $$y = x^2$$ and $$y = 4$$ about the $$y$$-axis. The area of a cross-section perpendicular to the $$y$$-axis is given by $$A(y) = \pi y$$. We obtain the volume by finding $$\int_0^4 \pi y dy$$.
+
 
 
 
