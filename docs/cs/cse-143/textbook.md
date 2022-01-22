@@ -226,7 +226,19 @@ salaryMap.put("Aliceski von Aliski", 12.0);
 - `keySet()` returns a `Set` of all keys in the map
 - `values()` returns a `Collection` of all values in the map
 
-Map views (page 1135)
+Map views
+- Maps don't have an `iterator` method. Maps have a pair of methods claled `keySet` and `values` instead, which return a `Set` of all keys in a map and a `Collection` of all values in the map.
+- Collection views of a map - each collection exists conceptually within the map.
+
+```java
+for (<type> item : map.keySet()) {
+  doSomething(item);
+}
+```
+
+- `EntrySet` returns key/value pairs.
+- `HashMap` is slightly faster than `TreeMap`, but keys are stored in somewhat haphazard order. `TreeMap` stores comparable data and performs operations slightly slower while keeping it in order.
+- `HashMap` is generally used over `TreeMap`.
 
 ---
 
