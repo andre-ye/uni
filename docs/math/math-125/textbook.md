@@ -148,6 +148,27 @@ $$\int \cosh x\:dx=\sinh x+C$$
 - Let $$u$$ be some quantity; we integrate with respect to $$du$$ instead of $$dx$$.
 - If $$u = f(x)$$, then $$du = f'(x) dx$$.
 - The substitution method works whenever we have an integral in the form $$f(g(x)) g'(x) dx$$.
+- Make sure to plug in $$x$$ instead of $$u$$ when evaluating definite integrals
 
 **Substitution Rule**
 > If $$u = g(x)$$ is a differentiable function whose range is an interval $$I$$ and $$f$$ is continuous $$I$$, then $$\int f(g(x)) g'(x) dx = \int f(u) du$$.
+
+---
+
+## 6.1: Area Between Curves
+- We use the Riemann sum logic and express the area in between curves as their vertical difference, i.e. the height of rectangles.
+
+> The area $$A$$ of the region bounded by the curves $$y = f(x)$$, $$y = g(x)$$, and the lines $$x = a$$, $$x=b$$, where $$f$$ and $$g$$ are continuous and $$f(x) \ge g(x)$$ for all $$x$$ in $$[a, b]$$ is $$A = \int_a^b [f(x) - g(x)] dx$$.
+
+- For some cases, you will need to separate the area into several components - when two curves intersect.
+- Sometimes, it is more convenient to integrate with respect to $$y$$.
+
+---
+
+## 6.2: Volumes
+- We can obtain a cross-section and sum the area of the cross-section across the length of the shape.
+
+> Let $$S$$ be a solid that lies between $$x=a$$ and $$x=b$$. If the cross-sectional area of $$S$$ in the plane $$p_x$$ (through $$x$$ and perpendicular to the $$x$$-axis$$) is $$A(x)$$, where $$A$$ is a continuous function, then the volume of $$S$$ is $$V = \lim_{n \to\infty} \sum^n_{i=1} A(x_i^\*) \Delta x = \int_a^b A(x) dx$$.
+
+- Solids of revolution are obtained by revolving a region about a line. You can calculate the cross-section either in the form of a disk $$A = \pi(\text{radius})^2$$ or as a washer $$A = \pi\left(\text{outer radius}^2 - \text{inner radius}^2\right)$$.
+- In some cases you need to use geometric relationships like similar triangles to obtain the cross-sectional area at $$x$$. 
