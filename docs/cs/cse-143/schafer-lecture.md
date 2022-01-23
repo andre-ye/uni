@@ -102,9 +102,16 @@ list1.next = list2.next;
 - You can simplify your code, but focus on reducing objects, not necessarily variables/references
 - To change, we need to stop one before and use `curr.next != null` as condition.
 
+---
 
-
-
+## Lecture 9: Binary Search and Complexity
+- Efficiency: measure of computing resources used by code. Can be relative to speed, memory, etc. 
+- We want to compare different algorithms to see which is more efficient.
+- Instead of running time experimentally/empirically by manually timing - a process which is heavily influenced by computing environment factors - we define efficiency as the number of operations run, assuming each operation runs for about the same amount of time.
+- Complexity class - a family of how algorithms grow together.
+- When measuring complexity, we drop all terms of lower complexity.
+- Report the worst possible complexity if there are multiple types.
+- Binary search - locate the target value in a sorted array or list by successively eliminating half of the array from consideration.
 
 
 
