@@ -76,3 +76,61 @@ Notes on the selected reading for the quarter, *Bad News: How Woke Media is Unde
 ---
 
 ## Chapter 2: A Respectability Counterrevolution
+- Not everyone was thrilled by the penny press revolution.
+- Many labeled the newspapers crass, indecent, an affront to good taste.
+- Pulitzer was accused of sensationalism.
+- The *World* was the poor's world, even as the rich sneered.
+- News is sensational - Pulitzer. Every story which is sensational in itself must also be truthful.
+- Sensationalism is a class concern clothed as a journalistic critique - protection of the elites from reckoning with the realities of lower-class life.
+- Henry Raymond began the *New York Times*.
+- Whig magnates turned to Raymond and raised money to start a well-funded journal.
+- Raymond placed borgeois respectability above all else.
+  - Subtle rebuke to penny pressed.
+- Proper and respectable; a monopoly on decency.
+- Raymondw as known for being able to see both sides of an argument.
+- The editorial page was kept weak.
+- The bourgeois politics of respectability was popular with the target audience. Emphasized journalistic virtue.
+- The *Times* was impartial on political issues but remained friendly to policies that benefitted their audience.
+- Adolph Ochs, the successor; Jews were cast out during the Gilded Age.
+  - Ochs wanted to be accepted. Obsessed with respectability.
+
+> It will be my earnest aim that THE NEW-YORK TIMES give the news, all the news, in concise and attractive form, in language that is parliamentary in good society, and give it as early, if not earlier, than it can be learned through any other reliable medium; to give the news impartially, without fear or favor, regardless of party, sect, or interests involved; to make the columns of THE NEW-YORK TIMES a forum for the consideration of all questions of public importance, and to that end to invite intelligent discussion from all shades of opinion.
+
+- Roadmap from class to taste to journalist virtue.
+- Attractive language for good society and intelligent discussion.
+- Marriage of class aspirations, signifiers of respectable taste, desire to avoid partisan identification.
+- Fundamental tension between different visions of journalism
+- Crafting elite readership
+- Dynamics about audience, originality
+- *The New Yorker* - not concerned with what poor and working-class New Yorkers were thinking about.
+- Due to a status revolution among journalists, this is the rule rather than the exception.
+
+---
+
+## Chapter 3: A Status Revolution
+- Until recently, journalists were not part of the American elite.
+- Reporters regarded themselves as working-class.
+- Status revolution - a degree was no longer a status symbol.
+- College education became a marker of class in American society.
+- The educational divide showed up quickly in politics.
+- Class markers like travel, food, wine, and art
+- New breed of reporter - highly educated and socially aspirational.
+- By 1980, American journalists tightened into an elite caste.
+- CHange in demographic breakdown; journalists were getting more liberal and less religious with every generation.
+- Journalists at national news outlets are generally homogenou - cosmopolitan in background, liberal in outlook. Elite in economic status, public perception, and social influence.
+- Reliance on initial middle to high class status in order to get into journalism.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
