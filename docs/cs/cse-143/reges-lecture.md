@@ -328,6 +328,22 @@ prev = current;
 current = current.next;
 ```
 
+---
+
+## Week 4 Monday - Binary Search and Complexity
+- Efficiency of the code you write.
+- Sometimes, people may develop an unhealthy obsession with efficiency.
+- Premature optimization is the root of all evil - Knuth.
+- Don't obssess about efficiency before code works.
+- There is no midterm question about this subject.
+- `n` is the *size of the problem. 
+- `indexOf` looks at all elements for a failed search.
+- Linear search - `O(n)`.
+- Binary search - eliminate the same proportion of the search space every iteration.
+- Big-O notation: how does the algorithm scale with `n`?
+- Complexity - resources required for a bit of code or an algorithm. Resource - time.
+- Profilers - can count which lines of code are executed most often
+- We care about what happens when `n` gets very large; we isolate deominant terms.
 
 
 
