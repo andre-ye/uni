@@ -253,11 +253,17 @@ $$\text{Volume of a slice at } x \approx A(x) \cdot \Delta x$$
 
 > Example: Find the volume of a solid formed by rotating the region between $$y = x^2$$ and $$y = 4$$ about the $$y$$-axis. The area of a cross-section perpendicular to the $$y$$-axis is given by $$A(y) = \pi y$$. We obtain the volume by finding $$\int_0^4 \pi y dy$$.
 
+---
 
+## Week 4 Monday - Cylindrical Shell Method
+- When we have items rotated around an axis, we can find disks perpendicular to the axis and integrate along that axis.
 
+> Example. Let $$R$$ be the region boudned by $$y = 0$$, $$y = x$$, and $$x^2 + y^2 = 9$$. What is the volume of the solid formed by rotating $$R$$ around the $$y$$-axis. We know $$x^2 + y^2 = 9$$, so we have $$x = \sqrt{9 - y^2}$$. We have the area of a disk at $$y$$ as $$\pi \left(9 - y^2 - y^2 \right)$$. Integrate this from $$0$$ to $$\sqrt{\frac{9}{2}}$$ (the intersection between $$x^2 + y^2$$ and $$y = x$$).
 
-
-
+- To find volumes using the disk or washer method, you need to find the limits of integration and ideally integrate slices perpendicular to the axis of revolution.
+- The cylindrical shells method allows us to compute volumes along the axis perpendicular to the axis of revolution.
+- We take cylindrical shells/tubes and 'unroll' each to yield a sheet with area $$2\pi r\cdot h \cdot \Delta r$$. The volume of the shell is approximately $$2\pi r \cdot h$$ given that $$\Delta r$$ is negligible.
+- One of the methods is sometimes easier to compute than the other.
 
 
 
