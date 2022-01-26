@@ -265,5 +265,21 @@ $$\text{Volume of a slice at } x \approx A(x) \cdot \Delta x$$
 - We take cylindrical shells/tubes and 'unroll' each to yield a sheet with area $$2\pi r\cdot h \cdot \Delta r$$. The volume of the shell is approximately $$2\pi r \cdot h$$ given that $$\Delta r$$ is negligible.
 - One of the methods is sometimes easier to compute than the other.
 
+---
+
+## Week 4 Wednesday - Midterm Review
+- What to know:
+ - Computing definite/indefinite integrals, including $$u$$-substitutions
+ - Interpretations of integrals as area or net/total change
+ - Approximating integrals with Riemann sums
+ - The Fundamental Theorem of Calculus, parts 1 and 2
+ - Finding areas using integration
+ - Finding volumes using the disk/washer method
+- Four questions
+- Out of 50 points
+
+
+
+
 
 
