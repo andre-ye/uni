@@ -345,5 +345,31 @@ current = current.next;
 - Profilers - can count which lines of code are executed most often
 - We care about what happens when `n` gets very large; we isolate deominant terms.
 
+---
+
+## Week 4 Wednesday - Maps
+- Abstract Data Types: lists, sets, stacks, queues, maps
+- Given a particular $$x$$, there is only one or no $$y$$.
+- Key value pairs. A key maps to a value.
+- Also known as a dictionary or an associative array.
+- `TreeMap` puts its keys in increasing order, like a `TreeSet`.
+- If you call `.put(k, v)` with the same key, the old value will be replaced.
+- Important to make a distinction between the first time you see something and when you see it later.
+- For map traversal, it is common to loop over the keys of the map rather than looping over the map itself.
+- Maps become more difficult when we have a multilevel structure: mapping to/from structures.
+
+```java
+public static void addTo(Map<String, Set<String>> friends,
+                         String name1, String name2) {
+  if (!friends.containsKey(name1)) {
+    Set<String> the Friends = new TreeSet<>();
+    friends.put(name1, theFriends);
+    theFriends.add(name2);
+  } else {
+    friends.get(name1).add(name2);
+  }
+}
+```
+
 
 
