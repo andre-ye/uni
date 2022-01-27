@@ -113,6 +113,11 @@ list1.next = list2.next;
 - Report the worst possible complexity if there are multiple types.
 - Binary search - locate the target value in a sorted array or list by successively eliminating half of the array from consideration.
 
+---
 
+## Lecture 10: Maps
+- `TreeMap` vs `HashMap`
+- `TreeMap` runs in `O(log N)`, `HashMap` runs in `O(1)`. `TreeMap` uses a linked binary tree, which allows for easy sorted storage.
+- `.put()`, `.get()`.
 
 
