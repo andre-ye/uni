@@ -371,5 +371,27 @@ public static void addTo(Map<String, Set<String>> friends,
 }
 ```
 
+---
+
+## Week 4 Friday - Maps Cont'd
+- Review of String processing
+  - `"" + char` turns a character into a `String`.
+
+```java
+if (!friends.containsKey(name1)) {
+  friends.put(name1, new TreeSet<>());
+}
+friends.get(name1).add(name2);
+```
+
+- Completing friends search program
+- Homework review - use a map to store different patterns and words that satisfy that program. 
+
+
+
+
+
+
+
 
 
