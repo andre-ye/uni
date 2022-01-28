@@ -38,3 +38,16 @@ Concepts
 - What makes humans unique? Passing down information from one generation to another
 - Competition of memetic material
 - Crossing of genetic evolution ('hardware', Turing machine) to memetic cultural evolution ('software', Universal Turing Machine).
+
+---
+
+## Week 4
+- Developments in mathematics: Russell, Cantor, Godel, Turing
+  - 1900 and the questions for the next century
+  - The Continuity Problem
+  - The Stability of Mathematics
+- Cantor and the diagonalization argument, different sizes of infinity (countable vs uncountable sets)
+- Understanding Reges' perspective in the Stanford drug incident
+  - How should drug use be characterized and regulated?
+- Interesting quasi-scandalous story of Reges, Peter Thiel, and homosexuality
+
