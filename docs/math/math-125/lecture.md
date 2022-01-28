@@ -278,6 +278,38 @@ $$\text{Volume of a slice at } x \approx A(x) \cdot \Delta x$$
 - Four questions
 - Out of 50 points
 
+---
+
+## Week 4 Friday - Work
+- Work is a concept from physics - roughly, "the amount of effort you need to put in to accomplish something"
+- Technical term: the energy transferred to an object by applying a force over a distance.
+- Defined in terms of a force and a distance.
+- By Newton's Second Law, force states that to cause a mass $$m$$ to accelerate by $$a$$, one has to apply a force $$F=ma$$.
+
+> Accelerating a 1 kg mass by 1 meter per second squared takes a force of 1 kg per meters squared, or 1 Newton. Common units of force: Newtons, or pounds.
+
+
+> If a constant force F is applied to an object over a distance $$d$$, the work performed is $$W = Fd$$. Common units of work are joules ($$1J = 1 N \cdot m) or foot-pounds (feet per lb).
+
+> Lifting a 10 pound weight by 5 feet requires doing 50 foot-pounds of work. Lifting a 2 kg mass of Earth (acceleration due to gravity is g = 9.8 metes per second squared) by 3 meters takes $$(2 kg \cdot 9.8 m/s^2) \cdot 3m = 58.8 N\cdot m$$.
+
+- If you are moving an object, the force exerted on the object may change.
+- The more you compress a spring, for instance, the greater the force required.
+- To find the total work function, we need to integrate across a changing force.
+- If the force is not constant, imagine cutting the total distance into small pieces of length, $$\Delta x$$.
+ - For each piece, we compute how much work is done.
+
+- Hooke's Law: the amount of force needed to stretch or compress a spring a distance $$x$$ past its natural length si proportional to $$x$$. $$F(x) = kx$$.
+
+> Example: Suppose a spring with 8 pounds of force applied to it stretches by half a foot. How much work is done if we stretch it by an additional foot?
+
+> First, we need to solve for $$k$$. $$8 = k \cdot 0.5 \implies k = 16$$. If the spring is stretched by $$x$$, then to stretch it by $$\Delta x$$ more requires $$16x \times \Delta x$$. The total work is $$\int_\frac{1}{2}^\frac{3}{2} 16x dx = 16 \text{ft-lb}$$.
+
+- If your object is spread out (not just a mass at a single point) like a rope, we can also imagine cutting the rope into individual pieces that is moved an approximate certain distance.
+
+
+
+
 
 
 
