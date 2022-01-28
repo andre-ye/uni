@@ -242,6 +242,33 @@ for (<type> item : map.keySet()) {
 
 ---
 
+## Chapter 12: Recursion
+
+### 12.1: Thinking Recursively
+- In classic iteration, actions are repeated via a loop.
+- In recursion, actions are repeated using a method that calls itself.
+- Instead of having one object work to count all entities, have each entity do a little part of the work and pass it on to the next piece.
+
+Simple program to print out a line ofs tars:
+```java
+public static void writeStars(int n) {
+  if (n == 0) {
+    System.out.println();
+  } else {
+    System.out.println("*");
+    writeStars(n-1);
+  }
+}
+```
+
+- Every recursive solution must have a base case and a recursive case.
+
+### 12.2: A Better Example of Recursion
+- Recursive programming - thinking about cases. What is the simplest file to reverse?
+- Think about the call stack - how elements are stacked, addressed, and removed.
+
+---
+
 ## Chapter 13: Searching and Sorting
 
 ### 13.1: Searching and Sorting in the Java Class Libraries
