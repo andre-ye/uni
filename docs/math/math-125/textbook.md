@@ -171,4 +171,36 @@ $$\int \cosh x\:dx=\sinh x+C$$
 > Let $$S$$ be a solid that lies between $$x=a$$ and $$x=b$$. If the cross-sectional area of $$S$$ in the plane $$p_x$$ (through $$x$$ and perpendicular to the $$x$$-axis$$) is $$A(x)$$, where $$A$$ is a continuous function, then the volume of $$S$$ is $$V = \lim_{n \to\infty} \sum^n_{i=1} A(x_i^\*) \Delta x = \int_a^b A(x) dx$$.
 
 - Solids of revolution are obtained by revolving a region about a line. You can calculate the cross-section either in the form of a disk $$A = \pi(\text{radius})^2$$ or as a washer $$A = \pi\left(\text{outer radius}^2 - \text{inner radius}^2\right)$$.
-- In some cases you need to use geometric relationships like similar triangles to obtain the cross-sectional area at $$x$$. 
+- In some cases you need to use geometric relationships like similar triangles to obtain the cross-sectional area at $$x$$.
+
+---
+
+## 6.3: Volumes by Cylindrical Shells
+- Some volume problems are hard to handle using the washer problem.
+- We consider the 'shell' of a cylinder summed up across the radius of the revolved solid:
+
+$$V = [\text{circumference}] [\text{height}] [\text{thickness}]$$
+
+> The volume of a solid obtained by rotating about the $$y$$-axis the region under the curve $$y = f(x)$$ from $$a$$ to $$b$$ is $$V = \int_a^b 2\pi xf(x) dx$$, where $$0 \le a < b$$.
+
+- When deciding which method to use when computing the volume of a solid of revolution, consider if the region is better described by the top and bottom boundary curves $$y = f(x)$$ or by left and right boundaries $$x = g(y)$$.
+
+---
+
+## 6.4: Work
+- If an object moves along a straight line with position $$s(t)$$, then the force $$F$$ on the object given its mass $$m$$ and acceleration $$a$$ is:
+
+$$F = ma = m \frac{d^2 s}{dt^2}$$
+
+- Mass is measured in kilograms, displacement in meters, time in seconds, and force in newtons ($$N = \text{kg} \cdot \text{m}/\text{s}^2$$.
+- Given constant acceleration, the force $$F$$ is constant and the work done is given by
+
+$$W = Fd (\text{work} = \text{force } \times \text{ distance})$$
+
+- When the force is variable, we approximate total work across a force function $$f$$ and selected Riemann points $$x_i^{\*}$$ as $$W \approx \sum^n_{i=1} f(x_i^{\*}) \Delta x$$. We take $$\lim_{n\to\infty}$$ of the sum and obtain $$\int_a^b f(x) dx$$.
+
+- Hooke's Law: the force required to maintain a spring stretched $$x$$ units beyond its natural length is proportional to $$x$$: $$f(x) = kx$$. $$k$$ is a positive constant called the spring constant. 
+
+
+
+
