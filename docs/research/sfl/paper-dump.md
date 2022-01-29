@@ -15,6 +15,7 @@ List of interesting papers, articles, and posts shared within the lab.
 
 ---
 
+- [Designing for Engaging with News using Moral Framing towards Bridging Ideological Divides](https://arxiv.org/pdf/2101.11231.pdf)
 - [Does the platform matter? Social media and COVID-19 conspiracy theory beliefs in 17 countries](https://www.nature.com/articles/s44159-021-00006-y){:target="_blank"}
 - [Documentation Matters: Human-Centered AI System to Assist Data Science Code Documentation in Computational Notebooks](https://dl.acm.org/doi/full/10.1145/3489465){:target="_blank"}
 - [Does the platform matter? Social media and COVID-19 conspiracy theory beliefs in 17 countries](https://journals.sagepub.com/doi/10.1177/14614448211045666){:target="_blank"}
