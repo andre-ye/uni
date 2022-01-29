@@ -120,4 +120,26 @@ list1.next = list2.next;
 - `TreeMap` runs in `O(log N)`, `HashMap` runs in `O(1)`. `TreeMap` uses a linked binary tree, which allows for easy sorted storage.
 - `.put()`, `.get()`.
 
+---
+
+## Lecture 11: More Maps
+- Reference semantics and modification elegance
+
+```java
+Set<String> s = friends.get("Taylor");
+s.add("Hunter");
+friends.put("Taylor", s);
+
+// can be written more elegantly as
+
+friends.get("Taylor").add("Hunter");
+```
+- Iteration over key/value pairs by iterating over the key set and reference associated value for each key.
+- Breadth-first search in graphs using self-referencing maps
+- Stopping infinite recursion with checks
+
+
+
+
+
 
