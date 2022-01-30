@@ -267,6 +267,46 @@ public static void writeStars(int n) {
 - Recursive programming - thinking about cases. What is the simplest file to reverse?
 - Think about the call stack - how elements are stacked, addressed, and removed.
 
+### 12.3: Recursive Functions and Data
+- Recursive functions can be used to iteratively compute a result.
+
+```java
+public static int pow(int x, int y) {
+  if (y == 0) {
+    return 1;
+  } else {
+    return x * pow(x, y - 1);
+  }
+}
+```
+
+- We can improve the program by further factoring out repititions:
+```java
+public static int pow(int x, int y) {
+  if (y == 0) {
+    return 1;
+  } else if (y % 2 == 0) {
+    return pow(x * x, y / 2);
+  } else {
+    return x * pow(x, y - 1);
+  }
+}
+```
+
+- Greatest Common Divisor of two integers recursively using the Euclidean formula:
+
+```java
+public static int gcd(int x, int y) {
+  int (y == 0) {
+    return x;
+  } else {
+    return gcd(y, x % y);
+  }
+}
+```
+
+- Helper methods: an additional method used to help solve a recursive problem.
+
 ---
 
 ## Chapter 13: Searching and Sorting
