@@ -337,7 +337,8 @@ $$\text{Work} = \text{Force} \times \text{Distance}$$
 > The average value of a function $$f$$ on the interval $$[a, b]$$ is $$\frac{1}{b-a} \int_a^b f(x) dx$$.
 
 - The area under the line $$y = \hat{f(x)}$$ between $$[a, b]$$ is the same as the area under $$y = f(x)$$ from $$a$$ to $$b$$. 
-
+- Mean Value Theorem (special case of the Intermediate Value Theorem) - If $$f$$ is continuous on $$[a, b]$$, then there exists some $$c$$ in the interval such that $$f(c) = \frac{1}{b-a} \int_a^b f(x) dx$$.
+- Other applications: suppose you want to know the average speed of the car: compute the distance and divide by the length of the interval.
 
 
 
