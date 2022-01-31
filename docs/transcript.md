@@ -13,11 +13,12 @@ A complete list of the courses I have taken, are taking, or immediately will tak
 
 | Code | Course | Instructor | Credits |
 | --- | --- | --- | --- |
-| --- | Philosophy Course | ? | ? |
-| --- | Introduction to Logic | ? | ? |
-| --- | English Course | ? | ? |
+| ? | ? | ? | 2 |
+| CSE ? | Software & Hardware Tools | ? | 1 |
+| PHIL ? | Contemporary Moral Problems | ? | 5 |
+| ENGL ? | Literary Modernism | ? | 5 |
 | MATH 126 | Calculus w/ Analytic Geometry III | ? | 5 |
-
+| --- | Total | --- | 18 |
 
 ## Winter 2022
 
