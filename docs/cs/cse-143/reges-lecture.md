@@ -387,7 +387,31 @@ friends.get(name1).add(name2);
 - Completing friends search program
 - Homework review - use a map to store different patterns and words that satisfy that program. 
 
+---
 
+## Week 5 Monday - Recursion
+- We think of recursion in contrast to iteration, which involves writing loops and procedural-style programming.
+- Some problems lend themselves better to recursion.
+- Every programming assignment we will have for the rest of the week will use recursion.
+- We need to make progress each time.
+- Program to write stars recursively:
+
+```java
+public void writeStars(int n) {
+  if (n == 0) {
+    System.out.println();
+  } else {
+    System.out.print("*");
+    writeStars(n - 1);
+  }
+}
+```
+- Recursion Zen
+- Call Stack
+  - Calls from different methods are stacked on top of each other.
+  - We're using the built-in call stack that Java uses to keep track of call orders.
+- Tail recursion - tail recursion solutions can be written as loops.
+- Some examples contain multiple recursion cases.
 
 
 
