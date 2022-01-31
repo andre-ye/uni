@@ -120,7 +120,38 @@ Notes on the selected reading for the quarter, *Bad News: How Woke Media is Unde
 - Journalists at national news outlets are generally homogenou - cosmopolitan in background, liberal in outlook. Elite in economic status, public perception, and social influence.
 - Reliance on initial middle to high class status in order to get into journalism.
 
+---
 
+## Chapter 4: The Abandoment of the Working Class
+- *New York Times* - proclaimed the breakdown of a shared public reality built upon widely affected facts after Trump's election in 2016.
+	- Yet, 91% of *New York Times* readers identify as Democrats.
+- The real dichotomy is not political, but rather about class.
+- Liberal news outlets began consciously excluding the poor and working class, opening the lane for conservative media to step in and clean up.
+- The defining feature of conservative media is not that it endorses conservative politics, but rather that it picked up what the mainstream press abandoned in terms of the working class.
+- In the 'Golden Age of Consensus', when Cronkite had become host of CBS news, the mainstream media was quickly abandoning the consensus approach 
+- Consensus always took shape in the midst of a national crisis - unifies people around shared values.
+- The 1940s to the 1960s were a time of buoyant social mobility.
+- To keep a wide audience, publishers kept a premium on keeping the news straight; allowing readers to decide for themselves what events meant.
+- FCC licenses - bound by the fairness doctrine.
+- Journalism that was committed to the difference between opinion writing and straight news.
+- Focus on the who, when, what, how - but not on the why.
+- In the 1960s, the journalist class began to shift upwards. America was going through a knowledge explosion: the typical reader is "much better educated, his interests are more sophisticated...
+- Educational chasm that has defined American life today began to emerge; newspapers quickly chose a side.
+- Topics that top executives wanted covered had much more to do with the reader's class rather than their political orientation.
+- The big papers began poaching journalists from one another.
+- The shift from analytic to interpretative began in 1954 and completed in 1974.
+McCarthy's witch hunt gave the shift the justification it needed: reporters amplified his charges by reporting his accusations of communism.
+- The shift drew some criticism from the left.
+- The question of class predicted the liberal slant of most newspapers; "tnohign is a better predictor of liberlaism than whether or not you have been to college".
+- Most young jounralists in 1970 simply did not believe in the notion of objectivity.
+- Newspapers could not sell themselves tor eaders as a utility in 1964 when most Americans got their news from television.
+- Obsession with white, well-off, upscale readers - newspapers began to expand into the suburbs rather than having anything to do with the working-class residents of their own cities.
+- Little room for jounralists of color or catering to nonwhite communities from the perspective of the papers.
+- A question of education and class that resulted in refusal to hire black jounalists.
+
+---
+
+## Chapter 5
 
 
 
