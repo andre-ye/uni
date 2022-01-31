@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading Notes
-parent: CSE 390HB
+parent: CSE 390HA
 grand_parent: Computer Science
 nav_order: 2
 ---
