@@ -307,9 +307,36 @@ $$\text{Volume of a slice at } x \approx A(x) \cdot \Delta x$$
 
 - If your object is spread out (not just a mass at a single point) like a rope, we can also imagine cutting the rope into individual pieces that is moved an approximate certain distance.
 
+---
+
+## Week 5 Monday - Work Con't and Average Value of a Function
+- Exam grades and answers will be posted tomorrow
+- Average - around 70%.
+
+**Work**
+- Work is a concept from physics that deals with how energy is transfered from one object to another - a force is applied across a distance. 
+
+$$\text{Work} = \text{Force} \times \text{Distance}$$
+
+- When the force is not constant with respect to distance, we need to involve integration.
+
+> Example: A 20 pound weight is attached to a 100 foot rope. Suppose that the rope weighs 10 pounds. Find the amount of work required to pull both the weight and the rope to the top.
+
+> For the weight, the force required is $$20 \times 100 = 2000$$ foot-pounds. Different parts of the rope, however, have a different distance to travel. Consider a small section of rope of size $$\Delta x$$ a distance of $$x$$ from the top. The section weighs $$\frac{1}{10}\Delta x$$ pounds. Because it needs to be pulled up to the top, the work required is $$x \cdot \frac{1}{10} \Delta x$$ ft-lb. The total work for the whole rope is $$\int_0^100 \frac{1}{10} x dx = 500$$ ft-lb. The total work for the weight and the rope together is 2500 ft-lb.
 
 
 
+> Example: A basin shaped like a hemisphere with radius 10 meters is filled to a depth of 6 meters. Find the amount of work needed to pump the water to the top of the basin. The density of water is 1000 kilograms per cubic meter, and assume the acceleration due to gravity is 10 meters per second squared.
+
+> The volume at a depth $$x$$ is $$\pi(100 - x^2) \Delta x$$ and its weight/force is $$10 \cdot 1000 \cdot \pi (100-x^2) \Delta x $$. The work required to pump it out is $$x\cdot 10000\pi (100 - x^2) \Delta x$$ J. We need to integrate this across each of the possible slices, yielding $$17,640,000\pi$$ joules.
+
+
+**Average Value of a Function**
+- If you take the average of several numbers, you add up all $$n$$ numbers and divide by $$n$$.
+
+> The average value of a function $$f$$ on the interval $$[a, b]$$ is $$\frac{1}{b-a} \int_a^b f(x) dx$$.
+
+- The area under the line $$y = \hat{f(x)}$$ between $$[a, b]$$ is the same as the area under $$y = f(x)$$ from $$a$$ to $$b$$. 
 
 
 
