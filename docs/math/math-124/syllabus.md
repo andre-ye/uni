@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Syllabus Notes
-parent: MATH 125
+parent: MATH 124
 grand_parent: Mathematics
 nav_order: 101
 ---
