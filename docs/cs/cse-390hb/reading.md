@@ -135,7 +135,7 @@ Notes on the selected reading for the quarter, *Bad News: How Woke Media is Unde
 - FCC licenses - bound by the fairness doctrine.
 - Journalism that was committed to the difference between opinion writing and straight news.
 - Focus on the who, when, what, how - but not on the why.
-- In the 1960s, the journalist class began to shift upwards. America was going through a knowledge explosion: the typical reader is "much better educated, his interests are more sophisticated...
+- In the 1960s, the journalist class began to shift upwards. America was going through a knowledge explosion: the typical reader is "much better educated, his interests are more sophisticated..."
 - Educational chasm that has defined American life today began to emerge; newspapers quickly chose a side.
 - Topics that top executives wanted covered had much more to do with the reader's class rather than their political orientation.
 - The big papers began poaching journalists from one another.
@@ -148,16 +148,53 @@ McCarthy's witch hunt gave the shift the justification it needed: reporters ampl
 - Obsession with white, well-off, upscale readers - newspapers began to expand into the suburbs rather than having anything to do with the working-class residents of their own cities.
 - Little room for jounralists of color or catering to nonwhite communities from the perspective of the papers.
 - A question of education and class that resulted in refusal to hire black jounalists.
+- Effects on coverage:
+	- Modern big-city newspapers became big businesses
+	- Big publishers were unanimous in their support for the Republican Party.
+- Five global firms own most of the newspapers.
+- Massive collective shift from the Pulitzer model of seeking the widest mass audience possible to the Ochs model of seeking the most exclusive audience to court high-end advertisers.
+- Consolidation meant chains, and chains meant publicly traded corporations that answered not just to readers and advertisers, but also to stockholders.
+- Consumer oriented rather than citizen oriented.
+- Newspapers often discriminated against groups that prejudiced clients didn't want to advertise to.
+- Newspapers began to feed into an us-versus-them class divide mentality.
+- Without a working-class readership, the liberal media has leaned more heavily on upper-class readers, viewers, and listeners.
+- The political polarization exists, but the divide in class is more stark.
+- Conservative media is conservative because it caters to the working class.
+- Media outlets catering to the working class eschew the national for the local; there is a greater degree to which conservative values and localism overlap.
+- Localism - valuing noncredentialled forms of meaning: place, faith, natural institutions
+- The media is just as polarized along class lines as it is along political lines.
+- Rush Limbauge portrayed the media as arrogant and out of touch. It was relatively easy to make mainstream emdia the bogeyman.
+- Fox News could have created a real political constituency, but instead went all in on the culture wars.
+- Conservative media does not have an accurate picture of who the working class is, either.
+- The liberal media, on the other hand, has abandoned both sides of the cultural-economic equation.
+- Fox News has sometimes descended into racism. Ailes constructed a never-ending us-versus-them saga; each news cycle feeds into a larger narrative.
+- The concept of race has been ued to erase the role of class.
+- No mainstream media outlet left does what Day and Pulitzer did: wage a crusade on behalf of the dignity and autonomy of the working class.
 
 ---
 
-## Chapter 5
+## Chapter 5: A Digital Revolution
+- The Internet created information bubbles and echo chambers.
+- The Internet had the opposite effect of democratization with regards to legacy journalism.
+- The digital media is a perfect tool for elite journalists to drill down on subjects.
+- The Internet has upended a top-down journalism of journalism.
+- The cost of publication befcame near zero.
+- The *Washington Post* drove readers to the website, algorithmically organized.
+- A company can make money by tailoring its ads to specific class demographics.
+- Engagement became key to collect data and show more ads.
+- Digital ads always bring in a fraction of the money that print ads had. Major media outlets switched to digital subscriptions, then to memberships.
+- Many new journalists have never gone out an reported a story; the incentive instead is to aggregate news from other places.
+- The sole measure of a story's quality is how much the story is shared and talked about.
+- This is *not* a democratization of the news. Less than a quarter of Americans use Twitter, and these users are younger, wealthier, and more educated than the nation at large.
+- Journalists are increasingly foucsed on themselves.
+- Vox: specific audience in mind - young, affluent, highly educated.
+- Social media sharing as a digital magazine peeking out of a handbag.
+- Quiet appeal to identity
+- Takes the question of class and sells it as truth, information, and data - sells being informed as belonging to a certain class and having a certain identity.
 
+---
 
-
-
-
-
+## Chapter 6: The Lesson of the Trump Era
 
 
 
