@@ -30,6 +30,29 @@ CSE 143
 
 ## Chapter 9: Classes
 
+### 9.1: Inheritance Basics
+> Code Reuse: writing program code once and using it in many contexts.
+
+- Software has become more complicated. Teams were writing larger and more complex programs in the 1970s and encountered common problems.
+- Software Crisis: program maintenance. Companies spent too much time not writing new code but instead modifying and maintainign existing code (legacy code).
+- Inheritance - allows us to write programs with hierarchies of related object types.
+- Key ieas:
+  - It's useful to specify a broad set of rules that applies to many related groups.
+  - It's also useful to specify a smaller set of rules specific to a particular group.
+
+- *Inheritance*: a programming technique that allows a derived class to extend the functionality of a base class, inheriting all of its states and behaviors.
+- *Superclass*: the parent class in an inheritance relationship.
+- *Subclass*: the child class in an inheritance relationship.
+
+```java
+public class <name> extends <superclass> {
+  ...
+}
+```
+
+- The subclass can add new behavior not present in the superclass.
+- The subclass can override superclass behavior by writing new versions of the relevant methods.
+
 ### 9.5: Interfaces
 - Inheritance enables polymorphism and code sharing. However, it is very limited.
 - A class can only extend one superclass.
