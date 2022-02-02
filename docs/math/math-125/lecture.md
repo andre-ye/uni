@@ -340,6 +340,70 @@ $$\text{Work} = \text{Force} \times \text{Distance}$$
 - Mean Value Theorem (special case of the Intermediate Value Theorem) - If $$f$$ is continuous on $$[a, b]$$, then there exists some $$c$$ in the interval such that $$f(c) = \frac{1}{b-a} \int_a^b f(x) dx$$.
 - Other applications: suppose you want to know the average speed of the car: compute the distance and divide by the length of the interval.
 
+---
+
+## Week 5 Wednesday - Integration by Parts
+- Quiz statistics have been posted on the discussion board
+- The exam solutions have been posted on Canvas and grades are available on Gradescope
+- Chapter 7 is concerned with techniques of integration.
+- Most integrals are hard to do; Chapter 7 allows us to perform more complicated integration procedures.
+- Integration by parts is the 'opposite' of the product rule - undoing the product rule
+- Similarly with $$u$$-substitution, we need to choose certain expressions. It will take some practice to figure out how to select the correct 'keys'.
+- Product rule for differentiation: $$\frac{d}{dx} (f(x) \cdot g(x)) = f(x) \cdot g'(x) + f'(x) \cdot g(x)$$
+- If we take the antiderivative of both sides, we get $$f(x) \cdot g(x) = \int g(x) g'(x) dx + \int g(x) f'(x) dx$$.
+- Suppose you know how to compute one of the terms; them you can compute the others.
+- We will rearrange as such:
+
+$$\int f(x) g'(x) dx = f(x) \cdot g(x)  - \int g(x) f'(x) dx$$
+
+- Sometimes, the LHS integral is difficult, but we can choose $$f(x)$$ and $$g(x)$$ such that the RHS is more convenient.
+- Also written as such - $$u = f(x)$$, $$du = f'(x)$$, $$v = g(x)$$, $$dv = g'(x) dx$$, thus:
+
+$$\int u dv = uv - \int v du$$
+
+- We want to compute $$\int u dv$$. Instead of directly computing, we compute $$du$$ (the derivative of $$u$$) and $$dv$$ (the integral of $$v$$) and plug into the RHS of the integration by parts formula.
+
+> Example: Find $$\int x \cos x dx$$.
+
+> We need to choose a $$u$$ and a $$v$$ such that $$uv - \int v du$$ is easier to compute. Let $$u = x$$ and $$v = \cos x$$. We have $$du = dx$$ and $$v = \sin x$$. Plugging into the integration by parts formula yields  $$x\sin x - \int \sin x dx = x\sin x + \cos x + C$$. We can verify the integral by taking the derivative: $$\frac{d}{dx} \left(x \sin x + \cos x\right) = x \cdot \cos x + \sin x - \sin x = x \cos x$$.
+
+- For definite integrals, you need to evaluate $$uv$$ between the two limits $$a$$ and $$b$$ of your integral.
+
+$$\int_a^b u dv = uv \big]_a^b - \int_a^b v du$$
+
+> Example: Find $$\int_e^{e^2} \ln x dx$$.
+
+> Let $$u = \ln x$$ and $$dv = dx$$. $$du = \frac{dx}{x}$$ and $$v = x$$. $$\int_e^{e^2} \ln x dx = x\ln x \big]_e^{e^2} - \int_e^{e^2}  dx =  (e^2\ln e^2 - e \ln e) - x \big]_e^{e^2} = (2e^2 - e) - (e^2 - e) = e^2$$.
+
+- $$du$$ must be simpler than $$u$$, and you actually have to be able to integrate $$dv$$.
+- You may need to repeatedly apply integration by parts.
+
+> Example: Find $$\int x^2 e^{3x} dx$$.
+
+> Let $$u = x^2$$ and $$v = e^{3x}$$. We have $$du = 2x dx$$ and $$v = \frac{1}{3} e^{3x}$$. $$\int x^2 e^{3x} dx = \frac{1}{3} x^2 e^{3x} - \frac{2}{3} \int xe^{3x} dx$$. Let us perform integration by parts of $$\frac{2}{3} \int xe^{3x}$$ again. Let $$u = x$$ and $$dv = e^{3x} dx$$. We have $$du = dx$$ and $$v = \frac{1}{3}e^{3x}$$. Using integration by parts, $$\int xe^{3x} dx = \frac{1}{3} x e^{3x} - \int \frac{1}{3} e^{3x} dx = \frac{1}{3} xe^{3x} - \frac{1}{9} e^{3x} + C$$. Returning to the original integration by parts formula, we have $$\int x^2 e^{3x} dx = \frac{1}{3} x^2 e^{3x} - \frac{2}{3} \left(\frac{1}{3}xe^{3x} - \frac{1}{9} e^{3x} \right) + C'$$. ($$C'$$ is sometimes used to denote a modified $$C$$ through iterations of integration.)
+
+
+
+
+> Example: Find $$\int e^x \cos x dx$$.
+
+> Let $$u = e^x$$ and $$dv = \cos x$$. We have $$du = e^x dx$$ and $$v = \sin x$$. We have $$\int e^x \cos x dx = e^x \sin x - \int e^x \sin x dx$$. Let us apply integration by parts upon the term $$\int e^x \sin x dx$$, using a similar substitution scheme with $$u = e^x$$ and $$dv = \sin x$$; this yields $$du = e^x dx$$ and $$v = -\cos x$$. Plugging into the integration by parts formula yields  $$\int e^x \sin x dx = - e^x \cos x + \int e^x \cos x dx$$. We plug this back into the original formula and obtain $$\int e^x \cos x dx = e^x \sin x - (- e^x \cos x + \int e^x \cos x dx) \implies 2 \int e^x \cos x dx = e^x \sin x + e^x \cos x + C \implies \int e^x \cos x dx = \frac{e^x \sin x + e^x \cos x}{2}$$.
+
+
+
+
+> Example: Find $$\int e^\sqrt{x} dx$$.
+
+> Let $$y = \sqrt{x}$$; we have $$\int e^\sqrt{x} dx = 2 \int e^y \cdot y dy$$. Let $$u = y$$ and $$dv = e^y dy$$; we have $$du = dy$$ and $$v = e^y$$. $$2\int y e^y dy = 2 \left(ye^y - \int e^y dy\right) = 2\left(ye^y - e^y \right) + C$$; substituting back in yields $$2\left(\sqrt{x} e^\sqrt{x} - e^\sqrt{x}\right) + C$$.
+
+
+
+
+
+
+
+
+
 
 
 
