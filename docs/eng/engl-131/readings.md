@@ -39,3 +39,14 @@ ENGL 131
 - Intent, passion, rhythms, imagery.
 
 ---
+
+## "Why Appollo 11 Looked so different to black America" by David Smith
+Access [here](https://www.theguardian.com/science/2019/jul/14/apollo-11-civil-rights-black-america-moon){:target="_blank"}
+- Ralph Abernathy - successor to Martin Luther King as head of the Southern Christian Leadership Conference (SLCL).
+- Appollo 11 was considered to be humankind's greatest technological achievement - yet, most Americans opposed the mission and many in the black press questioned the expedition amidst rampant poverty.
+- An inhuman priority - Abernathy urged funds be used to feed the hungry, tend the sick, houe the homeless.
+- Billions for the moon and pennies for the poor.
+- PR for the United States and the Soviet Union.
+- The Apollo programme gave an impression of being a project of white America.
+- Later, NASA began appropriating technology to improve the state of America's inner cities.
+- 
