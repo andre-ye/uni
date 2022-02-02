@@ -413,6 +413,42 @@ public void writeStars(int n) {
 - Tail recursion - tail recursion solutions can be written as loops.
 - Some examples contain multiple recursion cases.
 
+---
+
+## Week 5 Wednesday
+- Binary number system.
+
+```java
+public void writeBinary(int n) {
+  if (n < 2) {
+    System.out.print(n);
+  } else {
+    writeBinary(n / 2);
+    System.out.print(n % 2);
+  }
+}
+```
+
+- The recursion programming question on the midterm exam often has low scores.
+- We add additional parameters in a recursive solution to accoutn for local variables in an iterative solution.
+- Recursive solution for computing the cumulative sum of an array:
+
+```java
+public int sum(int[] list) {
+  return sum(list, 0);
+}
+
+private int sum(int[] list, int index) {
+  if (index = list.length()) {
+    return 0;
+  } else {
+    return list[index] + sum(list, index+1);
+  }
+}
+```
+
+- Recursion Zen: don't end a recursion early - let it run further towards the end.
+
 
 
 
