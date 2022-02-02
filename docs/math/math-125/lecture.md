@@ -392,9 +392,9 @@ $$\int_a^b u dv = uv \big]_a^b - \int_a^b v du$$
 
 
 
-> Example: Find $$\int e^\sqrt{x} dx$$.
+> Example: Find $$\int e^{\sqrt{x}} dx$$.
 
-> Let $$y = \sqrt{x}$$; we have $$\int e^\sqrt{x} dx = 2 \int e^y \cdot y dy$$. Let $$u = y$$ and $$dv = e^y dy$$; we have $$du = dy$$ and $$v = e^y$$. $$2\int y e^y dy = 2 \left(ye^y - \int e^y dy\right) = 2\left(ye^y - e^y \right) + C$$; substituting back in yields $$2\left(\sqrt{x} e^\sqrt{x} - e^\sqrt{x}\right) + C$$.
+> Let $$y = \sqrt{x}$$; we have $$\int e^{\sqrt{x}} dx = 2 \int e^y \cdot y dy$$. Let $$u = y$$ and $$dv = e^y dy$$; we have $$du = dy$$ and $$v = e^y$$. $$2\int y e^y dy = 2 \left(ye^y - \int e^y dy\right) = 2\left(ye^y - e^y \right) + C$$; substituting back in yields $$2\left(\sqrt{x} e^{\sqrt{x}} - e^{\sqrt{x}}\right) + C$$.
 
 
 
