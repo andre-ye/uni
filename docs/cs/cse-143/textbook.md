@@ -53,6 +53,53 @@ public class <name> extends <superclass> {
 - The subclass can add new behavior not present in the superclass.
 - The subclass can override superclass behavior by writing new versions of the relevant methods.
 
+### 9.2: Interacting with the Superclass
+- You also want to inherit more complex functionality from the superclass.
+
+Writing code for a legal secretary, which earns 5000 more than a general employee:
+```java
+public double getSalary() {
+  return super.getSalary() + 5000;
+}
+```
+
+- An inheriting class cannot access private data from a superclass, but you can create accessor or mutator methods to access or change values; these are accessible to subclasses.
+- Constructors, unlike other behaviors, are not inherited.
+- Use the keyword `super` to initialize fields for access:
+
+```java
+public DividendStock<String symbol) {
+  super(symbol);
+  dividends = 0.0;
+}
+```
+- The call to the superclass constructor must be the first statement in a constructor.
+- You only need to use `super` when you are accessing overridden methods or constructors from the superclass.
+- The `Object` class is the ultimate superclass for all Java classes; the compiler writes `extends Object` for declared classes during compilation. Methods include `clone`, `equals`, `finalize`, `getClass`, `hashCode`, `toString`, `notify`, `notifyAll`, `wait`
+- You can accept any class by referring to the `Object`:
+
+```java
+public static void myMethod(Object o) {
+  ...
+}
+```
+- Casting an object is a promise to the compiler
+- Using `instanceof`:
+
+```java
+public boolean equals(Object o) {
+  if (o instanceof Point) {
+    Point other = (Point) o;
+    return x == other.x && y == other.y;
+  } else {
+    return false;
+  }
+}
+```
+
+
+
+
 ### 9.5: Interfaces
 - Inheritance enables polymorphism and code sharing. However, it is very limited.
 - A class can only extend one superclass.
