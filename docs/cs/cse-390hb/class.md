@@ -51,3 +51,12 @@ Concepts
   - How should drug use be characterized and regulated?
 - Interesting quasi-scandalous story of Reges, Peter Thiel, and homosexuality
 
+---
+
+## Week 5
+- Race, class, and education
+- Role of education in a new understanding of class (as opposed to traditional Marxist understandings)
+- Reges' experience in education from Case Western to Stanford
+- Godel's incompleteness theorem
+- Turing and the Halting Problem
+- Card trick
