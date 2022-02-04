@@ -450,7 +450,41 @@ private int sum(int[] list, int index) {
 - Recursion Zen: don't end a recursion early - let it run further towards the end.
 
 
+---
 
+## Week 5 Friday
+- Regular expressions will be used in the homework assignment.
+- RE: descriptions of patterns in strings.
+- `-w` - need whole words.
+- `zing` - requires `zing` to appear somewhere in the text.
+- `.` - matches any letter. `.....` - searches for all five-lettered words.
+- `|` - 'plumbing'/piping operation, feed output into another operation.
+- To combine conditions, pipe condition outputs into new filters.
+- `.split()` in Java takes in a regular expression and splits the input by the regular expression, returning an array of stinrgs.
+- Delimeter - indicator of how to separate tokens. The normal delimeter is a space.
+- Regular expression form - put a `+` after something to indicate 'one or more': e.g. ` +` to indicate any number of spaces.
+- Tabs are not spaces; they are special characters. `\t` represents tab as well.
+- For multiple or conditions: `[ -]+` indicates 'match any sequence of ` ` or `+`'.
+- `[A-Za-z]` filters all lowercase and uppercase letters. `[^A-Za-z]` filters all letters that are not uppercase or lowercase letters.
+
+
+
+
+- Homework assignment - will be working with grammar files using BNF grammar.
+- Method of describing patterns in language.
+- Terminals vs non-terminals.
+  - Terminals: actual words in the language.
+  - Nonterminals: variables we use to describe the grammar.
+
+```
+<s> ::= <np> <vp>
+```
+
+- Left-hand side: one non-terminal.
+- Non-terminals are things that have rules associated with them.
+- `::=` means "is composed of".
+- A  sentence `<s>` must be composed of a noun phrase `<np>` and a verb phrase `<vp>`.
+- A vertical bar `|` indicates 'or'.
 
 
 
