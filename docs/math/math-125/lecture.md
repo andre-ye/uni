@@ -398,6 +398,68 @@ $$\int_a^b u dv = uv \big]_a^b - \int_a^b v du$$
 
 
 
+---
+
+## Week 5 Friday - Trigonometric Intervals
+- Integrating functions that are a relationship between trigonometric functions.
+- Suppose we wish to evaluate an integral like $$\int \sin^m x \cos^n x dx$$. If $$m$$ or $$n$$ is 1, we can do $$u$$-substitution - but this becomes a difficult problem for larger values of $$m$$ and $$n$$.
+- A trick if $$m$$ or $$n$$ is odd: we can turn all but one of the $$\sin$$'s into $$\cos$$'s using the Pythagorean identity $$\sin^2 x = 1 - \cos^2 x$$; then, use u-substitution $$u = \cos x$$.
+
+> Example: Find $$\int \sin^3 x \cos^2 x dx$$.
+
+> Turn all the other $$\sin$$ into $$\cos$$ except for one: this is equal to $$\int \sin x (1 - \cos^2 x) \cos^2 x dx$$. Let $$u = \cos x$$; thus, $$du = -\sin x dx$$. Using u-substitution yields $$- \int (1 - u^2) u^2 du = \int (u^4 - u^2) du = \frac{1}{5} u^5 - \frac{1}{3} u^3 + C = \frac{\cos^5 x}{5} - \frac{\cos^3 x}{3} + C$$.
+
+
+> Example: Find $$\int \cos^5 x dx$$. 
+
+> We have $$\int \cos x \cdot (1 - \sin^2)^2$$. Let $$u = \sin x$$; $$du = \cos x dx$$. The integral is this $$\int (1 - u^2)^2 du = \int (1 - 2u^2 + u^4) du = u - \frac{2}{3} u^3 + \frac{1}{5} u^5 + C = \sin x - \frac{2}{3} \sin^3 x + \frac{1}{5} \sin^5 x + C$$.
+
+- If $$m$$ and $$n$$ are both even, we will need to use a different identity: $$\sin^2 x = \frac{1}{2} (1 - \cos 2x)$$ and $$\cos^2 x = \frac{1}{2} (1 + \cos 2x)$$.
+- The identity $$\sin x \cos x = \frac{1}{2} \sin 2x$$ can also help save some algebra.
+
+> Example: Find $$\int \cos^2 x dx$$.
+
+> We have $$\int (1 + \cos 2x) dx = \frac{1}{2} \int (1 + \cos 2x) dx$$. Using a u-substitution for $$u = 2x$$, we have $$\frac{1}{2} \left(x + \frac{1}{2} \sin 2x + C$$.
+
+> Example: Find $$\int \sin^2 x \cos^2 x dx$$.
+
+> We have $$\int \frac{1}{4} \sin^2 (2x)$$. Plugging in another trigonometric identity, we get $$\int \frac{1}{4} \cdot \frac{1}{2} \left(1 - \cos 4x \right) dx = \frac{1}{8} \left(x - \frac{\sin 4x}{4} \right) + C$$.
+
+- If you have any integral with products of $$\sin$$ and $$\cos$$ powers, you can use these methods to integrate.
+- Additional problems: products of secants and tangents.
+
+
+  
+- For integrals of tangents and secants, use a similar strategy using the identity $$\sec^2 x = 1 + \tan^2 x$$.
+- To find $$\int \tan^m x \sec^n x dx$$:
+ - If $$m$$ is odd: turn all but one of the tangents into secants and let $$u = \sec x$$; thus $$du = \sec x \tan x$$.
+ - If $$n$$ is even, turn all but two secants into tangents and let $$u = \tan x$$; thus $$du = \sec^2 x dx$$.
+
+> Example: Find $$\tan^2 x \sec^4 x dx$$.
+
+> Because $$n$$ is even, we turn all but two secants into tangents: $$\int \tan^2 (1 + \tan^2 x) \sec^2 x dx$$. Let $$u = \tan x$$; $$du = \sec^2 x dx \implies \int u^2 (1 + u^2) du \implies \int u^2 + u^4 du \implies \frac{u^3}{3} + \frac{u^5}{5} + C \implies \frac{\tan^3 x}{3} + \frac{\tan^5 x}{5} + C$$. 
+
+- A little bit of a rote exercise - once you know & practice the algorithm, you'll get used to it.
+
+> Example: Find $$\int \tan^5 x \sec^5 x dx$$.
+
+> We have $$m$$ as odd; thus, we turn all but one of the remaining tangents into secants: $$\int (\sec^2 x - 1)^2 \sec^4 x - \sec x \tan x dx. Let $$u = \sec x$$; $$du = \sec x \tan x dx$$. $$\int (u^2 - 1)^2 u^4 du \implies ... \implies \frac{\sec^9 x}{9} - \frac{2 \sec^7 x}{7} + \frac{sec^5 x}{5} + C$$.
+
+- The rules also theoretically apply to negative powers, too.
+
+> Example: Find $$\int \tan x dx$$.
+
+> Use the same rule as before. In this case, $$m$$ is odd. Let $$u = \sec x$$; $$du = \sec x \tan x dx \implies \tan x dx = \frac{du}{\sec x} = \frac{du}{u}$$. This yields $$\int \frac{du}{u} = \ln |u| + C = \ln | \sec x | + C$$.
+
+> Example: Find $$\int \sec x dx$$.
+
+> Uses a bit of a clever/cheating trick: rewrite as $$\int \sec x \cdot \frac{\sec x + \tan x}{\sec x + \tan x} dx$$; this yields $$\int \frac{\sec^2 x + \sec x \tan x}{\sec x + \tan x} dx$$. If you take the derivative of the bottom, it gives you the numerator. Let $$u = \sec x + \tan x$$; $$du = \sec^2 x + \sec x \tan x$$. The integral becomes $$\int \frac{du}{u} = \ln |u| + C = \ln | \sec x + \tan x} + C$$.
+
+- See textbook for the calculation of $$\int \sec^3 x dx$$.
+
+
+
+
 
 
 
