@@ -401,7 +401,7 @@ $$\int_a^b u dv = uv \big]_a^b - \int_a^b v du$$
 
 ---
 
-## Week 5 Friday - Trigonometric Intervals
+## Week 5 Friday - Trigonometric Integrals
 - Integrating functions that are a relationship between trigonometric functions.
 - Suppose we wish to evaluate an integral like $$\int \sin^m x \cos^n x dx$$. If $$m$$ or $$n$$ is 1, we can do $$u$$-substitution - but this becomes a difficult problem for larger values of $$m$$ and $$n$$.
 - A trick if $$m$$ or $$n$$ is odd: we can turn all but one of the $$\sin$$'s into $$\cos$$'s using the Pythagorean identity $$\sin^2 x = 1 - \cos^2 x$$; then, use u-substitution $$u = \cos x$$.
