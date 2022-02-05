@@ -7,32 +7,21 @@ nav_order: 300
 ---
 
 # Preparatory Notes
+{: .no_toc }
 
 CHEM 142
 {: .fs-6 .fw-300 }
 
 ---
 
-
-## Navigate
-- [Conversions](#conversions)
-- [Matter](#matter)
-  * [Organization of the Periodic Table](#organization-of-the-periodic-table)
-  * [Standard Chemical and Physical States of Elements](#standard-chemical-and-physical-states-of-elements)
-  * [Law of Constant Composition](#law-of-constant-composition)
-  * [Law of Multiple Proportions](#law-of-multiple-proportions)
-  * [Common Laboratory Separation Techniques](#common-laboratory-separation-techniques)
-  * [Substance Classification](#substance-classification)
-  * [Distinguishing Chemical and Physical Change](#distinguishing-chemical-and-physical-change)
-- [Atoms, Ions, and Molecules](#atoms--ions--and-molecules)
-  * [Parts of an Atom](#parts-of-an-atom)
-- [Thermochemistry](#thermochemistry)
-  * [Calculating Kinetic Energy](#calculating-kinetic-energy)
-  * [Calculating Specific Heat Capacity](#calculating-specific-heat-capacity)
-- [Stochiometry](#stochiometry)
-  * [Writing a Chemical Equation from a Reaction Description](#writing-a-chemical-equation-from-a-reaction-description)
-
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
