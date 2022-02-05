@@ -20,7 +20,7 @@ Week 1 - Course Introduction
 
 Week 2 - Quantum Mechanics
 - [Week 2 Monday Lecture](#week-2-monday-lecture) - Introduction to Quantized Energy in Chemical and Light Form
-- [Week 2 Wednesday Lecture](#week-2-wednesday-lecture) - Quantizatin of Matter
+- [Week 2 Wednesday Lecture](#week-2-wednesday-lecture) - Quantization of Matter
 - [Week 2 Friday Lecture](#week-2-friday-lecture) - The Wave-Particle Duality
 
 Week 3 - Quantum Mechanics and Chemical Bonding
