@@ -7,6 +7,7 @@ nav_order: 1
 ---
 
 # Lecture Notes
+{: .no_toc }
 
 MATH 125
 {: .fs-6 .fw-300 }
