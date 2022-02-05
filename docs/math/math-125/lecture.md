@@ -13,14 +13,14 @@ MATH 125
 
 ---
 
-## Navigation
-Week 1
-- [Monday - Antiderivatives and Syllabus](#week-1-monday---antiderivatives-and-syllabus)
-- [Wednesday - Area and Riemann Sums](#week-1-wednesday---area-and-riemann-sums)
-- [Friday - Introduction to Integrals](#week-1-friday---introduction-to-integrals)
-
-Week 2
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
