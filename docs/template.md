@@ -6,26 +6,6 @@ nav_exclude: true
 
 # Templates
 
-Add a Table of Contents:
-```
----
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
-```
-
-Add a tag to prevent headings from being considered in the table of cotnents.
-```
-{: .no_toc }
-```
 
 Discipline-Level:
 
@@ -84,16 +64,45 @@ nav_order: 1
 ---
 
 # Lecture Notes
+{: .no_toc }
 
 MATH 125
 {: .fs-6 .fw-300 }
 
 ---
 
-## Navigation
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
-
 ## Week 1 Monday - Antiderivatives and Syllabus
+```
+
+
+Add a Table of Contents:
+```
+---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+```
+
+Add a tag to prevent headings from being considered in the table of cotnents.
+```
+{: .no_toc }
 ```
