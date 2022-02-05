@@ -7,6 +7,7 @@ nav_order: 1
 ---
 
 # Stuart Reges Lecture Notes
+{: .no_toc }
 
 CSE 143
 {: .fs-6 .fw-300 }
@@ -14,7 +15,6 @@ CSE 143
 ---
 
 ## Navigation
-
 {: .no_toc }
 
 <details open markdown="block">
