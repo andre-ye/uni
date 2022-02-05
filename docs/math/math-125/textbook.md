@@ -209,6 +209,80 @@ $$W = Fd (\text{work} = \text{force } \times \text{ distance})$$
 
 - Hooke's Law: the force required to maintain a spring stretched $$x$$ units beyond its natural length is proportional to $$x$$: $$f(x) = kx$$. $$k$$ is a positive constant called the spring constant. 
 
+---
+
+## 6.5: Average Value of a Function
+- It is trivial to calculate the aerage value of finitely many numbers.
+- To compute the average value for which there are an infinite number of possible values, we find the average value of a function.
+
+$$\hat{f} = \frac{f(x_1) + ... + f(x_n)}{n] = \frac{f(x_1) + ... + f(x_n)}{\frac{b-a}{\Delta x}} = \frac{1}{b-a} \sum_{i=1}^n f(x_i) \Delta x$$
+
+$$\lim_{n\to\infty} \frac{1}{b-a} \sum^n_{i = 1} f(x_i) \Delta x = \frac{b-a} \int_a^b f(x) dx$$
+
+- Thus, the varage value of $$f$$ on the interval $$[a, b]$$ is
+
+$$\hat{f} = \frac{1}{b-a} \int_a^b f(x) dx$$
+
+- Alternatively, this can be thought of as
+
+$$\frac{\text{area}}{\text{width}} = \text{average height}$$
+
+---
+
+## 7.1: Integration by Parts
+The product rule states that if $$f$$ and $$g$$ are differentiable, then
+
+$$\frac{d}{dx} f(x) g(x) = f(x) g'(x) + g(x) f'(x)$$
+
+We can express this in terms of indefinite integrals:
+
+$$\int [f(x) g'(x) + g(x) f'(x)] dx = f(x) g(x)$$
+
+This can be rearranged as
+
+$$\int f(x) g'(x) dx = f(x) g(x) - \int g(x) f'(x) dx$$
+
+Let $$u = f(x)$$ and $$v = g(x)$$. The integration by parts formula is thus
+
+$$\int u dv = uv - \int v du$$
+
+---
+
+## 7.2: Trigonometric Integrals
+- Write an integrand involving powers of sine and coisne in a form where we only have one sine factor and the rest of the expression in terms of cosine, or one cosine factor and the rest of the expression in terms of sine.
+  - We can use $$\sin^2 x + \cos^2 x = 1$$.
+- We can also use the half-angle identities to address integrand products of $$\sin$$ and $$\cos$$:
+
+$$\sin^2 x = \frac{1}{2} \left(1 - \cos 2x \right)$$
+
+$$\cos^2 x = \frac{1}{2} \left(1 + \cos 2x \right)$$
+
+- For products involving powers of $$\tan x$$ and $$\sec x$$, use $$\tan^2 x = \sec^2 x - 1$$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
