@@ -3,17 +3,25 @@ layout: default
 title: Schafer Lecture Notes
 parent: CSE 143
 grand_parent: Computer Science
-nav_order: 1
+nav_order: 2
 ---
 
 # Hunter Schafer Lecture Notes
+{: .no_toc }
 
 CSE 143
 {: .fs-6 .fw-300 }
 
 ---
 
-## Navigation
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
@@ -137,6 +145,21 @@ friends.get("Taylor").add("Hunter");
 - Iteration over key/value pairs by iterating over the key set and reference associated value for each key.
 - Breadth-first search in graphs using self-referencing maps
 - Stopping infinite recursion with checks
+
+---
+
+## Lecture 12: Recursion
+- Recursion: solving a problem by breaking it into smaller problems and solving each. Solving self-similar tasks.
+- Recursion: the definition of an operation in terms of itself.
+- Recursion: see "Recursion".
+- Recursive programming: writing methods that call themselves to solve problems recursively.
+- Sometimes, certain patterns lean nicely into a recursive solution.
+- Base case and recursive cases must be specified in a recursive function.
+- The semantics of recursion are controlled in the call stack.
+
+---
+
+## Lecure 13: More Recursion, Public/Private Pairs
 
 
 
