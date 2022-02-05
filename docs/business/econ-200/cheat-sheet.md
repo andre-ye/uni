@@ -7,32 +7,21 @@ nav_order: 100
 ---
 
 # Cheat Sheet
+{: .no_toc }
 
 ECON 200
 {: .fs-6 .fw-300 }
 
 ---
 
-## Navigate
-- [Midterm Study Guide](#midterm-study-guide)
-  * [Reminders](#reminders)
-  * [Key Points from Each Chapter](#key-points-from-each-chapter)
-    + [Chapter 1: Economics and Life](#chapter-1--economics-and-life)
-    + [Chapter 2: Specialization and Exchange](#chapter-2--specialization-and-exchange)
-    + [Chapter 3: Markets](#chapter-3--markets)
-    + [Chapter 4: Elasticity](#chapter-4--elasticity)
-    + [Chapter 5: Efficiency](#chapter-5--efficiency)
-    + [Chapter 6: Government Intervention](#chapter-6--government-intervention)
-- [Final Study Guide](#final-study-guide)
-  * [Reminders](#reminders-1)
-  * [Equations](#equations)
-  * [Key Points from Each Chapter](#key-points-from-each-chapter-1)
-    + [Chapter 17: International Trade](#chapter-17--international-trade)
-    + [Chapter 18: Externalities](#chapter-18--externalities)
-    + [Chapter 12: The Costs of Production](#chapter-12--the-costs-of-production)
-    + [Chapter 13: Perfect Competition](#chapter-13--perfect-competition)
-    + [Chapter 14: Monopoly](#chapter-14--monopoly)
-    + [Chapter 15: Monopolistic Competition](#chapter-15--monopolistic-competition)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
