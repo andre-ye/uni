@@ -14,9 +14,6 @@ CSE 143
 
 ---
 
-## Navigation
-{: .no_toc }
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -25,14 +22,6 @@ CSE 143
 1. TOC
 {:toc}
 </details>
-
-Week 1
-- [Monday - `ArrayIntList` Add, Remove, toString Methods](#week-1-monday---arrayintlist-add-remove-tostring-methods)
-- [Wednesday - `ArrayIntList` Methods](#week-1-monday---arrayintlist-methods)
-- [Friday - Interfaces and Sets](#week-1-monday---interfaces-and-sets)
-
-Week 2
-
 
 ---
 
