@@ -7,6 +7,7 @@ nav_order: 200
 ---
 
 # How to Succeed in Chemistry
+{: .no_toc }
 
 CHEM 142
 {: .fs-6 .fw-300 }
@@ -15,27 +16,14 @@ Notes on preparatory seminar, "How to Succeed in Chemistry", presented by Dr. An
 
 ---
 
-
-
-## Navigation
-- [How to Succeed in Chemistry](#how-to-succeed-in-chemistry)
-- [Navigation](#navigation)
-- [Select the Right Chemistry Classes](#select-the-right-chemistry-classes)
-  * [College Chemistry on the Quarter System](#college-chemistry-on-the-quarter-system)
-- [Concepts and Patterns are Key](#concepts-and-patterns-are-key)
-- [Solving Problems](#solving-problems)
-- [Study Smart](#study-smart)
-- [Grade Composition](#grade-composition)
-- [Tips from a Tutor](#tips-from-a-tutor)
-- [Tips for Returning to In-Person Classes](#tips-for-returning-to-in-person-classes)
-- [Where to Find Help](#where-to-find-help)
-- [CLUE](#clue)
-- [Learning How to Use Excel](#learning-how-to-use-excel)
-- [People and Resources](#people-and-resources)
-- [Questions](#questions)
-
-
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
