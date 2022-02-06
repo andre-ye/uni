@@ -3,7 +3,7 @@ layout: default
 title: ENTRE 490B
 parent: Business
 nav_order: 5
-permalink: /docs/nsciences/entre-490b
+permalink: /uni/docs/nsciences/entre-490b
 has_children: true
 ---
 
