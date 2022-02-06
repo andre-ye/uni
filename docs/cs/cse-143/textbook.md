@@ -447,6 +447,73 @@ Arrays.sort(array, new customComparator());
 | Cubic | $$O(N^3)$$ | Runtimes proportional to the cube of the input size. Make triply nested passes over the data. |
 | Exponential | $$O(2^N)$$ | If the input siz increases by one, the lagorithm will take roughly twice as long. Print power set of a dataset. |
 
+### 13.4: Merge Sort
+- The merge sort algorithm stems from the observation that you can easily merge two sorted subarrays into a single sorted array.
+- Merge sort pseudocode:
+
+```
+split the array into two halves
+sort the left half
+sort the right half
+merge the two halves
+```
+
+- To perform merging, simply compare the two 'top' values of the two sorted subarrays and stack.
+- We can write recursive merge sort.
+
+```java
+ 1 // This program implements merge sort for arrays of integers.
+ 2 import java.util.*;
+ 3
+ 4 public class MergeSort {
+ 5 public static void main(String[] args) {
+ 6 int[] list = {14, 32, 67, 76, 23, 41, 58, 85};
+ 7 System.out.println("before: " + Arrays.toString(list));
+ 8 mergeSort(list);
+ 9 System.out.println("after : " + Arrays.toString(list));
+10 }
+11
+12 // Places the elements of the given array into sorted order
+13 // using the merge sort algorithm.
+14 // post: array is in sorted (nondecreasing) order
+15 public static void mergeSort(int[] a) {
+16 if (a.length > 1) {
+17 // split array into two halves
+18 int[] left = Arrays.copyOfRange(a, 0, a.length / 2);
+19 int[] right = Arrays.copyOfRange(a, a.length / 2,
+20 a.length);
+21
+22 // recursively sort the two halves
+23 mergeSort(left);
+24 mergeSort(right);
+25
+26 // merge the sorted halves into a sorted whole
+27 merge(a, left, right);
+28 }
+29 }
+30
+31 // Merges the given left and right arrays into the given
+32 // result array.
+33 // pre : result is empty; left/right are sorted
+34 // post: result contains result of merging sorted lists;
+35 public static void merge(int[] result, int[] left, int[] right) {
+36 int i1 = 0; // index into left array
+37 int i2 = 0; // index into right array
+38 for (int i = 0; i < result.length; i++) {
+39 if (i2 >= right.length || (i1 < left.length &&
+40 left[i1] <= right[i2])) {
+41 result[i] = left[i1]; // take from left
+42 i1++;
+43 } else {
+44 result[i] = right[i2]; // take from right
+45 i2++;
+46 }
+47 }
+48 }
+49 }
+```
+- Merge sort is an $$O(N \log N)$$ algorithm. 
+
 ---
 
 ## Chapter 14: Stacks and Queues
@@ -819,5 +886,4 @@ public void remove(int index) {
   }
 }
 ```
-
 
