@@ -67,7 +67,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Personal Site":
-    - "http://andre-ye.ml"
+    - "http://andre-ye.github.io"
   "TS Notes":
     - "https://andre-ye.github.io/ts"
 
