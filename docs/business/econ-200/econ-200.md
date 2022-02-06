@@ -3,7 +3,7 @@ layout: default
 title: ECON 200
 parent: Business
 nav_order: 1
-permalink: /docs/business/econ-200
+permalink: /uni/docs/business/econ-200
 has_children: true
 ---
 
