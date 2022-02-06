@@ -4,7 +4,7 @@ title: CSE 390HA
 parent: Computer Science
 nav_order: 100
 has_children: true
-permalink: /uni/docs/cs/cse-390ha
+permalink: /docs/cs/cse-390ha
 ---
 
 # CSE 390HA
