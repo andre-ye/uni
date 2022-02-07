@@ -29,19 +29,27 @@ MATH 125
 ## Week 1 Monday - Antiderivatives and Syllabus
 
 ### Exams
+{: .no_toc }
+
 - Two midterms; not that much time in between midterms.
 - Standard calculator and 2-sided cheat sheet is allowed.
  
 ### Assignments
+{: .no_toc }
+
 - Homework is due on Tuesdays at 11:00 PM.
 - Quizes are between 9 AM and 11 AM on WebAssign based on the homework. These are 30 minutes. No makeups or quizzes are granted. Relatively short - designed to be completed in 20 to 30 minutes.
   - Material for Quizzes on Tuesday are the same as homework due that Tuesday.
 - Worksheets are given during Thursday section with the TA. These are designed to give an opportunity to work on more complex problems. Graded on completion basis.
 
 ### Class Administrative
+{: .no_toc }
+
 - Lectures will generally be recorded
 
 ### 4.9: The Antiderivative
+{: .no_toc }
+
 - You are familiar with a derivative; the antiderivative is the 'opposite'
 
 > **Definition**: A function $$F(x)$$ is an *antiderivative* of a function $$f(x)$$ is $$F'(x) = f(x)$$ for al $$x$$.
