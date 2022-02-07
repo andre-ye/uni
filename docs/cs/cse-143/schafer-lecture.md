@@ -160,9 +160,38 @@ friends.get("Taylor").add("Hunter");
 ---
 
 ## Lecure 13: More Recursion, Public/Private Pairs
+- Each method call contains its own local variables; method variables cannot communicate across each other.
+- Private/public pairs for recursions; same name but different signature.
+- Mixing looping and recursion
+- Language: a set of words or symbols.
+- Grammar: a description of a language that describes which sequences of symbols are allowed in the language.
+- BNF grammar form
+- Terminal - a fundamental symbol in the language.
+- Non-terminal - a high-level symbol describing language abstractions or constructs
+- Regular expressions and `.split()` to break up text
 
+---
 
+## Lecture 14: Exhaustive Search
+- Applications of recursive programming to solve a variety of general problems.
+- Backtracking/exhaustive search.
+- Ordering a search via systematic ordering/process.  
+- Decision trees
 
+```java
+public static void fourAB(String soFar) {
+  if (soFar.length() == 4) {
+    System.out.println(soFar);
+  } else {
+    fourAB(soFar + "a");
+    fourAB(soFar + "b");
+  }
+}
+
+public static void main(String[] args) {
+  soFar("");
+}
+```
 
 
 
