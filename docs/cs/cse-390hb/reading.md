@@ -7,6 +7,7 @@ nav_order: 2
 ---
 
 # Reading Notes
+{: .no_toc }
 
 CSE 390HB
 {: .fs-6 .fw-300 }
@@ -15,7 +16,14 @@ Notes on the selected reading for the quarter, *Bad News: How Woke Media is Unde
 
 ---
 
-## Navigation
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
@@ -195,10 +203,24 @@ McCarthy's witch hunt gave the shift the justification it needed: reporters ampl
 ---
 
 ## Chapter 6: The Lesson of the Trump Era
+- After the 2008 crisis, the *New York Times* was facing a disastrous outlook.
+- In 2011, the *New York Times* erected a paywall - "subscription-first business model" of digital journalism.
+- The business structure incentivized reporters and editors to promote their stories.
+- A two-way relationship between readers and journalists.
+- "User-generated content"
+- Trump made a habit of attacking the press.
+- Symbiotic relationship between Trump and the press; Trump capitalized upon the feeling that the media had changed; the media capitalized upon the content.
+- The media gave Trump attention because it was profitable.
+- Kabuki theater
+- Hating Trump was a good business - drew engagement
+- Trump allowed teh *Times* to lean into the business model pioneered by Facebook.
+- Emotions drive engagement.
+- Sensationalism
+- Soon after Trump's election, there was a possibility of class understandings (*Hillbilly Elegy*, *White Trash*) - but this was quickly replaced with the explanation that Trump's voters were racists.
+- Difference between economic hardship and economic anxiety
+- Immigration and economic concerns
+- Race and economics
 
+---
 
-
-
-
-
-
+## Chapter 7: A Great Awokening
