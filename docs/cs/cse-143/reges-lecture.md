@@ -415,7 +415,7 @@ public void writeStars(int n) {
 
 ---
 
-## Week 5 Wednesday
+## Week 5 Wednesday - More Recursion
 - Binary number system.
 
 ```java
@@ -452,7 +452,7 @@ private int sum(int[] list, int index) {
 
 ---
 
-## Week 5 Friday
+## Week 5 Friday - Grammars and Regular Expressions
 - Regular expressions will be used in the homework assignment.
 - RE: descriptions of patterns in strings.
 - `-w` - need whole words.
@@ -488,6 +488,98 @@ private int sum(int[] list, int index) {
 
 ---
 
-##
+## Week 6 Monday - Inheritance
+- Inheritance - modeling different hierarchies between objects. 
+- You want to be albe to add and modify/override specificity for subclasses in the object hierarchy.
+- Maintaining multiple copies is tedious; by using inheritance hierarchies, we can better manage object relationships.
+- Code reuse
+- When you have an inheritance relationship, you automatically inherit the parent class' state and behavior.
+- Another possible approach besides 'is a' is 'can substitute for'.
+- `public class TypeB extends TypeA { ... }`.
+- Every class in Java (except for one) extends something. When you don't extend something explicitly, Java will implicitly fill in `extends Object`.
+  - `Object` is the most generic object. It is the only class that doesn't inherit from another class.
+- Interfaces are an 'obligation'; inheritance is a 'gift' - all the state and behavior of the inherited class are present in the inheriting class.
+- Java does not allow recursive or mutually dependent inheritance.
+- Superclass vs subclass.
+- `TypeA x = new TypeB();` / `TypeB y = new TypeA()` - what is going on here?
+  - Remember what's going on with the variable (declared type) vs the object (actual type)
+  - `TypeA x = new TypeB();` is valid.
+  - `TypeB x = new TypeA();` is invalid.
+  - You cannot instantiate a subclass as a superclass.
+- If you have a specialized method `bOnlyMethod`, then `x.bOnlyMethod()` from `TypeA x = new TypeB();` would be invalid.
+  - You can only call methods that are in the `TypeA` class.
+  - Role/contract in object oriented programming: different objects can fulfill certain types of roles.
+- Casting: you can cast a variable to another type. `((TypeB) x).bOnlyMethod()` - renegotiating the contract. This redirects the compiler's attention to look at the cast type rather than the declared type.
+  - Casting temporarily does not change the type of `x`; `x` is still `TypeA`.
+- Three steps:
+  1. Compiler check. Does the role include the method that you're calling?
+    - The compiler looks only at the cast type.
+  3. Runtime check. Does the object that a variable refer to fill the given role? **Only when there is a cast involved.**
+    - The cast type must be a valid relationship between the object type and the cast type.
+  5. Execute the method. None of the stuff matters; all that matters is the object itself. Objects always behave in the same way.
+- Always draw an inheritance hierarchy
+- Optionally, write out a table:
+
+| Method | `m1` | `m2` | `m3` |
+| --- | --- | --- | --- |
+| One | "One1" | - | - |
+| Two | "One1" | - | "Two3" |
+| Three | "One1" | "Three2", `m1()` | - |
+| Four | "Four1", "One1" | "Three2", `m1()` | "Four3" | 
+
+- `super.` is a call on a superclass method; we want to have access to the original.
+- The same command can be interpreted in different ways.
+- Polymorphism
+- The compiler looks only at the cast type.
+- Section will be useful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
