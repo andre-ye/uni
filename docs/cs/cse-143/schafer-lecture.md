@@ -193,5 +193,8 @@ public static void main(String[] args) {
 }
 ```
 
-
+- Backtracking sequence:
+  1. Choose
+  2. Explore
+  3. Backtrack/undo
 
