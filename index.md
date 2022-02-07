@@ -31,4 +31,4 @@ Notes from classes, research, speeches, student organizations, and more from the
 
 I’m Andre, and I’m on a mission to document my college experience. This website serves to host class notes at the University of Washington. I’m pursuing dual study in Computer Science and Philosophy.
 
-If you're also a student at the UW and are introduced in contributing your notes, reach out to me at `andreye@uw.edu` for possibilities of collaboration. I'm looking to convert this site from a personal project into a wide-ranging repository for college notes and content, if there are people willing to work with me to that end.
+| If you're also a student at the UW and are introduced in contributing your notes, reach out to me at `andreye@uw.edu` for possibilities of collaboration. I'm looking to convert this site from a personal project into a wide-ranging repository for college notes and content, if there are people willing to work with me to that end. |
