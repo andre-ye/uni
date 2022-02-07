@@ -466,9 +466,95 @@ $$\int_a^b u dv = uv \big]_a^b - \int_a^b v du$$
 
 - See textbook for the calculation of $$\int \sec^3 x dx$$.
 
+---
+
+## Week 6 Monday - Trigonometric Substitutions
+
+> Example: Find $$\int \sqrt{4 - x^2} dx$$.
+
+> This is the area under a semi-circle; we are going to get a $$pi$$ somehow. Let $$x$$ be something such that this square root will simplify: $$x = 2\sin \theta$$; $$\dx = 2\cos\theta d\theta$$. If we now compute the integral, we get $$\int \sqrt{4 - 4\sin^2 \theta} = 2 \sqrt{1 - \sin^2 \theta} = 2\cos \theta$$. When we take the square root, we need to make sure $$\cos theta > 0$$; we can impose a limit $$-\frac{\pi}{2} \le \theta \le \frac{\pi}{2}$$. Taking the integral, we obtain $$\int 2 \cos \theta \cdot 2\cos \theta d\theta = \int 4 \cos^2 \theta d\theta = \int 4\left(\frac{1 + \cos 2\theta}{2}\right) d\theta = \int 2(1 + \cos 2\theta) d\theta = 2(\theta + \frac{1}{2} \sin 2\theta) + C$$. We need this in terms of $$x$$: we have that $$x = 2\sin \theta \implies $$. Firstly, we can use the double angle formula: $$2 \theta + 2 \sin \theta \cos \theta + C$$. We have $$2 \sin^{-1} \frac{x}{2} + x\sqrt{4 - x^2} + C$$.
+
+- To navigate tricky trigonometric relationships, you can draw a right triangle, interpolate its values interpretatively, and extrapolate relationships.
+- Steps:
+  1. Choose a substitution
+  2. Plug the substitution in
+  3. Evaluate the substitution
+  4. Replace the trigonometric $$\theta$$ substitution with the original variable
+- When should you use trigonometric substitutions? Some heuristics:
+
+| Integrand contains... | Try substitution... | So you can... |
+| --- | --- | --- |
+| $$\sqrt{a^2 - x^2)$$ | $$x = a\sin \theta$$ | Use the identity $$1 - \sin^2\theta = \cos^2\theta$$. |
+| $$\sqrt{a^2 + x^2)$$ | $$x = a\tan \theta$$ | Use the identity $$1 + \tan^2 \theta = \sec^2 \theta$$. |
+| $$\sqrt{x^2 - a^2}$$ | $$x = a\sec \theta$$ | Use the identity $$\sec^2 \theta - 1 = \tan^2 \theta$$. |
+
+- Make sure to change the limits of integration if you evaluate w.r.t. $$\theta$$.
+
+> Example: Find $$\int_3^6 \frac{\sqrt{x^2 - 9}{x} dx$$.
+
+> Let $$x = 3 \sec \theta$$; $$dx = 3 \sec \theta \tan \theta d\theta$$. We can rewrite the numerator as $$3 \tan \theta$$. The original integral can be rewritten as $$\int_0^{\frac{\pi}{3}} \frac{3\tan \theta}{3 \sec \theta} \cdot 3 \sec \theta \tan \theta d \theta$$ (notice the bound recalculation). This can be simplified as $$\int_0^{\frac{\pi}{3}} 3 \tan^2 \theta d\theta$$. We can rewrite $$\tan^2$$ in terms of $$\sec^2$$: $$3 \int_0^{\frac{\pi}{3}} \left(\sec^2 \theta - 1\right) d\theta = 3 \left(\tan \theta - \theta) \big]_0^{\frac{\pi}{3}} = 3 \left( \tan \frac{\pi}{3} - \frac{pi}{3}\right) = 3 \sqrt{3} - \pi$$.
 
 
 
+> Example: Find $$\int \frac{\dx}{\sqrt{4 + 9x^2}}$$.
+
+> Note that $$\sqrt{4 + 9x^2} = 3 \sqrt{ \frac{4}{9} + x^2 }$$. Let $$x = \frac{2}{3} \tan \theta$$; $$dx = \frac{2}{3} \sec^2 \theta d\theta$$. Plugging things in yields $$\int \frac{\frac{2}{3} \sec^2 \theta d\theta}{\sqrt{4 + 4 \tan^2 \theta}} = \int \frac{\frac{2}{3} \sec^2 \theta d\theta}}{2 \sec \theta} = \frac{1}{3} \int \sec \theta d\theta = \frac{1}{3} \ln \left \| \sec\theta + \tan \theta \| + C = \frac{1}{3} \ln \left\| \frac{\sqrt{4 + 9x^2}}{2} + \frac{3x}{2} \right\|$$.
+
+
+- Sometimes, you will have multiple terms involved. You may need to complete the square first to realize one of the trigonometric substitution precondition forms.
+
+> Example: Find $$\int \frac{x}{1 + 4x - x^2}{dx}$$.
+
+> We can complete the square by rewriting $$1 + 4x - x^2 = -(x^2 - 4x - 1) = -(x^2 - 4x + 4 - 5) = -((x-2)^2 - 5) = 5 - (x-2)^2$$. The integral is thus
+
+$$\int \frac{x}{\sqrt{5 - (x-2)^2}} dx$$
+
+> We can perform a $$u$$-substitutiton; let $$u = x-2 \implies du = dx$$.
+
+$$\int \int \frac{u + 2}{\sqrt{5 - u^2}} du$$
+
+> Let us perform another substitution: let $$u = \sqrt{5} \sin \theta \implies du = \sqrt{5} \cos \theta d \theta$$.
+
+$$\int \frac{ \sqrt{5} \sin \theta + 2}{\sqrt{5} \cos \theta} \sqrt{5} \cos \theta d \theta \implies \int (\sqrt{5} \sin \theta + 2) d\theta$$
+
+> Integrating yields $$- \sqrt{5} \cos \theta + 2 \theta + C$$. We now need to rewrite it in terms of $$u$$:
+
+$$- \sqrt{5 - u^2} + 2 \sin^{-1} \frac{u}{\sqrt{5}} + C$$
+
+> We need to substitute back in for $$x$$:
+
+$$- \sqrt{5 - (x-2)^2} + 2 \sin^{-1} \frac{x - 2}{\sqrt{5}} + C$$
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  - If your integrand contains something like $$\sqrt{a^2 - x^2}$$
 
 
 
