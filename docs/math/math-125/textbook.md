@@ -259,8 +259,23 @@ $$\cos^2 x = \frac{1}{2} \left(1 + \cos 2x \right)$$
 
 - For products involving powers of $$\tan x$$ and $$\sec x$$, use $$\tan^2 x = \sec^2 x - 1$$.
 
+---
 
+## 7.3: Trigonometric Substitution
+- In finding the area of a circle or ellipse, we encounter an integral of form $$\int \sqrt{a^2 - x^2} dx$$ where $$a > 0$$.
+- If we let $$x = a \sin \theta$$, then the identity $$1 - \sin^2 \theta = \cos^2 \theta$$ allows us to get rid of the root sign.
 
+$$\sqrt{a^2 - x^2} = \sqrt{a^2 - a^2 \sin^2 \theta} = a | \cos \theta |$$
+
+- In general, we can make a substitution $$x = g(t)$$ using the substitution rule in reverse.
+
+$$\int f(x) dx = \int f(g(t)) g'(t) dt$$
+
+| Expression | Substitution | Identity |
+| --- | --- | --- |
+| $$\sqrt{a^2 - x^2}$$ | $$x = a \sin \theta$$, $$-\frac{\pi}{2} \le \theta \le \frac{\pi}{2}$$ | $$1 - \sin^2 \theta = \cos^2 \theta$$ |
+| $$\sqrt{a^2 + x^2}$$ | $$x = a \tan \theta$$, $$-\frac{\pi}{2} < \theta < \frac{\pi}{2}$$ | $$1 + \tan^2 \theta = \sec^2 \theta$$ |
+| $$\sqrt{x^2 - a^2}$$ | $$x = a\sec \theta$$, $$0\le \frac{\pi}{2}$$ or $$\pi \le \theta < \frac{3\pi}{2}$$ | $$\sec^2 \theta - 1 = \tan^2 \theta$$ |
 
 
 
