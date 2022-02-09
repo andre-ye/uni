@@ -548,7 +548,7 @@ private int sum(int[] list, int index) {
 - Quick Sort
 - Merge Sort. Has $$O(N \log N)$$ time.
 - `.compareTo`
-
+- Stable Sort: preserves the relative order of 'ties'.
 
 
 
