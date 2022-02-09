@@ -528,11 +528,72 @@ $$- \sqrt{5 - (x-2)^2} + 2 \sin^{-1} \frac{x - 2}{\sqrt{5}} + C$$
 ---
 
 
+## Week 6 Wednesday - Partial Fractions
+- Last Quiz: average of 9.0, median 10.
+- Partial fractions can be used to integrate any rational function - a polynomial divided by another polynomial.
 
+$$f(x) = \frac{P(x)}{Q(x)}$$
 
+- A polynomial is a sum of integer, nonnegative powers of an independent variable $$x$$.
 
+Steps:
+1. Make sure the rational function is in proper form - the degree of the numerator must be smaller than the degree of the denominator using long division.
 
+> Consider $$\frac{x^3 + 1}{x^2 - 3x + 2}$$. It can be reduced as $$x + 3 + \frac{7x - 5}{x^2 - 3x + 2}$$ through polynomial division.
 
+2. Factor the denominator. You can always factor a quadratic into linear $$$ax+b$$ or quadratic factors $$ax^2 + bx + c$$ with no real roots.
+
+> Consider $$x^2 - 3x + 2$$; this can be factored as $$(x-1)(x-2)$$.
+
+3. If the result consists of all distinct linear factors, rewrite the rational function as a sum of terms $$\frac{A}{ax+b}$$ and integrate.
+
+> Consider $$\frac{7x - 5}{(x-1)(x-2)}$$. We can always rewrite this as $$\frac{A}{x-1} + \frac{B}{x-2}$$. Multiplying both sides fot eh LHS denominator, we have $$7x-5 = A(x-2) + B(x-1)$$. Now, we plug in values of $$x$$ and get an output. By plugging in $$x = 1$$, we get $$2 = -A + 0 \implies A = -2$$. If $$x = 2$$, we get $$9 = 0 + B \implies B = 9$$. It follows that $$\frac{7x-5}{(x-1)(x-2)} = \frac{-2}{x-1} + \frac{9}{x-2}$$.
+
+> An alternative method: take $$7x - 5 = A(x-2) + B(x-1)$$ and expand as $$7x - 5 = (A+B)x - 2A - B$$. We know that $$A+B = 7$$ and $$-2A-B = -5$$. Solve the linear system.
+
+> We can now integrate the result: we rewrote $$\int \frac{x^3 + 1}{x^2 - 3x + 2} dx = \int \left(x + 3 + \frac{-2}{x-1} + \frac{9}{x-2} \right) dx = \frac{x^2}{2} + 3x - 2\ln |x-1| + 9 \ln |x-2| + C$$.
+
+4. If the result contains a repeated linear factor $$(ax + b)^k$$, write as a sum of terms $$\frac{A}{ax + b} + \frac{B}{(ax+b)^2} + \frac{C}{(ax+b)^3} + ... + \frac{Q}{(ax+b)^k$$.
+
+> Consider $$\int \frac{2x + 3}{x^3 - 2x^2 + x} dx$$. We need to factor the denominator: $$x^3 - 2x^2 + x = x (x-1)^2$$. We want to write $$\frac{2x+3}{x(x-1)^2} = \frac{A}{x} + \frac{B}{x-1} + \frac{C}{(x-1)^2$$. Multiplying by the LHS denominator yields
+
+$$2x+3 = A(x-1)^2 + Bx(x-1) + Cx$$
+
+> We can plug in $$x = 0$$ and $$x = 1$$; if $$x = 0$$, we get $$3 =  A$$. If $$x = 1$$, we get $$5 = C$$. If $$x = 2$$, we get $$7 = A + 2B + 2C \implies 3 + 2B + 10 \implies B = -3$$. The original function is thus rewritten as
+
+$$ \frac{3}{x} - \frac{3}{x-1} + \frac{5}{(x-1)^2}$$
+
+$$\int \frac{2x + 3}{x^3 - 2x^2 + x} dx = \int\left( \frac{3}{x} - \frac{3}{x-1} + \frac{5}{(x-1)^2} \right) dx = 3 \ln |x| - 3 \ln |x-1| - \frac{5}{x-1} + C$$.
+
+5. If the result contains distinct quadratic factors $$ax^2 + bx + c$$, write as a sum of terms $$\frac{Ax+B}{ax^2 + bx + c}$$.
+
+> Find $$\int \frac{x^2 - 1}{x^3 + 2x^2 + 5x}$$. We can factor this as $$x^3 + 2x^2 + 5x = x(x^2 + 2x + 5)$$. We write this as $$\frac{x^2 - 1}{x(x^2 + 2x + 5)} = \frac{A}{x} + \frac{Bx + C}{x^2 + 2x + 5}$$. We can clear the denominator: $$x^2 - 1 = A(x^2 + 2x = 5) + (Bx + C)x$$. We get $$A = -\frac{1}{5}, B = \frac{6}{5}, C = \frac{2}{5}$$.
+
+> The integral is thus rewritten as follows:
+
+$$\int \frac{x^2 - 1}{x^3 + 2x^2 + 5x} dx = \frac{1}{5} \int \left( -\frac{1}{x} + \frac{6x+2}{x^2 + 2x + 5} \right) dx$$
+
+> The second term in the integrand requires some work. We can remember the following identity: 
+
+$$\int \frac{dx}{x^2 + a^2} = \frac{1}{a} \arctan \left( \frac{x}{a} \right) + C$$
+
+> We can evaluate as follows:
+
+$$\int \frac{6x + 2}{x^2 + 2x + 5} dx = \int \frac{6x+2}{(x+1)^2+4} dx$$
+
+> Let $$u = x+1$$; $$du = dx$$:
+
+$$ \implies \int \frac{6u - 4}{u^2 + 4} du = \int \frac{6u}{u^2 + 4} du - \int \frac{4}{u^2 + 4} du$$
+
+> Let $$v = u^2 + 4$$; $$dv = 2udu$$.
+
+$$ \implies \int \frac{6u}{u^2 + 4} du = \int \frac{3}{v} dv$$
+
+> We can use the other formula to evaluate the second term:
+
+$$ \implies 3 \ln (u^2 + 4) - 2 \arctan \left( \frac{u}{2} \right) + C$$
+
+- Then, substitute back the remaining variables.
 
 
 
