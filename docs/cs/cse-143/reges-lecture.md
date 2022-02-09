@@ -534,9 +534,20 @@ private int sum(int[] list, int index) {
 - Section will be useful.
 
 
+---
 
-
-
+## Week 6 Wednesday - Sorting
+- Exam for this lecture section is on Friday. Do not lose points by stopping late.
+- Do not forget to reset `size` for ArrayIntList problems.
+- Desired mean of about 75%.
+- Selection Sort - iteratively find the smallest element in an array, remove it, and continue until the array is empty. An intuitive, classic sorting routine. $$O(N^2)$$ time.
+- Bubble Sort - look at elements next to each other; if two elements are out of order, you switch it. $$O(N^2)$$ time.
+- Bogo Sort - just guess it every time. 
+- Insertion Sort - an intuitive sort in which we insert at each point that preserves structure. $$O(N^2)$$ time.
+- Bucket/radix sort
+- Quick Sort
+- Merge Sort. Has $$O(N \log N)$$ time.
+- `.compareTo`
 
 
 
