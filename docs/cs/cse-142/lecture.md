@@ -15,7 +15,6 @@ CSE 142
 
 ## Week 1 Wednesday Lecture
 
-
 ### About CSE 142
 - Learning Objectives
   - **Functionality/Behavior** - write functionally correct Java programs that meet a provided specification and/or solve a specified problem.
@@ -76,7 +75,160 @@ CSE 142
 
 ---
 
-## Week 
+## Week 2 Monday Lecture
+
+### Administrative
+- Large programming assignments to assess mastery of the week's concepts. Make up the bulk of assignments.
+- Credit for a checkpoint is to get the small-check mark.
+- Culminating assessments (series of problems overing all material up to that point)
+- Reflections with other assignmentsaa - put some time and thought into it
+- ESNU grading: final grades will be assigned based on the amoutn of work at each level.
+  - Visit the syllabus for ESN table.
+  - Count how many reflections, checkpoints, etc. - compute the bundle and find the highest of guaranteed grades that you completely qualify for.
+  - After the bundles, there will be bumps; credit will be given and adding it to the base grade.
+  - The bumps are not given by a preset grading distribution. Accounts for changes in the course.
+- Resubmission: one previous take-home assessment can be resubmitted each week.
+- Collaboration policy: you can discuss ideas and approachess at a high level.
+
+#### Java
+- Use `System.out.println()` instead of `System.out.println("")`.
+- Use methods to capture structure; don't put all code in the main function.
+- There is not one right way to write code.
+- Be able to defend your choice.
+- Redundancy: we don't want to repeat code unnecessarily. The more you type, the more likely you will make an error.
+  - Current definition: 2 or more lines of code that are exactly the same in 2 or more places in your program.
+  - A single line of code cannot be redundant.
+  - We make a few exceptions to the redundancy rule, including blank lines.
+- Methods can call other methods.
+
+---
+
+## Week 2 Wednesday Lecture
+
+- Control Flow Construct: the order in which operations are executed.
+- So far, we have used linear control flow.
+- Loop - a mechanism to make a chunk of code execute an integer number of times.
+- Syntax: `for (int i=0; i<n; i++) {...}`.
+  - Initialization, condition, update method
+- Assignment - setting a variable to a value.
+
+
+---
+
+## Week 2 Friday Lecture
+
+- Counting loop; waiting until a condition happens.
+- Initialize vcounting variable once; test the condition; repeat until condition is violated.
+
+---
+
+## Week 3 Monday Lecture
+
+### Administrative
+- Look at feedback and make sure you are taking advantage of given information.
+- Highly important and recommended to reference resources.
+
+### Java
+- Class constants - `public static final int VAR = VAL;`.
+- Truncated/floor division.
+- Modulus - remainder.
+
+---
+
+## Week 3 Wednesday Lecture
+### Administrative
+- Resubmission Cycle - fill out a Google form and provide the Ed URL in addition to remarking your submission.
+
+### Java
+- Scope - where are things visibe to each other?
+- A variable declared in one method is not visible in another method.
+- Parameters -what we do when we call the method and what we do in the method that accepts the parameters.
+- Never use global variables.
+- `import java.util.*` - import directive. Put at top of script. We must ask to get access to this.
+- `Scanner` is a class in Java - performs input.
+- `Scanner console = new Scanner(System.in); int input = console.nextInt();` - connects to the computer input.
+
+---
+
+
+## Week 3 Friday Lecture
+- Procedural programming - verb, noun structure.
+- Java is designed for *object-oriented programming* rather than *procedural programming*.
+- A class defines the structure of an object; an object is the thing itself.
+- Scanners - `Scanner console = new Scanner(System.in); int input = console.nextInt(); String strInput = console.next()`.
+- Pass the console as a parameter to a method using user input.
+
+---
+
+## Week 4 Monday Lecture
+### Administrative
+- Things are ramping up and we are getting into the meat of the coruse.
+- Moving from feeling uncomfortable to unsure.
+
+### Java
+-`char` vs `String`
+- Return values; we must recognize how to use the return value.
+- If you want a method to return something, replace `void` with the output type.
+
+---
+
+## Week 4 Wednesday Lecture
+
+- Return values - a method to pass information throughout different methods.
+- Store returned values in a variable, do not assume that variables themselves have been passed.
+- If you want to concatenate characters into a string, use `""+char1+char2+char3`.
+- Conditionals/branches/if statements.
+
+```java
+if (condition) {
+  doSomething();
+}
+```
+
+- `num == 0`
+- `if/else if/else`
+
+---
+
+## Week 4 Friday Lecture
+- Pseudocode - planning programs without worrying about syntax.
+- Cumulative programs.
+
+
+---
+
+
+## Week 5 Monday Lecture
+
+- A method should complete one task - don't chain methods.
+- Main should drive the program. Methods should complete their own work rather than dictating what should come next.
+- Reading in multiple words: `console.nextLine()`; don't mix `nextLine` with anything else.
+- We cannot use `==` with Strings in the way we want it to. Strings are objects (i.e. not primitives); this tests if the two objects you are comparing are exactly the same object - not if it holds the same information.
+  - Use `String.equals(String)` instead.
+- Use `while` loop
+
+---
+
+## Week 5 Wednesday Lecture
+### Administrative
+- Simulated Midterm - write what a midterm would have looked like.
+- A key for the simulated midterm will be released; you will be asked to annotate the midterm and make notes on what you didn't do correctly.
+
+### Java
+- Fencepost problems: posts and wire.
+- Also can be known as a sentinel loop.
+
+---
+
+*Notes discontinued after Week 5.*
+
+
+
+
+
+
+
+
 
 
 
