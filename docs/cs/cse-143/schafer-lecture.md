@@ -172,7 +172,7 @@ friends.get("Taylor").add("Hunter");
 
 ---
 
-## Lecture 14: Exhaustive Search
+## Lecture 15: Exhaustive Search
 - Applications of recursive programming to solve a variety of general problems.
 - Backtracking/exhaustive search.
 - Ordering a search via systematic ordering/process.  
@@ -197,4 +197,25 @@ public static void main(String[] args) {
   1. Choose
   2. Explore
   3. Backtrack/undo
+
+---
+
+## Lecture 16: More Recursive Backtracking
+- Exploring all possibilities: trying every possibile outcome until something works.
+- Spot and eliminate dead ends - or else you will get stack overflow errors.
+- 8 queens problem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
