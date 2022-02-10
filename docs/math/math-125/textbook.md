@@ -277,6 +277,10 @@ $$\int f(x) dx = \int f(g(t)) g'(t) dt$$
 | $$\sqrt{a^2 + x^2}$$ | $$x = a \tan \theta$$, $$-\frac{\pi}{2} < \theta < \frac{\pi}{2}$$ | $$1 + \tan^2 \theta = \sec^2 \theta$$ |
 | $$\sqrt{x^2 - a^2}$$ | $$x = a\sec \theta$$, $$0\le \frac{\pi}{2}$$ or $$\pi \le \theta < \frac{3\pi}{2}$$ | $$\sec^2 \theta - 1 = \tan^2 \theta$$ |
 
+---
+
+## 7.4: Integration of Rational Functions by Partial Fractions
+
 
 
 
