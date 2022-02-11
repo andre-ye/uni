@@ -596,6 +596,58 @@ $$ \implies 3 \ln (u^2 + 4) - 2 \arctan \left( \frac{u}{2} \right) + C$$
 - Then, substitute back the remaining variables.
 
 
+---
+
+## Week 6 Friday - Strategy for Integration
+Last time - partial fractions
+1. Use long division to make the numerator hav ea smaller degree than the denominator (i.e. proper form)
+2. Factor the denominator into lienar factors or quadratic factors.
+3. Write as a sum of fractions in partial fraction form.
+4. Obtain equations for $$A, B, C, ...$$ and solve by plugging in values of $$x$$ or expanding and equating coefficients.
+5. Integrate each term using previous techniques ($$u$$-substitution for linear factors, completing the square/trig substitution $$\int \frac{dx}{x^2 + a^2} = \frac{1}{a} \tan^{-1} \frac{x}{a} + C$$ for quadratic factors).
+
+Partial fraction form:
+
+- $$\frac{A}{ax+b}, \frac{B}{(ax+b)^2}, ...$$ if $$(ax+b)^k$$ appears
+- $$\frac{Ax+B}{ax^2 + bx + c}, \frac{Cx+D}{(ax^2+bx+c)^2, ...$$ if $$(ax^2+bx+c)^k$$ appears
+- Quadratic factors must have no real roots (i.e. $$0 > b^2 - 4ac \implies b^2 < 4ac$$.
+
+*Strategy for integration* (mysterious!)
+
+- A difference between knowing a technique and knowing how to integrate an arbitrary integral.
+- The best way to get better at integrals is to do a lot of them
+
+Tips
+- Recognize integrals of common expressions/standard integrals or a simple $$u$$-substitution from a common expression/standard integrals. See table in section 7.5.
+- Try performing algebraic manipulations.
+- Look for good $$u$$-substitutions. Many integrals require you to make a clever substitution that can be integrated more easily.
+  - If your integrand contains a very complicated subexpression in a denominator, radicals, power, etc. - try substituting for the subexpression.
+    - Rationalizing substitution: $$u = \sqrt{g(x)}$$
+  - Try to recognize potential derivatives and substitute for the antiderivative such that $$du$$ cancels out the derivative. 
+- If the integrand is a product of two components, try integration by parts. One of the things has to be easy to integrate, and the other needs to be easy to differentiate. 
+
+Remember that we have various specialized techniques for certain types of integrals: product of trig functions, trig substitutions, rational functions, etc.
+
+**Examples**
+
+> Consider the function $$\int (x + \sin x)^2 dx$$. Possible ideas:
+- Let $$u = x + \sin x$$ substitution? However, $$du = (1 + \cos x) dx$$ - this does not simplify our situation.
+- Use integration by parts with $$u = x + \sin x$$ and $$dv = (x + \sin x)dx$$, yielding $$du = 1 + \cos x$$ and $$v = \frac{x^2}{2} - \cos x$$. The $$v du$$ term is quite complicated to integrate, so it will not really work.
+- Expand the integral: $$(x + \sin x)^2 = x^2 + 2x\sin x + \sin^2 x$$. We can integrate each of the terms.
+  - The first term is trivial: $$ \frac{1}{3} x^3$$
+  - The second term can be integrated with integration by parts: let $$u = x$$ and $$dv = \sin x dx$$; $$du = dx$$ and $$v = -\cos x$$; the integral is $$-x\cos x + \int \cos x dx = 2(-x \cos x + \sin x)$$
+  - The third term can be integrated by rewriting using the double angle identity $$\int \sin^2 x dx = \int \frac{1 - \cos 2x}{2} dx$$, which can be integrated.'
+> The answer is $$\frac{x^3}{3} - 2x \cos x + 2\sin x + \frac{x}{2} - \frac{\sin 2x}{4} + C$$
+
+
+> Consider the function $$\int \frac{1}{x + \sqrt{x + 2}} dx$$. Possible ideas:
+- Rationalize the denominator using the conjugate of the denominator. $$\frac{1}{x + \sqrt{x+2}} \cdot \frac{x - \sqrt{x+2}}{x - \sqrt{x + 2}} = \frac{x - \sqrt{x+2}}{x^2 - x - 2}$$. Integrating this expression is very difficult.
+- Let $$u = x+2$$ with $$u$$-substitution. Our interval becomes $$\int \frac{1}{u - 2 + \sqrt{u}}$$. This is also very difficult to integrate.
+- Let $$u = \sqrt{x + 2}$$ with $$u$$-substitution. 4$du = \frac{1}{2\sqrt{x+2}}dx \implies 2x = 2udu$$. $$\int \frac{1}{x + \sqrt{x + 2}} dx = \int \frac{1}{u^2 - 2 + u} \cdot 2udu$$. This is a rationalizing substitution - we took something that wasn't a rational function and turned it into a rational function. You can now use partial fractions.
+> The result is $$\frac{4}{3} \ln \| \sqrt{x+2} + 2 \| + \frac{2}{3} \ln \| \sqrt{x+2} - 1 \| + C$$.
+
+> Consider the function $$\int \frac{\tan^{-1} x}{x^2} dx$$.
+- Integration by parts: let $$u = \frac{1}{x^2}$$ and $$dv = \tan^{-1} x dx$$. $$u = \tan^{-1} x$$, $$dv = \frac{1}{x}^2 dx$$, $$du = \frac{1}{1+x^2} dx$$, $$v = -\frac{1}{x}$$. The result is $$-\frac{\tan^{-1}x}{x} + \int \frac{1}{x(1+x^2)} dx$$. We can then apply partial fractions: $$ \frac{A}{x} + \frac{Bx+C}{1+x^2} = \frac{1}{x(1+x^2)}$$. After solving, we get $$A = 1, B = -1, C = 0 \implies \frac{1}{x} - \frac{x}{1+x^2}$$. Use a $$u$$-substitution on thes econd term. The final integral is $$-\frac{\tan^{-1} x}{x} + \ln\|x\| - \frac{1}{2} \ln \| 1 + x^2 \| + C$$.
 
 
 
@@ -615,7 +667,7 @@ $$ \implies 3 \ln (u^2 + 4) - 2 \arctan \left( \frac{u}{2} \right) + C$$
 
 
 
-  - If your integrand contains something like $$\sqrt{a^2 - x^2}$$
+
 
 
 
