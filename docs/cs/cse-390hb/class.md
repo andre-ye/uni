@@ -7,16 +7,23 @@ nav_order: 1
 ---
 
 # Class Notes
+{: .no_toc}
 
 CSE 390HB
 {: .fs-6 .fw-300 }
 
 ---
 
-## Navigation
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
-
 
 ## Week 2
 Adminstrative
@@ -60,3 +67,22 @@ Concepts
 - Godel's incompleteness theorem
 - Turing and the Halting Problem
 - Card trick
+
+---
+
+## Week 6
+- Question of media and separation of 'facts' and 'interpretation'
+- Two stories: the Joe Rogan story and the Canadian Trucker story
+- The Overton window; the nature of discussion
+- What did Trump do to change the journalism model?
+- Explaining the card trick combinatorial problem from the previous class.
+- Turing and computable numbers: any program used to compute a number is represented in binary; this binary representation corresponds to an integer. If for every real number there exists a computer program that can compute it, then the set of reals is on a one-to-one comparison with the set of integers. We know from set theory and the diagonalization argument that this is not true. Therefore, many numbers are not computable - but we can't express any of them, because if we could express them they would be computable!
+- Rubik's cube properties:
+  - If we 'melted off' the colored tiles/stickers on a Rubik's cube and put them back on, is the cube still solvable (i.e. revertable back to its original state)? The answer is clearly no. How would we write a computer program to determine if a cube is solvable or not? Look at relationships between edges, corners, centers, etc.
+  - If we took off entire blocks (i.e. retaining the relationships between colored tiled/stickers are the same) and reattached them, is the cube guaranteed to be solvable? The answer is also no.
+  - If we attach an orientation number from 0 to 2 for each corner orientation, the sum of orientation numbers for all corners in a Rubik's cube must be divisble by 3. Discovered by Stuart Reges and the graduate students at Stanford's Problem Solving seminar!
+
+
+
+
+
