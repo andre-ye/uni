@@ -15,6 +15,7 @@ List of interesting papers, articles, and posts shared within the lab.
 
 ---
 
+- [Unbiggen AI](https://spectrum.ieee.org/andrew-ng-data-centric-ai){:target="_blank"}
 - [How can you judge the quality of a news outlet? Look at how politically diverse its audience is](https://www.niemanlab.org/2022/02/how-can-you-judge-the-quality-of-a-news-outlet-look-at-how-politically-diverse-its-audience-is/?fbclid=IwAR28vxeu1QfNaT50xvvNzoZl9FcDiVRafEFzuQDGdH-2J0YXRrm6Zl1u1MY){:target="_blank"}
 - [Jury Learning: Integrating Dissenting Voices into Machine Learning Models](https://arxiv.org/pdf/2202.02950.pdf){:target="_blank"}
 - [Designing for Engaging with News using Moral Framing towards Bridging Ideological Divides](https://arxiv.org/pdf/2101.11231.pdf){:target="_blank"}
