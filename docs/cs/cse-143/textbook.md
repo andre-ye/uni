@@ -910,9 +910,51 @@ public void remove(int index) {
   - Other ancestral relationships follow: sibling, grandparent, etc.
 - Similar to Linked Lists, but with a left and right component rather than just a next field.
 
-### 17.2: 
+### 17.2: Tree Traversals
+- We can't do much with a tree unless we can see what's inside.
+- A tree is defined recursively, so navigating it recursively is perhaps the easiest choice.
+- Preorder - process the root before you traverse either subtree
+- Postorder - process the root after you traverse both subtrees
+- Inorder - process the root in between traversing either subtree
+- Imagine a sailboat sailing down the 'coastline' of the tree.
+  - When the sailboat passes nodes on the left, you get preorder traversal
+  - When the sailboat passes underneath, you get inorder traversal
+  - When the sailboat passes nodes on the right, you get postorder traversal
 
+```java
+private void printPreorder(IntTreeNode root) {
+  if (root != null) {
+    System.out.print(" " + root.data);
+    printPreorder(root.left);
+    printPreorder(root.right);
+  }
+}
 
+private void printInorder(IntTreeNode root) {
+  if (root != null) {
+    printInorder(root.left);
+    System.out.print(" " + root.data);
+    printInorder(root.right);
+  }
+}
+```
+- Printing a tree:
+
+```java
+public void printSideways() {
+  printSideways(overallRoot, 0);
+}
+private void printSideways(IntTreeNode root, int level) {
+  if (root != null) {
+    printSideways(root.right, level + 1);
+    for (int i = 0; i < level; i++) {
+      System.out.print(" ");
+    }
+    System.out.println(root.data);
+    printSideways(root.left, level + 1);
+  }
+}
+```
 
 
 
