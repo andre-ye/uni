@@ -7,11 +7,23 @@ nav_order: 100
 ---
 
 # Random Ideas
-
-Social Futures Lab
-{: .fs-6 .fw-300 }
+{: .no-toc}
 
 Unorganized seedlings of ideas, perhaps promising or stupid or both.
+{: .fs-6 .fw-300 }
+
+*These ideas are added when they were concieved and do not necessarily represent ideas I think will work or are meaningful to pursue.*
+
+---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
@@ -74,7 +86,4 @@ A neural network can be trained with $$n$$ output nodes; the output can be inter
 
 We have transformed a regression problem into a probability distribution modeling problem into a multiclass problem. The Neural Net can be fitted with a specialized head to process the input (e.g. convolutional for images, recurrent/transformer for sequence) and a FC output for distribution prediction. The network can be optimized either through a conventional classification loss function (i.e. multiclass categorical crossentropy), or through a distribution loss function like KL divergence.
 
-This method can provide a better feedback for regression problems.
-
-
-
+This method can provide more continuous feedback for regression problems.
