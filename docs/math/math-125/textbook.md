@@ -301,6 +301,14 @@ $$\frac{A}{(ax+b)^i} \text{ or } \frac{Ax+B}{(ax^2+bx+c)^j}$$
   - Radicals: use a rationalizing substituion or a trigonometric substitution
 - Try again
 
+### Can we integrate all continuous functions?
+{: .no_toc}
+
+No, not in terms of functions we are familiar with.
+
+- Elementary functions: polynomials, rational functions, power functions, exponential functions, logarithmic functions, trig and inverse trig functions, hyperbolic and inverse hyperbolic functions, functions that can be obtained from these by the five operations of addition, subtraction, multiplication, and composition.
+- If $$f$$ is an elementary function, then $$f'$$ is an elementary function, but $$\int f(x) dx$$ is not necessarily an elementary function.
+- The majority of elementary functions do not have elementary antiderivatives.
 
 
 
