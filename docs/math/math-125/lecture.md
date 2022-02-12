@@ -253,7 +253,7 @@ $$\text{Volume of a slice at } x \approx A(x) \cdot \Delta x$$
 - Express as a limit of a Riemann sum.
 - Volume is $$\int_a^b A(x) dx$$, where $$A$$ is the area of a cross-section at $$x$$.
 
-> Example: Find the volume of a sphere of radius $$r$$. We know that the radius is $$r$$, meaning that the distance between any point on the surface and the center is $$r$$. We have the radius of a cross section at $$x$$ as $$\sqrt{r^2 - x^2}$$. The area is $$A(x) = \pi (r^2 - x^2)$$. To find the volume, we integrate $$\int_{-r}^r \pi(r^2 - x^2) dx = \int_{-r}^r \pi r^2 - \pi x^2 dx = \pi r^2 x - \frac{pi}{3} x^3 \|_{-r}^r$$.
+> Example: Find the volume of a sphere of radius $$r$$. We know that the radius is $$r$$, meaning that the distance between any point on the surface and the center is $$r$$. We have the radius of a cross section at $$x$$ as $$\sqrt{r^2 - x^2}$$. The area is $$A(x) = \pi (r^2 - x^2)$$. To find the volume, we integrate $$\int_{-r}^r \pi(r^2 - x^2) dx = \int_{-r}^r \pi r^2 - \pi x^2 dx = \pi r^2 x - \frac{\pi}{3} x^3 \|_{-r}^r$$.
 
 > Example: Find the volume of a square pyramid whose base is $$L \times L$$ and whose height is $$h$$. The area for a certain height $$h$$ is $$\frac{l}{L} = \frac{z}{h} \to A(z) = \frac{L^2 z^2}{h^2}$$. The volume is thus given by $$\int_0^h \frac{L^2 z^2}{h^2} dz = \frac{L^2}{h^2} \cdot \frac{z^3}{3} \|^h_0 = \frac{1}{3} L^2 h$$.
 
@@ -267,7 +267,7 @@ $$\text{Volume of a slice at } x \approx A(x) \cdot \Delta x$$
 ## Week 4 Monday - Cylindrical Shell Method
 - When we have items rotated around an axis, we can find disks perpendicular to the axis and integrate along that axis.
 
-> Example. Let $$R$$ be the region boudned by $$y = 0$$, $$y = x$$, and $$x^2 + y^2 = 9$$. What is the volume of the solid formed by rotating $$R$$ around the $$y$$-axis. We know $$x^2 + y^2 = 9$$, so we have $$x = \sqrt{9 - y^2}$$. We have the area of a disk at $$y$$ as $$\pi \left(9 - y^2 - y^2 \right)$$. Integrate this from $$0$$ to $$\sqrt{\frac{9}{2}}$$ (the intersection between $$x^2 + y^2$$ and $$y = x$$).
+> Example. Let $$R$$ be the region bounded by $$y = 0$$, $$y = x$$, and $$x^2 + y^2 = 9$$. What is the volume of the solid formed by rotating $$R$$ around the $$y$$-axis. We know $$x^2 + y^2 = 9$$, so we have $$x = \sqrt{9 - y^2}$$. We have the area of a disk at $$y$$ as $$\pi \left(9 - y^2 - y^2 \right)$$. Integrate this from $$0$$ to $$\sqrt{\frac{9}{2}}$$ (the intersection between $$x^2 + y^2$$ and $$y = x$$).
 
 - To find volumes using the disk or washer method, you need to find the limits of integration and ideally integrate slices perpendicular to the axis of revolution.
 - The cylindrical shells method allows us to compute volumes along the axis perpendicular to the axis of revolution.
@@ -298,7 +298,7 @@ $$\text{Volume of a slice at } x \approx A(x) \cdot \Delta x$$
 > Accelerating a 1 kg mass by 1 meter per second squared takes a force of 1 kg per meters squared, or 1 Newton. Common units of force: Newtons, or pounds.
 
 
-> If a constant force F is applied to an object over a distance $$d$$, the work performed is $$W = Fd$$. Common units of work are joules ($$1J = 1 N \cdot m) or foot-pounds (feet per lb).
+> If a constant force F is applied to an object over a distance $$d$$, the work performed is $$W = Fd$$. Common units of work are joules ($$1J = 1 N \cdot m$$) or foot-pounds (feet per lb).
 
 > Lifting a 10 pound weight by 5 feet requires doing 50 foot-pounds of work. Lifting a 2 kg mass of Earth (acceleration due to gravity is g = 9.8 metes per second squared) by 3 meters takes $$(2 kg \cdot 9.8 m/s^2) \cdot 3m = 58.8 N\cdot m$$.
 
@@ -458,11 +458,11 @@ $$\int_a^b u dv = uv \big]_a^b - \int_a^b v du$$
 
 > Example: Find $$\int \tan x dx$$.
 
-> Use the same rule as before. In this case, $$m$$ is odd. Let $$u = \sec x$$; $$du = \sec x \tan x dx \implies \tan x dx = \frac{du}{\sec x} = \frac{du}{u}$$. This yields $$\int \frac{du}{u} = \ln |u| + C = \ln | \sec x | + C$$.
+> Use the same rule as before. In this case, $$m$$ is odd. Let $$u = \sec x$$; $$du = \sec x \tan x dx \implies \tan x dx = \frac{du}{\sec x} = \frac{du}{u}$$. This yields $$\int \frac{du}{u} = \ln \|u\| + C = \ln \| \sec x \| + C$$.
 
 > Example: Find $$\int \sec x dx$$.
 
-> Uses a bit of a clever/cheating trick: rewrite as $$\int \sec x \cdot \frac{\sec x + \tan x}{\sec x + \tan x} dx$$; this yields $$\int \frac{\sec^2 x + \sec x \tan x}{\sec x + \tan x} dx$$. If you take the derivative of the bottom, it gives you the numerator. Let $$u = \sec x + \tan x$$; $$du = \sec^2 x + \sec x \tan x$$. The integral becomes $$\int \frac{du}{u} = \ln |u| + C = \ln | \sec x + \tan x} + C$$.
+> Uses a bit of a clever/cheating trick: rewrite as $$\int \sec x \cdot \frac{\sec x + \tan x}{\sec x + \tan x} dx$$; this yields $$\int \frac{\sec^2 x + \sec x \tan x}{\sec x + \tan x} dx$$. If you take the derivative of the bottom, it gives you the numerator. Let $$u = \sec x + \tan x$$; $$du = \sec^2 x + \sec x \tan x$$. The integral becomes $$\int \frac{du}{u} = \ln \|u\| + C = \ln \| \sec x + \tan x} + C$$.
 
 - See textbook for the calculation of $$\int \sec^3 x dx$$.
 
@@ -484,21 +484,37 @@ $$\int_a^b u dv = uv \big]_a^b - \int_a^b v du$$
 
 | Integrand contains... | Try substitution... | So you can... |
 | --- | --- | --- |
-| $$\sqrt{a^2 - x^2)$$ | $$x = a\sin \theta$$ | Use the identity $$1 - \sin^2\theta = \cos^2\theta$$. |
-| $$\sqrt{a^2 + x^2)$$ | $$x = a\tan \theta$$ | Use the identity $$1 + \tan^2 \theta = \sec^2 \theta$$. |
+| $$\sqrt{a^2 - x^2}$$ | $$x = a\sin \theta$$ | Use the identity $$1 - \sin^2\theta = \cos^2\theta$$. |
+| $$\sqrt{a^2 + x^2}$$ | $$x = a\tan \theta$$ | Use the identity $$1 + \tan^2 \theta = \sec^2 \theta$$. |
 | $$\sqrt{x^2 - a^2}$$ | $$x = a\sec \theta$$ | Use the identity $$\sec^2 \theta - 1 = \tan^2 \theta$$. |
 
 - Make sure to change the limits of integration if you evaluate w.r.t. $$\theta$$.
 
-> Example: Find $$\int_3^6 \frac{\sqrt{x^2 - 9}{x} dx$$.
+> Example: Find $$\int_3^6 \frac{\sqrt{x^2 - 9}}{x} dx$$.
 
-> Let $$x = 3 \sec \theta$$; $$dx = 3 \sec \theta \tan \theta d\theta$$. We can rewrite the numerator as $$3 \tan \theta$$. The original integral can be rewritten as $$\int_0^{\frac{\pi}{3}} \frac{3\tan \theta}{3 \sec \theta} \cdot 3 \sec \theta \tan \theta d \theta$$ (notice the bound recalculation). This can be simplified as $$\int_0^{\frac{\pi}{3}} 3 \tan^2 \theta d\theta$$. We can rewrite $$\tan^2$$ in terms of $$\sec^2$$: $$3 \int_0^{\frac{\pi}{3}} \left(\sec^2 \theta - 1\right) d\theta = 3 \left(\tan \theta - \theta) \big]_0^{\frac{\pi}{3}} = 3 \left( \tan \frac{\pi}{3} - \frac{pi}{3}\right) = 3 \sqrt{3} - \pi$$.
+> Let $$x = 3 \sec \theta$$; $$dx = 3 \sec \theta \tan \theta d\theta$$. We can rewrite the numerator as $$3 \tan \theta$$. The original integral can be rewritten as $$\int_0^{\frac{\pi}{3}} \frac{3\tan \theta}{3 \sec \theta} \cdot 3 \sec \theta \tan \theta d \theta$$ (notice the bound recalculation). This can be simplified as $$\int_0^{\frac{\pi}{3}} 3 \tan^2 \theta d\theta$$. We can rewrite $$\tan^2$$ in terms of $$\sec^2$$: 
+
+$$3 \int_0^{\frac{\pi}{3}} \left(\sec^2 \theta - 1\right) d\theta$$
+
+$$\implies 3 \left(\tan \theta - \theta) \big]_0^{\frac{\pi}{3}}$$
+
+$$\implies 3 \left( \tan \frac{\pi}{3} - \frac{pi}{3}\right) = 3 \sqrt{3} - \pi$$
 
 
 
 > Example: Find $$\int \frac{\dx}{\sqrt{4 + 9x^2}}$$.
 
-> Note that $$\sqrt{4 + 9x^2} = 3 \sqrt{ \frac{4}{9} + x^2 }$$. Let $$x = \frac{2}{3} \tan \theta$$; $$dx = \frac{2}{3} \sec^2 \theta d\theta$$. Plugging things in yields $$\int \frac{\frac{2}{3} \sec^2 \theta d\theta}{\sqrt{4 + 4 \tan^2 \theta}} = \int \frac{\frac{2}{3} \sec^2 \theta d\theta}}{2 \sec \theta} = \frac{1}{3} \int \sec \theta d\theta = \frac{1}{3} \ln \left \| \sec\theta + \tan \theta \| + C = \frac{1}{3} \ln \left\| \frac{\sqrt{4 + 9x^2}}{2} + \frac{3x}{2} \right\|$$.
+> Note that $$\sqrt{4 + 9x^2} = 3 \sqrt{ \frac{4}{9} + x^2 }$$. Let $$x = \frac{2}{3} \tan \theta$$; $$dx = \frac{2}{3} \sec^2 \theta d\theta$$. Plugging things in yields
+
+$$\int \frac{\frac{2}{3} \sec^2 \theta d\theta}{\sqrt{4 + 4 \tan^2 \theta}}$$
+
+$$\implies \int \frac{\frac{2}{3} \sec^2 \theta d\theta}}{2 \sec \theta}$$
+
+$$\implies\frac{1}{3} \int \sec \theta d\theta$$
+
+$$\implies \frac{1}{3} \ln \left \| \sec\theta + \tan \theta \| + C$$
+
+$$\implies \frac{1}{3} \ln \left\| \frac{\sqrt{4 + 9x^2}}{2} + \frac{3x}{2} \right\|$$
 
 
 - Sometimes, you will have multiple terms involved. You may need to complete the square first to realize one of the trigonometric substitution precondition forms.
@@ -511,7 +527,7 @@ $$\int \frac{x}{\sqrt{5 - (x-2)^2}} dx$$
 
 > We can perform a $$u$$-substitutiton; let $$u = x-2 \implies du = dx$$.
 
-$$\int \int \frac{u + 2}{\sqrt{5 - u^2}} du$$
+$$\int \frac{u + 2}{\sqrt{5 - u^2}} du$$
 
 > Let us perform another substitution: let $$u = \sqrt{5} \sin \theta \implies du = \sqrt{5} \cos \theta d \theta$$.
 
@@ -537,25 +553,25 @@ $$f(x) = \frac{P(x)}{Q(x)}$$
 - A polynomial is a sum of integer, nonnegative powers of an independent variable $$x$$.
 
 Steps:
-1. Make sure the rational function is in proper form - the degree of the numerator must be smaller than the degree of the denominator using long division.
+- Make sure the rational function is in proper form - the degree of the numerator must be smaller than the degree of the denominator using long division.
 
 > Consider $$\frac{x^3 + 1}{x^2 - 3x + 2}$$. It can be reduced as $$x + 3 + \frac{7x - 5}{x^2 - 3x + 2}$$ through polynomial division.
 
-2. Factor the denominator. You can always factor a quadratic into linear $$$ax+b$$ or quadratic factors $$ax^2 + bx + c$$ with no real roots.
+- Factor the denominator. You can always factor a quadratic into linear $$$ax+b$$ or quadratic factors $$ax^2 + bx + c$$ with no real roots.
 
 > Consider $$x^2 - 3x + 2$$; this can be factored as $$(x-1)(x-2)$$.
 
-3. If the result consists of all distinct linear factors, rewrite the rational function as a sum of terms $$\frac{A}{ax+b}$$ and integrate.
+- If the result consists of all distinct linear factors, rewrite the rational function as a sum of terms $$\frac{A}{ax+b}$$ and integrate.
 
 > Consider $$\frac{7x - 5}{(x-1)(x-2)}$$. We can always rewrite this as $$\frac{A}{x-1} + \frac{B}{x-2}$$. Multiplying both sides fot eh LHS denominator, we have $$7x-5 = A(x-2) + B(x-1)$$. Now, we plug in values of $$x$$ and get an output. By plugging in $$x = 1$$, we get $$2 = -A + 0 \implies A = -2$$. If $$x = 2$$, we get $$9 = 0 + B \implies B = 9$$. It follows that $$\frac{7x-5}{(x-1)(x-2)} = \frac{-2}{x-1} + \frac{9}{x-2}$$.
 
 > An alternative method: take $$7x - 5 = A(x-2) + B(x-1)$$ and expand as $$7x - 5 = (A+B)x - 2A - B$$. We know that $$A+B = 7$$ and $$-2A-B = -5$$. Solve the linear system.
 
-> We can now integrate the result: we rewrote $$\int \frac{x^3 + 1}{x^2 - 3x + 2} dx = \int \left(x + 3 + \frac{-2}{x-1} + \frac{9}{x-2} \right) dx = \frac{x^2}{2} + 3x - 2\ln |x-1| + 9 \ln |x-2| + C$$.
+> We can now integrate the result: we rewrote $$\int \frac{x^3 + 1}{x^2 - 3x + 2} dx = \int \left(x + 3 + \frac{-2}{x-1} + \frac{9}{x-2} \right) dx = \frac{x^2}{2} + 3x - 2\ln \|x-1\| + 9 \ln \|x-2\| + C$$.
 
-4. If the result contains a repeated linear factor $$(ax + b)^k$$, write as a sum of terms $$\frac{A}{ax + b} + \frac{B}{(ax+b)^2} + \frac{C}{(ax+b)^3} + ... + \frac{Q}{(ax+b)^k$$.
+- If the result contains a repeated linear factor $$(ax + b)^k$$, write as a sum of terms $$\frac{A}{ax + b} + \frac{B}{(ax+b)^2} + \frac{C}{(ax+b)^3} + ... + \frac{Q}{(ax+b)^k}$$.
 
-> Consider $$\int \frac{2x + 3}{x^3 - 2x^2 + x} dx$$. We need to factor the denominator: $$x^3 - 2x^2 + x = x (x-1)^2$$. We want to write $$\frac{2x+3}{x(x-1)^2} = \frac{A}{x} + \frac{B}{x-1} + \frac{C}{(x-1)^2$$. Multiplying by the LHS denominator yields
+> Consider $$\int \frac{2x + 3}{x^3 - 2x^2 + x} dx$$. We need to factor the denominator: $$x^3 - 2x^2 + x = x (x-1)^2$$. We want to write $$\frac{2x+3}{x(x-1)^2} = \frac{A}{x} + \frac{B}{x-1} + \frac{C}{(x-1)^2}$$. Multiplying by the LHS denominator yields
 
 $$2x+3 = A(x-1)^2 + Bx(x-1) + Cx$$
 
@@ -563,9 +579,9 @@ $$2x+3 = A(x-1)^2 + Bx(x-1) + Cx$$
 
 $$ \frac{3}{x} - \frac{3}{x-1} + \frac{5}{(x-1)^2}$$
 
-$$\int \frac{2x + 3}{x^3 - 2x^2 + x} dx = \int\left( \frac{3}{x} - \frac{3}{x-1} + \frac{5}{(x-1)^2} \right) dx = 3 \ln |x| - 3 \ln |x-1| - \frac{5}{x-1} + C$$.
+$$\int \frac{2x + 3}{x^3 - 2x^2 + x} dx = \int\left( \frac{3}{x} - \frac{3}{x-1} + \frac{5}{(x-1)^2} \right) dx = 3 \ln \|x\| - 3 \ln \|x-1\| - \frac{5}{x-1} + C$$.
 
-5. If the result contains distinct quadratic factors $$ax^2 + bx + c$$, write as a sum of terms $$\frac{Ax+B}{ax^2 + bx + c}$$.
+- If the result contains distinct quadratic factors $$ax^2 + bx + c$$, write as a sum of terms $$\frac{Ax+B}{ax^2 + bx + c}$$.
 
 > Find $$\int \frac{x^2 - 1}{x^3 + 2x^2 + 5x}$$. We can factor this as $$x^3 + 2x^2 + 5x = x(x^2 + 2x + 5)$$. We write this as $$\frac{x^2 - 1}{x(x^2 + 2x + 5)} = \frac{A}{x} + \frac{Bx + C}{x^2 + 2x + 5}$$. We can clear the denominator: $$x^2 - 1 = A(x^2 + 2x = 5) + (Bx + C)x$$. We get $$A = -\frac{1}{5}, B = \frac{6}{5}, C = \frac{2}{5}$$.
 
@@ -609,8 +625,8 @@ Last time - partial fractions
 Partial fraction form:
 
 - $$\frac{A}{ax+b}, \frac{B}{(ax+b)^2}, ...$$ if $$(ax+b)^k$$ appears
-- $$\frac{Ax+B}{ax^2 + bx + c}, \frac{Cx+D}{(ax^2+bx+c)^2, ...$$ if $$(ax^2+bx+c)^k$$ appears
-- Quadratic factors must have no real roots (i.e. $$0 > b^2 - 4ac \implies b^2 < 4ac$$.
+- $$\frac{Ax+B}{ax^2 + bx + c}, \frac{Cx+D}{(ax^2+bx+c)^2}, ...$$ if $$(ax^2+bx+c)^k$$ appears
+- Quadratic factors must have no real roots (i.e. $$0 > b^2 - 4ac \implies b^2 < 4ac$$).
 
 *Strategy for integration* (mysterious!)
 
@@ -643,7 +659,7 @@ Remember that we have various specialized techniques for certain types of integr
 > Consider the function $$\int \frac{1}{x + \sqrt{x + 2}} dx$$. Possible ideas:
 - Rationalize the denominator using the conjugate of the denominator. $$\frac{1}{x + \sqrt{x+2}} \cdot \frac{x - \sqrt{x+2}}{x - \sqrt{x + 2}} = \frac{x - \sqrt{x+2}}{x^2 - x - 2}$$. Integrating this expression is very difficult.
 - Let $$u = x+2$$ with $$u$$-substitution. Our interval becomes $$\int \frac{1}{u - 2 + \sqrt{u}}$$. This is also very difficult to integrate.
-- Let $$u = \sqrt{x + 2}$$ with $$u$$-substitution. 4$du = \frac{1}{2\sqrt{x+2}}dx \implies 2x = 2udu$$. $$\int \frac{1}{x + \sqrt{x + 2}} dx = \int \frac{1}{u^2 - 2 + u} \cdot 2udu$$. This is a rationalizing substitution - we took something that wasn't a rational function and turned it into a rational function. You can now use partial fractions.
+- Let $$u = \sqrt{x + 2}$$ with $$u$$-substitution. $$du = \frac{1}{2\sqrt{x+2}}dx \implies 2x = 2udu$$. $$\int \frac{1}{x + \sqrt{x + 2}} dx = \int \frac{1}{u^2 - 2 + u} \cdot 2udu$$. This is a rationalizing substitution - we took something that wasn't a rational function and turned it into a rational function. You can now use partial fractions.
 > The result is $$\frac{4}{3} \ln \| \sqrt{x+2} + 2 \| + \frac{2}{3} \ln \| \sqrt{x+2} - 1 \| + C$$.
 
 > Consider the function $$\int \frac{\tan^{-1} x}{x^2} dx$$.
