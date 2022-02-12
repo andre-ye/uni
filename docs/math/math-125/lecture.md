@@ -178,7 +178,7 @@ $$g'(x) = f(x)$$
 
 e.g. $$\frac{d}{dx} \int_2^x t^5 dt = x^5$$
 
-e.g. $$\frac{d}{dx} \int_2^{x^2} t^5 dt \frac{d}{dx} g(x^2) = \frac{d}{dx} x^2 \cdot g'(x^2} = 2x \cdot f(x^2) = 2x \cdot (x^2)^5 = 2x''.
+e.g. $$\frac{d}{dx} \int_2^{x^2} t^5 dt \frac{d}{dx} g(x^2) = \frac{d}{dx} x^2 \cdot g'(x^2} = 2x \cdot f(x^2) = 2x \cdot (x^2)^5 = 2x$$.
 
 ---
 
@@ -206,7 +206,7 @@ A definite integral is a number, whereas an indefinite integral is a family of f
 
 The definite and indefinite integral are related by
 
-$$\int_a^b f(x) dx = \int f(x) dx \BIG]^b_a$$
+$$\int_a^b f(x) dx = \int f(x) dx \large]^b_a$$
 
 > "Integrating a rate of change gives the net change."
 
