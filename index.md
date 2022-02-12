@@ -37,6 +37,8 @@ If you're also a student at the UW and are introduced in contributing your notes
 
 ## Announcements
 
+| **2/12/2022** | $$\LaTeX$$ errors for mathematics notes have gone through a cleaning and should be mostly correct. Rendering/syntax errors will periodically be corrected. |
+
 | **2/11/2022** Notes for the very interesting Philosophy Society talk "Nishitani Keiji and the Zen of the Anthropocene" by Jason Wirth have been published [here](https://andre-ye.github.io/uni/docs/phil/phil-society/talk-notes/#nishitani-keiji-and-the-zen-of-the-anthropocene-by-jason-wirth).
 
 | **2/11/2022** CSE 143 midterm reminders and problem schemes have been added. |
