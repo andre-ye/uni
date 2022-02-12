@@ -37,6 +37,8 @@ If you're also a student at the UW and are introduced in contributing your notes
 
 ## Announcements
 
+| **2/11/2022** Notes for the very interesting Philosophy Society talk "Nishitani Keiji and the Zen of the Anthropocene" by Jason Wirth have been published [here](https://andre-ye.github.io/uni/docs/phil/phil-society/talk-notes/#nishitani-keiji-and-the-zen-of-the-anthropocene-by-jason-wirth).
+
 | **2/11/2022** CSE 143 midterm reminders and problem schemes have been added. |
 
 | **2/9/2022** Lecture notes for all of CSE 142 have been added. |
