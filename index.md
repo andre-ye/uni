@@ -37,4 +37,6 @@ If you're also a student at the UW and are introduced in contributing your notes
 
 ## Announcements
 
+| **2/11/2022** CSE 143 midterm reminders and problem schemes have been added. |
+
 | **2/9/2022** Lecture notes for all of CSE 142 have been added. |
