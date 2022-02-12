@@ -13,18 +13,14 @@ CSE 143
 
 ---
 
-## Navigation
-* [Chapter 10: ArrayLists](#chapter-10--arraylists)
-  + [10.1: ArrayLists](#101--arraylists)
-* [Chapter 11: Java Collections Framework](#chapter-11--java-collections-framework)
-  + [11.2: Sets](#112--sets)
-* [Chapter 14: Stacks and Queues](#chapter-14--stacks-and-queues)
-  + [14.1: Stack/Queue Basics](#141--stack-queue-basics)
-  + [14.2: Common Stack/Queue Operations](#142--common-stack-queue-operations)
-  + [14.3: Complex Stack/Queue operations](#143--complex-stack-queue-operations)
-* [Chapter 15: Implementing a Collection Class](#chapter-15--implementing-a-collection-class)
-  + [15.1: Single ArrayIntList](#151--single-arrayintlist)
-  + [15.2: A More Complete ArrayIntList](#152--a-more-complete-arrayintlist)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
@@ -376,6 +372,19 @@ public static int gcd(int x, int y) {
 ```
 
 - Helper methods: an additional method used to help solve a recursive problem.
+
+### 12.4: Recursive Graphics
+- Fractal geometry
+
+### 12.5: Recursive Backtracking
+- Most programming problems (that professors in CSE 143 give students on exams) can be solved by systematically searching a set of possibilities
+  - tic-tac-toe
+  - maze navigation
+- Recursive backtracking: a gneeral algorithm for finding solutions to a problem by exploring a candidate solution, abandoning/backtracking once the candidate is found unsuitable
+- Decision tree representation of possible move space; functionally this is a depth-first search (DFS) using the internal call stack
+- 8 Queens puzzle
+- Solving Sudoku puzzles
+- 
 
 ---
 
@@ -886,4 +895,29 @@ public void remove(int index) {
   }
 }
 ```
+
+---
+
+## Chapter 17: Binary Trees
+
+### 17.1: Binary Tree Basics
+- Each different data value in a tree is a node.
+- Branch nodes vs leaf nodes
+- A binary tree is either an empty tree or a root node that refers to two other trees known as a left subtree and a right subtree.
+- *Branch* - a node that has one or more nonempty subtrees.
+- *Leaf* - a node that has two empty subtrees.
+- For every node `p` that has a nonempty subtree with root node `q`, we say that `p` is the parent of `q` and `q` is the child of `p`.
+  - Other ancestral relationships follow: sibling, grandparent, etc.
+- Similar to Linked Lists, but with a left and right component rather than just a next field.
+
+### 17.2: 
+
+
+
+
+
+
+
+
+
 
