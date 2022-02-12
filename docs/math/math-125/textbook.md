@@ -280,10 +280,26 @@ $$\int f(x) dx = \int f(g(t)) g'(t) dt$$
 ---
 
 ## 7.4: Integration of Rational Functions by Partial Fractions
+- We can integrate any rational functions by expressing it as a sum of simple fractions using the partial fraction method.
+- Consider the rational function $$f(x) = \frac{P(x)}{Q(x)}$$ - we can express $$f$$ as a sum of two simpler fractions if $$\deg{P} < \deg{Q}$$. Use long division to convert into proper form.
+- Express the proper rational function as a sum of partial fractions of the forms
 
+$$\frac{A}{(ax+b)^i} \text{ or } \frac{Ax+B}{(ax^2+bx+c)^j}$$
 
+- Rationalizing substitutions: some nonrational functions can be changed into rational functions by substituting effectively. If the integrand contains $$\sqrt[n]{g(x)}$$, the substitution $$u = \sqrt[n]{g(x)}$$ may be effective.
 
+---
 
+## 7.5: Strategy for Integration
+- Integration is more challenging than differentation.
+- Simplify the integrand if possible
+- Look for an obvious substitution
+- Classify the integrand according to its form
+  - Trigonometric functions: use trig substitutions
+  - Rational functions: use partial fractions
+  - Product of functions: use integration by parts
+  - Radicals: use a rationalizing substituion or a trigonometric substitution
+- Try again
 
 
 
