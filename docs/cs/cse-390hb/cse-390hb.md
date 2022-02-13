@@ -2,7 +2,7 @@
 layout: default
 title: CSE 390HB
 parent: Computer Science
-nav_order: 101
+nav_order: 391
 has_children: true
 permalink: /docs/cs/cse-390hb
 ---
