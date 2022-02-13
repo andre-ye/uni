@@ -224,3 +224,41 @@ McCarthy's witch hunt gave the shift the justification it needed: reporters ampl
 ---
 
 ## Chapter 7: A Great Awokening
+- Something has changed in the recent headlines
+- Re-racialization
+- The new race consensus
+- Changing the conversation from class to identity
+- Erasure of class in favor of race and gender
+- A younger, more educated generation of journalists
+- Race is everything
+- The narrative that America is irredeemably racist eliminates the possibility of finding true solutions to true racial problems.
+- Class/income is a strong additional factor left out in law enforcement data.
+- Republicnas have been at the forefront of criminal jsutice reform.
+- How does intersectionality truly manifest?
+- Origination of ideas in academia
+- American universities underwent a shift away from facts and grand narratives towards relativism.
+- 60s and 70s: postmodernism and critical theory. Deomination and oppression are seen in every human interaction. Critical theory is rooted in Hegel's work.
+- Derrida and Foucault: 'exposing' falsely universal claims of historical and cultural narratives
+- In postmodernism, historical narratives serve as justifications for power.
+- The Constitution - a flawed achievement but nevertheless a big one.
+- Structural vs basic racism
+- Rich whites benefit materially from whiteness, whereas poor whites somehow benefit in 'psychic ways'. Critical Race Theory still does not have a comprehensive theory of class.
+- Two sides of the same coin - intermixing between racial activism and class interests.
+- Antiracism - the great displacement exercise, the magic track that transforms economic guilt into racial guilt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
