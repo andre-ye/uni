@@ -13,11 +13,11 @@ A complete list of the courses I have taken, are taking, or immediately will tak
 
 | Code | Course | Instructor | Credits |
 | --- | --- | --- | --- |
-| ? | ? | ? | 2 |
-| CSE ? | Software & Hardware Tools | ? | 1 |
-| PHIL ? | Contemporary Moral Problems | ? | 5 |
-| ENGL ? | Literary Modernism | ? | 5 |
-| MATH 126 | Calculus w/ Analytic Geometry III | ? | 5 |
+| ENGL 308 | Marxism and Literary Theory | Alys Weinbaum | 5 |
+| MATH 126 | Calculus w/ Analytic Geometry III | Natalie Naehrig | 5 |
+| CSE 391 | Software & Hardware Tools | ? | 1 |
+| PHIL 102 | Contemporary Moral Problems | Michael Blake | 5 |
+| MUSIC 185 | The Concert Season | Mark Rodgers | 2 |
 | --- | Total | --- | 18 |
 
 ## Winter 2022
