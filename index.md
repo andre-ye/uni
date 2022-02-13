@@ -37,6 +37,8 @@ If you're also a student at the UW and are introduced in contributing your notes
 
 ## Announcements
 
+| **2/13/2022** The entire website has been brought up to date (in that all previous class content has been successfuly transferred to this site). The transcript has been updated with confirmed classes for Spring and appropriate class pages have been created. |
+
 | **2/12/2022** The cheat sheet for Math 125 has been updated with information up to Integration Strategies. |
 
 | **2/12/2022** $$\LaTeX$$ errors for mathematics notes have gone through a cleaning and should be mostly correct. Rendering/syntax errors will periodically be corrected. |
