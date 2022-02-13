@@ -20,5 +20,3 @@ Winter 2022
 
 1 Credit
 {: .label .label-purple }
-
-*Easily one of the best and most interesting classes I've taken. Thank you for your brilliant and profound teaching, Stuart Reges.*
