@@ -13,11 +13,11 @@ A complete list of the courses I have taken, are taking, or immediately will tak
 
 | Code | Course | Instructor | Credits |
 | --- | --- | --- | --- |
-| ENGL 308 | Marxism and Literary Theory | Alys Weinbaum | 5 |
-| MATH 126 | Calculus w/ Analytic Geometry III | Natalie Naehrig | 5 |
-| CSE 391 | Software & Hardware Tools | ? | 1 |
-| PHIL 102 | Contemporary Moral Problems | Michael Blake | 5 |
-| MUSIC 185 | The Concert Season | Mark Rodgers | 2 |
+| ENGL 308 | [Marxism and Literary Theory](https://andre-ye.github.io/uni/docs/eng/engl-308){:target="_blank"} | Alys Weinbaum | 5 |
+| MATH 126 | [Calculus w/ Analytic Geometry III](https://andre-ye.github.io/uni/docs/math/math-126){:target="_blank"} | Natalie Naehrig | 5 |
+| PHIL 102 | [Contemporary Moral Problems](https://andre-ye.github.io/uni/docs/phil/phil-102){:target="_blank"} | Michael Blake | 5 |
+| MUSIC 185 | [The Concert Season](https://andre-ye.github.io/uni/docs/finearts/music-185){:target="_blank"} | Mark Rodgers | 2 |
+| CSE 391 | [Software & Hardware Tools](https://andre-ye.github.io/uni/uni/docs/cs/cse-391){:target="_blank"} | Hunter Schafer | 1 |
 | --- | Total | --- | 18 |
 
 ## Winter 2022
