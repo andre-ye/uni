@@ -550,8 +550,33 @@ private int sum(int[] list, int index) {
 - `.compareTo`
 - Stable Sort: preserves the relative order of 'ties'.
 
+---
 
-
+## Week 7 Monday - Backtracking and Exhaustive Search
+- Backtracking is a very specific algorithm.
+- In some sense, you'll be told exactly what code to write.
+- Regardless, the backtracking assignment is conceptually difficult. Conceptually difficult, but you write very little code that does something very interesting.
+- Exhaustive search - generate every possibility.
+- Use recursion to accomplish exhaustive search - more scalable. 
+- Anthropromorphize backtracking - imagine people changing what card is showing.
+- Mechanical counters.
+- Decision tree - a visualr epresentation of how different chioces can be made at each point.
+- You can explore the decision space in any way, but we generally explore the space using a depth-first-search (DFS) style operation.
+- Backtracking - going to when we last had a choice/could proceed.
+- Typically, we do not need to write code to force it to backtrack.
+- Dead-ends - problems that are not worth exploring any further.
+  - i.e. we sometimes decide to stop exploring
+- 8 Queens problem - try to place 8 queens on a chess board such that no 8 queens challenge each other.
+- Erasure/undoing of a move.
+- With backtracking, it can be easy to get lost in the low-level details.
+- Rule of thumb: write supporting code to deal with the low-level details for you.
+- Recursion Zen
+- Backtracking pattern:
+  1. Choose
+  2. Explore
+  3. Unchoose
+- Essence of backtracking.
+- Often, there isn't a cleanup task to do - but there sometimes is one, in which you must explicitly write code to unchoose.
 
 
 
