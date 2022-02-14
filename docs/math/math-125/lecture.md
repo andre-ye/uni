@@ -666,11 +666,45 @@ Remember that we have various specialized techniques for certain types of integr
 - Integration by parts: let $$u = \frac{1}{x^2}$$ and $$dv = \tan^{-1} x dx$$. $$u = \tan^{-1} x$$, $$dv = \frac{1}{x}^2 dx$$, $$du = \frac{1}{1+x^2} dx$$, $$v = -\frac{1}{x}$$. The result is $$-\frac{\tan^{-1}x}{x} + \int \frac{1}{x(1+x^2)} dx$$. We can then apply partial fractions: $$ \frac{A}{x} + \frac{Bx+C}{1+x^2} = \frac{1}{x(1+x^2)}$$. After solving, we get $$A = 1, B = -1, C = 0 \implies \frac{1}{x} - \frac{x}{1+x^2}$$. Use a $$u$$-substitution on thes econd term. The final integral is $$-\frac{\tan^{-1} x}{x} + \ln\|x\| - \frac{1}{2} \ln \| 1 + x^2 \| + C$$.
 
 
+---
+
+## Week 7 Monday - Approximate Integration
+Midterm Exam next Thursday: up to section 7.8, and includes everything before the exam - cumulative. 
+- Applications of integration - work, cylindrical shells, techniques of integration in Chapter 7, through improper integrals & approximating integrals
+- Format will be similar to that of the first exam - 4 to 5 problems. Roughly of the same length and relative difficulty. Generally material between the first and second exams is inherently more difficult.
+- Go to your section - you will start doing exam practice questions. 
+
+Last time: talked about strategies for integration.
+- Recommend looking at the corresponding section of the textbook, section 7.5. Has an outline for how to attack an integral which you may not be able to figure out immediately, with several associated steps.
+
+Suppose you have an integral and you want to approximate it. Why would you only want to find an approximate?
+- Sometimes, antiderivatives are really complicated and it's not worth figuring out what the antiderivative is.
+- Many innocuous-looking integrals do not have integrals expressable via elementary functions.
+- It may be faster in some domains to approximate the ingral rather than to express it symbolically.
+- Functions may not be given as a formula, but rather as (for instance) experimental data.
+- Maybe you have a guage measuring the flow of watrer into a tank over time - it's not really a continuous function.
+
+**Question:** HOw do we approximate $$\int_a^b f(x) dx$$?
+- We used Riemann sums to initially approximate the size of the integral by using sums of rectangles.
+- Divide $$[a, b]$$ into $$n$$ pieces; $$\Delta x = \frac{b-a}{n}$$, $$x_0 = a, x_1 = a + \Delta x, x_{n-1} = a + (i) \Delta x, x_n = b$$.
+- Right vs left vs middle Riemann sums
+- We may hope that the middle Riemann sum performs the best.
+- Another approximation is simply to take the average of the left and right Riemann sums: *the trapezoid rule*.
+  - $$f(x_0) + 2(f(x_1) + 2f(x_2) + ... + 2 (f_{x-1}) + f(x_n))$$
+  - Called the trapezoid rule because it's looking at a given interval and approximating the region with a trapezoid instead of a rectagle. 
+- Usually the midpoint rule has typically half the error of the trapezoid rule.
+- 2:1 ratio has to deal with the area of a parabola vs the area of a triangle, etc.
+- We can get a better estimate by modeling the parabolas. The idea is - take the values at each point and try to fit a parabola that passes through any three consecutive sampled points. Then, take the area under this parabola. This gives Simpson's rule: 
+
+> For an even $$n$$, Simpson's rule gives the estimate:
+
+$$\frac{\Deta x}{3} \left(f(x_0 + 4f(x_1) + 2f(x_2) + 4f(x_3) + ... + 2f(x_{n-2}) + 4f(x_{n-1}) + f(x_n)\right)$$
+
+> Note: the coefficients $$1, 4, 2, 4, 2, ..., 4, 1$$ and $$\frac{\Delta x}{3}$$. Usually, a parabola will fit a triangle better than a straight line.
 
 
-
-
-
+- Relationship between three rules: midpoint, trapezoid, and Simpson's rules: $$S_{2n} = \frac{1}{3} T_n + \frac{2}{3} M_n$$ ($$S_{n}$$ = Simpson's rule, $$\frac{1}{3}T_n$$ = Trapezoid rule, $$\frac{2}{3} M_n$$ = midpoint rule).
+- The book pays a lot of attention to error bounds - this has to do with the second or fourth derivatives of functions. 
 
 
 
