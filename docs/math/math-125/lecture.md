@@ -706,18 +706,39 @@ $$\frac{\Deta x}{3} \left(f(x_0 + 4f(x_1) + 2f(x_2) + 4f(x_3) + ... + 2f(x_{n-2}
 - Relationship between three rules: midpoint, trapezoid, and Simpson's rules: $$S_{2n} = \frac{1}{3} T_n + \frac{2}{3} M_n$$ ($$S_{n}$$ = Simpson's rule, $$\frac{1}{3}T_n$$ = Trapezoid rule, $$\frac{2}{3} M_n$$ = midpoint rule).
 - The book pays a lot of attention to error bounds - this has to do with the second or fourth derivatives of functions. 
 
+---
 
+## Week 7 Wednesday - Improper Integrals
+- Quiz 6: 7.94 average, 8.24 median
+- Exam next Thursday:
+  - You must justify any integrals not listed in the table in section 7.5.
+  - You must simplify any inverse trig functions inside trig functions.
+- Usually, the area under a curve has always been a finite amount.
+- Sometimes, we can compute areas under curves that extend infinitely in some direction, either vertically or horizontally. 
+- Improper integrals allow us to determine if an infinitely extending region is finite or infinite in area.
+- Approximate the integral using a finite region and take the limit as the size of the finite region grows. '
+- Type I improper integral: the interval upon which we are integrating is infinite.
 
+> Example: $$y = \frac{1}{x^2}$$. We want to find the area under the curve in the domain $$[1, \infty)$$: $$\int_1^\infty \frac{1}{x^2} dx$$. We can ask what happens as the upper right bound $$t$$ tends towards $$\infty$$. Imagine we have an arbitrary upper boudn $$t$$. The area between $$x = 1$$ and $$x = t$$ is $$\int_1^t \frac{1}{x^2} dx = -\frac{1}{x} \big]_1^t = -\frac{1}{t} + 1$$. As we take the  limit of this expression with $$t \to \infty$$, $$-\frac{1}{t} + 1 \to 1$$. The integral is thus $$\int_1^\infty \frac{1}{x^2} dx = \lim_{t\to\infty} \int_1^t \frac{1}{x^2} dx = 1$$. This integral **converges** - the limit is a finite value.
 
+> Example: $$y = \frac{1}{x}$$. We want to find the area under the curve in the domain $$[1, \infty)$$. We compute the limit: $$\int_1^\infty \frac{1}{x} dx = \lim_{t\to\infty} \int_1^t \frac{1}{x} dx = \lim_{t\to\infty} \ln(x) \big]^t_1 = \lim_{t\to\infty} \ln t$$. As $$t$$ goes to infinity, the natural log also goes to infinity; we say that the integral **diverges**; it does not approach some finite value.
 
+- We define $$\int_a^\infty f(x) dx = \lim_{t\to\infty} \int_a^t f(x) dx$$. If the limits exists and is finite, we say the integral converges; otherwise, it diverges.
+- We define $$\int_{-\infty}^\infty f(x) dx = \int_{-\infty}^a f(x) dx + \int_a^\infty f(x) dx$$. 
+- Sometimes you need to use L'Hopital's rule to help evaluate difficult derivatives.
 
+- Type II integral: instead of the infinite region extending horizontally, we may have a function with a vertical asymptote.
 
+$$\int_a^b f(x) dx = \lim_{t\to b^-} \int_a^t f(x) dx$$
 
+- If $$f$$ is continuous on $$(a, b]$$ with a vertical asymptote at $$a$$, then take the integral form the right.
+- If an asymptote exists within a range, split into two separate components and evaluate. Both integrals must converge; if either integral diverges, then so does the integral across the entire range.
 
+> Example: Find $$\int_0^1 \frac{dx}{\sqrt{1-x}}$$. This has a vertical asymptote at $$x = 1$$. To compute this, we will take the limit $$\lim_{t\to 1^-} \int_0^t \frac{dx}{\sqrt{1-x}}$$. By using a $$u$$-substitution, we get  $$\lim_{t\to 1^-} -2\sqrt{1-x} \big]_0^t = \lim_{t\to 1^-} (2 - 2\sqrt{1-t}) = 2$$. The integral converges to a finite number $$2$$.
 
+- It is important to identify improper integrals.
 
-
-
+> Example: Find $$\int_{-1}^1 \frac{x^2}$$. If you didn't notice this was improper, you may just try to integrate and subtract. We should instead write it as $$\int_{-1}^0 \frac{dx}{x^2} + \int_0^1 \frac{dx}{x^2}$$ due to the vertical asymptote at $$x = 0$$. It turns out that the result diverges.
 
 
 
