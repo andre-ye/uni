@@ -579,12 +579,15 @@ private int sum(int[] list, int index) {
 - Often, there isn't a cleanup task to do - but there sometimes is one, in which you must explicitly write code to unchoose.
 
 
+---
 
-
-
-
-
-
+## Week 7 Wednesday - More Backtracking
+- More on the 8 Queens Problem.
+- Recursion Zen - we often let things go a little bit further - we have robots that do things and pass it on to the next, but maybe another robot that determines a victory.
+- Anagram solver homework
+- Explore the dictionary that you're given; at each recursive call, you pick a word.- 
+- We will be using the Letter Inventory class to keep track of the words.
+- Efficiency improvements
 
 
 
