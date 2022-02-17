@@ -31,6 +31,34 @@ CSE 143
 - On recursive tracing problems, use Ye Recursive Diagramming form (see below).
 - Remember to write exception-throwing code early on. 
 - Always terminate linked lists for node manipulation problems, just in case.
+- If you're modifying a stack or queue in a list based on the size, be careful of using `.size()` in the loop - instead, save it to a variable.
+- Read closely and don't forget about returns.
+
+Tips from Khushi Chaudhauri, TA of CSE-EG:
+
+1. ArrayIntList
+  - Don't forget to change the size field!
+  - Walk through general and edge cases
+2. Collection Programming
+  - Remember you can't modify contents of the object while you're are loop through with a for each loop
+  - Difference between hash vs. tree (speed vs. order)
+  - Look over the cheat sheet to know which methods are associated with which object
+3. Stacks and Queues
+  - Draw pictures!
+  - Know the common patterns: reversing stacks and queues, merging things together or splitting. 
+  - If you're stuck, try moving things from one data structure to another and see what happens
+4. LinkedList Node Manipulation
+  - Draw pictures!
+  - Remember to do a quick walk through with your code after writing the code.
+5. Recursion Tracing
+  - Do the first couple and you might be able to spot a pattern which may save some time
+6. Recursion Programming
+  - Think about the base case and recursive case
+  - How can you break the problem into a smaller problem for the recursive case?
+  - Understand how recursion works with both string and integer problems
+  - Draw out different outputs for different parameters to see what the pattern could be
+
+---
 
 ## Ye Recursive Diagramming Form
 I have very humbly branded my own recursive diagramming organization scheme. Using this organization format, I have consistently obtained correct results.
