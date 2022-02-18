@@ -37,6 +37,8 @@ If you're also a student at the UW and are introduced in contributing your notes
 
 ## Announcements
 
+| **2/18/2022** Check out the [CSE 143 Data](https://andre-ye.github.io/uni/docs/cs/cse-143/data/) page, which contains data shared by Stuart Reges on current and previous CSE 143 stats. Will continue to be updated as more data is shared. |
+
 | **2/17/2022** Extensive notes on Week 7 of the CSE 390HB seminar have been added. |
 
 | **2/13/2022** The entire website has been brought up to date (in that all previous class content has been successfuly transferred to this site - or at least it should have been). The transcript has been updated with confirmed classes for Spring and appropriate class pages have been created. |
