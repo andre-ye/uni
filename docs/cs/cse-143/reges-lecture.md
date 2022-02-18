@@ -589,10 +589,35 @@ private int sum(int[] list, int index) {
 - We will be using the Letter Inventory class to keep track of the words.
 - Efficiency improvements
 
+---
 
-
-
-
+## Week 7 Friday - Binary Trees
+- This year's students performed much worse on the midterm than the 2020 cohort.
+- Regrade policy page
+- Sometimes, requesting a regrade yields a poorer performance then before - the TAs may make mistakes in or against your favor.
+- Last major topic of the quarter - two programming assignments involving binary trees.
+- Four different final exam questions on binary trees.
+- A lot of people enjoy the elegance of binary trees.
+- Binary tree code tends to be very short because they are generally recursively handled.
+- Nodes - a structure composed of individual bits of data, each which is in a node.
+- Root, branches, leaves.
+- Parent-child relationship
+- A binary tree is either an empty tree or a root node with left and right subtrees.
+- Branch node constructor, leaf node constructor.
+- Overall root
+- Traversal - it's not necessarily clear what comes first.
+  - Process everything in a lefthand subtree
+  - Process everything in a righthand subtree
+  - Where to process the root?
+  - Inorder tree traversal - left, root, right.
+  - Postorder tree traversal - left, right, root.
+  - Preorder tree traversal - root, left, right.
+  - One of the four final exam questions
+- Sailboat method
+- Write methods - traversal methods nad other methods to explore a binary tree.
+- All exam questions will be in the form of working with an `IntTree`.
+- 10 pt. traversal, 20 pt. re-arrangement of the tree.
+- Every node introduces two trees; given $$N$$ nodes, there are $$2N+1$$ trees.
 
 
 
