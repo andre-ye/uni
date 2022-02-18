@@ -3,7 +3,7 @@ layout: default
 title: Data
 parent: CSE 143
 grand_parent: Computer Science
-nav_order: 99
+nav_order: 101
 ---
 
 # Data
@@ -28,6 +28,8 @@ CSE 143
 Stuart Reges often shares data on performance. The data shared in class has been published here. Note that these were taken in Winter Quarter of 2020, the first quarter of CSE 143 with 'rigorous' exam grading and no retakes for several years since the start of the coronavirus. Additionally, note that about 100 students that would have been in Stuart Reges' section switched over to the alternative CSE Section 3 offered by Hunter Schafer.
 
 ## Midterm Scores by Problem from Fall '14 to Win '20
+
+*Use the scrollbar to see all questions.*
 
 | Quarter | Recursive Tracing | Recursive Programming | Inheritance | Linked Lists | ArrayIntList Programming | Stacks & Queues | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- |
