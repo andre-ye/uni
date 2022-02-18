@@ -37,7 +37,9 @@ If you're also a student at the UW and are introduced in contributing your notes
 
 ## Announcements
 
-| **2/13/2022** The entire website has been brought up to date (in that all previous class content has been successfuly transferred to this site). The transcript has been updated with confirmed classes for Spring and appropriate class pages have been created. |
+| **2/17/2022** Extensive notes on Week 7 of the CSE 390HB seminar have been added. |
+
+| **2/13/2022** The entire website has been brought up to date (in that all previous class content has been successfuly transferred to this site - or at least it should have been). The transcript has been updated with confirmed classes for Spring and appropriate class pages have been created. |
 
 | **2/12/2022** The cheat sheet for Math 125 has been updated with information up to Integration Strategies. |
 
