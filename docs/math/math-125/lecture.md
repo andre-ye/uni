@@ -741,9 +741,42 @@ $$\int_a^b f(x) dx = \lim_{t\to b^-} \int_a^t f(x) dx$$
 > Example: Find $$\int_{-1}^1 \frac{x^2}$$. If you didn't notice this was improper, you may just try to integrate and subtract. We should instead write it as $$\int_{-1}^0 \frac{dx}{x^2} + \int_0^1 \frac{dx}{x^2}$$ due to the vertical asymptote at $$x = 0$$. It turns out that the result diverges.
 
 
+## Week 7 Friday - The Comparison Test and Arc length
+- Last time, we talked about improper integrals - we are trying to find the integral of an integral that stretches off to infinity in some direction.
+- Either the limit of the integral approaches some finite value or it shoots off to infinity
+- Comparison Theorem - gives us a way to determine if an integral converges or diverges without actually computing it.
+  - Can be useful in cases where we don't actually know the antiderivative or it is difficult to find.
+- Suppose you have two functions, and you know that the integral of one converges; if the second is smaller than the first, then the second also converges.
 
+> Let $$f$$ and $$g$$ be continuous functions that satisfy the inequality $$0 \le g(x) \le f(x)$$ for all $$x \ge a$$. If $$\int_a^\infty f(x) dx$$ converges, then so does the integral $$\int_a^\infty g(x) dx$$. If $$\int_a^\infty g(x) dx$$ diverges, then so does $$\int_a^\infty f(x) dx$$.'
 
+- Good functions (which converge under the given conditions) to use for comparison:
 
+$$\int_1^\infty \frac{1}{x^p} dx, p > 1$$
+
+$$\int_a\infty e^{-x} dx$$
+
+> Example: does $$\int_0^\infty e^{-x^2} dx$$ converge or diverge? This has no elementary antiderivative. This gets smaller faster than $$\int_a^\infty e^{-x} dx$$, so it converges. $$\int_0^\infty e^{-x^2} dx = \int_0^1 e^{-x^2} dx + \int_1^\infty e^{-x^2} dx$$. Note that $$x^2 \ge x$$ for $$x \ge 1$$, so $$e^{-x^2} \le e^{-x}$$ for $$x \ge 1$$.  We have that $$\int_1^\infty e^{-x^2} dx \le \int_1^\infty e^{-x} dx$$, which converges. So, $$\int_1^\infty e^{-x^2} dx$$ converges, as does $$\int_0^\infty e^{-x^2} dx$$.
+
+> Example: does $$\int_0^\infty \frac{1}{1+\sqrt{x}} dx$$ converge or diverge? For $$x \ge 1$$, $$\sqrt{x} \ge 1$$. This implies that $$1 + \sqrt{x} \le 2 \sqrt{x} \implies \frac{1}{1+\sqrt{x}} \ge \frac{1}{2\sqrt{x}}$$. $$\int_0^\infty \frac{1}{1+\sqrt{x}} dx = \int_0^1 \frac{1}{1+\sqrt{x}} dx + \int_1^\infty \frac{1}{1+\sqrt{x}} dx$$. $$\int_1^\infty \frac{1}{1+\sqrt{x} dx \ge  \int_1^\infty \frac{1}{2\sqrt{x}} dx = \frac{1}{2} \int_1^\infty \frac{1}{\sqrt{x}} dx$$ diverges. Therefore, $$\int_0^\infty \frac{1}{1+\sqrt{x}} dx $$ diverges.
+
+- If you want to show something converges, it must be smaller than something that converges; if you want to show that something diverges, it must be larger than something that diverges.
+
+**Section 8.1 - Arclength**
+- We will cut the curve into a bunch of pieces, approximate the length of the piece using a straight line, add all together, and take the limit as the pieces get smaller.
+- We consider many small right triangle hypoteni with base length $$\Delta x$$ and height $$\approx f'(x) \cdot \Delta x$$. The arclength is $$\sqrt{\Delta x^2 + f'(x)^2 \Delta x^2} = \Delta x \sqrt{1 + f'(x)^2}$$.
+- We can find the arc length by replacing $$\Delta x$$ with $$dx$$ and integrating. 
+
+> To find the arclength of $$f(x)$$ between $$x = a44 and 44y = b4$, we add up these segments of length $$\Delta x \sqrt{1 + f'(x)^2}$$ and take the limit of $$\Delta x \to 0$$ to get
+
+$$L = \int_a^b \sqrt{1 + f'(x)^2} dx$$
+
+> Example: find the lnegth of a semicircle $$y = \sqrt{1 - x^2}$$. The derivative is $$ - \frac{x}{\sqrt{1-x^2}}$$. We want to integrate $$\sqrt{1 + \frac{x^2}{1-x^2}} = \frac{1}{\sqrt{1-x^2}}$$. THe arclength is $$\int_{-1}^1 \frac{1}{\sqrt{1-x^2}} dx = \sin^{-1} x \big]_{-1}^1 = \frac{pi}{2} - (-\frac{\pi}{2}) = \pi$$.
+
+- One way to remember the arc length formula is to define an arc length function $$s$$ which measures arc length starting at some initial point on the curve. What's the derivative of $$s$$? We have that $$ds^2 = dx^2 + dy ^2 \implies ds = \sqrt{dx^2 + dy^2}$$ (a bit hand-wavey notation). Imagine manipulating differentials like variables: you can factor out a $$dx^2$$ and get $$dx \sqrt{1 + \left(\frac{dy}{dx}\right)^2}$$. Integrate the differential to find $$s$$: $$s(t) = \int ds = \int_a^t \sqrt{1 + \left(\frac{dy}{dx}\right)^2} dx$$.
+- If the curve is given as $$x = g(y)$$, $$ds = \sqrt{dx^2 + dy^2}$$ but we could factor out $$dy$$, yielding $$dy\sqrt{1 + \left(\frac{dx}{dy}\right)^2} = dy\sqrt{1 + g'(y)}$$. We have that $$s = \int \sqrt{1 + g'(y)} dy$$.
+
+> Example: Find the length of the curve $$x = y^{\frac{3}{2}}$$ between $$y = 0$$ and $$y = 1$$. We need to find $$\int_0^1 \sqrt{1 + \frac{9}{4}y} dy$$. Let $$u = 1 + \frac{9}{4} y$$; $$du = \frac{9}{4} dy$$. $$\frac{4}{9} \int_1^{\frac{13}{4}} \sqrt{u} du = \frac{8}{27} \left(\frac{13}{4}^{\frac{3}{2}} - 1\right) = \frac{13\sqrt{13} - 8}{27}$$.
 
 
 
