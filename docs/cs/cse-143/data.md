@@ -69,4 +69,4 @@ Stuart Reges often shares data on performance. The data shared in class has been
 | 90+ | 231 | 78 | 35.2 | 23.1 |
 | Total | 656 | 337 | | |
 
-2 students scored full points and 8 students scored 99 points.
+2 students scored full points and 8 students scored 99 points. The mean was 69 points.
