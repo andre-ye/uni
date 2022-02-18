@@ -82,6 +82,40 @@ Concepts
   - If we took off entire blocks (i.e. retaining the relationships between colored tiled/stickers are the same) and reattached them, is the cube guaranteed to be solvable? The answer is also no.
   - If we attach an orientation number from 0 to 2 for each corner orientation, the sum of orientation numbers for all corners in a Rubik's cube must be divisble by 3. Discovered by Stuart Reges and the graduate students at Stanford's Problem Solving seminar!
 
+---
+
+## Week 7
+- Gossip about the CSE course restructuring; Reges and Hunter agree to grade 'from the same distribution' - different grading practices (e.g. retakes vs no retakes), different exam policies, etc. INconsistency across different quarters.
+  - When UW CSE was interviewing Reges in 2003, there were two questions: a) should there be a tsar to manage introduction courses? b) if so, should it be Stuart Reges? The first barely passed and the second passed with less contention. Reges built the introduction courses up and was incredibly consistent throughout that time.
+  - UW CSE introduction courses will be split into three rather than two starting next fall. Reges prefers the courses that he built - as one may expect - but notes that the "younger instructors should take charge" with guiding and shaping the future of UW CSE introduction classes. He notes that all systems favor some people over others, and that both systems have advantages and disadvantages.
+- Race and racism - what is racism? What is defined as racism? How are concepts of intersectionality relevant? Is there rampant racism on campus? What is the Overton window distribution on the discussion of racism? How does ideology and culture affect our understanding and heightening of what racism means and is?
+- Discussed Reges' talk "The Mystery of b := (b = false)"
+  - Reges was the principal reader for the AP CS Exam one year in the 1980s
+    - (Reges actually holds the record for failing the most number of students out of any principal reader - 2/3s under a score of 3!)
+  - Reges was interested in correlations between different questions on the test - multiple choice, open response
+  - If a correlation is larger than 0.2, it is considered significant in this concept.
+  - Discovered a set of 5 'power questions' - question #23 was the most significant. This question had high correlation/predictive power with many other multiple choice questions - even questions covering much more advanced content - as well as the free response.
+
+```
+Question #23. If b is a Boolean variable, then the statement b := (b = false) has what effect? (Java-fied: boolean b = ...; b = (b == false);. Python-fied: b = ...\n b = (b == False).)
+
+A) It causes a compile-time error message.
+B) It causes a run-time error message.
+C) It causes b to have value false regardless of its value just before the statement was executed.
+D) It always changes the value of b.
+E) It changes the value of b if and only if b has value true just before the statement was executed.
+```
+
+| The correct answer is $$2\left((6t^3 + 1)^3 - (6t^3 - 1)^3 - (6t^2)^3 \right)$$ for any value of $$t$$, where each integer corresponds to a letter alphabet letter (1 = A, 2 = B, etc.). |
+
+  - Why is this question #23 such a good predictor? Reges' hypothesis: to solve it, you need to think like a computer and evaluate counterintuitive facts.
+
+*After class, a group of 5-6 students stayed after for an extended discussion lasting slightly under an hour after class. Here are some highlights from that conversation.*
+- Why is there such a gender imbalance in computer science? Reges notes that he has seen so many bright young women in STEM that he does not believe that there are necessarily biological interest differences structured in different sexes (as another student suggested), but put forth that women may find other interests elsewhere (i.e. it is a matter of interest rather than competence).
+- Don Knuth suggested that around 2% of the world's population was naturally gifted at computer science - thinking and reasoning algorithmically in a way that Question #23 requires. Those people, Knuth suggested, should do computer science and nothing else due to their gift.
+- Immigration and the question of nativism; Bannon vs Reges' different perspectives. Bannon believes that immigration should be restricted to prioritize American workers; Reges believes that he operates more by skill and supports immigrants to come to the United States, get their degrees, and settle as American citizens.
+- The Fourth Turning; The End of History and the Last Man - will there be another war? What will it look like? What will the next revolution be like? Tensions between Russia and Ukraine, America and China. Francis Fukuyama and the question of opposing ideology.
+- Martin Luther King suggested that "the arc of the moral universe is long, but it bends toward justice" - Reges believes that cyclic models on human progress and civilization may be more apt.
 
 
 
