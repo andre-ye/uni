@@ -310,15 +310,82 @@ No, not in terms of functions we are familiar with.
 - If $$f$$ is an elementary function, then $$f'$$ is an elementary function, but $$\int f(x) dx$$ is not necessarily an elementary function.
 - The majority of elementary functions do not have elementary antiderivatives.
 
+---
 
+## 7.7: Approximate Integration
+- There are two situations in which it is impossible to find the exact value of a definite integral.
+  - In order to evaluate $$\int_a^b f(x) dx$$, we need to know an antiderivative of $$f$$; finding the antiderivative is impossible or difficult.
+  - The function is determined from a scientific experiment trhough instrument readings or collected data - there is no formula for the function.
+- A definite integral is a limit of Riemann sums. A Riemann sum is an approximation of the integral.
 
+$$\int_a^b f(x) dx \approx \sum_{i=1}^n f(x_i) \Delta x$$
 
+- We can choose $$x_i$$ as the left, right, or middle endpoint.
+- The Trapezoidal rule results from averaging the left and right approximations.
+- Approximation technique error analysis:
+  - The signs of the left and right error endpoints or opposite.
+  - When we double the size of $$n$$, the left and right errors decrease by about a factor of 2.
+  - The Trapezoid and Midpoint rles are more accurate than the endpoint approximations.
+  - The errors in the Trapezoid and Midpoint Rules are opposite in sign.
+  - When we double the size of $$n$$, the trapezoid and midpoint rule errors decrease by about a factor of 4.
+  - The size of the error in the midpoint rule is about half the size of the erorr in the trapezoidal rule.
+- Simpson's rule - we can use parabolas instead of straight line segments to approximate a curve. With simplifications, we can obtain the approximation
 
+$$\int_a^b f(x) dx \approx \frac{h}{3} (y_0 + 4y_1 + 2y_2 + 4y_3 + ... + 2y_{n-2} + 4y{n-1} + y_n)$$
 
+---
 
+## 7.8 Improper Integrals
+- *Improper integral*: there is an infinite discontinuity in $$[a, b]$$ or the integral is taken on an infinite interval.
 
+### Type 1 Integrals - Infinite Intervals
+{: .no_toc }
+If $$\int_a^t f(X) dx$$ exists for every number $$t \ge a$$, then
 
+$$\int_a^\infty f(x) dx = \lim_{t\to\infty} \int_a^t f(x) dx$$
 
+If $$\int_t^b f(x) dx$$ exists for every number $$t \le b$$, then
+
+$$\int_{-\infty}^b f(x) dx = \lim_{t\to\infty} \int_t^b f(x) dx$$
+
+- Improper integrals are called convergent if the corresponding limit exists, and divergent if it does not.
+
+### Type 2 Integrals - Discontinuous Integrands
+{: .no_toc }
+
+If $$f$$ is continuous on $$[a, b)$$ and is discontinuous at $$b$$, then
+
+$$\int_a^b f(x) dx = \lim_{t\to b^-} \int_a^t f(x) dx$$
+
+If $$f$$ is continuous on $$[a, b)$$ and is discontinuous at $$a$$, then
+
+$$\int_a^b f(x) dx = \lim_{t\to a^+} \int_t^b f(x) dx$$
+
+### The Comparison Test
+{: .no_toc }
+
+Suppose that $$f$$ and $$g$$ are continuous functions with $$f(x) \ge g(x) \ge 0$$ for $$x \ge a$$.
+
+1. If $$\int_a^\infty f(x) dx$$ is convergent, then $$\int_a^\infty g(x) dx$$ is convergent.
+2. If $$\int_a^\infty g(x) dx$$ is divergent, then $$\int_a^\infty f(x) dx$$ is divergent.
+
+---
+
+## 8.1: Arc Length
+- What do we mean by the length of a curve?
+- If a curve is a polygon, we can easily find its length by adding together the individual line segments.
+
+The length $$L$$ of a curve $$C$$ with equation $$y = f(x), a\le x\le b$$, is
+
+$$L = \lim_{n\to\infty} \sum_{i=1}^n |P_{i-1} P_i|$$
+
+If we let $$\Delta y_i = y_i - y_{i-1}$$, then
+
+$$|P_{i-1}P_i| = \sqrt{(\Delta x_i)^2 + (\Delta y_i)^2$$
+
+**Arc Length Formula.** If $$f'$$ is continuous on $$[a, b]$$, then the arc length of the curve $$y = f(x)$$, $$a\le a\le b$$, is
+
+$$L = \int_a^b \sqrt{1 + f'(x)^2} dx$$
 
 
 
