@@ -205,9 +205,65 @@ public static void main(String[] args) {
 - Spot and eliminate dead ends - or else you will get stack overflow errors.
 - 8 queens problem
 
+---
 
+## Lecture 17: Sorting
 
+---
 
+## Lecture 18: Midterm Review
+
+---
+
+## Lecture 19: Midterm (No Class)
+
+---
+
+## Lecture 20: Binary Trees
+- Trees in computer science - `TreeMap`/`Tree-Set`, folders/files, decision trees, compilers and parse trees
+- Tree: Nodes linked together in some hierarchical fashion
+- Binary tree: a tree where each node has at most two children
+- Recursive definition - a tree is either empty or a root node with data, a left subtree, and a right subtree.
+- `TreeNode`
+- Node - any object containing a data value and left/right children
+- Root - topmost node of a tree
+- Leaf - a node that has no children
+- Branch - any internal node that is neither the root nor a leaf
+- Height - longest distance between the root and a node
+- `IntTree` interface
+- Tree traversal - preorder, postorder, inorder.
+  - Difference - where the current node is being traversed.
+
+---
+
+## Lecture 21: Binary Search Trees
+- Manually writing the addition of nodes is kind of tedious, a bit like linked list programming.
+- Contains method - we either get to an empty tree, or a full tree. Worst traversal is `O(n)`.
+- We can make it faster with `O(log n)` runtime.
+- Applying binary search to binary search trees.
+- Binary Search Trees (BSTs) - binary tree where each non-empty node R has the following properties:
+  - elements of R's left subtree contain data less than R's data
+  - elements of R's right subtree contain data larger than R's data
+  - R's left and right subtrees are also binary search trees
+- We can search BSTs very quickly due to their predisposition to binary search.
+- An inorder traversal is a sorted traversal for a binary search tree.
+- BSTs don't have a powerful enough tree to ensure `O(n)`
+- Degenerate case - trees that are not balanced and have the worst runtime
+- Method scoping
+- Adding
+
+```java
+private IntTreeNode add(IntTreeNode root, int value) {
+  if (root == null) {
+    root = new IntTreeNode(value);
+  } else if (value < root.data) { 
+    root.left = add(root.left, value);
+  } else {
+    root.right = add(root.right, value);
+  }
+  return root;
+}
+```
 
 
 
