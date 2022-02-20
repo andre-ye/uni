@@ -246,12 +246,40 @@ McCarthy's witch hunt gave the shift the justification it needed: reporters ampl
 - Two sides of the same coin - intermixing between racial activism and class interests.
 - Antiracism - the great displacement exercise, the magic track that transforms economic guilt into racial guilt.
 
+---
 
+## Chapter 8: A Moral Panic
+- The national liberal news media has been mainstreaming an obsession with race.
+- Moral panic is enforced by mob-style action on social media.
+- Collective action
+- Capitulation to pressure
+- Use-reference differentiation of symbolic terms
+- Bari Weiss - given a mandate to find conservatives and other heterodox voices to publish in the *Times*.
+- Radical shift of the Overton window just in the span of a few years.
+- Identity is the only lens there is - everything ties back to the principles of identity
+- George Floyd - nail in the coffin in polarization over race.
+- Moral panic - occurs when people believe a hostile force threatens the values and safety of their society.
+- Minimum conensus - Goode & Ben-Yehuda. Moral panic sets in only when there is consensus about who is cast as evil.
+- Tom Cotton, *Times* op-ed. 
 
+---
 
-
-
-
+## Chapter 9: A Rich Debate within the Black Community
+- Moral panic around race
+- The concept of objectivity - a key tenet of journalism - has come under deep scrutiny.
+- Dichotomy separating objectivity from morality
+- Journalism is more personal - reporters more willing to speak about their truth without fear of alienation
+- Standpoint epistemology - lived experience and identity
+- Articles on white supremacy and slavery are primarily written for white liberals; the legacy black press has remained inured.
+- Enduring whiteness of America's newsrooms stends from the enduring whiteness of America's rich
+- Williams: "In America, we can't talk about class, so we racialized class. We use race as a way of avoiding those distinctions."
+- Conversation around race in the black community is much richer and deeper.
+- *The Liberator* - William Lloyd Garrison.
+- Racial essentialism - reduces individuals to immutable characteristics.
+- We can simultaneously resist bigotry and imagine a society that has outgrown the identities it preys on - Williams.
+- Blackness as culture and heritage
+- We often make class differences into racial differences.
+- Discourse on white priviledge - eliminates the chance for an individual to be presumptuous and dehumanization.
 
 
 
