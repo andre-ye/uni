@@ -956,8 +956,22 @@ private void printSideways(IntTreeNode root, int level) {
 }
 ```
 
+### 17.3: Common Tree Operations
+- Sum of a tree: use a private/public pair, return 0 if root is null and return sum of current root data and sum of left and right subtrees if not.
+- Counting levels: return 1 + the maximum depth of the left or right subtree.
+  - The height of a tree is 1 less than the number of levels.
+- Counting leaves: if is a leaf, return 1; otherwise, sum leaf counts of left and right subtres.
 
-
+### 17.4: Binary Search Trees
+- Both the `TreeMap` and `TreeSet` classes in Java are binary search trees.
+- Binary Search Tree property: the values in a binary tree are guaranteed to be arranged in a way such that the values in the left subtree are all less than the root data, and the values in the right subtree are all greater than the root data.
+- An inorder traversal returns a sorted array.
+- `IntSearchTree`
+- Reassignment doesn't work for recursive binary tree code because you are re-assigning a local variable.
+- The pattern `x = change(x)`
+- Binary tree complexity: `log N`
+- Degenerate tree - a tree that is technically still a tree but isn't really a good one, a linked list turned on its side.
+- 
 
 
 
