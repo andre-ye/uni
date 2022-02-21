@@ -381,7 +381,7 @@ $$L = \lim_{n\to\infty} \sum_{i=1}^n |P_{i-1} P_i|$$
 
 If we let $$\Delta y_i = y_i - y_{i-1}$$, then
 
-$$|P_{i-1}P_i| = \sqrt{(\Delta x_i)^2 + (\Delta y_i)^2$$
+$$\|P_{i-1}P_i\| = \sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}$$
 
 **Arc Length Formula.** If $$f'$$ is continuous on $$[a, b]$$, then the arc length of the curve $$y = f(x)$$, $$a\le a\le b$$, is
 
