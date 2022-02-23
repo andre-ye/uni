@@ -740,6 +740,7 @@ $$\int_a^b f(x) dx = \lim_{t\to b^-} \int_a^t f(x) dx$$
 
 > Example: Find $$\int_{-1}^1 \frac{x^2}$$. If you didn't notice this was improper, you may just try to integrate and subtract. We should instead write it as $$\int_{-1}^0 \frac{dx}{x^2} + \int_0^1 \frac{dx}{x^2}$$ due to the vertical asymptote at $$x = 0$$. It turns out that the result diverges.
 
+---
 
 ## Week 7 Friday - The Comparison Test and Arc length
 - Last time, we talked about improper integrals - we are trying to find the integral of an integral that stretches off to infinity in some direction.
@@ -778,6 +779,20 @@ $$L = \int_a^b \sqrt{1 + f'(x)^2} dx$$
 
 > Example: Find the length of the curve $$x = y^{\frac{3}{2}}$$ between $$y = 0$$ and $$y = 1$$. We need to find $$\int_0^1 \sqrt{1 + \frac{9}{4}y} dy$$. Let $$u = 1 + \frac{9}{4} y$$; $$du = \frac{9}{4} dy$$. $$\frac{4}{9} \int_1^{\frac{13}{4}} \sqrt{u} du = \frac{8}{27} \left(\frac{13}{4}^{\frac{3}{2}} - 1\right) = \frac{13\sqrt{13} - 8}{27}$$.
 
+---
 
+## Week 8 Wednesday - Midterm Review
+- Maximum midterm score is 50; common integration formulas are put on the front page of the exam.
+- Four problems (some problems with subproblems)
+- If you have an integral within the table, you may apply the rules; other integrals need to be justified. 
+- Topics discussed since the first midterm exam:
+  - Cylindrical shells
+  - Work problem
+  - Average value of a function
+  - Techniques of integration - integration by parts, trig substitution, trig integrals, improper integrals, general techniques for integration, partial fractions
+- Work - things like cables moving around, we want to calculate how much work is done. Calculates as force multiplied by distance; either things like the distance or force change across a certain range, and we need to split the section up into different pieces and summing up the woork done.
+  - Break it up into pieces
+- Cylindrical Shells
+- Integrating a linear term divided by a quadratic term: complete the square in the denominator, then break it up.
 
 
