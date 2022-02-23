@@ -619,12 +619,20 @@ private int sum(int[] list, int index) {
 - 10 pt. traversal, 20 pt. re-arrangement of the tree.
 - Every node introduces two trees; given $$N$$ nodes, there are $$2N+1$$ trees.
 
+---
 
-
-
-
-
-
+## Week 8 Wednesday - Binary Search Tree
+- Added 5 points to Hunter
+- Over 23% scored 90% or higher
+- Binary Search Tree
+- Built-in TreeSet class uses a binary search tree, doesn't allow duplicates.
+- 4 Binary Tree questions on the exam
+- An inorder traversal of a binary search tree gives a sorted order.
+- Always use public/private pairs for binary tree problems
+- Reference semantics and local variables
+- We can change the state of the object by 'talking to it' with a method call, but we can't change the reference.
+- Pattern: `x = change(x)`.
+- It does a lot of assigning as it 'comes back out', but the only one that has any effect is the last one.
 
 
 
