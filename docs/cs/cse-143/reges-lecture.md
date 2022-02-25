@@ -635,9 +635,31 @@ private int sum(int[] list, int index) {
 - It does a lot of assigning as it 'comes back out', but the only one that has any effect is the last one.
 
 
+---
 
+## Week 8 Friday - Comparable Interface and Generic BST
+- `private` does not mean private to the object, but rather private to the class.
+- In the Linked List problem, often you have one linked list manipulate a second linked list.
+- Most points for writing a class are standard - defining fields, a `toString` method, etc.
+- Little things - e.g. minutes going over 60 in an `add` method for a time class.
+- De Morgan's law - when you have 'something and something and something', negation becomes 'not something or not something or not something'.
+- Class invariant - reasoning about invariance. There may be relationships we guarantee will always be maintained.
+  - A condition remains true at initialization and at every modification.
+- Stuart loves mod!
+- Comparing custom classes.
+- `compareTo` method required to implement the `Comparable` Interface.
 
+```java
+public class Angle implements Comparable<Angle> {...}
+```
 
+- Comparing: return -1 for less-than, 0 for equal, 1 for greater-than.
+- Casting to `Comparable<E>` interface to address symbol not found errors for comparison.
+- New syntax - constraint on the 'types' of Es that can be used.
+
+```java
+public class SearchTree<E extends Comparable<E>> {...}
+```
 
 
 
