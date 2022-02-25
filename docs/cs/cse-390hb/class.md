@@ -129,6 +129,6 @@ E) It changes the value of b if and only if b has value true just before the sta
   - Magdalena Balazinska, head of the Allen School, had IT take down Reges' syllabus; Reges put it back up; IT put it back down the following day and disabled Unix permissions. Reges notes that he *could* have put it back up through clever means but decided not to.
 - Comparison of indigenous land acknowledgements to the pledge of allegiance (which Reges has disdain for) - both are ritualistic in nature, intended as a say-and-repeat prayer rather than necessarily anything really substantive.
 - Diversity statements - when you apply to the Allen School and you are asked, "How do you contribute to the diversity of this school?" - what do you say? There is probably a clear answer that you know - something that you are *supposed* to say.
-  - Should you say what you are supposed to say? Here, Reges became emotional and shared a quote from a novel - ""
+  - Should you say what you are supposed to say? Here, Reges became emotional and shared a quote from a novel - approximating "not talking about my life left a void where a life should have been"
 - Demonstrated building a Turing machine to recognize binary palindromic sequences
 
