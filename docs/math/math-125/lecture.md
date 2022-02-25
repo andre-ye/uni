@@ -795,4 +795,84 @@ $$L = \int_a^b \sqrt{1 + f'(x)^2} dx$$
 - Cylindrical Shells
 - Integrating a linear term divided by a quadratic term: complete the square in the denominator, then break it up.
 
+---
+
+## Week 8 Friday - Computing Center of Mass
+- Exam in two weeks: Final on March 12th (Saturday), 1:30 PM @ Architecture 147. 3 hour exam.
+- 1/3 of the exam will be on information covered in the next two weeks.
+- About twice as long as the midterms.
+- Common exam - each MATH 125 instructor writes some part of the exam.
+- If you need to miss the exam, there is an appeal process for taking the makeup.
+- Median between 2.9 $$\pm$$ 0.2.
+- Chapter 9.3 - Differential Equations.
+
+Today - center of mass.
+- What is center of mass?
+- Center of mass is intuitively the point at which some physical system is balanced.
+
+> **Archimedes' Law of the Lever.** $$m_1 d_1 = m_2 d_2$$, for two masses $$m_1$$ and $$m_2$$ and two distances from the fulcrum $$d_1$$ and $$d_2$$ (respectively) to stay balanced.
+
+- The center of mass is the place the fulcrum needs to be in order to balance the mass. 
+- Let us generalize to points. Consider a mass $$m_1$$ at $$x_1$$ and a mass $$m_2$$ and $$x_2$$, and a center of mass at $$\bar{x}$$. We have that
+
+$$m_1 (\bar{x} - x_1) = m_2 (x_2 - \bar{x})$$
+
+$$m_1 \bar{x} - m_1 x_1 = m_2 x_2 - m_2 \bar{x}$$
+
+$$\bar{x} = \frac{m_1 x_1 + m_2 x_2}{m_1 + m_2}$$
+
+- $$\bar{x}$$ gives you the 'average position of the mass in this system'.
+- Denominator - $$m_1 + m_2 \implies $$ total mass.
+- Numerator - $$m_1 x_1 + m_2 x_2 \implies$$ moment about the origin. Tells you the tendency of this physical system to rotate about the origin.
+- This system only has two objects, but we can do something similar with more objects.
+- If we have several masses $$m_i$$ located at positions $$x_i$$, the center of mass is
+
+$$\bar{x} = \frac{\sum m_i w_i}{\sum m_i}$$
+
+- Numerator - total moment; denominator - total mass.
+- If the object lies on a two-dimensional plane (i.e. masses $$m_i$$ in the plane at $$(x_i, y_i)$$), the center of mass can be computed independently at $$(\bar{x}, \bar{y})$$.
+
+$$\bar{x} = \frac{\sum_i m_i x_i}{\sum m_i} = \frac{M_y}{m}$$
+
+$$\bar{y} = \frac{\sum_i m_i y_i}{\sum m_i} = \frac{M_x}{m}$$
+
+- $$M_y$$ - moment about the $$y$$-axis, $$M_x$$ - moment about the $$x$$ axis.
+- Tells you how much objects in this plane want to rotate in the positive $$x$$ direction about the $$y$$ direction, and vice versa for $$y$$.
+- Finding center of mass of lamina - two-dimensional regions.
+- Postulates to help find the center of mass of a simple system:
+  - Note that $$M_y = m \bar{x}$$, $$M_x = m \bar{y}$$
+    - If you had the total mass of the system located at the center of mass, then the moment would be unchanged. The system behaves as if it were a concentrated mass at the center of mass.
+  - If a system is replaced with a concentrated mass at its center of mass, its moments do not change.
+  - If a system is symmetric about a line, then the center of mass lies on that lines
+- break up a system into simpler concentrated masses. We can calculate the center of mass using previously discussed techniques.
+- Suppose you want to find the center of mass of a lamina formed by the area under a curve $$y = f(x)$$ from $$x$$ as $$[a, b]$$.
+- At a rectangle at $$x$$, the center of mass of the strip is $$\left(x, \frac{1}{2} f(x) \right)$$; the area of the strip is $$f(x) \Delta x$$ concentrated at the centroid. 
+- We can get the total mass by integrating the curve = $$\int_a^b f(x) dx$$.
+- To find the $$x$$ and $$y$$ moments, we can compute the individual moments at each strip:
+
+$$M_y = x f(x) \Delta x$$
+
+$$M_x = \frac{1}{2} f(x)^2 \Delta x$$
+
+$$\text{Total moment }M_y = \int_a^b f(x) dx$$
+
+$$\text{TOtal moment }M_x = \int_a^b \frac{1}{2} f(x)^2 dx$$
+
+- When we combine these, we find that
+
+$$\bar{x} = \frac{M_y}{A}, \bar{y} = \frac{M_x}{A}$$
+
+- In order to compute a center of mass, we need to compute three integrals: the area of the region and the two moments.
+
+> Example: Find the center of mass for a lamina formed by the area under the curve $$y = 4-x^2$$. The area is $$\int_0^2 (4 - x^2) dx = \frac{16}{3}$$. $$M_y = \int_0^2 x(4-x^2) dx = 4$$. $$M_x = \int_0^2 \frac{1}{2} (4-x^2)^2 dx = \frac{128}{15}44. $$\bar{x} = \frac{3}{4}, \bar{y} = \frac{8}{5}$$.
+
+
+
+
+
+
+
+
+
+
 
