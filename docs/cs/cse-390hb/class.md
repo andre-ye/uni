@@ -117,6 +117,18 @@ E) It changes the value of b if and only if b has value true just before the sta
 - The Fourth Turning; The End of History and the Last Man - will there be another war? What will it look like? What will the next revolution be like? Tensions between Russia and Ukraine, America and China. Francis Fukuyama and the question of opposing ideology.
 - Martin Luther King suggested that "the arc of the moral universe is long, but it bends toward justice" - Reges believes that cyclic models on human progress and civilization may be more apt.
 
+---
 
-
+## Week 8
+- Questions around moral panics and censorship
+- Who has a right to speak? What are the justifications for censorship?
+- Stuart Reges was offered a faculty position by Stanford in his early 20s - a dream job, but only under the condition that he would never be allowed to write anything about his homosexuality. He accepted (under temporary terms) then, but wishes he didn't now.
+- Stuart Reges and the controversy over the winter 2022 Indigenous Land Acknowledgement in the syllabus: free speech in academia.
+  - It seems that indigenous land acknowledgements are inherently political; if a professor is allowed to write favorably in one political direction, then another professor should be allowed to write favorably in a different political direction.
+  - Reges wishes that there were not indigenous land acknowledgements on syllabi at all; this incident was planned to test how 'far' he could go with expressing the alternative to political opinions in the common academic mainstream.
+  - Magdalena Balazinska, head of the Allen School, had IT take down Reges' syllabus; Reges put it back up; IT put it back down the following day and disabled Unix permissions. Reges notes that he *could* have put it back up through clever means but decided not to.
+- Comparison of indigenous land acknowledgements to the pledge of allegiance (which Reges has disdain for) - both are ritualistic in nature, intended as a say-and-repeat prayer rather than necessarily anything really substantive.
+- Diversity statements - when you apply to the Allen School and you are asked, "How do you contribute to the diversity of this school?" - what do you say? There is probably a clear answer that you know - something that you are *supposed* to say.
+  - Should you say what you are supposed to say? Here, Reges became emotional and shared a quote from a novel - ""
+- Demonstrated building a Turing machine to recognize binary palindromic sequences
 
