@@ -221,6 +221,14 @@ Common Wrapper Classes:
 | `char` | `Character` |
 | `boolean` | `Boolean` |
 
+### 10.2: THe `Comparable` Interface
+- Boxing vs unboxing.
+- testing object equality is not as simple as testing for equality in primitives.
+- Natural ordering: the order imposed on a type by its comparison function. Not all types have natural orderings.
+- `compareTo` method is the comparison function for the type. Three possible answers: negative number for less than, 0 for equality, positive number for greater-than relationship.
+- When we implement a `Comparable` interface, use `public class Name implements Comparable<T>`.
+- Implement a `public int compareTo(type other) {...}` method.
+
 ---
 
 ## Chapter 11: Java Collections Framework
