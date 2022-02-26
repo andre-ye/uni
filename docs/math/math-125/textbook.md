@@ -387,10 +387,72 @@ $$\|P_{i-1}P_i\| = \sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}$$
 
 $$L = \int_a^b \sqrt{1 + f'(x)^2} dx$$
 
+---
 
+## 8.3: Moments and Centers of Mass
+- Objective: find a point $$P$$ upon which a thin plate of any given shape balances horizontally. This is the center of mass (or center of gravity) of the plate.
+- Consider a rod with negligible mass balanced on a fulcrum with two masses $$m_1$$ and $$m_2$$ and distances from the fulcrum $$d_1$$ and $$d_2$$. In order to balance, the following must be true:
 
+$$m_1 d_1 = m_2 d_2$$
 
+- Law of the Lever - discovered by Archimedes.
+- In a system with $$n$$ particles with masses $$m_1, m_2, ..., m_n$$ located at points $$x_1, x_2, ..., x_n$$ on the $$x$$-axis, it can be shown that the center of mass is at
 
+$$\bar{x} = \frac{\sum m_i x_i}{\sum m_i} = \frac{\sum m_i x_i}{m}$$
+
+- The sum of the individual moments is the *moment of the system about the origin*:
+
+$$M = \sum m_i x_i$$
+
+$$m \bar{x} = M$$
+
+- Moment: if the total mass were considered as being concentrated at the center of mass $$\bar{x}$$, then its moment would be the same as the moment of the system.
+- Consider a system of $$n$$ particles with masses $$m_1, m_2, ..., m_n$$ located at points $$(x_1, y_1), (x_2, y_2), ..., (x_n, y_n)$$ in the $$xy$$-plane. We have $$M_y$$ (moment of the system about the $$y$$-axis) and $$M_x$$ (moment of the system abuot the $$x$$ axis) as such:
+
+$$M_y = \sum m_i x_i$$
+
+$$M_x = \sum m_i y_i$$
+
+- The coordinates of the center of mass are as such, where $$m = \sum m_i = \text{total mass}$$:
+
+$$\bar{x} = \frac{M_y}{m}$$
+
+$$\bar{y} = \frac{M_x}{m}$$
+
+- Suppose a region $$R$$ lies between two lines $$x = a$$ and $$x = b$$ above the $$x$$-axis and beneath the graph of $$f$$, where $$f$$ is a continuous function.
+- We can divide the interval $$[a, b]$$ into $$n$$ subintervals in Riemann-sum-style approximation.
+- The centroid of the $$i$$th approximating rectagle is $$C_i \left(\bar{x}_i, \frac{1}{2} f(\bar{x}_i)\right)$$. The area is $$f(\bar{x}_i) \Delta x$$; the mass is
+
+$$\rho f(\bar{x}_i} \Delta x$$
+
+- The moment of $$R_i$$ about the $$y$$-axis is the product of its mass and the distance from $$C_i$$ to the $$y$$-axis, which is $$\bar{x}_i$$; therefore, the following is true:
+
+$$M_y (R_i) = \left[\rho f(\bar{x}_i) \Delta x\right]\bar{x}_i = \rho \bar{x} i) \Delta x$$
+
+- We can take the limit as $$n\to\infty$$ to sum the moments:
+
+$$M_y = \lim_{n\to\infty} \sum_{i=1}^n \rho \bar{x}_i f(\bar{x}_i) \Delta x = \rho \int_a^b xf(x) dx$$
+
+- We can compute the moment of $$R_i$$ about the $$x$$-axis:
+
+$$M_x (R_i) = \left[\rho f(\bar{x}_i \Delta x\right] \frac{1}{2} f(\bar{x}_i) = \rho \cdot \frac{1}{2} [f(\bar{x}_i)]^2 \Delta x$$
+
+$$M_x = \lim_{n\to\infty} \sum_{i=1}^n \rho \cdot \frac{1}{2} [f(\bar{x})]^2 \Delta x = \rho \int_a^b \frac{1}{2} f(x)^2 dx$$
+
+- Finally, we obtain the following formulas for $$\bar{x}$$ and $$\bar{y}$$.
+
+$$\bar{x} = \frac{M_y}{m} = \frac{\int_a^b x f(x) dx}{\int_a^b f(x) dx}$$
+
+$$\bar{y} = \frac{M_x}{m} = \frac{\int_a^b \frac{1}{2} f(x)^2 dx}{\int_a^b f(x) dx}$$
+
+- If a region lies between two curves $$y = f(x)$$ and $$y = g(x)$$, where $$f(x) \ge g(x)$$. The centroid can be found as such:
+
+$$\bar{x} = \frac{1}{A} \int_a^b x[f(x) - g(x)] dx$$
+
+$$\bar{y} = \frac{1}{A} \int_a^b \frac{1}{2} \left\{ f(x)^2 - g(x)^2 \right\}$$
+
+> **Theorem of Pappus.** Let $$R$$ be a plane region that lies entirely on one side of the line $$l$$ in the plane. If $$R$$ is rotated about $$l$$, then the volume of the resulting solid is the product of the area $$A$$ of $$R$$ and the distance $$d$$ traveled byt eh centroid of $$R$$.
+> 
 
 
 
