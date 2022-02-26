@@ -93,8 +93,14 @@ public boolean equals(Object o) {
 }
 ```
 
-
-
+### 9.3: Polymorphism
+- Inheritance allows client code to treat different kinds of objects in the same way.
+- Polymorphism - ability for the same code to be used with several diff. types of objects.
+- The type of a reference variables doesn't need to exactly match the type of the object it refers to.
+- Late binding, virtual binding, dynamic dispatch - whent he program reaches a particular call to an object's method, it examines the object to see which method to call.
+- When you send messages to an object sstored in a variable of superclass type, you can only call methods known to the superclass.
+- Inheritance & polymorphism can introduce complex new mechanics.
+- 
 
 ### 9.5: Interfaces
 - Inheritance enables polymorphism and code sharing. However, it is very limited.
