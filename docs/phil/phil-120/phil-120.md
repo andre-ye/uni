@@ -1,18 +1,18 @@
 ---
 layout: default
-title: PHIL 102
+title: PHIL 120
 parent: Philosophy
-nav_order: 102
-permalink: /docs/phil/phil-102
+nav_order: 120
+permalink: /docs/phil/phil-120
 has_children: true
 ---
 
-# PHIL 102
+# PHIL 120
 
-Contemporary Moral Problems
+Introduction to Logic
 {: .fs-6 .fw-300 }
 
-Michael Blake
+Ian Schnee
 {: .label }
 
 Spring 2022
