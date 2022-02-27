@@ -100,7 +100,7 @@ public boolean equals(Object o) {
 - Late binding, virtual binding, dynamic dispatch - whent he program reaches a particular call to an object's method, it examines the object to see which method to call.
 - When you send messages to an object sstored in a variable of superclass type, you can only call methods known to the superclass.
 - Inheritance & polymorphism can introduce complex new mechanics.
-- 
+- Method call tables - have each method as a row and each class as a column; write out the output.
 
 ### 9.5: Interfaces
 - Inheritance enables polymorphism and code sharing. However, it is very limited.
