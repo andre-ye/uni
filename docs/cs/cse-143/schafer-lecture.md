@@ -265,6 +265,65 @@ private IntTreeNode add(IntTreeNode root, int value) {
 }
 ```
 
+---
+
+## Lecture 22: Comparable
+- Last time, finalized most content with a binary tree. Different tree traversals, writing code that builds a tree, etc.
+- Binary search property
+- Adding nodes that maintain the binary search property
+- The `x = change(x)` pattern.
+- Don't fight the recursive definition of a tree.
+- Mechanics for sorting objects, like strings and points
+- We need a way to communicate to Java how to compare different objects.
+- `compareTo` is a replacement for `<`, `>`, `==`. `compareTo` returns a value less than 0 if it comes 'before' the `other`, a value larger than 0 if it comes 'after' the `other`, and a value equal to 0 if it is 'equal' in ordering to `other`.
+- `Interface` - a promise to provide certain functions. Implementing the `Comparable` interface allows for comparison.
+- Generics - `Comparable<E>`, `E` is a placeholder for objects.
+- Shortcut with `int` types - simply return the difference
+- Breaking ties - return alternative.
+- Always use if/else unless you are working with `int`s.
+- You can use `.compareTo` with Strings if you want to compare their `String` values.
+
+---
+
+## Lecture 23: Priority Queues and Huffman Encoding
+- Priority Queue: a collection of ordered elements that provides fast access to the minimum or maximum element.
+- Instead of being FIFO, pulls things based on a priority.
+- Implements the `Queue` interface.
+- Removes with the highest priority (e.g. lowest comparative value)
+- Compression - the process of encoding information so that it takes up less space.
+- Compression - WinZip, WinRar, zip
+- Strategy of making a file smaller without losing information.
+- Lossy information - loses some marginal information.
+- Lossless compression - do not lose any data at all.
+- ASCII - American Standard Code for Information Interchange. Standardized code for mapping characters to integers. Allows characters to be represented in binary so computers can read them.
+- Every character is represented by a byte - 8 bits.
+- Huffman's Insight: use variable length encodings for different characters to take advantage of frequencies in which characters appear.
+- ASCII is trying to be very general, but that can lead to redundancy/waste.
+- We have a new encoding scheme for each new file.
+- Create a Huffman Tree that gives a good binary representation for each character.
+- The path from the root to a character leaf is the encoding for that character; left means 0, right means 1.
+- Steps for encoding:
+  1. Count the occurrences for each character in the file.
+  2. Create a Priority Queue with Huffman Nodes that are in ascending order with respect to frequency.
+  3. Run the Huffman Tree merge algorithm. Remove two nodes and combine them into a node such that the left of the new node is one node and the right of the new node is the other node. The frequency of the new node is the sum of the two child node frequencies. Add this node back to the priority queue.
+  4. Save the tree to a file to save the encodings for the characters we made. Perform a tree traversal to output the tree structure.
+- What is the relationship between frequency in the file and binary representation length? The more frequently occuring characters have shorter paths to the root node.
+- Prefix property - no prefix for one code is the prefix of another code.
+- To rebuild the tree, read two lines of input at a time. Build a tree by following the file information.
+- `BitInputStream` - works like a `Scanner` for bits
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
