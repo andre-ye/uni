@@ -7,6 +7,7 @@ nav_order: 1
 ---
 
 # Talk Notes
+{: .no_toc }
 
 Philosophy Society
 {: .fs-6 .fw-300 }
