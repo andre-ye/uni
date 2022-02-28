@@ -866,6 +866,69 @@ $$\bar{x} = \frac{M_y}{A}, \bar{y} = \frac{M_x}{A}$$
 
 > Example: Find the center of mass for a lamina formed by the area under the curve $$y = 4-x^2$$. The area is $$\int_0^2 (4 - x^2) dx = \frac{16}{3}$$. $$M_y = \int_0^2 x(4-x^2) dx = 4$$. $$M_x = \int_0^2 \frac{1}{2} (4-x^2)^2 dx = \frac{128}{15}44. $$\bar{x} = \frac{3}{4}, \bar{y} = \frac{8}{5}$$.
 
+---
+
+## Week 9 - Center of Mass and Differential Equations
+For point masses $$m_i$$ at $$(x_i, y_i$$):
+
+$$\bar{x} = \frac{\sum m_i x_i}{\sum m_i}$$
+
+$$\bar{y} = \frac{\sum m_i y_i}{\sum m_i}44
+
+For the area beneath a curve, then the centroid is
+
+$$\bar{x} = \frac{M_y}{A} = \frac{\int_a^b x f(x) dx}{\int-a^b f(x) dx}$$
+
+$$\bar{y} = \frac{M_x}{A} = \frac{\frac{1}{2} \int_a^b f(x)^2 dx}{\int_a^b f(x) dx$$
+
+For areas in between two curves $$f(x)$$ and $$g(x)$$ between $$x = a$$ and $$x = b$$
+
+For each slice at $$x$$, we have mass $$f(x) - g(x)) \Delta x$$ at $$\left(x, \frac{f(x) + g(x)}{2}\right)$$.
+
+$$\bar{x} = \frac{\int_a^b x(f(x) - g(x)) dx }{A}$$
+
+$$\bar{y} = \frac{\int_a^b \frac{1}{2} (f(x)^2 - g(x)^2) dx}{A}$$
+
+Sometimes, we will need to integrate w.r.t. $$y$$ or break up the integrated area into two parts. When integrating w.r.t. $$y$$ with $$x = f(y)$$ and $$x = g(y)$$ betweeen $$y = a$$ and $$y = b$$:
+
+$$\bar{x} = \frac{M_x}{A}$$
+
+$$\bar{y} = \frac{M_y}{A}$$
+
+/*$$M_y$$ and $$M_x$$ refer to the original definitions when integrating w.r.t. $$x$$. 
+
+Alternatively, sum up the individual moments in the $$x$$ and $$y$$ axes and divide by total mass.
+
+**Differential Equations**
+- A differential equation involves a function and one or more derivatives.
+- A differential equation could be
+
+$$\frac{dy}{dx} = xy$$
+
+*The derivative of the function $$y$$ is equal to $$x$$ times the function $$y$$.*
+
+- The order of a differential equation is the order of the highest derivative in the differential equation.
+
+$$y'' = -y; \text{order} = 2, \text{ second order equation}$$
+
+- When you solve a differential equation, you must find a family of functions that satisifes a solution.
+- You will generally find a set of functions defined by a set of free parameters.
+- Find the most general form of a solution to a function that satisfies the equation.
+- Integration solves a very simple differential equation: solve $$y' = x^2$$, for instance.
+- We can check solutions: e.g. show that $$y = A \cos x + B \sin x$$ is a solution to $$y'' = -y$$. Evaluate both sides:
+
+$$y' = -A \sin x + B \cos x$$
+
+$$y'' = -A \cos x - B \sin x = -y$$
+
+- We may be interested in a specific solution to a differential equation: we may specify some initial conditions to pin down a function that we want.
+- For a differential equation, we can specify initial conditions to give a specific solution to a differential equation.
+
+> Example: Find a solution to $$y'' = -y$$ satisfying $$y(0) = 2, y'(0) = 3$$. The result here will be a specific function. Specific solution: $$Y = 2\cos x + 3\sin x$$.
+
+- Differential equations are very useful for modeling systems. Suppose you want to model population growth - e.g. a population increases at a rate proportional to the size of the population. If $$p(t)$$ is the population at time $$t$$, then we obtain $$\frac{dP}{dt} = k\cdot P$$, where $$k$$ is the birth rate.
+
+
 
 
 
