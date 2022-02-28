@@ -281,12 +281,29 @@ McCarthy's witch hunt gave the shift the justification it needed: reporters ampl
 - We often make class differences into racial differences.
 - Discourse on white priviledge - eliminates the chance for an individual to be presumptuous and dehumanization.
 
+---
 
+## Chapter 10: Case Studies
+- Aaron Grossman and the Palestian vs Israeli conflict
+- Crude binary in which power is one-way; poorly executed analysis of power dynamics
+- Jews - erasure from mainstream media.
+	- Ochs was deeply insecure about his Jewishness.
+- The *Times* buried Nazi atrocities against Jews. Determined to view Jews as a faith community rather than a nationality.
+- The *Times* routinely blamed Jews for violence in Palestine, including when the victims were Jews.
+- Critical Race Theory, Hegelian master-slave dialectic
+- Binary of the antiracist worldview - eliminates the complex position that Jews occupy
+- Crime coverage - Pulitzer and Day reported crime that reflected the lived realities of poor and working-class readers.
+- Many newspapers consciously made the decision to move away from crime coverage.
+- Problem in how black Americans are represented in crime reporting. White Ameircans overestimate how much crime is commited by people of color.
+- Inner-city violence isn't being covered, and there is a stigma against discussing it: 
+- Crime is a local affair. The local newspaper industry has collapsed, and poorer communities become news deserts.
+- Ordinary citizens posting on social media fill this lacuna.
+- Trump's voters - almost all muslims turned out for Trump in 2020 higher than they had in 2016. Trump obtained a record 18% of the black male vote, despite racist statements about companies and inability to disavow white nationalists. 
+- Class and language barrier
+- Isenberg: "Whiteness is not a privilege equally enjoyed by all white Americans."
 
+---
 
-
-
-
-
+## How the Left Perpetuates Inequality and Undermines Democracy
 
 
