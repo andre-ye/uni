@@ -661,8 +661,26 @@ public class Angle implements Comparable<Angle> {...}
 public class SearchTree<E extends Comparable<E>> {...}
 ```
 
+---
 
-
+## Week 9 Monday - Abstract Classes
+- Cases in which we're dealing with a double difference - you cannot simply cast into an int.
+- When you're dealing with a double rather than an int, do not use casting ints; just write a series of logic if/else statements. 
+- You'll be better off calling a method rather than using an expression in the `compareTo`.
+- Object oriented design and class hiearchy.
+- Using a class vs interface - if all we need is knowing some information, then we can use an interface - if something *can* be done with an interface,  it *should* be done w ith an interface. Each subclass can only have one inheritance relationship.
+- When an interface is related to another interface, you use `extend` instead of `implement`. 
+- Interface solution to the problem - use an interface `Shape` and make all classes implement.
+- Concrete classes - methods and states with a concrete body and filled commands. An interface is all abstract - all hollow, nothing is filled in.
+- We're looking for something in between - an abstract class. We get some things filled in, and some things not filled in.
+- `public abstract <type> <name> ()` for methods; `public abstract class <name> implements <interface> {...}`
+- Abstract classes have a constructor, even though we can't construct an instance of an abstract class.
+- The first thing that every constructor does is to call a superclass constructor.
+- Accessing private fields of a superclass - we can't accesss
+- Good OOP - talk about what is special - only say or express what is different from what is already written.
+- Reges believes - square should not extend rectangle. The "is/a" vs the "can substitute for" relationship debate. A square cannot substitute for a rectangle, and therefore, it should not extend rectangle.
+- Other things we could explore - the keyword `final` does not allow subclasses to override superclasses.
+- Classes can be final too - `public final ...`.
 
 
 
