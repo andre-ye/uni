@@ -16,6 +16,7 @@ List of interesting papers, articles, and posts shared within the lab (arranged 
 ---
 
 - [Humanitarian Digital Ethics: A Foresight and Decolonial Governance Approach](https://carrcenter.hks.harvard.edu/files/cchr/files/krishnan.pdf){:target="_blank"}
+- ["Jol" or "Pani"?: How Does Governance Shape a Platform's Identity?](https://dl.acm.org/doi/10.1145/3479860){:target="_blank"}
 - [Human-AI Collaboration via Conditional Delegation: A Case Study of Content Moderation](https://vivlai.github.io/papers/chi2022.pdf){:target="_blank"}
 - [Automated Content Moderation and the Power of Scale](https://citizensandtech.org/2022/02/automated-content-moderation-and-the-power-of-scale/){:target="_blank"}
 - [Comparing the Perceived Legitimacy of Content Moderation Processes: Contractors, Algorithms, Expert Panels, and Digital Juries](https://hci.stanford.edu/publications/2022/ComparingPerceivedLegitimacy.pdf){:target="_blank"}
