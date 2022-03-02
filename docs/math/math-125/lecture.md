@@ -868,7 +868,7 @@ $$\bar{x} = \frac{M_y}{A}, \bar{y} = \frac{M_x}{A}$$
 
 ---
 
-## Week 9 - Center of Mass and Differential Equations
+## Week 9 .Monday - Center of Mass and Differential Equations
 For point masses $$m_i$$ at $$(x_i, y_i$$):
 
 $$\bar{x} = \frac{\sum m_i x_i}{\sum m_i}$$
@@ -927,6 +927,67 @@ $$y'' = -A \cos x - B \sin x = -y$$
 > Example: Find a solution to $$y'' = -y$$ satisfying $$y(0) = 2, y'(0) = 3$$. The result here will be a specific function. Specific solution: $$Y = 2\cos x + 3\sin x$$.
 
 - Differential equations are very useful for modeling systems. Suppose you want to model population growth - e.g. a population increases at a rate proportional to the size of the population. If $$p(t)$$ is the population at time $$t$$, then we obtain $$\frac{dP}{dt} = k\cdot P$$, where $$k$$ is the birth rate.
+
+---
+
+## Week 9 Wednesday - Differential Equations
+- The average was lower for this exam, but no formal grade - about 68%. Scores will be released on Friday.
+- Quiz 8 mean: 8.58, median: 10.
+- 9.3 - Seperable Equations.
+- Qualitative aspects of differential equations.
+- Some models for population growth using differential equations
+
+> Suppose a population grows at a rate proportiona to its size. With $$P(t)$$ as the population at time $$t$$, we have the equation $$\frac{dP}{dt} = kP$$. We can tell some things about solutions to the differential equation without actually solving for it:
+
+- If $$P > 0$$, then $$kP > 0$$, so $$p' > 0 \implies P$$ is increasing.
+- If $$P = 0$$, then $$P$$ will stay at 0 since $$P' = 0$$.
+- If $$P < 0$$, then $$P' = kP < 0$$, so $$P$$ is decreasing.
+
+> Better population model: considers limited resources. Suppose the carrying capacity of the environmnet is $$M$$. Logistic equation: $$\frac{dP}{dt} = kP(1 - \frac{P}{M})$$.
+
+- If $$P = 0$$, then $$P' = 0$$, so $$P$$ stays at 0.
+- If $$0 < P < M$$, then $$1 - \frac{P}{M} > 0$$, so $$P' > 0$$, so $$P$$ is increasing.
+- If $$P = M$$, then $$1 - \frac{P}{M} = 0$$, so $$P' = 0$$ and $$P$$ stays at $$M$$ (equilibrium state).
+- If $$P > M$$, $$1 - \frac{P}{M} < 0$$, so $$P' < 0$$< so $$P$$ is decreasing. 
+
+- Differential equations in these cases do not cross over each other.
+
+> **A first-order differential equation is separable** if it has the form $$\frac{dy}{dx} = f(x) \cdot g(y)$$ for two functions $$f$$ and $$g$$.
+
+- Example:
+  - $$y' = xy + y$$ is separable because we can rewrite the LHS as $$(x+1) y$$.
+  - $$y' = x+y$$ is not separable.
+  - $$y' = xy + 1$$ is not separable.
+
+- Suppose we have a separable equation. To solve it, rearrange it and integrate.
+
+We have that
+
+$$\frac{dy}{dx} = f(x) \cdot g(y)$$
+
+We put anything with an $$x$$, including the $$dx$$, on the RHS; everything with a $$y$$ gets put on the RHS.
+
+$$\frac{dy}{g(y)} = f(x) dx$$
+
+Integrate:
+
+$$\int \frac{1}{g(y) dy = \int f(x) dx$$
+
+The LHS is really as such, in which we do a $$u$$-substitution:
+
+$$\int \frac{1}{g(y)} \frac{dy}{dx} dx$$
+
+After integrating, you obtain a result:
+
+$$G(y) = F(x) + C$$
+
+This will be some relationship between $$x$$ and $$y$$. If possible, you can solve for $$y$$.
+
+If you need to solve an initial value problem, all you need to do is to figure out what the constant $$C$$ is. You can do this before or after solving for $$y$$.
+
+> Example: Solve $$\frac{dy}{dx} = - \frac{x}{y}4$. Afterwards, solve the initial value problem where $$y(1) = -2$$. We obtain $$y dy = -x dx$$. Integrating both sides: $$\int y dy = \int -x dx \implies y^2 = -x^2 + C' \implies y = \pm\sqrt{C' - x^2}$$. The solution is a semicircle. $$-2 = \pm \sqrt{C' - 1^2} \implies 4 = C' -1 \implies C' = 5$$. $$y = -\sqrt{5 - x^2}$$ is the solution to the initial value problem.
+
+> Example: Solve $$y' = xy + y$$. Afterwards, solve the initial value problem where $$y(0) = 3$$. We obtain $$\frac{dy}{dx} = (x+1)y \implies \frac{dy}{y} = (x+1) dx$$; integrating both sides yields $$\ln |y| = \frac{1}{2} x^2 + x$$. To solve for $$y$$, we get $$y = \pm e^{\frac{x^2}{2} + x + C} = C' e^{\frac{x^2}{2} + x}$$. 
 
 
 
