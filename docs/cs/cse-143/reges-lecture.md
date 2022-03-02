@@ -682,7 +682,35 @@ public class SearchTree<E extends Comparable<E>> {...}
 - Other things we could explore - the keyword `final` does not allow subclasses to override superclasses.
 - Classes can be final too - `public final ...`.
 
+---
 
+## Week 9 Wednesday - Huffman Coding
+- 1880 census took almost 8 years to complete; who could do something better?
+- Hollerith - came up with a scheme of punched cards. Data processing equipment.
+- System involving working with punched cards and machines; the government did the 1890 census in less time than the 1880 census.
+- Merged with other companies into IBM.
+- Attempt in the early 1960s as an alternative to IBM: ASCII, American Standard Code for Information Interchange.
+- 128 possible values - 7 bits.
+- ASCII doesn't work well for non-American characters.
+- 8th bit for ASCII was often used as a parity bit - perform a calculation on the parity to detect corruption in data.
+- International committee - defines Unicode.
+- UTF-8 encoding. A code with variable lengths - some of the codes are 1-byte, some as 2-byte, 4-byte, etc. There is more space in unicode to have longer codes.
+- ASCII characters are one byte long in UTF-8.
+- Zipping and compression
+- Common letters - letters that appear frequently. Look at the frequency of characters and deal with individual characters.
+- Huffman Coding
+- Create several nodes, and combine the two with the lowest frequency underr a new node with a frequency as the sum of frequencies.
+- Priority Queue - has an operation that removes the smallest value from the queue.
+- Your Node Class must implement the `Comparable` interface so the priority queue can 'sort'/find the 'min'.
+- Prefix Property - no code in the list is the prefix of another code.
+- `BitInptuStream` and `BitOutputStream` - will use classes as part of the solution.
+  - `BitOutputStream` has a challenge - bits tend to come in bytes of 8
+- Pseudo-EOF. We will need to manually add the Pseudo-EOF character to the priority queue.
+
+
+
+
+- 
 
 
 
