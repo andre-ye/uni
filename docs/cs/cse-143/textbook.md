@@ -781,6 +781,63 @@ Common convenience methods:
 | `set` | Directly sets an index to a new value, rather than using `remove`, then `add`. |
 | `addAll` | Adds all elements from anohter `ArrayIntList`.
 
+### 15.3: Advanced Features
+- Resizing when necessary: creating a larger array when capacity is exceeded; capacity grows to accmodate new values.
+- Expense is amortized over additional calls until the resized capacity is filled.
+- The `ArrayList` impementation increases capacity by about 50% each time.
+- Block copy operation - optimized to run quickly for transferring elements.
+- Adding an iterator: the collections framework often uses an iterator to traverse a collection. The iterator must have three basic operations: `hasNext()`, `next()`, and `remove()`.
+
+```java
+ 1 // Objects of this class can be used to iterate over an
+ 2 // ArrayIntList and remove values from the list.
+ 3
+ 4 import java.util.*;
+ 5
+ 6 public class ArrayIntListIterator {
+ 7 private ArrayIntList list; // list to iterate over
+ 8 private int position; // current list position
+ 9 private boolean removeOK; // okay to remove now?
+10
+11 // post: constructs an iterator for the given list
+12 public ArrayIntListIterator(ArrayIntList list) {
+13 this.list = list;
+14 position = 0;
+15 removeOK = false;
+16 }
+17
+18 // post: returns true if there are more elements left
+19 public boolean hasNext() {
+20 return position < list.size();
+21 }
+22
+23 // pre : hasNext() (throws NoSuchElementException if not)
+24 // post: returns the next element in the iteration
+25 public int next() {
+26 if (!hasNext()) {
+27 throw new NoSuchElementException();
+28 }
+29 int result = list.get(position);
+30 position++;
+31 removeOK = true;
+32 return result;
+33 }
+34
+35 // pre : next() has been called without a call on remove
+36 // (throws IllegalStateException if not)
+37 // post: removes the last element returned by the iterator
+38 public void remove() {
+39 if (!removeOK) {
+40 throw new IllegalStateException();
+41 }
+42 list.remove(position – 1);
+43 position––;
+44 removeOK = false;
+45 }
+46 }
+```
+
+
 
 ---
 
