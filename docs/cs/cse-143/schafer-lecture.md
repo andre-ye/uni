@@ -312,9 +312,59 @@ private IntTreeNode add(IntTreeNode root, int value) {
 - To rebuild the tree, read two lines of input at a time. Build a tree by following the file information.
 - `BitInputStream` - works like a `Scanner` for bits
 
+---
 
+## Lecture 24 - Inheritance
+- Inheritance - form new classes based on existing ones.
+- Superclass - parent class being extended.
+- Subclass - child class inheriting behavior from superclass.
+  - Gets a copy of every field and method from the superclass
+- is-a relationship - each object of the subclass also "is a(n)" object of the superclass and can be treated as one.
+  - One-way relationship
+- Example:
 
+```java
+public class A {
+  public void m1() {
+    m2();
+    S.o.pln("A1");
+  }
+  
+  public void m2() {
+    S.o.pln("A2");
+  }
+}
 
+public class B extends A
+  public void m2() {
+    S.o.pln("B2");
+  }
+}
+
+// what is the output of
+B b = new B();
+b.m1();
+
+// output: B2 / A1
+```
+
+- What relationships are or are not allowed?
+- Type systems, casting, compiler checking
+
+```java
+PromiseType variable = new ActualType();
+```
+
+- Object: automatically is extended from every object.
+
+```java
+SuperClassType variable = new SubClassType();
+```
+
+- Methods are always called on the actual type - not the promised type. Promises are nothing in execution.
+- Casting to access certain subclass methods
+- Casting can get 'around' the Java compiler, renegotiating a contract. Casting creates a temporary new 'interpretation'.
+- Super calls are non polymorphic calls.
 
 
 
