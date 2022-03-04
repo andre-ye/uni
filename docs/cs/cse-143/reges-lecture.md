@@ -707,10 +707,70 @@ public class SearchTree<E extends Comparable<E>> {...}
   - `BitOutputStream` has a challenge - bits tend to come in bytes of 8
 - Pseudo-EOF. We will need to manually add the Pseudo-EOF character to the priority queue.
 
+---
 
+## Week 9 Friday - Advanced `ArrayIntList`
+- FInal exam resources have been posted, extra credit opportunities.
+- Material we are covering today is usually covered earlier.
+- `ArrayIntList` - how to make a somewhat better version.
+- What else would we want in an `ArrayIntList`?
+  - `set` - reassignment at a certain index
+  - `removeAll`
+  - `isEmpty`
+  - `iterator`
+  - `clear`
+- Interface `Iterator<E>` - must implement a `hasNext()`, `next()`, and `remove()` method
 
+```java
+public class ArrayIntListIterator implements Iterator<Integer> {
+  private int position;
+  private ArrayIntList list;
+  private boolean removeOK
+  
+  public ArrayIntListIterator(ArrayIntList list) {
+    this.list = list;
+    this.removeOK = false;
+  }
+  
+  public boolean hasNext() {
+    return position < list.size();
+  }
+  
+  public Integer next() {
+    if (!hasNext()) {
+      throw new NoSuchElementException();
+    }
+    int result = list.get(position);
+    position++;
+    this.removeOK = true;
+    return result;
+  }
+  
+  public void remove() {
+    if (!removeOK) {
+      throw new NoSuchElementException();
+    }
+    list.remove(position - 1);
+    position--;
+    this.removeOK = false;
+  }
+}
+```
 
-- 
+- The iterator is a lightweight object
+- Do not remove something in a loop, you will get a concurrent modification error. Use an iterator instead.
+- We want to be able to instantiate an iterator
+
+```java
+public Iterator<Integer> iterator() {
+  return new ArrayIntListIterator(this);
+}
+```
+
+- Expanding capacity - if you will exceed capacity, it makes a bigger array and copies elements over to the new array.
+- Amoratizing - spreading out a cost over a certain duration of period.
+- Java multiplies by 1.5 - increases by 50%.
+- Sample final on website
 
 
 
