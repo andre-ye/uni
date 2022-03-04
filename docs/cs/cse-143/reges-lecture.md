@@ -771,6 +771,20 @@ public Iterator<Integer> iterator() {
 - Amoratizing - spreading out a cost over a certain duration of period.
 - Java multiplies by 1.5 - increases by 50%.
 - Sample final on website
+- `TreeSet` does not work on an object that does not implement `Comparable`
+- `Point` does not implement `Comparable`; `Point` is often used in exams.
+
+| This text resides on the 777th line of the markdown file used to generate this text. |
+
+- Binary tree questions are generally not too diffiuclt - linked list problems are very difficult.
+  - Simulate your code: list of length 0, length 1, length 2, etc.
+  - 
+
+
+
+
+
+
 
 
 
