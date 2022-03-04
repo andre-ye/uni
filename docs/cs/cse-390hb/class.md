@@ -133,3 +133,29 @@ E) It changes the value of b if and only if b has value true just before the sta
   - Should you say what you are supposed to say? Here, Reges became emotional and shared a quote from a novel - approximating "not talking about my life left a void where a life should have been"
 - Demonstrated building a Turing machine to recognize binary palindromic sequences
 
+---
+
+## Week 9
+- How many students are Trump supporters on campus? How many students are conservative on campus? How vocal are people about their conservatism?
+- The mystery of `b := (b = False)` - the ability to *model computational thought* / "play computer" is highly correlated with success on computer science exams.
+- RSA encryption - modular arithmetic, Fermat's Little Theorem, the RSA encryption algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
