@@ -989,14 +989,75 @@ If you need to solve an initial value problem, all you need to do is to figure o
 
 > Example: Solve $$y' = xy + y$$. Afterwards, solve the initial value problem where $$y(0) = 3$$. We obtain $$\frac{dy}{dx} = (x+1)y \implies \frac{dy}{y} = (x+1) dx$$; integrating both sides yields $$\ln |y| = \frac{1}{2} x^2 + x$$. To solve for $$y$$, we get $$y = \pm e^{\frac{x^2}{2} + x + C} = C' e^{\frac{x^2}{2} + x}$$. 
 
+---
 
+## Week 9 Friday - Separable Differential Equations
+- Mean/median of midterm released today, in the low 30s out of 50s.
 
-
-
-
-
+- Roughly we can re-arrange the equation such that $$\frac{dy}{dx} = f(x) g(y) \implies \int \frac{1}{g(y)} dy = \int f(x) dx \implies G(y) = F(x) + C$$. You may need to solve for the constant if you are given an initial value.
 
 
 | This text is written on the 1000th line of the markdown file used to generate this webpage. 🥳🥳🥳 |
+
+> **Example.** $$y' = xy+y$$, $$y(0) = 3$$.
+
+$$\frac{dy}{dx} = (x+1) y$$
+
+$$\implies \int \frac{dy}{y} = \int (x+1) dx$$
+
+$$\ln|y| = \frac{x^2}{2} + x + C$$
+
+$$y = Ae^{\frac{x^2}{2} + x}, A = \pm e^C \text{ or } 0$$
+
+> We can solve for $$C$$ and carry through the computation or for $$A$$: we find that $$A = 3$$, thus $$y = 3e^{\frac{x^2}{2} + x}$$.
+
+**Mixing problems** - description of a physical system that needs to be represented using differential equations.
+
+- Canonical example - salt water. Various kinds of salt water are coming in, perhaps with a different concentraton, and the container is leaking.
+- Salinity of the water eventually decreases.
+- A tank has a solution containing some salt. Water flows in at a certain rate. Water drains from the tank at a certain rate. How do we model the amount of salt in the tank over time? (We assume the salt is uniformly mixed.)
+- Also applies to - air, carbon dioxide, etc.; injecting medicine; a very natural question from a physical perspective for a number of possible phenomena.
+- Model in terms of a differential equation:
+  1. Let $$y(t) =$$ the total amount of salt in the tank at time $$t$$.
+  2. Then $$y'(t) = $$ the change in the total amount of salt in the tank at time $$t$$.
+  3. Measure this as: $$y'(t) = \text{conc. of salt entering) \cdot \text{rate of water entering} - \text{conc. of salt leaving} \cdot \text{rate of water leaving}$$
+  4. The concentration of salt leaving dependends on how much salt is currently in the tank. $$\frac{y}{\text{amt. of water in the tank}$$
+- Writing the differential equation is the most important step
+
+> **Example.** A vat contains 100L of brine at a concentration of 2% (0.02 kg of salt per liter). Additional brine with a concentration of 5% (0.05 kg/L) is pumped in at 10 liters per minute. The vat is drained at the same rate and is thorouhgly mixed at all times. a) How much salt (kg) is in the vat after $$t$$ minutes? b) How long does it take for the vat to reach a specific concentration of 4%?
+
+> Let $$y(t) = $$ the amount of salt in the tank after $$t$$ minutes. Initial conditions: $$y(0) = 100 \cdot 2% = 2$$ kg. The amount of salt entering per minute is $$10 \cdot 0.05 = 0.5$$ kg/min. The amount of salt leaving is the [concentration of salt in the tank] $$\cdot$$ [rate of salt leaving]. $$\frac{y}{100} \cdot 10 = \frac{y}{10}$$. We obtain the equation
+
+$$\frac{dy}{dt} = 0.5 - 0.1y \implies -10\ln|0.5 - 0.1y | = t + C$$
+
+$$\implies \ln|0.5 - 0.1y| = -0.1t + C' \implies 0.5 - 0.1y = A e^{-\frac{t}{10}}$$
+
+$$\implies -0.1y = C''e^{-\frac{t}{10}} - 0.5 \implies y = Ae^{-\frac{t}{10}} + 5$$
+
+> Using the initial condition $$y(0) = 2$$: we get $$2 = Ae^0 + 5 \implies A = -3 \implies y = 5-3e^{-\frac{t}{10}}$$.
+
+> Part B: solve for $$y(t) = 4$$. $$4 = 5 - 3e^{-\frac{t}{10}} \implies 3e^{-\frac{t}{10}} = 1 \implies t = -10 \ln(\frac{1}{3}) = 10\log 3$$.
+
+- Identify various pieces of information that are given.
+
+> **Example.** Suppose a 1000L tank begins half full of water and has 5 mg/L of chlorine. Fresh water is added at 15 L/min and the tank is drained at 5 L/min. What is the concentration of chlorine in miligrams/Liter when the tank is full?
+
+> Our variable is the amount of chlorine in the tank, in miligrams. $$y(0) = 500 \cdot 5 = 2500$$ mg. Amount of water in the tank at time $$t$$ is $$500 + (15-5)t$$. The amount of chlorine leaving the tank is $$\frac{y}{500 + 10t}$$. The rate at which water leaves is $$5$$. The differential equation is
+
+$$y' = -\frac{y}{100 + 2t}$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
