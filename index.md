@@ -40,6 +40,8 @@ If you're also a student at the UW and are introduced in contributing your notes
 
 ## Announcements
 
+| **3/4/2022** The [CSE 143 Data Page](https://andre-ye.github.io/uni/docs/cs/cse-143/data) has been updated with final exam data from previous quarters. |
+
 | **3/2/2022** A brand new [Questions page](https://andre-ye.github.io/uni/docs/math/math-125/questions) has been added to the MATH 125 page, which publishes some really interesting responses by professor Ricky Liu to questions extending/generalizing concepts taught in class. |
 
 | **2/27/2022** Classes for Spring 2022 have been registered and finalized: [MATH 126](https://andre-ye.github.io/uni/docs/math/math-126), [ENGL308](https://andre-ye.github.io/uni/docs/eng/engl-308), [PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120), and [ARCH 150](https://andre-ye.github.io/uni/docs/finearts/arch-150). |
