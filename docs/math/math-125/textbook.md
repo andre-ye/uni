@@ -452,9 +452,59 @@ $$\bar{x} = \frac{1}{A} \int_a^b x[f(x) - g(x)] dx$$
 $$\bar{y} = \frac{1}{A} \int_a^b \frac{1}{2} \left\{ f(x)^2 - g(x)^2 \right\}$$
 
 > **Theorem of Pappus.** Let $$R$$ be a plane region that lies entirely on one side of the line $$l$$ in the plane. If $$R$$ is rotated about $$l$$, then the volume of the resulting solid is the product of the area $$A$$ of $$R$$ and the distance $$d$$ traveled byt eh centroid of $$R$$.
-> 
 
 
+---
 
+## 9.1: Modeling with Differential Equations
+- Differential equation: an equation that contians an unknown function and some of its derivatives.
+- One model for popualtion growth: the population grows at a rate proportional to the size of the population.
 
+$$\frac{dP}{dt} = kP$$
 
+- There will be a family of solutions to a differential equation that can be derived by carrying the $$+C$$ throughout calculations.
+- We can analyze various solutions of the differential equation without solving it by analyzing how changes operate with respect to values.
+- Equilibrium solutions - constant solutions, like $$y = 0$$ or $$y = a$$.
+- Order of a differnetial equation: the order of the highest derivatve that occurs in the equation.
+- Initial condition/initial value problem - isolate a particular member of the family of solutions to a differential equation.
+- You can verify that an equation is a solution to a differential equation by evaluating it and verifying equivalence.
+
+---
+
+## 9.3: Separable Equations
+- Separable equation: a first-order differential equation in which the expression for $$dy/dx$$ can be factored as a function of $$x$$ times a function of $$y$$:
+
+$$\frac{dy}{dx} = g(X) f(y)$$
+
+> *Separable*: the expression can be separated into a function of $$x$$ and a function of $$y$$.
+
+$$\int \frac{1}{f(y)} dy = \int g(X) dx$$
+
+- Mixing problems: $$\frac{dy}{dt} = (\text{rate in}) - (\text{rate out})$$
+
+---
+
+## 9.4: Models for Population Growth
+- Law of Natural Growth:
+
+$$\frac{dP}{dt} = kP$$
+
+> for a population $$P(t)$$, a constant $$k$$, and time $$t$$.
+
+- Solving the separable differential equation gives
+
+$$P = Ae^{kt}$$
+
+- Emigration or harvesting can be accounted for by adding an emigration rate $$m$$:
+
+$$\frac{dP}{dt} = kP - m$$
+
+- The Logistic Model: 
+
+$$\frac{dP}{dt} = kP\left(1 - \frac{P}{M}\right)$$
+
+> for a population $$P(t)$$, a constant $$k$$, and a maximum carrying capacity $$M$$.
+
+$$P(t) = \frac{M}{1 + Ae^{-kt}}, \text{ where } A = \frac{M - P_0}{P_0}$$
+
+$$\lim_{\to\infty P(t) = M$$
