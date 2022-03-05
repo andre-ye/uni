@@ -143,7 +143,9 @@ Extra labor assignment complete.
 - Extra Labor: Complete
 - Expected Final Quarter Grade: 4.0
 
+---
 
+*Footnotes.*
 
 
 
