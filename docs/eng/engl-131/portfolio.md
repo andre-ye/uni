@@ -7,6 +7,7 @@ nav_order: 5
 ---
 
 # Portfolio
+{: .no_toc }
 
 ENGL 131
 {: .fs-6 .fw-300 }
