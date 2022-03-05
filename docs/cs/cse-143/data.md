@@ -70,3 +70,34 @@ Stuart Reges often shares data on performance. The data shared in class has been
 | Total | 656 | 337 | | |
 
 2 students scored full points and 8 students scored 99 points. The mean was 69 points.
+
+## Final Scores by Problem from Fall '14 to Spr '19
+
+*Use the scrollbar to see all questions.*
+
+| Quarter | Binary Tree Traversal | Binary Search Tree | Collections Mystery | Collections Programming | Binary Trees | Collections Programming | Comparable Class | Binary Trees Linked Lists | Bonus | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Spr 19 | 5.8 | 3.6 | 3.6 | 4.5 | 7.8 | 6.8 | 16.6 | 13.8 | 8.2 | 0.9 | 71.7 | 
+| Spr 18 | 5.8 | 3.7 | 3.9 | 4.0 | 7.9 | 6.6 | 17.1 | 16.4 | 9.9 | 0.8 | 76.1 |
+| Win 18 | 5.8 | 3.6 | 4.0 | 4.0 | 8.5 | 8.0 | 15.0 | 15.5 | 11.5 | 0.8 | 76.7 |
+| Fall 17 | 5.9 | 3.7 | 3.8 | 4.1 | 7.3 | 8 | 15.2 | 14.7 | 10.9 | 0.8 | 74.3 |
+| Win 17 | 5.8 | 3.6 | 3.5 | 4.2 | 8.3 | 7.3 | 16.3 | 14.9 | 9.7 | 0.9 | 74.6 |
+| Win 16 | 5.9 | 3.l8 | 3.4 | 3.3 | 7.9 | 7.5 | 14.8 | 16.4 | 7.9 | 0.8 | 71.6 |
+| Fall 14 | 5.9 | 3.8 | 4.1 | 4.4 | 8.3 | 6.4 | 16.5 | 15.7 | 11.8 | 0.8 | 77.6 |
+| Mean | 5.8 | 3.7 | 3.7 | 4.1 | 8.0 | 7.2 | 15.9 | 15.3 | 10.0 | 0.8 | 74.7 |
+| Percent | 97.5 | 92.7 | 74.9 | 81.7 | 80.0 | 72.3 | 79.7 | 76.7 | 49.9 | 83.9 | 74.7 |
+
+
+| Problem # | Area | Points |
+| --- | --- | --- |
+| 1 | Binary Tree Traversal | 6 |
+| 2 | Binary Search Tree | 4 |
+| 3 | Collections Mystery | 5 |
+| 4 | Collections Programming | 5 |
+| 5 | Binary Trees | 10 |
+| 6 | Collections Programming | 10 | 
+| 7 | Comparable Class | 20 |
+| 8 | Binary Trees | 20 
+| 9 | Linked Lists | 20 |
+| 10 | Bonus | 1 |
+| | Total | 100 |
