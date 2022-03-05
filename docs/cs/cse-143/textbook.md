@@ -992,6 +992,14 @@ public void remove(int index) {
   - When the sailboat passes underneath, you get inorder traversal
   - When the sailboat passes nodes on the right, you get postorder traversal
 
+
+
+
+
+
+| This text is written on the 1000th line of the markdown file used to generate this webpage. |
+
+
 ```java
 private void printPreorder(IntTreeNode root) {
   if (root != null) {
@@ -1042,7 +1050,29 @@ private void printSideways(IntTreeNode root, int level) {
 - The pattern `x = change(x)`
 - Binary tree complexity: `log N`
 - Degenerate tree - a tree that is technically still a tree but isn't really a good one, a linked list turned on its side.
-- 
+
+---
+
+## Chapter 18: Advanced Data Structures
+
+### 18.1: Hashing
+- *Hashing* - technique to efficiently map data elements to indexes in an array. A collection can have add, remove, and search for elements in `O(1)`.
+- Hash function - allows us to organize elemetns of our set and search it quickly.
+- Idea: stpre element value $$k$$ at index $$k$$-mod-$$c$$,w here $$c$$ is the capacity.
+- Hash function method - uses a hash table to govern insertion and deletion of elements. Individual indexes in the hash table: buckets.
+- Collision: two values can have the same preferred index. Probing: look for another index to use if the preferred index is taken. Linear vs quadratic probing.
+- Clustering - elements clumping near each other.
+- If each array index can store more than one value, collissions are not a problem. We can resolve collisions by storing hash elements in lists using separate chaining.
+- Most hash table implementations use a prime number for table capacity to encourage even bucketing/minimum collision.
+- Rehashing: esizing a hash table to increase its capacity and enabling it to store more elements, or store them more efficiently.
+- To hash non-integer data, request the `hashCode` (implemented in the `Object` object).
+
+
+
+
+
+
+
 
 
 
