@@ -304,6 +304,53 @@ McCarthy's witch hunt gave the shift the justification it needed: reporters ampl
 
 ---
 
-## How the Left Perpetuates Inequality and Undermines Democracy
+## Chapter 11: How the Left Perpetuates Inequality and Undermines Democracy
+- The left perpetuates inequality in a number of ways
+- Intersectionality and 'wokeness' suggest that equality is impossible
+- Critical Race Theory - rooted in Hegel's master-slave dialectic; power imblanace and domination is at the root of every human relationship
+- The roles of oppressor and oppressed are being cast neatly into America's racial divide
+- Looking through the past by the color of one's skin - "dehumanizing"
+
+> "It's a patronizing imposition of powerlessness on entire groups of people that refuses to see them with the dignity that is bestowed by agency - a view that is coincidentally rejected by working-class Americans of all races."
+
+- People pushing this narrative likely believe it is the pathway to write the wrongs of America, but it erases what "makes us human"
+- Elevating race to transcend humanity
+- Left - monopoly on American culture
+- Chris Arnade: a Wall Street banker has more in common w/ a sociology professor at Cornell than a truck driver or a guy who owns a landscaping business.
+- We sort by culture, not economics; they overlap, but culture matters more.
+- Diversification of elites enalbes elites to sustain the fiction that elite status is a result of merit.
+- Free college - a fantasy in which there is no working class.
+- Since the 1970s, upward mobility in the middle class has stalled.
+- Emerging neofeudalism; a technocracy oligarchy
+
+---
+
+## Epilogue
+- Americans frequently bemoan America's political polarization - information silos, lack of shared reality, etc.
+- More important divide is not political or racial, but class-based.
+- Disengagement with politics is not ignorance but exclsuion from public debate.
+- Information is not the condition but rather the byproduct of debate.
+- Good news: as consumers of news, we can rest on our own.
+	- Starve them of your rage
+	- Understand the connection between the working class and conservatism
+	- Find and protect nonpolitical spaces in your life
+	-Be humble about the right things
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
