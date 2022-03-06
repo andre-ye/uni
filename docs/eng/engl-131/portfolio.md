@@ -34,6 +34,8 @@ ENGL 131
 ### Researchers Propose Exciting New Interpretation of Neural Networks
 *Written for the genre translation assignment.*
 
+> **Framing Statement.** I am someone who both consumes and contributes to (in a small way, at least) machine learning and AI literature. The objective of this essay was to write a popular-science type article appealing to those that may have an interest in the field but aren't directly involved within it. My first version consisted only of text. In the revision, I added more varied multimodal elements, including quoted main-idea re-iterations, images, and GIFs - with the goal of better placing the writing within its desired genre and to make it more effective at communicating ideas to the audience, which inevitably requires a transcendence of a monopoly on the text form.
+
 Neural networks are computational structures formed by linking together large quantities of individual *perceptrons*, which are lightweight and simple mathematical processing units. Each perceptron contains a bundle of parameters, or weights, that determine the individual perceptron’s behavior. Modern neural network architectures use hundreds of millions or even billions of perceptrons or perceptron variants. When all the parameters in the network are simultaneously optimized, neural networks can learn to exhibit astonishingly sophisticated behavior, like human-level image recognition, creating art, and generating text. These modern neural network architectures are the largest information systems capable of ‘learning’ that humans have created – some models take weeks on supercomputers to fully optimize – and the size of state-of-the-art models are constantly increasing as the state of computing power advances. 
 
 ![](https://media.arxiv-vanity.com/render-output/5021915/x1.png)
@@ -56,7 +58,7 @@ The conventional understanding of neural network learning is that models learn b
 
 Frankle and Carbin’s framework paints a different picture: instead, neural networks learn by running a massive ‘lottery’. Each ‘lottery ticket’ is a subnetwork, or a set of parameters inside the complete collection of parameters that comprise a full neural network. When a neural network is initialized, the ‘ticket numbers’ are written: many subnetworks with random parameters exist. Some of them are more promising than others, and subnetworks conveniently initialized with the right set of values are ‘winning tickets’. During the iterative optimization process, these ‘winning’ subnetworks are developed to play a prominent role in the network, while ‘losing’ subnetworks are downplayed. Thus, the process of neural network training is one of discovery – finding a few promising subnetworks in a huge lottery of possibilities – rather than improvement. 
 
-> Neural networks learn by running a massive 'lottery'. Each 'lottery ticket' is a subnetwork. When a nerual network is initialized, the 'ticket numbers' are written.
+> Neural networks learn by running a massive 'lottery'. Each 'lottery ticket' is a subnetwork. When a neural network is initialized, the 'ticket numbers' are written.
 {: .fs-6 .fw-300 }
 
 ![](https://roberttlange.github.io/images/blog_posts_2020/05_Lottery_Tickets/lottery-ticket-rewinding.gif)
@@ -69,6 +71,8 @@ The Lottery Ticket Hypothesis is a huge advancement for neural network learning 
 
 ### Muddle or Muddle? Shostakovich's Second Symphony
 *Written for the rhetorical analysis assignment*
+
+> **Framing Statement.** 
 
 Дмитрий Дмитриевич Шостакович (Anglicized: Dmitri Dimitrievich Shostakovich) was an influential Soviet composer; Шостакович’s music experiments with avant-garde compositional techniques like atonality, serialist rows, and percussion as an equal contender to melody in musical substance. For this reason, much of his music evokes comparisons with other composers of the time pioneering the “new school of music”, like Béla Bartók and Arnold Schoenberg, upon first listen. However, Шостакович’s music is colored by another crucial perspective: politics. While most notable composers have written their music under relative societal stability – like Bach, Mozart, Beethoven, Liszt, and Rachmaninoff – Шостакович entered the music world at the same time that Stalin rose to power and the Soviet control of art began to take hold. Шостакович’s music could not be too avant-garde as to border on bourgeois superfluidity and experimentalism, but not too traditional as to harken upon the classical era of harsh class repression and the supremacy of nobility. Шостакович’s music had to reflect Stalin’s vision for the Soviet Union’s political and social future. If he failed to comply, he would disappear into the labor camps or exile, as so many of his family members and artistic colleagues did. Шостакович lived in constant fear of being imprisoned; according to documented records, for several months he slept outside the door of his apartment as to not disturb his family when the authorities took him in the middle of the night. 
 
@@ -84,6 +88,8 @@ This assertion manifests itself into the rhetorical presentation of the last mov
 
 ### The Happy Nihilist
 *Written for the argument assignment.*
+
+> **Framing Statement.** 
 
 He asked me directly – “Do you think you’re a happy person?” 
 
