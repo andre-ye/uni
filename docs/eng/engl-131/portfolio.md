@@ -164,6 +164,8 @@ I argue that my work demonstrates that I have met these four objectives.
 
 **Objective 4.** This final objective concerns revision. I have made revisions to the first two pieces in the showcase, which I believe improve the expression and communication of the writing in response to feedback by the instructor and peers. I also participated in the peer revision assignment, in which I provided feedback to one of my peers in the class and also received feedback on my third essay, which I incorporated into the essay to better capture flow, arrange ideas, and communicate arguments more effectively.
 
+Overall, I believe that my work has demonstrated the four objectives of the course.
+
 ---
 
 ## Grade Report
