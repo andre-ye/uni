@@ -366,6 +366,24 @@ SuperClassType variable = new SubClassType();
 - Casting can get 'around' the Java compiler, renegotiating a contract. Casting creates a temporary new 'interpretation'.
 - Super calls are non polymorphic calls.
 
+---
+
+## Lecture 25 - ArrayIntList, Iterators, Resizing
+- Compile time - check if the cast type or promised type has the method
+- Run time - if compiles and involved casting, check if actual type can actually be cast to cast type
+- If no compile time or run time error, call the method on the actual type
+
+
+- `ArrayList` - we started trying to understand how the `ArrayList` works.
+- Extending the size of an array when the maximum capacity is reached: the significant cost (the heavy cost of copying over) is amortized across an increasing number of cheap costs
+- Iterators - the iterator is an interface with a certain set of methods - `hasNext()`, `next()`, and `remove()`
+- The iterator is like the 'pharmacist' at a pharmacy: they navigate the backroom.
+- Static - makes things applicable to the class rather than the object.
+
+---
+
+## Lecture 26 - Collections and Abstract Classes
+
 
 
 
