@@ -778,9 +778,23 @@ public Iterator<Integer> iterator() {
 
 - Binary tree questions are generally not too diffiuclt - linked list problems are very difficult.
   - Simulate your code: list of length 0, length 1, length 2, etc.
-  - 
-
-
+ 
+ ---
+ 
+ ## Week 10 Monday - `IntList` Case Study
+ - ArrayList vs LinkedList - very different approaches to getting something.
+ - Abstract class vs interface - which one to use?
+ - We can say that an abstract class implements an IntList, and ArrayIntList and LinkedIntList inherit from AbstractIntList.
+ - Abstract classes force you to extend a particular class.
+ - Implement the `IntList` interface such that your code fits in.
+ - Iterator techniques - often used to assist with efficient object-oriented solutions.
+ - `Iterable` interface - required for `for-each`
+ - Java turns for-each loops into iterator-type looping.
+ - Syntactic sugar
+ - Concurrent modificaiton error - if you iterate over a structure, you should not be editing it using internal methods - remove using the iterator.
+- `protected` access modifier - private methods are not inherited. Public - everyone can see it, public - no one can see it. Protected - subclasses can see it.
+- You can put a class inside a class - if you have an inner class, objects of the inner class automatically have access to the fields and methods of the constructing class.
+- Private static classes
 
 
 
