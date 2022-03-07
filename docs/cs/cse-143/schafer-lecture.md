@@ -383,8 +383,10 @@ SuperClassType variable = new SubClassType();
 ---
 
 ## Lecture 26 - Collections and Abstract Classes
-
-
+- Organize a collection of collections
+- Interfaces - you define which elements you need
+- Abstract classes - the best of both worlds between interfaces and classes.
+- Interfaces can implement interfaces via extension
 
 
 
