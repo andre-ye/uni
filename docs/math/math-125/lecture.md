@@ -1046,10 +1046,29 @@ $$\implies -0.1y = C''e^{-\frac{t}{10}} - 0.5 \implies y = Ae^{-\frac{t}{10}} + 
 
 $$y' = -\frac{y}{100 + 2t}$$
 
+----
 
+## Week 10 Monday - Differential Equation Applications
+- Midterm 2 scores are on Gradescope.
+- Final exam Saturday, 1:30 – 4:20 in Architecture Hall 147.
+- Final exam topics - comprehensive. Will cover everything in the course. 10 questions long.
+- Look at past exams for a good distribution of topics.
+- Other topics may or may not appear volumes, work, etc.
+- Last lecture of new content next two lectures are dedicated to review.
+- Section 9.4 and 3.8 - Population Growth + Exponential Growth
+- Word problems associated with differential equations English description of a model, goal is to write down and solve an appropriate differential equation system.
 
+- Exponential growth:
 
+$$\frac{dy}{dt} = kt$$
 
+- Newton's Law of Cooling: a physical law describing how an object cools or heats. The farther from the ambient temperature, the faster the cooling.
+
+$$\frac{dT}{dt} = k(T-a), T(t) = \text{temperature}, a = \text{ambient temp}$$
+
+- Logistic model:
+
+$$\frac{dy}{dt} = ky(1 - \frac{y}{C}), c = \text{carrying capacity}$$
 
 
 
