@@ -796,7 +796,29 @@ public Iterator<Integer> iterator() {
 - You can put a class inside a class - if you have an inner class, objects of the inner class automatically have access to the fields and methods of the constructing class.
 - Private static classes
 
+---
 
+## Week 10 Wednesday - Hashing
+
+| Structure | Add | Find | Remove |
+| --- | --- | --- | --- |
+| Unsorted Array | O(1) | O(n) | O(n) |
+| Sorted Array | O(n) | O(log n) | O(n) |
+| Unsorted Linked List | O(1) | O(n) | O(n) |
+| Sorted Linked List | O(n) | O(n) | O(n) |
+| Binary Search Tree | O(log n) | O(log n) | O(log n) |
+| HashTabe | O(1) | O(1) | O(1) |
+
+- The binary search tree only works on certain types of data.
+- Hashing - a very clever idea with interesting applications in a lot of places.
+- Hash Function - takes in data and converts it into an integer.
+- We need such a function for hashing. This function is not necessarily invertible, i.e. we cannot always recover the object from the integer.
+- `hashCode()` is a method in the `Object` class. Every object in Java has a hash code.
+- Use mod to get to a location in the 'roomy array'
+- Collision resolution
+- Separate chaining - to resolve collisions, chain multiple nodes/possible values together. An array of linekd lists.
+- The Hash function has to spread things out.
+- $$\Lambda$$ - load factor for hash table. 0.75 is a typical example: we don't want the structure to be more than 75% full.
 
 
 
