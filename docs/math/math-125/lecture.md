@@ -1071,7 +1071,72 @@ $$\frac{dT}{dt} = k(T-a), T(t) = \text{temperature}, a = \text{ambient temp}$$
 $$\frac{dy}{dt} = ky(1 - \frac{y}{C}), c = \text{carrying capacity}$$
 
 
+---
 
+## Week 10 Wednesday - Exam Review
+- There will be a seating chart for the final exam.
+- Quiz 9 - mean 7.96, median 8. Most common WebAssign error: thinks that you have not submitted even though you have submitted.
+- Final exam - Saturday, 1:30 to 4:20.
+
+- Course is dedicated to studying integrals - goal is to understand and be able to compute, apply, and interpret integrals.
+- Know well various integration techniques - substitution, integration by parts, products of trig functions, partial fractions, inverse trigonometric substitutions, strategies for integration
+- Understand what differential equations are, how to set them up, how to interpret them, and how to verify solutions. Know how to solve for initial value.
+- Approximate definite integrals using the Midpoint, Trapezoidal, and Simpson's rules.
+- Applications: arc length application, centers of mass, average value, work, volumes of solids of revolution, computing areas between curves
+
+*Problem 1.* Find $$\int \frac{dx}{(1 + x + x^2)^2}$$.
+
+> The polynomial in the denominator has no real roots. We cannot apply partial fractions onto it because of this.
+> We begin by completing the square in the denominator. We obtain $$(x + \frac{1}{2})^2 + \frac{3}{4})$$.
+> We can complete the square with the intention of performing a trigonometric substitution afterwards.
+> We can rewrite the integral as such, with $$u =  x + \frac{1}{2} \implies du = dx$$:
+
+$$\int \frac{dx}{(u^2 + \frac{3}{4})^2}$$
+
+> We can use the substitution $$u = \frac{\sqrt{3}}{2} \tan \theta \implies du = \frac{\sqrt{3}}{2} \sec^2 \theta d \theta$$. We also have that
+
+$$u^2 + \frac{3}{4} = \frac{3}{4} (\tan^2 \theta + 1) = \frac{3}{4} \sec^2 \theta$$
+
+> Our integral becomes
+
+$$\int \frac{\frac{\sqrt{3}}{2} \sec^2 \theta}{(\frac{3}{4} \sec^2 \theta)^2}$$
+
+$$\implies \frac{8\sqrt{3}}{9} \int \cos^2 \theta d \theta$$
+
+> Use the double angle formula: $$\cos^2 \theta = \frac{1}{2}(1 + \cos 2\theta)$$.
+
+$$\implies \frac{4\sqrt{3}}{9} \left( \theta + \frac{1}{2} \sin(2\theta) \right) + C$$
+
+> We need this in terms of $$x$$:
+
+$$\implies \frac{4\sqrt{3}}{9} \left( \theta + \sin \theta \cos \theta \right) + C$$
+
+$$\tan \theta = \frac{u}{\frac{\sqrt{3}{2}}$$
+
+$$\sin \theta = \frac{u}{\sqrt{u^2 + \frac{3}{4}}$$
+
+$$\cos \theta = \frac{\frac{\sqrt{3}}{2}}{\sqrt{u^2 + \frac{3}{4}}}$$
+
+$$\implies \frac{4\sqrt{3}}{9} \left( \tan^{-1} \frac{4}{\frac{\sqrt{3}}{2}} + ........ \right) + C$$
+
+$$...$$
+
+*Problem 2.* The half-life of radon is about 3.8 days. Suppose a sample of 10 micrograms is collected. a) How much remains after 2 days? b) How long will it be until only 1 microgram remains?
+
+> $$\frac{dy}{dt} = ky$$ for some constant $$k$$. Because the substance is decaying, $$k < 0$$.
+
+$$\int \frac{dy}{y} = \int k dt$$
+
+$$\ln|y| = kt + C$$
+
+$$y = Ae^{kt}$$
+
+$$A = 10$$
+
+$$k = \frac{-\ln 2}{3.8}$$
+
+> a) asks what $$y(2)$$ is; this is about 6.94 micrograms.
+> b) asks to solve for 1 = $$y(t)$$; this yields about $$t \approx 12.62$$ days.
 
 
 
