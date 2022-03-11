@@ -140,6 +140,22 @@ E) It changes the value of b if and only if b has value true just before the sta
 - The mystery of `b := (b = False)` - the ability to *model computational thought* / "play computer" is highly correlated with success on computer science exams.
 - RSA encryption - modular arithmetic, Fermat's Little Theorem, the RSA encryption algorithm
 
+---
+
+## Week 10
+- Censorship and semantics - who has the right to say what?
+- The word 'faggot' - should people be allowed to say the word?
+	- Under what conditions is the word used?
+	- CJ Pascoe, *Dude, You're a Fag* - the term 'faggot' used as a proxy of masculinity more often than directly as a derogatory slur towards one's sexuality
+	- In research, Pascoe found that adolescent boys tended to avoid using 'faggot' if they new the target was gay
+- Syntactic and semantic communities - develop shared senses of what semantics are truly associated with certain symbols. 
+- Often, these communities that are impacted most by speech regulations tend to be minorities, the 'lower class'
+- Reclaiming vocabulary and the power of words
+- Considering the question: is human communication analog or digital?
+- Analog tools: the 'original' - physically embedding and transferring information. Digital tools: manipulating information via external technologies that record and transfer content seamlessly
+- Reges' hypothesis - words are digital tools. Language is somehow very fundamental to the development of human civilization. An abstracted mode of communicating information very quickly.
+- Property of analog tools: recursing upon analog tools tends to result in significant destruction over time. e.g. recording and writing the same piece of audio through vinyl will amplify errors or environmental interference.
+- Analog tools are powerful. Facial expressions, grunts.
 
 
 
