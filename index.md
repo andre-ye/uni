@@ -15,8 +15,8 @@ Notes from classes, research, speeches, student organizations, and more from the
 [Research](https://andre-ye.github.io/uni/docs/research){: .btn .btn-purple }
 [PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120){: .btn .btn-blue }
 [CHEM 142](https://andre-ye.github.io/uni/docs/nsciences/chem-142){: .btn .btn-green }
-[CSE 142](https://andre-ye.github.io/uni/docs/cs/cse-142){: .btn .btn-purple }
-[CSE 143](https://andre-ye.github.io/uni/docs/cs/cse-143){: .btn .btn-blue }
+[CSE 142](https://andre-ye.github.io/uni/uni/docs/cs/cse-143){: .btn .btn-purple }
+[CSE 143](https://andre-ye.github.io/uni/uni/docs/cs/cse-143){: .btn .btn-blue }
 [CSE 390HA](https://andre-ye.github.io/uni/docs/cs/cse-390ha){: .btn .btn-green }
 [CSE 390HB](https://andre-ye.github.io/uni/docs/cs/cse-390hb){: .btn .btn-purple }
 [MATH 124](https://andre-ye.github.io/uni/docs/math/math-124){: .btn .btn-blue }
@@ -39,6 +39,8 @@ If you're also a student at the UW and are introduced in contributing your notes
 ---
 
 ## Announcements
+
+| **3/12/2022** Winter quarter has concluded. You can find notes for some fo the classes I took this quarter, including [CSE 143](https://andre-ye.github.io/uni/uni/docs/cs/cse-143), [CSE 390HB](https://andre-ye.github.io/uni/docs/cs/cse-390hb), and [MATH 125](https://andre-ye.github.io/uni/docs/math/math-125). In Spring quarter, I will be taking [MATH 126](https://andre-ye.github.io/uni/docs/math/math-126), [ENGL308](https://andre-ye.github.io/uni/docs/eng/engl-308), [PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120), and [ARCH 150](https://andre-ye.github.io/uni/docs/finearts/arch-150). |
 
 | **3/4/2022** The [CSE 143 Data Page](https://andre-ye.github.io/uni/docs/cs/cse-143/data) has been updated with final exam data from previous quarters. |
 
