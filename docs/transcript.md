@@ -16,9 +16,8 @@ A complete list of the courses I have taken, are taking, or immediately will tak
 | ENGL 308 | [Marxism and Literary Theory](https://andre-ye.github.io/uni/docs/eng/engl-308){:target="_blank"} | Alys Weinbaum | 5 |
 | MATH 126 | [Calculus w/ Analytic Geometry III](https://andre-ye.github.io/uni/docs/math/math-126){:target="_blank"} | Natalie Naehrig | 5 |
 | PHIL 120 | [Introduction to Logic](https://andre-ye.github.io/uni/docs/phil/phil-120){:target="_blank"} | Ian Schnee | 5 |
-| ARCH 150 | [Appreciation of Architecture I](https://andre-ye.github.io/uni/docs/finearts/arch-150){:target="_blank"} | Shima Mohajeri | 3 |
 | CSE 163 (TA) | [Intermediate Data Programming](https://andre-ye.github.io/docs/cs/cse-163){:target="_blank"} | Hunter Schafer | 4 |
-| --- | Total | --- | 18 |
+| --- | Total | --- | 15 |
 
 ## Winter 2022
 
