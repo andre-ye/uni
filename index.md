@@ -40,6 +40,8 @@ If you're also a student at the UW and are introduced in contributing your notes
 
 ## Announcements
 
+| **3/17/2022** I will be TAing for [CSE 163](https://andre-ye.github.io/uni/uni/docs/cs/cse-163) in Spring Quarter! |
+
 | **3/12/2022** Winter quarter has concluded. You can find notes for some fo the classes I took this quarter, including [CSE 143](https://andre-ye.github.io/uni/uni/docs/cs/cse-143), [CSE 390HB](https://andre-ye.github.io/uni/docs/cs/cse-390hb), and [MATH 125](https://andre-ye.github.io/uni/docs/math/math-125). In Spring quarter, I will be taking [MATH 126](https://andre-ye.github.io/uni/docs/math/math-126), [ENGL308](https://andre-ye.github.io/uni/docs/eng/engl-308), [PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120), and [ARCH 150](https://andre-ye.github.io/uni/docs/finearts/arch-150). |
 
 | **3/4/2022** The [CSE 143 Data Page](https://andre-ye.github.io/uni/docs/cs/cse-143/data) has been updated with final exam data from previous quarters. |
