@@ -6,7 +6,7 @@ grand_parent: English
 nav_order: 2
 ---
 
-# Lecture Notes
+# Reading Notes
 {: .no_toc }
 
 ENGL 308
@@ -73,7 +73,63 @@ ENGL 308
 > All that is solid melts into air, all that is holy is profaned, and man is at last compelled to face with sober senses, his real conditions of life, and his relations with his kind.
 
 - The need of a constantly expanding market chases the bourgeoisie over the globe. It must be everywhere.
-- Exploitation of the world
+- Exploitation of the world - intercourse in every direction, universal interdependence.
+- Control of production $$\to$$ intellectual production. Intellectual creations of individual nations become common property.
+- World literature arises, narrow-mindedness becomes more impossible.
+- The bourgeoisie facilitate the transofmration of even the most barbarian nations into civilized ones.
+- Countries are subject to the rule of towns.
+- Doing more away with scattered p'opulations - populations are agglomerated, production is centralized.
+- The bourgeoisie has barely ruled for 100 years, but has created large productive forces.
+- Feudal society collapsed, free competition emerged as dominant.
+- The sorcerer that is no longer able to control the powers.
+- The epidemic of overproduction: society is put back into a state of barbarism, famine, devastation - too much civilization, too much industry, too much commerce, too many means of subsistence.
+- The productive forces become too powerful for the conditions by which they came about.
+- How does the bourgeoisie overcome these crises? Enforced destruction oor conquest of new markets.
+- The bourgeoisie felled feudalism with weapons that are now turned back on the bourgeoisie.
+- Laborers must sell themselves like a commodity. The modern working class live only so long as they find work.
+- The work of proletarians has lost all individual character; the workman has lost the charm.
+- The price of a commodity is equal to its cost of production.
+- As the repulsiveness of the work increases, the wage decreases.
+- Laborers are organized like soldiers. A perfect hierarchy of officers and sergeants is organized. Enslaved by the machine, the overlooker, the bourgeois manufacturer. 
+- Differences of age and sex have no distinctive social avalidity for the working class.
+- All lower strata sink into the proletariat.
+- The proletariat's development
+  1. Struggle with the bourgeoisie
+  2. Laborers contest the individual bourgeois.
+  3. Attacks are directed not only against the conditions of production, but the instruments of production themselves.
+- If laborers unit to form more compact bodies (unions), it is as a result of the union of the bourgeoisie.
+- Proletarians fight enemies of enemies - monarchy, land-owners, non-industrial bourgeoisie.
+  - All of history is concentrated in the control of the bourgeoisie.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
