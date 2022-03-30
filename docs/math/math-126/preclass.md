@@ -43,6 +43,27 @@ $$ = {(x, y, z) | x, y, z \in \mathbb{R}$$
 - Three important planes: at $$x = 0, y = 0, z = 0$$.
 - Just stating the rule $$z = 3$$ (the equations) is also acceptable.
 
+---
+
+## Week 1 Wednesday (12.2)
+- Vector: depicted as an arrow, with a length as its magnitude, an initial point, and a terminal point
+- Adding two vectors. The sum of two vectors is the vector from the initial point of one vector to the terminal point of the other vector.
+- Scalar multiplication. Scalar - a real number. Preserves parallel properties.
+- A position vector is a vector extending from the origin to a specific point.
+- Components - number of dimensions of a vector.
+- Length/magnitude of a vector can be calculated using Pythagorean theorem
+- Standard basis vectors - unit vectors along the dimensions.
+  - You can decompose any vector into a linear sum of the standard basis vectors.
+
+
+
+
+
+
+
+
+
+
 
 
 
