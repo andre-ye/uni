@@ -135,6 +135,52 @@ Therefore,
 - People always use logic, regardless of their discipline or career.
 - You will always be using logic and subject to other people's logic.
 
+---
+
+## Week 1 Wednesday
+
+```
+1. Pia is looking at Quinn.
+2. Quinn is looking at Neela.
+3. Pia is married.
+4. Neela is not married.
+Thus,
+5. A married person is looking at an unmarried person.
+```
+
+A valid argument!
+
+
+- Logic - a system of knowledge. Logic can both be how we reason, 'natural logic' - as well as the study of how we reason.
+- We will build formal logical systems.
+- There are multiple different formal logical systems. 
+- Logical systems have several features:
+  1. Formal language
+  2. Semantics
+  3. Proof theory
+- Weird cases of validity:
+  1. Circular reasoning
+  2. Contradictory premises
+  3. Logically true conclusion
+- Ask: is it possible for the premises to be True and the conclusion False?
+- Contradictory premises - logical falsehoods (Every student eats meat every day, Some students never eat meat.)
+- We must know what logical truth and falsity is.
+- Logical truths
+- Equivocation: one symbol being used to refer to multiple meanings.
+- Not all truths are logical truths.
+- Principle of the excluded middle - certain traits we assume are binary.
+- Necessary truths: guaranteed to be true because of some law.
+- Logical truths: Pia = Pia. Law of logic: everything is itself.
+- It is not always true that necessary truths are logical truths.
+- A necessary truth is a truth that couldn't possibly be false. Other laws can guarantee the truth of a statement. Laws of physics, chemistry, economics, etc.
+- However, in the context of this class, necessary truths derive their status as necessarily true as a result of being logically true.
+- Mathematics and logical roots.
+- Contingency - the statement cannot be logically true or false. (Pia likes movies, If Pia likes movies then Raquel likes Pia.)
+- The reason why statements might not be logically true is because they are contingent.
+- A contingent statement might be true, but it's not logically wired to be true or false.
+- Some things are not logically possible - these are logical falsehoods.
+
+
 
 
 
