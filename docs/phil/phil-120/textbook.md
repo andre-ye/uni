@@ -80,8 +80,20 @@ PHIL 120
 - We can cehck the validity of an argument with an empty set of premises by checking if the conclusion is necessarily true.
 - Logical turth -a sentence that is necessarily true because of the laws of logic.
 - An argument with a logically true conclusion is always valid.
-- 
 
+
+### 2.4: Necessary vs. Contingent
+- Some statements are neither necessarily true or necessarily false.
+- The opposite of necessary is contingent - something that may or may not be true.
+- Necessary truths may manifest in a wide variety of laws and backgrounds.
+
+### 2.5: Augmentation
+- Augmentation: to add one or more premises to make an argument a new argument.
+- When we augment a valid argument, the new premise may add relevant or irrelevant information. It may also contradict existing premises - but the argument will always remain valid.
+- Induction - a set of premises may support or confirm a conclusion.
+- Validity is a tipping point. once information guarantees the conclusion is true, you cannot destroy validity by adding information - only by taking the information away.
+
+### 2.6
 
 
 
