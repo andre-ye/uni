@@ -112,14 +112,36 @@ $$\cos \theta = \frac{\vec{a} \cdot \vec{b}}{\| \vec{a} \| \| \vec{b} \|}$$
 
 
 **Direction Angles and Direction Cosines**
+- Direction angles of a nonzero vector are the angles $$\alpha, \beta, \gamma$$ that a vector makes with the positive axes.
+- The cosines of the direction angles are the direction cosines.
+
+$$\cos \alpha = \frac{a_1}{\|\vec{a}\|}$$
+
+$$\cos \beta = \frac{a_2}{\|\vec{a}\|}$$
+
+$$\cos \gamma = \frac{a_3}{\|\vec{a}\|}$$
+
+- We can square expressions and see the following:
+
+$$\cos^2 \alpha + \cos^2 \beta + \cos^2 \gamma = 1$$
+
+- We can also write the following:
+
+$$\vec{a} = \langle a_1, a_2, a_3 \rangle = \langle \| \vec{a} \| \cos \alpha, \| \vec{a} \| \cos \beta, \| \vec{a} \| \cos \gamma \rangle = \| \vec{a} \| \langle \cos \alpha, \cos \beta, \cos \gamma \rangle$$
+
+- Dividing both sides by $$\| \vec{a} \|$$, we see that the direction cosines of $$\alpha$$ are the components of the unit vector in the direction of $$\vec{a}$$.
+
+**Projections**
+- Consider $$\vec{PQ}$$ $$\mathbf{a}$$ and $$\vec{PR}$$ $$\mathbf{b}$$ with the same initial point $$\vec{P}$$. If $$S$$ is the foot of the perpendicular from $$R$$ to the line containing $$\vec{PQ}$$, then the vector with representation $$\vec{PS}$$ is the vector projection of $$\mathbf{b}$$ onto $$\mathbf{a}$$, denoted by $$\text{proj}_a \mathbf{b}$$.
+  - Think of this as the shadow of $$\mathbf{b}$$.
+- Scalar projbection of $$\mathbf{b}$$ onto $$\mathbf{a}$$ (the component of $$\mathbf{b}$$ along $$\mathbf{a}$$) is the signed magnitude of the vector projection, which is $$\| \mathbf{b} \| \cos \theta$$, where $$\theta$$ is the angle between $$\mathbf{a}$$ and $$\mathbf{b}$$. This is denoted as $$\text{comp}_a \mathbf{b}$$; this is negative if $$\frac{\pi}{2} < \theta \le \pi$$.
+
+$$\mathbf{a} \cdot \mathbf{b} = \| \mathbf{a} \| \| \mathbf{b} \| \cos \theta = \| \mathbf{a} \| (\| \mathbf{b} \| \cos \theta )$$
+
+- The dot product of two vectors can be interpreted as the length of one multiplied by the scalar projection of the other vector upon the first vector.
 
 
-
-
-
-
-
-
+Calculating work
 
 
 
