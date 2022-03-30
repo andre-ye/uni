@@ -68,3 +68,10 @@ Coordinate Systems and Vectors
 - To indicate, you can use $$\vec{u}$$ or a bolded $$u$$.
   - $$\vec{u} = \langle 2, 4 \rangle$$
 
+---
+
+## Week 1 Wednesday
+- Think about sets as bags upon which to put stuff in.
+- Give the form of the elements put in, followed by a vertical line ('such that', 'which hold') and a rule. 
+- The dot product is a scalar.
+- The dot product and the Pythagorean theorem are both good tests for orthogonality.
