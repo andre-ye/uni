@@ -58,13 +58,29 @@ PHIL 120
 
 ## Chapter 2: Weird Cases of Validity
 
-### 2.1: 3 Weird Cases of Validity
+### 2.1: First Weird Case of Validity
+- Circular reasoning: the prmeise and conclusion are the same.
+- All circular reasoning is valid: if the premise is true, so is the conclusion.
+- Circular reasoning is any case of assuming what you are trying to prove.
+- Fallacy: a tempting but flawed form of reasoning. 
+- Whether circular reasoning is good or bad depends on the circumstances one is in.
 
+### 2.2: Second Weird Case of Validity
+- Reasoning from a contradiction is valid.
+- Contradiction - occurs when two sentneces say the opposite of each other. 
+- Contradiction - a logical falsehood, a sentence that is necessarily false.
+- Contradictory set - a group of sentences that can't be true at once.
+- Any argument with contradictory premises is valid.
+- Validity says that whenever all premises are true, the conclusion must be true. Contradictory premises satisfy this definition trivially because the premises can never be true.
+- The only way to show that an argument is invalid is to find a way to make the premises true but the conclusion false.
 
-
-
-
-
+### 2.3: Third Weird Case of Validity
+- A set of premises can be empty. We can still use the definition of validity to assess the argument.
+- If there are no premises, the conclusion must always be true.
+- We can cehck the validity of an argument with an empty set of premises by checking if the conclusion is necessarily true.
+- Logical turth -a sentence that is necessarily true because of the laws of logic.
+- An argument with a logically true conclusion is always valid.
+- 
 
 
 
