@@ -52,7 +52,7 @@ ENGL 308
 - The spectre of Communism. Old Europe has come together to hunt out the spectre.
 - Communism is already acknowledged to be a power; communists should publish their views, aims, tendencies.
 
-### Bourgeois and Proletarians
+### 1. Bourgeois and Proletarians
 {: .no_toc }
 
 - The history of all existing society is the history of class struggles.
@@ -100,20 +100,65 @@ ENGL 308
 - If laborers unit to form more compact bodies (unions), it is as a result of the union of the bourgeoisie.
 - Proletarians fight enemies of enemies - monarchy, land-owners, non-industrial bourgeoisie.
   - All of history is concentrated in the control of the bourgeoisie.
-- 
+- With the development of industry, the proletariat grows stronger. Collisions between individuals become collisions between two classes. Workers club together to form combinations against the bourgeois.
+  - Workers are sometimes victorious, but only sometimes. The real fruit of battles is in the expanding union of workers.
+  - Every class struggle is a political struggle.
+  - Organization of proletarians into a class and political party: often upset by internal competition, but always rises up again. Collisions between classes of the old society further the development of the proletariat.
+- The bourgeoisie is in constant battle. It must always somehow convince and furnish the proletariat.
+- The proletariat alone is a really revolutionary class. Other classes decya and disapear; the proletariat is an essential product.
+- Many fight against the brougeoisie to save their existence from extinction; they are not revolutionary but conservative, reactionary.
+- The proletarian is without property; they cannot become masters except by abolishing the previous mode of appropriation.
+- All previous historical movements were movements in the interest of minorities; the proletarian movement is the interest of the immense majority.
+- Every form of society is based on the antagonism of oppressing and oppressed classes.
+- Certain conditions must be assured to oppress a class to continue its slavish existence. The serf raised himself to membership in the commune, just as the bourgeois developed into a bourgeois.
+- The modern laborer sinks deeper below the conditions of existence instead of rising with the progress.
+- The bourgeoisie is unfit to rule because it cannot assure an existence to its slave within slavery. 
+- Essential condition for exsitence is wealth accumulation, capital, and wage labor. Wage labor rests exclusively on competition between laborers.
+- The bourgeoisie produces its own gravediggers; the proletariat's rise is as inevitable as the fall of the bourgeoisie.
 
+### 1. Proletarians and Communists
+{: .no_toc }
 
-
-
-
-
-
-
-
-
-
-
-
+- Communists do not form a separate party opposed to other working-class parties; they do not have any separate principles; they point out common interests ot eh proletariat independent of nationality. Represents whole interests.
+- Communists aim to form the proletariat into a class, overthrow bourgeois supremacy, and conquer proletarian political power.
+- The Communiss only express true relations, rather than discovered or invented ideas.
+- All property relations of the past have been subject to constant historical replacement. Communism is not distinctive in advocating for the abolishmnet of property relations, but rather the abolition of bourgeois - private - property.
+- Common objection: Communists abolish the right of personally acquiring property as the fruit of one's own labor.
+  - The property of the petty bourgeois and the small peasant are already destroyed by industry.
+  - Wage labor creates no proprerty for the laborer; it creates capital. Property is based on the antagonism of capital and wage labor.
+- Capitalists: not merely a personal but a social status in production. Capital is inherently a collective product. Capital is not personal, it is social.
+- When capital is converted into common property, capital becomes more true to its formation and being.
+- In bourgeois society, living labor is a means to increase accumulated labor. In a Communist society, accumulated labor enriches the existence of the laborer.
+- Under bourgeois conditions of production, freedom means free trade. If selling and buying disappear, though, free trade disappears too.
+- Argument: when individual property can no longer be transformed into bourgeois property, individuality vanishes.
+  - Counter: the individual here is the bourgeois, the middle-class owner of property; these people must be swept 'out of the way'.
+- Communism deprives no man of the power to appropriate products of society, only to prevent the power to control the labor of others via such appropriation.
+- Argument: the abolition of private property breeds idleness and laziness.
+  - Counterargument: In bourgeois socieyt, those that work acquire nothing and those that do not work acquiring everything. There can no longer be any wage labor when there is no longer any capital. 
+- To the bourgeois, the disappearance of class property is the disappearance of production itself.
+- The modern family is premised upon capital and private gain. Abolition of the family.
+  - The bourgeois sees only production in his wife.
+- Geopolitical tensions will resolve when class tensions are resolved.
+- Charges against Communism made from an ideological standpoint are not deserving of serious examination. Man's consciousness changes with every change in the conditions of his existence.
+- Myth of the eternal truth
+- Exploitation of one part of society by the other.
+- Communist revolution ruptures traditional peoprerty relations.
+- The first step in revolution is to win the battle of democracy. Political power must be used to wrest capital from the bourgeoisie and to centralize instruments of production in the proletariat organized as the ruling class (the State).
+  - This must be carried out first via 'despotic inroads' on property and the condiitons of bourgeois production.
+- Measures:
+  1. Expropriation of property in land and application of all rents of land to public purposes
+  2. A heavy progressive tax
+  3. Abolition of inheritance rights
+  4. Confiscation of the property of emigrants and rebels
+  5. Centralization of all capital in the State
+  6. Centralization of all transport in the State
+  7. Extensions to instruments of production owned by the State
+  8. Equal liability of all to labor
+  9. Combination of agriculture with industry
+  10. Free education for all children
+- When class distinctions have disappeared and production is concentrated in individuals, public power loses its political character. Political power is merely the power to oppress. 
+- If the proletariat makes itself the ruling class, it will sweep away the conditions of existence for class antagonisms and of classes itself. *Therefore, it will have abolished its own supremacy as a class.*
+- A world without classes or class antagonisms: rather, free development of each and for all.
 
 
 
