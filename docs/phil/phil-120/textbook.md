@@ -93,7 +93,44 @@ PHIL 120
 - Induction - a set of premises may support or confirm a conclusion.
 - Validity is a tipping point. once information guarantees the conclusion is true, you cannot destroy validity by adding information - only by taking the information away.
 
-### 2.6
+---
+
+## Chapter 3: Argument Herooics
+
+### 3.1: Identifying Arguments
+- Identifying arguments can be surprisingly difficult.
+- Argument: premises and conclusion.
+- Premise signals: words that indicate a premise. "Because", "since", "for", "given".
+- Conclusion signals: words that indicate a conclusion. "Thus", "so", "hence", "therefore".
+
+### 3.2: Sentences
+- Anything that can carry information can be studied with logic.
+- Sentences can be short in pithy; some ask questions; some make comma ds.
+- We care interested in assertions or statements: sentences that make cleaims.
+- Sentences int he context of logic have truth values.
+
+### 3.3: Soundness and Premise Truth
+- Validity doesn't care about actual truth values; it is a hypothetical/conditional property.
+- Truth concerns the relationship between premises and the world.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
