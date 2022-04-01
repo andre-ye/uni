@@ -55,7 +55,20 @@ $$ = {(x, y, z) | x, y, z \in \mathbb{R}$$
 - Standard basis vectors - unit vectors along the dimensions.
   - You can decompose any vector into a linear sum of the standard basis vectors.
 
+---
 
+## Week 1 Friday (12.3)
+- Dot product/scalar product/inner product: element-wise weighted sum. For a vector $$\vec{a} = \langle a_1, a_2, ..., a_n \rangle$$ and $$\vec{b} = \langle b_1, b_2, ..., b_n \rangle$$, the dot product is $$\vec{a} \cdot \vec{b} = a_1 b_1 + a_2 b_2 + ... + a_n b_n$$.
+- The input is a set of vectors, but the output is a scalar. The dot product produces a different mathematical structure.
+- $$\vec{v} \cdot \vec{v} = \| \vec{v} \|^2$$
+
+- Theorem: if the angle between two vectors $$\vec{a}$$ and $$\vec{b}$$ is $$\theta$$, then $$ \vec{a} \cdot \vec{b} = \| \vec{a} \| \| \vec{b} \| \cos \theta $$.
+  - Alternatively, $$\cos \theta = \frac{\vec{a} \cdot \vec{b}}{\| \vec{a} \| \| \vec{b} \| }$$
+- Two vectors are orthogonal if and only if $$\vec{v} \cdot \vec{w} = 0$$.
+  - A zero-vector is orthogonal to every other vector.
+- Projection - what does some $$\vec{b}$$ do to $$\vec{a}$$?
+  - Scalar projection of $$\vec{b}$$ onto $$\vec{a}$$: $$\text{comp}_{\vec{a}} \vec{b} = \frac{ \vec{a} \cdot \vec{b}}{\| \vec{a} \|}$$. This *component* is a real number. Exploits a trigonometric relationship.
+  - To obtain the vector projection, scale the vector to a unit vector and multiply by the scalar projection.
 
 
 
