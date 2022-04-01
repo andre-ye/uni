@@ -181,8 +181,15 @@ A valid argument!
 - Some things are not logically possible - these are logical falsehoods.
 
 
+---
 
-
+## Week 1 Friday
+- Augmentation: only adding premises. By adding premises, you change the argument.
+  - You can add irrelevant information. This doesn't impact the validity of the argument.
+- Augmentation never changes the validity of an argument.
+- Inductive confirmation is not necessarily preserved under augmentation. You can destroy inductive validity with additional augmentation.
+- Bool: `either Pia likes logic and philosophy or she likes history and stats` $$\to$$ `(L & P) v (H & S)$$.
+- 
 
 
 
