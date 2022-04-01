@@ -118,13 +118,35 @@ PHIL 120
 - In logical systems studied in this course, there are only two possible truth values (True and False).
   - These are bivalent logics.
 
+---
 
+## Chapter 4: Meet the Boolean Connectives
 
+### 4.1: And here is the conjunction &
+- BOOL: a logical system, short for Boolean logic.
+- & is only allowed to connect two entences together; we technically shouldn't say P&Q&R but we can infer an order of operations.
+- If English groups sentences clearly, we need to also group them in bool.
+- & - conjunction, ampersand, and
+- Sentences are atomic sentences/atoms - they are the building blocks of BOOL.
+- Complex sentences are combinations of atomic sentneces.
 
+### 4.2: Or Is it Disjunction v
+- Disjunction, wedge, or: v.
+- Disjunction is connective; we can use long strings of disjunctions.
+- Conjuncts and disjuncts
 
+### 4.3: Not to Neglect Negation ~
+- The third connective is ~: negation, tilde, not.
+- These three connectives are the Boolean connectives.
+- Preserve as much structure whne translating into BOOL as possible.
+- Negation always applies to the smallest possible scope of sentence.
+- Scope - how much of a sentence a connective governs.
+- Default: negation has a narrow scope.
 
-
-
+### 4.4: Lost in Translation
+- Some bits are lost in translation.
+- BOOl helps us study how we reason.
+- When we translate a complex sentence into BOOL, we need to capture logical commitmnets.
 
 
 
