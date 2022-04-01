@@ -142,8 +142,14 @@ $$\mathbf{a} \cdot \mathbf{b} = \| \mathbf{a} \| \| \mathbf{b} \| \cos \theta = 
 
 
 Calculating work
+- The work done by a constant force $$\vec{F}$$ is $$\vec{F} \cdot \vec{D}$$, where $$\vec{D}$$ is the displacement vector.
 
+### 12.4: The Cross Product
+- Given two nonzero vectors, it is very useful to find a nonzero vector that is perpendicular to both vectors.
+- The cross product of $$\vec{a} = \langle a_1, a_2, a_3 \rangle$$ and $$\vec{b} = \langle b_1, b_2, b_3 \rangle$$ is
 
+$$\vec{a} \times \vec{b} = \langle a_2 b_3 - a_3 b_2, a_3 b_1 - a_1 b_3, a_1 b_2 - a_2 b_1 \rangle$$
 
-
+- The cross product/vector product is only defined when $$\vec{a}$$ and $$\vec{b}$$ are three-dimensional.
+- A determinant of order two is defin
 
