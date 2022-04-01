@@ -151,5 +151,15 @@ Calculating work
 $$\vec{a} \times \vec{b} = \langle a_2 b_3 - a_3 b_2, a_3 b_1 - a_1 b_3, a_1 b_2 - a_2 b_1 \rangle$$
 
 - The cross product/vector product is only defined when $$\vec{a}$$ and $$\vec{b}$$ are three-dimensional.
-- A determinant of order two is defin
+- Determinant interpretation of the cross-product.
+- The vector $$\vec{a} \times \vec{b}$$ is orthogonal to both $$\vec{a}$$ and $$\vec{b}$$.
+- The right-hand rule gives the direction of $$\vec{a} \times \vec{b}$$.
+- If $$\theta$$ is the angle between $$\vec{a}$$ and $$\vec{b}$$, then $$\| \vec{a} \times \vec{b} \| = \| \vec{a} \| \| \vec{b} \| \sin \theta$$.
+- Geometric characterization: $$\vec{a} \times \vec{b}$$: a vector perpendicular both to $$\vec{a}$$ and $$\vec{b}$$.
+- Two nonzero vectors $$\vec{a}$$ and $$\vec{b}$$ are parallel if and onlny if $$\vec{a} \times \vec{b} = 0$$.
+- The length of the crossproduct $$\vec{a} \times \vec{b}$$ is equal to the area of the parallelogram formed by $$\vec{a}$$ and $$\vec{b}$$.
+- The cross-product is not commutative. $$\vec{i} \times \vec{j} \neq \vec{j} \times \vec{i}$$. The associative law does not hold either.
+
+
+![image](https://user-images.githubusercontent.com/73039742/161320761-8c75edf3-e115-4e4c-8340-7ab7863c52cd.png)
 
