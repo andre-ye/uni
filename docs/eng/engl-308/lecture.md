@@ -25,7 +25,7 @@ ENGL 308
 
 ---
 
-## Week 1 Tuesday - Syllabus
+## Week 1 Tuesday - Syllabus and Course Introduction
 - Today - give an overview of what will be happening in the quarter.
 - Not an easy class. If it's not for you, don't take it.
 - History of the class
@@ -112,6 +112,101 @@ ENGL 308
 - 7 responses for a 3.8 to 4.0. 
 - You must complete responses 3, 5, 7.
 - All responses must respond to the prompt. 
+
+---
+
+## Week 1 Thursday - Parts I and II of *The Communist Manifesto*
+- Naomi Klein, *Corona Capitalism* - much has happened in the past few years. It reads differently in retrospect.
+  - The *Manifesto* is about crises, recurring crises - crises veer off into new directions, new ideas and eras, revolutions. Hurculean jumps are possible in crises.
+  - The Pandemic was thought to maybe be one of those crises serving as a catalyst for transformation.
+- Marx and Engels were in global crisis during the writing of the *Communist Manifesto*.
+- The materialist method: nothing can be understood without history - context is everything.
+- How white is the text?
+  - Race, slavery, and enslavements
+  - Concepts of civilized vs uncivilized, East vs West, barbarism.
+- How difficult is the text to read? *The Communist Manifesto* is intended to be a layman's text. It is supposed to be easygoing.
+- Marx and Engels were commissioned to write a manifesto for the League of the Just (later the Communist Party). 
+- Three 'chapters': the Historical, the Polemic, the Academic.
+- The purpose of the *Manifesto* is platform rather than argument - it is a small, compact pamphlet with the purpose to agglomerate, synthesize, and create chared purpose.
+- Written in the tone of revolution.
+  - 1848 revolution; revolution around every century.
+  - Uprisings were occuring in almost every European nation, transofrmation from monarchy to society.
+  - Two countries stayed out of revolution: Great Britain and Russia. 
+    - Great Britain enfranchised working men and had sufficient infrastructure and industrial reforms; the working class were placated.
+    - In Russia, revolution was down the corner. A lack of connections prevented earlier revolution.
+  - Benedict Anderson and the study of modern nationalism: the birth of the popular press and media, the birth of modern nationalism - 'print nationalism'.
+    - Anderson's interpretation has been criticized for privileging literacy.
+  - Ideas must be written; they are much more quickly disseminated in print.
+    - The novel makes modern nationalism possible. Novels disseminate shared belonging with others. 
+    - Sense of cohesion - rising up together, sharing a consciousness.
+- Discontentment with royalty: abandoning the teutonic, the tribal, in favor of the democratic, and liberal - the emergence of national government.
+- Technology - the railrod (especially in connecting the coast to eh interior), newspapers, education, industrialization.
+  - Factories bring lots of workers together in one room, in a way that feudalism never could.
+    - Ideas begin flashing around.
+    - Technology enables the faster transmission of ideas. It becomes materially possible.
+- Starvation - the potato family, environmental catastrophes. There is lack of sustinence; people are angry and famished.
+- French revolution in 1789, American revolution in 1775 to 1783, second French revolution in 1618 - creation of a constitutional democracy.
+- Initial title: "Professions of Faith" - Communism as religion.
+- The Manifesto as a genre exists not as political but rather as a religious text, a sovereign declaration or an interpretation of scripture (usually by the clergy).
+  - Transition from religious to a secular worldview.
+  - The concept of the Manifesto not as religious but as a political document was pioneered by Marx and Engels.
+- Changed title: "Principles of Communism". This Manifesto is not quite a set of principles; Manifestos are dynamic, performative works that are not static. They seek not only to understand but also to mold and shape the world around them.
+- Manifestos as bringing about human freedom.
+- Main theoretical contributions of the text
+  - Much of production - the way that social and economic means of organization - are subject to change, and are never completely static.
+    - Darwin and Marx - writing at the same time
+    - Revolution and evolution
+    - You cannot have revolution without evolution, and vice versa
+    - Capitalism is not permanent
+  - Projecting the long term tendencies of capitalism.
+    - Capitalism will become global. No other text in the 19th century would have predicted this.
+    - Capitalism as a global phenomenon - it will keep an expanding into every scope of the world.
+  - Thinking about and understanding other economists. Adam Smith and *The Wealth of Nations* - evolutionary optimism is naive and misguided. 
+- So far, there have been no international overthrows. Were Marx and Engels simply young idealists?
+
+Questions to think about:
+1. How does the 'spectre haunting Europe' set the mood? What impact does the language of a threatening spectre create?
+2. How is the bourgeoisie characterized in the text?
+3. How is the proletariat described?
+4. How is the idea of class described?
+5. How are the Communists described?
+6. How is the idea of a historical transformation described?
+7. How do ideas of literature, education, and culture manifest in the text? How are they treated?
+8. How is capital described?
+9. To whom is the text addressed?
+10. How is gender treated in the text?
+11. How is race treated in the text?
+12. How are ideas of individuality treated in the text?
+
+
+Ideas from Discussion
+- Capital is collective, a social process. Cpaital as formed socially. Creation of commodities and wealth. Social possession and social power.
+- Abolition of *private* rather than personal property.
+- Capital holds social power, but is only understood as private in the context of capital society. The Goal of the Communists: to return social power and capital to the people that generated it (or whose labor who generated it).
+- Means of production: how commodities are made.
+- How are the bourgeoisie described? Who owns capital? - the bourgeoisie are the destroyers of what came before. Destroyed the power of the feudal system.
+- The petty 'boutique' bourgeoisie
+- The bourgeoisie as a revolutionary class
+- The bourgeoisie control the nation-state - the laws, power, 'freedom', education, whatnot - an assertion of 'freedom', but for whom?
+- Commofidifcation of everything, including people - later, commodification of labor power.
+- Who gets to be the revolutionary class? Classes that exist will decay, collapsing into bourgeois and proletariat.
+- The feudal system and the capitalist system
+  - Feudal system: structured with God, King, the nobility, clergy, the three estates. No social mobility - ordainment and religion.
+  - Capitalist system: the most social mobility, mobility downwards.
+- The bourgeoisie shake up the system: the petty bourgeois expands the revolutionary impulse. 
+- There is always a struggle. What are the big ideas?
+- Theory itself is a literary text. It is not merely to be applied.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
