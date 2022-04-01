@@ -75,3 +75,29 @@ Coordinate Systems and Vectors
 - Give the form of the elements put in, followed by a vertical line ('such that', 'which hold') and a rule. 
 - The dot product is a scalar.
 - The dot product and the Pythagorean theorem are both good tests for orthogonality.
+
+---
+
+## Week 1 Friday
+- Dot product has a lot of nice features, especially
+
+$$\vec{v} \cdot \vec{w} = \| \vec{v} \| \| \vec{w} \| \cos \theta$$
+
+> $$\theta is the smaller angle between two vectors when their initial points meet.
+
+- Projection. Magnitude/lnegth of the projection is the component. Shadow of a vector onto $$\vec{a}$$.
+
+> *Question.* Consider the triangle with corners at $$A (0, 0, 1)$$, $$B(1, 1, 3)$$, and $$C(-1, 2, 4)$$. To the nearest degree, find the angle at $$A$$ in the triangle $$BAC$$.
+
+> *Approach*. Let us compute $$\vec{AB}$$ and $$\vec{AC}$$. We know that $$\vec{AB} = \langle 1, 1, 2 \rangle$$ and $$\vec{AC} = \langle -1, 2, 3 \rangle$$. Let's use the dot product $$\vec{AB} \cdot \vec{AC} = \| \vec{AB} \| \| \vec{AC} \| \cdot \cos \theta$$. We have $$7 = \sqrt{6 \cdot 14} \cdot \cos \theta \implies \cos \theta = \frac{7}{\sqrt{6 * 14}} \implies \theta \approx 40^\circ$$.
+
+- Projections - the shadow doesn't care about the vector it is being projected on, but rather the direction - that's it. 
+
+
+
+
+
+
+
+
+
