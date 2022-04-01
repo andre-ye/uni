@@ -112,7 +112,11 @@ PHIL 120
 ### 3.3: Soundness and Premise Truth
 - Validity doesn't care about actual truth values; it is a hypothetical/conditional property.
 - Truth concerns the relationship between premises and the world.
-- 
+
+### 3.4: Bivalence
+- Truth and falsity: truth values.
+- In logical systems studied in this course, there are only two possible truth values (True and False).
+  - These are bivalent logics.
 
 
 
