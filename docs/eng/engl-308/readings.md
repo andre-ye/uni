@@ -194,9 +194,19 @@ German, or "'True'", Socialism
 - Appropriation via translation
 - French Socialist and Communist literature was completely emasculated. 
 - To presrve the petty-bourgoeis class is to preserve the existing state of things in Germany. 'True Socialism' 'solved' the threat of industrail supremacy of the bourgeoisie and the rise of the revolutionary proletariat.
-- 
-- 
+- The German nation is marked as the dieal nation, the German man as the ideal of man.
+- Most so-called Socialist and Communist publishing in German "belong to the domain of this foul and enervating literature"
 
+Conservative, or Bourgeois, Socialism
+- To continue the existence of bourgeois society, the bourgeois attempt to redress social grievances.
+- These are the likes of: economists, philanthropists, humanitarians, charity, etc.
+- Proudhon - *Philosophie de la Misere*
+- The Socialistic bourgeois want to improve the living conditions of modern society without struggle, to preserve the world as it is without revolution and disintegration.
+- The world in which the bourgeoisie is supreme is presumed to be the best.
+- A more practical but less systematic form of Bourgeois Socalism: depreciate all reform from the working class by showing that no political reform could be advantageous.
+
+Crticial-Utopian Socialism and Communism
+- Attempts of the proletariat to attain their own ends initially fail. 
 
 
 
