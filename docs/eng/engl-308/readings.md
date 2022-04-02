@@ -207,6 +207,59 @@ Conservative, or Bourgeois, Socialism
 
 Crticial-Utopian Socialism and Communism
 - Attempts of the proletariat to attain their own ends initially fail. 
+- Revolutionary literature produced in the first steps of the proletariat has a necessarily reactionary character.
+- The development of class antagonisms runs parallel with the development of industry. 
+- Future history resolves itself into propaganda and execution of social plans.
+- The undeveloped state of class struggle causes Socailists of this kind to consider themselves superior to all class antagonisms, and want to improve the condition of all - including the ruling class.
+- Attempt to attain ends via peaceful means and small experimetns doomed for failure.
+- Utopian character of proposals: point to the disappearance of class antagonisms that are just emerging and undefined.
+- Utopain socialism is compelled to appeal to the feelings and purses of the bourgeois; this brand of socialism sinks into reactionary conservative socialism.
+
+### 4. Position of the Communists in Relation to the Various Existing Opposition Parties
+{: .no_toc }
+
+- Communists fight for immediate and future aims.
+- The Communists turn attention to Germany; this country is on the eve of a bourgeois revolution.
+- Communists everywhere support the revolutionary movement against the existing social and political order.
+
+### Preface to the German Edition of 1872
+{: .no_toc }
+
+
+### Preface to the Russian Edition of 1872
+{: .no_toc }
+
+### Preface to the German Edition of 1883
+{: .no_toc }
+
+### Preface to the English Edition of 1888
+{: .no_toc }
+
+### Preface to the German Edition of 1890
+{: .no_toc }
+
+### Preface to the Polish Edition of 1872
+{: .no_toc }
+
+### Preface to the Italian Edition of 1893
+{: .no_toc }
+
+---
+
+### "Theses Concerning Feuerbach" by Marx
+- All hitherto existing materialism has considered the object's form, but not human activity or subjectively.
+- Feuerbach wants sensuous objects distinct from thought objectives but does not consider human activity to be objective.
+- Can objective truth be attributed to human thinking? A practical, rather than theoretical question.
+- Materialist doctrine: understanding the changing of circumstances. The educator must be educated himself.
+- Sensuousness is not considered to be practical.
+- Human essence is not inherent to individuals, but an ensemble of social relations.
+- All social life is practical. The rational solution is always found in human practice.
+- Contemplative materialism that does not believe sensuousness as practical contemplates single individuals and civil society.
+- Standpoint of old materialism: civil soceity. Standpoint of the new materialism: human society, social humanity.
+
+> "The philosophers have only interpreted the world, in various ways; the point is to *change* it."
+> 
+
 
 
 
