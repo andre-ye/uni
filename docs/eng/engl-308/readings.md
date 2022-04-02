@@ -116,7 +116,7 @@ ENGL 308
 - Essential condition for exsitence is wealth accumulation, capital, and wage labor. Wage labor rests exclusively on competition between laborers.
 - The bourgeoisie produces its own gravediggers; the proletariat's rise is as inevitable as the fall of the bourgeoisie.
 
-### 1. Proletarians and Communists
+### 2. Proletarians and Communists
 {: .no_toc }
 
 - Communists do not form a separate party opposed to other working-class parties; they do not have any separate principles; they point out common interests ot eh proletariat independent of nationality. Represents whole interests.
@@ -160,6 +160,42 @@ ENGL 308
 - If the proletariat makes itself the ruling class, it will sweep away the conditions of existence for class antagonisms and of classes itself. *Therefore, it will have abolished its own supremacy as a class.*
 - A world without classes or class antagonisms: rather, free development of each and for all.
 
+### 3. Socialist and Communist Literature
+{: .no_toc }
+
+
+Feudal Socialism
+- The aristocracy are obliged to demonstrate forgetfulness of their own interests.
+- Aristocracy took revenge.
+- Feudal Socialism: half lamentation, half lampoon, half echo of the past, half menace of the future.
+- Feudal Socialism is always ludicrous in its effect.
+- Feudalists forget that feudalism was exploited under different and 'antiquated' conditions.
+- The modern bourgeoisie is the offspring of their own form of society.
+- The bourgeoisie creates not merely a proletariat, but a revolutionary proletariat.
+- Clerical Socialism with Feudal Socialism: hand-in-hand.
+- Christian ascetism can be easily given a Socialist tinge.
+
+> "Christian Socialism" is but the holy water with which the priest consecrates the heart-burnings of the aristocrat."
+
+Petty-Bourgeois Socialism
+- The feudal aristocracy was not the only class ruined by the bourgeoisie.
+- Medieval burgesses and the small peasant proprieters - precursors of the modern bourgeoisie. 
+- The petty bourgeois fluctuates betweent he proletariat and the bourgeoisie; it renews itself as supplementary to bourgeois society.
+- Petty-bourgeois Socialism: writers who sided with the proletariat against the bourgeoisie should use the standard of the peasant and petty bourgeois. 
+- Petty-Bourgeois socialism dissects contradictions in the conditions of modern productions.
+- However, it attempts to restore the old means of production or to 'cramp' modern means of production within the framework of old property relationships. It is either reactionary or Utopian. 
+
+> "In its further development, this trend ended in a cowardly fit of the blues."
+
+German, or "'True'", Socialism
+- German philosophers and thinkers developed upon French Socialist and Communist literature. 
+- To 18th century German philosophers the first French Revolution represented the demands of Practial Reason and pure Will.
+- German literati brought new French ideas into harmony with ancient philosophical conscience.
+- Appropriation via translation
+- French Socialist and Communist literature was completely emasculated. 
+- To presrve the petty-bourgoeis class is to preserve the existing state of things in Germany. 'True Socialism' 'solved' the threat of industrail supremacy of the bourgeoisie and the rise of the revolutionary proletariat.
+- 
+- 
 
 
 
