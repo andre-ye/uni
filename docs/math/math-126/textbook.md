@@ -163,3 +163,11 @@ $$\vec{a} \times \vec{b} = \langle a_2 b_3 - a_3 b_2, a_3 b_1 - a_1 b_3, a_1 b_2
 
 ![image](https://user-images.githubusercontent.com/73039742/161320761-8c75edf3-e115-4e4c-8340-7ab7863c52cd.png)
 
+Triple Products
+- The product $$\vec{a} \cdot (\vec{b} \times \vec{c})$$ - scalar triple product of the vectors $$\vec{a}$$, $$\vec{b}$$, and $$\vec{c}$$.
+- Parallelepiped volume $$V$$ is the magnitude of the scalar triple:
+
+$$V = Ah = \| \vec{b} \times \vec{c} \| \| \vec{a} \| \| \cos \theta \| = \| \vec{a} \cdot (\vec{b} \times \vec{c} ) \|$$
+
+- If the scalar product is 0, the vectors lie on the same plane and are coplanar.
+
