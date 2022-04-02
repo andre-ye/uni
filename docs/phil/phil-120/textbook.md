@@ -148,10 +148,26 @@ PHIL 120
 - BOOl helps us study how we reason.
 - When we translate a complex sentence into BOOL, we need to capture logical commitmnets.
 
+---
 
+## Chapter 5: Features of Connectives
 
+### 5.1: Scope
+- Scope is the extent of a connective - how much of a sentence it governs.
+- Each occurrence of a connective has its own scope.
+- Main connective - the connective with wide scope, governs the whole sentence
 
+### 5.2: Arity
+- Arity: the number of inputs a connective takes.
+- If a connective takes only one input, it is unary. If it takes two inputs, it is binary.
 
+### 5.3: Advanced Boolean Translations
+- 'Neither Pia nor Quinn is guilty'. `~P&~Q` or `~(PvQ)`
+- You can translate neither/not in two ways.
+- When connectives are the same time, we can allow chaining because any way of grouping yields the same result. `(P&Q)&R = P&(Q&R)`.
+  - This property does not hold for mixed connectives.
+- When you have mixed binary connectives and English doesn't group them, you must give both translations until you know which is correct.
+- Ambiguity - when a word or sentence has two different but possible meanings.
 
 
 
