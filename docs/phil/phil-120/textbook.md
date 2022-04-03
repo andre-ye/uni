@@ -169,6 +169,92 @@ PHIL 120
 - When you have mixed binary connectives and English doesn't group them, you must give both translations until you know which is correct.
 - Ambiguity - when a word or sentence has two different but possible meanings.
 
+---
+
+## Chapter 6: Semantics for BOOL - Truth Tables
+- Truth tables: charts showing every possible way a sentence could be true or false.
+- Truth table for an atomic sentence $$P$$:
+
+| P |
+| --- | 
+| T |
+| F |
+
+- Truth functionality: the truth value of any complex sentence is dependent on the truth values of the atomic sentences it is comprised of.
+
+| P | ~P |
+| --- | --- |
+| T | F |
+| F | T |
+
+- Canonical form: reference columns are alphabetical; the patterns of Ts and Fs are awlays the same.
+
+| P | Q | P&Q |
+| --- | --- | --- |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
+
+| P | Q | PvQ |
+| --- | --- | --- |
+| T | T | T |
+| T | F | T |
+| F | T | T |
+| F | F | F |
+
+### 6.2: Computing Truth Functions
+- BOOL has only three connectives; all are truth functional.
+
+| P | Q | ~Pv(Q&P) |
+| --- | --- | --- |
+| T | T | ? |
+| T | F | ? |
+| F | T | ? |
+| F | F | ? |
+
+- We begin by computing the inputs to the disjunction, which is the main connective.
+
+| P | Q | ~P | Q&P | ~Pv(Q&P) |
+| --- | --- | --- | --- | --- |
+| T | T | F | T | ? |
+| T | F | F | F | ? |
+| F | T | T | F | ? |
+| F | F | T | F | ? |
+
+- Now, we can fill in the disjunction.
+
+| P | Q | ~P | Q&P | ~Pv(Q&P) |
+| --- | --- | --- | --- | --- |
+| T | T | F | T | T |
+| T | F | F | F | F |
+| F | T | T | F | T |
+| F | F | T | F | T |
+
+- The number of rows in any table is $$2^n$$, where $$n$$ is the number of atomic sentences.
+
+### 6.3: Semantics, Syntax, and Pragmatics
+
+```
+Semantics = meaning.
+
+Syntax = grammar.
+
+Pragmatics = use.
+```
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 
 
