@@ -70,13 +70,32 @@ $$ = {(x, y, z) | x, y, z \in \mathbb{R}$$
   - Scalar projection of $$\vec{b}$$ onto $$\vec{a}$$: $$\text{comp}_{\vec{a}} \vec{b} = \frac{ \vec{a} \cdot \vec{b}}{\| \vec{a} \|}$$. This *component* is a real number. Exploits a trigonometric relationship.
   - To obtain the vector projection, scale the vector to a unit vector and multiply by the scalar projection.
 
+---
 
+## Week 2 Monday (12.4, 12.5)
+Section 12.4
+- The cross-product holds only for three-dimensional vectors.
+- Determinant method.
+- The resulting vector $$\vec{v} = \vec{a} \times \vec{b}$$ is orthogonal to both $$\vec{a}$$ and $$\vec{b}$$.
+- If you swap the order, you will get the negative product.
+- $$\| \vec{a} \times \vec{b} \| = \| \vec{a} \| \| \vec{b} \| \sin \theta$$, where $$\theta$$ is the smallest angle between $$\vec{a}$$ and $$\vec{b}$$. This is a good test for parallelity (equals 0).
+- Area of parallelogram: $$\| \vec{a} \times \vec{b} \|$$
 
-
-
-
-
-
+Section 12.5 Part I
+- Vector equations: equations in which we want to equate a vector on the LHS to a vector on the RHS.
+- Map a vector to a point
+- You can multiply a vector by a scalar and it will remain on the same parallel line.
+- Multiply the direction vector - make it shorter, longer, switch the direction, etc.
+- If $$t \in \mathbb{R}$$, we get all points on that line.
+- $$\vec{r} = \vec{r_0} + t\vec{v}$$
+  - $$\vec{r_0}$$ - position vector
+  - $$t \in \mathbb{R}$$ - parameter
+  - $$\vec{v}$$ - direction vector
+- Sometimes, we write vectors vertically instead of horizontally.
+- Properties:
+  - Two lines are parallel if their direction vectors are parallel
+  - Two lines intersect if they have a point $$(x, y, z)$$ in common
+  - Two lines are skew if they are not parallel and do not intersect.
 
 
 
