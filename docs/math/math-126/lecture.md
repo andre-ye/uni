@@ -93,6 +93,42 @@ $$\vec{v} \cdot \vec{w} = \| \vec{v} \| \| \vec{w} \| \cos \theta$$
 
 - Projections - the shadow doesn't care about the vector it is being projected on, but rather the direction - that's it. 
 
+---
+
+## Week 2 Monday
+- Problem: $$\langle 1, 0, 1 \rangle \times \langle 0, 1, -2 \rangle$$
+  - $$\langle 0 - 1, 0 - (-2), 1 - 0 \rangle = \langle -1, 2, 1 \rangle$$
+- The cross product reveals a fundamental/deep structure within $$\mathbff{R}^2$$.
+  - Related to Lie-algebras.
+  - $$(\mathbb{R}^3, \times, +)$$ - an algebra. An axiom list.
+  - Abstract algebra
+- Interpretation - the output is orthogonal/perpendicular to both vectors. 
+- The length of the cross product is the area of a parallelogram formed by the two vectors; dividing by two gives a formula for the area of a triangle.
+- Find line equations when two points are given, when one point and a direction is given, and other parallel, orthogonal, etc. features are given.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
