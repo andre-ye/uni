@@ -188,10 +188,32 @@ A valid argument!
   - You can add irrelevant information. This doesn't impact the validity of the argument.
 - Augmentation never changes the validity of an argument.
 - Inductive confirmation is not necessarily preserved under augmentation. You can destroy inductive validity with additional augmentation.
-- Bool: `either Pia likes logic and philosophy or she likes history and stats` $$\to$$ `(L & P) v (H & S)$$.
+- Bool: `either Pia likes logic and philosophy or she likes history and stats` $$\to$$ `(L & P) v (H & S)`.
+
+---
+
+## Week 2 Monday
+- Last week: discussed components of the logical system.
+- We can give meaning to truth values and begin analyzing argument.
+- Understanding truth values and how connectives have truth values.
+- Syntax vs Semantics vs Pragmatics
+- Logical systems have different dimensions or perspectives. 
+- Syntax: grammar, symbols, form, formal proofs.
+- Semantics: anything to do with meaning, content, interpretation, truth, informal proofs.
+- Pragmatics: use, how words can be used to say things other than their semantic meaning.
+- Ryle's review of Heidegger's *Being and Time*. Pragmatics:
+
+> "*Being and Time*, it is worth mentioning, is most beautifully printed and the pages have generous margins." -Ryle
+
+- Truth Functional: the truth value of the complex sentence deepnds only on the truth values of the atomic sentences.
+- Truth tables - used to compute all possible output states of a logic expression
+- Functions
+  - Binary functions
+- Logical equivalence
+- Lost in translation: any meaning that's not truth functional.
+- We can manipulate logical equivalences.
+- DeMorgan's Laws: `~(PvQ) ⇔ ~P&~Q, ~(P&Q) ⇔ ~Pv~Q`.
 - 
-
-
 
 
 
