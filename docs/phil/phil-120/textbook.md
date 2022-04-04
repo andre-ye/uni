@@ -245,6 +245,55 @@ Pragmatics = use.
 
 ---
 
+## Chapter 7: Using BOOL to Study Reasoning
+
+### 7.1: Tautologies and Taut-Falsities
+- An atomic sentence `P` might be true or false, but the complex sentence `Pv~P` cannot possibly be flase.
+- Tautologies - logical truths, a sentence that is logically true because of the truth-functional connectives.
+  - Can be identified when a sentence's truth table has all `T`s.
+- `Pv~P` - law of the excluded middle; there is no third option or middle ground.
+- Tautological falsities: a sentence with all Fs in its truth function.
+- Tautologically contingent: a sentence with at least one T and F.
+
+### 7.2: Equivalence (DeM and DN)
+- Equivalence - two sentences already have the same truth value; they co-vary in truth value.
+- Tautologically equivalent: sentences that are equivalent because of the truth-functional connectives.
+- DeMorgan's Laws: `~(PvQ) ⇔ ~P&~Q`, `~(P&Q) ⇔ ~Pv~Q`.
+- ⇔ is shorthand for 'logically equivalent'.
+- Object language - formal language defined as part of the logical system.
+- Metalanguage - language defined to talk about the language.
+- Law of Double Negation: `P ⇔ ~~P`.
+
+### 7.3: Validity
+- When all the premises are true, the conclusion must also be true.
+- Truth Table method: build a joint truth table to assess an argument for validity.
+- Counterexample: a row on which the premises are true and the conclusion false.
+
+---
+
+## Chapter 8: BOOLean Algebra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
