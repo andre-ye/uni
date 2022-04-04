@@ -222,27 +222,43 @@ Crticial-Utopian Socialism and Communism
 - The Communists turn attention to Germany; this country is on the eve of a bourgeois revolution.
 - Communists everywhere support the revolutionary movement against the existing social and political order.
 
-### Preface to the German Edition of 1872
-{: .no_toc }
-
-
-### Preface to the Russian Edition of 1872
-{: .no_toc }
-
-### Preface to the German Edition of 1883
-{: .no_toc }
-
 ### Preface to the English Edition of 1888
 {: .no_toc }
+
+- Parisian insurrection of June 1848 - defeated, political spirations of the European working class driven underground.
+- Cologne Communist trial 
+- International Working Men's Association. Welding the militant proletariat of Europe and America together.
+- Trust in the intellectual development of the working class.
+- English translations into America; the *Manifesto* has obtained international recognition. 
+- It could not be called the/a *Socialist* Manifesto; the Socialists were Utopians and dying.
+- Communism - militant, unsatisfied with mere political resolutions.
+- Socialism - respectable, middle-class movement.
+- In every historical epoch, the prevailing mode of economic and exchange  form the basis of that epoch's political and intellectual history.
+- The pattern of oppression from epoch to epoch has developed such thtat the proletariat cannot be emancipated without emancipating society at large.
+- The proposition of the *Communist Manifesto* will do for history what Darwin's theory of evolution has done for biology.
+- Quotation from the German edition
+
+> "But then, the manifesto has become a historical document which we have no longer any right to alter."
 
 ### Preface to the German Edition of 1890
 {: .no_toc }
 
+- An updated German edition of the Manifesto has become necessary.
+- The Russian, Polish, Danish, French, Spanish versions have been published.
+- Inaccurate translations had been repeatedly reprinted in England; Samuel Moore printed an authentic version.
+- The International Working Men's Association
+- The history of the Manifesto reflects the history of the modern working-class movement.
+- Socialists - considered to be Utopians or social 'quacks' attempting to eliminate social abuses through patchwork without hurting capital and profit. 
+- The emancipation of the workers must be the act of the working class itself - and thus Communism was chosen, rather than Socialism.
+- "Working men, unite!" Few responded, but later the proletarians of most Western European countries unified through the IWMA.
+
 ### Preface to the Polish Edition of 1872
 {: .no_toc }
+- A polish edition has become necessary.
+- The Manifesto has become an index of the development of large-scale industry.
+- A Polish edition indicates progress of Polish industry.
+- Poland has, throughout history, been hung out to dry; the workers of Europe need the independence of Poland as much as the Polish workers themselves.
 
-### Preface to the Italian Edition of 1893
-{: .no_toc }
 
 ---
 
@@ -258,8 +274,18 @@ Crticial-Utopian Socialism and Communism
 - Standpoint of old materialism: civil soceity. Standpoint of the new materialism: human society, social humanity.
 
 > "The philosophers have only interpreted the world, in various ways; the point is to *change* it."
-> 
 
+---
+
+### "Bartleby, The Scrivener: A Story of Wall-street" by Melville
+- Bartleby - the strangest scrivener; nothing is ascertainable.
+- Narrator - soft, safe, prudent. The easiest way of life is the best.
+- Turkey - a short, pursy, old Englishman. Eccentricities overlooked in favor of usefulness to the narrator. 
+- Nippers - whiskered, sallow, piratical, young. An annoyance to the narrator.
+- Ginger Nut - twelve years old. Quick-witted . An errand boy.
+- Bartleby - did an extraordinary amount of writin; no pause. Then; he refused work - "I would prefer not to".
+- 
+- 
 
 
 
