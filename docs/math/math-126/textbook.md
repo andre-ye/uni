@@ -171,3 +171,82 @@ $$V = Ah = \| \vec{b} \times \vec{c} \| \| \vec{a} \| \| \cos \theta \| = \| \ve
 
 - If the scalar product is 0, the vectors lie on the same plane and are coplanar.
 
+### 12.5: Equations of Lines and Planes
+Let $$P(x, y, z)$$ be an arbitrary point on a line $$L$$. Let $$\vec{r}_0$$ and $$\vec{r}$$ be the position vectors of $$P_0$$ and $$P$$. The following is true for some vector $$\vec{a} = \vec{P_0 P}$$ and some scalar $$t$$.
+
+$$\vec{r} = \vec{r}_0 + t \vec{v}$$
+
+This is the vector equation of the line.
+
+We can expand the vector equation of a line, and we obtain the parameteric equations derived from identifying the components of the result of the vector equation.
+
+$$x = x_0 = at$$
+
+$$y = y_0 + bt$$
+
+$$z = z_0 + ct$$
+
+The vector equation and parameteric equations of a line are not unique; we can change the point, parameter, or choose a different parallel vector. This will change the line.
+
+- Symmetric equations: derived from solving each of the parameter equations for $$t$$, then setting the expressions all equal to each other.
+- You can set a limitation on $$t$$ to express only a certain line segment.
+- The line segment from $$\vec{r}_0$$ to $$\vec{r}_1$$ is given by the vector equation
+
+$$\vec{r} = (1 -t ) \vec{r}_0 + t \vec{r}_1, 0 \le t \le 1$$
+
+A plane in space is more difficult to describe. A plane in space is determined by a point $$P_0$$, a vector $$\vec{n}$$ orthogonal to the plane. Let $$\vec{r}_0$$ and $$\vec{r}$$ be the position vectors of $$P_0$$ and $$P$$. $$\vec{r} - \vec{r}_0$$ is orthogonal to $$\vec{n}$$.
+
+$$\vec{n} \cdot (\vec{r} - \vec{r}_0) = 0 \implies \vec{n} \cdot \vec{r} = \vec{n} \cdot \vec{r}_0$$
+
+Scalar equation for the plane: write 
+
+$$\vec{n} = \langle a, b, c \rangle$$
+
+$$\vec{r} = \langle x, y, z \rangle$$
+
+$$\vec{r}_0 = \langle x_0, y_0, z_0 \rangle$$
+
+This simplifies into
+
+$$a (x - x_0) + b(y - y_0) + c(z - z_0) = 0$$
+
+We can rewrite the equation as such:
+
+$$ax + by + cz + d = 0$$
+
+Here, $$d = -(ax_0 + by_0 + cz_0)$$. This is the *linear equation* in $$\mathbb{R}^3$$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
