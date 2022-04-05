@@ -273,15 +273,47 @@ Pragmatics = use.
 
 ## Chapter 8: BOOLean Algebra
 
+### 8.1: Negation Normal Form
+- Negation Normal form: any negations are in narrow scope.
+- When a sentence is in NNF, the basic units are atomic sentences and negations of atomic sentences combined with disjunctions and conjunctions.
+- Literals: atomic sentences and negations of atomic sentences.
 
+### 8.2: Chain of Equivalences
+- You can keep simplifying an expression using DeMorgan's laws and Double Negation.
 
+```
+~(PvQ) ⇔ ~P&~Q
 
+~(P&Q) ⇔ ~Pv~Q
 
+P ⇔ ~~P
+```
 
+- You must only use one principle at a time.
+- Chain of equivalences: continuous transformations and simplifications as a result of DN and DeM.
 
+```
+~~~(~~(~P&~Q)v~(~R&~S))
+⇔ ~((~P&~Q)v~(~R&~S))   DN
+⇔ ~(~P&~Q)&~~(~R&~S)    DeM
+⇔ ~(~P&~Q)&(~R&~S)      DN
+⇔ ~(~P&~Q)&(~R&~S)      DeM
+⇔ (PvQ)&(~R&~S)         DeM
+```
 
+### 8.3: Distribution Laws
+- Distribution laws:
 
+```
+Pv(Q&R) ⇔ (PvQ)&(PvR)
 
+P&(QvR) ⇔ (P&Q)v(P&R)
+```
+
+- Distribution changes the number of atomics in a sentence, but DeMorgan's doesn't.
+- DeMorgan's law is best thought of as 'flipping' a conjunction to a disjunction and vice versa.
+- Sometimes, you need to distribute with larger 'chunks'. For instance, you can distribute `(A&B)v` in `(A&B)v(C&D)` to form `((A&B)vC)&((A&B)vD)`.
+- After we distribute conjunctions and disjunctions, we don't have disjunctions with wide scope around conjunctions.
 
 
 
