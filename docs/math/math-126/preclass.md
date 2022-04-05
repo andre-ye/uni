@@ -97,5 +97,65 @@ Section 12.5 Part I
   - Two lines intersect if they have a point $$(x, y, z)$$ in common
   - Two lines are skew if they are not parallel and do not intersect.
 
+---
+
+## Week 2 Wednesday (12.5)
+- Vector form of a line: $$\vec{r} = \vec{r}_0 + t\vec{v}$$
+  - $$\vec{v}$$ is the direction vector
+  - $$\vec{r}_0$$ is the position vector.
+- Parameter form of a line: $$x = x_0 + ta, y = y_0 + tb, z = z_0 + tc$$
+  - You can obtain this simply by multiplying out the parameter form of the line, in which you find each component of the line $$\langle x, y, z\rangle$$.
+  - The slopes are the direction vectors, and the $$y$$-intercepts are the position vectors
+- Symmetric form of a line if $$a, b, c \neq 0$$:
+
+$$\frac{x - x_a}{a} = \frac{y - y_0}{b} = \frac{z - z_0}{c}$$
+
+  - Obtained by solving each equation for $$t$$. $$t$$ should be the same for points.
+- Two lines are parallel if their direction vectors are parallel
+- Two vectors intersect if they have a point in common
+- Two lines are skew if they are not parallel and do not intersect.
+- You can specify a certain $$t$$ range.
+- Planes - to find vector equations for all points on a plane.
+- Normal vector - any vector that sticks out in a perpendicular function.
+- Suppose we are given a normal vector (can be found using the cross product), a point $$R$$, and an unknown point $$P(x, y, z)$$.
+  - $$\vec{r} - \vec{r}_0$$ is in the plane.
+  - $$\vec{r} - \vec{r}_0$$ is orthogonal to $$\vec{n}$$, the normal vector.
+  - Vector form: $$(\vec{r} - \vec{r}_0) \cdot \vec{n} = 0$$.
+- If $$\vec{n} = \langle a, b, c \rangle, \vec{r} = \langle x, y, z \rangle, \vec{r}_0 = \langle x_0, y_0, z_0 \rangle$$, then we have
+
+$$a(x - x_0) + b(y - y_0) + c(z - z_0) = 0$$
+
+This is the standard form/scalar equation of the plane.
+
+If two planes are not parallel, they intersect along a line; the acute angle of intersection is the acute angle between their normal vectors.
+
+
+$$\vec{n}_1 \cdot \vec{n}_2 = \| \vec{n}_1 \| \| \vec{n_2} \| \cos \theta$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
