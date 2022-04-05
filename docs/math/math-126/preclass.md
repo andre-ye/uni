@@ -9,7 +9,7 @@ nav_order: 3
 # Preclass Notes
 {: .no_toc }
 
-MATH 125
+MATH 126
 {: .fs-6 .fw-300 }
 
 ---
