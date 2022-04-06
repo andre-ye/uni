@@ -107,9 +107,35 @@ $$\vec{v} \cdot \vec{w} = \| \vec{v} \| \| \vec{w} \| \cos \theta$$
 - Find line equations when two points are given, when one point and a direction is given, and other parallel, orthogonal, etc. features are given.
 
 
+---
 
+## Week 2 Wednesday
+- Quiz tomorrow, in-person.
+- Lines will not be relevant on the quiz tomorrow, topic will cover up to projection.
+- Line: you need a point (position vector, $$A(1, 1, 2) \to \vec{r}_0 = \langle 1, 1, 2 \rangle$$) and a direction vector.
 
+$$\vec{r} = \vec{r}_0 + t \cdot \vec{v}, t \in \mathbb{R}$$
 
+- You can write out individual parametric equations by reading out the data from the vector equation component-wise.
+- By solving for $$t$$ in each of the parametric equations and setting equal to each other, you obtain symmetric form.
+- When switching back from symmetric form to parametric form, you need to introduce the $$t$$ yourself.
+- Lines, two dimensions - need one equality. Lines, three dimensions - need two equalities.
+- Planes are quite different from lines. 
+- Given a plane, a normal vector is any vector that sticks out in a perpendicular way.
+- A plane can be placed in only one way such that it is normal to a given vector. If a normal vector is given, the plane's "direction" is fixed. If another point is given, then the plane's position is fixed too. A normal vector and one point is all you need to determine a plane.
+- Find the normal vector of the plane $$x + 2y - z = 0$$. We get $$\langle 1, 2, -1 \rangle$$ by reading off the coefficient - this is the normal vector of the plane.
+  - Plane equation: any triple $$(x, y, z)$$ that satisfies the condition given is on the plane.
+
+> **Problem.** Find an equation of a line that is orthogonal to the plane $$3x - y + 2z = 10$$ and passes through the point $$P(1, 4, -2)$$.
+
+> **Solution.** The point given is $$(1, 4, -2)$$; the position vector is thus $$\vec{r}_0 = \langle 1, 4, -2 \rangle$$. The direction vector is the normal vector of the plane. The normal vector is given from the plane: $$\vec{r} = \langle 3, -1, 2 \rangle$$.
+
+> **Problem.** Find the equation for the line of intersection of the planes $$x + y + z = 4$$ and $$10x + y - z = 6$$.
+> **Solution.** We begin by solving for $$z$$ and plugging in: $$10x + y - (4 - y - 5x) = 6 \implies 15x + 2y = 10$$. Now,w e can play the plugging-in game! We can set $$x = 0, y = 5$$. We can find $$z$$ by plugigng back: $$z = -1$$. One point can be found as $$(0, 5, -1)$$.The direction vector lies in both planes/is parallel to both planes. *We want to find the vector that is perpendicular to both normal vectors of the plane.* Let $$v$$ be perpendicular to $$\langle 5, 1, 1 \rangle$$ and $$\langle 10, 1, -1 \rangle$$. We can take the cross product $$\langle 5, 1, 1 \rangle \times \langle 10, 1, -1 \rangle = \langle -1 - 1, 10 + 5, 5 - 10 \rangle = \langle -2, 15, -5 \rangle$$.. We get the line equation:
+
+$$\vec{r} = \langle 0, 5, -1 \rangle + t \langle -2, 15, -5 \rangle$$
+
+- To find the line intersection of two given planes, you need to find a point that lies on the line, then find the vector perpendicular to both nromal vectors of the planes.
 
 
 
