@@ -315,9 +315,31 @@ P&(QvR) ⇔ (P&Q)v(P&R)
 - Sometimes, you need to distribute with larger 'chunks'. For instance, you can distribute `(A&B)v` in `(A&B)v(C&D)` to form `((A&B)vC)&((A&B)vD)`.
 - After we distribute conjunctions and disjunctions, we don't have disjunctions with wide scope around conjunctions.
 
+### 8.4: Three More laws
+- BOOL obeys laws that have algebraic counterparts.
+- Associativity
 
+```
+(P&Q)&R ⇔ P&(Q&R)
 
+(PvQ)vR ⇔ Pv(QvR)
+```
 
+- Commutativity
+
+```
+P&Q ⇔ Q&P
+
+PvQ ⇔ QvP
+```
+
+- Idempotence:
+
+```
+P&P ⇔ P
+
+PvP ⇔ P
+```
 
 
 
