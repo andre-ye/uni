@@ -6,7 +6,7 @@ grand_parent: English
 nav_order: 1
 ---
 
-# Lecture Notes
+# Lecture & Class Discussion Notes
 {: .no_toc }
 
 ENGL 308
@@ -197,7 +197,74 @@ Ideas from Discussion
 - There is always a struggle. What are the big ideas?
 - Theory itself is a literary text. It is not merely to be applied.
 
+---
 
+## Week 2 Tuesday, *The Communist Manifesto* Continued
+- What is class?
+- 1840 as the year of revolution
+- What is capital? Capital as social power/people power, or as private property. Competing definitions.
+  - The capitalist: capital = private property
+  - The Marxist: capital = social power
+- Marxism - return social power to the people. Capital as social power, a collective/social product.
+- Capitalist view of capital - owned, held, private.
+- Marxist and Capital views - necessary supplementary, but antagonistic.
+- Who is the bourgeoisie? The Bourgeoisie - the former revolutionary power, seized from the feudal system.
+- The bourgeoisie is a self-created system; all opwer is accumulation. emerge out of the petite bourgeoisie, ownership over the means of production and the production process.
+  - The bourgeoisie accumulate enough to re-invest capital into the generation of capital - accumulation.
+- Continuous revolution creates unsustainable growth, an unsustainable system. Forecasting the global expansion, the shark-like nature of global capitalism.
+- Figure of the sorcerer - conjuring the world and its gravedigger.
+- Instability - not merely fiscal, but continual impoverishment of the poeple that serve as the basis of that world.
+- Most societies are capitalist; in Ameirca, there is the notion of the 'middle class'.
+- Marx - the antagonism is messy in the middle. Petite bourgeoisie.
+- Production of major forces that rub up against each other.
+- The Proletariat - who are the proletariats? How are they described?
+- Page 5 - paid wage laborers. People earn a wage for their labor - labor as their only property - these are the proletariat.
+- Implicit masculinization - but differences in sex are described as transgressed by the reach of capital (pp. 10). Marx understood that childre, women, etc. were especially exploited. Marx's understanding of race is complicated. 
+- Paid vs unpaid laborers - 'paid'ness as essential to the proletariat. Competition on the basis of wage laborer is the basis for capital. 'Enslaved by the machine'. Presents a relevant analysis for slaves, who are unpaid laborers.
+- Is work abstracted and speicalization erased? Or do people retain skills but somehow get projected upon a scale of capital and value?
+- Wage slavery as a term or concept - is this problematic?
+- Ruling ideas are of the bourgeoisie, ideas and ideology. Capital constitutes not only the means of production but a mode of life.
+- What is a class/How is class understood?
+- Class - a relation to capital, creator vs. controller. Influence of power and social relationships.
+  - There must be a struggle, an antagonism.
+  - Complementary - one class cannot exist without the other.
+  - Easy definition of class: a relationship. Relationships change over time. The historical transformation of history is that of class antagonisms.
+  - Communism proposes an overthrow of class, a different existence altogether.
+  - A Utopianism of marxism - the language of league, association, union, continuation
+- Question - how is historical transformation represented in the text? How is a theory of history presented?
+  - History - conflict leads to societal change. 
+  - What counts as history?
+  - Struggle and questions of relationship
+  - How is the question of historical change represented?
+  - History as struggle between the powerless and the powerful, power struggles emerging in cyclic phases as a result of power imbalance that oscillates more wildly and wildly until the 'end of class history' is reached.
+- Pyramid model of class relationships - who is below whom?
+- The petite bourgeoisie
+- History changes from a minoritarian to a majoritarian struggle, from the small to the large. A new kind of history is coming.
+- Marx is to history what Darwin was to evolution, Engels claims.
+  - Evolution - natural transformation, somehow material (?)
+  - Natural/inevitability about transformation.
+  - Evolution is about survival - a materialist analysis.
+  - Inevitability of *historical* transformation, the need for something to happen.
+- Complex interplay between the 'material' and 'pushed' evolution, between an evolution that progresses by itself and an evolution that needs to be pushed along.
+- Some crises don't lead to change, but that they happen is 'fixed'. Not every crisis leads to radical change.
+- Progression - historied progress? Do things move to a place that's better? Does the 'moral arc of history bend towards justice'?
+- Is history cyclical?
+- Inevitability of history: the need for the *Communist Manifesto* as a literary object of history. A push is needed, somehow - even though the *Communist Manifesto* itself rhetorically argues for the inevitability of the rise and victory of the proletariat.
+  - Are these two visions of historical evolution really competing?
+- **What is the theory of literature?** The production of the book itself - literary roles in historical transofrmation.
+- Something antagonistic, unsure, contingent. Uncertainty.
+- There will always be class conflict and crises, but then need to be shaped into.
+- The nuance between gathering and haping - what is the role of literature? What is the role of the material earth?
+  - Gathering - there is a material reality that we lump together into theory and literature
+  - Shaping - contouring and shaping the material reality through theory and literature
+- Pages 6-7: a different paradigm of movement. Marx - what is modernity? Modernity is a world in flux, agitation, change, uncertainty, perpetual flux.
+  > "All that is solid melts into air" -pp.6
+- Globalization - material and intellectual production. World literature emerges from the bourgeoisie - it produces the 'global literature' that leads to its downfall.
+- Prefaces - the translations, The *Communist Manifesto* is world literature, translated by necessity into languages of the world.
+- To whom is the text addressed? A significant part of the proletariat could not read.
+- An alternative view of history and capitalism.
+- A lot of literature calls itself Communist or Socialist - third section is a rebuttal against these systems. Key insight: these systems of thought are out of phase with history. They may have been imported by France but placed into a much different German context, or attempt to dial back history to the feudalist system.
+- The vision: to shape productive forces used for something other than capital.
 
 
 
