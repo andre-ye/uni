@@ -213,7 +213,30 @@ A valid argument!
 - Lost in translation: any meaning that's not truth functional.
 - We can manipulate logical equivalences.
 - DeMorgan's Laws: `~(PvQ) ⇔ ~P&~Q, ~(P&Q) ⇔ ~Pv~Q`.
-- 
+
+---
+
+## Week 2 Wednesday
+- Logical equivalence - two statements covary in truth value.
+- Validity is a syntactic property.
+- BOOL isn't all of logic - what can you do with BOOL? Prove some sentences are equivalent, prove some sentences are not equivalent, for any equivalent sentences, prove they are equivalent, prove some sentences are necessarily true/false, for any logical truth, prove it is necessarily true, prove any tautology fo BOOL is necessarily true, prove some arguments are (in)valid, prove any valid argument is valid.
+- Bivalence - finite. We can prove truth functions are logically equivalent.
+- Limitations to the truth table method: BOOL only covers a part of logic, truth-functional logic. It doesn't cover things that cannot be understood truth-functionally. BOOL cannot prove things without boolean connectives.
+- Tautology: all Truths. Taut-falsity: all Falses. Contingent: at least one Truth or Falsity.
+- There is a technique you can use that goes beyond what BOOL alone can do: but it goves above Boolean logic to delete rows of the truth table. If you are assessing if a statement is a tautology or not, you can use the 'delete rows method'.
+- BOOL does not know anything about the atomic sentences, but you may. You can imagine rows with stupid/illogical atomic value sentences just don't exist. 
+- A logical truth is not necessarily a tautology - it is a logical truth by other areas of logic or reasoning.
+- Tautologies: a type of necessary truth. Logical truths that depend for their truth just on the truth-functional connectives. The truth table is all Ts.
+
+
+
+
+
+
+
+
+
+
 
 
 
