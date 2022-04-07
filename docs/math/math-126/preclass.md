@@ -135,37 +135,34 @@ $$\vec{n}_1 \cdot \vec{n}_2 = \| \vec{n}_1 \| \| \vec{n_2} \| \cos \theta$$
 ---
 
 ## Week 2 Friday (12.6)
-- Cylinders and quadric surfaces.
-- Traces/cross-sections - curves of intersection on the surface with planes paralle to the coordinate planes.
-
-**Cylinders**
-- Consists of all lines that are parallel to a given line and pass through a given plane curve.
-- Parabolic cylinder - made up of infinitely many shifted copies of the same parabola.
-
-**Quadric Surfaces**
-- A quadric surface is the graph of a second degree equation in three variables.
-
-$$Ax^2 + By^2 + Cz^2 + Dxy + Eyz + Fxz + Gx + Hy + Iz + J = 0$$
-
-- To sketch an image, find how traces scale in each dimension.
-- Elliptic paraboloid.
-- Hyperbolic paraboloid - the surface near the middle reflects a saddle.
-- Hyperboloid of one sheet.
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Goal: to become familiarized with 7 three-dimensional shapes and names: cylinders, cones, ellipsoids, paraboloids (2 types), hyperboloids (2 types).
+- Two-dimensional shape review
+  - Line
+  - Parabola: $$ax^2 + by = c$$ or $$ax + by^2 = c$$.
+  - Ellipse: $$ax^2 + by^2 = c$$, $$a, b, c > 0$$.
+  - Hyperbola: $$ax^2 - by^2 = c$$ or $$-ax^2 + by^2 = c$$.
+- Cylinders
+  - If one variable is absent, then the graph is a two-dimensional curve extended into the third dimension.
+  - Circular cylinder: $$x^2 + y^2 = 1$$
+  - Cosine cylinder: $$z = \cos x$$
+- Quadratic surfaces
+  - Any surface given by an equation involving sum of first and second powers of $$x, y, z$$.
+  - $$ax^2 + bx + cy^2 + dy + ez^2 + fz = g$$.
+  - To visualize, use traces. Fix one variable at a time and then find the resulting 2D shape. Fix the other two to find the cross-section and find the resulting plane.
+- Elliptical/Circular Paraboloid
+  - $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = \frac{z}{c}$$
+- Hyperbolic Paraboloid
+  - $$\frac{x^2}{a^2} - \frac{y^2}{b^2} = \frac{z}{c}$$
+  - Traces build together a surface.
+- Ellipsoid/Sphere
+  - $$\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1$$
+- Circular/Elliptical Cone
+  - $$\frac{x^2}{a^2} + \frac{y^2}{eb2} = \frac{z^2}{c^2}$$
+- Hyperboloid of one sheet
+  - $$\frac{x^2}{a^2} + \frac{b^2}{e^2} - \frac{z^2}{f^2}= 1$$
+- Hyperboloid of two sheets
+  - - $$\frac{x^2}{a^2} + \frac{b^2}{e^2} - \frac{z^2}{f^2}= 1$$
+- In all of the above, replace $$\text{var}$$ with $$(\text{var} - r$$ to shift the future. 
 
 
 
