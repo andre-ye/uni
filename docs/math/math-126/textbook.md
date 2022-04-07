@@ -217,7 +217,23 @@ $$ax + by + cz + d = 0$$
 Here, $$d = -(ax_0 + by_0 + cz_0)$$. This is the *linear equation* in $$\mathbb{R}^3$$.
 
 
+### 12.6: Surfaces
+- Cylinders and quadric surfaces.
+- Traces/cross-sections - curves of intersection on the surface with planes paralle to the coordinate planes.
 
+**Cylinders**
+- Consists of all lines that are parallel to a given line and pass through a given plane curve.
+- Parabolic cylinder - made up of infinitely many shifted copies of the same parabola.
+
+**Quadric Surfaces**
+- A quadric surface is the graph of a second degree equation in three variables.
+
+$$Ax^2 + By^2 + Cz^2 + Dxy + Eyz + Fxz + Gx + Hy + Iz + J = 0$$
+
+- To sketch an image, find how traces scale in each dimension.
+- Elliptic paraboloid.
+- Hyperbolic paraboloid - the surface near the middle reflects a saddle.
+- Hyperboloid of one sheet.
 
 
 
