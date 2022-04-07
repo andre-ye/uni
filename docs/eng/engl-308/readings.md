@@ -284,9 +284,11 @@ Crticial-Utopian Socialism and Communism
 - Nippers - whiskered, sallow, piratical, young. An annoyance to the narrator.
 - Ginger Nut - twelve years old. Quick-witted . An errand boy.
 - Bartleby - did an extraordinary amount of writin; no pause. Then; he refused work - "I would prefer not to".
-- 
-- 
-
+- The themes of "passive defiance", negative preference, remaning but not providing the means to remain
+- An existence without labor is an existence that cannot be comprehended by almost anyone.
+- Binarization of the means of labor - one works, or one does not work. One quits, or stays.
+- Authority and enforcement.
+- Government as a monopoly on violence.
 
 
 
