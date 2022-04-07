@@ -341,15 +341,29 @@ P&P ⇔ P
 PvP ⇔ P
 ```
 
+---
 
+## Chapter 9: Logic Gates with BOOL
 
+### 9.1: Binary Numbers
+- Bases: changing the number of things that can be represented with a single 'digit' or 'place'.
+- Binary - a base-two system. Two numerals represent every number.
 
+### 9.2: Numerical Truth Tables
+- We can associate `1 = True` and `0 = False`.
+- The number of rows in a truth table is fixed by the number of atomic sentences - two to the power of the number of atomics.
 
+### 9.3: Electricity
+- Atomic sentence: Gate down/closed = on = true = 1.
+- Switch down/closed = Atomic True
+- Switch up/open = Atomic False
+- Bulb on = Complex True
+- Bulb off = Complex False
+- Series: gates on the same piece of wire. Gates in series always means conjunction - they must all be closed for electricity to flow.
 
-
-
-
-
+### 9.4: BOOLian logic Gates
+- Parallel gates - when gates are separated on different pieces of wire. Parallel gates are represented by disjunctions.
+- Negation - moving the contact such that an 'open position' completes the circuit.
 
 
 
