@@ -361,15 +361,32 @@ PvP ⇔ P
 - Bulb off = Complex False
 - Series: gates on the same piece of wire. Gates in series always means conjunction - they must all be closed for electricity to flow.
 
-### 9.4: BOOLian logic Gates
+### 9.4: BOOLian Logic Gates
 - Parallel gates - when gates are separated on different pieces of wire. Parallel gates are represented by disjunctions.
 - Negation - moving the contact such that an 'open position' completes the circuit.
 
+### 9.5: Building a Computer
+- One of the fundamental jobs of a computer processor is adding numbers.
+- Bit - a binary digit of infromation.
+- We need to wire a machine that computes the following:
 
+| X | Y | Answer |
+| --- | --- | --- |
+| 1 | 1 | 1 0 |
+| 1 | 0 | 0 1 |
+| 0 | 1 | 0 1 |
+| 0 | 0 | 0 0 |
 
+- We can use a sum and carry:
 
+| X | Y | Carry | Sum |
+| --- | --- | --- |
+| 1 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 1 |
+| 0 | 1 | 0 | 1 |
+| 0 | 0 | 0 | 0 |
 
-
+- Sum is XOR: exclusive disjunction. `(P&~Q)v(~P&Q)` or `(PvQ)&~(P&Q)`.
 
 
 
