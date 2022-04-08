@@ -137,7 +137,13 @@ $$\vec{r} = \langle 0, 5, -1 \rangle + t \langle -2, 15, -5 \rangle$$
 
 - To find the line intersection of two given planes, you need to find a point that lies on the line, then find the vector perpendicular to both nromal vectors of the planes.
 
+---
 
+## Week 2 Friday
+- Whenever you set up a plane, you always need a point/position vector and a normal vector.
+- Planes - $$\langle x, y, z \rangle \cdot$$ normal vector $$ = $$ position vector $$\cdot $$ normal vector.
+- Algebraically understanding the perspectives of the shape by taking traces/cross-sections - set a variable to some $$k$$ and simplify. 
+- 
 
 
 
