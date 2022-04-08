@@ -266,6 +266,120 @@ Ideas from Discussion
 - A lot of literature calls itself Communist or Socialist - third section is a rebuttal against these systems. Key insight: these systems of thought are out of phase with history. They may have been imported by France but placed into a much different German context, or attempt to dial back history to the feudalist system.
 - The vision: to shape productive forces used for something other than capital.
 
+---
+
+## Week 2 Thursday, *The Communist Manifesto*, "Theses on Feuerbach", and "Bartleby, The Scrivener"
+- The Melville discussion will continue on to Tuesday.
+- Repsonses - got to half with comments.
+- Overall, the responses were well-written. helpful responses ask questions rather than trying to make full-fledged claims, which arguably we are not ready to make yet.
+- Always double space your reading responses.
+- Previous discussion: tensions between the essence of history - inevitability vs produding. Difference in the modern class tension as to previous class tensions - the proletariat is larger, more powerful, more majoritarian in nature.
+  - Darwinism - the natural, the inevitable, the evolutionary, the teleological
+  - Alternative perspective: history needs to be pushed by those that understand the existing inequalities the best (i.e. the proletariat), to create transofrmation.
+  - *The Communist Manifesto* as a product of oral literature. Capitalism has created the conditions for the liberation of man. Conditions are appropriated for the bourgeoisie, supporting the processes of alienation - but nonetheless Marx and Engels are not interested in a romanticist/idealist anticapitalism, but rather a critical understanding that acknowledges capitalism created the conditions for its fall.
+- *The Communist Manifesto* is not a novel, but a Manifesto. Marx and Engels invent the modern manifesto to talk about revolution.
+- *Theses on Feuerbach* - to paraphrase, the point is not merely to interpret but the change the world.
+- *The Communist Manifesto* is a performative literary work, one that engages in a meaningful, active performnace.
+- *The Communist Manifesto* brings the spectre into the world; it is palpable, comprehendable. The *Manifesto* is the sorcerer itself, too - conjuring alternative realities. As the Sorcerer, the things you conjure may be out of your control.
+- Melting of all that is solid into air - aided and abetted by literature. 
+- The *Manifesto* both records and makes history. *perfromacne*.
+- Can literature do this? We uncover a theory of literature itself.
+- Revolution is a literary battleground, a war of competing cultures, values, and ideas.
+- Materialist idea - we cannot have ideas that are not connected to our material reality. In contrast with idealism - ideas floating out in the ether.
+- The revolution takes place on the page.
+- Section 3: crtiqieu of other socialist ideas, a contoured exploration of the socialist and communist ideologies. Communism - attaches to the proletariat.
+- Professor Weinbaum: celebrate the Communists for being driven not by philosophical experiments but rather by the life, work, and conditions on the ground.
+- Other literature is out of phase with history - it channels ideas into the proletariat, instead of gathering from the proletariat.
+- Feuerbach - a member of the German 'true' socialism ideology.
+- Utopian socialism - interesting in that utopian socialists have actually created communities. There is a long history of utopian organization with alternative ways of life and being. *Eve and the new Jerusalem*. Marx and Engels thought this wrong - a bourgeoisie experiment, for rich people.
+- Responses - idea that came throughout - notes about gender. Marxist feminists point to six key passages in Marx's canon to understand gender.
+- People usually go to Engels - *The Original of the Family, State, and Private Property*.
+- Engagement with native American ethos; the emergent field of anthropology; the Iriquois were a matriarchal society, a precapitalist class. Male power as on top is a fiction invented by bourgeois society; there was a different form of being that preexisted capitalism. Of course, this itself is another fiction. Capitalism overthrows equitable soceity; capitalism needs the oppression of women to go; this is implicitly recognized in the text.
+- Why does the end of capitalism mean the end of gendered oppression? This maintains the fiction of a pre-history.
+- The end of prostitution, and the rise of liberation. Bourgeois women are oppressed by being considered property, but in the working classes the question was women and children, who had no property because no one in the working classes could have property; not specifically acknowledged.
+- The bourgeoisie have already created a ring of prostitution, a 'community of women' - trading wives, whatnot. A rebuttal to the allegation of communism as creating a 'community of women'.
+- We can learn more aobut gender from Communist literature; are women a class? There are women in every class. Is there a cross-cutitng class? 
+- Supplementary systems that need each other - sexism, racism, capitalism, etc.
+- W.E.B. Du Bois, *Black Reconstruction*
+- *The Communist Manifesto* is an index of the speed of communism and the possibility of the idea throughout the world; where is the idea accepted? Where is the internationalism of the working class understood?
+- The preface is celebratory, announcing the expansion of international communism.
+- text as a history of the modern working class movement. 
+- Marx is a humanist - what does capitalism do to human relationships? Produces alienation in three key ways: alientation from the product, alienation from labor, alientation from each other. Lack of humanness - people become commodities and competition.
+- Communism brings about the potential for a new way to relate.
+
+"Theses on Feuerbach"
+- Feuerbach - popular in the 1800s, was a big theorist.
+- Wrote two big books on christianity.x
+- Marx emerged in the German Academy, the Young Hegelians. This text is a criticism of the master; Marx flipped the Hegelian dialectic theory on its head into historical materialism.
+- Hegel - God has no separation from man, it is relating human essence to humans; God is a projection of man. Secular and anti-religious philosophy.
+- Cutting through the alientation with God; alientation is redressed mentally. However, Marx proposed that alientation was not mental, but a material problem. Alientation is a product of the world, of life in capitalism - how and for whom we labor.
+- Three-fold alientation - the way we survive, not projection of hopes onto God.
+- Alientation must be addressed materially. Philosophy cannot get rid of alientation, but material revolution can.
+- "Contemplative Materialism" - materialism that happens int he mind instead of the lived reality.
+- Theses - famous for being short and succint.
+- Marx and Engels, *The German Ideology*. A set of departures.
+- Engels wrot ethe first draft of the *Manifesto*, Marx revised and made final edits.
+- Complex history of transaltion and collaboration.
+
+Melville
+- Melville was a key figure in 19th century literature. He is part of the American literary canon.
+- You don't know the alternatives until you read the canon. Do not discard the works in the cnaon.
+- Born 1819 through 1891 from  a 'double revolutionary' family. The family was left quite poor after the early death of the father. 
+- Melville traveled at sea; upon his return, he began his literary career. He later married and had four children, but lost two (his sons).
+- Melville tries to live in rural Massachusetts and is close friends with Nathaniel Hawthorne. 
+- Stopped writing adventure novels, no longer catering to the literary marketplace - went out of fashion.
+- Canonization came after death, posthumous realization of Melville's formal complexity
+- New Crticisim - interested in form, aesthetics, symbolism - found Melville very relevant.
+- Ecoriticism of Melville.
+- Squatting, property, inequality in New York City.
+  - Jacob Astor - bought up the city, possessed most of lower Manhattan.
+  - Vagrancy was used forcefully in the United States to imprison people who refused to work for a wage. Freed slaves were rounded up into chain gangs to rebuild the South.
+- problems about homelessness in the United States, legal support for the American capitalist system.
+- Slaves were the biggest commodities to the United States.
+
+Questions for the text
+1. How is this a story about life and capitalism?
+2. Is this world literature?
+3. How can we understand Bartleby as a character? 
+4. How does the narrator understand Bartleby?
+5. How does the story offer a crtiique of Christianity?
+6. How does Bartleby's actions impact the people around him?
+7. What is the system of production in the text?
+8. How do we understand the insistence on the world 'prefer'?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
