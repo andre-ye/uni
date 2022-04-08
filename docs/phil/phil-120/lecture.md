@@ -228,11 +228,24 @@ A valid argument!
 - A logical truth is not necessarily a tautology - it is a logical truth by other areas of logic or reasoning.
 - Tautologies: a type of necessary truth. Logical truths that depend for their truth just on the truth-functional connectives. The truth table is all Ts.
 
+---
 
-
-
-
-
+## Week 2 Friday 
+- To be a literal, a sentence cannot be equivalent to an atomic sentence - it must be an atomic sentence or its negation.
+- Interchangeable languages - there are other sets of symbols. Pipes, wedges, up-wedges, double pipes, exclamation marks.
+- The Chart:
+  - Contingent truths > logical truths > tautologies
+  - Contingent falsities > logical falsities > taut-falsities
+- Contingent properties - depend on knowledge about the world.
+- Necessarily true vs logically true
+- Tautologies - a type of necessary truth. 
+- `~(a<a)` is a logical truth, but not a tautology; `a<a` is an atomic sentence.
+- Tautologies - `Pv~P`; logical truths - `~(a<a)`, `~Y`.; contingent truths - `L`, `~S`, `~LvS`
+- `W` - Seattle is in WA - a contingent truth. `~W` - Seattle is not in WA - a contingent falsity.
+- Delete rows method. `Seattle isn't in WA and Pia = Pia`: a contingent falsity. `Seattle isn't in WA or Pia = Pia`: logical truth.
+- Conjunctions are a liability, disjunctions with a truth are logical truths. For some logically true statement `P` and a contingent statement `Q`, `PvQ` is a logical truth and `P&Q` is contingent.
+- Properties of arguments: prove some arguments are valid or invalid.
+- Logical equivalence is the same as bi-directional entailment.
 
 
 
