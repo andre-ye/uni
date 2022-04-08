@@ -290,7 +290,46 @@ Crticial-Utopian Socialism and Communism
 - Authority and enforcement.
 - Government as a monopoly on violence.
 
+---
 
+### "The Ideological Tensions of Capitlaism: Universalism versus Racism and Sexism" by Wallerstein
+- Universalist doctrine - "the brotherhood of man".
+  - Yet this emblem of universalism itself is gendered, implicit exclusive of females. 
+- Universalism is so widely shared - but why do racism and sexism still persist?
+- **Paradox.** The major challenge to racism and sexism has been universalist beliefs, and the major challenge to universalism has been racist and sexist beliefs. *Most of us find it plausible to pursue both simultaneously.*
+  - An enduring, widespread, structural paradox.
+- Previous history: no universalism, prioritization of a clearly demarcated insider over a clearly demarcated outsider, rather than abiding by abstract ideas about *the* human species, etc.
+- Two ways of explaining the oirings of universalism as an ideology. 
+  - Universalism is a culmination of an older intellectual tradition.
+  - Universalism is an idea particularly appropriate to a capitalist world-economy.
+- Moral leap from the recognition of tribal gods to the unicity of God (and the implicit unity of humanity). 
+- Modern Enlightenmnet derived moral equality and human rights from human nature itself - rights are naturally assumed rather than earned.
+- Previously excluded groups have been explicitly included into universalist doctrine. 
+- Capitalist world economy as built upon the endless accumulation of capital. Commodification of everything. (Refer - Marx, *The Communist Manifesto*.)
+- Anything that prevents goods, capital, or labor from being a marketable commodity restrains flows; "particularisms of any kind" challenge the logic of capitalist social relations.
+- We have developed a system of institutions around meritocracy. It is said that meritocracy is economically efficient and politically stabilizing.
+  - Inequalities in the distribution of reward are argued to result from differences in merit. 
+- A meritocracy is a politically very unstable system - this political fragility allows racism and sexism to enter the picture.
+- Race and gender inequalities have increased in the modern world, correlative with the rise of universalist doctrine.
+- Racism is not merely disdain as defined by genetic or social criteria.
+  - Xenophobia in history: we obtain purity of society by ejecting the barbarian, but lose their labor popwer.
+  - A capitalist system needs all labor; ejection is pointless. To maximize capital accumulation, minimize the cost of production and political disruption. Racism is the 'magic formula' for this.
+  - Racism as an ideology: Bartolome de Las Casas argued Indians had souls, they were humans, and the ruels of natural law applied to them. Now, they would form the bottom layer of the work hierarchy.
+  - Racism - the 'ethnicization' of the work force.
+  - Racism allows for boundaries of the past to be combined with present boundaries to hierarchically rank groups.
+  - Accomplishes three things:
+    1. One can expand or contract the 'numbers available' to the bottom class
+    2. One can constantly recreate social communities that socialize children into playing suitable roles
+    3. One can justify capitalism with a non-meritocratic basis.
+- Racism begets sexism - the two are linked. The ethnicization of the work force exists to permit very low wages; low wages are possible because lifetime wage income provides a small amount of total household income.
+- Labor input to non-wage work by women - 'compensates' the lowness of wage income. Sexism allows us not to think about low wages. The role of women in society creates surplus value for the owners of capital.
+- Ageism - we presume that the housewife's work does not create surplus value; neither do the work inputs for the old and young.
+- Universalism-meritocracy: the method by which the system can be legitimized; racism-sexism serving to structure most of the work force.
+- When racism-sexism goes too far, they are resisted by the victims and economic forces.
+- Universalism cannot go too far because it can only be accomplished slowly and is easy to resist. One may denounce it as 'reverse racism'.
+- Capitalism operates by a tense link between universalism and racism-sexism; there is always tension, always swinging from one side to the other. 
+- Over time, the pendulum swings more and more extreme. Accumulation of historical experience. (Marx and the culmination into the victory of the proletariat?)
+- "Our" task: to invent new systems that use neither the ideology of universalism nor of racism-sexism.
 
 
 
