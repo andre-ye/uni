@@ -332,7 +332,41 @@ Crticial-Utopian Socialism and Communism
 - "Our" task: to invent new systems that use neither the ideology of universalism nor of racism-sexism.
 
 
+---
 
+### "Class Conflict in the Capitalist World-Economy" by Immanuel Wallerstein
+- Marx did not invent social class; the greeks knew about it.
+- Marx made key three contributions.
+  1. All history is a history of class struggle.
+  2. A class an sich is not necessarily a class fur sich (implicit vs explicit).
+  3. The fundamental conflict of capitalism is between the owners and non-owners, rather than the productiv enad non-productive sectors.
+- Weber: argued that class was only one of three dimensions among which groups are formed (other two - status and ideology).
+- Social psychologists: the only meaningful construct is a 'subjective' one, in which class membership is determined by thought.
+- Analysts: polarization diminished over time - more than two classes exist.
+- Question: how to interpret Marxist premises. 
+- What are the political consequences of the ways both the bourgeoisie and the proletariat have fit into the capitalist labor division?
+- What is capitalism as a mode of production? Capitalist is the only mode of production in which the maximization of surplus creation is rewarded. The market is a structure, but not an institution. Surplus is maximized for its own sake. The pressure is for constant exapnsion.
+- Capitalism rewards re-investment into itself, rather than consumption.
+- Those who do not accumulate capital, but merely consume surplus, lose out economically.
+- Bourgeoisie: those that receive part of the surplus value they do not create and use it to accumulate capital.
+- The bourgeoisie is not a static phenoemnon.
+- If we accept there is no ideal type of a bourgeoisie or a proletariat, we must deifne classes in terms of processes. One becomes a bourgeois by achievement in the market, but even more significantly by inheritance.
+- Stauts - fossilization of past achievement rewards.
+- Three segments of thed bourgeousie - the noveaux riches, the coasters, and the descendants. The third is the largest by far, the source of stability in the bourgeois class.
+- Intra-bourgeois conflict between the progressive and reactionary groups. The largest segment of the bourgeoisie have both privilege in class and status terms, and do not los from either of the definitions. These conflicts shake up the system.
+- Proletariat - those who yield part of the value they have created to others. The polarity here is structural; one must take what they have not created for reinvestment or yield it to others for reinvestment.
+- Eight sorts of workers: the classic worker, the petty producers, the tenant farmer, the sharecropper, the peon, the slave.
+- Wage labor is probably the most highly paid forms of labor. Thus, wage labor has never been the exclusive form of labor.
+- Capitalism has contradictions: what is profitable in the short run is not necessarily profitable in the long run. 
+- Proletarianization - increasing percentage of wage labor.
+- At a certain level of income and rights, the proletarian becomes the bourgeois. 
+- The role of the state in capitalism. State: to augment the advantage of some against others in the market - to reduce the freedom of the market. Transfer income; market restriction; restraining.
+- A state's sovereignty is a claim to the monopolization of violence.
+- Many bourgeois share the surplus value of one proletarian.
+- The transfer of surplus value crosses national boundaries. 
+- States are the primary arena of political conflict in a capitalist world economy.
+- Capitalism is a system in which the surplus value of the proletarian is appropriated by the bourgeois.
+- Concepts of - core, semiperiphery, periphery.
 
 
 
