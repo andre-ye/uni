@@ -388,6 +388,95 @@ PvP ⇔ P
 
 - Sum is XOR: exclusive disjunction. `(P&~Q)v(~P&Q)` or `(PvQ)&~(P&Q)`.
 
+---
+
+## Chapter 10: Proofs, Formal and Informal
+### 10.1: WHat's a Proof?
+- Proof: a step-by-step explanation from which something necessarily does or does not follow.
+- Proof: a demonstration that an argument is valid or invalid.
+- A proof is not an argument.
+- Proofs can be good or bad, successful or unsuccessful.
+- Steps in a proof must be obvious and valid for a proof to be good.
+- Formal proofs: written in BOOL.
+- Informal proofs: written in English.
+
+### 10.2: Informal Proofs
+- Intermediary conclusion: the conclusion of one of the inferential steps used to reach the final conclusion.
+- Common parts of a proof:
+  1. Opening: stating "proof" at the start to clarify what you're doing.
+  2. Restating a premise.
+  3. Justifying an inference.
+  4. Stating an intermediary conclusion.
+  5. Stating the final conclusion.
+  6. Closing: stating "done" or "Q.E.D." or ∎.
+- Q.E.D. - Latin, 'Done'. ∎ - tombstone symbol.
+- A proof does not need to use every premise in the argument.
+
+### 10.3: Counterexamples
+- A proof can show that an argument is invalid via the counterexample.
+- Counterexmaple: a specific case showing the premises can be true and the conclusion false.
+- All proofs of invalidity start with "Proof by counterexample."
+
+---
+
+## Chapter 11: Formal Proofs
+
+### 11.1: &Elim
+- Final feature we will add to BOOL: a formal proof system.
+- Formal proof: a table with three columns that follows certain rules.
+- First column: numbers; second: BOOL sentneces; third: citations/justifications.
+-  `Premise` - justifies premises.
+- `&Elim` - conjunction elimination. How to use or eliminate a wide-scope conjounction.
+- When you use `&Elim`, you must cite exactly one sentence; a semicolon goes between the rule name and the line number it cites.
+- All formal proof rules only apply to the main connective.
+
+### 11.2: &Intro
+- `&Intro` can be used to 'introduce' a conjunction.
+- Conjunction always requires two sentences. `&Intro` must cite two lines.
+
+```
+1. P     Premise
+2. Q     Premise
+3. Q&P   &Intro;1,2
+```
+
+### 11.3: ~Elim
+- You can use `~Elim` to eliminate two negations together.
+
+```
+1. Q&~~R   Premise
+2. Q       &Elim;1
+3. ~~R     &Elim;1
+4. R       ~Elim;3
+5. Q&R     &Intro;2,4
+```
+
+### 11.4: vIntro
+- You can use `vIntro` to introduce disjunction operations.
+
+```
+1. ~~P&~~~Q  Premise
+2. ~~~Q      &Elim;1
+3. ~Q        ~Elim;2
+4. Rv~Q      vIntro;3
+```
+- You can add complex sentences as disjuncts.
+
+### Reit
+- Reit: reiteration. Allows you to repeat the previous line.
+- Reit is always valid because if circular reasoning.
+
+```
+1. P    Premise
+2. P    Reit;1
+3. P&P  &Intro;1,2
+```
+
+
+
+
+
+
 
 
 
