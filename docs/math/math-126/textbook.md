@@ -231,10 +231,41 @@ Here, $$d = -(ax_0 + by_0 + cz_0)$$. This is the *linear equation* in $$\mathbb{
 $$Ax^2 + By^2 + Cz^2 + Dxy + Eyz + Fxz + Gx + Hy + Iz + J = 0$$
 
 - To sketch an image, find how traces scale in each dimension.
-- Elliptic paraboloid.
-- Hyperbolic paraboloid - the surface near the middle reflects a saddle.
-- Hyperboloid of one sheet.
 
+---
+
+## Chapter 13: Vector Functions
+
+### 13.1: Vector Functions and Space Curves
+- Vector-valued function/vector function: a function whose domain is a set of real numbers and whose range is a set of vectors.
+- Each number $$t$$ in the domain of $$\mathbf{r}$$ has a unique vector in $$\mathbf{V}_3$$.
+- If $$\{f(t), g(t), h(t)}$$ are components of the vector $$\mathbf{r}44, we have:
+
+$$\mathbf{r}(t) = \langle f(t), g(t), h(t) \rangle = f(t) \vec{i} + g(t) \vec{j} + h(t) \vec{k}$$
+
+Limits and Continuity.
+
+- The limit of a vector function is defined by taking the limits of the component functions.
+
+$$\lim_{t\to a} \mathbf{r}(t) = \langle \lim_{t\to a} f(t), \lim_{t\to a} g(t), \lim_{t\to a} h(t) \rangle$$
+
+- Taking the limit can be interpreted as saying that the length and direction of the vector $$\mathbf{r}$$ approach the length and direction of the vector $$\vec{L}$$ (where $$\vec{L}$$ is the result of the limit.
+- A vector function is continuous at $$a$$ if $$\lim_{t\to a} \mathbf{r}(t) = \mathbf{r}(a)44.
+  - The component functions of a vector function must all be continuous at $$a$$ for the vector function itself to be considered continuous at $$\vec{a}$$.
+
+Space curves.
+- Set $$C$$ of all points $$(x, y, z)$$ with $$x = f(t), y=g(t), z = h(t)$$, the space curve is derived by tracing $$t$$ through an interval $$I$$.
+- The equations are the parametric equations of $$C$$; $$t$$ is the parameter.
+- Any continuous vector defines  space curve $$C$$ traced out by moving the tip of the moving vector $$\mathbf{r}(t)$$.
+- Plane curves can be represented in vector notation. The curve given by the parametric equations $$x = t^2 - 2t$$ and $$y = t  + 1$$ can be described via
+
+$$\mathbf{r}(t) = \langle t^2 - 2t, t + 1 \rangle$$
+
+- Helix: given by $$x = \cos t, y = \sin t, z = t$$
+
+### 13.2: Derivatives and Integrals of Vector Functions
+
+**Derivatives.**
 
 
 
