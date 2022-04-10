@@ -161,11 +161,28 @@ $$\vec{n}_1 \cdot \vec{n}_2 = \| \vec{n}_1 \| \| \vec{n_2} \| \cos \theta$$
 - Hyperboloid of one sheet
   - $$\frac{x^2}{a^2} + \frac{b^2}{e^2} - \frac{z^2}{f^2}= 1$$
 - Hyperboloid of two sheets
-  - - $$\frac{x^2}{a^2} + \frac{b^2}{e^2} - \frac{z^2}{f^2}= 1$$
+  - $$\frac{x^2}{a^2} + \frac{b^2}{e^2} - \frac{z^2}{f^2}= 1$$
 - In all of the above, replace $$\text{var}$$ with $$(\text{var} - r$$ to shift the future. 
 
+---
 
-
+## Week 3 Monday (13.1)
+- Goals:
+  1. Given curve equations, describe what the curve looks like
+  2. Given surfaces, find curve equations for the intersections
+- We allow for vector components to be expressions of an independent variable $$t$$. You can read out the parametric equations component-wise.
+- Space curve. A line is indeed a space curve with a specific term in which the $$t$$ can be factored out.
+- How does the space curve look like in the $$x, y, z$$ coordinate systems? There is no $$t$$ in the coordinate system - $$t$$ is just a parameter, a time.
+- Eliminate $$t$$ from the equation and find the curve in the $$x, y, z$$ coordinate system.
+- Surface of motion - the surface upon which the particle moves. We must have one equation.
+- When trigonometry is involved, invoke the Pythagorean theorem. In general algebra, try to use substitution to obtain only one equation involving $$x$$ and/or $$y$$ and/or $$z$$.
+- Intersection between a curve and a surface: plug in and solve for times, then plug back into the curve or the surface to obtain points.
+- Intersection between two curves: do they intersect? Do they collide?
+- Intersecting two surfaces. Begin by finding a parametrization for two surfaces. 
+  - Let one of $$x, y, z$$ be equal to $$t$$ and solve the others in terms of $$t$$.
+    - Set the most complicated independent variable to $$t$$.
+  - For circles/ellipses, try $$x = a\cos t$$ and $$y = b\sin t$$.
+- 
 
 
 
