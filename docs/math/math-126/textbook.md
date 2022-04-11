@@ -266,6 +266,15 @@ $$\mathbf{r}(t) = \langle t^2 - 2t, t + 1 \rangle$$
 ### 13.2: Derivatives and Integrals of Vector Functions
 
 **Derivatives.**
+- The derivative of a vector function $$\mathbf{r}$$ is dfined similarly for real-valued functions. Take the derivative of the element-wise component functions.
+- The second derivaitv eof  avector function is the derivative of $$\mathbf{r}$$.
+
+**Differentiation Rules**
+- Differentiation formulas for real-valued functions have counterparts for vector-valued functions.
+
+![image](https://user-images.githubusercontent.com/73039742/162805110-15af275f-d89a-47d1-ad48-b49c115936c1.png)
+
+
 
 
 
