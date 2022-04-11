@@ -247,7 +247,26 @@ A valid argument!
 - Properties of arguments: prove some arguments are valid or invalid.
 - Logical equivalence is the same as bi-directional entailment.
 
+---
 
+## Week 3 Monday
+- Proofs - an important application of BOOL. We can add a computational proof-making system that gives BOOL a lot of power to prove (in)validity.
+- This property of BOOL is essential in terms of the import of logic to our everyday lives.
+- Negation Normal Form (NNF): sentences made of &, v, and literals in which all `~` are in narrow scope, just operating on atomics.
+
+```
+~((P&~Q)v~(R&S))
+~(P&~Q)&(R&S)
+(~PvQ)&R&S)
+```
+
+- Chain of equivalences
+- You don't have to use all of the premises in a proof.
+- In the proof space, we begin with `Proof:` and end with `Done.`
+- Proof: a step-by-step demonstration of validity or invalidity; it is not an argument. Every step must be both valid and obvious.
+- Characteristics of proofs: restating a premise, intermediary conclusions, final conclusion.
+- Formal: in BOOL using syntactic inference rules - intro, elim, reit. Informal: in English using 'obviously' valid inferences. Valid (Truth Table Method, Other methods) and Invalid (Counterexample).
+- Formal proofs cannot prove that an argument is invalid. Proofs of an invalid argument must be informal.
 
 
 
