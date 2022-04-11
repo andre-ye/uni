@@ -143,7 +143,34 @@ $$\vec{r} = \langle 0, 5, -1 \rangle + t \langle -2, 15, -5 \rangle$$
 - Whenever you set up a plane, you always need a point/position vector and a normal vector.
 - Planes - $$\langle x, y, z \rangle \cdot$$ normal vector $$ = $$ position vector $$\cdot $$ normal vector.
 - Algebraically understanding the perspectives of the shape by taking traces/cross-sections - set a variable to some $$k$$ and simplify. 
-- 
+
+---
+
+## Week 3 Monday
+- Getting a picture of a space curve.
+- Find the path of a space curve that is independent of any time $$t$$, like the symmetric form of a line.
+- We lose the information w.r.t. time, but we see the path as a whole.
+- Surface of motion - get rid of $$t$$ by substituting with the goal of having one equation in $$x, y, z$$.
+- A surface of motion needs only two variables at minimum from $${x, y, z}$$.
+- Intersecting objects - we want to come up with a curve. We might have two 3d objects: if you intersect those, you get a curve.
+- When we intersect two curves, you need to introduce a different name for the other parameter. Otherwise, you are looking for a collision rather than for an intersection. Set expressions for time in relation to each axis and set equal, then solve for the system of equations.
+- Intersecting two surfaces - how can we come up with a curve equation?
+  - If there are circles involved ($$a^2 + b^2$$), you can try a trigonometric parametrization ($$x = \cos t$$, $$y = \sin t$$, etc.)
+  - Alternatively, try setting $$x=t, y=t, \| z=t$$
+
+
+> **Problem.** Find the parametric equations that represent the curve of intersection between the surfaces $$x^2 + y^2 = 4$$ and $$z = xy$$.
+
+> **Solution.** $$x = 2 \cos t$$, $$y = 2 \sin t$$, $$z = 4 \cos t \sin t$$.
+
+
+
+
+
+
+
+
+
 
 
 
