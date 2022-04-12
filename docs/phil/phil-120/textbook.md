@@ -473,7 +473,9 @@ PvP ⇔ P
 ```
 
 
+---
 
+## Chapter 12: Proof by Cases
 
 
 
