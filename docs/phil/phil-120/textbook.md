@@ -477,9 +477,28 @@ PvP ⇔ P
 
 ## Chapter 12: Proof by Cases
 
+### 12.1: Proof by Cases
+1. Start by saying "Proof by cases".
+2. Restate the disjunction you are using to structure the proof aroudn.
+3. Create a case for each disjunct in the disjunction.
+  1. "Case 1: Assume..."
+  2. "Case 2: Asume..."
+4. Prove that the same conclusion follows in each case.
+5. "So we know that [the conclusion] follows in every case. Done."
 
+### 12.2: vElim
+- vElim is the formal proof rule that goes with proof by cases.
+- vElim works like proof by cases; we need to formally model temporary assumptions for each case.
+- Subproof: a mini proof inside of a main proof. 
 
-
+```
+1. PvQ     Premise
+2. | P     Assume
+3. | QvP   vIntro;2
+4. | Q     Assume
+5. | QvP   vIntro;4
+6. QvP     vElim;1,2-3,4-5
+```
 
 
 
