@@ -182,7 +182,39 @@ $$\vec{n}_1 \cdot \vec{n}_2 = \| \vec{n}_1 \| \| \vec{n_2} \| \cos \theta$$
   - Let one of $$x, y, z$$ be equal to $$t$$ and solve the others in terms of $$t$$.
     - Set the most complicated independent variable to $$t$$.
   - For circles/ellipses, try $$x = a\cos t$$ and $$y = b\sin t$$.
+
+---
+
+## Week 3 Wednesday (13.2)
+- Derivatives and integrals of vector functions.
+- $$t$$ can be interpreted as a time.
+- Limit of a vector: take the limits of the individual components of a vector function.
+- Derivative of the vector: take component-wise derivative.
+- Continuous vector functions
+- The unit tangent vector $$\vec{T}(t) = \frac{\vec{r}'t}{\| \vec{r}'(t) \|}$$.
+- The tangent vector cannot be a zero-vector.
+- The tangent line is parallel to $$\vec{r}'(t)$$ and passes through the point $$\vec{r}(t)$$.
+- The integral of a vector is done component-wise.
+- The distance traveled on a curve from time $$a$$ to $$b$$ is:
+
+$$\int_a^b \| \vec{r}'(t) \| dt = \int_a^b \sqrt{x'(t)^2 + y'(t)^2 + z'(t)^2} dt$$
+
+- This is arc length if the arc is not traversed multiple times.
 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
