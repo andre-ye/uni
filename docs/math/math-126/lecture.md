@@ -164,7 +164,21 @@ $$\vec{r} = \langle 0, 5, -1 \rangle + t \langle -2, 15, -5 \rangle$$
 > **Solution.** $$x = 2 \cos t$$, $$y = 2 \sin t$$, $$z = 4 \cos t \sin t$$.
 
 
+---
 
+## Week 3 Wednesday - Vector Derivatives and Integrals
+- Today - perform calculus with these curves; we can derive and integrate the function.
+- Everything goes component-wise; we just take the derivatives and integrals component-wise. In this sense, there is nothing new.
+- We need to give a notation to the component-wise derivative. 
+- Norm the vector - scale by the length/magnitude of the vector such that it has a magnitude of 1.
+- $$T(t) = \frac{r'(t)}{\| r'(t) \| }$$, unit tangent vector (assuming the tangent vector is not a zero vector).
+- Three different multiplications - dot product, cross product, scalar product. Each can be a vector in $$t$$.
+- Derivative - what rules apply? The product rule works with every product - $$(fg)' = f'g + fg'$$ for any of the defined vector multiplications.
+- Distance travelled - measure the length of the curve assuming the curve is traversed only once.
+
+$$\int_a^b \int{(x'(t)^2 + y'(t)^2 + z'(t)^2}$$
+
+- Fact about planes: an arbitrary point $$P \langle x, y, z \rangle \cdot n = \langle \text{point} \rangle \cdot n$$. Originates from $$(\langle x, y, z \rangle - \langle \text{point} \rangle ) \cdot n = 0$$; the difference vector is always orthogonal to the normal vector, thus the dot product is 0.
 
 
 
