@@ -388,6 +388,48 @@ Crticial-Utopian Socialism and Communism
 - Reconstruction as America's second founding.
 - Education and contemporary narratives of slavery. Parchment rights vs - conditions of economics and sustinence.
 - Black people - the only race in the US to ever start out as an entire people with near 0 capital.
+- Many white American families descend from homesteaders.
+- Incalculable destruction of black property and life in the 1900s.
+- Many public policies provided white Americans with tools to advance social welfare.
+- The civil rights movement ended white advantage by law; changing laws marks the end of obligation.
+- Legislation stopped further sanctioned explicit damage, but did not repair a history of sanctioned and explicit damage.
+- King is misquoted and misunderstood by white Americans seeking to weave convenient and somewhat shallow narratives.
+- Americans are unaware about the persistence of racial economic inequality in the US.
+- The racial wealth gap and questions of responsibility.
+- The ability to purchase a first home is seldom the result of hard work and wise spending.
+- Wealth begets wealth.
+- Reparations can be used to remedy the racial wealth chasm.
+
+> "Reparations are not about punishing white Americans, and white Americans are not the ones who would pay for them. It does not matter if your ancestors engaged in slavery or if you just immigrated here two weeks ago. Reparations are a societal obligation in a nation where our Constitution sanctioned slavery, Congress passed laws protecting it and our federal government initiated, condoned and practiced legal racial segregation and discrimination against black Americans until half a century ago. And so it is the federal government that pays."
+
+- Congress allocates money to support Holocaust survivors, but refused to pass H.R. 40 - a bill to simply study reparations.
+- Has the coronavirus changed things? It has dug up what is hiding beneath.
+
+> "If black lives are to truly matter in America, this nation must move beyond slogans and symbolism. Citizens don’t inherit just the glory of their nation, but its wrongs too. A truly great country does not ignore or excuse its sins. It confronts them and then works to make them right. If we are to be redeemed, if we are to live up to the magnificent ideals upon which we were founded, we must do what is just. It is time for this country to pay its debt. It is time for reparations."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
