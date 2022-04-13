@@ -504,7 +504,20 @@ PvP ⇔ P
 - Solving Knights and Knaves problems via proof by cases.
 - `x` is a knight or knave, or `y` is a knight or knave. Temporarily assuming `x` is a knight/knave, what holds true?
 
+---
 
+## Chapter 13: Reductio
+
+### 13.1: Reductio ad absurdum
+- `~Intro` is paired with an informal proof method that pairs it. Proof by contradiction, reductio ad absurdom, reductio.
+- `~Intro` and Reductio: how to reason to a negation, formally and informally.
+- If you can make a temporary assumption and show that a contradiction results, then you know that `~assumption` is true.
+- Constructing reductio proofs:
+  1. Start with "proof by contradiction/reductio."
+  2. Write "assume for reductio ..., we want to show a contradiction results."
+  3. Demonstrate how a contradiction results.
+  4. Write "hence we know ... by reductio. Done."
+- 
 
 
 
