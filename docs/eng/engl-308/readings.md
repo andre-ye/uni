@@ -368,6 +368,41 @@ Crticial-Utopian Socialism and Communism
 - Capitalism is a system in which the surplus value of the proletarian is appropriated by the bourgeois.
 - Concepts of - core, semiperiphery, periphery.
 
+---
+
+### "What is Owed" by Nicole Hannah-Jones
+- Black uprisings swept the United States in the mid-1960s; Johnson created the Kerner Commission. Americans voted a 'law and order' president - Nixon - who halted that work.
+- Swift developments: George Floyd, Black Lives matter, 
+- Multigenerational protest army. 
+- COVID-19 and awareness of racialized class divide
+
+> "The names of the mechanisms of social control have changed, but the presumption that white patrollers have the legal right to kill black people deemed to have committed minor infractions or to have breached the social order has remained."
+
+- To fully address inequality, we must get to the root of it.
+- Lack of wealth has defined post-slavery black life. Wealth is the means to security in America.
+- Poll taxes - rules and policies involving money can effectively enforce segregation.
+- Black Americans with high incomes are still black and face discrimination due to lack of intergenerational wealth.
+- Today's racism was conjured centuries ago to justify generation of capital from black people.
+- The white planter class earned their living from free black labor and with products produced from slave labor.
+- Slavery and racial apartheid as economic exploitation
+- Reconstruction as America's second founding.
+- Education and contemporary narratives of slavery. Parchment rights vs - conditions of economics and sustinence.
+- Black people - the only race in the US to ever start out as an entire people with near 0 capital.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
