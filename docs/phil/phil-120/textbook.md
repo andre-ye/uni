@@ -500,7 +500,9 @@ PvP ⇔ P
 6. QvP     vElim;1,2-3,4-5
 ```
 
-
+### 12.3: Knights and Knaves
+- Solving Knights and Knaves problems via proof by cases.
+- `x` is a knight or knave, or `y` is a knight or knave. Temporarily assuming `x` is a knight/knave, what holds true?
 
 
 
