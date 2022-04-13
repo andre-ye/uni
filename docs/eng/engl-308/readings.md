@@ -371,6 +371,8 @@ Crticial-Utopian Socialism and Communism
 ---
 
 ### "What is Owed" by Nicole Hannah-Jones
+Access [here](https://www.nytimes.com/interactive/2020/06/24/magazine/reparations-slavery.html) (link: `https://www.nytimes.com/interactive/2020/06/24/magazine/reparations-slavery.html`).
+
 - Black uprisings swept the United States in the mid-1960s; Johnson created the Kerner Commission. Americans voted a 'law and order' president - Nixon - who halted that work.
 - Swift developments: George Floyd, Black Lives matter, 
 - Multigenerational protest army. 
