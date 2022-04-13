@@ -268,6 +268,26 @@ A valid argument!
 - Formal: in BOOL using syntactic inference rules - intro, elim, reit. Informal: in English using 'obviously' valid inferences. Valid (Truth Table Method, Other methods) and Invalid (Counterexample).
 - Formal proofs cannot prove that an argument is invalid. Proofs of an invalid argument must be informal.
 
+---
+
+## Week 3 Wednesday
+- The position of the gates doesn't matter - it is the architecture/relationship between the possible truth values of each that matter.
+- History of computing: finding better engineering solutions for the engineering problem of negation.
+- Fluid computers: make fluid the basic state and run bubbles through the computation system.
+- Problem of unstated assumptions for informal proofs in English - proving something requires disambiguating concepts.
+- Counterexample: a specific case in which the premises are true and the conclusion is false. Giving a counterexample is a type of informal proof.
+- Venn Diagrams - encoding information from a truth table using Venn Diagrams. We could do this task entirely with pictures rather than with symbols.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
