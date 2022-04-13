@@ -274,11 +274,17 @@ $$\mathbf{r}(t) = \langle t^2 - 2t, t + 1 \rangle$$
 
 ![image](https://user-images.githubusercontent.com/73039742/162805110-15af275f-d89a-47d1-ad48-b49c115936c1.png)
 
+**Integrals.**
+- You can integrate component-wise, like normal.
 
+### 13.3: Arc Length and Curvatutre
 
+$$L = \int_a^b \int{f'(t)^2 + g'(t)^2 + g'(t)^2}$$
 
+$$L = \int_a^b \| r'(t) \| dt$$
 
-
+- $$r(t)$$ is the position vector, $$r'(t)$$ is the velocity vector, $$\| r'(t) \|$$ is the speed. To compute distance traveled, integrate speed.
+- 
 
 
 
