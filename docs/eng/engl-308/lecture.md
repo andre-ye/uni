@@ -347,8 +347,68 @@ Questions for the text
 7. What is the system of production in the text?
 8. How do we understand the insistence on the world 'prefer'?
 
+---
 
+## Week 3 Tuesday, "Bartleby, the Scrivener" and “The Ideological Tensions of Capitlaism: Universalism versus Racism and Sexism” by Wallerstein
+- We are now entering a unit on racial capitalism - intersection of race and class.
+- A film is assigned for next Thursday: film watching should not merely be passive. Start and pause, engage with the film, watch multiple times if needed.
+- Look for significant phrases, camera operations, etc.
+- Upcoming Thursday - popular pieces on racism and capitalism, slavery and capitalism. Prof. Weinbaum likes to teach the 1619 project, which has been attacked significantly; students should read the writing being attacked and understand the attack. There are some good critiques of the 1619 project, specifically from a historical angle.
 
+"Bartleby, the Scrivener", Melville
+- We are building upon what was said in the discussion. 
+- Melville - very careful writer from the perspective of the bourgeois. Develops the consciousness of the capitalist. 
+- How does the narrator understnad the worker? How do we get to and understand the essence of capitalism when the dominant ideology supports it?
+- The narrator's attitude towards Bartleby is problematic
+- Understand that 'prfer' is a passive expression of refusal, a brilliant response that makes us aware that the refusal is made in a constrained situation.
+- What can't the other workers see? What if they do know or understand what Bartleby is doing, but the narrator cannot reliably capture it?
+- What is Bartleby protesting, if he is protesting?
+- Conditions - everyone is segmented, separated, divided between people.
+- Factory-like work: long hours, uncomfortable workspaces, incredible strain on the bodies.
+- Nippers, Turkey, Ginger-Nut: all foods. Status as a commodity.
+- What's happening at the end of the piece?
+- MOdern usage of the word 'critique' comes from Marx. Is "Bartleby, the Scrivener" a critique of capitalism?
+- What are we to make of the end of thes tory?
+- Interchangeable properties - geared towards capitalism.
+- What is the state of the narrator before/after Bartleby's imprisonment, then before/after Bartleby's death?
+- Pity and self-centeredness, Christian help complex. Wallerstein: workers as subject to change in administration.
+- Is "Bartleby, the Scrivener" a lament, despair of life in capitalism? An argument against individualism? Or a tale of abandonmnet, of letters that failed, that didn't do what they were supposed to do, crushed like a dead letter. Bartleby is a letter that has no recipient, the world literature without a world.
+- Cognitive distortion around Bartleby - what is Bartleby's role in social relations?
+- What if writing has no recipient? What if nothing happens? "Ah, Bartleby! Ah, humanity!"
+- Obfuscation of responsibility: "It was not I that brought you here" - guilt, assimilation, excalpation, mask of complicit involvement, savior complex/moral bankrupcy, false fraternity
+- Humanization that's not quite humanizing. Capitalism: branding unearned privilege and power as earned. Meritocracy - Wallerstein.
+- Fiction can give us the interiority of life in capitalism that theorys truggles with.
+- Comparison of the workplace to the jail: green screen vs the green grass, looking at dead walls, imprisonment and work are parallel.
+- What letter can get into the consciousness? What sort of letter will be read?
+- Melville as Bartleby, a lament of writing letters that have no recipient. Objectivity in capitalism: numbing effects of life in capitalism.
+
+“The Ideological Tensions of Capitlaism: Universalism versus Racism and Sexism”, Wallerstein
+- How did Marx understand race?
+- S. Hall: race is the modality in which class is lived. Is gender/sexuality/ableism a link too?
+- In traditional Marxism, class is pulled as separate.
+- Who is the proletariat today? What has come together?
+- Wallerstein - a Marxist sociologist, focuse don economic questions.
+- Began studying postcolonial Affirca, particularly South Africa. Studied Apartheid: how is global positioning dependent on a racial caste system?
+- Developer of World Systems Theory, a subset of Marxist scholarship: a way of thinking about global capitlaism.
+- Anticipates the North/South global conflict at a time in which the dominant mode of scholarship on global conflict was focused on the East-West Cold War/Communism-Capitalism dynamic.
+- Two ideas: the core and the periphery. These are racialized terms, dependency theorists. We have primarily bourgeois nations that function in the world as bourgoeis entities, and there are majority proletariat nations that constitute the periphery.
+- Does not believe in the 'third world', but rather the one world system separated into labor and capital.
+- Do you need to be paid to be the proletariat? There are 17 million slaves today: we are moving towards a world with increasing slavery. Periphery provides the mateirals that the core accumulates and uses to produce items that the periphery are forced to consume.
+- No nation is completely one or another statically. (e.g. China)
+- There is a South in the north - poverty in very wealthy nations. 
+- Questions to think about:
+  1. How does Wallerstein build the argument? Where does he stand?
+  2. How does capitalism emerge as a universal system?
+  3. How does capitlaism rely upon particularity?
+- Key terms: universality, particularity, meritocracy.
+- Argument about capitalism as meritocracy. Everything tells us that capitalism is meritocracy.
+- Intellectula history of the development of capitalism: one way that universality can be preserved through Enlightenment philosophy.
+- Natural states - the Enlightenment gives us a lot of ideas to support Enlightenmnet ideology; you can't have capitalism without the Enlightenmnet/Protestantism (anti-Weberians).
+- Universal citizenship - universal applicability of these systems, categories of accountability, as if they are available to all.
+- **Universality is always undercut by particularity. There is no universality without particularity.** A universal system must have exclusion - if everyone had citizenship, then there is no citizenry at all. Universality is predicated upon the production of particularisms.
+- Nothing cannot be turned into a commodity. PSV - slave doctrines.
+- The commodification of repdocution and of life itself. Surrogacy is a multi-billion dollar business.
+- Meritocracy is unstable. People don't want to be told that someone else is doing better because they worked harder, but because they inherited it. **You restabilize meritocracy with the inventions of populations that don't deserve - racism, sexism, etc.**
 
 
 
