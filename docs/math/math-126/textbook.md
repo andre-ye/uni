@@ -284,13 +284,23 @@ $$L = \int_a^b \int{f'(t)^2 + g'(t)^2 + g'(t)^2}$$
 $$L = \int_a^b \| r'(t) \| dt$$
 
 - $$r(t)$$ is the position vector, $$r'(t)$$ is the velocity vector, $$\| r'(t) \|$$ is the speed. To compute distance traveled, integrate speed.
-- 
 
+**The Arc Length Function**
+- Arc length function $$s$$: defined as follows for some $$a$$:
 
+$$s(t) = \int_a^t \| \vec{r}'(u) \| du$$
 
+- We see that $$\frac{ds}{dt} = \| \vec{r} '(t) \|$$
+- It is useful to parametrize a curve w.r.t. arc length - arc length arises naturally from the curve shape and is not coordinate-dependent.
+  - Solve for $$t$$ as a function of $$s$$, then reparametrize in terms of $$s$$.
 
+**Curvature**
+- A parametrization is smooth on an interval if the derivative is continuous and $$\vec{r}'(t) \neq 0$$. A curve is smooth if it has a smooth parametrization. Smooth curves have no sharp corners; the tangent vector turns continuously.
+- Curvature - measure of how quickly the curve changes direction.
+- The curvature of a curve is $$\| \frac{d\vec{T}}{ds} \| = \| \frac{\vec{T}'(t)}{\vec{r}'(t)} \|$$, where $$\vec{T}$$ is the unit tangent vector.
+- The curvature of the curve given by a vector function $$\vec{r}$$ is
 
-
+$$\frac{\| \vec{r}'(t) \times \vec{r} ''(t) \|}{\| \vec{r}'(t) \| ^3}
 
 
 
