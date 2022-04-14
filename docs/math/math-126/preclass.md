@@ -200,7 +200,41 @@ $$\vec{n}_1 \cdot \vec{n}_2 = \| \vec{n}_1 \| \| \vec{n_2} \| \cos \theta$$
 $$\int_a^b \| \vec{r}'(t) \| dt = \int_a^b \sqrt{x'(t)^2 + y'(t)^2 + z'(t)^2} dt$$
 
 - This is arc length if the arc is not traversed multiple times.
-- 
+
+---
+
+## Week 3 Friday (13.3a)
+- Given a curve, we will assume that its derivative is always continuous.
+- Continuity is considered component-wise.
+- We can compute the distance along a curve by integrating the magnitude of the derivative.
+- Arclength function: feed arc-length with a variable and make the arc length dependent on a variable - the endpoint $$t$$.
+
+$$s(t) = \int_a^b \| \vec{r}'(u) \| du$$
+
+- Fundamental theorem of analysis: $$f(x) = \frac{d}{dx} \int_a^x f(u) du$$.
+- $$\frac{s(t)}{dt}$$ is the speed function - distance over time.
+- Re-parametrization: describe the same curve with different equations.
+- Parametrization in terms of $$s$$: where is the vector location after it has traveled $$s$$ units along the curve?
+- $$\vec{T}'$$ measures change in the direction of the curve, represented via $$\vec{T}$$>
+- Curvature $$K$$ or $$\kappa$$ - measure of how quickly a curve changes direction at some point.
+
+$$\kappa = \| \frac{d\vec{T}}{ds} \| \approx \| \frac{\text{change in direction}}{\text{change in distance}} \| $$
+
+$$K(t) = \frac{\| \vec{r}'(t) \times \vec{r}''(t) \|}{ \| \vec{r}'(t) \|^3} = \frac{\| \vec{T}'(t)}{\| \vec{r}'(t) \|}$$
+
+- For two dimensional vectors, expand dimensions to the third dimension and simplify.
+
+- $$\frac{1}{\kappa(t)}44 is the radius of the curvature: it is the radius of the circle that best matches the curve, dependent on $$t$$.
+
+
+
+
+
+
+
+
+
+
 
 
 
