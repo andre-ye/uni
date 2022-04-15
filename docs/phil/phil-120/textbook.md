@@ -517,7 +517,37 @@ PvP ⇔ P
   2. Write "assume for reductio ..., we want to show a contradiction results."
   3. Demonstrate how a contradiction results.
   4. Write "hence we know ... by reductio. Done."
-- 
+
+### 13.2: Contradiction Principle
+- Tautological contradiction: # or ⊥, always `F`/0.
+- # is a sentence, not a connective. It can appear in complex sentences: `P&#` or `~#`.
+- Disjoining with a tautological falsity returns the same truth sentence as the original sentence.
+- A contradiction entails anything.
+
+```
+P&~P ⇒ R
+Q&~Q ⇒ R
+# ⇒ R
+
+P&~P ⇒ P&~P
+Q&~Q ⇒ Q&~Q
+# ⇒ #
+
+P&~P ⇒ Q&~Q
+P&~P ⇒ #
+# ⇒ P&~P
+```
+
+- *Contradiction principle*: only a contradiction can entail a contradiction.
+- TO prove an argument by reductio, we assume `~ conclusion` and show that the premises and conclusions $$\to \bot$$.
+
+```
+1. If Q, then P
+2. ~P
+Thus,
+3. ~Q
+```
+
 
 
 
