@@ -300,7 +300,7 @@ $$s(t) = \int_a^t \| \vec{r}'(u) \| du$$
 - The curvature of a curve is $$\| \frac{d\vec{T}}{ds} \| = \| \frac{\vec{T}'(t)}{\vec{r}'(t)} \|$$, where $$\vec{T}$$ is the unit tangent vector.
 - The curvature of the curve given by a vector function $$\vec{r}$$ is
 
-$$\frac{\| \vec{r}'(t) \times \vec{r} ''(t) \|}{\| \vec{r}'(t) \| ^3}
+$$\frac{\| \vec{r}'(t) \times \vec{r} ''(t) \|}{\| \vec{r}'(t) \| ^3}$$
 
 
 
