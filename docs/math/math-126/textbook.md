@@ -302,6 +302,21 @@ $$s(t) = \int_a^t \| \vec{r}'(u) \| du$$
 
 $$\frac{\| \vec{r}'(t) \times \vec{r} ''(t) \|}{\| \vec{r}'(t) \| ^3}$$
 
+### 13.4: Motion in Space
+- Tangent and normal vectors can be used in physics to study velocity and acceleration along a space curve.
+- Velocity vector $$\vec{v}(t) = \vec{r}'(t)$$.
+- Speed is the magnitude of the velocity vector.
+- Acceleration is the derivative of velocity: $$\vec{a}(t) = \vec{v}'(t)$$.
+- Vector integrals allow us to recover velocity when acceleration is known and position when velocity is known.
+
+$$\vec{v}(t) = \vec{v}(t_0) + \int_{t_0}^t \vec{a}(u) du$$
+
+$$\vec{r}(t) = \vec{r}(t_0) + \int_{t_0}^t \vec{v}(u) du$$
+
+- Newton's Second Law of Motion: a force $$\vec{F}(t)$$ acts on an object of mass $$m$$ produces an acceleration $$\vec{a}(t)$$. The following is true:
+
+$$\vec{F}(t) = m\vec{a}(t)$$
+
 
 
 
