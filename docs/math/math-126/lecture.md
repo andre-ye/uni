@@ -181,11 +181,35 @@ $$\int_a^b \int{(x'(t)^2 + y'(t)^2 + z'(t)^2}$$
 - Fact about planes: an arbitrary point $$P \langle x, y, z \rangle \cdot n = \langle \text{point} \rangle \cdot n$$. Originates from $$(\langle x, y, z \rangle - \langle \text{point} \rangle ) \cdot n = 0$$; the difference vector is always orthogonal to the normal vector, thus the dot product is 0.
 
 
+---
 
+## Week 3 Friday
+- Curvature - measure of change in direction over change in distance traveled.
+- Arclength $$s(t) = \int_0^t \| r'(t) \|$$
+- Reparametrization is too complicated. We can use a different method to compute the curvature.
+- $$\frac{1}{\kappa}$$ is the radius of the circle that best fits into the curve at that point.
 
+> **Problem.** Find the curvature of $$\langle t, t^2, t^3 \rangle$$ at $$(1, 1, 1)$$.
 
+$$r'(t) = \langle 1, 2t, 3t^2 \rangle$$
 
+$$r''(t) = \langle 0, 2, 6t \rangle$$
 
+$$r'(t) \times r''(t) = \langle 12t^2 - 6t^2, 0 - 6t, 2 \rangle = \langle 6t^2, -6t, 2 \rangle \rangle$$
+
+$$\| r' \times r'' \| = \sqrt{36t^4 + 36t^2 + 4}$$
+
+Plugging in $$t = 1$$ yields $$14^3$$.
+
+> **Problem.** Find the curvature of $$y = x^4$$.
+
+$$y' = 4x^3$$
+
+$$y'' = 12x^2$$
+
+$$ \kappa = \frac{\| f''(x) \|}{\sqrt{1 + f'(x)^2}^3} = ...$$ 
+
+Use the correct formula!
 
 
 
