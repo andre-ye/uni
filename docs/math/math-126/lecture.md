@@ -211,7 +211,7 @@ $$ \kappa = \frac{\| f''(x) \|}{\sqrt{1 + f'(x)^2}^3} = ...$$
 
 Use the correct formula!
 
-
+- Finding minima/maxima without derivatives - analyze relationships between maximization and minimization for relatively simple relationships.
 
 
 
