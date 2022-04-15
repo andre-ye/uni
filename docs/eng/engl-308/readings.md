@@ -262,7 +262,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-### "Theses Concerning Feuerbach" by Marx
+## "Theses Concerning Feuerbach" by Marx
 - All hitherto existing materialism has considered the object's form, but not human activity or subjectively.
 - Feuerbach wants sensuous objects distinct from thought objectives but does not consider human activity to be objective.
 - Can objective truth be attributed to human thinking? A practical, rather than theoretical question.
@@ -277,7 +277,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-### "Bartleby, The Scrivener: A Story of Wall-street" by Melville
+## "Bartleby, The Scrivener: A Story of Wall-street" by Melville
 - Bartleby - the strangest scrivener; nothing is ascertainable.
 - Narrator - soft, safe, prudent. The easiest way of life is the best.
 - Turkey - a short, pursy, old Englishman. Eccentricities overlooked in favor of usefulness to the narrator. 
@@ -292,7 +292,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-### "The Ideological Tensions of Capitlaism: Universalism versus Racism and Sexism" by Wallerstein
+## "The Ideological Tensions of Capitlaism: Universalism versus Racism and Sexism" by Wallerstein
 - Universalist doctrine - "the brotherhood of man".
   - Yet this emblem of universalism itself is gendered, implicit exclusive of females. 
 - Universalism is so widely shared - but why do racism and sexism still persist?
@@ -334,7 +334,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-### "Class Conflict in the Capitalist World-Economy" by Immanuel Wallerstein
+## "Class Conflict in the Capitalist World-Economy" by Immanuel Wallerstein
 - Marx did not invent social class; the greeks knew about it.
 - Marx made key three contributions.
   1. All history is a history of class struggle.
@@ -370,7 +370,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-### "What is Owed" by Nicole Hannah-Jones
+## "What is Owed" by Nicole Hannah-Jones
 Access [here](https://www.nytimes.com/interactive/2020/06/24/magazine/reparations-slavery.html) (link: `https://www.nytimes.com/interactive/2020/06/24/magazine/reparations-slavery.html`).
 
 - Black uprisings swept the United States in the mid-1960s; Johnson created the Kerner Commission. Americans voted a 'law and order' president - Nixon - who halted that work.
@@ -408,6 +408,35 @@ Access [here](https://www.nytimes.com/interactive/2020/06/24/magazine/reparation
 - Has the coronavirus changed things? It has dug up what is hiding beneath.
 
 > "If black lives are to truly matter in America, this nation must move beyond slogans and symbolism. Citizens don’t inherit just the glory of their nation, but its wrongs too. A truly great country does not ignore or excuse its sins. It confronts them and then works to make them right. If we are to be redeemed, if we are to live up to the magnificent ideals upon which we were founded, we must do what is just. It is time for this country to pay its debt. It is time for reparations."
+
+---
+
+## "Racial Capitalism" by Melamed
+- Three conditions: primitive accumulation, ideologies of capitlaist rationality (individualism, liberalism, democracy), new activisms.
+- 'Racial capitalism' - capitalism is racial capitalism. Capital can only accumulate by exploiting severe inequalities between human groups.
+- Racialized material and epistemic violence: executed by core capitalist states.
+- Accumulation under capitalism: necessary exproporiation of labor, land, resoources.
+- Understanding 'racial capitlaism' as a product of social separateness; technology of antirelationality.
+- Ideas of democracy, nationalism, and multiculturalism: key to racial capitalist processes of differentiation. People are differentiated into a collective existence via democracy and nationalism; groups are minoritized and homogenized via multiculturalism.
+  - Identitarianism - obscuring shifting power and instability of social relations.
+- The capitalism Marx wrote about was already racial capitalism.
+- The hallmark of racial capitalism: dense connection between manufacturing and social separateness.Symbiotic development of colonialism and the credit system - Marx. 
+  - The flow of capital is purified
+- Failure in Marx's text: Marx finds value to be a pharmekon, a simultaneous poison and medicine. Imposition of value everywhere motivates rationalism, Eurocentrism, reductive materialism, developmentalism.
+- Neoliberalism and rapaciousness for natural resources: ties itself to indigeneity.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
