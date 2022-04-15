@@ -278,6 +278,41 @@ A valid argument!
 - Counterexample: a specific case in which the premises are true and the conclusion is false. Giving a counterexample is a type of informal proof.
 - Venn Diagrams - encoding information from a truth table using Venn Diagrams. We could do this task entirely with pictures rather than with symbols.
 
+---
+
+## Week 3 Friday
+- Venn diagrams for more than three atomics: ellipse-like/rainbow-like, or three-dimensional surfaces.
+- Next week - most important material in the entire quarter. Formal proofs are the most difficult in the class, and it's not going away. We are going to make a larger system beyond BOOL called PROP, then another system called FOL. All the Boolean bits are in the system.
+- Mastering the system of doing computations and proofs will need to be done in progressively more complex applications. You must get comfortable with these soon.
+- Midterm - Wednesday of Week 5
+
+```
+1. ~~A&B                  Premise
+2. ~~A                    &Elim;1
+3. A                      ~Elim;2
+4. AvC                    vIntro;3
+5. AvCvD                  vIntro;4
+6. B                      &Elim;1
+7. (AvCvD)&B              &Intro;5,6
+```
+
+- BOOL: alanguage, semantics, formal proofs.
+- Proof theory - syntactic inference rules, formal proofs in contrast to previous informal proofs.
+- Informal proofs are context-dependent. Each step of a good proof must be valid and obvious; each step of a proof theory makes strict what is allowed for inference rules.
+
+```
+1. ~~(P&~~(~~Q&R))        Premise
+2. P&~~(~~Q&R)            ~Elim;1
+3. P                      &Elim;2
+4. ~~(~~Q&R)              &Elim;2
+5. ~~Q&R                  ~Elim;4
+6. ~~Q                    &Elim;5
+7. Q                      ~Elim;6
+8. R                      &Elim;5
+9. Qv~P                   vIntro;7
+10. (Qv~P)vT              vIntro;9
+11. ((Qv~P)vT)&R          &Intro;10,8
+```
 
 
 
