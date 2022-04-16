@@ -548,6 +548,54 @@ Thus,
 3. ~Q
 ```
 
+### 13.3: #Intro and #Elim
+- Only a contradiction can entail `#`, any contradiction can entail `#`.
+
+```
+1. P      Premise
+2. ~P     Premise
+3. #      #Intro;1,2
+```
+
+- To introduce a tautological falsity, establish a sentence and its negation. These sentences do not necessarily need to be atomic.
+- `#Elim`: how to use a symbol that you already have. A contradiction entails anything. If you have a `#`, you can write anything you want and cite `#Elim`. (Easiest rule ever.)
+
+### 13.4: ~Intro
+- `~Intro` allows us to make a wide-scop enegation.
+- To prove `~P`, we temporarily assume `P` and prove `#`.
+- `~Intro` = Reductio.
+
+```
+1. ~(PvQ)      Premise
+2. | P         Assume
+3. | PvQ       vIntro;2
+4. | #         #Intro;1,3
+5. | ~P        ~Intro;2-4
+```
+
+- Cite a subproof where you assume the opposite of your conclusion. There is not a specific line to cite.
+
+```
+1. ~(P&Q)      Premise
+2. P           Premise
+3. | Q         Assume
+4. | P&Q       &Intro;2,3
+5. | #         #Intro;1,4
+6. ~Q          ~Intro;3-5
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
