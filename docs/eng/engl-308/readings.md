@@ -425,16 +425,37 @@ Access [here](https://www.nytimes.com/interactive/2020/06/24/magazine/reparation
 - Failure in Marx's text: Marx finds value to be a pharmekon, a simultaneous poison and medicine. Imposition of value everywhere motivates rationalism, Eurocentrism, reductive materialism, developmentalism.
 - Neoliberalism and rapaciousness for natural resources: ties itself to indigeneity.
 
+---
 
+# *Sorry to Bother You*, Riley Boots dir.
+View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1613332)>
 
-
-
-
-
-
-
-
-
+- Art vs labor: toiling, just surviving, the circle (4:55)
+- Main character's name - Cash, Cassius Green - Cash is Green.
+- God made the land for everyone - (7:05)
+- Cash's uncle: systems of hierarchical control, webs of capitalism
+- Ronald Reagan - 9:00 
+- Laziness - 9:05
+- Always stick to the script - 11:45. Imposing monetization, capitalization, upon human situations.
+- The telemarketers are predominantly black; 14:03 - white voices.
+  - Will Smith, white proper.
+  - What characterizes the white voice? Carefree.
+- Capital - social currency, digital medias.
+- Cash is pessimistic - different, worried about mobility
+- Food, ethnicity, race, whiteness - 22:15.
+- Hard work - the rat-race.
+- Capital and family - human relationships.
+- "I got the shit kicked out of me!" - most popular TV show.
+- Left Eye
+- The elevator and the stairs - 33:15.
+- The illusion of meritocracy and mobility - 35:33. The down here and the up there.
+- Selling *power*: firepower, manpower, etc.
+- Just sitting and being. 46:00
+- Scabs - crossing the picket line.
+- Racialization - 1:09:26, racial essentialization of art.
+- Tools as artificial extensions of biology.
+- What is the limit of capital?
+- Publicity, journalism, credibility.
 
 
 
