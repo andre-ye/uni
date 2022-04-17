@@ -227,6 +227,26 @@ $$K(t) = \frac{\| \vec{r}'(t) \times \vec{r}''(t) \|}{ \| \vec{r}'(t) \|^3} = \f
 - $$\frac{1}{\kappa(t)}44 is the radius of the curvature: it is the radius of the circle that best matches the curve, dependent on $$t$$.
 
 
+---
+
+## Week 4 Monday (13.3b)
+- Unit tangent vector for a smooth curve - $$\vec{T}(t)$$.
+- Principal unit normal vector/normal vector - $$\vec{N}(t)$$.
+
+$$\vec{N}(t) = \frac{\vec{T}'(t)}{\| \vec{T} '(t) \| }$$
+
+- $$\vec{T}(t)$$ and $$\vec{T}'(t)$$ are orthogonal.
+- Binormal vector - $$\vec{B}(t)$$$
+
+$$\vec{B}(t) = \vec{T}(t) \times \vec{N}(t)$$
+
+- We can create a time-dependent coordinate system with three orthogonal axes using these vectors. This is a TNB frame.
+
+$$\| \vec{B}(t) \| = \| \vec{T}(t) \| \cdot \| \vec{N} (t) \| \cdot \sin \theta \implies 1 = 1 \cdot 1 \cdot 1$$
+
+- $$\vec{B}(t)$$ is a unit vector.
+- Normal plane - plane spanned by $$\vec{N}(t)$$ and $$\vec{B}(t)$$.
+- The normal plane is orthogonal to the unit tangent vector; thus, some point on a curve $$P$$ and the derivative of the curve at $$P$$ can be plugged into the plane equation to define the normal plane.
 
 
 
