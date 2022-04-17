@@ -584,9 +584,20 @@ Thus,
 6. ~Q          ~Intro;3-5
 ```
 
+---
 
+## Chapter 14: Formal Proof Bootcamp
 
+### 14.1: Know the Basics
+- Obey parentheses.
+- `~Elim` does not work exactly like the Double Negation principle - you can only eliminate two negations at a time.
+- `vElim` and `~Intro` are the only rules that allow you to get out of a subproof into a parent proof.
+- Never start a subproof without a plan.
+- In `vElim`, do cases from left to right.
+- You need to do a subproof for every case.
+- One-line subproofs don't need an indented dash.
 
+### 14.2: 
 
 
 
