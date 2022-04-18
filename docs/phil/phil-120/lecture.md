@@ -314,8 +314,62 @@ A valid argument!
 11. ((Qv~P)vT)&R          &Intro;10,8
 ```
 
+---
+
+## Week 4 Monday
+Tools:
+```
+&Intro
+&Elim
+vIntro
+vElim -> Proof by cases
+~Intro -> Reductio/proof by contradiction
+~Elim
+Reit
+```
+
+- Proof by cases: iterate over each case. Temporarily assume the truth of a case. While premises hold true for the entire argument, cases only hold true for a subcase.
+
+```
+1. ~~PvQ     Premise
+2. | ~~Q     Assume
+3. | P       ~Elim
+4. | PvQ     vIntro;3
+5. | Q       Assume
+6. | PvQ     vIntro;5
+7. PvQ       vElim;1,2-4,5-6
+```
+
+- Knights and Knaves puzzles.
+  - Knights always speak truthfully.
+  - Knaves always lie.
+
+> Two doors: one leads to safety, and the other to certain doom. Guard 1 says: Either I speak falsely or he speaks truthfully. Guard 2 says: You should enter the door on the left.
+
+1. Case 1: Guard 1 is a knight. Either Guard 1 speaks falsely, or Guard 2 speaks truly. Guard 2 must speak truly, and we need to take the door on the left.
+2. Case 2: Guard 1 is a knave. Guard 1 speaks truly and Guard 2 speaks falsely. This is a contradiction.
+3. The correct door is the left door.
 
 
+- Disjunctive syllogism:
+
+```
+1. PvQ
+2. ~P
+Thus
+3. Q
+```
+
+> Guard 1: #2 tells the truth. Guard 2: #1 and #3 speak the same. Guard 3: Door 2 is the way out.
+
+1. Case 1: Guard 1 is a Knight. Therefore, Door #2 is the way out.
+2. Case 2: Guard 1 is a Knave. Therefore, Door #2 is the way out.
+3. Door #2 is the way out.
+
+
+- Think about: what is the most useful infromation? You want to be able to interact with other guards.
+- `~Intro` - proof by contradiction, reductio ad absurdum (reduce to an absurdity/contradiction), reductio.
+- `#Intro`, `#Elim`
 
 
 
