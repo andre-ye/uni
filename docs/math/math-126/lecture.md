@@ -213,6 +213,28 @@ Use the correct formula!
 
 - Finding minima/maxima without derivatives - analyze relationships between maximization and minimization for relatively simple relationships.
 
+---
+
+## Week 4 Monday
+- 5 problems for 50 minutes. It is standard - it will be similar to past midterms.
+- Given $$\vec{r}(t)$$, we have the principal unit normal $$\vec{N}(t) = \frac{\vec{r}'(t)}{\| \vec{T}'(t) \|}$$ and the binormal vector $$\vec{B} = \vec{T}(t) \times \vec{N}(t)$$.
+- Normal plane - spanned by $$\vec{B}$$ and $$\vec{N}$$; the tangent vector is normal to this plane.
+
+> **Problem.** Find the equation of the normal plane of the curve of intersection of the parabolic cylinders $$x = y^2$$ and $$z = x^2$$ at the point $$(1, 1, 1)$$.
+
+> **Solution.** Let's begin by finding the curve. Let $$y = t$$. $$x = t^2$$; $$z = x^2 = t^4$$. Thus, the intersection is given by the curve $$\vec{r}(t) = \langle t^2, t, t^4 \rangle$$. The desired point of intersection occurs at $$t = 1 \implies (1, 1, 1)$$. The derivative of the curve is $$\vec{r}'(t) = \langle 2t, 1, 4t^3 \rangle$$. The tangent vector is $$\langle 2, 1, 4 \rangle$$. This is normal to the normal plane. Thus, the plane equation is $$2(x - 1) + (y - 1) + 4(z - 1) = 0$$.
+
+- The normal director points in the direction of the circle 'fitted' inside the curve.
+
+
+
+
+
+
+
+
+
+
 
 
 
