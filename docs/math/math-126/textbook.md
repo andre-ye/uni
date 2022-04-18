@@ -302,6 +302,18 @@ $$s(t) = \int_a^t \| \vec{r}'(u) \| du$$
 
 $$\frac{\| \vec{r}'(t) \times \vec{r} ''(t) \|}{\| \vec{r}'(t) \| ^3}$$
 
+**The Normal and Binormal Vectors**
+- Many vectors are orthogonal to the unit tangent vector $$\vec{T}(t)$$. Note that $$\vec{T}(t) \cdot \vec{T}'(t) = 0$$, so $$\vec{T}'(t)$$ is orthogonal to $$\vec{T}(t)$$.
+- At any point where $$\kappa \neq 0$$, we can define the principal unit normal vector/unit normal vector $$\vec{N}(t) = \frac{\vec{T}'(t)}{\| \vec{T}'(t) \|$$.
+- The unit normal vector indicates the direction in which the curve is turning at each point.
+- $$\vec{B}(t) = \vec{T}(n) \times \vec{N}(t)$$ - binormal vector. Is a unit vector orthogonal to $$\vec{T}(t)$$ and $$\vec{N}(t)44.
+- Normal plane - plane spanned by the normal and binormal vectors. Consists of all lines orthogonal to the tangent line
+- Osculating plane spanned by $$\vec{T}$$ and $$\vec{N}$$. Plane that comes closest to containing the part of the curve near $$\vec{P}$$.
+- Osculating circle/circle of curvature of $$C$$ at $$P$$. Shares the same tangent, normal, and curvature at $$P$$.
+
+![image](https://user-images.githubusercontent.com/73039742/163840293-c1a40e94-71ae-410a-ad02-b590d4cf5ded.png)
+
+
 ### 13.4: Motion in Space
 - Tangent and normal vectors can be used in physics to study velocity and acceleration along a space curve.
 - Velocity vector $$\vec{v}(t) = \vec{r}'(t)$$.
