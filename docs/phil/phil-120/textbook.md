@@ -597,9 +597,25 @@ Thus,
 - You need to do a subproof for every case.
 - One-line subproofs don't need an indented dash.
 
-### 14.2: 
+### 14.2: Master Plan - the Main Connective
+- Look at the main connectives. Intro and Elim rules only apply to the main connective of a sentence.
 
+### 14.3: Premises $$\neq$$ Conclusions
+- What you do with a main connective depends on whether it is a premise or a conclusion.
+- Elim rules eliminate a connective: apply to premises.
+- Intro rules introduce a connective: apply to conclusions.
 
+### 14.4: Know Your Premises
+- `&` premise - bring down conjuncts.
+- `v` premise - start proof by cases by assuming a disjunct.
+
+### 14.5: Know Your Conclusions
+- `&` conclusion - prove each conjunct, then build up with `&Intro`
+- `v` conclusion - create from one side with `vIntro`
+- `~` conclusion - do a reductio with `~Intro`
+
+### 14.6: When All Else Fails: Try Reductio!
+- Sometimes reductio is the right idea, even if the conclusion isn't a wide-scope negation.
 
 
 
