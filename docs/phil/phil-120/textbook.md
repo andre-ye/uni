@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture Notes
+title: Textbook Notes
 parent: PHIL 120
 grand_parent: Philosophy
 nav_order: 2
