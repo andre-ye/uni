@@ -349,7 +349,7 @@ Questions for the text
 
 ---
 
-## Week 3 Tuesday, "Bartleby, the Scrivener" and “The Ideological Tensions of Capitlaism: Universalism versus Racism and Sexism” by Wallerstein
+## Week 3 Tuesday, "Bartleby, the Scrivener" and “The Ideological Tensions of Capitalism: Universalism versus Racism and Sexism” by Wallerstein
 - We are now entering a unit on racial capitalism - intersection of race and class.
 - A film is assigned for next Thursday: film watching should not merely be passive. Start and pause, engage with the film, watch multiple times if needed.
 - Look for significant phrases, camera operations, etc.
@@ -410,8 +410,53 @@ Questions for the text
 - The commodification of repdocution and of life itself. Surrogacy is a multi-billion dollar business.
 - Meritocracy is unstable. People don't want to be told that someone else is doing better because they worked harder, but because they inherited it. **You restabilize meritocracy with the inventions of populations that don't deserve - racism, sexism, etc.**
 
+---
 
-
+## Week 4 Tuesday, Essays by Wallerstein and Melamed
+- Reading the 1619 project - what does the 1619 project represent? People are misinclined to belief largely because of economic benefit from the suppresion of information.
+- Cultural production is a centerpiece of how the world works. The power of education and teaching, sharing stories.
+- Management of the plantation
+- Weatlh vs income - static vs liquid states, a question of stability and passing down, inheritance.
+- *Sorry to Bother You* - a film demonstrating the complex usage of technology.
+- Technology as liberation? Is technology racist? Thinking about how the technology works on economic and racial subjects.
+- How does Wallerstein understand the symbiosis between particularity and universality? A 'paradox'
+- The singularity, the particularity. Capitalism as a universalism that needs particularism. Philosophically, all universalism requires particularisms.
+- Meritocracy is structural - a friendly face on a clean capitalism that doesn't require someone's degradation. Denigration is always needed to fuel capitalism.
+- Capitalism as a universalist system. Universalist ideology emerging from the notions of rights emerging out of the French and American revolutions - libertie, egalitie, fraternitie `->` equality, equity, etc.
+- Universalist philosophy needed to power capitalist philosophy.
+- Power to the ideology of meritocracy.
+- Weber - proposes that universalism has further roots in Protestantism and forms of Christianity.
+- Capitalism is also universal in that everything is commodified, even where humans can be used as capital and collaterla.
+  - Everything becomes an exchangeable quantity.
+- What is inside the commodity? What is value?
+- How are failures of society explained? Groups of people just aren't equal - no one announces it, but it is implicit. Ideological imposition upon the mind of society.
+- Racism, sexism, ableism, homophobia - ideologies, idea systems that hold power. Meritocracy is an unstable system, doesn't work - people don't want to imagine that the problem is embedded within the system; from top-down, the complaint is that those at the bottom do not work hard enough; from bottom-up, the complaint is that people want to believe the top are at the top because of inheritance rather than because of greater intelligence or harder work.
+- From both directions, meritocracy is a problematic, highly unstable system.
+- Capitalism relies upon particularisms to address and crush instability in the meritocratic system.
+- Particularly, race, gender (Wallerstein is particularly focused on sex).
+- Axes of division tend to be - biologizied, naturalized, genetizied, culturalized - what are the essential characteristics of a culture?
+- Racism - the 'magic formula' that dissolves the structural issues within meritocracy.
+- Race vs ethnicity, racialization vs ethniciziation: ethnicization sems looser, racialization seems more historizied.
+- Language of non-whiteness tends to recenter whiteness. It's descriptive, but Prof. Weinbaum doesn't recommend its general usage.
+- Becoming wehite; racialization; is blackness an invention of slavery? How do phenotypic features become salient with the advent of slavery?
+- Ethnicization - profit making. Minimize protest - naturalize the driving down of wages, rationalization.
+- Do wages reflect importance? Teaching, healthcare workers, grocery workers - did these people see a shift in the profit-sharing struccture over the coronavirus?
+- Feminization - other ways through which work gets feminized and lower wages become rationalized.
+- Meritocracy - how does that work in the film?
+- Wallerstein's second essay: trying to deepen the understanding of capitalism as a system. 
+- We arrived at a very wide definition last time - class as a constantly fluctuating relationship. What is a class? Important question, lots of stakes: who needs to mobilize? Who is the oppressor? Who are the oppressed?
+- Inheritance or status: what is after indented is not capital but the status.
+- Marx & Engels, a proletariat is waged labor. This notion is limited; it does't include slaves, peonies, identiured servers, and so on. What is important instead is instability,  waiting for accumulation.
+- The proletariat produces value that is not possessed yby them.
+- Nouveaux Rich and the distinctions between subclasses of the Bourgeoisie
+- Dependency Theory. The ways in which the periphery is forced into relationship with the core.
+- Literature is about reading, but not just about fiction.
+- Melamed - popularization of scho
+- Exploded in academia in the 2000a framework that blew up, synthesizes previous discussion.
+- Racial capitalism - no such thing as capitalism on its own; all capitalism is racial capitalism. 
+- Modern world - racial capitalism is unavoidable. Prioritization of race over everything else.
+- Robinson:
+  1. Ta...
 
 
 
