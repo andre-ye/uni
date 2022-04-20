@@ -617,14 +617,46 @@ Thus,
 ### 14.6: When All Else Fails: Try Reductio!
 - Sometimes reductio is the right idea, even if the conclusion isn't a wide-scope negation.
 
+---
+
+## Chapter 15: Formal Proofs in BOOL
+
+### 15.1: The 5-Step Plan `~(PvQ)`
+- Strategy - look at main connectives.
+
+```
+1. ~(PvQ)       Premise
+2. P            Assume
+3. PvQ          vIntro;2
+4. #            #Intro;1,3
+5. ~P           ~Intro;2-4
+```
+
+1. Pick a disjunct
+2. Put it in a subproof
+3. Build the disjunction
+4. Introduce the contradiction
+5. Finish the reductio
+
+### 15.2: Indirect Approach `~(P&Q)`
+- Apply the five step plan inside a reductio by using `~(P&Q)` $$\to$$ assume `~(~Pv~Q)`.
+
+### 15.3: Advanced Proof by Cases
+- Nested proof by cases - one proof by cases inside the other.
+
+### 15.4: Advanced Reductio
+- Reductio gives us another sentence to work from.
+- To prove a tautology in BOOL (no premises), you always begin with reductio.
 
 
-
-
-
-
-
-
-
-
+```
+1. | ~(Pv~P)     Assume
+2. || P          Assume
+3. || Pv~P       vIntro;2
+4. || #          #Intro;1,3
+5. | ~P          ~Intro;2-4 
+6. | Pv~P        vIntro;5
+7. | #           #Intro;1,6
+8. Pv~P          ~Intro;1-7
+```
 
