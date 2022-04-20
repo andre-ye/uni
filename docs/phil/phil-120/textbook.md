@@ -660,3 +660,10 @@ Thus,
 8. Pv~P          ~Intro;1-7
 ```
 
+- Never assume what you already know.
+
+### 15.5: How to Find Shortcuts
+
+
+
+
