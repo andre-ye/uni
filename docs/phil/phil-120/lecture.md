@@ -371,6 +371,40 @@ Thus
 - `~Intro` - proof by contradiction, reductio ad absurdum (reduce to an absurdity/contradiction), reductio.
 - `#Intro`, `#Elim`
 
+---
+
+## Week 4 Wednesday
+- Contradictory sets:
+  - `{Pia is guilty, Pia is Wanda, ~{Wanda is guilty}}`
+  - `{P&#}`
+  - `{Pia is guilty, Pia is Wanda, Wanda is guilty, Pia isn't Pia}`
+  - `{Pia is guilty, Quinn is guilty, Wanda is guilty, Only 2 people are guilty}`
+  - `{Pv#, ~P}`
+- Tautological falsity and contradiction are different.
+  - Every contradiction is some sort of logical contradiction.
+  - A subset: tautological contradiction.
+- A tautological contradiction occurs within sets, a tautological falsity occurs within a sentence itself.
+- Tautological contradiction: no single row in the truth table in which all statements are true.
+- A contradiction: a logical falsity, a sentence that can't be true.
+- A contradictory set: a set of sentneces that cannot simultaneously be true.
+
+```
+1. ~~P&(~P&Q)    Premise
+2. ~~P           &Elim;1
+3. P             ~Elim;2
+4. ~P&Q          &Elim;1
+5. ~P            &Elim;4
+6. #             #Intro;3,5
+7. R             #Elim;6
+````
+
+```
+1. | P&~P      Assume
+2. | P         &Elim;1
+3. | ~P        &Elim;1
+4. | #         #Intro;2,3
+5. ~(P&~P)     ~Intro;1-4
+```
 
 
 
