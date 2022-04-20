@@ -224,10 +224,22 @@ Use the correct formula!
 
 > **Solution.** Let's begin by finding the curve. Let $$y = t$$. $$x = t^2$$; $$z = x^2 = t^4$$. Thus, the intersection is given by the curve $$\vec{r}(t) = \langle t^2, t, t^4 \rangle$$. The desired point of intersection occurs at $$t = 1 \implies (1, 1, 1)$$. The derivative of the curve is $$\vec{r}'(t) = \langle 2t, 1, 4t^3 \rangle$$. The tangent vector is $$\langle 2, 1, 4 \rangle$$. This is normal to the normal plane. Thus, the plane equation is $$2(x - 1) + (y - 1) + 4(z - 1) = 0$$.
 
-- The normal director points in the direction of the circle 'fitted' inside the curve.
+- The normal vector points in the direction of the circle 'fitted' inside the curve.
+
+---
+
+## Week 4 Wednesday
+- Midterm - tomorrow during quiz section, 50 minutes, 5 problems, covering 12.1 to 13.2. Credit will only be given if work is shown.
+- There will be no vector calculus.
 
 
+> **Problem.** Consider the plane $$P$$ that contains the point $$(1, -1, 2)$$ and is orthogonal to the line $$L: {x = -3t, y = 2+7t, z=5-t}$$.
 
+> **Solution.** The normal vector to the plane is $$\langle -3, 7, -1 \rangle$$. The plane equation is thus $$-3(x-1) + 7(y + 1) - (z - 2) = 0$$.
+
+> **Problem.** Find two different surfaces of motion for $$\vec{r} = \langle 5 \cos t, -3, 5 \sin t$$.
+
+> **Solution.** $$x^2 + z^2 = 25$$ and $$y = -3$$.
 
 
 
