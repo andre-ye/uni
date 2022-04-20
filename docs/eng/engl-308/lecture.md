@@ -419,6 +419,8 @@ Questions for the text
 - Weatlh vs income - static vs liquid states, a question of stability and passing down, inheritance.
 - *Sorry to Bother You* - a film demonstrating the complex usage of technology.
 - Technology as liberation? Is technology racist? Thinking about how the technology works on economic and racial subjects.
+
+Wallerstein, "The Ideological Tensions of Capitalism: Universalism versus Racism and Sexism"
 - How does Wallerstein understand the symbiosis between particularity and universality? A 'paradox'
 - The singularity, the particularity. Capitalism as a universalism that needs particularism. Philosophically, all universalism requires particularisms.
 - Meritocracy is structural - a friendly face on a clean capitalism that doesn't require someone's degradation. Denigration is always needed to fuel capitalism.
@@ -443,6 +445,8 @@ Questions for the text
 - Do wages reflect importance? Teaching, healthcare workers, grocery workers - did these people see a shift in the profit-sharing struccture over the coronavirus?
 - Feminization - other ways through which work gets feminized and lower wages become rationalized.
 - Meritocracy - how does that work in the film?
+
+Wallerstein, "Class Conflict in the World-Economy"
 - Wallerstein's second essay: trying to deepen the understanding of capitalism as a system. 
 - We arrived at a very wide definition last time - class as a constantly fluctuating relationship. What is a class? Important question, lots of stakes: who needs to mobilize? Who is the oppressor? Who are the oppressed?
 - Inheritance or status: what is after indented is not capital but the status.
@@ -451,13 +455,37 @@ Questions for the text
 - Nouveaux Rich and the distinctions between subclasses of the Bourgeoisie
 - Dependency Theory. The ways in which the periphery is forced into relationship with the core.
 - Literature is about reading, but not just about fiction.
-- Melamed - popularization of scho
+
+Melamed, "Racial Capitlaism"
+- Melamed - popularization of ideas on racism and capitalism.
 - Exploded in academia in the 2000a framework that blew up, synthesizes previous discussion.
 - Racial capitalism - no such thing as capitalism on its own; all capitalism is racial capitalism. 
 - Modern world - racial capitalism is unavoidable. Prioritization of race over everything else.
 - Robinson:
-  1. Ta...
+  1. Draws upon the black radical tradition and argues that thinkers in this tradition are theorists of capitalism.
+  2. Marx and Engels acknowledge capitalism of producing social difference as related to 'race'; Marx and Engels did not yet have the language we know have to describe race.
+  - 'Primitive accumulation' - name for the theory of how capitalism got started. Through the accumulation of wealth, conversion of the commons into private property. Occurs through various processes including slavery, colonialism, enclosure of the commons. Capitalism turns land into private property.
+  - Robinson - these properties don't end. Notion of a primitive organiation is a fiction - instead, we have *ongoing accumulation.*
+- Melamed is digesting hundreds of pages into 10 pages.
+- Black Marxism is a theory about the ways in which oppressed people have criticized the system. Who can truly see the system for what it is?
+- Antirelationality - creation of social distance
+- Racism as the subjection of individuals and populations to premature death.
+- Algorithmic terms - cultural divvying, divisions that produce antagonisms pitting people against each other. Identity $$\to$$ commerce and consumption.
+- Separation of people; different types of ethnicized/racialized identities conjured by capitalism.
+- Dialectic -t he dialectic of history is of class struggle; Hegel focused on the dialectic as a process of conflict and contradiction (e.g. the slave-master dialectic). Struggle, victory, and the birth of a new reality. 
+- Marx and Engels - all history is an ongoing dialectic.
+- Interconnectedness/discretization, production of disjunction and distinctions that manage distinction to produce pluralism.
+- Can you completely erase distinctions that are meaningful to people?
+- Controlling who can rate, how to relate.
+- Rearrangement of relationality via discretization and re-interconnectedness.
+- Wallerstein: holds an instrumental notion of racism. Melamed: racial formation pre-exists capitalism, but capitalism instrumentalizes difference. Antirelationality strips away what is empowering about identity.
+- What is powerful about our identity?
+- Anti-relationality: isolating a relationality, a segmentation of relationality.
+- Severs relationships between us and our environment, for instance (in the case of climate change).
 
+---
+
+## Week 4 Thursday, *Sorry to Bother You*
 
 
 
