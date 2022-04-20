@@ -329,10 +329,17 @@ $$\vec{r}(t) = \vec{r}(t_0) + \int_{t_0}^t \vec{v}(u) du$$
 
 $$\vec{F}(t) = m\vec{a}(t)$$
 
+**Tangent and Normal Components of Acceleration**
+- Acceleration can be separated into the direction of the tangent and the direction of the normal.
 
+$$\vec{a} = a_T \vec{T} + a_n \vec{N}; a_T = v', a_N = \kappa v^2$$$
 
+- Acceleration always lies on the plane of $$\vec{T}$$ and $$\vec{N}$$, the osculating plane.
+- The tangential component of acceleration is $$v'$$ (derivative of speed); the normal component is $$\kappa v^2$$, or curvature tiems speed squared.
 
+$$a_T = v' = \frac{\vec{r}'(t) \dot \vec{r}''(t)}{\| \vec{r}'(t) \|}$$
 
+$$a_N = \frac{\vec{r}'(t) \times \vec{r}''(t) \| }{\| \vec{r}'(t) \|}$$
 
 
 
