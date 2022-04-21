@@ -249,12 +249,39 @@ $$\| \vec{B}(t) \| = \| \vec{T}(t) \| \cdot \| \vec{N} (t) \| \cdot \sin \theta 
 - The normal plane is orthogonal to the unit tangent vector; thus, some point on a curve $$P$$ and the derivative of the curve at $$P$$ can be plugged into the plane equation to define the normal plane.
 
 
+---
 
+## Week 4 Friday (13.4)
+- Velocity vector $$\vec{v}$$. Speed $$s = \| \vec{v} \|$$.
+- Derivative of velocity - acceleration.
 
+$$\vec{F} = m \cdot \vec{a}$$
 
+> **Problem.** An object of mass 10kg is being acted on by a force $$\vec{F}(t) = \langle 130t, 10e^t, 10e^{-t} \rangle$$. You are given $$\vec{v}(0) = \langle 0, 0, 1 \rangle$$ and $$\vec{r}(0) = \langle 0, 1, 1 \rangle$$. Find the position function $$\vec{r}(t)$$.
 
+> **Solution.** If we integrate both sides, we have that $$\vec{a} = \vec{r}'' \implies \langle \frac{130}{2}t^2, 10e^t - 10, -10e^-t + 20 \rangle = \int 10 \cdot \vec{r}'(t)$$. Integrating again gives $$\langle \frac{65}{3}t^3, 10e^t - 10t, 10e^{-t} + 20t \rangle = 10 \vec{r}(t)$$. Dividing everything by 10 yields the curve.
 
+- Reference to acceleration and velocity in that very moment.
+- Two components: a tangent and normal component of acceleration.
 
+$$\nu = \text{speed}$$
+
+$$\vec{T}(t) = \frac{\vec{v}(t)}{\nu} \implies \vec{T} \nu = \vec{v}(t)$$
+
+Differentiating both sides:
+
+$$\vec{T}' \nu + \vec{T} \nu' = \vec{v}'(t)$$
+
+Using the formula for curvature, we obtain
+
+$$\kappa = \frac{\| \vec{T}' \|}{v} \implies \kappa \nu = \| \vec{T}' \|$$
+
+$$\vec{N} = \frac{\vec{T}'}{\| \vec{T}' \| \implies \vec{T}' = \kappa \nu \vec{N}$$
+
+$$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
+
+- We have written acceleration as a sum of $$\vec{T}$$ and $$\vec{N}$$.
+- $$a_\vec{T} = \nu', a_\vec{N} = kappa \nu^2$$
 
 
 
