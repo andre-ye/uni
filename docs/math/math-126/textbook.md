@@ -25,6 +25,23 @@ MATH 126
 
 ---
 
+## Chapter 10: Parametric Equations and Polar Coordinates
+
+### 10.3: Polar Coordinates
+- Polar coordinate system: a point in the plane is the pole. The polar axis is a ray starting from $$0$$.
+- Polar coordinates - $$(r, \theta)$$.
+- In the polar coordinate system, each point has many representations.
+
+$$\cos \theta = \frac{x}{r}, \sin \theta = \frac{y}{r}$$
+
+$$x = r \cos \theta, y = r \sin \theta$$
+
+$$r^2 = x^2 y^2; \tan \theta = \frac{y}{x}$$
+
+**Polar Curves**
+
+---
+
 ## Chapter 12: Vectors and the Geometry of Space
 
 ### 12.1: Three-Dimensional Coordinate Systems
