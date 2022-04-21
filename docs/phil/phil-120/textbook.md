@@ -663,7 +663,7 @@ Thus,
 - Never assume what you already know.
 
 ### 15.5: How to Find Shortcuts
-
+- Shortcuts involve noticing a recurring pattern, and let you find a faster and more elegant way to do the proof.
 
 
 
