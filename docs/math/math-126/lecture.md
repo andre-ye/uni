@@ -241,7 +241,20 @@ Use the correct formula!
 
 > **Solution.** $$x^2 + z^2 = 25$$ and $$y = -3$$.
 
+---
 
+## Week 4 Friday
+- Acceleration decomposition: how much does acceleration change the direction with which I am currently moving (i.e. the tangent vector) and the orthogonal normal vector? An intuitive method of decomposition.
+- $$\vec{a} \cdot \vec{T} = \vec{a}_\vec{T} = \nu'$$ - derivative of the speed
+- $$\vec{a} \cdot \vec{N} = \vec{a}_\vec{N} = \kappa \nu^2$$
+
+> **Problem.** Compute the tangential and normal components of acceleration of a particle traveling by the position function $$\vec{r} = \langle t^2, t^2, t^3 \rangle$$.
+
+> **Solution.** We have that $$\vec{r}'(t) = \langle 2t, 2t, 3t^2 \rangle$$ and $$\vec{r}''(t) = \langle 2, 2, 6t \rangle$$. We can then calculate the components.
+
+$$\vec{a}_\vec{T} = \frac{\vec{r} \cdot vec{r}''}{\| vec{r}' \|} = \frac{8t + 18t^2}{\sqrt{8t^2 + 9t^4}}$$
+
+$$\vec{a}_\vec{N} = \frac{\| vec{r}' \times vec{r}''}{\| vec{r}' \|} = \frac{6t\sqrt{2}}{\sqrt{6 + 9t^2}}$$
 
 
 
