@@ -463,18 +463,66 @@ View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1
 - Women express wages for housework as a thing rather than as a poltiical standpoint.
 - Wages for housework does not make much of a difference for those with toher avenues of economic independence.
 - Wages for housework can be understood politically as a struggle for social power as women.
+- Wages for housework is revolutionary and the only feminist revolutionary perspective.
+
+### "A Labor of Love"
+{: .no_toc }
+- Housework is the subtlest violence of capitalism.
 - Under capitalism, every worker is manipulated - wages give the impression of a fair deal.
 - Having a wage means inclusion in the social contract.
 - Housework has become naturalized upon the female body and spirit.
 - Assumption: housework is not work.
+- Socialization and training by the unwaged mother to prepare girls into the roal.
+- Illusion that women marry for love - most marry for money and security; and regardless the work is significant.
+- Housework is denied a wwage and transformed into love.
+- Leads to accumulation of free work, the disciplining of male workers by providing a servant - an Eve for an Adam.
+- The poorer the family, the higher the enslavement of the woman. Capital acts differently for the middle class and for the working class.
+- Bringing the battle of the wife out of the private and into the public.
+- Fraud under the cover of love and marriage: housework is naturalized and sexualized, then becomes a feminine attribute.
+  - This affects all women - even the unmarried and those with well-off husbands.
 
+### The Revolutionary Perspective
+{: .no_toc}
+- Wages for housework: a refusal of the expression of feminine nature as free housework.
+- The worker struggling for more wages challenges his social role, but remains in it; when women struggle for wages for housework, they struggle directly against the social role.
+- Forcing capital to restructure social relations in more favorable terms to women.
+- The power of the wage can be used to demystify feminity and make feminity as work visible.
+- Distortion of the face, the body, and the identity.
+- Mother's Day - celebration of exploitation
 
+### The Struggle for Social Services
+{: .no_toc}
 
+- The female role must be attacked at its roots.
+- Struggle for social services must first originate from the establishment that femininity as work is work.
 
+### THe Struggle against housework
+{: .no-toc }
+- Men presume that housework is easy and enjoyable.
+- The attitude of men will change when they see love as work.
+- Housework becomes more educational.
+- Women are afraid of identifying with the housewife - the most powerless position in society.
 
+---
 
-
-
+## "Why Sexuality is Work"  by Federici
+- Sexuality - supposed to be compensation for work, naturalization.
+- Spontaneity is false
+- Painful transition from the private to the public
+- "Schizophrenic character of sexual relations"
+- Responsibility of pleasuring the man: sex is work and duty, built into the sexuality.
+- Women are objects to release repressed violence upon: raped in beds and the streets.
+- Heterosexuality has been imposed as the only acceptable sexual behavior.
+- Sexual contact with women is forbidden due to bourgeois morality: anything that is unproductive is perverted and obscene.
+- Lines between lovers and friends.
+- For women, sex is work.
+- Sexual freedom does not help. Sexual liberation intensifies work.
+  - The right to sex is the duty to have sex and to enjoy it.
+- Sexuality is always under control. Sexual work is supervised.
+- Economic dependence is the ultimate form of sexuality control.
+- Commercialization of the female body. 
+- Women are performing, pleasing - value is at stake in every sexual relation.
+- Nothing was happening.
 
 
 
