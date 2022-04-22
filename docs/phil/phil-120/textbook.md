@@ -665,5 +665,27 @@ Thus,
 ### 15.5: How to Find Shortcuts
 - Shortcuts involve noticing a recurring pattern, and let you find a faster and more elegant way to do the proof.
 
+---
+
+## Chapter 17: PROP and Conditionals
+
+### 17.1: The Condition, $$\to$$
+- BOOL is a powerful tool - it can prove the validity of any argument valid on account of conjunction, disjunction, and engation.
+- BOOl is limited.
+- PROP: an extension of BOOL, including everything and adding $$\to$$ and $$\iff$$.
+- $$\to$$ - conditional, arrow, if/then.
+- Conditionals: assert a conditionality between two things. Also known as: hypotheticals.
+- "if": antecedent. "then": consequent.
+- $$P \to Q$$ is not a causal claim; it just claims that if $$P$$ is true, then $$Q$$ is true too.
+
+### 17.2: The Biconditional, $$\iff$$
+- Biconditional: two conditionals.
+- "if and only iff"/"iff" - $$P\iff Q = P\to Q & Q \to P$$
+- iff is not redundant
+- $$P$$ just in the case of $$Q$$ - $$P \iff Q$$.
+
+
+
+
 
 
