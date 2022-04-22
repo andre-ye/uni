@@ -486,11 +486,73 @@ Melamed, "Racial Capitlaism"
 ---
 
 ## Week 4 Thursday, *Sorry to Bother You*
+Melamed and Wallerstein
+- Wallerstein pursues an instrumnetalized understanding: racism as a way for capitalism to go, a more traditional understand of race within racial Marxist theory; the creation of race, the invention of whiteness as a tool of capitalism.
+- Melamed - race vs capital, racism vs capitalism. What is the connection ofr Melamed? Racial capitalism and the role of status.
+- Melamed adopts a more dynamic model: capitalism generates separations in its own interest, but at the same time generates places of resistance. Carving people up as a violence - but also the formation of a greater collective of people with common ground.
+- Antirelationality - the technology of capitalism, set upon relationality - which is still produced in disaggregation.
+- State - financial racial violence nexus.
 
+Multiculturalism (stemming from Melamed)
+- Incorporation in the face of resistance - multiculturalism, a neutralizing acknowledgement.
+- Critique of past understandings - what is multiculturalism? Multiculturalism is still a problem - not an acknowledgement of addition that really lets and encourages change.
+- Mobilization around protest.
+- Difference and Haraway - *The Cyborg Manifesto* - how is separateness and discreteness reconciled?
+- The language of diversity, inculcation of the DEI cult - a corporate ruse to acknowledge poer in a way that doesn't.
+- Multicultualism - the way Multiculturalism operates makes capitalism look good, obscuring the politics of antiracism
+- Multiculturalism is the mat underneathw hich racial violence is enacted and covered.
+- Related - Queerness and Transness - what happens when drag shows become mainstream? What is the politics of aggregation and incorporation?
+- Niche marketing, virtue signalling
+- Multiculturalism in education - come from your culture potlocks. WHat does it do? Flattening acknowledgements of difference; "all holidays are to be celebrated in the winter". Isn't an acknowledgement of anything political. In fact, are *the opposite of political*.
+- Bridgerton - the problem of multiculturalism in modern media representation. What is progressivism? What does it mean to be progresisve?
+- Land acknowledgements as a striking example of multiculturalism.
 
-
-
-
+*Sorry to Bother You*
+- Riley is a director, actor, musician. Involved with rpgoressive labor, the black radical congress, Occupy Oakland, etc.
+- A real ear for language
+- Father was raised in the Jim Crow South; mother was a Jewish daughter of Holocaust survivors.
+- "Abusrdist dark reality" - a brilliant refusal of genre, refusal to be pigeon-holed. Absurdism, surrealism, desecration of the modern world.
+- A satire - always about irony, exaggeration, ridicule. A particularly sharp comedy.
+- Authorial intent vs. meaning - Weinbaum encourages separation, but in this case it is significant. Riley 'snuck in' to mainstream Hollywood.
+- Torn places in the capitalit fabric - where do these exist?
+- The film as a dystopian representation or as a clean-eyed portrait of modern America - which one? Both?
+- Film is released after the Obama years, during which the multiculturalist fantasy thrives. Makes contesting art.
+- Absurdism, to traditional existentialist philosophers, is an art form used to search for meaning in a meaningless world. Riley refuses existentialist abusrdism; freedom is the search for meaning, and Riley investigates the absurdism produced by systems rather than of life itself.
+- Role of minstruelcy in the film - appropriation, how does capitalist/corporate culture appropriate the racial formation it creates? (rapping, coke wigs, etc.)
+- Questions:
+  - How to understand the Equiscapiens?
+  - How to understand the work of telemarketing/the medium of voice in relation to the dynamics of capital and identity, particularly identiarian essentialism?
+  - How are WorryFree, RegalView, corporate culture represented.
+  - Meritocracy and moving up, the elevator, the lift - Steve Lift
+  - Individuals and communities
+  - Films inside films: self-reflections and investigations of media within media
+  - Art and revolution - how can art function radically in capitalism?
+  - Question of consent - both in labor and in sexuality, black sexuality
+  - Technology and capitalism
+  - The white voice
+- Langston and Cassius (Langston $$\to$$ Langston Hughes?) - the white voice and security; security and struggle; the language of struggle and insecurity does not exist in the corpus of the white voice.
+- Internalization of the white voice as an invasion of work into personal life, a deterioration of separation; colonization of capital and life; the importance of capital in shaping life in a capitalist system.
+- Corporate culture - RegalView divides workers and preys on Cassius - discretization and pitting; strenghtening through auxiliary weakning; redirection of ultimate criticism within the workers via the creation of a scapegoat (Bartleby?)
+- Steve Lift and Mr. Blank - don't go along with the rap.
+- Lift - openly racist and sexist, yet hidden beneath a veneer of humor. Reorientations and normalizations of the systems of racism and sexism - multiculturalism on steroids.
+- Double Consciousness and telemarketing - identity transformation
+- Pyschological contradictions within the self
+- The logic of capitalism - making money as good in and of itself, the morals of capitalism; Cassius succumbs somewhat to this logic. The film paints a gentle portrait of Cassius, the choice not to live in poverty - it is understanding and gentle, but insistent.
+- The contradictions eventually become so great that Cassius reaches a breaking point. Where does the breaking point get hit? Who hits the breaking point?
+- Meritocracy - a system of belief, a castle in the air.
+- Equiscapiens - beastialization and racialization of the proletariat. Giant penis, big nostrils - racialization and essentialization encoded in biologism/geneticism.
+- You can't climb the system without participating in exploitation
+- Identity lost in the chain, assimilation into an aspirational whiteness, the fantasy of whiteness.
+- The racialized relations of capital inherit our identity. White voice, the fantasy of mobility itself - changing voice.
+- What happens when art actually does something?
+- Mr. Blank's left eye is blinded by his eye path - he literally cannot see through his left eye; Left Eye activism.
+- Idea - the international class system and Wallerstien, the role of RegalView in maintaining an international capital collection.
+- Why does Steve Lift force Cassius into an uncomfortable Minstruel act? What does he get out of it? - forcing of compliance
+- Neutralization as accumulation, inversion - black man performing as a white man performing as a black man. Extreme double consciousness.
+- Soft-porn ambiance feeding into the representation of these topics
+- How does the film represent the conflicts and contradictions of capitalism, particularly racial capitalism?
+- Absurdism vs meaning - politicized questions
+- Defeatist themes? Who carries on the fight? Is the fight worth fighting for? What is the role of hope?
 
 
 
