@@ -457,7 +457,16 @@ View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1
 - What is the limit of capital?
 - Publicity, journalism, credibility.
 
+---
 
+## "Wages Against Housework" by Federici
+- Women express wages for housework as a thing rather than as a poltiical standpoint.
+- Wages for housework does not make much of a difference for those with toher avenues of economic independence.
+- Wages for housework can be understood politically as a struggle for social power as women.
+- Under capitalism, every worker is manipulated - wages give the impression of a fair deal.
+- Having a wage means inclusion in the social contract.
+- Housework has become naturalized upon the female body and spirit.
+- Assumption: housework is not work.
 
 
 
