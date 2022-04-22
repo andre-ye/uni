@@ -358,14 +358,28 @@ $$a_T = v' = \frac{\vec{r}'(t) \dot \vec{r}''(t)}{\| \vec{r}'(t) \|}$$
 
 $$a_N = \frac{\vec{r}'(t) \times \vec{r}''(t) \| }{\| \vec{r}'(t) \|}$$
 
+---
 
+## Chapter 14: Partial Derivatives
 
+### 14.1: Functions of Two Variables
+- A function of two variables is a rule that assigns an ordered pair of real numbers to a unique real number: $$R = {f(x, y) \| (x, y) \in D}$$.
+- Linear functions of two variables are important in multivariable calculus.
+- Level curves: curves satisfying $$f(x, y) = k$$ for some constant $$k \in R$$.
+- A function of three variables maps points in $$\mathbb{R}^3$$ to a real number.
+- A function of $$n$$ variables: maps an $$n$$-tuple within $$\mathbb{R}^n$$ to a real number.
 
+### 14.2: Limits and Continuity
+- Let $$f$$ be a function of two variables; the limit of $$f(x, y)$$ as $$(x, y)$$ approaches $$(a, b)$$ is $$L$$:
 
+$$\lim_{(x, y) \to (a, b)} f(x, y) = L$$
 
+- We can let $$(x, y)$$ approach $$(a, b)$$ from an infinite number of directions (as opposed to just two in one dimension). 
 
+> If $$f(x, y) \to L_1$$ as $$(x, y) \to (a, b)$$ along a path $$C_1$$ and 
+> If $$f(x, y) \to L_2$$ as $$(x, y) \to (a, b)$$ along a path $$C_12$ with $$L_1 \neq L_2$$, then the limit $$\lim_{(x, y) \to (a, b)} f(x, y)$$ does not exist.
 
-
+Continuity
 
 
 
