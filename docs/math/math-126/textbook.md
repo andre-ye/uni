@@ -380,10 +380,25 @@ $$\lim_{(x, y) \to (a, b)} f(x, y) = L$$
 > If $$f(x, y) \to L_2$$ as $$(x, y) \to (a, b)$$ along a path $$C_12$ with $$L_1 \neq L_2$$, then the limit $$\lim_{(x, y) \to (a, b)} f(x, y)$$ does not exist.
 
 Continuity
+- A function of two variables is continuous at $$(a, b)$$ if $$\lim_{(x, y) \to (a, b)} f(x, y) = f(a, b)$$. $$f$$ is continuous on $$D$$ if $$f$$ is continuous at every point $$(a, b)$$ in $$D$$.
+- If the point $$(x, y)$$ changes, then the value of $$f(x, y)$$ changes by a small amount: there is no hole or break.
+- Polynomial function of two variables - sum of terms in $$c^my^n$$.
+- Rational function: a ratio of polynomials.
+- All polynomials and rtional functions are continuous on their domains.
 
+Functions of 3+ variables
+- Everything can be expanded two three or more dimensions.
+- If $$f$$ is defined on a subset $$D$$ of $$\mathbb{R}^n$$, then $$\lim_{x\to a} f(x) = L$$ means that for every number $$\epsilon > 0$$, there is a corresponding number $$\delta > 0$$ such that if $$x \in D$$ and $$0 < \| x - a \| < \delta$$ then $$\| f(x) - L \| < \epsilon$$.
 
+$$\lim_{x\to a} f(x) = f(a)$$
 
+### 14.3: Partial Derivatives
+- The partial derivative of a function with respect to $$x$$ at $$(a, b)$$ is denoted $$f_x(a, b)$$. Thus, $$f_x(a, b) = g'(a)$$ where $$g(x) = f(x, b)$$.
+- The partial derivative of $$f$$ with respect to some variable at $$(a, b)$$ is obtained by fixing other variables and finding the ordinary derivative at $$b$$ of the fixed function.
 
+$$f_x(x, y) = \lim_{h\to 0} \frac{f(x+h, y) - f(x, y)}{h}$$
 
+- Alternative notation: $$\frac{\alpha f}{\alpha x}$$
+- To find $$f_x$$, treat $$y$$ as a constant and differentiate w.r.t. $$x$$. Vice versa for $$f_y$$.
 
 
