@@ -684,6 +684,28 @@ Thus,
 - iff is not redundant
 - $$P$$ just in the case of $$Q$$ - $$P \iff Q$$.
 
+### 17.3: Difficult Translations
+- Necessary and sufficient conditions are conditional claims.
+- If `X` is sufficient for `Y`, then `X` $$\to$$ `Y`.
+- If `X` is necessary for `Y`, then `Y` $$\to$$ `X`.
+
+### 17.4: Truth Tables for Conditionals
+- Conditionals are truth functional. Evaluate whether the condition is true or not given the truth values of the atomic sentences.
+- A conditional with a false antecdent is trivially true, because the initial conditional is false.
+- Contrapositive: `P` $$\to$$ `Q` $$\iff$$ `~Q` $$\to$$ `~P`
+- PROP does not give us the ability to express more truth functions than BOOL.
+- However, PROP allows us to model and study conditionals.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
