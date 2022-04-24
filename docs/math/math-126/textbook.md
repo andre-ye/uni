@@ -401,4 +401,25 @@ $$f_x(x, y) = \lim_{h\to 0} \frac{f(x+h, y) - f(x, y)}{h}$$
 - Alternative notation: $$\frac{\alpha f}{\alpha x}$$
 - To find $$f_x$$, treat $$y$$ as a constant and differentiate w.r.t. $$x$$. Vice versa for $$f_y$$.
 
+Interpretations of Partial Derivatives
+- By fixing other dimensions at a constant, we restrict attention to the curve at which a hyperplane intersects the surface.
+- In two dimensions, $$f_x(a, b)$$ and $$f_y(a, b)$$ an be interpreted as the slopes of the tangent lines at $$P(a, b, c)$$ to the traces $$C_1$$ and $$C_2$$ of the surface $$S$$ in the planes $$y=b$$ and $$x=a$$.
+- $$\alpha z / \alpha y$$ is the rate of change in $$z$$ with respect to $$y$$ when $$x$$ is fixed for some function $$z = f(x, y)$$.
+
+Higher Derivatives
+- We can compute higher-order partial derivatives:
+
+$$(f_x)_x = f_{xx} = f_{11} = \frac{\alpha}{\alpha x} \left( \frac{\alpha f}{\alpha x} \right) = \frac{\alpha^2 f}{\alpha x^2}$$
+
+> Clairaut's Theorem. Suppose $$f$$ is defined on a disk $$D$$ tht contains the point $$a, b$$. If the functions $$f_{xy}$$ and $$f_{yz}$$ are both continuous on $$D$$, then $$f_{xy}(a, b) = f_{yz} (a, b)$$.
+
+Partial Differential Equations
+- Laplace's equation: $$\frac{\alpha^2 u}{\alpha x^2} + \frac{\alpha^2 u}{\alpha y^2} = 0$$
+- Harmonic functions are solutions to Laplace's equation.
+- 3-dimensional Laplace equation: $$\frac{\alpha^2 u}{\alpha x^2} + \frac{\alpha^2 u}{\alpha y^2} + \frac{\alpha^2 u}{\alpha z^2} = 0$$
+- Wave equation: $$\frac{\alpha^2 u}{\alpha t^2} = a^2 \frac{\alpha^2 u}{\alpha x^2}$$
+
+
+
+
 
