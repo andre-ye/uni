@@ -283,6 +283,33 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 - We have written acceleration as a sum of $$\vec{T}$$ and $$\vec{N}$$.
 - $$a_\vec{T} = \nu', a_\vec{N} = kappa \nu^2$$
 
+---
+
+## Week 5 Monday (14.1)
+- Multivariable functions
+- A real function $$f$$ of two variables assigns each pair 
+- Domain: the set of all values that are allowed.
+- Range: the set of all values the output takes on.
+- Look for domain restrictions - square roots, logarithms, rationals, absolute values, etc.
+- Intercepts are helpful (esp. when planes are involved).
+- Use traces to generate level curves - contour map/elevation map as a projection of level curves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
