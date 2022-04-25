@@ -406,6 +406,89 @@ Thus
 5. ~(P&~P)     ~Intro;1-4
 ```
 
+---
+
+## Week 5 Monday
+
+Prove `A&B` $$\to$$ `~(~Av~B)`
+```
+1. A&B         Premise
+2. | ~Av~B     Assume
+3. || ~A       Assume
+4. || A        &Elim;1
+5. || #        #Intro;3,4
+6. || ~B       Assume
+7. || B        &Elim;1
+8. || #        #Intro;6,7
+9. | #         vElim;2,3-5,6-8
+10.~(~Av~B)    ~Intro;2-9
+```
+
+Equivalences: bidirectional equivalences.
+
+Which ones are true?
+
+| Statement | Truth |
+| --- | --- |
+| A contingent truth can entail a contingent truth. | True. Circular logic is a trivial example. |
+| A contingent falsehood can entail a contingent falsehood. | True. Circular logic is also an example. |
+| A contingent falsehood can entail a contingent truth. | True. `A&B`, where `A` is not true but `B` is true. |
+| A contingent truth can entail a contingent falsehood. | False. If we have a contingent truth that entails a contingent falsehood, then the argument isn't valid. |
+| A contingent truth can entail a necessary truth. | True. Necessary truths can be entailed by anything. |
+| A necessary truth can entail a contingent truth. | False. There are cases in which the necessary truth is true (always) but the contingent truth is sometimes false. Thus, the argument is invalid. |
+| A contingent truth can entail a necessary falsehood. | False. Nothing matters, because the rpemise is true but the conclusion is always false. This is the definition onf invalidity. |
+| A necessary flasehood can entail a contingent truth. | True. The premises are never true; therefore we can conclude anything. |
+
+- Don't confuse truthhood and falsehood with validity.
+- Is there a way to obtain a tautology without using any disjuncts?
+
+````
+1. ~(P&Q)      Premise
+2. | ~(~Pv~Q)  Assume
+3. || ~P       Assume
+4. || ~Pv~Q    vIntro;3
+5. || #        #Intro;3-4
+6. || ~Q       Assume
+7. || ~Pv~Q    vIntro;6
+8. || #        #Intro;6-7
+9. | P         ~Intro;3-5
+10.| Q         ~Intro;6-8
+11.| P&Q       &Intro;9-10
+12.| #         #Intro;1,11
+13.~Pv~Q       ~Elim;2-12
+```
+
+```
+1. ~P                      Premise
+2. ~(Q&(~P&~R))            Premise
+3. | ~(~QvR)               Assume
+4. || ~Q                   Assume
+5. || ~QvR                 vIntro;4
+6. || #                    #Intro;3,5
+7. || Q                    ~Intro;4-6
+8. || R                    Assume
+9. || ~QvR                 vIntro;8
+10.|| #                    #Intro;3,9
+11.|| ~R                   ~Intro;8-10
+12.||~P&~R                 &Intro;1,11
+13.||Q&(~P&~R)             &Intro;
+
+4. || R                    Assume
+5. || ~QvR                 vIntro;4
+6. || #                    #Intro;3,5
+7. | ~R                    ~Intro;4-6
+8. | ~P&~R                 &Intro;1,7
+9. || Q                    Assume
+10.|| Q&(~P&~R)            &Intro;9,8
+11.|| #                    #Intro;2,10
+1
+13.~QvR                    ~Intro;3-12
+
+rip
+```
+
+
+
 
 
 
