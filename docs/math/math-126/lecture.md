@@ -256,7 +256,12 @@ $$\vec{a}_\vec{T} = \frac{\vec{r} \cdot vec{r}''}{\| vec{r}' \|} = \frac{8t + 18
 
 $$\vec{a}_\vec{N} = \frac{\| vec{r}' \times vec{r}''}{\| vec{r}' \|} = \frac{6t\sqrt{2}}{\sqrt{6 + 9t^2}}$$
 
+---
 
+## Week 5 Monday
+- Functions in two variables - input $$(x, y) \to z$$, $$z \in \mathbb{R}$$.
+- Graph of $$f(x, y) \to z$$ is a surface.
+- Contour maps
 
 
 
