@@ -427,7 +427,7 @@ Access [here](https://www.nytimes.com/interactive/2020/06/24/magazine/reparation
 
 ---
 
-# *Sorry to Bother You*, Riley Boots dir.
+## *Sorry to Bother You*, Riley Boots dir.
 View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1613332)>
 
 - Art vs labor: toiling, just surviving, the circle (4:55)
@@ -496,7 +496,7 @@ View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1
 - The female role must be attacked at its roots.
 - Struggle for social services must first originate from the establishment that femininity as work is work.
 
-### THe Struggle against housework
+### The Struggle against housework
 {: .no-toc }
 - Men presume that housework is easy and enjoyable.
 - The attitude of men will change when they see love as work.
