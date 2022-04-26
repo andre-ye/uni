@@ -524,6 +524,47 @@ View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1
 - Women are performing, pleasing - value is at stake in every sexual relation.
 - Nothing was happening.
 
+---
+
+## "The Dialectics of Still Life: Murder, Women, and Disposability" by Wright
+
+> Ambiguity is the pictorial image of dialectics, the law of dialectics seen at a standstill. This standstill is utopia and the dialectical image therefore a dream image. Such an image is presented 
+by the pure commodity: as fetish. Such an image are the arcades, 
+which are both house and stars. Such an image is the prostitute, 
+who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
+
+- Crime wave against women in Ciudad Juarez, Chihuahua.
+- Third world female disposability - factory production and urban violence.
+- Walter Benjamin - the dialectical image. What is the disposability of the Mexican woman worker?
+- Dialectical image: stillness obscures tensions that hold it in suspension, that keep it still.
+- Mexican woman - still life caused by a waste-value dialectic.
+- Mexican woman - variable capital fluctuating between value and waste. Labor power - producers value in excess to itself.
+- Marx - labor power is variable capital because it is worth less than the value of what it produces.
+- Labor power is worth less than the value of her labor.
+- 'Turnover' - dynamics of workers in and out of jobs, worker unreliabiility.
+- Gender distinguishes the untrainable and the trainable workers.
+- Kinship between discourse and materiality: women are protrayed as untrainable. Value of Mexican women does not appreciate into skill, but instead disintegrates; value is used up rather than accumulated.
+- The masculine subject is the other type of variable capital - the one that appreciates over time.
+- Wasting of the Mexican woman
+  - Value appreciates in what she is not
+  - Her turnover incorporates flexibility into the labor supply
+
+### The Murder Stories
+{: .no_toc }
+
+- Questions of murder victims: were they good girls?
+- "foreign serial killer" - the murder is imported from external lands.
+- Ciudad Juarez's social shock: erosion of 'traditional' values due to contact with liberal American soceity.
+- Proposal: the problem is cultural climate.
+  - Cultural declines anticipate death; cultural corrective against traditional values.
+- "Death by culture" narrative points to internal cultural forces that give rise to deviancy.
+- Femininity and wastedness: restore cultural values rather than seeking the perpetrators of crime.
+- Male jealousy of feminine independence is identiifed as the primary reason behind crime. Notion that industry cannot do anything to stop the crime.
+- Culture is used as justification for industry apathy. "invoking death by culture narrative to absolve the maquiladora industry of any implication in the violence"
+- The odd configuration of the Mexican woman: roots in female sexuality, motherhood, work ethic. Physiognomy of the Mexican female form.
+
+### Turnover and Corporate Death
+{: .no_toc }
 
 
 
