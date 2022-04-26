@@ -554,9 +554,39 @@ Multiculturalism (stemming from Melamed)
 - Absurdism vs meaning - politicized questions
 - Defeatist themes? Who carries on the fight? Is the fight worth fighting for? What is the role of hope?
 
+---
 
+## Week 5 Tuesday, *Sorry to Bother You* and Essays by Federici
 
+Continuing discussion of *Sorry to Bother You*
+- Understanding the Equisapiens - anti/metaphor?
+- Corporate representation of mobility, a critique of meritocracy.
+- Moving into the discussion of the white voice - many complex racial dynamics.
+- Anti-relationality between the workers: the Equisapiens vs the unionization effort. Two different roles and modes of revolution and change.
+- The Equisapiens are the revolutionary class. The union seems more reformist and concessionary.
+- A necessary politics of reform, the truly revolutionary class
+- Multirationalism and multirelationality in the union - the workers are *emphatically* multiracial. The Equisapiens represent something different, a race of their own.
+- MLK vs Newton and Carmichael - militant approahces. The film gives several explicit nods to the Panthers. MLK and unionization.
+  - Lift uses MLK-style reconciliation to recruit Cash into the reformist camp.
+- Wallerstein - capitalism manufactures racial lines.
+- Lifting out and pushiong in - the flexibility of racialization.
+- Biotechnological reproduction - racialized animalization of the Equisapiens. Joining of aniamlity and blackness used in slave-racial capitalization.
+- The term slave-racial capitalization insists that slavery is a capitalist system, it is an argument about capitalism; spearheaded by Baptist and Johnson.
+- "Same struggle, same fight" - harkens to the Communist Manifesto; the Communists always ally with cause of the proletariat.
+- The Equisapiens' understanding: very being has been saturated with the logic of capitalism.
+- Racist and sexualized nature of blackness: black men as a threat, justification for castration; on the female register, the rape of black women - logic of sexualization of blackness.
+- Lift - ideology of blackness, fetishization of constructs, minstruelcy, racialization of music.
+- Happy and oversexualized - love and theft of Minstruel shows
+  - Almost 'homoerotic' adoration of minstruelcy (?)
+- A complex scene: a black man imitating a white man imitating a black man.
+- Biotechnological violence: transformation of the human into the animal.
+- Films inside films: propaganda doesn't admit to the sources of its production; whitewashing of the Equisapien production process.
+- Appropriation of street art; constant expansion, etc. Race to sell capitalism back to black people.
+- Complacency and consciousness raising - what is the role of the classroom?
+- Gender politics and the white voice
 
+Essays by Sylvia Federici
+- Notes forthcoming
 
 
 
