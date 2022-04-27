@@ -263,8 +263,19 @@ $$\vec{a}_\vec{N} = \frac{\| vec{r}' \times vec{r}''}{\| vec{r}' \|} = \frac{6t\
 - Graph of $$f(x, y) \to z$$ is a surface.
 - Contour maps
 
+---
 
+## Week 5 Wednesday
+- We are interested in a measure of change for each dimension.
+- If you are interested in the derivative, simply take the derivative while treating the other dimension as a constant.
+- Higher order derivatives - measure concavity by taking the partial derivative of the same dimension twice.
+- Clairaut's throerem - it does not matter in which order you take the partial derivatives. It has commutativity.
+- Given a surface, if you zoom in to a point $$(x_0, y_0, z_0)$$, the surface will seem flat like a plane; this is the tangent plane.
 
+$$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
+
+- Implicit partial differentiation: the $$z$$ is entangled with $$x$$ and $$y$$. We cannot extract it as $$z = ...$$. Treat $$z$$ as a function of whatever independent variable.
+- Linear approximation from a tangent value.
 
 
 
