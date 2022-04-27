@@ -586,10 +586,52 @@ Continuing discussion of *Sorry to Bother You*
 - Gender politics and the white voice
 
 Essays by Sylvia Federici
-- Notes forthcoming
-
-
-
+- 1975 - rise of 'second wave feminism'.
+- First wave - suffrage movement of the 1920s. Came out of the abolition movement.
+- "Third wave" - 'modern feminism', although Weinbaum hates this term. What is the feminism we have now?
+- 'Feminism - no one would agree with feminism when Weinbaum came to the UW almost two decades ago. Now, most people would.
+- The theoretical movement of the 1970s and 80s - consciousness groups, activist groups (health care, abortion, etc.), legislation - the ability for women to defend themselves against attackers.
+- Whiteness of feminism.
+- Combahee River Collective - black feminist perspective. Manifesto of antiracism and feminism.
+- Implicit whiteness of Federici's text.
+- Feminism is often discussed in GWSS in different streams - large groupings of feminism. Feminism is a complex terrain.
+- Marxist feminism - a particular subset. How do capitalism and sexism function together? How does capitalism need sexism to go?
+  - Black Marxist feminism - includes the intersection of race.
+- Socialist feminism - Zyla Eisenstein. *Capitalist Patriarchy and the Case for Socialist Feminism.*
+- British context - Marxist feminism is very strong.
+- Reading a feminist perspective from Marx.
+- Wallerstein gives a hurried nod to feminism/sexism and capitalism in "Ideological Tensions of Capitalism". Still holds a limited instrumental idea of sexism, as is with racism. The hosuewife is kept to make the proletariat happy. Implicitly white and European; ignores that women of color almost always work in contexts outside the home. How to understand this relationship/
+- Argument that capitalism assumes gender and sexual systems.
+- Federici - capitlaism is dependent on reproductive labor, the reproduction of workers through birth, but also reproduction of the home, family work, the molding of children into workers. The core work is 'domestic work'.
+- Marx didn't understand this concept because the work wasn't waged. His analysis of sexism is a sub-structured class system: women are the proletariat and men are the bourgeoisie. Metaphor application of gender as class.
+- However, women are not just the proletariat - it is a more complex distribution of women across the class system.
+- Exploitation of women and the reproduction of capital.
+- Two dominant theories
+  - SRT - Social Reproduction Theory. Reproduction as core to the whole system.
+  - DST - Dual Systems Theory. Women perform reproductive labor in the private sphere, and productive labor in the public sphere. "Women's work" - feminized labor, exploited. Private/public separation that is reconciled.
+- Federici argues for SRT, taking a Marxist-feminist approach. Writing emerges from post-war Europe; Italy was recently consumed by fascism.
+- European/Italian control takes on new meaning in society.
+- One may observe surface-level similarities to Wallerstein, but deeper, we see that Federici looks closely at psychological losses, truths that resonate.
+- Concept of primitive accumulation - accumulation is ongoing rather than a static, primitive action. Retelling the tale of primitive accumulation from a feminist perspective.
+- Capitalism took a long time to get started; it took more time to get running than it has existed. Capitalism is not necessarily 'inevitable' or 'rational'. 
+- Women are one of the first groups appropriated by capitalism - forced into the home, bodies appropriated into domestic workers.
+- The sexual economy emerges; sex and reproduction emerge as paid work.
+- "The enclosure of the reproductive commons"
+- Corralling of women
+- A different kind of sex, beyond the transactional capital facilitation
+- Social reproduction of lesbianism
+- Judith Butler - disaggregation of sex and gender, 1980s
+  - "Gender Troubles"
+  - Sex is the biological construct, gender is attached to sex and the lived reality.
+  - Butler - deconstructionist, suggests sex itself does not exist.
+- "Heterosexual Matrix"; a relationship reproduces the dominant paradigm. Procreative sex is needed to go; it is the dominant logic.
+- Refusal of antirelationality, recalamtion as the state of feminist revolution.
+- Performative politics - spontaneous movement and visibility. Stopping the wheels of capitalism.
+- Autonomism - platform of wage for housework, demanding wages as the starting place.
+- Refusal of the rationalization of women's labor of reproduction.
+- The trope of naturalization - biologization, paradigm as an ideologized construct
+- Paying wage for housework reveals its essential nature to the capitalist system.
+- Today: essential workers in the pandemic have been forgotten; their work is feminized work, naturalized.
 
 
 
