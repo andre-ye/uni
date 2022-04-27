@@ -565,9 +565,39 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 
 ### Turnover and Corporate Death
 {: .no_toc }
+- Value-enhancing process of training.
+- Training - cultivation of the sustainable worker.
+-  Variable capital: value of labor power varies not only because it produces value, but also because it produces *waste*.
+- Intrinsic appreciation vs degredation into waste.
+- Feminist contribution doesn't replace Marxist analysis, but reveals how poststructuralist theorization of Marxist capitalist critique.
+- Maquiladora boosters connect worker quality with the fruits of their labor (products).
+- Potential transformation of labor
+- Sorting of labor into trainable nad untrainalb egroups. 
+- Early differentiation of the worker pool into the skilled and unskilled; the female laborer is seen as unskilled and untrainable.
+- Relations of gender play out into untrainability - women's skills are 'natural'. A worker with an untrainable, immobile position.
+- Gendering of work positions.
+- The untrainable Mexican woman is still valuable to the firm. 
+- Mexican women are coveted for feminine qualities - dexterity, detail, pateince; naturalization.
+- Women leave too quickly to extract the value from desirable feminine qualiites - excessive turnover.
+- Insufficient turnover is another waste: excessive productive capacity.
+- Harassmen tof pregnant women.
+- Dialectical determination of the female subject: ambiguous separation of value from waste.
+- Disposability - not worth the cost of her own social reproduction.
+- Turnover as attributed to cultural constitution.
+- Corporate deaths as evidence of death by culture.
 
+### Death by Culture
+{: .no_toc }
 
+- Juarez murderers discard victims once their value has been extracted.
+- Fluctuation between value and waste is appeal for the employer.
+- The Mexican woman can only be a temporary worker; intrinsic value does not appreciate but rather decays.
+- Fetish as an entity 'on display'. Possibility of a human existence that is really worthless despite valuable representation.
+- Butler - "repeated inculcation of the norm"
+- Ambiguity: waste is never stable or complete. The possibility of value perpetuates sorting as we search for wasted value.
+- Dialectic constitution: suspended between antithetical conditions.
 
+> "Meanwhile, she hangs in the balance".
 
 
 
