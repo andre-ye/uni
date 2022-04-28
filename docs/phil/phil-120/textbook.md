@@ -696,10 +696,24 @@ Thus,
 - PROP does not give us the ability to express more truth functions than BOOL.
 - However, PROP allows us to model and study conditionals.
 
+---
 
+## Chapter 18: Proofs with Conditionals
 
+### 18.1: Modus Ponens
+- PROP has all the formal rules that BOOl does - but we need Intro and Elim for conditional and biconditional rules.
+- Reasoning from a conditional is very natural.
+- Modenus ponens: from $$P$$ and if $$P$$ then $$Q$$, you can infer $$Q$$.
+- Affirming the consequent: $$P \to Q$$ and $$Q$$; therefore, $$P$$. This is a fallacy.
+- With bidirectional conditions, you can do Modus Ponens in either direction.
 
+### 18.2: $$\to$$ Elim and $$\iff$$ Elim
 
+```
+1. P        Premise
+2. P -> Q   Premise
+3. Q        ->Elim;1,2
+```
 
 
 
