@@ -601,6 +601,65 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 
 ---
 
+## "Bounded Authenticity and the Commerce of Sex", Bernstein
+
+- Transformations in economic and cultural life manifest in bodies and sexual expression.
+- Sexual commerce  in a late-capitalist global marketplace.
+- Wide range of commercialized sexual material and experience.
+- Relationship between economy and desire
+- Global restructuring of capitalist rpoduction in the 1970s are responsible for rapidly expanding and diversifying sex trades.
+
+### Old and New Markets in Sexual Labor
+{: .no_toc }
+- Modern prostitution has not existed for very long; decline of the traditional family.
+- New ideologies of gender and sexuality
+- Premodern sex commerce was organized during limited periods of hardship.
+- Female prostitutes as the outsided criminal
+- Postindustrial cities have seen remappings of vice boundaries.
+- New markets in the unsuspecting periphery of the city.
+
+![image](https://user-images.githubusercontent.com/73039742/166070088-443d2e7f-b794-4028-a6a2-62c7f4f32895.png)
+
+- Classic paraphernalia of the sex trade recedes; sexual service becomes more dispersed.
+
+### The Subjective Contours of Market Intimacy
+{: .no_toc }
+- Modern prostitution - expedient and emotionally contained exchange of cash for sexual release.
+- prostitutes developed strategies to distance themselves from their labor.
+- 'Career prostitute' vs 'crack prostitute' - 'crack prostitutes' are perceived by 'career prostitutes' to not sufficiently separate public and private selves.
+- Remapping of the erotic body geography. Certain sexual practices, components of the self, parts of the body are off limits.
+- Not selling intimacy: selling the man his orgasm.
+- Postindustrial sexual commerce: incorporates emotional and physical labor.
+- Bounded authenticity - sale and purchase of authentic emotional and physical connection.
+- Postindustrial sexual commerce: emotional authenticity explicitly incorporate dinto the economic contract.
+  - Fulfill clients' fantasies of sensuous reciprocity.
+  - Manufacturing genuine relations
+- Clear and bounded natur e of the encounter.
+- Reorganization of personal life in postindustrial urban centers.
+- 'Girlfriend Experience' - proceeds like a nonpaid encounter.
+- GFE is not merely a sad substitute for a 'real girlfriend' - attachment of money provides a boundary
+- Men want an emotional connection without obligations.
+- Erotic paradigm - premised upon discrete sexual encoutners compatible with individually oriented life.
+
+### Transofmrations in Economy, Kinship, and Sexuality
+- Frailty of marriage and long-term relationships in late-capitalist society.
+- Old and New regimes of intimacy. Gay marriage and abortion - distances form traditional procreative oreintations towards sex.
+
+![image](https://user-images.githubusercontent.com/73039742/166072001-818287ca-31cb-444c-91ff-1ef61530bd0f.png)
+
+- Bounded & commodified vs natrualized quality of transacted intimacy.
+- Procreative vs relational worldviews
+
+### Conclusion
+{: .no_toc }
+- Commodification of sexuality is not transparently equatable with emotionally diminished erotic experience.
+- More men,  middle-class, young, white - soical groups entering bounded authenticity sexual ethos.
+- Labor conducted within market-generated social hierarchies.
+- Male and female sexuality - continually reconstructed with isolable techniques.
+- 
+
+---
+
 ## "Economies of Emotion, Familiarity, Fantasy, and Desire", Hoang
 - Growth of global sex tourism - convergence of prostitution $$+$$ global sex tourism $$\bot$$ global $$+$$ local
 - Anonomity of the consumer
@@ -644,9 +703,33 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 ### High-End Sector: “She’s Desired by Other Men, but She’s with Me”
 {: .no_toc }
 
+- Women in the high-end sector engage in complex economic and intimate relations.
+- Relational work - most women generate most profit fromgifts.
+- Invest significantly into image.
+- Capitalize upon beauty and commodification of emotions.
+- Viet Kieu men come to Vietnam to consume more than sex. They feel desired by purchasing the services of highly desirable women.Sex workers commodify their emotions: invoke power and masculinity in clients.
+- Expensive gifts - differentiation from mid- and low-end explicit sex schemes.
+- Deep-acting.
+- Convey to desirable clients that they are women with choices, desirable. *Not a working woman.*
+- Emotional labor/care work
+- Temporal dimension of relations: significantly extended temporality in the construction of a fantasy.
+- Compensation through gifts allows for anonymity.
+
+### Conclusion
+{: .no_toc }
+
+- Women capitalize and engage in expressive and repressive emotional labor.
+- Hierarchical complexity in Ho Chi Minh City's sex industry.
+- Commodification of repressive nad expressive emotional labor, varying upon socioeconomic position.
+
+---
+
+## "Bloodchild", Butler
 
 
+---
 
+## Introduction to , Weinbaum
 
 
 
