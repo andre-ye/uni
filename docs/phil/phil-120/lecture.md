@@ -523,6 +523,7 @@ T  TT
 
 $$A \iff B = (A \to B) & (B \to A)$$
 
+- $$\if$$ does not possess commutativity; $$A\to(B\to C) \neq (A\to B)\to C$$
 
 
 
