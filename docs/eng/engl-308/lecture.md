@@ -115,7 +115,7 @@ ENGL 308
 
 ---
 
-## Week 1 Thursday - Parts I and II of *The Communist Manifesto*
+## Week 1 Thursday - Marx & Engels - Parts I and II of *The Communist Manifesto*
 - Naomi Klein, *Corona Capitalism* - much has happened in the past few years. It reads differently in retrospect.
   - The *Manifesto* is about crises, recurring crises - crises veer off into new directions, new ideas and eras, revolutions. Hurculean jumps are possible in crises.
   - The Pandemic was thought to maybe be one of those crises serving as a catalyst for transformation.
@@ -199,7 +199,7 @@ Ideas from Discussion
 
 ---
 
-## Week 2 Tuesday, *The Communist Manifesto* Continued
+## Week 2 Tuesday, Marx & Engels - *The Communist Manifesto* Continued
 - What is class?
 - 1840 as the year of revolution
 - What is capital? Capital as social power/people power, or as private property. Competing definitions.
@@ -268,7 +268,7 @@ Ideas from Discussion
 
 ---
 
-## Week 2 Thursday, *The Communist Manifesto*, "Theses on Feuerbach", and "Bartleby, The Scrivener"
+## Week 2 Thursday, Marx & Engels and Melville
 - The Melville discussion will continue on to Tuesday.
 - Repsonses - got to half with comments.
 - Overall, the responses were well-written. helpful responses ask questions rather than trying to make full-fledged claims, which arguably we are not ready to make yet.
@@ -349,7 +349,7 @@ Questions for the text
 
 ---
 
-## Week 3 Tuesday, "Bartleby, the Scrivener" and “The Ideological Tensions of Capitalism: Universalism versus Racism and Sexism” by Wallerstein
+## Week 3 Tuesday, Melville and Wallerstein
 - We are now entering a unit on racial capitalism - intersection of race and class.
 - A film is assigned for next Thursday: film watching should not merely be passive. Start and pause, engage with the film, watch multiple times if needed.
 - Look for significant phrases, camera operations, etc.
@@ -412,7 +412,7 @@ Questions for the text
 
 ---
 
-## Week 4 Tuesday, Essays by Wallerstein and Melamed
+## Week 4 Tuesday, Wallerstein and Melamed
 - Reading the 1619 project - what does the 1619 project represent? People are misinclined to belief largely because of economic benefit from the suppresion of information.
 - Cultural production is a centerpiece of how the world works. The power of education and teaching, sharing stories.
 - Management of the plantation
@@ -556,7 +556,7 @@ Multiculturalism (stemming from Melamed)
 
 ---
 
-## Week 5 Tuesday, *Sorry to Bother You* and Essays by Federici
+## Week 5 Tuesday, *Sorry to Bother You* and Federici
 
 Continuing discussion of *Sorry to Bother You*
 - Understanding the Equisapiens - anti/metaphor?
@@ -633,9 +633,30 @@ Essays by Sylvia Federici
 - Paying wage for housework reveals its essential nature to the capitalist system.
 - Today: essential workers in the pandemic have been forgotten; their work is feminized work, naturalized.
 
+---
 
+## Week 5 Thursday, Federici and Wright
 
+Federici
+- Perhaps deceptivcely simple. It can feel out of date, easily dismissable/castable.
+- Refsual of wages - shift in thinking, such that the conceptual becomes palpably material.
+- SRT - trend in Marxist feminism.
+- (re)production - reproductive labor for sale on the market. This has happend during chattel slavery, and now. 
+- Federici's treatment of bourgeoisie women? Essay begins more with a focus of the post-war proletarian housewife, then moves to the end as a grander gesture that the housewife must be a position all women get behind.
+- An argument ahead of her time. A refusal of imposed sexuality is a refsual of sex work, a 'general strike'
+- Idealization of lesbianism? Replication of capitalism/heterosexual templates, division of reproductive work.
+- Federici's formulation of gender is not quite about the body, but how gender is distributed across the system.
+- Not an argument of bodies, but an argument about the organization of gender. Capitalism needs feminimization and mascdulinization, rather than really heterosexuality or the states of male/female itself. 
+- Socieites without capitalism have held a space for a third sex.
+- Distinction in theorization between gender and sex.
+- Federici somewhat pre-dates Butler. Gender vs sex.
+- Reactionary lament by modern conservative pushes? Loss of reproductive places in society; intellectual protection of the cycle of (re)production. Anxiety about the loss of biological specificity - how much of the anxiety here is capitalist?
+  - Male pregnancy as an explicit challenge to (re)production
+- Not enough attention in queer scholarship to capitalism - not just a question of gender or sexual politics
+- Federici understands the psychological cost of womanhood, degradation of reproduction and feminized labor required to make capitalism go.
+- Production $$\iff$$ Reproduction, Private $$\iff$$ Public
 
+To be continued
 
 
 
