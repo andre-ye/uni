@@ -442,7 +442,7 @@ Which ones are true?
 - Don't confuse truthhood and falsehood with validity.
 - Is there a way to obtain a tautology without using any disjuncts?
 
-````
+```
 1. ~(P&Q)      Premise
 2. | ~(~Pv~Q)  Assume
 3. || ~P       Assume
@@ -487,14 +487,27 @@ Which ones are true?
 rip
 ```
 
+## Week 5 Friday
+- Antecedent, consequent, conditional
+- Conditional vs biconditional
+- PROP - short for 'propositional logic'. 
+- Conditional and biconditional both get eliimination rules.
+- Conditionals are not necessarily causal; even though causalities form conditionals.
+- If $$P$$, then $$Q$$: $$P$$ is the antecedent.
+- $$Q$$ if $$P$$: $$P$$ is the antecedent.
+- $$P$$ only if $$Q$$: $$P \to Q$$
+- $$A \iff B = (A \to B) & (B \to A)$$
+- 'if and only if', 'just in case': synonyms for bidirectionality.
+- `H->M`: `H` is sufficient for `M`, `M` is necessary for `H`
+- `P->Q` is trivially/vacuously true if `P` is false.
 
-
-
-
-
-
-
-
+```
+~(P->~Q)
+T T FFT
+F T TTF
+F F TFT
+F F TTF
+```
 
 
 
