@@ -278,10 +278,16 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 - Linear approximation from a tangent value.
 
 
+---
 
+## Week 5 Friday
+- The tangent plane contains all of the tangentn lines. You can obtain the tangent plane equation just from two tangent vectors. The two direction vectors in each plane can help us understand the tangent plane.
+- We can therefore check extrema just using $$f_x = 0$$ and $$f_y = 0$$.
+- Second derivative test - $$D = f_{xx} (a, b) f_yy(a, b) - f{xy}^2(a, b)$$.
 
+> Find the extrema of $$f(x, y) = 4 + x^3 + y^3 - 3xy$$.
 
-
+> **Solution.** $$f_x = 3x^2 - 3y$$, $$f_y = 3y^2 - 3x$$. From $$f_x = 0$$, we know that $$y = x^2$$. Plugging this in into $$f_y = 0$$, we know that $$3x^4 - 3x = 0 \iff x \in {0, 1}$$. The two critical numbers are $$x = 0$$ and $$x = 1$$. The two critical points are $$(0, 0)$$ and $$(1, 1)$$.
 
 
 
