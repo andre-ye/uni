@@ -428,4 +428,45 @@ $$dz = f_x(x, y) dx + f_y(x, y) dy = \frac{\partial z}{\partial x} dx + \frac{\p
 
 $$f(x, y) \approx f(a, b) + dz44
 
+### 14.4: Tangent Lines and Linear Approximations
+- We can extend the tangent line to approximate values near a point.
+
+Tangent Planes
+- The tangent plane to the surface $$S$$ at point $$P$$ is the plane containing both tangent lines.
+
+$$z - z_0 = a(x - x_0) + b(y - y_0)$$
+
+$$a = f_x(x_0, y_0), b = f_y(x_0, y_0)$$
+
+Linear Approximations
+- Linearization $$L$$: a linear approximation/tangent plane approximation of a function $$f$$ at some point $$P$$.
+
+$$\Delta y = f'(a) \Delta x + \epsilon \Delta x, \epsilon \to 0 \text{ as } \Delta x \to 0$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
