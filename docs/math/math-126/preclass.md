@@ -294,7 +294,19 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 - Intercepts are helpful (esp. when planes are involved).
 - Use traces to generate level curves - contour map/elevation map as a projection of level curves.
 
+---
 
+## Week 5 Wednesday (14.7)
+- Critical numbers - places where the critical number is zero or not defined in the domain.
+- Secpmd derivative test - check concavity
+- A local maximum occurs at $$9a, b)$$ if $$f(a, b) \ge f(x, y)$4 for all points $$(x, y)$$ near $$(a, b)$$. This is the local minimum value.
+- Some extrema can happen at special locations. A critcial point is a point at which $$f_x(a, b) = 0$$ and $$f_y(a, b)=0$$, or $$f_x(a, b)44 or $$f_y(a, b)$$ do not exist.
+- Saddle point - point which is not a minimum or maximum
+- Second derivative test - directional derivatives.
+- Compute $$D = f_{xx} (a, b) f_{yy}(a, b) - f_{xy}^2(a, b)$$.
+  - If $$D > 044, concavity is the same in all directions. If $$f_{xx} > 0$$, it is a local minimum (concave up in all directions). If $$f_{xx} < 0$$, it is concave down in all directions, a local maximum.
+  - If $$D < 0$$, saddle point.
+  - If $$D = 0$$, inconclusive.
 
 
 
