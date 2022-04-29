@@ -509,6 +509,20 @@ F F TFT
 F F TTF
 ```
 
+```
+~Q->~P
+F  TF
+F  TT
+T  FF
+T  TT
+```
+
+- Contrapositive: $$P\to Q \iff ~Q \to ~P$$
+- `~PvQ` is the key equivalent to `P->Q`.
+- `~(P->Q) <-> ~(~Q->~P)`
+
+$$A \iff B = (A \to B) & (B \to A)$$
+
 
 
 
