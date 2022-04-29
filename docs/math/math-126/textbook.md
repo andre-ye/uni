@@ -419,7 +419,13 @@ Partial Differential Equations
 - 3-dimensional Laplace equation: $$\frac{\alpha^2 u}{\alpha x^2} + \frac{\alpha^2 u}{\alpha y^2} + \frac{\alpha^2 u}{\alpha z^2} = 0$$
 - Wave equation: $$\frac{\alpha^2 u}{\alpha t^2} = a^2 \frac{\alpha^2 u}{\alpha x^2}$$
 
+Differentials
+- We can define the differential to be an independent variable. 
+- Differential of $$y$$ is $$dy = f'(x) dx$$
+- For a differentiable function of two variables, we can define $$dx$$ and $$dy$$ to be independent variables. The total differential $$dz$$ is
 
+$$dz = f_x(x, y) dx + f_y(x, y) dy = \frac{\partial z}{\partial x} dx + \frac{\partial z}{\partial y} dy$$
 
+$$f(x, y) \approx f(a, b) + dz44
 
 
