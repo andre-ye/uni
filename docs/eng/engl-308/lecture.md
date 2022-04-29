@@ -655,6 +655,17 @@ Federici
 - Not enough attention in queer scholarship to capitalism - not just a question of gender or sexual politics
 - Federici understands the psychological cost of womanhood, degradation of reproduction and feminized labor required to make capitalism go.
 - Production $$\iff$$ Reproduction, Private $$\iff$$ Public
+  - Everything is connected via reciprocal understandings
+- How to articulate the argument for wages for hosuework? Reparations for housework function ultimately as an activist rhetorical technique.
+- Birthrate and nationalist/capitalist politics
+- Pro-natalist countries - birth incentives, women are paid to reproduce.
+- What happens when the US birthrate declines?
+- Abortion - what is the anti-abortion movement about? Anxiety about women controlling their reproductive labor. *Birth Stirke*, J. Brown.
+  - Usually discussed as a nationalist rather than a capitalist/economic question.
+
+Wright
+- A professor and scholar. Captures important dynamics in the racialization and feminization of labor.
+- We are jumping 40 years forward in time and conceptualization.
 
 To be continued
 
