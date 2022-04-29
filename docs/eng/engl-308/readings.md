@@ -30,7 +30,7 @@ ENGL 308
 ### Introduction
 {: .no_toc }
 
-- Marx & Engles wrote *The Communist Manifesto* at ages 29 and 27; the work was published in February of 1848.
+- Marx & Engels wrote *The Communist Manifesto* at ages 29 and 27; the work was published in February of 1848.
 - Marx studied at the University of Berlin and took to the teachings of Hegel's master-slave dialectic.
 - Progress through conflict.
 - Marx later rejected the Young Hegelians for being insufficiently materialist and realist.
@@ -599,11 +599,50 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 
 > "Meanwhile, she hangs in the balance".
 
+---
 
+## "Economies of Emotion, Familiarity, Fantasy, and Desire", Hoang
+- Growth of global sex tourism - convergence of prostitution $$+$$ global sex tourism $$\bot$$ global $$+$$ local
+- Anonomity of the consumer
+- Emotional labor and desire - low, mid, high-end sectors of sex work.
+  - Low-end - cater to local Vietnamese clients. Repressive emotional labor.
+  - Mid-tier - white men in the backpacker's district. Emotions as currency; manipulated.
+  - High-tier - emotions of care, cater to Viet Kieu overseas Vietnamese men. Economic activity mixed with intimacy.
+- Elizabeth Bernstein - compare sex workers in different sectors of a particular sexual economy.
+- *Bounded authenticity* - low-level transactions are impersonal, no involvement of emotional labor.
+  - Low-end sex workers, on the contrary, perform *repressive* emotional labor.
+  - Mid-level and high-level sex workers engage in *expressive* emotional labor.
 
+### Ho Chi Minh City
+{: .no_toc }
 
+- Vietnam closes in 1975; prostitution is somewhat restricted but not entirely.
 
+### Low-End Sector: “I Have to Finish Him Off in Twenty Minutes”
+{: .no_toc }
+- Disguised barbershops - about $40 per month to rent the spaces
+- Women - resembled local housewives, an object of desire centered around familarity.
+- Operates mainly throughout the day; work is concealed from families and can come home to children.
+- *Survival sex* - most men who participate are unemployed or unskilled laborers (proletariat?)
+- Single women enter sex work to support children. Can make more money than working in a restaurant.
+- Capital and sex - extracting value from female bodies
 
+> "Although clients do not expect these women to engage in forms of expressive emotional labor, the women in this sector engage in deep acting to suppress their feelings of disdain toward their clients."
+
+### Mid-Tier Sector: “She’s a Strong and Honest Person”
+{: .no_toc }
+- Backpacker area: cater to international tourists of varied socioeconomic levels.
+- Sex workers are disguised as bartenders. They earn no wages from the bar owner; the bar is a space to meet foreign clients.
+- Bars have a high turnover rate.
+- Hanh - divorced Vietnamese husband for American husband, but still works in the sex industry: two different loves. Still need to send money to ex-husband and kids.
+  - *A love born out of what they have done for you.*
+- Boundaries between emotional labor and authenticity - blurred.
+- Capitalization on country as poor and Third World to construct a fantasy in which clients feel as saviors.
+- Reciprocal care
+- Induce feelings of love and sympathy: enable support.
+
+### High-End Sector: “She’s Desired by Other Men, but She’s with Me”
+{: .no_toc }
 
 
 
