@@ -666,12 +666,65 @@ Federici
 Wright
 - A professor and scholar. Captures important dynamics in the racialization and feminization of labor.
 - We are jumping 40 years forward in time and conceptualization.
+- Race and gender are not quite separable.
+- Wright's work - ideological portrait of feamle workers. Devaluation of feminized labor.
+- Traversing the feminist genelogy
+- Women not only as paid laborers, but alos unpaid. Women as labor and sexual bodies - it cannot be spearated.
+- Wright prefers 'myth' over 'ideology'. Wants to make the text readable.
+- 'Myth' - not all stories are myths, but all myths are stories. Mythies - socially useful lie. Unquestionalb euathority - empty of history - creation of a naturalized essence, a tautology.
+- Myth - closing of politiczation, constructs hierarchies without needing to explain them.
+- Connections with Federici: female body feminized and biologized. Neitherq uite explicitly theorize this. Lift out of context: at any time the female body is naturalized, not merely in Juarez or post-war Italy. Slave-holders, mythologies of black women, etc. Suiting of women to capitalism.
+- Housewife - postwar phenomenon. No housework before the age of Truman, economy of ideologized separate spheres.
+- Synergy between historical needs and capitalist needs, a complex relationship.
+- Oppression in public and private spaces shape each other; these are inseparable.
+- Disposable Women - 2006 work. Comparative study of Chinese and Mexican workers.
+- Common idea about racialized female workers.
+- Value lies in discursive production. INterested in myth and discourse. HOw do we tell the story of the body?
+- Discourse about Mexican and Chinese women that allows them to be disposed.
+- 'Disposability' as three things - 
+  - a discourse
+  - a myth - not neutral, mythologized
+  - a norm - normative, reputation of treatemnet and myths about them
+- Judith Butler - repititon of ideas form material reality.
+- Key ideas - contradiction. The worth/value of the disposable worker comes out of their worthlessness.
+- Subjects do not apply the myth to themselves. It is more about how Mexican women are bieng talked about, by whom and where, how. Where is the myth emenating from?
+- Mythology as a tool (technology?) for oppression.
+- Wright - to interrupt the myth by narrating a different story.
+- Industry - how to catalyze the point of the corporation, ethnographic research.
+- Societal movement resisting the treatment of workers.
+- 20 years old text. Since then, much has happened in Juarez. In 2020, the Seattle Times reported a spread about the women in Juarez. There are activist perspectives (documentaries, etc.) as well as sensationalized mainstream documentation (Vice, etc.)
+- New epicenter of femicide is in central America.
+- 'Femicide' - killing of women in the global-south context.
+- No state support in sentencing.
+- Mexican president - Melamed and multiculturalist dialogue; nothing is really happening; acknowledgement via neutralization.
+- Not really bout who the killer is, but why it is happeningand not being stopped by the state.
+- Important Marxist concepts
+  - Variable capital - amount of capital invested into labor and wages paid. This fluctuates a lot and is where profit comes from. Labor and be driven down via degredation, feminization, etc. Allows for surplus extraction.
+  - Dialectic image - comes from Walter Benjamin. First Marxist cultural philosopher. The dialectic image is a moment in which contradictions of the system suddenly overwhelm and the system can be seen clearly. Figure o fthe prostitute - embodies the contradiction of capitalism. The prositute as the dialectic image. Wright is projecting the dialectic image to the maquila worker.
+- Three questions:
+  1. How are the murders in Juarez discussed? How do the corporations exonerate themselves?
+  2. Dicourse of disposability - what does it do for the corporations?
+  3. How are the two pars of the essay joined together?
+- Discourse of disposability - corporations and society create narratives that promote and sustain relations of disposability
+- Axis of collapse and interchangeability of cheap labor, Wallerstein
 
-To be continued
-
-
-
-
+Discussion Notes
+- Death by Culture - 'bad girl' - traditional culture benefits from the killings (?)
+- Investment of Mexican traditionalist culture in the murder of Mexican women?
+- Murder as turnover - a form of turnover?
+- Madonna/Whore - feminism understanding as binary good/bad place for women, especially dominant paradigm in cCatholic cultures. Corporate myth reproduces the Madonna/Whore dynamic, punishment and disposability; works for capitalism
+- Purity/Waste
+- Women aren't really deteriorating. The concept of disposability and deterioration is a myth to form the interchangeable.
+- State and corporations. The state is invested in traditionalist culture. Corporations collaborate with the state.
+- Premature death - sanctione ddeath by culture.
+- The state and the corporation - mutual interests, but articulated differently. 
+- Discussion maybe engaging in pathologizing narration of Mexican culture? 'Death by culture' is itself a problem. MObilized by the state and the corporation.
+- A culture that wants women dead? Distance between when the piece was written and when it is received.
+- Corporations mobilize discourse for their own ends.
+- Investment in conservative culture by conservative culture; disposability of life, norming through repitition.
+- Export Processing Zones - tax free zones in which hyper-exploitation at a surplus dividend is possible. NAFTA is about opening up EPZs.
+- Interchangeability/fungeability is not quite the same as disposability.
+- Dialectic between gender and race. This site is a specific manifestation.
 
 
 
