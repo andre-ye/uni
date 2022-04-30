@@ -725,7 +725,16 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 ---
 
 ## "Bloodchild", Butler
-
+- Sterile eggs - eating eggs.
+- Mother figure does not take the eggs.
+- Eggs prolong life and vigor.
+- Birth and trading of children
+- Grubs
+- Reproduction, 'screwing everything'
+- Bodies, sex, gender
+- Protected from seeing
+- Injection - procreation? One-sided creation?
+- Pregnant man
 
 ---
 
