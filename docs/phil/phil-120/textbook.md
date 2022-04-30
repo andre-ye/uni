@@ -715,10 +715,22 @@ Thus,
 3. Q        ->Elim;1,2
 ```
 
+### 18.3: Conditional Proof
+- Conditional obeys transitivity: $$P \to Q$$ and $$Q \to R$$ entail $$P \to R$$.
+- You always want to show that when the antecedent is true, the consequent is true.
+- For biconditionals, do two separate proofs in either direction.
 
+### 18.4: $$\to$$ Intro and $$\iff$$ Intro
+- Conditional proof: temporarily assume the atecedent, get the consequent. 
+- Setting up an $$\to$$Intro proof is the easiest way to prove a conditional.
 
+---
 
+## Chapter 19: Formal Proofs in PROP
 
+---
+
+## Chapter 20: Metalogic
 
 
 
