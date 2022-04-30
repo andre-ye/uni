@@ -6,7 +6,7 @@ grand_parent: Mathematics
 nav_order: 100
 ---
 
-# Cheat SHeet
+# Cheat Sheet
 {: .no_toc }
 
 MATH 126
