@@ -6,7 +6,7 @@ grand_parent: Mathematics
 nav_order: 100
 ---
 
-# Preclass Notes
+# Cheat SHeet
 {: .no_toc }
 
 MATH 126
@@ -116,7 +116,15 @@ The tangent plane to the surface $$S$$ at a point $$P$$ is the plane containing 
 
 $$z - z_0 = f_x(x_0, y_0) (x - x_0) + f_y(x_0, y_0) (y - y_0)$$
 
+To find critical values, find points at which all partial derivatives are 0 or one partial derivative does not exist. To determine the nature of the critical value, find $$D$$ as defined below and follow the algorithm.
 
+$$D(a, b) = f_{xx}(a, b) f_{yy}(a, b) - \[f_{xy} (a, b)\]^2$$
+
+1. If $$D > 0$$, then $$f(a, b)$$ is a local minimum or maximum.
+  1. If $$f_{xx}(a, b) > 0$$, then local minimum.
+  2. If $$f_{xx}(a, b) < 0$$, then local maximum.
+2. If $$D < 0$$, then not a local maximum or minimum (saddle point).
+3. If $$D = 0$$, then inconclusive.
 
 
 
