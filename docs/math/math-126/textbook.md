@@ -443,8 +443,18 @@ Linear Approximations
 
 $$\Delta y = f'(a) \Delta x + \epsilon \Delta x, \epsilon \to 0 \text{ as } \Delta x \to 0$$
 
+### 14.7: Maximum and Minimum Values
+- If $$f$$ has a local maximum or minimum at $$(a, b)$$ and the first-order partial derivatives of $$f$$ exist there, then $$f_x(a, b) = 0$$ and $$f_y(a, b) = 0$$.
+- Critical point/stationary point: if both partial derivatives are 0 or one of them does not exist.
+- Second derivative test - find $$D$$ as follows.
 
+$$D(a, b) = f_{xx}(a, b) f_{yy}(a, b) - \[f_{xy} (a, b)\]^2$$
 
+1. If $$D > 0$$, then $$f(a, b)$$ is a local minimum or maximum.
+  1. If $$f_{xx}(a, b) > 0$$, then local minimum.
+  2. If $$f_{xx}(a, b) < 0$$, then local maximum.
+2. If $$D < 0$$, then not a local maximum or minimum (saddle point).
+3. If $$D = 0$$, then inconclusive.
 
 
 
