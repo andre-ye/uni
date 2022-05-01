@@ -308,8 +308,7 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
   - If $$D < 0$$, saddle point.
   - If $$D = 0$$, inconclusive.
 
-
-
+---
 
 
 
