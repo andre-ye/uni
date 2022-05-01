@@ -728,6 +728,39 @@ Thus,
 
 ## Chapter 19: Formal Proofs in PROP
 
+### 19.1: $$\to$$ Conclusions
+- When your conclusion is a wide-scope arrow, begin with an $$\to$$Intro proof. This is always the best way to go about it.
+
+### 19.2: $$\to$$ Premises
+- A conditional premise does not tell you what to do right away.
+- You must 'earn' the antecedent
+
+### 19.3: The Contradiction Tricky
+- A negation around a conditional can be tricky.
+
+```
+1. ~(P->Q)         Premise
+2. | ~P            Assume
+3. || P            Assume
+4. || #            #Intro;2,3
+5. || Q            #Elim;4
+6. | P->Q          ->Intro;3-5
+7. | #             #Intro;1,6
+8. P               ~~Intro;2-7
+```
+
+### 19.4: The Reiteration Trick
+
+```
+1. ~(P->Q)     Premise
+2. | Q         Assume
+3. || P        Assume
+4. || Q        Reit;2
+5. | P->Q      ->Intro;3-4
+6. | #         #Intro;1,5
+7. ~Q          ~Intro;2-6
+```
+
 ---
 
 ## Chapter 20: Metalogic
