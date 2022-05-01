@@ -456,8 +456,12 @@ $$D(a, b) = f_{xx}(a, b) f_{yy}(a, b) - \[f_{xy} (a, b)\]^2$$
 2. If $$D < 0$$, then not a local maximum or minimum (saddle point).
 3. If $$D = 0$$, then inconclusive.
 
-
-
+Absolute Maximum and Minimum Values
+- Extreme Value Theorem - if $$f$$ is continuous on a closed interval $${a, b]$$, then $$f$$ has an bsolute minimum and maximum value.
+- A closed set contains all of its boundary points.
+- A bounded set is 'finite'.
+- To find the absolute minimum and maximum values, find the critical points, find the extreme values on the boundary, and find the largest and smallest values from these sets.
+- 
 
 
 
