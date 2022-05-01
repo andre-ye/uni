@@ -761,6 +761,21 @@ Thus,
 7. ~Q          ~Intro;2-6
 ```
 
+### 19.5: Biconditionals
+- Biconditionals are the same, just do the work twice.
+
+```
+1. ~(P<->Q)    Premise
+2. | P&Q       Assume
+3. || P        Assume
+4. || Q        &Elim;2
+5. || Q        Assume
+6. || P        &Elim;2
+7. | P<->Q     <->Intro;3-4,5-6
+8. | #         #Intro;1,7
+9. ~(P&Q)      ~Intro;2-8
+```
+
 ---
 
 ## Chapter 20: Metalogic
