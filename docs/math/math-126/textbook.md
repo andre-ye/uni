@@ -461,10 +461,26 @@ Absolute Maximum and Minimum Values
 - A closed set contains all of its boundary points.
 - A bounded set is 'finite'.
 - To find the absolute minimum and maximum values, find the critical points, find the extreme values on the boundary, and find the largest and smallest values from these sets.
-- 
 
+---
 
+## Chapter 15: Multiple Integrals
 
+### 15.2: Double Integrals over General Regions
+
+- For single integrals, we always integrate over an interval.
+- For double integrals, we want to integrate a function over regions of a general shape $$D$$.
+- Function $$F$$: $$f(x, y)$$ if $$(x, y)$$ is in $$D$$ and $$0$$ if in a rectangle $$R$$ but not in $$D$$.
+- Double integral of $$f$$ over $$D$$:
+
+$$\int \int_D f(x, y) dA = \int \int_R F(x, y) dA$$
+
+- Type 1 plane region: lies between the graphs of two continuous functions of $$x$$.
+- Choose a rectangle $$R = [a, b] \times [c, d]$$ that contains $$D$$. By Fubini's theorem, we have
+
+$$\int \int_D f(x, y) dA = \int_a^b \int_c^d F(x, y) dy dx$$
+
+To be continued... type II
 
 
 
