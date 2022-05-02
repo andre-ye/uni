@@ -281,7 +281,7 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 ---
 
 ## Week 5 Friday
-- The tangent plane contains all of the tangentn lines. You can obtain the tangent plane equation just from two tangent vectors. The two direction vectors in each plane can help us understand the tangent plane.
+- The tangent plane contains all of the tangent lines. You can obtain the tangent plane equation just from two tangent vectors. The two direction vectors in each plane can help us understand the tangent plane.
 - We can therefore check extrema just using $$f_x = 0$$ and $$f_y = 0$$.
 - Second derivative test - $$D = f_{xx} (a, b) f_yy(a, b) - f{xy}^2(a, b)$$.
 
@@ -289,7 +289,14 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 
 > **Solution.** $$f_x = 3x^2 - 3y$$, $$f_y = 3y^2 - 3x$$. From $$f_x = 0$$, we know that $$y = x^2$$. Plugging this in into $$f_y = 0$$, we know that $$3x^4 - 3x = 0 \iff x \in {0, 1}$$. The two critical numbers are $$x = 0$$ and $$x = 1$$. The two critical points are $$(0, 0)$$ and $$(1, 1)$$.
 
+---
 
+## Week 6 Monday
+- If you want to find the absolute minimum and maximum, evaluate all local minima and maxima, as well as boundary points. 
+
+> Consider the function $$x^2 y^2 + x^4$$. Find the absolute minimum and maximum in the fourth quadrant of a circle with radius 4.
+
+> We begin by finding partial derivatives. $$f_x = 2xy^2 + 4x^3 = 0; f_y = 2x^2y = 0$$. $$x = 0$$ or $$y = 0$$. If $$x = 0$$, then for all $$y$$ we have $$f_x = 0$$ and $$f_y = 0$$. $$(0, y)$$ are $$\infty$$ many critical points. We can also use $$y = 0 \to x = 0$$. The minimum value is $$f(0, y) = 0$$. Now we can work with the boundaries. The region is enclosed by $$x = 0, y = 0, x^2 + y^2 = 16 {x>0, y<0}$$. Rewrite the equation for the boundary, plug in, and solve. 
 
 
 
