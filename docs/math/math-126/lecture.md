@@ -298,13 +298,34 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 
 > We begin by finding partial derivatives. $$f_x = 2xy^2 + 4x^3 = 0; f_y = 2x^2y = 0$$. $$x = 0$$ or $$y = 0$$. If $$x = 0$$, then for all $$y$$ we have $$f_x = 0$$ and $$f_y = 0$$. $$(0, y)$$ are $$\infty$$ many critical points. We can also use $$y = 0 \to x = 0$$. The minimum value is $$f(0, y) = 0$$. Now we can work with the boundaries. The region is enclosed by $$x = 0, y = 0, x^2 + y^2 = 16 {x>0, y<0}$$. Rewrite the equation for the boundary, plug in, and solve. 
 
+---
 
+## Week 6 Wednesday
+- Scantron portions are graded - written part is currently being graded.
+- Equivalence - bidirectional entailment.
+- Modus ponens
+- Modus tollens - contrapositive, $$P \to Q \iff ~Q \to ~P$$
+- Denying the antecedent - $${P \to Q, ~Q} \to ~Q$$
 
+```
+1. P -> Q
+2. | P&~Q    Assume
+3. | P       &Elim;2
+4. | Q       ->Elim;1,3
+5. | ~Q      &Elim;2
+6. | #       #Intro;4,5
+7. ~(P&~Q)
+```
 
-
-
-
-
+```
+1. (PvS) -> Q    Premise
+2. Q -> R        Premise
+3. | P           Assume
+4. | PvS         vIntro;3
+5. | Q           ->Elim;1,4
+6. | R           ->Elim;2, 5
+7. P->R          ->Intro;3-6
+```
 
 
 
