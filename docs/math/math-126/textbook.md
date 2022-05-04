@@ -466,6 +466,26 @@ Absolute Maximum and Minimum Values
 
 ## Chapter 15: Multiple Integrals
 
+### 15.1: Double Integrals over Rectangles
+- We can find the volume of a solid with double integrals.
+- We can consider a function of two variables defined on a closed rectangle $$R = [a, b] \times [c, d]$$.
+
+The double integral of $$f$$ over the rectangle $$R$$ is
+
+$$\int \int_R f(x, y) dA = \lim_{m, n \to \infty}$$ \sum^m_{i=1} \sum^n_{j=1} f(x_{ij}^*, y_{ij}^*) \Delta A$$
+
+- Double Riemann sum: approximation of a Riemann sum.
+- Methods using for approximating single integrals have parallels in double integrals.
+- Midpoint Rule for double integrals
+- Iterated integrals
+- Partial integration (similar to partial differentiation): treat the inside integral as a function and integrate.
+- Iterated integral: $$\int_a^b \int_c^d f(x, y) dy dx$$; integrate $$y$$ from $$c$$ to $$d$$, then $$x$$ from $$a$$ to $$b$$.
+- Fubini's theorem:
+
+$$\int_a^b \int_c^d f(x, y) dy dx = \int_c^d \int_a^b f(x, y) dx dy$$
+
+
+
 ### 15.2: Double Integrals over General Regions
 
 - For single integrals, we always integrate over an interval.
