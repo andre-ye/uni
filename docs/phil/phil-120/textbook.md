@@ -802,4 +802,26 @@ Thus,
 - TFC algorithm: creating a sentence of BOOL expressing a truth function, regardless of the truth function.
 - Disjoin the exact conditions for each truth value.
 
+### 20.4: More TFC
+- We can prove that PROP is truth functionally complete.
+- Something can be TFC with 'less' than BOOL.
+- We only need two connectives, either negation or disjunction and negation.
+- $${\to, ~}$$ is TFC
+- $${\iff, ~}$$ is not TFC
+- None of the connectives alone is TFC
+
+### 20.5: Nor and Nand
+
+- $$\downarrow = ~v$$; NOR - not or, FFFT truth table.
+- `| = ~&`; NAND - not and, FTTT truth table.
+- NAND and NOR can express conjunction and negation. NAND and NOR are therefore TFC alone.
+- 
+
+
+
+
+
+
+
+
 
