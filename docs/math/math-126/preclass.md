@@ -310,6 +310,10 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 
 ---
 
+## Week 6 Wednesday (15.1)
+- Double integral - signed volume between a function and the $$xy$$ plane.
+- Integrate across both dimensions. 
+
 
 
 
