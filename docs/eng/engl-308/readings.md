@@ -25,7 +25,7 @@ ENGL 308
 
 ---
 
-## *The Communist Manifesto* by Karl Marx and Frederich Engels
+## *The Communist Manifesto*, Marx & Engels
 
 ### Introduction
 {: .no_toc }
@@ -262,7 +262,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-## "Theses Concerning Feuerbach" by Marx
+## "Theses Concerning Feuerbach", Marx
 - All hitherto existing materialism has considered the object's form, but not human activity or subjectively.
 - Feuerbach wants sensuous objects distinct from thought objectives but does not consider human activity to be objective.
 - Can objective truth be attributed to human thinking? A practical, rather than theoretical question.
@@ -277,7 +277,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-## "Bartleby, The Scrivener: A Story of Wall-street" by Melville
+## "Bartleby, The Scrivener: A Story of Wall-street", Melville
 - Bartleby - the strangest scrivener; nothing is ascertainable.
 - Narrator - soft, safe, prudent. The easiest way of life is the best.
 - Turkey - a short, pursy, old Englishman. Eccentricities overlooked in favor of usefulness to the narrator. 
@@ -292,7 +292,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-## "The Ideological Tensions of Capitlaism: Universalism versus Racism and Sexism" by Wallerstein
+## "The Ideological Tensions of Capitlaism: Universalism versus Racism and Sexism", Wallerstein
 - Universalist doctrine - "the brotherhood of man".
   - Yet this emblem of universalism itself is gendered, implicit exclusive of females. 
 - Universalism is so widely shared - but why do racism and sexism still persist?
@@ -334,7 +334,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-## "Class Conflict in the Capitalist World-Economy" by Immanuel Wallerstein
+## "Class Conflict in the Capitalist World-Economy", Wallerstein
 - Marx did not invent social class; the greeks knew about it.
 - Marx made key three contributions.
   1. All history is a history of class struggle.
@@ -370,7 +370,7 @@ Crticial-Utopian Socialism and Communism
 
 ---
 
-## "What is Owed" by Nicole Hannah-Jones
+## "What is Owed", Hannah-Jones
 Access [here](https://www.nytimes.com/interactive/2020/06/24/magazine/reparations-slavery.html) (link: `https://www.nytimes.com/interactive/2020/06/24/magazine/reparations-slavery.html`).
 
 - Black uprisings swept the United States in the mid-1960s; Johnson created the Kerner Commission. Americans voted a 'law and order' president - Nixon - who halted that work.
@@ -411,7 +411,7 @@ Access [here](https://www.nytimes.com/interactive/2020/06/24/magazine/reparation
 
 ---
 
-## "Racial Capitalism" by Melamed
+## "Racial Capitalism", Melamed
 - Three conditions: primitive accumulation, ideologies of capitlaist rationality (individualism, liberalism, democracy), new activisms.
 - 'Racial capitalism' - capitalism is racial capitalism. Capital can only accumulate by exploiting severe inequalities between human groups.
 - Racialized material and epistemic violence: executed by core capitalist states.
@@ -427,7 +427,7 @@ Access [here](https://www.nytimes.com/interactive/2020/06/24/magazine/reparation
 
 ---
 
-## *Sorry to Bother You*, Riley Boots dir.
+## *Sorry to Bother You*, Boots
 View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1613332)>
 
 - Art vs labor: toiling, just surviving, the circle (4:55)
@@ -459,7 +459,7 @@ View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1
 
 ---
 
-## "Wages Against Housework" by Federici
+## "Wages Against Housework", Federici
 - Women express wages for housework as a thing rather than as a poltiical standpoint.
 - Wages for housework does not make much of a difference for those with toher avenues of economic independence.
 - Wages for housework can be understood politically as a struggle for social power as women.
@@ -506,7 +506,7 @@ View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1
 
 ---
 
-## "Why Sexuality is Work"  by Federici
+## "Why Sexuality is Work", Federici
 - Sexuality - supposed to be compensation for work, naturalization.
 - Spontaneity is false
 - Painful transition from the private to the public
@@ -527,7 +527,7 @@ View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1
 
 ---
 
-## "The Dialectics of Still Life: Murder, Women, and Disposability" by Wright
+## "The Dialectics of Still Life: Murder, Women, and Disposability", Wright
 
 > Ambiguity is the pictorial image of dialectics, the law of dialectics seen at a standstill. This standstill is utopia and the dialectical image therefore a dream image. Such an image is presented 
 by the pure commodity: as fetish. Such an image are the arcades, 
