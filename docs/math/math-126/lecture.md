@@ -301,31 +301,24 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 ---
 
 ## Week 6 Wednesday
-- Scantron portions are graded - written part is currently being graded.
-- Equivalence - bidirectional entailment.
-- Modus ponens
-- Modus tollens - contrapositive, $$P \to Q \iff ~Q \to ~P$$
-- Denying the antecedent - $${P \to Q, ~Q} \to ~Q$$
+- Optimization problems: eliminate one variable for three-variable optimization problems and solve as a function of two variables. Use absolute maxima/minimum rules from there.
+- Double integrands - integrate finer and finer, make base areas of the rectangles smaller and smaller. Smooth out the eventual surface via approximation.
+- 
 
-```
-1. P -> Q
-2. | P&~Q    Assume
-3. | P       &Elim;2
-4. | Q       ->Elim;1,3
-5. | ~Q      &Elim;2
-6. | #       #Intro;4,5
-7. ~(P&~Q)
-```
 
-```
-1. (PvS) -> Q    Premise
-2. Q -> R        Premise
-3. | P           Assume
-4. | PvS         vIntro;3
-5. | Q           ->Elim;1,4
-6. | R           ->Elim;2, 5
-7. P->R          ->Intro;3-6
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
