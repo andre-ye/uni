@@ -526,4 +526,31 @@ $$A \iff B = (A \to B) & (B \to A)$$
 - $$\if$$ does not possess commutativity; $$A\to(B\to C) \neq (A\to B)\to C$$
 
 
+---
 
+## Week 6 Wednesday
+- Scantron portions are graded - written part is currently being graded.
+- Equivalence - bidirectional entailment.
+- Modus ponens
+- Modus tollens - contrapositive, $$P \to Q \iff ~Q \to ~P$$
+- Denying the antecedent - $${P \to Q, ~Q} \to ~Q$$
+
+```
+1. P -> Q
+2. | P&~Q    Assume
+3. | P       &Elim;2
+4. | Q       ->Elim;1,3
+5. | ~Q      &Elim;2
+6. | #       #Intro;4,5
+7. ~(P&~Q)
+```
+
+```
+1. (PvS) -> Q    Premise
+2. Q -> R        Premise
+3. | P           Assume
+4. | PvS         vIntro;3
+5. | Q           ->Elim;1,4
+6. | R           ->Elim;2, 5
+7. P->R          ->Intro;3-6
+```
