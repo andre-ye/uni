@@ -741,7 +741,24 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 
 ---
 
+## "The Fetishism of the Commodity and its Secret"
+- The commodity appears obvious, but it is filled with deeper content.
+- Man changes nature to make it useful.
+- When an object emerges as a commodity, it levels beyond sensuousness.
+- Mystical character of the commodity
+- The commodity is a product of labor, thus 'arises the enigmatic character'
+- The commodity-form and the value-relation of products of labor have no interrelationshipw ith the physical nature of commodity or material relations; is *social*.
+- Fetishism - products of the human brain appear as autonomous figures of their own; inseparable from the production of commodities.
+- Fetishism of the commodity arises from the labor that produces the commodity.
+- The labor of the individual is only relevant in terms of the relationship between producers.
+- Labor of the individual producer: twofold social character.
+  - Must satisfy a social need, maintain itself as an element of total labor
+  - Must satisfy the needs of the individual producer
+- To satisfy both these constraints, we must reduce labor to a greatest common divisor.
+- Unconscious activity: equate different kinds of labor as human labor of equating different products as exchangeable values
+- Proportional/multiple exchange of value and products
 
+Page 168
 
 
 
