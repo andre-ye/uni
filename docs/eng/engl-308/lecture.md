@@ -728,7 +728,7 @@ Discussion Notes
 
 ---
 
-## Week 6 Monday, Wright, Hoang, and Bernstein
+## Week 6 Tuesday, Wright, Hoang, and Bernstein
 - How have Marxist-feminist theories thought about how capitalism needs gendered concepts?
 
 Wright
@@ -794,7 +794,6 @@ Discussion
 - Bernstein vs Hoang
   - Bernstein: emotional labor produced when laborers are asked for labor
   - Hoang: all sex work is emotional labor, but varying across repressive and expressive labor
-  - 
 
 
 
