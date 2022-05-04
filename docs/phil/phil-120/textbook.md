@@ -780,8 +780,26 @@ Thus,
 
 ## Chapter 20: Metalogic
 
+### 20.1: Soundness and Completeness
+- Metalogic: the study of logical systems.
+- We can ask metalogical questions about whether truth-tables and formal proofs always deliver the same result.
+- Well-designed logical systems should satisfy this above property.
+- We want to prove two properties:
+  1. Soundness. If we can give a formal proof of an argument, it is valid by the truth-table method.
+  2. Completeness. If an argument is valid (by the truth table method), then we can give a formal proof for it.
 
+### 20.2: Proving Soundness
+- Any argument we can give a formal proof of in bool is valid.
+- Soundness is a conditional claim.
+- 1-step soundness: if a conclusion can be proven in BOOL with a one-step formal proof, then that conclusion really is a logical consequence of the premises.
+- `vElim` and `~Intro` cannot be used to justify the conclusion because they take more than one line.
 
-
+### 20.3: Truth-Functional Completeness
+- TFC: the ability to express any possible truth function.
+- TFC concerns the expressive power of  aysstem.
+- All sentences of BOOL are finitely long.
+- Classical logics: logical systems created with standard properties like bivalence and finitely long sentences.
+- TFC algorithm: creating a sentence of BOOL expressing a truth function, regardless of the truth function.
+- Disjoin the exact conditions for each truth value.
 
 
