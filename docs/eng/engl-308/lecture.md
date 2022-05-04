@@ -726,7 +726,75 @@ Discussion Notes
 - Interchangeability/fungeability is not quite the same as disposability.
 - Dialectic between gender and race. This site is a specific manifestation.
 
+---
 
+## Week 6 Monday, Wright, Hoang, and Bernstein
+- How have Marxist-feminist theories thought about how capitalism needs gendered concepts?
+
+Wright
+- Normative - murder of women in JUarez and their disposability, waste in the making
+- Wallerstein - housewife-ization. Out of the factories and into the home, a postwar phenomenon. Nuclear, white, heterosexual family.
+- Gendered particularity mobilized for capitalism.
+- Public/private - social (re)production, private always leaks into the public and vice versa. Commodification of reproductive labor. Inseparable.
+- Mobilization of machismo culture, death by culture. The degredation of the Mexican female worker is a boon for corporations; corporations produce the narrative of deterioration and disposability to lower pay, excuse lack of upskilling, etc. Death by culture sucked up by corporate ideology.
+- When women leave, they go to the next factory - they are workers pushed down the line.
+- Each culture has sexist cultures that are picked up and appropriated/ideologized by transantional corporations.
+- Plaasticity of discourse, Death by culture narratives.
+- Interrupt narrratives by telling new stories
+- Deals with narrative structures - the stories we tell ourselves matter.
+- 'Essential workers' - a positive spin on narratives, Melamed's multiculturalism; 'acknowledgement via neutralization'
+- Feminization of labor - nursing, caretaking, etc. below the doctor; children, food, healthcare, etc.
+- RDegradation of the worker is contingent on a set of cultured ideologies.
+- Idea systems manifest with material effects.
+- Dialectic image - hanging in the balance, caught between narratives, immobilized.
+- Supplementarity, recirpocity between the production of narratives by cultures and their appropriation/generation by corporations
+- Disposability questions - narrative about the 'tiny, nimble hands' of Chinese women workers; feeds profitable narratives.
+
+Hoang and Bernstein
+- Essays about sex workers. The term coined in the 1980s by prostitutes arguing that sex work was work, sits alongside other work; sometimes coerced, like other forms of work.
+- Sexual labor relocated from the streets into indoors and online settings. Introduction of emotional labor.
+- Bernstein - sex workers as providers of intimacy.
+- Not separate private/public home/factory spheres - economic relations of capital permeate everything.
+- Marx and Engels' shortcoming was subscription to the public/private dualism; more recent scholarship refuses binaries - inside/outside, private/public, paid/unpaid, waged/unwaged
+- Compare and contrast - the global north and south
+- Colonial sex industry originating in Vietnam.
+- Where does the idea of Asian women as degradable, assaultable, disposable, come from?
+- Bernstein - technological class turns to emotional experience, the Girlfriend Experience (GFE);k commercial version of work women previously performed for free. Brings questions with Federici - waged work?
+- A postmodern sexual ethods - leaking into the culture?
+- Commercialization of sex in capitalism; no strings-attached 'tech-bro' culture
+- Hoang - critique and building off Bernstein; explores a range of emotional labors as manifested throughout a variety of economic 'tiers'.
+- What stories do we tell ourselves?
+
+Questions
+1. Choice, agency, coercion 
+2. Compare Bernstein and Hoang
+3. Federici - wages for sex? How much of this is liberatory? Agency?
+4. What happens to our intimacy?
+5. Expression of sexuality stratified by class?
+6. Role of race
+
+Discussion
+- Disagreement in the history of sex work. Bernstein holds a relatively modern-oriented history; others have suggested (e.g. Federici) that the corralling of reproductive forces emerged as far as in the 1500s with large brothels.
+- Fulfillment of gender roles - the middle class and work, ego, providing
+- Commodified relations
+- Illusion of authenticity; sugar babies; who is at knowledge of the true class system?
+- Who knows how capitlais tideology works?
+- Racial question/involvement - 'white superiority complex'? Race-class issue in terms of comprehension?
+- Staurt Hall - 'race is the modality in which class is lived'
+- 'White maleness' is in which class is lived, irregardless of the actual position in which people may occupy within capitalist society.
+  - William - a truck driver in the United States, yet plays the role of sponsorship and support to high-tier sex workers in Vietnam
+- Primitive accumulation - epochs of settler colonialism layered on top of each other; enables these sorts of dynamics between white men and Asian women situated in the historical context; capitalism mobilizes existing setups.
+- Capitalism mobilizes existing setups
+- The sex workers somehow construct and mobilize their own 'myth' ('myth' in Bernstein's definition)
+- McKinnon, the anti-porn feminist position: criminilization/prohibition of sex work?
+  - Weinbaum's position: there is not a quick legal fix against sex work. Sex work is at a root a phenoemnon of capitalism. The purpose of the state is to be the principal defender of capitalism. How can the state thus address sex work?
+- Wages for sex work - what is the relaitonship between wages for housework and the legalization of sex work?
+- Women can't really have 'pleasure' in the capitalist intimacy; Federici - all heterosexual sex is corrupted by capitalism (?), possibly writing the story of our moment?
+- The power of commodification: protection of the payment, power of the payment; capital flow allows for the power dynamics to continue; proposals to reject relations in terms of capital are rejected (Bernstein)
+- Bernstein vs Hoang
+  - Bernstein: emotional labor produced when laborers are asked for labor
+  - Hoang: all sex work is emotional labor, but varying across repressive and expressive labor
+  - 
 
 
 
