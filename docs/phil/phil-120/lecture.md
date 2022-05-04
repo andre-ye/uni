@@ -554,3 +554,75 @@ $$A \iff B = (A \to B) & (B \to A)$$
 6. | R           ->Elim;2, 5
 7. P->R          ->Intro;3-6
 ```
+
+---
+
+## Week 6 Friday
+
+```
+1. ~(P&~Q)    Assume
+2. | P        Assume
+3. || ~Q      Assume
+4. || P&~Q    &Intro;2,3
+5. || #       #Intro;1,4
+6. | Q        ~Intro;3
+7. | P->Q     ->Intro;2-6
+```
+
+```
+1. | P->(Q->R)          Assume
+2. || P&Q               Assume
+3. || P                 &Elim;2
+4. || Q->R              ->Elim;1,3
+5. || Q                 &Elim;2
+6. || R                 ->Elim;4,5
+7. | (P&Q)->R           Assume
+8. || P                 Assume
+9. ||| Q                Assume
+10.||| P&Q              &Intro;8,9
+11.||| R                ->Elim;7,10
+12.|| Q->R             ->Intro;9-11
+13.(P->(Q->R))<->((P&Q)->R) <->Intro;2-6,7-12
+```
+
+```
+1. ~(P->Q)
+2. | ~(P&~Q)     Assume
+3. || P          Assume
+4. ||| ~Q        Assume
+5. ||| P&~Q      &Intro;3,4
+6. ||| #         #Intro;1,4
+7. || Q          ~Intro;4-6
+8. | P->Q        ->Intro;3-7
+9. | #           #Intro;1,9
+10.P&~Q          ~Intro;2-9
+```
+- Contradiction trick, reiteration trick
+- Shortcuts
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
