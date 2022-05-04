@@ -496,8 +496,9 @@ View for free [here](https://myflixer.to/watch-movie/sorry-to-bother-you-19266.1
 - The female role must be attacked at its roots.
 - Struggle for social services must first originate from the establishment that femininity as work is work.
 
-### The Struggle against housework
-{: .no-toc }
+### The Struggle against Housework
+{: .no_toc }
+
 - Men presume that housework is easy and enjoyable.
 - The attitude of men will change when they see love as work.
 - Housework becomes more educational.
@@ -641,7 +642,9 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Men want an emotional connection without obligations.
 - Erotic paradigm - premised upon discrete sexual encoutners compatible with individually oriented life.
 
-### Transofmrations in Economy, Kinship, and Sexuality
+### Transformations in Economy, Kinship, and Sexuality
+{: .no_toc }
+
 - Frailty of marriage and long-term relationships in late-capitalist society.
 - Old and New regimes of intimacy. Gay marriage and abortion - distances form traditional procreative oreintations towards sex.
 
@@ -737,11 +740,6 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Pregnant man
 
 ---
-
-## Introduction to , Weinbaum
-
-
-
 
 
 
