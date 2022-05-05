@@ -815,7 +815,44 @@ Thus,
 - $$\downarrow = ~v$$; NOR - not or, FFFT truth table.
 - `| = ~&`; NAND - not and, FTTT truth table.
 - NAND and NOR can express conjunction and negation. NAND and NOR are therefore TFC alone.
+
+---
+
+## Chapter 21: Welcome to FOL
+
+### 21.1: Terms - Constants and Variables
+- FOL: First-order Logic.
+- Quantifiers in the logic range over sets of objects in the domain, rather than sets of sets of objects.
+- IN BOOl and PROP, the smallest units of language are atomic sentences.
+- Atomic sentences can have parts.
+  - Terms - objects.
+    - Constants (names)
+    - Variables
+- Names in FOL - constants; pick out the same thing.
+- Variables can refer to different things.
+
+### 21.2: Predicates - Properties and Relations
+- Predicates - how we say things about objects.
+- Predicates must start with a capital letter.
+- Argument places - gaps in the predicate where we insert terms.
+- Number of argument places - arity.
+- Order of the argument places matters
+- Properties - predicates with one argument place.
+- Relations - predictes with two or more argument places.
+
+### 21.3: The Identity Predicate
+- Identity - `=`.
+- infix - go in the middle of terms.
+- prefix - go before terms
+- Identity has three important properties - reflexible, symmetric, transitive
 - 
+
+
+
+
+
+
+
 
 
 
