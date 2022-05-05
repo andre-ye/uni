@@ -500,7 +500,30 @@ $$\int \int_D f(x, y) dA = \int \int_R F(x, y) dA$$
 
 $$\int \int_D f(x, y) dA = \int_a^b \int_c^d F(x, y) dy dx$$
 
-To be continued... type II
+![image](https://user-images.githubusercontent.com/73039742/167016129-834f6491-9838-473d-a770-e6940915b0cb.png)
+
+- Type II: oriented in the other direction; express instead by integrating w.r.t. $$y$$.
+
+![image](https://user-images.githubusercontent.com/73039742/167016214-feef173f-254c-43ab-b202-3f7976835a15.png)
+
+Properties of Double Integrals
+
+![image](https://user-images.githubusercontent.com/73039742/167016427-60bd95f7-80db-42fd-9c70-9de2436702f7.png)
+
+![image](https://user-images.githubusercontent.com/73039742/167016455-6732e071-55ba-4054-a661-467d0f54fed6.png)
+
+*The following is true if $$f(x, y) \ge g(x, y)$4 for all $$(x, y)44 in $$D$$.
+
+![image](https://user-images.githubusercontent.com/73039742/167016486-12b62bef-a580-43fa-99cd-13a12525e29c.png)
+
+*Given $$D = D_1 \union D_2$$ and $$D_1$$ does not overlap with $$D_2$$, then the following is true:*
+
+![image](https://user-images.githubusercontent.com/73039742/167016636-9aa4afa6-fe86-48c3-ba30-e9b4e7cefd41.png)
+
+![image](https://user-images.githubusercontent.com/73039742/167016783-e7195eb3-8118-432f-8ba3-7bb6f67d5b74.png)
+
+![image](https://user-images.githubusercontent.com/73039742/167016857-699b3981-19c5-4901-a1ed-6ec4b86d804b.png)
+
 
 
 
