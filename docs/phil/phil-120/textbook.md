@@ -845,11 +845,21 @@ Thus,
 - infix - go in the middle of terms.
 - prefix - go before terms
 - Identity has three important properties - reflexible, symmetric, transitive
-- 
 
+### 21.4: Atomic Sentences
+- The correct number of names depends on the arity of the predicate
 
+---
 
+## Chapter 22: Meet the Quantifiers
 
+### 22.1: All (A) and Exists (E)
+- Quantifier - a part of language for referring to a quantity of things
+- Logical symbol for all - $$\forall$$
+- All objects are fish - $$\forall \text{xFish(x)}$$
+- $$\exists$$ - Existential Quantifier. Makes a claim of existence.
+
+### 22.2 
 
 
 
