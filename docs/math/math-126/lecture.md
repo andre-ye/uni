@@ -303,7 +303,12 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 ## Week 6 Wednesday
 - Optimization problems: eliminate one variable for three-variable optimization problems and solve as a function of two variables. Use absolute maxima/minimum rules from there.
 - Double integrands - integrate finer and finer, make base areas of the rectangles smaller and smaller. Smooth out the eventual surface via approximation.
-- 
+
+---
+
+## Week 6 Friday
+- Solve planes for $$z$$ and integrate the difference between them.
+
 
 
 
