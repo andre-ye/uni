@@ -314,6 +314,10 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 - Double integral - signed volume between a function and the $$xy$$ plane.
 - Integrate across both dimensions. 
 
+---
+
+## Week 6 Friday (15.2)
+- Given $$x$$ in the range $$a \le x \le b$$, we have $$g_1(x) \le y \le g_2(x)$$. Top/bottom. Compute integral as $$\int_a^b \left( \int_{g_1(x)}^{g_2(x)} f(x, y) dy \right)$$
 
 
 
