@@ -528,7 +528,7 @@ $$A \iff B = (A \to B) & (B \to A)$$
 
 ---
 
-## Week 6 Wednesday
+## Week 6 Monday
 - Scantron portions are graded - written part is currently being graded.
 - Equivalence - bidirectional entailment.
 - Modus ponens
@@ -557,7 +557,7 @@ $$A \iff B = (A \to B) & (B \to A)$$
 
 ---
 
-## Week 6 Friday
+## Week 6 Wendesday
 
 ```
 1. ~(P&~Q)    Assume
@@ -599,7 +599,40 @@ $$A \iff B = (A \to B) & (B \to A)$$
 ```
 - Contradiction trick, reiteration trick
 - Shortcuts
-- 
+
+---
+
+## Week 6 Friday
+
+```
+1. ~(P->Q)       Premise
+2. | ~(P&~Q)     Assume
+3. || P          Assume
+4. ||| ~Q        Assume
+5. ||| P&~Q      &Intro;3,4
+6. ||| #         #Intro;2,5
+7. || Q          ~Intro;4-6
+8. || P->Q       ->Intro;3-7
+9. || #          #Intro;1,8
+10.| P&~Q        ~Intro;2-9
+```
+
+```
+~P -> S
+S&T -> ~Q
+SvR -> T
+
+~S, P
+```
+
+- Meta-logic: proofs about the system, theorizing about logic. A reflection on our formal system.
+- Turnstyle - there exists a formal proof from `P` to `Q`.
+- Metalogical theorems:
+  - Completeness - if it is a valid argument, there is a formal proof
+  - Soundness - if there is a formal proof, then it is a valid argument
+- Truth-Functional Completeness - TFC.
+- Nand/sheffer stroke
+- Nor/down arrow
 
 
 
