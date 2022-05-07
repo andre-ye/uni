@@ -859,8 +859,15 @@ Thus,
 - All objects are fish - $$\forall \text{xFish(x)}$$
 - $$\exists$$ - Existential Quantifier. Makes a claim of existence.
 
-### 22.2 
-
+### 22.2: Variables, Free and Bound
+- Constants refer to the same object
+- Variables aren't assigned a specific interpretation.
+- Examples:
+  - Something is a dog. $$\exists \text{Dog}(x)$$
+  - Everything is a dog. $$\forall \text{Dog}(x)$$
+  - Some cat likes some dog. $$\exists x \exists y (\text{Cat}(x) & \text{Dog}(y) & \text{Likes}(x, y))$$
+- When a quantifier connects with a variable, it binds the variable.
+- When a variable is not bound it is free.
 
 
 
