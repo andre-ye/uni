@@ -869,6 +869,48 @@ Thus,
 - When a quantifier connects with a variable, it binds the variable.
 - When a variable is not bound it is free.
 
+### 22.3: Well-Formed Formulas (WFFs) vs Sentences
+- FOL is bivalent; every sentence has exactly one truth value.
+- New grammatical category - an open formula, a formula with a free variable in it.
+- If a formula has no free variable, then it is a closed formula (i.e. a sentence).
+- Well-formed formulas (WFF): open and closed formulas
+
+---
+
+## Chapter 23: Semantics of FOL
+### 23.1: Names and Objects
+- Rule of names - each name represents one object.
+- Each name does not need to pick out a different object.
+
+### 23.2: The Domain
+- Domain - the set of objects a quantifier ranges over
+- If you have multiple quantifiers in a sentence or multiple sentences in an argument, thye must all operate on the same domain. If this prerequisite is not met, fallacious reasoning is allowed.
+
+### 23.3: Predicates and Intended Interpretations
+- Identity predicate `=` - only predicate that gets its own logical symbols.
+- Logical symbols are fixed parts of the system.
+- Intended Interpretation
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
