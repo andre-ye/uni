@@ -1,0 +1,23 @@
+---
+layout: default
+title: Responses
+parent: ENGL 308
+grand_parent: English
+nav_order: 999
+---
+
+# Reading Responses
+
+ENGL 308
+{: .fs-6 .fw-300 }
+
+---
+
+This page contains links to my reading responses.
+
+| Response # | Text(s) |
+| --- | --- |
+| [Response 1](http://andre-ye.github.io/uni/docs/eng/engl-308/files/Reader%20Response%201.pdf){:target="_blank"} | *The Communist Manifesto*, Marx & Engels. |
+| [Response 2](http://andre-ye.github.io/uni/docs/eng/engl-308/files/Reader%20Response%202.pdf){:target="_blank"} | "Bartleby, The Scrivener", Melville. *The Communist Manifesto*, Marx & Engels. |
+| [Response 3](http://andre-ye.github.io/uni/docs/eng/engl-308/files/Reading%20Response%203.pdf){:target="_blank"} | "Racial Capitalism", Melamed. *Sorry to Bother You*, Riley. |
+| [Response 4](http://andre-ye.github.io/uni/docs/eng/engl-308/files/Reader%20Response%204.pdf){:target="_blank"} | "Wages Against Housework", Federici. "Bloodchild", Butler. |
