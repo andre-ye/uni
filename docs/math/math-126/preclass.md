@@ -319,7 +319,12 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 ## Week 6 Friday (15.2)
 - Given $$x$$ in the range $$a \le x \le b$$, we have $$g_1(x) \le y \le g_2(x)$$. Top/bottom. Compute integral as $$\int_a^b \left( \int_{g_1(x)}^{g_2(x)} f(x, y) dy \right)$$
 
+---
 
+## Week 7 Monday (10.3)
+- Polar coordinates - stand at the origin facing the positive $$x$$-axis.
+- Rotate by $$\theta$$
+- Conversion: $$x = r \cos \theta$$, $$y = r \sin theta$$, $$\tan \theta = \frac{y}{x}$$, $$x^2 + y^2 = r^2$$
 
 
 
