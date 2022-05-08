@@ -39,6 +39,20 @@ $$x = r \cos \theta, y = r \sin \theta$$
 $$r^2 = x^2 y^2; \tan \theta = \frac{y}{x}$$
 
 **Polar Curves**
+- Graph of a polar equation - $$r = f(\theta)$$, or $$F(r, \theta) = 0$$.
+- ALl points $$P$$ with at least one polar representation $$(r, 0)$$ whose coordinates satisfy the equation.
+- Symmetry rules
+  - If a polar equation is unchanged when $$\theta$$ is negated, the curve is symmetric about the polar axis.
+  - If the equation is unchanged when $$r$$ is negated or $$\theta$$ replaced with $$\theta + \pi$$, the curve is symmetric about the pole.
+  - If the equation is unchanged when $$\theta$$ is replaced with $$\pi - \theta$$, the curve is symmetric about the vertical line at $$\theta = \frac{\pi}{2}$$.
+
+Tangents to Polar CUrves
+- To find the tangent to $$r = f(\theta)$$, use the following parametric equations:
+  - $$x = f(\theta) \cos \theta, y = f(\theta) \sin theta$$.
+
+![image](https://user-images.githubusercontent.com/73039742/167278357-181bf43a-cce8-4153-9b97-2cb7c5011ea9.png)
+
+
 
 ---
 
