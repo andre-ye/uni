@@ -9,6 +9,16 @@ has_children: false
 
 A complete list of the courses I have taken, are taking, or immediately will take at the University of Washington, ordered by quarter (most recent on top).
 
+## Fall 2022
+
+| Code | Course | Instructor | Credits |
+| --- | --- | --- | --- |
+| ENGL 284 | [Beginning Short Story Writing](https://andre-ye.github.io/uni/docs/eng/engl-284){:target="_blank"} | | 5 |
+| PHIL 240 | [Introduction to Ethics](https://andre-ye.github.io/uni/docs/phil/phil-240){:target="_blank"} |  | 5 |
+| RUSS 101 | [First-Year Russian I](https://andre-ye.github.io/uni/docs/russ/russ-101){:target="_blank"} |  | 5 |
+| MATH 208 | [Matrix Algebra with Applications](https://andre-ye.github.io/uni/docs/math/math-208){:target="_blank"} |  | 3 |
+| --- | Total | --- | 18 |
+
 ## Spring 2022
 
 | Code | Course | Instructor | Credits |
