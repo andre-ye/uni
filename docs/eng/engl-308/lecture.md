@@ -795,10 +795,63 @@ Discussion
   - Bernstein: emotional labor produced when laborers are asked for labor
   - Hoang: all sex work is emotional labor, but varying across repressive and expressive labor
 
+---
 
+## Week 6 Thursday, Butler
+- Speculative fiction, afro-futirism.
+- Octavia Butler passed away in 2007. 
+- Born in Pasadena, California - very poor. Often went with her single mother to work. 
+- Early experiences contributed to feeling outcast, found refuge in story and literature.
+- Mid-1970s - first novel published. 
+- Butler was not recognized for much of her early life.
+- Science Fiction - often referred to as SF. Within the community, sometimes not capitalied (sf) to expand the borders of the genre to include speculative fiction. What counts as science function? Does science fiction need technology to be science fiction? (Weinbaum says - no.)
+- Science Fiction became increasingly popular, and Butler gains recognition.
+- Butler develops writer's block towards the end of her life, then writes Fledgeling - on genetics and race.
+- Darko Suvin - Marxist literary critic. Marxist criticism is similar to that within science fiction. Parallel relationships between science fiction literature and Marxist analysis.
+- Cognitive estrangement - structured technique embedded in the fiction. Creates a world both similar and different from our own, forcing a comparison and contrasting to make sense of that world.
+- Speculative fiction can be a form of activism - needed to evaluate the future on offer. What world does the reader want?
+- One's dystopia is another's utopia
+- What does science fiction give as a critical role of analysis?
+- Suvin - Marxist theory takes us to the same place as science fiction. Make critical decisions based on critical consciousness. 'Consciousness raising'
+- Butler paves the way for BIPOC and female writers. 
+- Samuel Delany - another science fiction writer
+- Butler - more readable and accessible, but has an incredibly high complexity ceiling
+- Afro-futurism - coined in 1994, originally large swathes of culture as well as BUtler have continued to be added
+- Imagining a black past, current, and future. Perhaps radical thinking in even imagining a black future.
+- Counterargument against black obliteration
+- Interrupts temporality and our sense of progress
+- Post-apocayptic thinking and narratives - not post-, but now
+- Epistemologies and ontologies within our world
+- Reproductive existence - what happens and what is rewarded in the organization of society?
+- Read - Kindred, Dawn, Wildseed
 
+Questions
+1. Racial formation of the text
+2. Not a story about slavery? Cognitive estrangement - happens regardless of intensions. Thus, not about authorial intent, but rather the structured nature of the text itself. Is this really not a story about slavery?
+3. Question of agency
+4. Characterization of reproduction
+5. Understanding consumption and production in relation to Tlic and Terran bodies
 
-
+Discussion Ideas and Notes
+- Gender roles - Gan and male reproduction
+- Marx and consumption - cyclic consumption, self-investment. The Terrans as capital accumulation devices used in the process of reproduction.
+- The question of primitive accumulation - how does the cycle of reproduction begin?
+- Similarity to *Sorry to Bother You* - telling narratives and stories about oppressive systems
+- Consciousness emerges from the exposure of exploitation
+- Existence on the basis of reproductive labor; reproduction as Terran rent
+- Species - stand in for racial difference? Racialied as humans? Speciation
+- Racialization of humans.
+  - Lomas - black?
+  - Gan's family - Asian? (Inferred from names)
+- Each character - represents different possible modes of resistance? 
+- Fungibility of the impregnated agent
+- Does being educated about something mean you will be in opposition to it?
+- Reading of Gan - sadomasochistic text? Gan has real love for T'Gatoi, a love about being exploited?
+- Gendered hierarchy informed for reproduction? Capital? Federici - gendered understanding of capital
+- Reformation - the preserve. Native American reservation, plantations, ethnic ghettos. An amalgam of a slave plantation and an indian reservation. Related concepts - you cannot have the plantations without the extermination of native peoples. A coupled relationship.
+- Allegoried, symbolic representations
+- Opium and China - influence and narratives
+- Gendered hierarchy within the Terran world - a male-centric gender hierarchy emerges even when there the males also serve a reproductive role.
 
 
 
