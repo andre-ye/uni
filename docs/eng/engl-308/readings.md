@@ -759,6 +759,10 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Proportional/multiple exchange of value and products
 - The form which stamps products as commodities already are fixed in social relation and existence.
 - The finished monetary form of the commodified world conceals the social relations between individuals.
+- Transfomration of product into commodity plays a subordinate role in ancient Asiatic and Classical-antique cultures.
+- Some economists are misled by fetishism attached to commodities.
+- Commodity form is undeveloped form of bourgeois production; appears early.
+- Value belongs to us rather than things (?)
 
 ---
 
@@ -780,7 +784,7 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Reproduction of material conditions of produciton $$\neq$$ reproduction at the level of the firm
 - Marx's global procedure - study how capital circulates from the production of the means of production to the production of the means of consumption.
 
-### Reproduction of Labor-Popwer
+### Reproduction of Labor-Poper
 {: .no_toc }
 
 - What distinguishes productive forces from the means of production?
