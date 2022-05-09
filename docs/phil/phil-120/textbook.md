@@ -890,19 +890,62 @@ Thus,
 - Identity predicate `=` - only predicate that gets its own logical symbols.
 - Logical symbols are fixed parts of the system.
 - Intended Interpretation
-- 
+
+---
+
+## Chapter 24: Aristotelian Forms
+
+### 24.1: Four Aristotelian Forms
+- Aristotelian form - "All Ps are Q"
+
+```
+All dogs are running.
+Ax(D(x)->R(x))
+```
+
+- Aristotelian form - "Some Ps are Q"
+
+```
+Some dogs are running.
+Ex(D(x)&R(x))
+```
+
+- Boolean Definition of Conditional (BDC): `Ex(~P(x)vQ(x))`
+  - Does not say some Ps are Q
+  - Abdominable form: never translate anything with $$\exists x$$ around $$\to$$.
 
 
+- Aristotelian form: "No Ps are Q"
 
+```
+No dogs are running.
+~Ex(D(x)&R(x))
+Ax(D(x)->~R(x))
+```
 
+All forms:
+```
+All Ps are Q: Ax(P(x)->Q(x))
+Some Ps are Q: Ex(P(x)&Q(x))
+No Ps are Q: Ax(P(x)->~Q(x)) or ~Ex(P(x)&Q(x))
+Some Ps are not Q: Ex(P(x)&~Q(x))
+```
 
+### 24.2: Advanced Forms
 
+```
+All happy dogs are running.
+Ax((D(x)&H(x))->R(x))
+```
 
+- When translating complex forms, formulas can be messy.
+- Drop parentheses when you can.
 
+### 24.3: Vacuous Generalizations
+- When there are no $$P$$s, then "All $$P$$s are $$Q$$" is vacuously true.
 
-
-
-
+### 24.4: Pairs of Contradictories
+- Contradictories - sentences that say the opposite of each other.
 
 
 
