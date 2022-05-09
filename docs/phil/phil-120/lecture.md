@@ -634,11 +634,31 @@ SvR -> T
 - Nand/sheffer stroke
 - Nor/down arrow
 
+---
 
+## Week 7 Monday
 
+$$(P \downarrow P) \downarrow (P \downarrow Q)$$
 
+```
+(P↓P)↓(P↓Q)
+  F  T  F
+  F  T  F
+  T  F  F
+  T  F  T
+```
 
+- Hardware - using NAND gates.
+- NAND and NOR are not in PROP.
+- Pragmatics - misleading uses of words.
+- Semantics - technical validity of the sentence.
+- You can prevent vacuously true generalizations with existence:
 
+```
+Ax(C(x)->F(x))&ExC(x)
+```
+
+- Names - must be lowercase, can be a number, not at the end of the alphabet.
 
 
 
