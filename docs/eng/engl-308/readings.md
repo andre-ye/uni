@@ -757,10 +757,8 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - To satisfy both these constraints, we must reduce labor to a greatest common divisor.
 - Unconscious activity: equate different kinds of labor as human labor of equating different products as exchangeable values
 - Proportional/multiple exchange of value and products
-
-Page 168
-
-
+- The form which stamps products as commodities already are fixed in social relation and existence.
+- The finished monetary form of the commodified world conceals the social relations between individuals.
 
 
 
