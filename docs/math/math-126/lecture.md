@@ -309,6 +309,11 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 ## Week 6 Friday
 - Solve planes for $$z$$ and integrate the difference between them.
 
+---
+
+## Week 7 Monday
+- Polar coordinates operate on the same plane, we have the same two axes - just a different description for the very same points.
+- When you have a polar curve, try to graph out the relationship between $$r$$ and $$\theta$$.
 
 
 
