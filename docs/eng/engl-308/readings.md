@@ -760,6 +760,43 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - The form which stamps products as commodities already are fixed in social relation and existence.
 - The finished monetary form of the commodified world conceals the social relations between individuals.
 
+---
+
+
+## "Ideology and Ideological State Apparatuses (Notes towards an Investigation", Althusser
+
+### On the Reproduction of the Conditions of Production
+{: .no_toc }
+
+- Every child knows that social formations that do not also reproduce the conditions of its production do not last long.
+- The ultimate condition of production is reproduction of the conditions of production.
+- The process of production puts into motion existing productive forces in terms of production.
+- Every social formation must reproduce productive forces and the existing relations of production.
+
+### Reproduction of the Means of Production
+{: .no_toc }
+
+- Everyone recognizes that no production is possible without reproduction of the means of production.
+- Reproduction of material conditions of produciton $$\neq$$ reproduction at the level of the firm
+- Marx's global procedure - study how capital circulates from the production of the means of production to the production of the means of consumption.
+
+### Reproduction of Labor-Popwer
+{: .no_toc }
+
+- What distinguishes productive forces from the means of production?
+- Reproduction of labor power takes place outside the firm.
+- Wages are the means by which labor power reproduces. Necessary for bringing the laborer back to the factory gate every day and to reproduce more laborers.
+- Wages are determined not by a biological minimum wage, but the needs of a historically variable minimum (Marx - English workers need beer, French proletarians need wine)
+- Labor power must be competent
+- Reproduction of labor power skills are increasingly conducted outside the scope of production itself.
+	- Capitalist education system and other institutions
+- Children learn useful industry information, morality, civics, etc. - to become good little bourgeoisie.
+- Reproduction of submission to the dominant ideology.
+- School, Church, Army - teach 'knowhow' in forms that ensure subjection to the ruling ideology, or mastery of its dissemination.
+
+
+- A new reality: ideology.
+
 
 
 
