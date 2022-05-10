@@ -800,7 +800,26 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 
 
 - A new reality: ideology.
+- Reproduction of the relations of production; what is a society?
 
+### Infrastructure and Superstructure
+- Infrastructure - economic base, unity between productive forces and relations of production
+- Superstructure - the politico-legal level and the ideological level
+- Theoretico-didactic interest
+- Respective indices of effectivity.
+- The upper floors can not stay up in the air if they do not rest on their base.
+- The Marxist topography - the spatial arrangement of the base and the superstructure.
+- Althusser: we need to think about what characterizes the existence of the superstructure on the basis of reproduction.
+- State - conceived as a repressive apparatus in the Marxist tradition.
+	- Apparatus - legal practice, the army, head of State, etc.
+- Marxist-Leninist understanding of the theory - understands that the State apparatus has the interests of the ruling classes in class struggle.
+- A 'descriptive theory': a contradiction, the development of the theory must go beyond the form of description
+- Marxist perspective on State as the principle of every later development of Marxist theoryr
+- Important to add something to the classical definition of the State as an apparatus to develop the descriptive theory into theory.
+
+### The Essentials of the Marxist Theory of the State
+- The State has no meaning except as a function of state power.
+- The State appratus can survive even with collapse of the State.
 
 
 
