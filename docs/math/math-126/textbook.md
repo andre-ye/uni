@@ -538,8 +538,16 @@ Properties of Double Integrals
 
 ![image](https://user-images.githubusercontent.com/73039742/167016857-699b3981-19c5-4901-a1ed-6ec4b86d804b.png)
 
+### 15.3: Double Integrals in Polar COordinates
+- Suppose we want to evaluate a double integral on a circular region. It is difficult to integrate in a Euclidean system, but easier using polar coordinates.
+- If $$f$$ is continuous on a polar rectangle $$R$$ given by $$0 \le a \le r \le b$$, $$\alpha \le \theta \le \beta$$, where $$0 \le \beta - \alpha \le 2 \pi$$, then
+
+$$\int \int_R f(x, y) dA = \int_\alpha^\beta \int_a^b f(r \cos \theta, r \sin \theta ) r dr d \theta$$
+
+- We have $$x = r \cos \theta, y = r \sin \theta$$.
 
 
+- If $$f$$ is continuous on a polar region of the form $$D = {(r, \theta) | \alpha \le \theta \le \beta, h_1 (\theta) \le r \le h_2 (\theta )}$$.
 
 
 
