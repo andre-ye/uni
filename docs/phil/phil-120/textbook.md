@@ -947,11 +947,38 @@ Ax((D(x)&H(x))->R(x))
 ### 24.4: Pairs of Contradictories
 - Contradictories - sentences that say the opposite of each other.
 
+----
 
+## Chapter 25: FOL Equivalences
 
+### 25.1: Demorgan's for Quantifiers
 
+```
+~AxP(x) ⇔ Ex~P(x)
+~ExP(x) ⇔ Ax~P(x)
+```
 
+### 25.2: Null Quantification
+- If a quantifier doesn't bind to any variables in the formula, it is null on it.
+- If a quantifier is null on a formula, the quantifier is always put on wide scope.
 
+```
+P&AxQ(x) ⇔ Ax(P&Q(x))
+```
+
+### 25.3: Variable Switch
+- Variable Switch: you can uniformly substitute one variable for another.
+
+```
+AxP(x) ⇔ AyP(y)
+ExP(x) ⇔ EyP(y)
+```
+
+- Restrictions
+  - All occurrences of the variable connected to the quantifier must be switched
+  - You must have independent quantifiers binding a variable
+  - You cannot switch a variable with scope overlap
+- 
 
 
 
