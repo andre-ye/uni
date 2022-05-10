@@ -326,8 +326,12 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 - Rotate by $$\theta$$
 - Conversion: $$x = r \cos \theta$$, $$y = r \sin theta$$, $$\tan \theta = \frac{y}{x}$$, $$x^2 + y^2 = r^2$$
 
+---
 
-
+## Week 7 Wednesday (15.3)
+- In polar coordinates, $$x = r \cos \theta, y = r \sin \theta$$
+- To set up a double integral, describe the region with polar coordinates, replace $$x$$ and $$y$$, and replace $$dA$$ with $$r dr d \theta$$.
+- Why replace $$dA$$ with $$r dr d \theta$$? The arc length is $$r d \theta$$, the 'length' is $$ dr$$.
 
 
 
