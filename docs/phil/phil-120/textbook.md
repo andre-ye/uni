@@ -978,16 +978,21 @@ ExP(x) ⇔ EyP(y)
   - All occurrences of the variable connected to the quantifier must be switched
   - You must have independent quantifiers binding a variable
   - You cannot switch a variable with scope overlap
-- 
 
+### 25.4: Distribution for Quantifiers
+- Sometimes quantifiers distribute, sometimes not
+- Universal quantifier distributes over `&`, but Existential does not. 
 
+```
+Ax(P(x)&Q(x)) ⇔ AxP(x)&AxQ(x)
+Ex(P(x)vQ(x)) ⇔ ExP(x)vExQ(x)
+```
 
+### 25.5: Prenex Normal Form and Chain of Equivalences
+- All quantifiers are stacked out up front in widest possible form.
 
-
-
-
-
-
+### 25.6: Quantifier Reorder
+- When you have multiple stacked quantifiers of the same type, order doesn't matter.
 
 
 
