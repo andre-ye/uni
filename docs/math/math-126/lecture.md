@@ -315,7 +315,12 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 - Polar coordinates operate on the same plane, we have the same two axes - just a different description for the very same points.
 - When you have a polar curve, try to graph out the relationship between $$r$$ and $$\theta$$.
 
+---
 
+## Week 7 Wednesday
+- Integrate over polar coordinates by substituting $$dx dy$$ with $$r dr d\theta$$.
+- You can find the area by integrating over $$z = 1$$ with the relevant bounds.
+- Sometimes, you have to break up the region into several angle regions to preserve local relationships.
 
 
 
