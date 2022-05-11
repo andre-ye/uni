@@ -820,8 +820,26 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 ### The Essentials of the Marxist Theory of the State
 - The State has no meaning except as a function of state power.
 - The State appratus can survive even with collapse of the State.
+- The State apparatus survives even after State power is seized.
+- Marxist classical thought:
+	1. The State is a repressive State apparatus
+	2. State power and the State apparatus must be distinguished
+	3. Class struggle concerns State power and the user of the State apparatus by the classes
+	4. The proletariat must seize State power to destroy the bourgeois State apparatus
 
-
+### The State Ideological Apparatuses
+{: .no_toc }
+- Ideological State Apparatuses (ISAs) - not to be confused with repressive State Apparatuses (SAs).
+- RSAs function by violence.
+- ISAs: religion, education, family, legal, political, trade-union, communications, cutlural, etc.
+- There is 1 RSA, but many ISAs.
+- ISAs are private rather than public.
+- RSAs function by violence, ISAs function by ideology.
+- Every SA functions both by violence and ideology, but RSAs function via repression; ISAs ultimately operate via ideology.
+	- No such thing as a purely ideological apparatus
+- ISAs are always unified, despite their diversity and contradictions, beneath the ideology of the ruling class.
+- A class must exercise hegemony over ISAs to hold State power.
+- ISAs are not only the stake but site of class struggle
 
 
 
