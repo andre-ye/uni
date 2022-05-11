@@ -660,10 +660,21 @@ Ax(C(x)->F(x))&ExC(x)
 
 - Names - must be lowercase, can be a number, not at the end of the alphabet.
 
+---
 
+## Week 7 Wednesday
+- Free vs bound varialbes
+- Wffs - grammatically mkes sense
+- Aristotelian forms
+- $$\forall$$ - $$\to$$, $$\exists$$ - &
 
+```
+All giant forklifts that Pia drove are made by Caterpillar.
+```
 
+$$\forall x (G(x)&F(x)&D(p, x) \to MadeBy(x, cat)$$
 
+- We want to reveal as much logical structure as possible within the original sentence.
 
 
 
