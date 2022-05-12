@@ -550,16 +550,41 @@ $$\int \int_R f(x, y) dA = \int_\alpha^\beta \int_a^b f(r \cos \theta, r \sin \t
 - If $$f$$ is continuous on a polar region of the form $$D = {(r, \theta) | \alpha \le \theta \le \beta, h_1 (\theta) \le r \le h_2 (\theta )}$$.
 
 
+### 15.4: Applications of Double Integrals
+
+Density and Mass
+- We can approximate the mass of an object by integrating over the surface.
+- We can measure total charge by integrating over the individual charges at each instance.
+
+Moments and Centers of Mass
+- We can consider a lamina with uniform density using double integrals.
+
+$$M_x = \int \int_D y \rho (x, y) dA$$
+
+$$M_y = \int \int_D x \rho (x, y) dA$$
+
+$$\bar{x} = \frac{M_y}{m}, \bar{y} = \frac{M_x}{m}$$
+
+$$m = \int \int_D \rho (x, y) dA$$
+
+Moment of Inertia
+- Second moment/moment of inertia: $$mr^2$$, where $$m$$ is the pass of the particle and $$r$$ is the distance from the particle to the axis.
+- Apply to a lamina with density function $$\rho(x, y)$$. 
+
+*Moment of inertia of the lamina about the $$x$$-axis:*
+
+$$I_x = \int \int_D y^2 \rho(x, y) dA$$
 
 
+*Moment of inertia of the lamina about the $$y$$-axis:*
 
+$$I_y = \int \int_D x^2 \rho(x, y) dA$$
 
+*Moment of inertia of the lamina about the origin/polar moment of inertia:*
 
+$$I_0 = \int \int_D (x^2 + y^2) \rho(x, y) dA$$
 
-
-
-
-
+$$I_0 = I_x + I_y$$
 
 
 
