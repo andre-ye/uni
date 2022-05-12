@@ -520,7 +520,7 @@ PvP ⇔ P
 
 ### 13.2: Contradiction Principle
 - Tautological contradiction: # or ⊥, always `F`/0.
-- # is a sentence, not a connective. It can appear in complex sentences: `P&#` or `~#`.
+- `#` is a sentence, not a connective. It can appear in complex sentences: `P&#` or `~#`.
 - Disjoining with a tautological falsity returns the same truth sentence as the original sentence.
 - A contradiction entails anything.
 
@@ -994,5 +994,14 @@ Ex(P(x)vQ(x)) ⇔ ExP(x)vExQ(x)
 ### 25.6: Quantifier Reorder
 - When you have multiple stacked quantifiers of the same type, order doesn't matter.
 
+---
+
+## 26.1: FO Necessities
+
+### FO Validities
+- FO validites are logical truths of FOL.
+- FO validites are necessary truths of First-Order Logic.
+- FO validities: $$a = a, ~\forall x P(x) \to \exists x ~P(x)$$
+- For tautologies, there is always a mechanical procedure we can use to show a tautological property. We cannot always do the same with FOL because quantifiers are not truth functional.
 
 
