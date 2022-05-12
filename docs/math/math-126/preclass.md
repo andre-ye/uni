@@ -333,9 +333,15 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 - To set up a double integral, describe the region with polar coordinates, replace $$x$$ and $$y$$, and replace $$dA$$ with $$r dr d \theta$$.
 - Why replace $$dA$$ with $$r dr d \theta$$? The arc length is $$r d \theta$$, the 'length' is $$ dr$$.
 
+---
 
-
-
+## Week 7 Friday (15.4)
+- Mass and center of mass
+- The density $$\rho(x, y)$$ of some lamina varies with $$x, y$$; $$\rho(x, y)$$ is measured in units of mass p unit area.
+- Mass of whole lamina: $$\int \int_D \rho (x, y) dA$$
+- Inverse/proportionality: adapt a proportionality constant $$k$$
+- Moment of the lamina about the $$x$$-axis: $$M_x = \int \int_D y \rho(x, y) dA$$
+- The center of mass can lie outside of the lamina.
 
 
 
