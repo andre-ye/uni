@@ -854,8 +854,33 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - We can represent the reproduction of the relations of production according to a division of labor: the SA secures the political conditions of the reproduction of relations of production. ISAs secure reproduction of the relations of production behind the shield of the RSA.
 - Diversity of ISAs share a role of reproducing the relations of reproduction.
 - Pre-capitalist historical period: the dominant ISA was the church. Religious and educational functions.
-- All ideological structure began with anti-clerical and anti-religious struggle.
-- Revolution 
+- Ideological revolution began with anti-clerical and anti-religious struggle.
+- ISAs are the dominant position in mature capitalist social formations.
+- The Educational State Apparatus is principal; political State apparatuses have been yielded in concessionary gestures, but ISAs are installed most importantly and foremostly.
+- The Educational apparatus replaces the previous ISA, the Church.
+- The School-Family dyad has replaced the Church-Family dyad.
+- Why Educational apparatus as dominant ISA in capitalist social formations?
+	1. All ISAs reproduce the relations of production
+	2. Each ISA contributes to the relations of production in a particular way
+	3. "This concert is dominated by a single score...: the score of the Ideology of the current ruling class"
+	4. one ISA has a dominant role - the School
+- Knowledge is wrapped in 'know-how'. Children are ejected into production in adolescence; scholastically adapted youth cary on and become petty bourgeois; the summit become agents of exploitation, repression, ideologists
+- The education system provides sufficient ideology to explain and justify each's role.
+- Education is an obligatory and free audience of all childre in the capitalist social formation.
+- Via the education system, ther elations of production are reproduced.
+- Most teachers do not recognize their role in the Education ISA.
+
+### On Ideology
+{: .no_toc }
+
+- "Ideology" - a system of ideas and representations that dominate the mind of a man or social group
+- Everything seems to lead Marx to a theory of ideology.
+- A theory of ideologies depends on the history fo social formations
+- Ideologies have a history; ideology has no history (??)
+- For Marx, ideology is an imaginary assemblage - empty, vain; ideology has no history.
+- Ideology has no history - does not mean that it does not have history in it, but no history of its own.
+- Althusser: argues that ideologies can have a history of their own, while ideology generally has no history of its own.
+- 
 
 
 
