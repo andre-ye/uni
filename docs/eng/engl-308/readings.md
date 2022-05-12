@@ -839,10 +839,23 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 	- No such thing as a purely ideological apparatus
 - ISAs are always unified, despite their diversity and contradictions, beneath the ideology of the ruling class.
 - A class must exercise hegemony over ISAs to hold State power.
-- ISAs are not only the stake but site of class struggle
+- ISAs are not only the stake but the site of class struggle
+- Classical Marxist theory of the State - distinguish between State power and the State Apparatus
 
+### On the Reproduction of the Relations of Production
+{: .no_toc }
 
+- How to secure the relations of production?
 
+1. All SAs function by repression and ideology.
+2. ISAs are distinct and relatively autonomous, whereas SAs are organized wholes.
+3. ISAs are secured - often in contradictory forms - by the ruling ideology.
+
+- We can represent the reproduction of the relations of production according to a division of labor: the SA secures the political conditions of the reproduction of relations of production. ISAs secure reproduction of the relations of production behind the shield of the RSA.
+- Diversity of ISAs share a role of reproducing the relations of reproduction.
+- Pre-capitalist historical period: the dominant ISA was the church. Religious and educational functions.
+- All ideological structure began with anti-clerical and anti-religious struggle.
+- Revolution 
 
 
 
