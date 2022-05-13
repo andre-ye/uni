@@ -880,9 +880,28 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - For Marx, ideology is an imaginary assemblage - empty, vain; ideology has no history.
 - Ideology has no history - does not mean that it does not have history in it, but no history of its own.
 - Althusser: argues that ideologies can have a history of their own, while ideology generally has no history of its own.
-- 
+- Ideology is endowed with a structure and functioning such that it becomes a non-historical reality, an omni-historical reality.
+- Ideology can and must have no history; the unconscious is eternal.
+- Justified in proposing a general theory of ideology; ideology's structure transcends history.
 
+### Ideology is a "Representation" of the Imaginary Relationship of Individuals to their Real Conditions of Existence
+{: .no_toc }
 
+- Thesis 1: Ideology represents the imaginary relationship of individuals to their real conditions of existence
+- World outlooks - largely imaginary, do not correspond to reality.
+- However, world outlooks can be interpreted to discover the reality of the world behind it.
+- Mechanistic type; hermeneutic interpretation; 
+- Ideology imagination-distorts the imaginary relationship of individuals to the relations of production and the deriving relations.
+- Ideology - the imaginary relation of individuals to the real relations in which they live.
+- Why is the representation adopted by individuals necessarily imaginary?
+- Thesis 2: Ideology has a material existence.
+- Ideas/representation have a material existence
+- Each ISA is the realization of an ideology, unified under a ruling ideology.
+- An ideology always exists in an apparatus; the existence is material.
+- Belief derives from the ideas of the individual concerned
+- Ideological representatinon of ideology is forced to recognize that subjects are endowed with a consciousness; the ideology of ideology recognizes that the 'ideas' of a human manifest across actions, or practices.
+
+Page 22
 
 
 
