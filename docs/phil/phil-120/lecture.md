@@ -676,7 +676,17 @@ $$\forall x (G(x)&F(x)&D(p, x) \to MadeBy(x, cat)$$
 
 - We want to reveal as much logical structure as possible within the original sentence.
 
+---
 
+## Week 7 Friday
+- Quantifier distribution: $$\forall$$ with $$&$$, $$\exists$$ with $$v$$.
+- You can prevent overlapping scope when converting to PNF by using VS
+- FO validities - things that need to be true in order for FO to work.
+- First-order - quantifying over objects in the domain
+- Second-order - quantify over sets of objects
+- If the TFF is a tautology, then the original sentence is a tautology
+- Variable switch, etc. - FO validities, does not let us do tautologies.
+- If the TFF is not a tautology, then you have to look at the original sentence to see if it is necessarily true.
 
 
 
