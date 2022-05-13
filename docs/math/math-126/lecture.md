@@ -322,7 +322,19 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 - You can find the area by integrating over $$z = 1$$ with the relevant bounds.
 - Sometimes, you have to break up the region into several angle regions to preserve local relationships.
 
+---
 
+## Week 7 Friday
+- Break region into rows and columns; find the center of mass of each rectangle; estimate the mass of each rectangle; use the formula for $$n$$ points with limit $$n \to \infty$$.
+- Proportionality - desntiy proportional to...
+
+| the y axis | $$\rho(x, y) = kx$$ |
+| the x axis | $$\rho(x, y) = ky$$ |
+| the origin | $$\rho(x, y) = k \sqrt{x^2 + y^2}$$ |
+| the square of the distance to the origin | $$\rho(x, y) = k(x^2 + y^2)$$ |
+| inversely proportional to the distance from the origin | $$\rho(x, y) = \frac{k}{\sqrt{x^2 + y^2}}$$ |
+
+- Sometimes, it is more convenient to rewrite the integral in polar coordinates
 
 
 
