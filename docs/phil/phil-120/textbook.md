@@ -996,12 +996,36 @@ Ex(P(x)vQ(x)) ⇔ ExP(x)vExQ(x)
 
 ---
 
-## 26.1: FO Necessities
+## Chapter 26: FO Necessities
 
-### FO Validities
+### 26.1: FO Validities
 - FO validites are logical truths of FOL.
 - FO validites are necessary truths of First-Order Logic.
 - FO validities: $$a = a, ~\forall x P(x) \to \exists x ~P(x)$$
 - For tautologies, there is always a mechanical procedure we can use to show a tautological property. We cannot always do the same with FOL because quantifiers are not truth functional.
+
+### 26.2: FO Falsities
+- FO falsities are necessary falsities of FOL.
+- We can obtain an FO falsity by negating an FO validity.
+- Anything in the scope of a quantifier depends on the quantifier
+
+### 26.3: Truth-Functional Form Algorithm
+- TFFA: a tool to show which components in a sentence are 'doing the work' - connectives or quantifiers
+- Replace quantifiers with atomics, using the same atomics for the same quantifiers.
+- If the TFF of a sentence is a tautology, so is the original sentence.
+- If the quantifiers aren't doing the work, then it can be a tautology.
+
+### 26.4: The Chart
+- We can represent tautologies, FO validites, and logical truths in an Euler diagram.
+
+![image](https://user-images.githubusercontent.com/73039742/168343068-ccca5901-9bb2-4b1d-8e17-a60f77d29c93.png)
+
+
+
+
+
+
+
+
 
 
