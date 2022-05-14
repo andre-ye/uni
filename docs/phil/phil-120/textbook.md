@@ -996,6 +996,9 @@ Ex(P(x)vQ(x)) ⇔ ExP(x)vExQ(x)
 
 ---
 
+
+| This text occupies the 1000th line in the markdown file used to generate this page. Woot woot! |
+
 ## Chapter 26: FO Necessities
 
 ### 26.1: FO Validities
@@ -1020,8 +1023,14 @@ Ex(P(x)vQ(x)) ⇔ ExP(x)vExQ(x)
 
 ![image](https://user-images.githubusercontent.com/73039742/168343068-ccca5901-9bb2-4b1d-8e17-a60f77d29c93.png)
 
+---
 
+## Chapter 27: Counterexamples in FOL
 
+### 27.1: Counterexamples in FOL
+- Because FOL is not truth functional, we assign meanings to a predicate and names.
+
+---
 
 
 
