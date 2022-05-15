@@ -1032,7 +1032,14 @@ Ex(P(x)vQ(x)) ⇔ ExP(x)vExQ(x)
 
 ---
 
+## Chapter 28: Multiple Quantifiers
 
+### 28.1: Same Quantifiers
+- Things become more complicated when quantifiers are related to each other and have overlapping scope with multiple binding variables.
+- Somebody likes somebody: $$\exists x \exists y L(x, y)$$
+- Quantifier reorder (QRe): order doesn't matter.
+- Different quantifiers and variables don't necessarily pick out different objects
+- Distinctness clauses: $$~(x=y)$$
 
 
 
