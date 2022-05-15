@@ -900,16 +900,33 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - An ideology always exists in an apparatus; the existence is material.
 - Belief derives from the ideas of the individual concerned
 - Ideological representatinon of ideology is forced to recognize that subjects are endowed with a consciousness; the ideology of ideology recognizes that the 'ideas' of a human manifest across actions, or practices.
+- Pascal's defensive dialectic - 'kneel down, move your lips in prayer,a nd you will believe.'
+- There is no practice except by and in an ideology, and there is no ideology except by the subject and for subjects.
 
-Page 22
+### Ideology Interpellates Individuals as Subjects
+{: .no_toc }
 
+- **There is no ideology except for concrete subjects.**
+- Individuals are subjects - we live spontaneously in ideology; 'man is an ideological animal by nature'
+- Ideological recognition
+- We are always already subjects practicing the rituals of ideological recognition.
+- All ideology hails or interpellates concrete individuals as concrete subjects.
+- Subject - recognize that you are hailed, one who is hailed always recognized he himself is being hailed.
+- Effects of ideology: practical denegation of the ideological character of ideology by ideology. Ideology never acknowledges that it i itself is ideology.
+- Ideology has always already interpellated individuals as subjects.
+- Ideological ritual around the expectation of birth.
 
-
-
-
-
-
-
+## An Example: The Christian Religious Ideology
+- Interpellation - yes, it is really you - Multitude of possible religious subjects under a unique, absolute, other subject - God.
+- All ideology is centered around an Absolute Subject, interpellating an infinity of individuals into subjects.
+- Ideology ensures:
+	- Interpellation of individuals as subjects
+	- Subjection of individuals to the Subject
+	- Mutual recognition of the subject and teh Subject; subjects' cross-recognition, and the subject's self-recognition
+	- Guarantee that everything will really be so on the condition of subject self-recognition.
+- Subjects 'work by themselves' - if they are bad subjects, they provoke the intervention of the RSA.
+- Most 'good subjects' are realized in the ISA.
+- 'Amen - So be it.'
 
 
 
