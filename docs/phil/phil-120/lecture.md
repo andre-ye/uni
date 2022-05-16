@@ -688,7 +688,14 @@ $$\forall x (G(x)&F(x)&D(p, x) \to MadeBy(x, cat)$$
 - Variable switch, etc. - FO validities, does not let us do tautologies.
 - If the TFF is not a tautology, then you have to look at the original sentence to see if it is necessarily true.
 
+---
 
+## Week 8 Monday
+- BOOL and PROP: truth-functional connectives
+- FOL: truth-functional connectives, quantifiers and identity
+- Logical: truth functional connectives, quantifiers and identity, everything else
+- Work from the innermost circles to the outermost circles.
+- 
 
 
 
