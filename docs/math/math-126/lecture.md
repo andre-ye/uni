@@ -336,6 +336,14 @@ $$z - z_0 = f_x (x_0, y_0) (x - x_0) + f_y (x_0, y_0) (y - y_0)$$
 
 - Sometimes, it is more convenient to rewrite the integral in polar coordinates
 
+---
+
+## Week 8 Monday
+To review for midterm:
+- Curves, curvature, speed/velocity/acceleration
+- Binormal and normal vectors will not be assessed
+- Critical point identification and classification
+- Tangent planes
 
 
 
