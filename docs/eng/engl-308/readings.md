@@ -928,8 +928,23 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Most 'good subjects' are realized in the ISA.
 - 'Amen - So be it.'
 
+---
 
-
+## "A Letter on Art", Louis Althusser
+- Relationship between art and ideology
+- Art does not give us strict knowledge, and thus does not replace scientific knowledge but allows us to maintain a relationship with knowledge.
+- Art makes us see, perceive, feel. We can see something that alludes, references, uncovers reality.
+- Art makes us see the ideology from which it is born.
+- Relationship between art and science: ideology manifests in all human activity; it is identical with lived experience of human existence. Lived experience is not given, but spontaneous.
+- Ideology, lived experience, individual are objects of science.
+- Art and science are different in the form in which they give us the same object.
+- Art makes us see conclusions without premises; knowledge allows us to produce conclusions out of premises.
+- Art does not have its 'own logic'.
+- To answer the question of the relationship between art and knowledge, we first must have a prerequisite knowledge of art.
+- Alls pontaneous language is an ideological language.
+- Knowledge of art presupposes a rift between ideological spontaneity and scientific conepts.
+- Art gives us something else other than science; no opposition.
+- Concepts - not merely ideological but scientific and thus new; knowing art
 
 
 
