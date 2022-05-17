@@ -1041,7 +1041,9 @@ Ex(P(x)vQ(x)) ⇔ ExP(x)vExQ(x)
 - Different quantifiers and variables don't necessarily pick out different objects
 - Distinctness clauses: $$~(x=y)$$
 
-
-
+### 28.2: Mixed Quantifiers
+- Rule: pick objects for quantifiers from left to right.
+- A sentence is stronger than another if it entails the other, but not vice versa.
+- 
 
 
