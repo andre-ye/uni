@@ -343,6 +343,16 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 - Moment of the lamina about the $$x$$-axis: $$M_x = \int \int_D y \rho(x, y) dA$$
 - The center of mass can lie outside of the lamina.
 
+---
+
+## Week 8 Wednesday
+- Taylor polynomial of degree 1: $$T_1(x) = f(b) + f'(b)(x - b)$$
+- Approximation error
+- Bounds - given a function $$f(x)$$ - a number is an upper bound if all values are less than or equal to that value.
+- You don't need a 'best' bound, just *a* bound that works.
+- Error boudns: given an interval $$I$$ aroudn $$b$$, $$b - \epsilon \le x \le b + \epsilon$$: if $$\| f''(x) \| \le M$$ for all $$x$$ in $$I$$, then 
+
+$$\| f(x) - T_1(x) \| \le \frac{M}{2} \| x - b \|^2$$
 
 
 
