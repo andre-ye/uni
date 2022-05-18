@@ -1050,13 +1050,25 @@ Ex(P(x)vQ(x)) ⇔ ExP(x)vExQ(x)
 ## Chapter 29: Numerical Quantification
 
 ### 29.1: At Least
-- 
+- You need $$n$$ existential quantifiers and enough distinctness clauses. 
+- The number of distinctness clauses follows the progression of triangular numbers - 1, 3, 6, 10, etc.
+- "There are at least two dogs": $$\exists x \exists y (D(x)&D(y)&~(x=y))$$
 
+### 29.2: At Most
+- At most $$n$$ means $$n$$ or fewer, maybe none.
+- At most $$n$$ takes $$n + 1$$ universal quantifiers.
+- $$\forall x \forall y \forall z ((D(x) & D(y) & D(z)) \to (x=y \lor x=z \lor y=z))$$
+- The number of equalities is triangular.
 
+### 29.3: Exactly
+- There are two ways to translate 'exactly' into FOL.
+- There are exactly two dogs:
 
+$$\exists x \exists y (D(x) & D(y) & ~x = y) & \forall x \forall y \forall z ((D(x) & D(y) & D9z)) \to  (x = y \lor x = z \lor y = z))$$
 
+$$\exists x \exists y (D(x) & D(y) & ~x = y & \forall z (D(z) \to (x = z \lor y = z)))$$
 
-
+- Short way - 'exactly $$n$$' can be translated as $$n$$ existential quantifiers and 1 universal.
 
 
 
