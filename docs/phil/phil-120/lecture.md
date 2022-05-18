@@ -695,10 +695,19 @@ $$\forall x (G(x)&F(x)&D(p, x) \to MadeBy(x, cat)$$
 - FOL: truth-functional connectives, quantifiers and identity
 - Logical: truth functional connectives, quantifiers and identity, everything else
 - Work from the innermost circles to the outermost circles.
-- 
 
+---
 
-
+## Week 8 Wednesday
+- Find a counterexample using an interpretation
+- FOL validity should not be contingent on interpretation.
+- Logic is about structure rather than interpretation
+- "At least two people are guilty": $$\exists x \exists y (G(x) & G(y) & ~(x=y))$$
+- At least $$n$$ - takes $$n$$ existential quantifiers and enough inequalities for distinctness
+- "Everybody likes somebody" - $$\forall x \exists y Likes(x, y)$$ or $$\exists y \forall x Likes(x, y)$$ because of ambiguity in English (i.e. is the somebody unique).
+- Stronger entails weaker, but not vice versa.
+- Mixed quantifiers in English are always ambiguous
+- Do not use contextual clues to assume a manifestation of ambiguity.
 
 
 
