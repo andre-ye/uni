@@ -1044,6 +1044,21 @@ Ex(P(x)vQ(x)) ⇔ ExP(x)vExQ(x)
 ### 28.2: Mixed Quantifiers
 - Rule: pick objects for quantifiers from left to right.
 - A sentence is stronger than another if it entails the other, but not vice versa.
+
+---
+
+## Chapter 29: Numerical Quantification
+
+### 29.1: At Least
 - 
+
+
+
+
+
+
+
+
+
 
 
