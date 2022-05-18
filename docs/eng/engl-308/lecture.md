@@ -853,8 +853,93 @@ Discussion Ideas and Notes
 - Opium and China - influence and narratives
 - Gendered hierarchy within the Terran world - a male-centric gender hierarchy emerges even when there the males also serve a reproductive role.
 
+---
 
+## Week 8 Tuesday, Marx
+- *Capital* is a more anlaytical sutdy, different in nature from that of the *Manifesto* - ti should already feel different.
+- Written in German, published in 1867
+- Debate about translation: there is a realization that, upon closer reading, German words have significance that should be understood
+- Only volume of a larger set of intended works published during Marx's life.
+- Writing *Capital* in London in exile.
+- Volume 1 - *Capitl*. Volume 2 - *Land and Property*. 3 - *Wages*. ... Volume 6 - *Global Capitalism*.
+- Beginning from the unit of the commodity as a beginning point of analysis.
+- Marx is reading about previous theoretical thoguht on capitalism - Smith, Franklin, etc. Marx believes that these thinkers paved the way, but got it wrong - didn't see thigns clearly.
+- Fetishism - blockage of the true view. What is the blockage? What don't we see?
+- Marx - capitalism is not good for most people.
+- Analytical issues are most important. What is the right analysis of the system? How do we get an intellectual framework of anlaysis up and running?
+- Cryptocurrency as commodity fetishism on steroids
+- Failures of previous thinkers: what is a commodity? Where does value come from?
+- Some people - claim that value is part of the object, intrinsic value of the object.
+- The commodity si not about the time put in, but the reduction of labor as a unit of time.
+- What is value? What is beneath the fetishism of the commodity?
+- *Capital* - a critical analysis of capitalism (not sympathetic).
+- Trying to explain the physics of the capitalist system, to present it as a science. Marx is seeing a mechanistic/natural history of capitalism. Other political economists are in the system - and thus they are invested in anticritical theories and perspectives. How do you get to a vantage point where you see?
+- The *Manifesto* - a polemic about people. *Capital* - thinking about capitalism through the commodity. 'a different Marx' is writing the *Manifesto* and *Capital*. 
+- Scientific analogy and language. Previous discussion of evolutionary theory and Marxism - thinking about society as an organism that can be studied as a dynamic system.
+- The commodity is the cell/unit form of capitalism.
+- Marx is looking at structural contradictions internal to the system.
+- *Communist Manifesto* - focused on class antagonsims.
+- *Capital* - contradictions intrinsic and intertwined to the concpet of value creation.
+- Commodity - most central is labor, also can be ideas, objects, people.
+- Internal contradictions in the commodity-form shape our world.
+- We can see multiple perspectives in a commodity. Quality and quantity perspectives.
+- Division inside the commodity itself. Use value vs exchange value. Every commodity has both.
+  - Use-value: must be useful to someone. How it exists in the world; this pre-exists capitalism.
+  - Exchange-value: appearance in the market, exchange can be another commodity or money, a stand-in.
+- Containing both use-value and exchange-value is a contradiction that drives capitalism. *Capital* tries to raise consciousness of this contradiction/duality.
+- Fetishism - being blind to the use/exchange value duality.
+- Exchange-value is the appearance of something. The Chapter is organized as a serie of contradictions.
+- 'Value' - not introduced until later; Marx thinks value is a fetish that doesn't really exist.
+- Sets up a divide between use/exchange as a *placeholder* for the value cocnept.
+- In Capitalism, we are exchanging labor in any transaction. However, with commodity fetishism; our labor is abstracted into labor-time to enter a calculation.
+- The value of human labor is a concept relaitve to soceity organization.
+- Violence - everything that is specific is dissolved into a common solvent.
+- Erases the specificity of labor, erases connection between workers, erases that our world is about transaction between humans. Rather, it becomes a relation between objects.
+- Abstract human labor is objectifieid/congealed in commodification.
+- Labor-time is the magnitude of value.
+- Two-part/dyad representation of this dynamic. Value is not just the quantity but the quality, determined by the human input.
+- Use-value assumes the form fo the exchang-evalue in capitalism - *you can't see the use-value*. The transaction has erased the human dimension of making our world.
+- Value-form - can be expressed through exchange. "It takes two to play". No capitalism without the exchange dynamic.
+- Dehumanized labor is a byproduct of abstraction.
+- Value can only be expressed through exchange, ergo human labor can only be exposed in object form in capitalism.
+- Recall - class is a relationship
+- No value without exchange, no capitalist system withotu exchange of value.
+- Abstraction erases the connection of labor
+- Labor must be abstracted to enter the market. Congealing of labor into the object. Object - could be a service, etc. "Object" in a loose, liberatory sense.
+- Violence is in the abstraction - the social power of your labor; we should relate to each other not as things but rather as humans.
+- Exchange-value: a form of appearnace of abstracted labor.
+- *No solution is offered*. Marx is instead writing about the philosophy of how capitalism behaves. Four key stages/modes - humanistic, analytical, historical, pseculative. It is the methodology that matters, with applications beyond political economy. Marx is not necessarily providing a solution. It is an analytical framework.
 
+Fetishism.
+- What is it doing to our brains?
+- We all experience fetishism all the time.
+- Freud - made the concept of the fetish a centerpiece of psycho-analytic theory.
+- Fetishism - animate objects as substitutes.
+- Interesting scholarship combining Marx and Freud
+- 1850s-1870s: 'Fetish' attached to: context with African culture and magical objects, 'sexology' and the science of sexual 'perversion'
+- Builds concept of fetish worship
+- Lift the mystery attached to objects
+- Commodity-secret, shape is mystified, mystical
+
+Questions.
+- Why would Marx attach specifically msytical/religious terms to the commodity-form? What does this reveal?
+- How does the idea of commodity fetishism affect how we understand capitalism?
+- Literary section - what is the mode of communication?
+
+Discussion.
+- Strange metaphors - how do we understand the metaphors used? The dancing table
+- Mystified characters of the commodity lodged in exhcange-value and the commodity itself.
+- Optic nerve and the turn towards religion as a more apt metaphor
+- Pile of footnotes near the end of the writing - Marx becomes intertwined wth arguments against political economy theorists.
+- Commodities - talking to each other, a dreamy Alice-in-Wonderland like world to express the ideas.
+- "Transcends sensuousness" - moves past feeling.
+- Mysticism rationalized, naturalized. Would we do things differently?
+- Capitalism functions somewhat like language, arbitrary assignment of reference to meaning.
+- Fetishism allows for the emergence of a theory of ideology. We see that 20th century Marx builds upon 19th century Marx and moves from capital/fetishism to a theory broadly of ideology. 
+- Structuralism (Althusser) vs Ellipticism (Marx) in argumentative/literary style
+  - Structuralist approach: unit + unit + unit...  a progressive, modular theory of ideology.
+  - Elliptical approach: presentation, retreat, restart. Constant cyclic rethinking. Puts forward a hypothesis, explicates, then proposes a substituting/'better' hypothesis. Marx's writing is incredibly complex.
+- We observe commodification of 'anti-commodities', e.g. Etsy and 'home-made' objects which we intended to preserve the element of human labor that is involved in the labor process but which itself becomes a commodity in the 'anti-commodity' market. The commodity emerges from the market.
 
 
 
