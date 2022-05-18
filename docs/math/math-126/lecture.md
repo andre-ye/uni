@@ -345,8 +345,12 @@ To review for midterm:
 - Critical point identification and classification
 - Tangent planes
 
+---
 
-
+## Week 8 Wednesday
+- Bounds - noy necessarily about best bounds, but any bound. 
+- Work with worst-case scenarios. Work term-wise.
+- 
 
 
 
