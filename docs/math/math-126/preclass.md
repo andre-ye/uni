@@ -345,7 +345,7 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 
 ---
 
-## Week 8 Wednesday
+## Week 8 Wednesday (Taylor Notes 1)
 - Taylor polynomial of degree 1: $$T_1(x) = f(b) + f'(b)(x - b)$$
 - Approximation error
 - Bounds - given a function $$f(x)$$ - a number is an upper bound if all values are less than or equal to that value.
@@ -354,7 +354,23 @@ $$\kappa \nu^2 \vec{N} + \nu' \vec{T} = \vec{a}(t)$$
 
 $$\| f(x) - T_1(x) \| \le \frac{M}{2} \| x - b \|^2$$
 
+----
 
+## Week 8 Friday (Taylor Notes 2)
+- 1st Taylor Polynomial: the tangent line. The error is bounded by $$\frac{M}{2} \| x - b \|^2$$ for $$\| f''(x) \| M$$. You can make this independent of $$x$$ by finding the maximum possible RHS expression on the domain.
+- The second Taylor polynomial of a function $$f(x)$$ based at $$b$$ is
+
+$$T_2(x) = T_1(x) + \frac{1}{2} f''(b)(x-b)^2$$
+
+- This error will be less than or equal to $$\frac{M}{6} \| x - b \|^3$$ for $$\| f'''(x) \| le M$$.
+
+$$T_3(x) = T_2(x) + \frac{1}{6} f'''(b)(x-b)^3$$
+
+$$T_n(x) = T_{n-1}(x) + \frac{1}{n!} f^n(b)(x-b)^n$$
+
+- The error for the $$n$$th Taylor polynomial is $$\frac{M}{(n+1)!} \| x-b \|^{n+1}$$
+
+- We are matching the derivative on multiple different levels.
 
 
 
