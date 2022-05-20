@@ -1095,8 +1095,12 @@ $$\exists x \exists y (D(x) & D(y) & ~x = y & \forall z (D(z) \to (x = z \lor y 
 5. Ex(P(x)&EyQ(y))      EIntro;4
 ```
 
+### 30.3: $$\forall$$Elim - Universal Instantiation
+- In informal proofs, universal instantiation allows you to instantiate a universal quantifier with any name.
+- For $$\forall$$ Elim, you must replace every instance of the variable with the same name.
 
+---
 
-
+## Chapter 31: 
 
 
