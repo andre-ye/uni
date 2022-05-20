@@ -709,6 +709,22 @@ $$\forall x (G(x)&F(x)&D(p, x) \to MadeBy(x, cat)$$
 - Mixed quantifiers in English are always ambiguous
 - Do not use contextual clues to assume a manifestation of ambiguity.
 
+---
+
+## Week 8 Friday
+- Learn new rules for the new symbols, but still interact in the same way with previous operators.
+- Exception to ambiguity rule. As long as you don't have overlapping scope, you can order things differently with null quantification.
+- Order of different quantifiers only matters when there is a relation connecting the two.
+- The equivalence does not necessarily hold for $$\to$$ - use BDC to convert to BOOL and manipulate past.
+
+| $$\forall$$ Intro | Universal Generalization |
+| $$\forall$$ Elim | Universal Instantiation |
+| $$\exists$$ Intro | Existential Generalization |
+| $$\exists$$ Elim | Existential Instantiation |
+
+- Deep semantic connection between $$\exists$$ and $$\lor$$, $$\forall$$ and $$&$$.
+- Proofs with quantifiers - $$\forall$$ Intro. I need a way to talk about an arbitrary object without a definite object.
+- Boxing a name - `[a]` - means to assume that `a` is an arbitrary object from the domain.
 
 
 
