@@ -1070,6 +1070,32 @@ $$\exists x \exists y (D(x) & D(y) & ~x = y & \forall z (D(z) \to (x = z \lor y 
 
 - Short way - 'exactly $$n$$' can be translated as $$n$$ existential quantifiers and 1 universal.
 
+### 29.4: Definite Descriptions - 'The'
+- Definite descriptions imply uniqueness - only one thing can fit the description.
+- Bertrand Russell - logical analysis of definite descriptions to solve the law of the excluded middle.
+
+---
+
+## Chapter 30: Proofs in FOL - 2 Easy Ruels
+
+### 30.1: Simple Informal Proofs
+- How do steps with qquantifiers work?
+- Universal Instantiation - instantiate general claim in the quantiifer for a specific claim about a particular object.
+- Existential Generalization - how we reason to an existential.
+
+### 30.2: $$\exists$$Intro - Existential Generalization
+- $$\exists$$ Existential Generalization for formal proofs.
+- You can make any claim about an object with any variable.
+
+```
+1. P(a)                 Premise
+2. Q(b)                 Premise
+3. EyQ(y)               EIntro;2
+4. P9a)&EyQ(y)          &Intro;1,3
+5. Ex(P(x)&EyQ(y))      EIntro;4
+```
+
+
 
 
 
