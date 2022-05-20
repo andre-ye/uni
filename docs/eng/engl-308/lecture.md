@@ -941,7 +941,98 @@ Discussion.
   - Elliptical approach: presentation, retreat, restart. Constant cyclic rethinking. Puts forward a hypothesis, explicates, then proposes a substituting/'better' hypothesis. Marx's writing is incredibly complex.
 - We observe commodification of 'anti-commodities', e.g. Etsy and 'home-made' objects which we intended to preserve the element of human labor that is involved in the labor process but which itself becomes a commodity in the 'anti-commodity' market. The commodity emerges from the market.
 
+---
 
+## Week 8 Thursday, Althusser
+
+Recap of Capital
+- Capital - partly serves the role of just exposure, understanding Marxism from the text
+- Gets to an analysis of the commodity - labor stolen via abstraction to the common quality.
+- Abstraction may seem lgoical, but it is violent - erases specificity of contribution.
+- Althusser - getting at understanding the cost of participation.
+- What is Marx doing? To give the owrker a consciousness of their labor power, to return sociality to the worker - no longer a world in which we transact everything as a set of objects
+- Return to the worker - common theme in Marxist analysis
+- Penetrate the fetishism of the commodity
+- Psychological problem: fetishism. An epistemology and ontological problematic.
+- David Harvey - can be a useful resource for understanding Marx.
+- Worker as a rationalist capable of thinking differently?
+- The materialist premise - the way we do things conditions our understanding of the world
+- How does one see the machine when they are in the machine?
+
+Althusser - Context
+- Althusser - entering into this dialogue of seeing and not seeing, the dynamics of seeing.
+- Althusser re-asks what it means to think outside the capitalist box.
+- 1918 to 1990, born in colonized French Algeria
+- Moved to Paris later, becomes a professor of philosophy.
+- Many notable students - Foucalt, Lacon, Derrida
+- Outsized influence on post-war cultural anlaysis.
+- 1948 - French Communist Party
+- Huge debate on French interpretation of Marx, de-Stalinizing Marxism; Althusser seemed 'dangerous' (maybe 'Stalinist'). Was an advocate for returning to Marx's body of work and reading closely.
+- Chinese revolution - celebrated by Althusser
+- Interested in praxis - practice + theory. How to turn theory into action.
+- 1960s student movements - 1968, the year of uprisings (particularly by students, in almost every country).
+- Tremendous uptake of Althusser in these 1960s movements by student activists.
+- Althusser struggled with mental illness. 1980 - murdered his wife, judged a 'psychotic break'. Dies in 1990.
+- Althusser is a complex personality; very interested in psychoanalysis.
+- Student, Lacon - inherits the mantle of Freud's work
+- Structuralism - complex method for thinking about power or systems - reducing to a set of constructs, structural analyses. Can be expressed via a foundational analysis. Reudction to mechanisms.
+- The metaphor of the building is often used in structuralism for obvious reasons - the 'superstructure', the 'base', the 'infrastructure'
+- Structuralism manifests differently in different disciplines. 	
+	- Marxism - understanding the structure of capitalist systems and oppression
+	- Psychoanalysis - the structure of the pysche, particularly in relation to language (use/case)
+	- Linguistics - structuralism to understand the function of a unit, relations between syntactics and semantics
+	- Anthropology - all idea systems can be mapped, Freudian ideas
+- Universalizing nature of structuralist 'problem'
+- Althusser is said by many to be a structuralist; Weinbaum questions this a bit - Althusser really is very complex, a strong interest in psycholoanalysis (later writes a 'madman' piece assserting that Lacon, Freud, and Marx argue the same thing).
+- Althusser was interested in the Marx of *Capital* more than the Marx of the *Manifesto*
+- Science of economic practice, rejection of economic determinism
+- Interested in the dialectic between the base and the superstructure - reciprocity between the base and the superstructure
+- More flexible than the label 'structuralist' may allow for
+- Fundamentally, interested in a theory of the subject. Not just theorizing economic systems, but theorizing how we think and the consciousness of our structuring. Capitalism not only as a system of capital, but of people.
+- Antonia Gramsci - hegemony, the dominant idea system.
+- The dominant ideology is not only manufactured but *agreed upon*; it is common. How do we get to the common sense of being and existing when it is common sense?
+- Marx only explored this psychological question as one of fetishism - Althusser is taking it further
+- "obviousness of obviousness" - how is experience naturalized, normed? How do knowledge states become axioms?
+- Not the RSA necessarily doing the crucial work of capitalist reproduction - but the ISAs, engaging participation in the common structure.
+- How do you make individuals into subjects? - interpellation
+- Imaginary relationship to the real relations of production - ideology. 
+- A departure in some ways from Marx - returning Marx to a 'more fully Marxist base', 'Marxing Marx'
+- What is the 'common sense' of capitalism?
+- Interpellation - main theoretical contribution, transformation of indiviudlas into subjects by and for capitalism, through which we believe, engage, and become incorporated into capitalist hegemony.
+- Interested in the reproduction of the capitalist-system. The system needs to be reproduced; an ideology presence. 
+- Althusser is not thinking about biological reproduction. Understands that ideology is most intense in the private realm - home/family, school, church. Capitalism happens in the private sphere. Interpellation happens in the private sphere. Same fundamental position as Marxist feminists - a contribution that doesn't go quite all the way but is a meaningful beginning. Understands reproduction - private acts - as key to maintenance and perpetuation of the capitalist system
+
+Questions and Discussion
+- What is the difference between an RSA and an ISA? Why are the two distinguished?
+- Why introduce the ISA? What does thinking about ISAs as a theoretical tool give us?
+
+| RSA | ISA |
+| --- | --- |
+| public | private |
+| violence/coercion | ideology |
+| government, law, military, prison, police | schools, family, church |
+
+- Family as an ISA - a profound idea, family is thought of in popular culture as being *the* entity free from the state apparatus and ideological influence. Althusser is saying that capitalist hegemony is reproduced in the family.
+
+Feudalism $$\to$$ Capitalism
+
+Church/Family Dyad $$\to$$ School/Family Dyad
+
+- Repression is not really a useful way to explain and think about capitalism, especially in modern democracies. We are 'free agents' consenting to participation in the order of things.
+- ISA - both the site and stake of ideological conflict.
+- Althusser got it in many of the right ways
+- We ahve overtly consented to RSAs; we have ended up consenting to ISAsw tihotu really knowing about it
+- Schools - both serve as an instrument and separation and teach explicit and implicit compliance to the RSA and ISA
+- RSA/ISA separation is not as clear in modern times, which is chilling
+- Psycholoanalytic understanding - a pyschological system, we are ideology spreaders
+- Jodi Melamed and the criticism of multiculturalism
+- Speed of time - how does our temporality change in capitalism?
+- Marx vs ALthusser - more hard hitting. Althusser went crazy, Marx didn't. Althusser is living at the cusp of modern industrialization, Marx is writing at its beginning.
+- Fighting for *time* - temporality and the production - perception, epistemology
+- "Night/day" dyad - itself a capitalist organization (?), biorthythm synchronzied itself by capitalism in service of production and reproduction
+- Ideology has no history, ideologies have history - abstract classes vs instantions (computer science, related concepts)
+- The end of history (Marx, the *Manifesto*?)
+- Naturalization
 
 
 
