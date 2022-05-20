@@ -347,13 +347,27 @@ To review for midterm:
 
 ---
 
-## Week 8 Wednesday
-- Bounds - noy necessarily about best bounds, but any bound. 
+## Week 8 Wednesday (Taylor Notes 1)
+- Bounds - not necessarily about best bounds, but any bound. 
 - Work with worst-case scenarios. Work term-wise.
-- 
 
+---
 
+## Week 8 Friday (Taylor Notes 2)
+- 1st Taylor Polynomial: the tangent line. The error is bounded by $$\frac{M}{2} \| x - b \|^2$$ for $$\| f''(x) \| M$$. You can make this independent of $$x$$ by finding the maximum possible RHS expression on the domain.
+- The second Taylor polynomial of a function $$f(x)$$ based at $$b$$ is
 
+$$T_2(x) = T_1(x) + \frac{1}{2} f''(b)(x-b)^2$$
+
+- This error will be less than or equal to $$\frac{M}{6} \| x - b \|^3$$ for $$\| f'''(x) \| le M$$.
+
+$$T_3(x) = T_2(x) + \frac{1}{6} f'''(b)(x-b)^3$$
+
+$$T_n(x) = T_{n-1}(x) + \frac{1}{n!} f^n(b)(x-b)^n$$
+
+- The error for the $$n$$th Taylor polynomial is $$\frac{M}{(n+1)!} \| x-b \|^{n+1}$$
+
+- We are matching the derivative on multiple different levels.
 
 
 
