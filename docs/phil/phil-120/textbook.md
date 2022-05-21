@@ -1101,6 +1101,22 @@ $$\exists x \exists y (D(x) & D(y) & ~x = y & \forall z (D(z) \to (x = z \lor y 
 
 ---
 
-## Chapter 31: 
+## Chapter 31: Proofs in FOL - 2 Hard Rules
+
+### 31.3: Universal Generalization
+- To reason to a universal claim, we need to use arbitrary names.
+- We assume a temporary name that points towards an arbitrary object and show we can derive a result from that variable.
+
+### 13.2: $$\forall$$ Intro
+- @n: a new symbol to declare an arbitrary symbol.
+- Begin an $$\forall$$Intro proof by putting @a on the assumption line of a new subproof.
+
+### 13.3: Existential Instantiation
+- We need to be able to reason from an existential.
+- We don't want to consider a completely arbitrary object in the domain.
+
+### 13.4: $$\exists$$Elim
+- We begin by assuming an arbitrary name @n.
+- Follow each arbitrary name with a condition upon which we choose an object in the domain.
 
 
