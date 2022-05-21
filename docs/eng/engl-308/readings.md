@@ -946,6 +946,15 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Art gives us something else other than science; no opposition.
 - Concepts - not merely ideological but scientific and thus new; knowing art
 
+---
 
-
+## Excerpts from *Keywords*, Williams
+- Within a common language, we can be conscious of social difference
+- We use the same words for most everyday things 
+- What does it mean when 'we don't speak the same language'? - we have different modes of valuation and different consciousnesses.
+- 'Culture' - both social status (behavior, social superiority) and literature, ways of life.
+- Culture - class, art, industry, democracy.
+- Words take on not only an intellectual but historical shape.
+- Project - documenting keywords by illustrating a historical portrait.
+- *Keywords* - not a dictionary or glossary/dictionary - instead, ane xploration into how vocabulary shapes our understanding of culture and society.
 
