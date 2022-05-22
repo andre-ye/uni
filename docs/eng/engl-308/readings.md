@@ -941,7 +941,7 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Art makes us see conclusions without premises; knowledge allows us to produce conclusions out of premises.
 - Art does not have its 'own logic'.
 - To answer the question of the relationship between art and knowledge, we first must have a prerequisite knowledge of art.
-- Alls pontaneous language is an ideological language.
+- All spontaneous language is an ideological language.
 - Knowledge of art presupposes a rift between ideological spontaneity and scientific conepts.
 - Art gives us something else other than science; no opposition.
 - Concepts - not merely ideological but scientific and thus new; knowing art
