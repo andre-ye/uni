@@ -949,6 +949,10 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 ---
 
 ## Excerpts from *Keywords*, Williams
+
+### Introduction
+{: .no_toc }
+
 - Within a common language, we can be conscious of social difference
 - We use the same words for most everyday things 
 - What does it mean when 'we don't speak the same language'? - we have different modes of valuation and different consciousnesses.
@@ -957,4 +961,33 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Words take on not only an intellectual but historical shape.
 - Project - documenting keywords by illustrating a historical portrait.
 - *Keywords* - not a dictionary or glossary/dictionary - instead, ane xploration into how vocabulary shapes our understanding of culture and society.
+
+### Class
+{: .no_toc }
+
+- Class - origination in Latin and Rome; came into English.
+- Class was associated with education.
+- Modern understadnings of class develop from 1770 through 1840, during the Industrial Revolution.
+- Difficulty whether to understand class as a general term for any grouping or a specific description of a social formation.
+- Introduction of class relates to increasing consciousness that social position is made
+- Changed consciousness: increased individual mobility, and new sense of society. 
+- New vocabulary of class as a generally available ad hoc term for grouping.
+- 'Middle classes' - an insertion between high and low.
+- 'Middle class' - interposition of rank and common people.
+- 1790s-1830s: class used to distinguish 'productive/useful classes' with the 'privileged class'.
+- Adoption of the self-reference 'working class' in opposition with 'privileged', 'idle'.
+- How does the productive/idle class dichotomy contrast with the lower/middle/higher class trichotomy/
+- Transfer of 'useful/productive' to 'working classes'.
+- 'Working classes' - used proudly, in the same way 'middle class' was proudly used
+- Singular use of 'working class' by socialist use, plural use in conservative descriptions
+- Two common terms formed with different models to understand class.
+	- 'Middle' - implies a lower and a higher.
+	- 'Working' - implies productive activity, implying the 'not working class' as unproductive, useless.
+- Confusion still present today - how to reconcile between these understandings of class.
+- Hierarchical model - social position/distinction; working/idle - economic relationships.
+
+
+
+
+
 
