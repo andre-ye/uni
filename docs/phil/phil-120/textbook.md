@@ -1119,4 +1119,41 @@ $$\exists x \exists y (D(x) & D(y) & ~x = y & \forall z (D(z) \to (x = z \lor y 
 - We begin by assuming an arbitrary name @n.
 - Follow each arbitrary name with a condition upon which we choose an object in the domain.
 
+---
+
+## Chapter 32: = Proofs
+
+### 23.1: =Elim
+- We can build `=` into formal proofs.
+- If $$p = a$$, we can substitute one name for any other in FOL.
+- =Elim also allows us to substitute one or more occurrences of a name.
+- Transitivity of identity
+- If you want to use multiple different identities, you must do each one step at a time.
+
+### 23.2: =Intro
+- A logically true conclusion follows from anything.
+- We can introduce `a=a` any time.
+- Symmetry of identity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
