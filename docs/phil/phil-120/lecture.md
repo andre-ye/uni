@@ -727,7 +727,12 @@ $$\forall x (G(x)&F(x)&D(p, x) \to MadeBy(x, cat)$$
 - Boxing a name - `[a]` - means to assume that `a` is an arbitrary object from the domain.
 
 
+---
 
+## Week 9 Monday
+- Practicing hard rules - $$\forall$$ Intro and $$\exists$$ Elim
+- Can be confusing - sometimes you leave the variable declaration blank, sometimes you don't.
+- Use the existential before the universal so you can reference the same variable.
 
 
 
