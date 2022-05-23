@@ -372,9 +372,25 @@ $$T_n(x) = T_{n-1}(x) + \frac{1}{n!} f^n(b)(x-b)^n$$
 
 - We are matching the derivative on multiple different levels.
 
+---
 
+## Week 9 Monday (Taylor Notes 3)
+- Sigma notation - allows us to express complex patterns, like exponentials of $$-1$$ to change sign
+- $$n$$th Taylor polynomial - as $$n$$ increases, the error bound decreases.
+- We let $$n \to \infty$$
 
+Taylor Series for $$f(x)$$ at base $$b$$:
 
+$$\lim_{n\to\infty} T_n(x) = \sum_{k=0}^\infty \frac{1}{k!} f^k (b)(x-b)^k$$
+
+- If the limit exists for an $$x$$, it converges at $$x$$. Otherwise, it diverges at $$x$$.
+- Interval of convergence - largest open interval over which the series converges.
+- Convergence only happens within an interval.
+- Important series:
+  - $$e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \frac{x^4}{4!} + ...$$, converges for all $$x$$
+  - $$\sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} \pm ...$$, converges for all $$x$$
+  - $$\cos x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} \pm ...$$, converges for all $$x$$
+- 
 
 
 
