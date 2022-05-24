@@ -1135,8 +1135,21 @@ $$\exists x \exists y (D(x) & D(y) & ~x = y & \forall z (D(z) \to (x = z \lor y 
 - We can introduce `a=a` any time.
 - Symmetry of identity.
 
+---
 
+## Chapter 33: FOL Proofs
 
+### 33.1: Universals
+- Quantifiers aren ot connectives. 'Operator' - quantifiers and connectives.
+- Look at the main operator.
+- Universal premise: use $$\forall$$Elim; universal conclusion; set up $$\forall$$Intro.
+- Use the name 'a' when there are no other names.
+
+### 33.2: Existentials
+- Existential premise: $$\exists$$Elim.
+- Existential conclusion: look around for other ideas, use $$\exists$$Intro at some point.
+- For existential conclusions, you will often not do $$\exists$$Intro in the last line.
+- Often, $$\exists$$Intro is used within an $$\exists$$Elim subproof.
 
 
 
