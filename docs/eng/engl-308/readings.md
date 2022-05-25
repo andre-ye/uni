@@ -960,7 +960,23 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Culture - class, art, industry, democracy.
 - Words take on not only an intellectual but historical shape.
 - Project - documenting keywords by illustrating a historical portrait.
-- *Keywords* - not a dictionary or glossary/dictionary - instead, ane xploration into how vocabulary shapes our understanding of culture and society.
+- *Keywords* - not a dictionary or glossary/dictionary - instead, an exploration into how vocabulary shapes our understanding of culture and society.
+- Understanding of words and meaning we group as culture and society.
+- *Keywords* - significant both in activities/interpretation, and in thought.
+- How has the meaning of culture and society changed?
+- We must be conscious of words as elements of problems.
+- Language requires a necessary confidence; the search for clarity can become brittle.
+- Questions not only of meaning, but meanings.
+- For words that involve ideas and values, consulting a stnadard diction is hardly effective.
+- Oxford English Dictionary
+- Sacral understanding of words - the proper meaning is rooted in its origins.
+	- The origins are interesting, but the variations are more interesting.
+- How do words relate to concepts?
+- Language does not just reflect society and history; many social and historical processes occur within language.
+- Can individual words even be iolated?
+- Meaning can never be wholly dissolved into context, but certain words can be considered for their development.
+
+Page 23, page 7 PDF
 
 ### Class
 {: .no_toc }
