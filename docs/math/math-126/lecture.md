@@ -362,6 +362,25 @@ To review for midterm:
 
 > Solution: $$T_7 = x - \frac{1}{3!} x^3 + \frac{1}{5!} x^5 - \frac{1}{7!} x^7$$. Can be written as $$\sum_{k = 0}^\infty \frac{(-1)^k}{(2k+1)!} x^{2k + 1}$$
 
+---
+
+## Week 9 Wednesday
+- Taylor Series have an interval of convergence.
+- The interval for the Taylor series for $$\frac{1}{1-x}$$ is $$-1 < x < 1$$, $$x \neq 0$$.
+- Conventional form - start with the sigma sum, pull out sign indicators, expand exponents.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
