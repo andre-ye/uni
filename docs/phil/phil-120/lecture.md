@@ -734,6 +734,44 @@ $$\forall x (G(x)&F(x)&D(p, x) \to MadeBy(x, cat)$$
 - Can be confusing - sometimes you leave the variable declaration blank, sometimes you don't.
 - Use the existential before the universal so you can reference the same variable.
 
+---
+
+## Week 9 Wednesday
+
+```
+1. ~Ex(P(x)->Q(x))            Premise
+2. | @n                       Assume
+3. || ~P(n)                   Assume
+4. ||| P(n)                   Assume
+5. ||| #                      #Intro;3,4
+6. ||| Q(n)                   #Elim;5
+7. || P(n)->Q(n)              ->Intro;,4-6
+8. || Ex(P(x)->Q(x))          EIntro;7
+9. || #                       #Intro;1,8
+10.| P(n)                     ~Intro;3-9
+11. AxP(x)                    AIntro;2-10
+```
+
+- Identity proofs - many different ways of equal speed to solve
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
