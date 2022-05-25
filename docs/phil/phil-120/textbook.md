@@ -1151,22 +1151,68 @@ $$\exists x \exists y (D(x) & D(y) & ~x = y & \forall z (D(z) \to (x = z \lor y 
 - For existential conclusions, you will often not do $$\exists$$Intro in the last line.
 - Often, $$\exists$$Intro is used within an $$\exists$$Elim subproof.
 
+### 33.3: Key Pattern ~$$\exists$$xP(x)
+- Negation around a quantifier - provide special challenges.
+- We need to do a reductio built from the inside to handle negation around another connective. 
+- When your conclusion is a wide scope $$\forall$$x, begin with an $$\forall$$Intro proof.
 
+### 33.4: Annoying Pattern ~$$\forall$$xP(x)
+- ~$$\exists$$xP(x) is similar to the five step plan.
+- Indirectly apply the five-step plan using reductio.
 
+### 33.5: Regular Routine for Quantifiers
+1. Look at the conclusion for a wide-scope universal or negation; if so, start $$\forall$$Intro or ~Intro.
+2. Look for existentials in the premises; if so, start an $$\exists$$Elim proof (existentials before universals).
+3. Instantiate any universals.
+4. Solve proof sets.
+5. Repeat.
 
+---
 
+## Chapter 34: Logic and Set Theory
 
+### 34.1: Sets and Membership
+- Set - a collection or group of things.
+- Items in a set are members/elements.
+- Sets are abstract collections.
+- We can use universal quantifiers and set-builder notation.
+- Binary predicate for set membership - $$a \in b$$. Opposite - $$\notin$$.
+- Facts about sets: order doesn't matter, repetition doesn't matter, name choice doesn't matter.
+- Sets can contain other sets.
+- $$\emptyset$$ - the empty set.
 
+### 34.2: Cardinality = Size
+- Every set has a size - cardinality, number of elements in the set.
+- Vertical bars around a set - cardinality of the set.
+- One-to-one correspondence: a way to compare the sizes of two sets.
+- Two sets cannot possibly have different sizes if they can be paired with one-to-one correspondence.
 
+### 34.3: Natural Numbers and Infinite Sets
+- This textbook is including 0 in the set of natural numbers for some bizarre reason.
+- $$\aleph_0$$ - cardinality of the set $$\mathbb{N}$$.
 
+### 34.4: 1-to-1 Correspondence, Transfinite Arithmetic
+- We can do arithmetic with $$\aleph_0$$.
+- $$\aleph_0 + 1 = \aleph_0$$
 
+---
 
+## Chapter 35: Logic and Infinity
 
+### 35.1: E, O, Z
+- $$\mathbb{E}$$ - set of even numbers
+- $$\mathbb{O}$$ - set of odd numbers
+- $$\mathbb{Z}$$ - set of integers.
+- All these sets have the same cardinality as the natural numbers.
 
+### 35.2: The Rational Numbers Q
+- $$\mathbb{Q}$$ - rational numbers - expressed as fractions of whole numbers.
+- Density - between any two numbers, there exists another number.
 
+$$\forall x \forall y \exists z (~(x=y) \to ((x < z & z < y) v (y < z & z < x)))$$
 
+- Density: means that no two rational numbers are adjacent to each other.
+- We can pair $$\mathbb{Q}$$ with $$\mathbb{N}$$ as follows: write a table where each column is the numerator and each row is the denominator, then take a snake-coil pattern for the line through the table. Every cell of the table will eventually be covered by the line.
 
-
-
-
+$$\| \mathbb{N} \| = \| \mathbb{Q} \|$$
 
