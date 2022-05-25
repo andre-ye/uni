@@ -390,8 +390,16 @@ $$\lim_{n\to\infty} T_n(x) = \sum_{k=0}^\infty \frac{1}{k!} f^k (b)(x-b)^k$$
   - $$e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \frac{x^4}{4!} + ...$$, converges for all $$x$$
   - $$\sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} \pm ...$$, converges for all $$x$$
   - $$\cos x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} \pm ...$$, converges for all $$x$$
-- 
 
+---
+
+## Week 9 Wednesday (Taylor Notes 4)
+- $$n$$th Taylor polynomial of $$f$$ on $$I$$: $$T_n(x) = \sum_{k=0}^n \frac{1}{k!} f^k (b) (x-b)^k$$
+- Error bound: error $$\lke \frac{M}{(n+1)!} \|x-b\|^{n+1}$$
+- Taylor series - take $$n\to\infty$$, we see error $$\to 0$$.
+- Word of caution - sometimes a function is differentiable and $$T_n$$ doesn't diverge, but it does not work out.
+- Interval of convergence: when do we see convergence? Which $$x$$ leads to convergence when $$n\to\infty$$?
+- Consider $$(1 - x) T_n(x) = ...$$, slve for $$T_n (x)$$.
 
 
 
