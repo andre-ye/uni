@@ -1034,6 +1034,43 @@ Church/Family Dyad $$\to$$ School/Family Dyad
 - The end of history (Marx, the *Manifesto*?)
 - Naturalization
 
+---
+
+## Week 9 Tuesday
+- RSA vs ISA, private space is most saturated by capitlaism (as opposed to the public space)
+- Itlaian Marxist Gramsci - the very idea of a private/public dualism is itself an ideological effect
+- Althusser - reproduction/reproductive power of individuals as subjects in the system.
+- Ideology is material - how is it materialized?
+- Principle of ideology is interpellation - individuals into subjects, theoretical contribution to the structure of a capitalist production/society
+- Ideology has no history - ideologies vs ideology, Lacanian psycholoanalysis
+- Similar and different to Marx's formulation across several different dimensions.
+- Class struggle happens for Althusser in the ISAs. "site and stake" of hegemony
+- Hegemony - Gramsci, a dominant idea system. Gramsci said the dominant system is internally unstable, alwyas undermined by conflict and imbalanced. Always undergoing continuous challenge and re-structuring, continually in flux. The beauty of the concept of hegemony is the idea that the dominant power structures are always in flux and crisis, forever needing to prove themselves and apply re-assertion. Control over various social formations, hegemony always regenerations/renogiaties. **ISAs are the site of renegotiation.**
+- We are always engaged in a struggle for hegemony.
+- Church example - what does Althusser mean? Why does he talk about the church as a case study ISA as opposed to the family or the school?
+- Is objectivity possible? Can we get outside of it? Can we have an educational experience which is anti-ideological?
+- For Althusser, there is a **science** of ideology and capitalism which is necessarily specific. Reproduction is an important focus, but not in a feminist way.
+- Althusser is moving away from a descriptive theory into the realm of science
+- Raymond Williams and the politics of incorporation - how dissent to a system is naturalized and itself incorporated into the system
+- Illusion vs allusion
+	- Illusion - Marx, alientation, the falsehood.
+	- Allusion - Althusser, a complex relationship between the real and the imaginary which attaches itself to the real
+- "Imaginary representation of the relation between the individual and their real conditions of existence" - incredibly complex formulation. Not just illusion (Feuerbach - God, Marx - commodity fetishism), not just something flase - Althusser is thinking about something else.
+- Not just an illusion, but rather the 'common sense' - the way in which we experience the world and describe that experience.
+- Signifier/signified, ideology sliding all around and in everything.
+- We represent the imaginary condition to ourselves as if it were real.
+- Metaphor of the glasses - it is not that we need to take off our 'ideology glasses', it is that our very eyes have been bred from ideology and that we must perform the surgery of science. Our eyes already don't see clearly.
+- Science to combat 'humanist tendencies' - undisciplined, ideological, succumbing.
+- 'Science' can help us move beyond ideology. We can have a scientific understanding of ideology with science.
+- Moving towards a science and away from a descriptive theory.
+- Representation - (re)presentation.
+- We represent to ourselves our life in capitalism in imaginary form, but gesture towards the fact that the imaginary is the real for the existant in ideology. Represents these conditions to ourselves in imaginary form.
+- Jerome Bruner - Narrative Creation of the Self
+- Meta-level - hard for us to reason and think about Althusser's text precisely because we have been bred from a capitalist epistemology, because we are always already in ideology. It is hard - can we get out of the illusion/allusion? Our representation of the world is always already imaginary - we can't just 'cut' through and get to the real.
+- Art - doesn't define science, but it lets us see/feel/perceive ideology.
+- Not all art is ideological - it is different, but not merely an instantiation of ideology.
+- We are always already inside ideology, born into it. We don't really have choice.
+- Promise of recognition as the psychological dividend of interpellation. Togetherness of ideology.
 
 
 
