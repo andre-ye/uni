@@ -975,8 +975,27 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Language does not just reflect society and history; many social and historical processes occur within language.
 - Can individual words even be iolated?
 - Meaning can never be wholly dissolved into context, but certain words can be considered for their development.
+- Historical semantics - empahsis not only on historical origins and developments but the present as history.
+- Williams does not beleve that underlying semantics and clarification can help resolve disputes in terms of such syntactics.
+- What this contributes is not reoslution but the "extra edge of consciousness"
+- Crucial meanings are shaped by the dominant class; *Keywords* is an exploration of the shaping and reshaping of language.
+- Dictionary vs vocabulary
+- 
 
-Page 23, page 7 PDF
+### Art
+{: .no_toc }
+- General meaning of art - any kind of skill
+- 'Art' was applied to a variety of contexts from the 13th to 16th centuries.
+- 17th century - application to specialized group of skills, painting, drawing, engraving, sculpture
+- Art - difficult to localize.
+- Art vs nature
+- Most sciences were arts until the 18th century; modern distinction between science and art comes from the 19th century.
+- Art vs industry, fine arts vs useful arts, useful arts $$\to$$ technology
+- Artist distinguished from scientist/technologist.
+- "Art" becomes tied to production - art/artist acquire more general/vague understandings to express a non-utilitarian/human interest.
+	- Most works of art, ironically, are commodities.
+- 
+
 
 ### Class
 {: .no_toc }
@@ -1001,6 +1020,33 @@ Page 23, page 7 PDF
 	- 'Working' - implies productive activity, implying the 'not working class' as unproductive, useless.
 - Confusion still present today - how to reconcile between these understandings of class.
 - Hierarchical model - social position/distinction; working/idle - economic relationships.
+
+### Literature
+{: .no_toc }
+- Seems simple upon first sight, but really is incredibly difficult.
+- Literature - originally came in teh 14th century as 'polite learning through reading'.
+- Literature corresponded to literacy/illiteracy/illiterature/literati.
+- Literature/literacy refers in more modern contexts to a larger body of text.
+- Possibility of a nation to have 'a literature'
+- Various kinds of literature - creative, imaginative
+- Teaching of English is understood as teaching literature and literary crticisim.
+- Social and cultural history - modern arrangement of literature
+- Literature specialized towards imaginative writing under the axioms of Romanticism.
+- Pejorative understandings of 'literary' - past literature vs contemporary, or unreliable/fictional/imaginative as opposed to 'real'/actual
+- 
+
+---
+
+## Chapters from *Marxism and Literature*, Williams
+
+### Chapter 6
+{: .no_toc }
+
+### Chapter 7
+{: .no_toc }
+
+### Chapter 8
+{: .no_toc }
 
 
 
