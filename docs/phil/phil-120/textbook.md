@@ -1216,3 +1216,8 @@ $$\forall x \forall y \exists z (~(x=y) \to ((x < z & z < y) v (y < z & z < x)))
 
 $$\| \mathbb{N} \| = \| \mathbb{Q} \|$$
 
+### 35.3: The Real Numbers R
+- The reals include the rationals and the irrationals.
+- There are different sizes of infinity - we can prove via reductio that there is no 1-to-1 correspondence between $$\mathbb{R}$$ and $$\mathbb{N}$$.
+- Cantor's diagonal argument
+
