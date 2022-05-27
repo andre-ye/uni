@@ -30,9 +30,9 @@ ENGL 308
 - Not an easy class. If it's not for you, don't take it.
 - History of the class
   - Taught over 20 years
-  - Marxism taught trhough the backdoor
+  - Marxism taught though the backdoor
   - Marxism needed to be integrated into the department
-  - Argued to be the most central couruse for English majors
+  - Argued to be the most central course for English majors
   - 2008 financial crisis - important to understand this.
   - In 2008, lobbied to put the course on the books. Became a listed English course.
   - At certain times, there has been a certain amount of anxiety. Rides different waves of politics. There is always a waitlist about the class.
@@ -1072,7 +1072,88 @@ Church/Family Dyad $$\to$$ School/Family Dyad
 - We are always already inside ideology, born into it. We don't really have choice.
 - Promise of recognition as the psychological dividend of interpellation. Togetherness of ideology.
 
+---
 
+## Week 9 Thursday, Althusser, Williams
+- We have to grasp ideology - we constantly already represent our world to ourselves in predetermined ways.
+- Conventional Marxist ideology sets up idoelogy as an illusion which can be directly cut through with rationalism.
+- Althusser - interested in the question of why people throw themselves towards the 'beautiful lies'
+- Influenced by psychology and psychoanalysis.
+- Critique of Althusser - too totalizing a theory, doesn't allow for us to really reach the outside.
+- Weinbaum - believes that this criticism is valid, and that hegemony is constantly in flux due to constant opposition
+- Althusser - in response, would say that such opposition is always being incorporated into hegemony.
+- Another perspective - hegemony is always in flux, always needs re-abstraction.
+- Only a sicence of ideology can crack what ideology is - someone gets to see the ideology itself.
+- Small cadre of the cognisceti that understand how ideology works
+- Althusser turns to the church in his example - why? The church is an example that resonates more because it was already in the process of disintegration and provides the critical distance needed to comprehend how something works.
+- In a way, the subject is guilty. There is a presupposition of guilt in the Ideological State Apparatus, of alays being outside the system. Judith Butler - interesting analysis of this. it is the constant hanging-on-the-edge that keeps ideology strong.
+- Psychoanalysis - guilty ocnscience inscribed in the theory of ideology.
+- We know, but proceed as if - we both understand how it works and participate in it. Why?
+- Why the church? Question of distance. We need distance to develop an understanding of how ideology works. We need a vantage point.
+
+Althusser and Art
+- Art has no distance from ideology. Lets us see ideology because it is bathed in ideology and can't *not* create a world of ideology.
+- Idoelogy manifests in creation.
+- Art gives us insight, but not knowledge.
+- Balzac and Solzhenitsyn
+- The author doesn't need to be a radical to let us see oppression, conflict, etc.
+- "Good" vs "bad"/inferior art - Althusser subscribes to a certain artistic elitism.
+- Althusser - concludes that art lets us see, fee, perceive - but not to fundamentally think and know about how art functions.
+- Rolad Barthe - death of the author, stop focusing on the author as the source of meaning. Authorial intent should not constitute the meaning of the work.
+- Humor in Althusser's writing - his conceit is somewhat funny - he thinks he is the 'one' that understands the system.
+	- We can think about connections with Althusser's mental state during the writing o fthis essay.
+- Structuralism/Structuralist - examine the system through a mehcanistic analysis of units/components/structures.
+- Seeing is about seeing surfaces. This does not necessarily mean that seeing is necessarily superficial, but instead that what we see is the surface of objects.
+- We need a science of art.
+- Weinbaum says that Judith Butler is a terrible literary critic. (Of course, this was followed by copious amounts of praise and respect for Butler, then a plea to not post that Weinbaum had said this... but it is a shame not to include it. `:)`)
+- "always already" - a powerful phrase
+
+Williams, *Keywords*
+- 1921-1988, Welsh. Welsh nationality is important - to be Welsh in the United Kingdom is to be an outsider within
+- Outside vantage point - deeply embedded in the working class.
+- Ejected from the Communist Party, which held anti-enlistment official positions in World War II.
+- Returns to Cambridge and becomes a professor of drama.
+- Occupies a unique position as a 'scholarship boy'
+- The American mode of education consumption is really not mirrored in the rest of the world.
+- "Aperception" - a critical vantage point of perception itself, which allows us to see what we see and don't see.
+- 1950s - begins work on cultural materialism. Gloss on historical materialism and the Marxist tradition, applications to culture - complex of social relations that comprise our world.
+- High/low brow, common/elite, etc. - need to be broken down, argued by Williams
+- Begins *Keywords* after fighting in World War II. Begins to hear things, hear about the conflict in how words are used differently.
+- Language is the site/repository of contradiction and conflict in history.
+- Language as an Ideological State Apparatus?
+- Word 'culture' itself - beginning point of analysis in the introduction
+- Ideological language wars are always fought, often fought unconsciously.
+- Whether you realize it or not, you alays weigh in on one side or the other.
+- We must go through conflict in language rooted in social interaction.
+- Very specific concept of a keyword. An active site of ideological conflict.
+- Williams is not intending to reoslve the conflict, but instead to expose it for the 'extra ege of consciousness'
+- Why called a 'vocabulary'?
+
+Questions
+1. How does Williams' life experience shape his understanding of language?
+2. Conflict of words - what's happening?
+3. Vocabulary vs dictionary - what is the difference?
+4. What does Williams say about the EOD and what is significant about it?
+5. What is the definition of a keyword?
+
+Discussion
+- Important - what does Williams do in common across each keyword? what is held in common? This will help illuminate what a keyword really is.
+- Experience - creates and forms our perception. This is the materialist premise. Experience is attached to a location in the system.
+- Culture - a possession, social superiority. Also becomes known as a transofrmation into a world system, by nation or by region.
+- Keywords aren't just any words. They are bound in a contestation over meaning, they are self-reflexive, unstable, have contested meaning
+- Vocabulary - about change, conflict, story/narrative
+- Dictionaries take a side without announcing their non-neutrality.
+- Vocabularies are all about relationality
+- Dictionaries - ammassification through stabilization. Reflect ideology of the creator without announcement. A prescriptive entity masquerading as a descriptive one.
+- Dictionary/vocabulary - maps onto the written/oral dyad. Vocabulary includes oral forms.
+- People project - common landscape. Marx $$\to$$ commodity, Williams $$\to$$ word. Both are analyzing the cell-forms of capitalism and the conflict and contradiction with each unit.
+- Hegemony - a process of establishing authority against conflict. The concept of a vocabulary-project - an anti-hegemony of sorts.
+- Is it a contradiction to ask for the definition of a keyword?
+- Does Williams himself engage in stabilization?
+- Possible definition of a keyword (MKeon) - a keyword is an anithetical structure expressing a contradiction.
+	- The thesis and the antithesis, synthesis. What is the thesis? What is anti- about a keyword? Multithesis?
+	- Expression or embodiment?
+	- Antistructure? What is the structure? Is there structure?
 
 
 
