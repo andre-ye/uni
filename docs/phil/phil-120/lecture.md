@@ -753,6 +753,28 @@ $$\forall x (G(x)&F(x)&D(p, x) \to MadeBy(x, cat)$$
 ```
 
 - Identity proofs - many different ways of equal speed to solve
+
+---
+
+## Week 9 Friday
+
+```
+1. ~AxP(x)            Premise
+2. | ~Ex~P(x)         Assume
+3. || @n              Assume
+4. ||| ~P(n)          Assume
+5. ||| Ex~P(x)        EIntro;4
+6. ||| #              #Intro;2,5
+7. || P(n)            ~Intro;4-6
+8. | AxP(x)           AIntro;3-7
+9. | #                #Intro;1,8
+10.| Ex~P(x)          ~Intro;2-9
+```
+
+- Rule - if you have started a reductio, finish it or get somewhere before starting another reductio
+- Domain specific predicates - $$\forall x (Even(x) \iff \exists y(x = 2y))$$
+- Set theory - more fundamental than arithmetic.
+- $$a \in b$$ - $$a$$ is an element of $$b$$. Numbers are arranged in sets, functions map sets to sets.
 - 
 
 
