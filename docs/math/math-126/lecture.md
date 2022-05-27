@@ -369,6 +369,12 @@ To review for midterm:
 - The interval for the Taylor series for $$\frac{1}{1-x}$$ is $$-1 < x < 1$$, $$x \neq 0$$.
 - Conventional form - start with the sigma sum, pull out sign indicators, expand exponents.
 
+---
+
+## Week 9 Friday
+- Find connection - substitution, constant pulling, integration, or differentiation.
+- A Taylor series must be a power series - no other forms accepted.
+- 
 
 
 
