@@ -1123,6 +1123,28 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Complex process described in class terms.
 - Relations between class and the excluded social area are not contradictory
 - Emergent culture is distinct from both the dominant and the residual. Never only a matter of immediate practice - depends on finding new forms or adaptations.
+
+### Chapter 9 - Structures of Feeling
+{: .no_toc }
+- We cannot recognize human cultural activity until we stop coverting experience into finished products.
+- We can understand instead the powerful separation of the social from the personal.
+- How do we understand the present
+- Thought is really very complex - feeling, structures and forms of feeling
+- Art - finished in one sense, and continually dependent on the current state of reading/interpretation
+- The making o fpart is never in the past tense, always formative
+- Ideological systems - the 'aesthetic' and the 'psychological' - derived from senses. Ideological systems are relatively powerless against personal forms.
+- We cannot reduce the social to fixed forms - do not take terms of analysis as terms of substance.
+- Social forms are more recognizable when they are explicit.
+- Social forms become social consciousness only when they are lived in real relationships.
+- All consciousness is social.
+- Practical consciousness is always different from the official consciousness.
+	- Practical consciousness - what is actually being lived, not just what is being thought of being lived.
+- History of language - additions/deletions/modifications, and change in style.
+- Changes of presence
+- Structures of feeling - concerned with meaning snad values as they are actively lived and felt.
+- Impulse, restraint, tone, affective elements, etc.
+- Structure - elements are a set with internal relations
+- 'Structure of feeling' - cultural hypothesis.
 - 
 
 
