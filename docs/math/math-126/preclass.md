@@ -401,8 +401,17 @@ $$\lim_{n\to\infty} T_n(x) = \sum_{k=0}^\infty \frac{1}{k!} f^k (b)(x-b)^k$$
 - Interval of convergence: when do we see convergence? Which $$x$$ leads to convergence when $$n\to\infty$$?
 - Consider $$(1 - x) T_n(x) = ...$$, slve for $$T_n (x)$$.
 
+---
 
+## Week 9 Friday (Taylor Series 5)
+- Developing additional ability to write Taylor series
+- On the interval of convergence, we can pull in constants and merge Taylor series.
+- Whenever we have an integral/derivative and a sum, we can distribute across it term-wise.
 
+$$\frac{d}{dx} A(x) = \sum_{k=0}^\infty \frac{d}{dx} \left( \frac{f^k (b)}{k!} (x - b)^k \right) = \sum_{k = 0}^\infty \frac{f^k (b)}{(k-1)!} (x - b)^{k-1}$$
+
+- Same logic can be applied to the integral
+- The differentiation/integration will have the same interval of convergence as the original 
 
 
 
