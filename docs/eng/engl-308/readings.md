@@ -1039,16 +1039,91 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 
 ## Chapters from *Marxism and Literature*, Williams
 
-### Chapter 6
+### Chapter 6 - Hegemony
 {: .no_toc }
 
-### Chapter 7
+- Hegemony - traditionally understood as political rule or domination.
+- Marxism extends rule or domination to relations between social classes.
+- Antonio Gramsci - gives new understanding to 'hegemony'
+- Difference between rule and hegemony - rule is expressely political; hegemony is a more complex interlocking of political, social, cultural forces.
+- Hegemony goes beyond culture - insists on understanding the entire social process.
+- Gramsci - introduces recognition of dominance and subordination.
+- Hegemony goes beyond ideology by recognizing the wholeness of the social process.
+	- What is decisive - not just ideas and belief systems, but *lived social processes* that are 'practically organized' by meanings and values.
+- Ideology is popular in retrospective analysis - base-superstructure models, since ideas can be abstracted post-hoc.
+- The sense of ideology is abstractly applied to the consciousnesses of the dominant and subordinate classes.
+- Hegemony resembles ideology, but is distinct: it does not equate consciousness with the formal system ('ideology').
+- The meanings, values, and beliefs of the dominant class are not equated with consciousness, and does not reduce consciousness to these semiotics.
+- Sees relations as a saturation of the process of living ('wholeness').
+- Hegemony - not only the upper level of ideology, but a body of practices and expectations over the whole of living.
+- Lived system of meanings and values - hegemony constitutes a sense of reality for most people
+- Why pursue this concept of hegemony?
+	- Forms of domination and subordination correspond more to normal processes of social organization in developed societies (as opposed to models of ideology that operate in older socieites).
+	- Electoral democracies, leisure/private life, etc. can be understood through hegemony.
+	- Different way of seeing cultural activity - not just a superstructure. Cultural tradition and practice are more than superstructural expressions, but instead basic processes of formation.
+	- People see themselves in directly personal relationships.
+- Hegemony - pressures and limits are experienced but not necessasrily internalize din practice.
+- A working class has to become a potentially hegemonic class against the pressures & limits of the existing hegemony
+- We can be saved from blind alleys by recognizing the usefulness of the concept of hegemony.
+- Domination and subordination - refused by many.
+- A lived hegemony - always a process. Not a system or a structure, but a complex of experience, relations, activities.
+- Hegemony can never be singular.
+- Does not passively exist as a form of dominane - must constantly be re-asserted.
+- Hegemony is always resisted an challenged by other pressures. 
+	- Counter-hegemony
+	- Alternative hegemony
+- Practice/theory dyad
+- Practice/abstract: speak of the hegemonic rather than the hegemony
+- In reality, hegemony is never total or exclusive.
+- There are always many different form sof struggle.
+- A static hegemony doesn't quite manifest practically; it is an abstract totalizing construct. The hegemonic cannot just be a transmission of continual unchanging dominance. Any hegemonic process is alert and responsive to alternaitves.
+- We cannot reduce all contirubtions and initiatives to hegemony (structuralist approahces).
+- Large theoretical problem - distinguish independence of alternative and oppositional initiatives made within/against hegemony.
+- Nearly all initiatives/contributions are tied to the hegemonic through neutralization, reduction, and incorporation - but many active elements still emerge.
+- Instead of reducing works ot finishe dproducts, recognize openness and variation, activity.
+- Profoundly more optimistic understanding of change as in comparison to Althusser
+
+### Chapter 7 - Traditions, Institutions, and Formations
 {: .no_toc }
 
-### Chapter 8
+- Hegemony is always active - organization of meanings, values, practices incorporated into a social order.
+- Incorporation - a major process.
+- Need to distinguish three components of the cultural process - traditions, institutions, formations.
+- Tradition - neglected by Marxism. Normally understood as a superstructure and as inert.
+- In practice, tradition is the most obvious expression of hegemonic pressures - it is one of the most powerful means of incorporation.
+- Selective tradition - intentioanl shaping of the past as an operative in ongoing shaping and definition.
+
+### Chapter 8 - Dominant, Residual, Emergent
 {: .no_toc }
 
+- Complexity of a culture - found in various dynamic interrelations.
+- 'Epochal analysis' - emphasis on dominant/definative features
+- Internal movement is often abstracted away with analysis of dominance. We must recognize complex interrleations within & beyond dominance to be more authentic in our historical analysis.
+- We must find a language that recognizes not only stages, but also dynamic relations.
+- We must speak of the residual and the emergent as they reveal characteristics of the dominant.
+- 'Residual' - formed in the past but still acitve in the cultural process as an effective element of the present.
+	- Many values and meanings that do not quite exist in term sof the dominant exist as the residual.
+	- Distinguish the oppositional nature of the resiudal from its active incorporation into the dominant culture. Organized religion is predominantly residual, for instance. Others: rural community, monarchy.
+	- Distance from the effecitve dominant culture - yet some part has to be incorporated in the dominant culture for it to make sense.
+- 'Emergent' - new meanings and values are continually being created.
+	- Hard to distinguish new phases of the dominant culture ('species-specific') and substantially different/oppositional devcelopments.
+	- Emergent is meant in the strict sense
+	- In any 'actual' society, there is always the basis for opposition to the dominant element.
+	- A new class is always the source of emergent cultural practice.
+	- Pairing of emergence an dincorporation - the basis of incorporation conditions and limits emergence.
+	- Emergence - constantly repeated and renewable beyond a phase of practical incorporation.
+- Incorpoation - often takes the form of recongition, acknowledgement, acceptance. Confusion between the locally residual and the generally emergent.
+- Cultural emergence - no mode of production, social order, or dominan tculture includes or exhausts all human practice, energy, or intention.
+	- Fact about modes of domination: they select from and therefore must exclude the rang eof human practice.
 
+> "...what the dominan thas effectively seized is indeed the ruling definition of the social"
+
+- Significant emergence is very difficult in the face of incorporation.
+- Emergent cultural practice is undeniable.
+- Complex process described in class terms.
+- Relations between class and the excluded social area are not contradictory
+- Emergent culture is distinct from both the dominant and the residual. Never only a matter of immediate practice - depends on finding new forms or adaptations.
+- 
 
 
 
