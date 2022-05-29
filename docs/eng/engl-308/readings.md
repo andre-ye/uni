@@ -1145,7 +1145,43 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Impulse, restraint, tone, affective elements, etc.
 - Structure - elements are a set with internal relations
 - 'Structure of feeling' - cultural hypothesis.
-- 
+
+---
+
+## *Parasite*, Bong Joon-Ho dir.
+Access for free [here](https://myflixer.to/watch-movie/parasite-41796.5396155){:target="_blank"} (has inappropriate ads and scams, but hey -- it's free)
+
+- Live below the ground, reaching upwards for connection (Wi-Fi). What is the signifiance of connection and height?
+- The residual fumigation - bodily harm expended
+- Inter-worker competition
+- Mocking the religious gestures - restated in terms of connection
+- Scholar's rocks - what has animated the stone? Marx - commodity fetishism. What animates objects when we attribute material wealth with them, when it becomes a simulation$$\to$$simulacra for wealth (Baudrilliard)? "Food would be better"
+- Forgery, faking, cheating -- what are the ethics of subversion here?
+- The road upwards, towards the sun
+- Gatedness, isolatedness, concentratedness.
+- How are sociological relations embedded in the architecture of the space?
+- Indigenous fetishism, imposed fetishism (Cub Scout leader)
+- The genius of art - what is good art? Who determines what art is good? How does the upper/dominant class shape and define what art is good or not?
+- Parasitic infiltration - relations of connection
+- Cross-international fetishism, education and meritocracy
+- Performance, the politics of the performative.
+- Reproductive work and emotional labor (`25:00`) - how genuine is the kiss?
+- Inter-worker competition: how do culturally codified structures of feeling (Williams) rechannel how workers/the lower class interact with one another and with the dominant class?
+- Assumptions and misinterpretations - how does the dominant class understand the lower class? (`33:30`) 'Cocaine and meth' - a 'rational guess'.
+	- Neutralization of sensitive topics via accustion of vulgarity, 'stopping low'.
+- "I only trust a person recommended by someone I know" - "chain of recommendations is best" - maintenance of social rigidities
+- Blood ketchup on pizza - representation and illusion, abstraction
+- 'Making up excuses' - what is the significance here? Why neutralize the topic and abstract its negation?
+- What is love for the dominant class? "We'll call it love" - to what extent is the wife free from Federici-style forced work?
+- Imagery and design, impression and illusions, allusions and simulacra
+- What has happened to the lower-class family? What has happened to the upper-class family? `51:50` How have relations all been rewrittenin terms of capital?
+- A world of impressions - need to use different smells, different dresses, different narratives to capture a trickle of capital
+- "Prayer of gratitude to the great Mr. Park" - how do relations get rewritten?
+- Gullibility - what is the vantage point/epistemology of the dominant class? "nice because she's rich", not "rich, but still nice"
+	- The white voice, *Sorry to Bother You*
+- "He must've found a better job" - justification of worker competition and displacement. "Just focus on us"
+
+Left off at `1:00:06`
 
 
 
