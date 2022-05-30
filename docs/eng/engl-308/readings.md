@@ -1192,6 +1192,11 @@ Access for free [here](https://myflixer.to/watch-movie/parasite-41796.5396155){:
 - "You're getting paid extra"
 - Holding the nose
 - Laughing
+- Struggling to understand the relationship, unusual - obscured relations.
+- Displacement, cycling, replacement.
+- "I'm sorry, Mr. Park"
+- "Walk up the stairs"
+- The dream raised, and its death.
 
 
 
