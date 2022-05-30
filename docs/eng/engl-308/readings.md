@@ -994,7 +994,6 @@ who is saleswoman and wares in one. - Walter Benjamin, *Reflections*.
 - Artist distinguished from scientist/technologist.
 - "Art" becomes tied to production - art/artist acquire more general/vague understandings to express a non-utilitarian/human interest.
 	- Most works of art, ironically, are commodities.
-- 
 
 
 ### Class
@@ -1180,8 +1179,31 @@ Access for free [here](https://myflixer.to/watch-movie/parasite-41796.5396155){:
 - Gullibility - what is the vantage point/epistemology of the dominant class? "nice because she's rich", not "rich, but still nice"
 	- The white voice, *Sorry to Bother You*
 - "He must've found a better job" - justification of worker competition and displacement. "Just focus on us"
+- Exploiting the capitalist/dominant epistemology. What is being interrupted?
+- Architectural significance of the ornate exterior covering the cemented hallway.
+- Fellow workers, fellow members of the needy.
+- 'Nice people'
+- The power of the 'send' button
+- Worker competition
+- Respect, idolization, worship - how are relations reframed and re-understood?
+- 'A ghost in the house brings wealth' - the commodity fetishism
+- 'We ordered from the US, so it will be fine' - Williams and cross-international commodity fetishism
+- Flooding downwards
+- "You're getting paid extra"
+- Holding the nose
+- Laughing
 
-Left off at `1:00:06`
+
+
+
+
+
+
+
+
+
+
+
 
 
 
