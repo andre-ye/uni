@@ -1155,6 +1155,55 @@ Discussion
 	- Expression or embodiment?
 	- Antistructure? What is the structure? Is there structure?
 
+---
+
+## Week 10 Tuesday, Williams
+*Continued discussion of Keywords*
+- Williams - not just interested in reflection, but refraction - how change happens within language.
+- A dialectic, dynamic process of reflection and refraction - Marxist concpets.
+- Language is part of both the base and the superstructure.
+- How does language reflect and refract the social world?
+- Language itself is a historical process
+- Williams - intends to 'create an extra edge of consciousness', so we don't use language passively and participate unknowingly in the war of meaning.
+- Althusser - language is the site and stake of class conflict. Language is, in a sense, a complex ISA.
+- What is the shared structure across keywords?
+- *Art* - skill, speicalization, distinguished. Creative and the imaginative. 'Artless' - low, deovid of skill. Differentiation emerges - Artisan, old order; Artist, new order. To 'have' art - what does this mean? Relationship between art/artist and changes in commodity production. Fine art - a separation from commodity fetishism/market, a push by language for separation. Banksy - commodity or art? Williams - interested primarily in class, conflict nad contradictions exposing themselves in capitalism.
+- *Class* - group, educated, etc. Meaning changes as increased consciousness of a groups as made rather than inherited. Feudalism $$\to$$ capitalism. Class is not the natural order of how things are, but put forth as a meritocratic social contract. Ckass as natural and neutral, the middle class as self-made, self-contradictory. What we do influences the burden we carry. The middle class - social relationships. The working class - economic relationships. Class is a keyword; conflict is in the word 'class'. People want to claim residual meaning. Middle class - disrupts Marx's dual model, to emphasize criss and conflict. Language of the middle class - depoliticized, America's construct.
+- *Literature* - Becomes a certain type of book. Polite learning. Now, includes writera discussion, question about literature that influences questions and conflict. Implicitly, Williams highlights capitalism as the moving force/shifting of a keyword.
+- Class-proposed keywords - 'Queer', 'Truth', n-word
+- Incroporation
+- Whiteness of the OED?
+- Hegemmony vs coutner-hegemony; who can say what? For whom will an utterance of a word always be hegemonic?
+- Nothing neutral about the OED, for any dictionary. Necessarily non-neutral selective cases of words.
+- Accumulations of usages continue usage
+
+*Marxism and Literature*
+- Published in 1977
+- Reading different exts and explaining how this helps us with crtiicism.
+- Williams articulates what he wants to take and where vairous thinkers fall short
+- 'Mediation' - what the book is about. How do factors mediate social relationships of power? How does the text 'mediate' ...?
+- Question of mediation matters. Working out your theory of meditation allows you to provide answers towards important questions.
+- Mediation - not reflection/historicism, about reflection and refraction, about changing and dynamic systems. Base and superstructure of ISAs.
+- Literature as ideology - doesn't just exist in the superestrucutre, exists in the base.
+- People are bound by ideology - all art culture has a particular form - not just expressive, not just an ISA. You need a theory of mediation
+- Gramsci - hegemony is not just a top-down structure but a whole process. Hegemony is alwyas under siege, re-asserting its authority by necessity. A system of continual wearing and rebuilding; idea that the counter-hegemony is always present, persistent, possible.
+- Althusser - very totalizing. Useful but only to an extent
+- Relate themselves to hegemony, so always chaenge. Always ideology, but not really ideological
+- Separation from Althusserian ideological analysis
+- *Residual* - old, existent, underneath. Cultural formations ciruclating around. Not 'archaic' - truly old, not active. The residual is linking but not disruptive against the hgemony. What is residual where? Important questions. Residual infleunce can bleed into the active hegemonic battle.
+- *Emergent* - coutner-hegemonic. Hard to idetnify emergent phenoemna from incorporated phenomena. Historical retrospect allows us to understand what phenomena are truly emergewnt. Very present - disruptively so, uneven. Readicalization can become normative. Constant flux. Incroporation, assimilation, diffusion. Abosrbance of the emergent into hegemony.
+- Communist Manifesto - idea of the spectral presence, trying to conjure up the emergent phenoeman without being diffused/incorporated by hegemony.
+- An emergent phenomena can also be reactionary (?). Hegemonic vs emergent phenoemna. The emergent can be easily incorporated. 'Acceptance'. Nullification of the power of the emergent. What might be incorporated is a simile, not the real deal - and thus the real deal is still there. 
+- Commodification, images, the hyperreal, simulations. Always potentially subject to nullification and incorporation
+- Pre-emergence.
+- We need to understand the Structures of Feelings to fully understand the cultural analysis Williams wants to take us to
+- Consciousness - practical consciousness. Is feeling individuated?
+- A structure of feeling - not necessarily yet expressed.
+- 'Lived experience' vs 'feeling'. 'Feeling' is more totally present; experience has a pastness in it' a feeling has a presentness/feeling/being channeled throughout it.
+- Emergent sensibilities are expressed in the world.
+- Structures of Feeling are inchoite - unexpressed, beneeath formalization. The origin of potential revolution?
+- Art - gives usa a view into the structure of feeling.
+- Literature - expression of sensibilities linking structures of feeling. How deos literature expose feeling? Important questions to think about and look for in literature/literary texts as literature students
 
 
 
