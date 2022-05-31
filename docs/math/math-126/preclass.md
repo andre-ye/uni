@@ -413,7 +413,12 @@ $$\frac{d}{dx} A(x) = \sum_{k=0}^\infty \frac{d}{dx} \left( \frac{f^k (b)}{k!} (
 - Same logic can be applied to the integral
 - The differentiation/integration will have the same interval of convergence as the original 
 
+---
 
+## Week 10 Wednesday
+- Take derivatives repeatedly and find patterns in evaluation at certain points.
+- For $$f(x) = \sum_{k=0}^\infty _k (x - b)^k$$, $$f^n b = c_n \cdot n!$$, $$c_n = \frac{f^n (b)}{n!}$$
+- 
 
 
 
