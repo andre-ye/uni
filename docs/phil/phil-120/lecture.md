@@ -775,8 +775,36 @@ $$\forall x (G(x)&F(x)&D(p, x) \to MadeBy(x, cat)$$
 - Domain specific predicates - $$\forall x (Even(x) \iff \exists y(x = 2y))$$
 - Set theory - more fundamental than arithmetic.
 - $$a \in b$$ - $$a$$ is an element of $$b$$. Numbers are arranged in sets, functions map sets to sets.
-- 
 
+---
+
+## Week 10 Wednesday
+
+| Step | Expression | Justification |
+| --- | --- | --- |
+| 1 | $$\exists x \forall y ( y \in x \iff y \notin y)$$ | Assume |
+| 2 | $$@n \forall y (y \in n \iff y \notin y)$$ | Assume |
+| 3 | $$n \in n \iff n \notin n$$ | $$\forall$$Elim;2 |
+| 4 | $$n \in n$$ | Assume |
+| 5 | $$n \notin n$$ | $$\iff$$Elim;3,4 |
+| 6 | $$\bot$$ | $$\bot$$Intro;4,5 |
+| 7 | $$n \notin n$$ | ~Intro;4-6 |
+| 8 | $$n \in n$$ | $$\iff$$Elim;3,7$$
+| 9 | $$\bot$$ | $$\bot$$Intro;7,8 |
+| 10 | $$\bot$$ | $$\exists$$Elim;1,2-9 |
+| 11 | $$~\exists x \forall y (y \in x \iff y \notin y)$$ | ~Intro;1-10 |
+
+- Important proof above. 
+- Is there a set for any property we can define?
+- Domain - world of sets. What sets are there?
+- Many sets are not members of themselves; $$\mathbb{N} \notin \mathbb{N}$$
+- $$r$$ - the set of all sets that are not members of themselves.
+- $$r := \forall y (y \in r \iff y \notin y)$$
+- We can show in FOL that $$r$$ cannot exist. 
+- The empty set exists - then builds up a ground-up theory of what a set can be.
+- Zermello-Frankel Set Theory, an answer to Russell's question
+- PHIL 470 - Metalogic, etc.
+- 
 
 
 
