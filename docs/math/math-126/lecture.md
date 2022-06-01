@@ -374,9 +374,16 @@ To review for midterm:
 ## Week 9 Friday
 - Find connection - substitution, constant pulling, integration, or differentiation.
 - A Taylor series must be a power series - no other forms accepted.
+
+---
+
+## Week 10 Wednesday
+- You need to involve a negative $$r$$ when you want to work ina n opposite quadrant.
+- Upper bound - not looking for best upper bound, but just *an* upper bound.
+- As 'sharp' as possible - don't give any wiggle room, find the best
+- Geometric series - with an interval of convergence between $$-1$$ and $$1$$.
+- A function can never be described with a series other than its Taylor Series.
 - 
-
-
 
 
 
