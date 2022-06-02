@@ -1205,5 +1205,66 @@ Discussion
 - Art - gives usa a view into the structure of feeling.
 - Literature - expression of sensibilities linking structures of feeling. How deos literature expose feeling? Important questions to think about and look for in literature/literary texts as literature students
 
+---
+
+## Week 10 Thursday, *Williams, Bong Joon Ho*
+Williams, *Marxism and Literature*
+- Mediation - Marxist concept of relation between capitalism and cultural production
+- How do cultural items mediate life in capitalism?
+- Reflect and refract
+- How does cultural production engage with systems of power and ideology?
+- Dominant, residual, emergent, etc. - ways of understanding mediation.
+- Mediation - more complex than historicism as a literary tool.
+- Texts are not merely reflectors but active agents in culture.
+- Structure of feeling - capitalism and dominant structures are there, but this refers to the pre-expression of the active and pressing without full articulation. What is coming into opposition with the dominant.
+- Nuanced analytical framework to understand texts
+- Understanding flux vs static, exertion, the not yet fully emergent
+- Opposition that hasn't been directly in conflict. What does conflict do to ideas? "practical consciousness"
+- Name the structure of feeling to keep it from receding
+- "Something's wrong with this world" $$\to $$ emergent phenomena $$\to $$ revolution
+- Art and culture are doing very complex things.
+- The course so far has been fundamentally about mediation.
+- Name for the ideas and feelings that can't be named - structures of feelings.
+
+*Parasite*
+- Gets a universal reading in general - ideas of 'global capitalism' which can be abstracted from its location. Universalist reading.
+- We need to understand the Korean specificity. "the West is not in the West; it is a project not a place"
+- Korea becomes a protectorate of Japan from 1905-1945. US and Soviet Union partition between south and north along the 38th parallel. Korean war - continuous US military occupation of South Korea.
+- In South Korea, one-half of workers are 'irregular' - gig workers. 50% own 2% of the wealth.
+- 2016 impeachment of the president - corruption scandal among president's daugther.
+- 'Oscar worthy' - leads to recognition as universal. Story of class in a neoclonial context, very much not to be reduced by a universalist understanding.
+- Mobilization, appropriation, etc. - other cultural phenomenon going on when we understand the film as a metaphor in two senses - metaphor in the film, and the film itself as a metaphor.
+- Can the subaltern speak?
+- Bunker in the house, 'anything below the 38th parallel' - continual references to North Korea and the war
+- Morse code - the militarized language of war
+
+Questions
+1. Titular question - who is the parasite?
+2. "It's so metaphorical" - what is the metaphor? How does the film operate as a metaphor?
+3. "Crossing the line"
+4. Is this a film about racial capitalism?
+5. Stairs
+6. Sexism
+7. "Nice", respect
+8. Subaltern
+9. internalized position/inferiority
+10. Worker solidarity - what is preventing worker solidarity? Recognition of mutual shared conditions?
+11. Family as a site of resistance and indoctrination, an ISA - love mobilized?
+12. English - names, education, mobility, capital.
+13. Hyperreality and Baudrilliard
+
+Discussion
+- Parasitic relations.
+- "Sex work", crossing the line. What is crossing the line? Emotional repression, emotional closure, emotional regulation.
+- Tittilation, the fetish - framed in terms of capital
+- Narratives told to construct and maintain structures
+- What does it mean for the parasite to kill the host?
+- The building is an architectural representation of the capitalist society structure, the triangle of society.
+- American capitalism as the parasitic entity. Movie's success itself as a metaphor and demonstration for incorporative attempts
+- Reading racial marks and distinctions in *Paraiste* -- emergent and present even in a Korean context.
+- Parasite - are we supposed to read the Kims as the parasite? How does this insinuation itself reveal our position in capitalist epistemology?
+- We're all parasites in a parastic system
+- "Bloodchild" aand discussion of parasites
+
 
 
