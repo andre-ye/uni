@@ -9,7 +9,7 @@ has_children: true
 
 # MATH 208
 
-Calculus w/ Analytic Geometry I
+Matrix Algebra and Applications
 {: .fs-6 .fw-300 }
 
 Rekha Thomas
