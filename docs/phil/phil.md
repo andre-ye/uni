@@ -8,5 +8,5 @@ permalink: /docs/philosophy
 
 # Philosophy Notes
 
-<!-- Philosophy, Ethics, Metaphysics, Aesthetics+ Classes
-{: .fs-6 .fw-300 } -->
+The Underappreciated Discipline
+{: .fs-6 .fw-300 }
