@@ -8,5 +8,5 @@ permalink: /docs/misc
 
 # Miscellaneous Notes
 
-Advising + Other "Misfit" Classes
+Advising + "Misfit" Classes
 {: .fs-6 .fw-300 }
