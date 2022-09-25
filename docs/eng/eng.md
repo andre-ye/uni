@@ -8,5 +8,5 @@ permalink: /docs/english
 
 # English Notes
 
-English Composition, Literature, Prose+ Classes
+The Misunderstood Discipline
 {: .fs-6 .fw-300 }
