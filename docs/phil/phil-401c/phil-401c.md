@@ -3,7 +3,7 @@ layout: default
 title: PHIL 401C
 parent: Philosophy
 nav_order: 401
-permalink: /docs/math/phil-401c
+permalink: /docs/phil/phil-401c
 has_children: true
 ---
 
