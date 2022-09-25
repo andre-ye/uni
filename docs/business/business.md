@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Business
-nav_order: 5
+nav_order: 16
 has_children: true
 permalink: /docs/business
 ---
 
 # Business Notes
 
-Entrepreneurship, Business, Economics+ Classes
+The (Generally) Intellectually Isolated Discipline
 {: .fs-6 .fw-300 }
