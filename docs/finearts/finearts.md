@@ -8,5 +8,5 @@ permalink: /docs/finearts
 
 # Fine Arts Notes
 
-Ballet, Art Analysis, Music+ Classes
+The VLPA Credit Discipline
 {: .fs-6 .fw-300 }
