@@ -8,5 +8,5 @@ permalink: /docs/math
 
 # Mathematics Notes
 
-Calculus, Linear Algebra, Abstract Algebra+ Classes
+The Relevant Discipline
 {: .fs-6 .fw-300 }
