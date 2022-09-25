@@ -8,5 +8,5 @@ permalink: /docs/cs
 
 # Computer Science Notes
 
-Data Structures, Algorithms, Machine Learning+ Classes
+The Well-Funded Discipline
 {: .fs-6 .fw-300 }
