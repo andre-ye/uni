@@ -90,6 +90,27 @@ PHIL 401C
   - **Ratio scale** - accurately reflects ratios. Invariant up to scaling transformations. Preserves proportions.
 
 #### 2.3: Actions
+- An action is a function from a set of states to a set of outcomes.
+- Decision theory is concerned with a generic act, which can be instantiated by different agents. Particular acts are constrained by agent and time.
+- Alternative acts: a rational DM can only choose one act.
+- $$A$$ is an alternative-set iff $$\forall i \in A$$ is a particular act, $$\|A\| \ge 2$$, and $$\forall i \in A$$ all elements of $$A$$ are identical across identity and time, and moreover are performable and incompatible in pairs.
+  - Bergstrom 1966: some particular acts are members of multiple different alternative sets.
+  - **Finding an alternative set is partially a normative problem.**
+
+#### 2.4: Rival Formalizations
+- The DM may face multiple rival formalizations of the same DP. This is especially problematic if the resulting rational choice differs by framework.
+- Transformative decision rules: do not recommend an/ action/s,  but perform a transformation of information. Effective decision rules include the principle of maximizing expected utility and the dominance principle.
+  - Principle of insufficient reason - uniform probability distribution assumed in the absence of known probabilities. Transofrmative rule.
+  - Merger of states - states which yield identical outcomes $$\forall A$$ can be collapsed.
+- Let $$\pi = \langle A, S, O \rangle$$ represent a problem. $$A = $$ set of alternative acts, $$S = $$ set of world states, $$O = $$ set of outcomes.
+- Let $$t: \pi \to \pi'$$; let $$\Pi$$ represent the set of decision problems: then $$(\pi \in \Pi) \wedge (t(\pi) \in \Pi)$$.
+- We can composite multiple transformation rules. What sequence should be used to determine the initial decision problem?
+- $$\pi \succcurlyeq \pi'$$ iff $$\pi$$ is at least as reasonable as $$\pi'$$. Order-independence:
+
+$$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
+
+- Theorem: If OI holds for all $$\pi \in \Pi$$, then $$\forall u, t; (u \circ t)(\pi) \sim (t \circ u)(\pi)$$. Provable by making chaining substitutions.
+  - For instance, $$ (\text{IR} \circ \text{MS})(\pi) \sim (\text{MS} \circ \text{IR})(\pi)$$.
 
 #### 2.4: Rival Formalizations
 
