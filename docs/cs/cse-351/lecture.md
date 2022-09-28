@@ -39,8 +39,12 @@ CSE 351
   - Labs - graded for correctness
   - Exams - midterm and final, take-home, individual
   - EPA - effort, participation, altruism.
-- 
-
+- Get machine access to the CSE Linux environment (SSH into attu for CSE majors) ASAP.
+- Relationship between binary and hex: every digit in hex corresponds to a four-length binary string. 
+- Computers compute generally in base 2.
+- We need to agree on an encoding - equivalent representation of numbers. 
+- With $$n$$ binary digits, you can represent $$2^n$$ things.
+- Binary digit - a bit. A hex digit (4 bits) - nibble. Two hex digits (8 bits) - byte.
 
 
 
