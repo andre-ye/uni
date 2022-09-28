@@ -34,7 +34,16 @@ PHIL 401C
 - What happens when players carry about things other than money?
 - Theories of individual rationality and how it can transfer to group decision-making.
 - Check participation instructions.
-- 
+- In the decision matrix:
+  - Actions - row headers, what is within the DM's control.
+  - States - column headers, states of the world, what is not within the DM's control.
+  - Outcomes - cells in the matrix; represent the result of performing an action at a state.
+- We assume a DM has preferences over the outcome space.
+- Can you attach numbers to preferences to preserve ordering? Philosophically, this should give us pause. 
+- One act dominates another if it is preferable in all states of the world.
+- Weak dominance - an action weakly dominates another if it is preferred to the other in at least one state and not dispreferred in any state.
+- Principle of strict/weak dominance - it is irrational to perform a strictly/weakly dominated action.
+- Act-State Dependence - the decision maker can influence the chance of various states coming true. If the decision matrix does not have act-state independence, we can end up with bizarre results (e.g. party or study with pass or fail states)
 
 
 
