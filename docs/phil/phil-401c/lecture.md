@@ -26,5 +26,32 @@ PHIL 401C
 ---
 
 ## Week 1 Wednesday
+- Game thoery - study of strategic interactions between multiple DMs, almost anything counts as a game.
+- Descriptive GT - is; Normative GT - ought.
+- Equilibrium concepts - used to characterize how agents interact or should interact.
+- Ultimatum game $$\in$$ bargaining game - dividing resources. 
+- Subgame perfect equilibrium of the ultimatum game - proposal offers lowest possible amount of money and the second accepts.
+- What happens when players carry about things other than money?
+- Theories of individual rationality and how it can transfer to group decision-making.
+- Check participation instructions.
+- 
 
-### etc. etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
