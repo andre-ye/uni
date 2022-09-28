@@ -53,8 +53,29 @@ MATH 208
   - If a system has $$\ge 1$$ free variables, then there will be an infinite number of solutions.
 
 ### Section 1.2: Linear Systems and Matrices
+- Systems of linear equations rarely come nicely in echelon form. We want to transform any linear system into echelon form such that it is solvable with back substitution.
+- Elementary operations:
+  1. Interchange of equation position.
+  2. Multiply an equation by a nonzero constant.
+  3. Add a multiple of one equation to another.
+- To convert to echelon form, begin with $$i=1$$ and use multiplication to cancel out $$x_i$$ in all equations of index $$> i$$; then increment $$i$$.
+- We can simplify notation by arranging coefficients in a matrix. An augmented matrix contains all the coefficients of a linear system (including the constant terms on the RHS).
+- We can find elemetnary row operation correlates for matrices:
+  1. Interchange two rows.
+  2. Multiply a row by a nonzero constant.
+  3. Replace a row with the sum of that row and the scalar multiple of another row.
+- Two matrices are equivalent if a matrix can be transformed into another through elemetnary row operation compositions.
+- Echelon form: every leading term is in a column to the left of the leading term of the row below it; any zero rows are at the bottom of the matrix.
+- Pivot position: the position of a leading term. Pivot column: the column with a pivot position. Pivot: a nonzero number in a pivot position.
+- All echelon forms of a given matrix have the same pivot positions.
+- Gauss-Jordan elimination: multiply every nonzero row by the reciprocal value of the pivot such that the new pivots are all ones. Make sure all entires above each pivot have zeros. This produces reduced echelon form: leading variables appear only in the equation they lead.
+  - Forward phase: Gaussian elimination & echelon form transformations; Backward phase: transformation to reduced echelon form.
 
-## Week 2: hmm
+> Theorem: A given matrix is equivalent to a unique matrix that is in reduced echelon form. There are not multiple possible matrices, like in echelon form.
+
+- Linear equation: homoegenous if has form $$a_1x_1 + a_2x_2 + ... + a_nx_n = 0$$. Homogenous linear systems are comprised of homogenous linear equations. There is always one easy solution: $$\forall i; x_i = 0$$. This is a trivial solution.
+
+## Week 2:
 
 
 
