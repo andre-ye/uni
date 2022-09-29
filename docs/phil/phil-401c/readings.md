@@ -112,7 +112,18 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 - Theorem: If OI holds for all $$\pi \in \Pi$$, then $$\forall u, t; (u \circ t)(\pi) \sim (t \circ u)(\pi)$$. Provable by making chaining substitutions.
   - For instance, $$ (\text{IR} \circ \text{MS})(\pi) \sim (\text{MS} \circ \text{IR})(\pi)$$.
 
-#### 2.4: Rival Formalizations
+### Chapter 3: Decisions Under Ignorance
+*Required reading for Week 2, Monday*
+- Ignorance - the DM knows the alternative actions and the outcomes but cannot assign probabilities to the states corresponding to the outcomes.
+- A structured way to reason for one alternative over another is needed.
+
+#### 3.1: Dominance
+- Dominance principle - dominated acts should be chosen.
+- The probabilities do not matter here: what matters is the outcome.
+- The dominance principle provides only a partial answer in cases where there is no dominance.
+
+#### 3.2: Maximin and Leximin
+Page 54 in PDF
 
 
 
@@ -125,5 +136,8 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 
 
 
-### Chapter 2: The Decision Matrix
-*Required reading for Week 1, Wednesday*
+
+
+
+
+
