@@ -125,9 +125,40 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 #### 3.2: Maximin and Leximin
 Page 54 in PDF
 
+## "Philosophy of Probability", Aidan Lyon
+- Two central questions of the philosophy of probability.
+  1. What is the correct formal theory of probability?
+  2. What do probability statements mean?
 
+### 1. Introduction
+{: .no_toc }
 
+- Almost all branches of science use probability theory, but it also figures prominently in everyday reasoning.
+- The Kolmogorov axioms constitute the orthodoxy of formal probability, but there are other competing formal theories.
 
+### 2. Mathematical Theory of Probability
+{: .no_toc }
+
+- Absolute probabilities and conditional probabilities. Do we define absolute properties in terms of conditional probabilities, or vice versa?
+
+#### 2.1. Absolute Probability as Primitive
+{: .no_toc }
+
+- $$\Omega$$ is the set of elementary events; from this set of events we construct subset events.
+- We have $$(A \in F) \implies (\Omega \\ A \in F)$$ for any event $$A$$ and the superset $$F$$ of $$\Omega$$. A set which has this property is _closed under $$\Omega$$-complementation_. ($$F$$ is one such example.)
+  - Closed under union - the union of any two events is also an element in the set
+  - A set which is closed under both $$\Omega$$-complementation and union is an algebra on $$\Omega$$.
+- Not every 'event' gets a probability if it is not included in the algebra.
+- We can define a probability function which assigns probabilities to every element of $$F$$: $$P: F \to \mathbb{R}$$ obeys the following axioms for all events $$A$$ and $$B$$ in $$F$$.
+
+$$P(A) \ge 0)$$
+$$P(\Omega) = 1$$
+$$P(A \cup B) = P(A) + P(B), \text{ if } A \cap B = \emptyset$$
+
+- When $$F$$ contains an infinite number of points, we generalize the third expression across an infinite number of samples/subslices in some event $$A$$. Known as countable additivity and is controversial.
+  - Finetti's objection: (page 4)
+
+Read until page 7
 
 
 
