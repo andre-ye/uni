@@ -29,7 +29,11 @@ MATH 208
 - Homework - two parts, WebAssign and conceptual problems. Exams are modeled on conceptual problems.
 - Three large sides of linear algebra
   - Solving linear equations - generalizing linear equation solving across dimensions and number of equations.
-  - 
+  - Linear transformations
+  - Data
+- Why does mechanical/computational arithmetic on linear equation systems work? Because transformations preserve the equality of their solutions: lines are transfered into vertical and horizontal forms through repeated manipulation.
+- In $$n$$ dimensions, we need $$n$$ hyperplanes to define a point; each point cuts down on one dimension.
+- 
 
 
 
