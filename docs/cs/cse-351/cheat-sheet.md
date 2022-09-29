@@ -25,6 +25,10 @@ The generalized syntax for remote-to-local is:
 ```
 scp username@server:file_to_send place_to_send
 ```
+## Compiling a File
+```
+gcc -g -Wall -std=c18 -o filename filename.c
+```
 
 ## Data Sizes
 - A two-digit hexadecimal can be represented in a byte ($$2^8 = 256$$).
