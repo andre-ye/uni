@@ -25,7 +25,10 @@ ENGL 284
 
 ---
 
-
+## Week 1 Thursday
+- Complete readings and notes
+- Complete quick post
+- Prepare for presentations
 
 
 
