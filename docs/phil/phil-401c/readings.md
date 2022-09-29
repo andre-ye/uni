@@ -156,10 +156,22 @@ $$P(\Omega) = 1$$
 $$P(A \cup B) = P(A) + P(B), \text{ if } A \cap B = \emptyset$$
 
 - When $$F$$ contains an infinite number of points, we generalize the third expression across an infinite number of samples/subslices in some event $$A$$. Known as countable additivity and is controversial.
-  - Finetti's objection: (page 4)
+  - Finetti's objection: (page 4) all items in a countably infinite set has a positive probability $$\epsilon$$; thus the total sum is $$\to \infty$$. Alternatively, the probability is 0; thus the total sum is 0.
+- Kolmogorov's axioms are incompatible with many other philosophical interpretations of probability. The formal theory is sensitive to how it will be used.
+- Popper's axiomatic system across sentences: define probability functions on sentences - a language $$L$$ rather than an algebra $$F$$; $$L$$ is a set of atomic sentences and Boolean combinations.
+- Let $$P: L \to \mathbb{R}$$ which satisfies Kolmogorov's three axioms across sentences:
+  
+$$P(A) \ge 0$$
+$$P(A) = 1 \text{ if } \vdash A$$
+$$P(A \vee B) = P(A) + P(B) \text{ if } \vdash \neg(A \and B)$$
 
-Read until page 7
+- The trouble is within infinite samples. How do we have a countable additivity axiom for probabilities attahced to sentences? We don't have infinite disjunction in our logic.
+- Formalizing conditional probability. The following conditional probability demonstration leaves many conditional probabilities undefined. e.g. "What is the probability that the point chosen is in the western hemisphere given that it lies on the equator?"
 
+$$P(A, B) = \frac{P(A \wedge B)}{P(B)} \text{ where } P(B) \neq 0$$
+
+- Any probability space with an uncountably infinite number of events must assign uncountably many events to zero probability, otherwise in violation of probability axioms.
+- There are reasons to treat conditional probability as the fundamental notion of probability: $$P(A \wedge B)$$ and $$P(B)$$ are undefined; but the conditional probability $$P(A \| B)$$ is.
 
 
 
