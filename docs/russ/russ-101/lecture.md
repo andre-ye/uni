@@ -31,6 +31,10 @@ RUSS 101
 - Submit written adn comprehension exercise on a separate piece of paper; copy everything, do not write in the activities manual.
 - Write in complete sentences.
 - Russian table: Thursdays 2:00 to 2:50, Padelford
+
+---
+
+## Thursday, 9/29: Russian Alphabet and Cursive
 - 
 
 
