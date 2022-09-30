@@ -123,7 +123,22 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 - The dominance principle provides only a partial answer in cases where there is no dominance.
 
 #### 3.2: Maximin and Leximin
-Page 54 in PDF
+- Maximin - focus on the worst possible outcome; maximize the minimal value obtainable with each act. All we need is an ordinal scale; distance is irrelevant.
+- Lexical maximin: find the maximin; if there is a tie, apply lexical maxmin in the next level.
+- Justification - the DM does not know what the actual outcome will be, but they know the worst possible outcome.
+- The number of states does not correspond to a probability in decisions under ignorance.
+
+#### 3.3: Maximax and the Optimism-Pessimism Rule
+- We can attempt to maximize the best possible outcome. It has few followers but is as good theoretically as the maximin rule.
+- Optimism/pessimism rule (alpha-index rule): the decision maker identifies the best and worst possible outcomes, then chooses the outcome depending on the tolerance of pessimism-optimism.
+  - Let $$a \in \mathbb{R}; 0 < a < 1$$ represent optimism; thus the value of some action proposal $$p$$ is $$a \cdot \max(p) + (1 - a) \cdot \min(p)$$.
+  - Value must be measured on an interval scale.
+- Should we consider the intermediates? This would seem to involve probabilistic reasoning.
+- Still - why is it rational to focus only on the best and worst outcomes? We might assign $$\alpha$$-values to all outcomes; these are not probabilities but rather distributive weights.
+
+#### 3.4: Minimax Regret
+Page 60
+
 
 ## "Philosophy of Probability", Aidan Lyon
 - Two central questions of the philosophy of probability.
