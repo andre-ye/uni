@@ -137,8 +137,12 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 - Still - why is it rational to focus only on the best and worst outcomes? We might assign $$\alpha$$-values to all outcomes; these are not probabilities but rather distributive weights.
 
 #### 3.4: Minimax Regret
-Page 60
+- Minimax regret - the best alternative is one which minimizes the maximum amount of regret. Regret is the difference between the best outcome and the outcome in question.
+- Regret matrix - formed by calculating all outcomes in the decision matrix.
+- Objection from irrelevant alternatives: a non-optimal alternative added to the alternative set can completely change the ordering. Therefore it is considered by some to be irrational / illegitimate.
 
+#### 3.5: The Principle of Insufficient Reason
+Page 64
 
 ## "Philosophy of Probability", Aidan Lyon
 - Two central questions of the philosophy of probability.
@@ -188,12 +192,51 @@ $$P(A, B) = \frac{P(A \wedge B)}{P(B)} \text{ where } P(B) \neq 0$$
 - Any probability space with an uncountably infinite number of events must assign uncountably many events to zero probability, otherwise in violation of probability axioms.
 - There are reasons to treat conditional probability as the fundamental notion of probability: $$P(A \wedge B)$$ and $$P(B)$$ are undefined; but the conditional probability $$P(A \| B)$$ is.
 
+#### 2.2. Conditional Probability as Primitive
+- Alfred Renyi - a formal theory of probability where conditional probability is the fundamental concept.
 
+| Symbol | Meaning |
+| --- | --- |
+| $$\Omega$$ | nonempty set |
+| $$\mathcal{A}$$ | algebra on $$\Omega$$ |
+| $$\mathcal{B}$$ | non-empty subset of $$\mathcal{A}$$ |
 
+- Let $$P$$ be a Renyi conditional probability function $$P: \mathcal{A} \times \mathcal{B} \to \mathbb{R}$$ which obeys the following axioms, where $$A \in \mathcal{A}$$ and $$B \in \mathcal{B}$$:
 
+$$P(A, B) \ge 0$$
 
+$$P(B, B) = 1$$
 
+$$P(A_1 \cup A_2, B) = P(A_1, B) + P(A_2, B)$$
 
+$$P(A_1 \cap A_2, B) = P(A_1, A_2\cup B) \cdot P(A_2, B)$$
+
+- We can define a countably infinite conditional additivity axiom:
+
+$$P \left( \cup_{i=1}^{\infty} A_i, B \right) = \sum_{i=1}^{\infty} P(A_i, B)$$
+
+- Absolute probability can then be defined as follows:
+
+$$P(A) = P(A, \Omega)$$
+
+> Question - how is $$\Omega$$ being used here? Any nonempty set or a relevant set? 
+
+- Popper conditional probability function - is symmetric and autonomous.
+  - Autonomous - probabilistic conclusions can only be derived from probabilistic premises. 
+  
+  #### 2.3: Other Formal Theories of Probability
+  - Probabilities are assumed to be defined over classical logic. But it can also be appropriated for other logics, such as intuitionism.
+ - Quantum probability - a non-distributive logic. Classical lgoci fails to understand the results of the two-slit experiemnt, for instance.
+ - Probability is taken to be a set of constraints on the belief of an individual; an individual therefore must be omniscent to be rational.
+- Probability - applied to negative numbers, imaginary numbers, and unbounded real numbers.
+
+### 3. The Philosophical Theory of Probability
+- Categorized into subjective and objective interpretations.
+Subjective - identify with degrees of belief.
+Objective - independent of the individual (frequencies, etc.)
+
+#### 3.1. The Classical Interpretation
+page 9 in PDF
 
 
 
