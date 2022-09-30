@@ -46,6 +46,9 @@ CSE 351
 - With $$n$$ binary digits, you can represent $$2^n$$ things.
 - Binary digit - a bit. A hex digit (4 bits) - nibble. Two hex digits (8 bits) - byte.
 
+---
+
+## Week 2 Monday - ...
 
 
 
