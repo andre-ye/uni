@@ -78,6 +78,18 @@ type* ptr;
 - Signed integers represent positive and negative integers. The most common encoding is two's complement: the most significant bit is kept as negative; all other bits are unsigned. Can represent from $$-2^{n-1}$$ to $$2^{n-1} - 1$$.
 - To negate, flip all the bits and add one.
 
+## 5. Integers II
+- Signed and unsigned integers are different interpretations of data; nothing about the data itself is changed.
+- Literals and constants can be changed into unsigned by appending `u` to the end.
+
+![image](https://user-images.githubusercontent.com/73039742/193429178-d214e25c-be7b-4477-8177-b14f96665e80.png)
+
+- The data type of a variable determines the data behavior.
+- Type casting - conversion of data from one data type into another. Implicit cast - done automatically by the compiler to avoid problems.
+- An explicit cast can be done with `(data_type) expression`.
+- Casting does not change the data, it changes the representation.
+- Zero extension - pads unsigned data with more zeros; sign extension - pads signed data with copies of the most significant bit
+- When mixing signed and unsigned values, implicit casting to unsigned is done.
 
 
 
