@@ -47,12 +47,23 @@ CSE 351
   - Little-endian - LS byte stored in the lowest address
 - Pointers are variables that store addresses; the size of the pointer is the word size.
   - The pointer must also encode the size information.
+
+## 3. Memroy & Data II
+- Pointers are special variables of word size which store addresses. 
+
+```cpp
+type* ptr;
+```
+
+- The address-of operator `&` goes in front of a variable, e.g. `int q; int*p = &q;`.
+- Dereference operator `*` used to access the data pointed to by the pointer.
+- Null - symbolic constant used for pointers. 
+- Pointers can be represented with bow-and-arrow memory diagrams. Every box has a value, address, and variable name.
+- Pointer arithmetic - automatically scale the arithmetic operation across the minimum data size (4 bits for ints, 8 bits for longs).
+- Arrays: sets of contiguous locations in memory.`array[n]` referenced through `*(array + n)`. There is no bounds checking in C.
+- C does not support an explicit string dataset. In C, strings are arrays of characters terminated by the null character.
+- 1 byte per character.
 - 
-
-
-
-
-
 
 
 
