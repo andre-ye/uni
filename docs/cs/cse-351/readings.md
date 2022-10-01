@@ -48,7 +48,7 @@ CSE 351
 - Pointers are variables that store addresses; the size of the pointer is the word size.
   - The pointer must also encode the size information.
 
-## 3. Memroy & Data II
+## 3. Memory & Data II
 - Pointers are special variables of word size which store addresses. 
 
 ```cpp
@@ -63,9 +63,20 @@ type* ptr;
 - Arrays: sets of contiguous locations in memory.`array[n]` referenced through `*(array + n)`. There is no bounds checking in C.
 - C does not support an explicit string dataset. In C, strings are arrays of characters terminated by the null character.
 - 1 byte per character.
-- 
 
+## 4. Memory & Data III
+- Bitwise operators apply boolean operations across bits of the operand(s) and can only be used on primitive/integral data types.
+- Logical operators (`&&`, `||`, `!`) apply boolean operations to the value of the operands; `0` is False and anything else is true.
+- C uses short-circuit evaluation
+- Unsigned integers - nonnegative integers. 
 
+| `unsigned char` | 1 byte |
+| `unsigned short` | 2 bytes |
+| `unsigned int` | 4 bytes |
+| `unsigned long` | 8 bytes |
+
+- Signed integers represent positive and negative integers. The most common encoding is two's complement: the most significant bit is kept as negative; all other bits are unsigned. Can represent from $$-2^{n-1}$$ to $$2^{n-1} - 1$$.
+- To negate, flip all the bits and add one.
 
 
 
