@@ -142,7 +142,22 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 - Objection from irrelevant alternatives: a non-optimal alternative added to the alternative set can completely change the ordering. Therefore it is considered by some to be irrational / illegitimate.
 
 #### 3.5: The Principle of Insufficient Reason
-Page 64
+- Principle of insufficient reason - if one has no reason to think one stte of the world is more probable than the other, then all states should be given equal probability.
+- The principle of insufficient reason does not recommend any act; it is a transformational operation, but is often used to make decisions under risk.
+- How sensitive are individual states indiviuated?
+- Symmetric states as a requirement for PIR
+- It is completely arbitrary to assign equal probability: any other distribution would be equally good (and bad).
+
+#### 3.6: Randomized Acts
+- Instead of choosing one act over the other, we might randomize actions.
+- Different decision rules yield different action prescriptions.
+- Arguing on the basis of rules is a normative discussion.
+- Decision theorists seek to show the superiority of one rule over another with axiomatic analysis: formulate a set of axioms and demonstrate which rules follow them.
+- Milnor's ten axioms: ordering, symmetry, strict dominance, contuinty, interval scale, irrelevant alternatives, column linearity, column dupliction, randomization, special row adjunction.
+
+![image](https://user-images.githubusercontent.com/73039742/193466520-e7686f81-b966-4ef4-afc4-0f98d68c0197.png)
+
+
 
 ## "Philosophy of Probability", Aidan Lyon
 - Two central questions of the philosophy of probability.
