@@ -90,6 +90,30 @@ type* ptr;
 - Casting does not change the data, it changes the representation.
 - Zero extension - pads unsigned data with more zeros; sign extension - pads signed data with copies of the most significant bit
 - When mixing signed and unsigned values, implicit casting to unsigned is done.
+- Arithmetic on fixed-width binary numbers is modular; all bits after the end are dropped.
+
+$$x-y = x + (-y) = x + (\sim y + 1)$$
+
+- Arithmetic overflow - a calculation cannot be represented by the encoding scheme.
+  - Unsigned overview vs signed overflow
+- Shift operators - shift a bit vector by a specified number of digits, which falls the cut-off bits to 'fall off' and be lost; the remaining bits are filled by $$\forall$$ 1s or 0s.
+  - left shift - `x << n`, zero padding
+  - logical right shift - `x >> n`, `x` unsigned, zero padding
+  - arithmetic right shift - `x >> n`, `x` signed, MSB padding
+- Shifting can be interpreted as multiplying or dividing by powers of 2.
+  - Right shifting always rounds down (floor operation).
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
