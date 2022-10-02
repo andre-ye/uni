@@ -280,7 +280,45 @@ $$P(A) = P(A, \Omega)$$
 - Probability claims are no longer testable.
 
 #### 3.4. Logical Probability
-Page 15
+- $$P(B, A) = \chi$$: the extent $$\chi$$ to which $$A$$ entails $$B$$.
+- Generalizing entailment to partial entailment - deduction can be generalized to induction.
+- Logical probabilty shares suspicious parallels with 'multiple-worlds' reasoning of the classical interpretation.
+- It is almost universally agreed that the logical interpretaton is false, but we can still develop a formal account of inductive inference.
+- Probability-raising account of deduction:
+
+$$c(H, E) = P(H, E) - P(H)$$
+
+#### 3.5. The Subjective Interpretation
+- Frequency and propensity interpretations use 'is' subjective interpretations use 'ought' - ideal epistemic rationality.
+
+3.5.1. The Dutch Book Argument
+- Iff an agent has credences which do not obey axioms P1-3, an agent is susceptible to a Dutch Book.
+- If an agent is ideally epistemically rational, then the agent is not susceptible to the Dutch Book.
+- Depragmatized dutch book arguments
+- Dutch Book as a dramatization of systems which do not conform to probability calculus.
+- Package principle - two individually fair bets are also fair collectively.
+
+3.5.2. Bayesianism
+Page 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
