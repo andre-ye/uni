@@ -232,13 +232,40 @@ $$P(A) = P(A, \Omega)$$
 
 ### 3. The Philosophical Theory of Probability
 - Categorized into subjective and objective interpretations.
-Subjective - identify with degrees of belief.
-Objective - independent of the individual (frequencies, etc.)
+- Subjective - identify with degrees of belief.
+- Objective - independent of the individual (frequencies, etc.)
 
 #### 3.1. The Classical Interpretation
-page 9 in PDF
+- Central idea - a calculation reduced across equally possible outcomes.
+- But what does equally possible mean? For some, they are symmetric in the objective sense. For others, it is an epistemic position - they are equally possible.
+- Principle of Indifference - equally uncertain alternatives have equal probability.
+  - Fraught with paradoxes depending on how we observe objects.
+- Many suggest we should adopt a frequency interpretation.
 
+#### 3.2. The Frequency Interpretation
+3.2.1. Actual Frequencies
+- Number of instances in which an outcome occurs divided by the total number of instances.
+- Reference class problem - how to disentangle properties? How to consider the 'total number' relevant to the instance?
+- Frequency interpretation tied too closely to the observtion of the world.
 
+3.2.2. Hypothetical Frequencies
+- Attempts to project actual frequencies into a conceptual space. Frequency is *taken to the limit* - the number of instances is countably infinite.
+- However, using this conception of limiting frequency allows for variation in frequency depending on the sequence of trials.
+- The hypothetical frequency interpretion imposes necessity on the actualization of probabilities over time (`HHH...` - while it is possible that this sequence may continue on forever as `H`s, hypothetical frequency suggests it must approach a 50% frequency).
+
+#### 3.3. The Propensity Interpretation
+- Developed by Popper: an objective theory of probability which can also make sense of single-case / particular probabilities.
+- A probability is a propensity for an outcome to occur.
+- Probabilities are properties of conditions which generate sequences of conditions rather than the sequences themselves.
+- Humphreys' paradox: propensities are not symmetric but probabilities are.
+  - Some theoreis of probability are asymmetric, e.g. Renyi's axioms for conditional probability
+- Long-run propensity interpretations - propensities are tendencies for certain conditions to produce frequencies identical to the probabilities in a sequence of instances.
+- Single-case propensity interpretation - dispositions to produce a certain result on a specific occasion.
+- Propensities are attributed not to repeatable conditions but states of the unvierse.
+- Probability claims are no longer testable.
+
+#### 3.4. Logical Probability
+Page 15
 
 
 
