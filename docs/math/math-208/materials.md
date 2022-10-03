@@ -75,7 +75,38 @@ MATH 208
 
 - Linear equation: homoegenous if has form $$a_1x_1 + a_2x_2 + ... + a_nx_n = 0$$. Homogenous linear systems are comprised of homogenous linear equations. There is always one easy solution: $$\forall i; x_i = 0$$. This is a trivial solution.
 
-## Week 2:
+## Week 2: Topic
+
+### Section 2.1: Vectors
+- 
+Vector - a convenient way to record values, and algebraically useful.
+$$\mathbb{R}^n$$ - denotes the set of all vectors with $$n$$ entries.
+- Vectors are often denoted in boldface $$\mathbf{u}$$.
+- Column vector - vector in vertical form; row vector - row in horizontal form. Generally column form is used.
+- Linear combinations and systems of equations - vectors can be linearly combined by taking weighted sums. Constitutes another way to express linear equations by arranging the coefficients across the same variable in a column vector and using scalar multiplication against the corresponding variable.
+- Solutions can be expressed in vector form.
+- Vectors can be understood geometrically as a direction and a magnitud
+
+### Section 2.2: Span
+- The span of a set of vectors is the plane where every point can be expressed as a linear combination of the vectors.
+- Span generalizes to higher dimensions. You can determine if a vector is in the span of another two vectors by determining if there are coefficients of the span equation that make it equal to the original vector.
+- For $$\mathbb{R}^d$$, no $$d - 1$$ vectors can span $$\mathbb[R}^d$$; but $$d$$ vectors can.
+- If a vector is in the span of an existing set of vectors, then this span is equal to the span of the union between that set and the new vector.
+- The span of vectors in $$\mathbb{R}^n$$ is $$\mathbb{R}^n$$ when there is a pivot position in every row of the corrsponding echelon-form matrix.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
