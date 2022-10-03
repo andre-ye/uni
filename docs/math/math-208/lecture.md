@@ -51,8 +51,34 @@ Solving: Take derivatives and create a triangular system; solve with back-substi
   - interchange equations
   - Multiply an equation by a number
   - Add a multiple of an equation to another.
-- 
 
+## Week 2 Monday
+- Homogenous systems - contain the origin as a solution, have at least one solution.
+- You can only tell the number of free variables in a linear system using Gaussian elimination.
+- If a system is inconsistent, Gaussian elimination will yield an impossible equation.
+
+```
+ x - 2y - 3z = -1
+ x -  y - 2z =  1
+-x + 3y + 5z =  2
+
+  1 -2 -3 -1
+  1 -1 -2  1
+ -1  3  5  2
+ 
+  1 -2 -3 -1
+  0  2  3  3
+  0  1  2  1
+  
+  1 -2 -3 -1
+  0  1  1  2
+  0  0 -1  1
+  
+  z = -1
+  y =  3
+  x = 2
+  ```
+ 
 
 
 
