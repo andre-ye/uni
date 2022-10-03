@@ -48,8 +48,13 @@ CSE 351
 
 ---
 
-## Week 2 Monday - ...
-
+## Week 2 Monday - Pointers
+- The data type tells the size; pointers with different types indicate different sizes (but the same memories).
+- Assume a 64-bit machine and little-endian.
+- `a[i]` is syntactic sugar for `*(a+i)`; an array is not an object, the size is not stored. 
+- The array name is not a variable - it is an expression which will evaluate to the address of the array. 
+- Every time you add to a pointer, you increment by the minimum data size, not in bytes. 
+- 
 
 
 
