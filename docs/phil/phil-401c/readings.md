@@ -299,12 +299,30 @@ $$c(H, E) = P(H, E) - P(H)$$
 - Package principle - two individually fair bets are also fair collectively.
 
 3.5.2. Bayesianism
-Page 19
+- Orthodox Bayesianism: an agent's credences should
+  - obey probability axioms
+  - change iff new information is acquired
+  - update beliefs using Bayesian conditionalization
+- Bayesian conditionalization:
 
+$$C_\text{new} (H) = C_\text{old}(H, E)$$
 
+- Diachronic constraint
+- Bayesianism assumes facts are learned with full certainty; Jeffrey Conditionalization allows us to update with partial confidence.
 
+![image](https://user-images.githubusercontent.com/73039742/193665474-97db6570-a20d-4d1a-86a4-4cbd72a9ba92.png)
 
+- Bayesianism is a theory of epistemic rationality: credences should obey probability calculus.
 
+3.5.3. Objective and Subjective Bayesianism
+- How should the credence function be defined before any information is obtained?
+- Subjective Bayesians - no initial credence function is more rational than the other. However, any initial credence function must be regular - must obey logical systems and be probabilistic when contingent. Even if they are bizarre, they may converge to sensible solutions.
+- Objective Bayesians - there are further constriants on rational initial credence functions. The initial credence function should accurately describe our epistemic state.
+- Principle of Maximum Entropy - generalization of Principle of Indifference.
+- Subjective Bayesianism is most popular amongst philosophers.
+
+3.5.4. Other Norms
+- Lewis' Principal Principle: credences should align with objective probabilities if they are known. Beliefs should be updated immediately upon realization.
 
 
 
