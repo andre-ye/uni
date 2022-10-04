@@ -30,6 +30,8 @@ ENGL 284
 - Conflict - Crisis - Resolution. Hegelian triad, maybe even false Hegelian triad.
 - Fifth exit - passing opportunities for resolution. "Trying to subvert the expected."
 - How can you take the next exit?
+- The day's that different.
+- 
 
 
 
