@@ -54,8 +54,18 @@ CSE 351
 - `a[i]` is syntactic sugar for `*(a+i)`; an array is not an object, the size is not stored. 
 - The array name is not a variable - it is an expression which will evaluate to the address of the array. 
 - Every time you add to a pointer, you increment by the minimum data size, not in bytes. 
-- 
-
+- Use a Makefile - `make clean; make`. Run `ptest` and the rule/syntax checker to check.
+- Lab synthesis questions
+- Bitmasking - allow us to perform an operation using a bitmask and an operator, such as negating or setting to zero/one.
+- How to represent a deck of cards?
+  - Binary encoding using 6 bits. Works but other encodings may be more efficient.
+  - Make two fields - two bits for the suit and four bits for the number. 
+- Unsigned - only non-negatives; signed - positive and negative.
+- Sign and Magnitude: we designate the MSB as the sign bit and others as the magnitude field; however there are redundant representations for zero and it 'breaks math'.
+- Two's complement representation
+  - Flip negative encodings so incrementing works
+  - Shift negative numbers to eliminate `-0`
+  - The MSB is still 1 if it is negative.
 
 
 
