@@ -193,7 +193,7 @@ The act with the highest utility will have the higehst expected utility.
 
 
 #### 4.6: The St. Petersburg Paradox
-- 
+Page 94
 
 
 ---
