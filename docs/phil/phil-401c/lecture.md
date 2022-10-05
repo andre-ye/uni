@@ -63,6 +63,54 @@ PHIL 401C
 Discussion
 - How do disentangle state from action? Can write using conditional statements.
 
+---
+
+## Week 2 Wednesday
+- What object is probability applicable to?
+- Why can we assume that things we ascribe probability to have those mathematical properties?
+- Decisions under ignorance do not consider the probability of states of the world.
+- Intuitively, we want to weight probabilities.
+- There are many different ways to think about probability.
+
+```
+Survey Says
+1/6, 1/6
+1/3
+90%
+100%
+95%
+1%
+1e-10%
+50%
+95%
+Sure
+Maybe
+No
+Maybe
+```
+
+- Discussions about likelihood and probability are everywhere - applied to both observable and unobservable events.
+- Some events are repeatable, others are oe-time.
+- Probabilities can be applied to propositions and events.
+- Probability can be 'objectively subjective' or objective.
+- Strength of evidence - changes to probabilities are made proportionality to evidence.
+- Comparability - numbers can be compared. Can probability be compared? Can probability assessments be precise?
+
+> Random idea - infinitely nesting probability distributions. Individual probabilities have probability distributions.
+
+- Probability is bounded. Is there a maximum and minimum probability? Is 0 or 1 probability possible?
+- Additivity - probabilities can be added.
+- An interpretation of probability answers three questions - how it is measured, its mathematical properties, and its use.
+- Interpretations
+  - Frequency - some percentage of events occur in some population. Nicely explains matheamtical properties of probabilities.
+  - Hypothetical frequency view - addresses infinite problems
+- Propensity - probabilities are properties of objects which cause them to behave or tend towards certain behavior.
+- Logical - probability is a measure of an argument's strength. Probability quantifies the strength of evidence for a conclusion given the premises of an argument.
+- Subjective (Personalist)  - measure of how strongly we believe in particular propositions.
+- Principal Principle - if you know the objective probability of an event is some quantity, you should be confident proportional to that degree.
+- Kolmogorov - set of states. A probability assigns numbers to subsets of the state set. 
+- 
+
 
 
 
