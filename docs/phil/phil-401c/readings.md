@@ -157,7 +157,46 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 
 ![image](https://user-images.githubusercontent.com/73039742/193466520-e7686f81-b966-4ef4-afc4-0f98d68c0197.png)
 
+### Chapter 4: Decisions Under Risk
+- The DM knows the probabilities of the outcomes in decisions under risk.
+- Principle of maximizing expected value may suggest certain actions, but it does not necessarily describe rationality. 
+- There is virtually no agreement on how to make decisions under risk.
+- How to articulate the principle of maximizing expected value?
+- Many decisions in real life are made under risk.
 
+#### 4.1: Maximizing What?
+- Maximizing expected monetary value is not the same as maximizing expected value.
+- Maximizing expected value is not the same as maximizing expected utility. Utility is a more precise version of value.
+- Expected monetary value - probabilistically weighted average of states.
+- Marginal value - how much an increase of value gives.
+- Maximizing expected value makes more sense from a normative point of view than merely maximizing expected monetary value.
+- Utility - an entity which cannot be directly observed. It depends on how valuable the outcome is from the DM's perspective.
+
+#### 4.2: Why is it rational to maximize expected utility?
+- Law of large numbers - show that in the long run, you will be better off if you maximize expected utlity.
+- Derive the expected utility principle from more fundamental axioms in rational decision making.
+- Law of large numbers - everyone who maximizes expected utility will almost certainly be better in the long run. Keynes - "in the long run we are all dead".
+  - NO decision is made/faced an infinite number of times.
+- Gambler's ruin
+- Will decision makers ever face the same deicion problem several times?
+
+#### 4.3: The Axiomatic Approach
+- Not based on the law of large numbers: instead, show how maximizing expected utility principle can be derived from independently held axioms. It can be applied to nonrepeatable problems.
+- The decision maker states a set of preferences over risky acts. Decisions can be described as if utilities were assigned to outcomes.
+- Axioms:
+  1. The utility of an act is $$u$$ if all outcomes of that act have utility $$u$$.
+  2. Dominance principle. If one act is certain to lead to higher-utility outcomes than another, then it has higher utility.
+  3. Every decision problem can be transformed into equiprobable states without affecting the overall utility of any of the acts.
+  4. Trade-off principle. If two outcomes are equally probable and the best outcome is slighlty made worse, some utility can be added to the other outcome to compensate.
+- The utility of an act is the expected utility of its outcomes.
+The act with the highest utility will have the higehst expected utility.
+
+
+#### 4.6: The St. Petersburg Paradox
+- 
+
+
+---
 
 ## "Philosophy of Probability", Aidan Lyon
 - Two central questions of the philosophy of probability.
