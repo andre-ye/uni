@@ -78,6 +78,15 @@ Solving: Take derivatives and create a triangular system; solve with back-substi
   y =  3
   x = 2
   ```
+  
+  ## Week 2 Wednesday
+  - Vectors - can add and scale
+  - Solving a linear system is equivalent to adding or manipulating vectors.
+  - We can interpret solving a linear equation as determing the combination of scailng factors by which different coefficient column vectors are added to reach a particular point.
+  - Span - the reachable set of points given linear combinations of existing sets of vectors.
+  - Questions one can ask about span:
+    - Is a vector in the span? Solve for the equations and try to derive a solution.
+    - What is the span of a set of vectors? Derive a solution to prove which vectors have solutions reachable as linear combinations of the existing vectors.
  
 
 
