@@ -88,12 +88,26 @@ Solving: Take derivatives and create a triangular system; solve with back-substi
     - Is a vector in the span? Solve for the equations and try to derive a solution.
     - What is the span of a set of vectors? Derive a solution to prove which vectors have solutions reachable as linear combinations of the existing vectors.
  
+---
 
+## Week 2 Friday
+- Span - set of all linear combinations of a given set of vectors
 
+*Problem*: Compute the span of $$\{(\langle 2, 1, 1\rangle, \langle 1, 2, 3 \rangle, \langle 9, 1, -1 \rangle\}$$
 
+*Solution*:
 
+$$\begin{pmatrix} a // b // c \end{pmatrix} = \begin{pmatrix} 2, 1, 1 \end{pmatrix} x_1 + \begin{pmatrix} 1 \\ 2 \\ 3 \end{pmatrix} x_2 + \begin{pmatrix} 9 \\ 1 \\ -1 \end{pmatrix} x_3$$
 
+$$a = 2x_1 + x_2 + 9x_3$$
 
+$$b = x_1 + 2x_2 + x_3$$
+
+$$c = x_1 + 3x_2 - x_3$$
+
+Perform Gaussian elimination on the corresponding augmentation matrix. Yes, the span is $$\mathbb{R}^3$$.
+
+- Another type of possible problem: given a set of vectors, find another vector which is not part of the span.
 
 
 
