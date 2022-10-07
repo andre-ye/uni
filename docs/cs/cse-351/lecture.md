@@ -48,7 +48,7 @@ CSE 351
 
 ---
 
-## Week 2 Monday - Pointers
+## Week 2 Wednesday - Pointers
 - The data type tells the size; pointers with different types indicate different sizes (but the same memories).
 - Assume a 64-bit machine and little-endian.
 - `a[i]` is syntactic sugar for `*(a+i)`; an array is not an object, the size is not stored. 
@@ -67,12 +67,16 @@ CSE 351
   - Shift negative numbers to eliminate `-0`
   - The MSB is still 1 if it is negative.
 
+---
 
-
-
-
-
-
+## Week 2 Friday - Integers
+- Limits imposed by memory affect representation size.
+- In casting, bits are unchanged, but just interpreted differently. (For integers, at least.)
+- USe explicit casts.= rather than implicit casts.
+- Integers are considered signed by default; `u` can force agreement.'
+- Shifting counts as multiplication and division.
+- Left shifting can cause overflow and other problems - signed overflow.
+- Right shifting - there is no overflow because you are dividiing. Always rounds down.
 
 
 
