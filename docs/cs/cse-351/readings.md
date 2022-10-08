@@ -103,12 +103,18 @@ $$x-y = x + (-y) = x + (\sim y + 1)$$
 - Shifting can be interpreted as multiplying or dividing by powers of 2.
   - Right shifting always rounds down (floor operation).
 
+---
 
-
-
-
-
-
+## 6. Floating Point I
+- Scientific notation: we can express small and large numbers without writing large digits.
+- Three different parts - sign, mantissa, exponent.
+  - Float: 1-bit sign, 8-bit exponent, 23-bit mantissa.
+  - Double: 1-bit sign, 11-bit exponent, 52-bit mantissa.
+- Sign - `0` is positive, `1` is negative
+- Exponent - biased notation, shifted by $$2^{w-1}-1$$ where $$w$$ is the width of the exponent field (`0b011...11`); convert to unsigned; this lets us represent the same number of postiive and negative exponents.
+  - To encode, add the bias
+  - To decode, subtract the bias
+- Mantissa: must be of form `1.bbbb`$$_2$$. Implicit leading one, but this is not stored.
 
 
 
