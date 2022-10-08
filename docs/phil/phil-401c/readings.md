@@ -193,7 +193,9 @@ The act with the highest utility will have the higehst expected utility.
 
 
 #### 4.6: The St. Petersburg Paradox
-Page 94
+- St. Petersburg game: the value can rise reciprocally to the probability such that the expected utility becomes infinite.
+- Upper limit on utility scale: utility should be bounded, made finite.
+- Jeffrey - there is a finitude of resources (money)
 
 
 ---
