@@ -197,6 +197,32 @@ The act with the highest utility will have the higehst expected utility.
 - Upper limit on utility scale: utility should be bounded, made finite.
 - Jeffrey - there is a finitude of resources (money)
 
+### Chapter 5: Utility
+- Utility has many different technical meanings.
+- Utility can be represented with different scales.
+- Arguably utility cannot be revealed by introspection.
+
+#### 5.1: How to Construct an Ordinal Scale
+- Assume that the decision maker makes pairwise preferences between pairs of objects. 
+- Completeness axiom - you must be able to state preference between every pair of objects. Preferences are asymmetric and negatively transative. 
+  - Transativity has previously been questioned.
+- How can we construct the ordinal utility scale? We will need a utility function $$u: O \to \mathbb{R}$$ for your object-set $$O$$.
+  - This could not be constructed for cyclic preference relations.
+
+#### 5.2: von Neumann and Morgenstern's interval scale
+- Ordinal utility scales might not allow us to analyze a decision problem effectively.
+- von Neumann & mOrgenstern's theory: ask the decision maker to state preferences over risky acts.
+- Acts - "lotteries", outcomes are randomly determined by events,
+- We can infer utility based on stated preferences based on probabilistic reasoning.
+- Constraints on rational preferences are imposed which imply that the DM behaves like they are making decisions by calculating expected utilities. 
+- von Neumann and Morgenstern assume completeness, transativity, independence (preference for a lottery remains constant even if probabilistic lotteries are run between another alternative), continuity
+- von Neumann & Morgenstern's theorem: the preference relation satisfies vNM 1-4 iff $$\exists$$ $$u: L \to [0, 1]$$ and obeys monotonicity, expected utility property, all functions satisfying the previous two are linear transformations of each other.
+- Crticisisms:
+  - Axioms are too strong
+  - No axiom guidance
+  - Utility without chance
+
+#### 5.3: Can Utility be Measured on a Ratio Scale?
 
 ---
 
