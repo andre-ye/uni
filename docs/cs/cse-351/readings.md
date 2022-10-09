@@ -116,9 +116,34 @@ $$x-y = x + (-y) = x + (\sim y + 1)$$
   - To decode, subtract the bias
 - Mantissa: must be of form `1.bbbb`$$_2$$. Implicit leading one, but this is not stored.
 
+---
 
+## 7. Floating Point II
+- Floating point allows for special cases, given as combinations to the exponent and mantissa fields.
+- 0 exponent: denormalized number; all-1s exponent and all-0s mantissa: $$+/- \infty$$, all 1s-exponent and nonzero mantissa: NaN
+- Denormalized number: uses an implicit leading 0. Allows for encoding smaller numbers near 0.
+- If a number is too large, it results in overfow; the result is stored as infinity. If it is too small, it results in underflow.
+- We have limited precision; we cannot represent numbers between representable numbers.
+- The largest normalized exponent is 127.
+- Arithmetic operaitons on infinity and NaN will work but result in bizarre ways.
+- Rounding breaks down certain mathematical properties of floating point arithmetic.
+- Casting an integral data tpe into a floating point data type changes the bit representation.
 
+---
 
+## 8. x86-64 Programming I
+- Instruction Set Architecture - ISA. Parts of the processor design needed to write assembly code.
+- ISA - state, instruction set, effect.
+- Complex Instruction Set Computer vs Reduced Instruction Set Computer.
+- x86-64 is far on the end of CISC; we will look at integral data and use AT&T syntax.
+- Instructions are given with an instruction name followed by operands.
+- Assembly instructions: data transfer, arithmetic and logic, control flow
+- Size specifier - byte, word, long, quad (1, 2, 4, 8 bytes)
+- Operands are three types - immediates ($), registers (%), memory ().
+  - An immediate cannot be used as a destination operand
+  - You cannot use a memory to memory operation
+- Register - location in CPU to store a small amount of data which can be accessed quickly. Registers are referred to by name. 16 registers; 8-byte register names.
+- How to express a memory operand? 4 parts: `D(Rb, Ri, S)`. Displacement - immediate or constant; base register - name of register whose value will be the base; index register - value will be scaled and added to the base; scale factor - scales the index register by a specified number - 1, 2, 4, 8.
 
 
 
