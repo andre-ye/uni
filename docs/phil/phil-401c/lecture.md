@@ -109,10 +109,34 @@ Maybe
 - Subjective (Personalist)  - measure of how strongly we believe in particular propositions.
 - Principal Principle - if you know the objective probability of an event is some quantity, you should be confident proportional to that degree.
 - Kolmogorov - set of states. A probability assigns numbers to subsets of the state set. 
-- 
 
+---
 
-
+## Week 3 Monday
+- To be rational, you must act as if you follow certain calculations.
+- Act as if you associated states with probabilities.
+- Expected utility - weight outcomes by probability of the state.
+- Why is it rational to maximize expected utility? Why do we act as if we assign numerical utilities?
+- Where do utilities come from and what do they represent?
+- Utilities - strength of preference. Probabilities - strength of belief, or 'objective' frequencies.
+- Expected Utility Theory is used both as normative and perspective theories.
+  - "We should act like EU maximizers"
+- Is EUT a good descriptive theory? Maybe, maybe not, probably not.
+- Normative question - why should a DM behave as if they maximized expected utility?
+- Why should a decision-maker's preferences be represented by numerical utiltiies?
+- Utility - strength of preference of a particular decision-maker.
+- Utility is not money. St. Petersberg Paradox
+  - Preferences of money may have certain feature: weigh losses higher than gains, diminishing returns.
+- When does a utility assignment adequately represent a DM's strength of preferences?
+- Possible solution: ordinal assignment. 
+- Maximin, domination, etc. can function only with ordinal preference. This does not apply to minimax regret, optimism-pessimism, PIR, etc.
+- Interval Scales - represents ordinally, and are linearly transformable into each other.
+- If we can measure a decision maker's strength of preference on an interval scale & know what decision rule they use, we can predict the decision maker's outcome. 
+- The stronger your preference for something, the more you will tolerate a reduction in its probability of uccrrence.
+- Lottery - probability outcomes (also called roulettes or Von Neumann Morgenstern lotteries).
+- If a decision-maker's preference over lotteries have certain mathematical properties, we can measure the DM's preferences on an interval scale.
+- Probabilities are objective probabilities; not the probabilities of states. Rather, the probability of outcomes.
+- vNM's theorem is intended to justify replacing outcomes with numbers. It is not a justification for assigning subjective probabilities to states or using probabillistically weighted averages.
 
 
 
