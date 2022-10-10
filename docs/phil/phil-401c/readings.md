@@ -223,6 +223,23 @@ The act with the highest utility will have the higehst expected utility.
   - Utility without chance
 
 #### 5.3: Can Utility be Measured on a Ratio Scale?
+- Many decision theorists assert utility can only be measured on an interval scale. (A metaphysical claim).
+- Some claim that utility can be measured on a ratio scale. We need to take a different approach to measure utility.
+- Probabilistic theory of utility
+- Probabilistic behavior is observed, but can it be rational?
+- If $$A$$ is a subset of $$B$$, the probability $$x$$ will be chosen from $$B$$ equals the probability that $$x$$ will be chosen from $$A$$ multiplied by the probability that the chosen alternative in $$B$$ is also an element of $$A$$. (Choice axiom.)
+  - Alternatives must be individuated carefully.
+- Probabilistic theory requires $$p \ neq 0$$. 
+- You can use probabilistic measures to construct a ratio scale. 
+
+#### 5.4: Can We Define Utility Without Being Able to Measure it?
+- There are many concepts which we are valuable even as intuitively motivated (as opposed to being necessarily technically articulated); does something similar appluy to utility?
+- Theories of utility are operational definitions - meaning is measurement. Utility enters troubled waters in normative applications.
+- We need to obtain a true, core notion of utility.
+- Philosophers - a utilitarian approach to ethics apply utility in moral contexts.
+- Utility is a mental state. 
+- Moments of utility. The more an agent wants to experience a moment, the higher the moment's utility. 
+- Archimedean condition: even if one moment is preferred over an other, it can be outweighted by a sufficient large number of dispreferred moments.
 
 ---
 
