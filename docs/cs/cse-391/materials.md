@@ -57,10 +57,22 @@ CSE 391
 - How to run Java in the command line? Compile with `javac file.java`, then run with `java file`. `java file.java` will compile and run simultaneously.
 
 ### Input Output Redirection
+- Three streams (abstracted locations): `stdin`, `stdout`, `stderr`. 
+- A program accepts `stdin` and outputs to `stdout` and `stderr`.
+- You can redirect `stdout` into other areas.
+- You can direct `stdin` into programs.
+- Ise `2>` to redirect both `stdout` and `stderr`.
+- Distinguish between `stdin` and parameters.
+- If no file is provided, programs will read from `stdin`.
+- To append to a file, use the double wakka: `>>`.
 
 ### Pipes
-
-
+- Pipes allow you to chain together commands `|`. It takes `stdout` from the left argument and puts it as `stdin` into the right argument.
+- Unix philosophy - do one thing and do it well.
+- You can impose repeated conditions by chaining.
+- `uniq` - prints the number of repeated lines
+- `sort` - sorts a file by lines
+- Log file - stores progress on a file.
 
 
 
