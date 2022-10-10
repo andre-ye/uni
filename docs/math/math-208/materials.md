@@ -75,11 +75,12 @@ MATH 208
 
 - Linear equation: homoegenous if has form $$a_1x_1 + a_2x_2 + ... + a_nx_n = 0$$. Homogenous linear systems are comprised of homogenous linear equations. There is always one easy solution: $$\forall i; x_i = 0$$. This is a trivial solution.
 
-## Week 2: Topic
+---
+
+## Week 2: Vector and Span
 
 ### Section 2.1: Vectors
-- 
-Vector - a convenient way to record values, and algebraically useful.
+- Vector - a convenient way to record values, and algebraically useful.
 $$\mathbb{R}^n$$ - denotes the set of all vectors with $$n$$ entries.
 - Vectors are often denoted in boldface $$\mathbf{u}$$.
 - Column vector - vector in vertical form; row vector - row in horizontal form. Generally column form is used.
@@ -94,13 +95,24 @@ $$\mathbb{R}^n$$ - denotes the set of all vectors with $$n$$ entries.
 - If a vector is in the span of an existing set of vectors, then this span is equal to the span of the union between that set and the new vector.
 - The span of vectors in $$\mathbb{R}^n$$ is $$\mathbb{R}^n$$ when there is a pivot position in every row of the corrsponding echelon-form matrix.
 
+---
 
+## Week 3: Linear Dependence
 
+### Section 2.3: Linear Independence
+- If the solution to $$x_1u_1 + x_2u_2 + ... + x_3u_3 = 0$$ has a trivial solution $$x_1 = x_2 = ... = x_m = 0$$, the set of vectors $$u_1, u_2, ..., u_m$$ is linearly independent; if the solutions are nontrivial, the set is linearly dedependent.
+- Having 0 in any set of vectors guarantees the set will be linearly dependent.
+- Two sets are linearly dependent iff vectors are scalar multiples of each other (i.e. if they point in the same direction). 
+- If the vector dimensionality is smaller than the number of vectors in the set, the set is linearly dependent.
+- A set of vectors is linearly dependent iff one of the vectors in the set is in the span of the other vectors.
+- Any linear system can be expressed as $$Ax = b$$; this is a homogeous linear system, which has either one solution or infinitely many.
+A set of vectors is linearly independent iff the homogenous linear system $$Ax = 0$$ has only the trivial solution.
+- A system $$Ax = b$$ is nonhomogenous for $$b \neq 0$$; the associated homogenous system is $$Ax = 0$$. The only difference is a constant vector.
+- $$x_p$$ is a particular solution to the system $$Ax = b$$. Then all solutions to $$Ax = b$$ can be expressed as $$x_p + x_h$$, where $$x_h$$ is the solution to the associated homogenous system.
 
+Theorem 2.20 left off, page 86
 
-
-
-
+### Section 3.1: Linear Transformations
 
 
 
