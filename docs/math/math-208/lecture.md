@@ -110,8 +110,18 @@ Perform Gaussian elimination on the corresponding augmentation matrix. Yes, the 
 - Another type of possible problem: given a set of vectors, find another vector which is not part of the span.
 
 
+---
 
-
+## Week 3 Monday
+- Linear independence: second important concept (+ span).
+- If a vector is a linear combination of other vectors, then that vector depends on the vectors whose linear combination constitutes that vector.
+- How to check for linear dependence computationally? 
+- A vector set is linearly dependent iff:
+  - some vector is in the span of the authors
+  - some vector is a linear combination of the others
+  - the system $$\sum_{i=1}^m u_i x_i = 0$$ has a nonzero solution (infinitely many solutions)
+- Otherwise, the vectors are linearly independent.
+- A system of vectors is always linearly dependent when the zero-vector is present or if the dimensionality of the vectors is less than the number of the vectors.
 
 
 
