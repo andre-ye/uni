@@ -46,6 +46,24 @@ CSE 391
 - `-a` will show hidden files - things starting with a dot.
 - `touch` will create a file.
 
+---
+
+## Week 3
+- You can use `touch` to change file timestamps and to create files.
+- Forward slash - helpful way to searcht rogh file.
+- Sort 
+- Redirect into outputs with `>`
+- 
+
+
+
+
+
+
+
+
+
+
 
 
 
