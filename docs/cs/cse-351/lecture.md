@@ -78,7 +78,20 @@ CSE 351
 - Left shifting can cause overflow and other problems - signed overflow.
 - Right shifting - there is no overflow because you are dividiing. Always rounds down.
 
+---
 
+## Week 3 Monday - Floats
+- We often need to encode a variety of other numbers - floating point represents real numbers, very large numbers, very small numbers, special numbers.
+- IEEE floating-point standard.
+- Normalized form - exactly one digit to the left of the binary point.
+- Floating point - the point can float around
+- Float operations - flops, can be a proxy for the performance of a computer.
+- Sign bit, mantissa, exponent. 
+- Exponent field: use biased notation, use both positive and negative exponents. 
+- Why use biased notation and not two's complement? If we look at the exponent field and the mantissa, we can make floating point arithmetic easier. 
+- We cannot represent zero with this representation. 
+- Accuracy: difference between the actual value of a number & its representation. Precision: number of bits in a computer wrod used to represent a value. 
+- Double precision: consumes 64 bits. The exponent increases by three fields and the mantissa increases significantly. 
 
 
 
