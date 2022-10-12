@@ -408,8 +408,28 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 3.5.4. Other Norms
 - Lewis' Principal Principle: credences should align with objective probabilities if they are known. Beliefs should be updated immediately upon realization.
 
+---
 
+## "A Definition of Subjective Probability", F.J. Anascombe & R. J. Aumann
 
+### Introduction
+- "Probability" - plausibility (belongs to logic), objective (belongs to physics).
+- Personal or subjective concept of probability - defined in terms of preferences which can be calculated from observed preferences.
+- Utilities can be defined in terms of chances (vNM).
+
+### Lotteries
+- A lottery is a device for deciding which price in a set of prizes you will receive.
+- "roulette lottery" - uncertain events associated with a known chance
+- "horse lottery" - chances cannot be associated with uncertain events
+- Compounds lottery: constructed from iterations of simple lotteries; prizes are other lotteries.
+  - Can be constructed from roulette lotteries or roulette lotteries and horse lotteries
+  - vNM utilities operate on compound roulette lotteries
+
+### Assumptions
+- There is a most desired and least desired prize among all prizes.
+- Suppose a preference ordering on a set of roulette lotteries obeys the axioms of utility theory. We can then define a utility, the utility of a simple roulette lottery.
+
+Page 4, 201
 
 
 
