@@ -109,8 +109,12 @@ $$\mathbb{R}^n$$ - denotes the set of all vectors with $$n$$ entries.
 A set of vectors is linearly independent iff the homogenous linear system $$Ax = 0$$ has only the trivial solution.
 - A system $$Ax = b$$ is nonhomogenous for $$b \neq 0$$; the associated homogenous system is $$Ax = 0$$. The only difference is a constant vector.
 - $$x_p$$ is a particular solution to the system $$Ax = b$$. Then all solutions to $$Ax = b$$ can be expressed as $$x_p + x_h$$, where $$x_h$$ is the solution to the associated homogenous system.
-
-Theorem 2.20 left off, page 86
+- Theorem - the following are equivalent.
+  - The set $$\mathbf{a}$$ is linearly dependent.
+  - The vector equation $$\sum_{i=1}^m x_i\mathbf{a}_i = \mathbf{b}$$ has at most one solution for every $$\mathbf{b}$$.
+  - The linear system corresponding to $$\[ \mathbf{a}_1 \mathbf{a}_2 ... \mathbf{a}_m \vert \mathbf{b} \]$$ has at most one solution for every $$\mathbf{b}$$.
+  - The equation $$A \mathbf{x} = \mathbf{b}$$, with $$A = \[ \mathbf{a}_1 \mathbf{a}_2 ... \mathbf{a}_m\]$$, has at most one solution for every $$\mathbf{b}$$.
+- Uni
 
 ### Section 3.1: Linear Transformations
 
