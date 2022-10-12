@@ -93,6 +93,48 @@ CSE 351
 - Accuracy: difference between the actual value of a number & its representation. Precision: number of bits in a computer wrod used to represent a value. 
 - Double precision: consumes 64 bits. The exponent increases by three fields and the mantissa increases significantly. 
 
+---
+
+## Week 3 Wednesday - Floaitng Point
+- Because float is sign & magnitude, there are two representations for zero. 
+- Overflow and underflow relate to the exponent field; rounding concerns the mantissa field.
+- $$2^127$$ is the highest representable exponent.
+- Special cases - $$E$$ and $$M$$ field are all zeros is represented as 0. There is $$\pm 0$$.
+- `0xFE` is now the largest number: $2^{128} - 2^{104}$$ (using exponent $$2^{127}$$)
+- The smallest exponent is `0x01`, or $$2^{-126}$$.
+- Denormalized numbers: zero exponent and nonzero mantissa. There is no leading implicit one.
+- Mathematical properties of FP operations: overflow yields $$\pm \infty$$ and underflow yields $$0$$.
+- Floats with infinity and NaN can be used in operations; results are always well-specified. 
+- Floating point operations lose some properties due to rounding - not associative, not distributive, not cumulative. 
+- Round to nearest, ties to nearest even digit.
+- Avoid using equality comparisons for floating point numbers. Instead, use a threshold epsilon.
+- Casting between `int`, `float`, `double` changes the bit representation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
