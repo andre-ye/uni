@@ -138,6 +138,45 @@ Maybe
 - Probabilities are objective probabilities; not the probabilities of states. Rather, the probability of outcomes.
 - vNM's theorem is intended to justify replacing outcomes with numbers. It is not a justification for assigning subjective probabilities to states or using probabillistically weighted averages.
 
+---
+
+## Week 3 Wednesday
+- Why should a DM behave as if they maximized expected utility?
+- Lottery - a gamble premised on probability, interpreted as the objective type (propensities, frequencies)
+- If a decision maker's preferences among lotteries have certain mathematical properties, then we can measure the decision maker's preferences on an interval scale.
+- Properties of preference - we assume a decision maker's preference relation has the following properties:
+  - Transitivity
+  - Completeness: there must be a relationship between options.
+  - Independence: $$\forall p \in [0, 1]: (A \ge B) \to (ApC \ge BpC)$$
+  - Continuity - $$(A \ge B \ge C) \to \exists p \in [0, 1] : B \sim ApC$$. Preference relations are not infinitely strong.
+- Utility as a latent vector?
+- vNM's theorem: the utility function assigns outcomes to an interval scale and all such functions are derivable through positive linear transformation.
+- Reduction of compound lotteries - lotteries of lotteries can function as a single lottery.
+- There is controversy in how to compare utilities between different agents. The currently described theory does not let you do this - you cannot compare utilities between people.
+- How to justify certain axioms? Often derived from the methods of measurement.
+- Some aixioms - psychology verified empirical facts about the human condition. Continuityh can be psychologically verified. 
+- A normative defense of transitivity - some decision theorists assert that intransitive preferences are irrational. Money pump argument - intransitivity can lead to indefinite loss of money. 
+- Common tactic in normative decision theory - suppose an axiom is violated, suppose that behavior is linked to the axioms; show that this violation makes you exploitable.
+- Normative argument for the independence axiom - dutch book.
+- Rationality in normative theory does not necessarily contribute to decision theory as a descriptive theory.
+- Normativ erationality with vNM: preferences satisfy the completeness accent; empirically preferences follow continuity; our preferences should satisfy transitivity and independence for the skae of rationality. By vNM, we should act like we are choosing outcomes as if we were maximizing expected utility. This is invalid. 
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
