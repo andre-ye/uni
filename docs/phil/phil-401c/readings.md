@@ -428,9 +428,11 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 ### Assumptions
 - There is a most desired and least desired prize among all prizes.
 - Suppose a preference ordering on a set of roulette lotteries obeys the axioms of utility theory. We can then define a utility, the utility of a simple roulette lottery.
+- Subjective probability: apply utility theory twice, then connect preferences and utilities.
 
-Page 4, 201
-
+### Existence of Subjective Probabilities
+- Subjective probability of an outcome of a race.
+- There is a set of probabilities such that the total utility of the race is a probabilistically weighted sum of individual outcomes.
 
 
 
