@@ -114,13 +114,23 @@ A set of vectors is linearly independent iff the homogenous linear system $$Ax =
   - The vector equation $$\sum_{i=1}^m x_i\mathbf{a}_i = \mathbf{b}$$ has at most one solution for every $$\mathbf{b}$$.
   - The linear system corresponding to $$\[ \mathbf{a}_1 \mathbf{a}_2 ... \mathbf{a}_m \vert \mathbf{b} \]$$ has at most one solution for every $$\mathbf{b}$$.
   - The equation $$A \mathbf{x} = \mathbf{b}$$, with $$A = \[ \mathbf{a}_1 \mathbf{a}_2 ... \mathbf{a}_m\]$$, has at most one solution for every $$\mathbf{b}$$.
-- Uni
 
 ### Section 3.1: Linear Transformations
-
-
-
-
+- Linear transformations
+- Domain - input vectors. Codomain - output vectors.
+- $$T(\mathbf{u})$$ for a domain vector $$\mathbf{u}$$ is the image of $$\mathbf{u}$$ under $$T$$.
+- The range of $$T$$ is a subset of the codomain of $$T$$.
+- A function is a linear transformation if it obeys $$\forall u, v, r : (T(u + v) = T(u) + T(v)) \wedge (T(ru) = rT(u))$$
+- Not all functions $$T : \mathbb{R}^m \to \mathbb{R}^n$$ are linear transformations.
+- Square matrix - rows and columns are the same in quantity
+- If $$T(x) = Ax$$ for a matrix $$A$$, then $$T : \mathbb{R}^m \to \mathbb{R}^n$$ is a linear transformation.
+  - The range is the span of all the vectors constituting $$A$$.
+- Injective - one to one $$\forall$$ ones. Surjective - many to one $$\forall$$ ones.
+- A linear transformation is injective.
+- A transformation is one-to-one iff columns of $$A$$ are linearly independent.
+- A linear transformation must be represented as a matrix multiplication.
+- Linear transformations transform lines in the domain to lines in the range.
+- 
 
 
 
