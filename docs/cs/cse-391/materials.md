@@ -74,6 +74,22 @@ CSE 391
 - `sort` - sorts a file by lines
 - Log file - stores progress on a file.
 
+---
+
+## Week 3
+
+### I/O Redirection, xargs
+- `&&` can be used to chain together commands in which commands are executed only if the previous command does not raise an error.
+- `||` will only execute if the previous command fails.
+- `;` - chain together commands regardless of failure or correctness.  
+
+Left off at 8:30
+
+
+
+
+
+
 
 
 
