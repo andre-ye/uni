@@ -191,6 +191,9 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 - The utility of an act is the expected utility of its outcomes.
 The act with the highest utility will have the higehst expected utility.
 
+#### 4.4:
+
+#### 4.5: 
 
 #### 4.6: The St. Petersburg Paradox
 - St. Petersburg game: the value can rise reciprocally to the probability such that the expected utility becomes infinite.
@@ -240,6 +243,10 @@ The act with the highest utility will have the higehst expected utility.
 - Utility is a mental state. 
 - Moments of utility. The more an agent wants to experience a moment, the higher the moment's utility. 
 - Archimedean condition: even if one moment is preferred over an other, it can be outweighted by a sufficient large number of dispreferred moments.
+
+### Chapter 14:
+
+
 
 ---
 
@@ -433,6 +440,22 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 ### Existence of Subjective Probabilities
 - Subjective probability of an outcome of a race.
 - There is a set of probabilities such that the total utility of the race is a probabilistically weighted sum of individual outcomes.
+
+---
+
+## Foundations of Causal Decision Theory, Joyce
+*Chapter 3 - Savage's Theory*
+
+- Savage attempted to justify the principle of expected utility maximization using a representation theorem.
+- Impose a set of constraints on rational preference, then show that only expected utility maximization can satisfy said constraints. 
+- No person proposes expected utility maximization as a decision procedure; but rather agents behave as if they follow expected utility maximization.
+- Representation theorems - demands a local set of constraints on preferences.
+- Relationship between local and global level.
+- No currently available theorem perfectly justifies maximizing expected utility so far - 'molecular' axioms exist, unreduced axioms._Structure axioms_ - size & complexity of preference rankings.
+  - Necessary axioms - axioms of pure rationality.
+- Savage's theory - dependence on structure axioms which cannot be reduced.
+- The existence of incommensurable goods leads to incompleteness in an agent's preferences rather than intransitivity.
+- 
 
 
 
