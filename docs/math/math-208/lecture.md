@@ -123,6 +123,26 @@ Perform Gaussian elimination on the corresponding augmentation matrix. Yes, the 
 - Otherwise, the vectors are linearly independent.
 - A system of vectors is always linearly dependent when the zero-vector is present or if the dimensionality of the vectors is less than the number of the vectors.
 
+---
+
+## Week 3 Friday
+- Matrix - rectangular array of numbers. 
+- Size - given as rows first by column count.
+- $$\mathbb{R}^{n \times m}$$ refers to all matrices of size $$3 \times 2$$.
+- Operations - addition, scalar multiplication. Properties: commutativity, associativity, distributivity
+  - Commutativity is a rare property among algebras.
+  - Associativity is more common
+- Important matrix:
+  - Zero matrix, denoted $$0_{m \times n}$$.
+  - Identity matrix, denoted $$I_n$$. Always square.
+- Matrix multiplication by a vector: make a linear combination of the columsn of the matrix.
+- Matrix multiplication by a matrix: perform matrix-by-vector multiplication columnwise.
+- Another interpretation of matrix multiplication: dot product between rows of the first matrix and columns of the second matrix.
+- The dot product measures the angle between two vectors.
+- Matrix multiplication is not commutative.
+- Two nonzero matrices can be multiplied to yield the zero matrix.
+  - Vectors are perpendicular; the dot product is zero.
+- 
 
 
 
