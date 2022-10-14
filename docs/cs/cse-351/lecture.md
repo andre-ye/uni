@@ -111,7 +111,24 @@ CSE 351
 - Casting between `int`, `float`, `double` changes the bit representation.
 
 
+---
 
+## Week 3 Friday - x86 Assembly
+- Topic group 2 - programs
+  - Architecture (ISA) - parts of processor design needed to write assembly code.
+- Microarchitecture - implementation of the architecture.
+- ISA defines the system state, instructions, effect - defining words and the effect
+- Complex instruction set computing - CISC. Add more elaborate instructions. Reduced Instruction Set Computing - keep instruction set small.
+- Mainstream ISAs - x86 (intel), ARM, RISC-V
+- Architecture sits at the hardware interface. The compiler generates instructions and optimizations in the instruction set.
+- Why write assembly code? You will probably never write a program in assembly, but understanding assembly is important to understand machine-level execution.
+- Every program in your computer has some equivalent in assembly.
+- Data types in x86-64 assembly: integral data (1, 2, 4, 8 bytes), floating point. No aggregate types.
+- Comes with two syntaxes - AT&T, intel
+- Register - a location in the CPU which stores a small amount of data and which can be accessed very quickly. Registers have names, not addresses. Registers are very important in assembly programming.
+- x86-64 integer registers - 64 bits wide.
+- Moving data - general form of `mov_ source, destination`. More of a copy than a move.
+- 
 
 
 
