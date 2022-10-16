@@ -145,6 +145,19 @@ $$x-y = x + (-y) = x + (\sim y + 1)$$
 - Register - location in CPU to store a small amount of data which can be accessed quickly. Registers are referred to by name. 16 registers; 8-byte register names.
 - How to express a memory operand? 4 parts: `D(Rb, Ri, S)`. Displacement - immediate or constant; base register - name of register whose value will be the base; index register - value will be scaled and added to the base; scale factor - scales the index register by a specified number - 1, 2, 4, 8.
 
+---
 
+## 9. x86-64 Programming II
+- Load effective address - `lea`. Source operand must be a memory operand; destination operand must be a register operand. Allows us to manipulate addresses rather than dereferencing memory.
 
+```x86
+lea D(Rb,Ri,S), R  # stores Reg[Rb]+Reg[Ri]*S+D in Reg[R]
+```
+
+- Condition codes - status bits of the CPU which give information about the history of instruction executions. Flags are set implicitly and automatically by operations, but can also be done so explicitly - `cmp` and `test`. These only update condition codes and are never stored.
+- `jump` and `set` - implement all control flow.
+- Flags: Carry Flag (CF), Zero Flag (ZF), Sign Flag (SF), and Overflow Flag (OF).
+- `jump` - jump program to a specified target if a condition is met.
+- `set` - set the value of register `dst` (1-byte) to the value of the condition.
+- 
 
