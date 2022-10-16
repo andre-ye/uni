@@ -159,5 +159,48 @@ lea D(Rb,Ri,S), R  # stores Reg[Rb]+Reg[Ri]*S+D in Reg[R]
 - Flags: Carry Flag (CF), Zero Flag (ZF), Sign Flag (SF), and Overflow Flag (OF).
 - `jump` - jump program to a specified target if a condition is met.
 - `set` - set the value of register `dst` (1-byte) to the value of the condition.
-- 
+
+----
+
+## 10. x86-64 Programming III
+- Extension instructions - like `mov`, but the source operand is smaller than the destination operand. Therefore, values can be extended with zero extension (`movz`) or sign extension (`movs`).
+- Conditionals in assembly are made of a condition code instructor and a conditional jump instruction.
+- Operand to jump instruction - label. Symbolic representation of an instruction's address.
+- Loops can be freely introduced into assembly; if the name of the label is used as a target, the program will jump to the instruction.
+- If/Else can be constructed by using labels and jump statements.
+- Jump targets go to the beginning of the loop body to construct loops.
+
+---
+
+## 11. The Stack and Procedures
+- Jump table - data structure used to branch to different parts of the program. Array of pointers - pointers to code blocks.
+- Program counter `%rip` - holds the address of the next instruction.
+- We need to update the program counter in addresses stored in the table with indirect jumps - `jmp *Loc`.
+- The memory address space is arranged to optimize data usage. From low to high addresses:
+  - Instructions
+  - Literals
+  - Static data
+  - Dynamic data (heap)
+  - Stack
+- Stack - takes up the highest useable addresses.
+- End/top of stack is stored in the stack pointer `%rsp`. 
+- The stack pointer can be changed through `subq` and `addq`.
+- `push` and `pop` will allocate and deallocate data from the stack.
+- Calling conventions - rules to guarantee procedures and pass data and control.
+- Return address - address of the caller's next instruction to execute.
+- `call` is a label instruction, will push the return address onto the stack and update the program counter to the address of the label.
+- `ret` will pop the return address of the stack and update the program counter to that address. 
+- Return values are placed in `%rax`.
+
+
+
+
+
+
+
+
+
+
+
+
 
