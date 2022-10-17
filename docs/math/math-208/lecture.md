@@ -142,7 +142,16 @@ Perform Gaussian elimination on the corresponding augmentation matrix. Yes, the 
 - Matrix multiplication is not commutative.
 - Two nonzero matrices can be multiplied to yield the zero matrix.
   - Vectors are perpendicular; the dot product is zero.
-- 
+  
+---
+
+## Week 4 Monday
+- All linear transformations can be represented with matrices.
+- $$\LaTeX: \mapsto`.
+- Let $$T : \mathbb{R}^m \to \mathbb{R}^n$$ such that $$T(c x) = cT(x)$$ and $$T(a + b) = T(a) + T(b)$$. These properties are rare and not true of all maps. Then $$T$$ is a linear transformation.
+- Translation is not a linear transformation - it won't keep the origin at the origin.
+- To construct a transformation, stack column vectors corresponding to the novel positions of the basis vectors from the original space.
+- All vectors are positioned by the given basis vectors, as scaled transformations.
 
 
 
