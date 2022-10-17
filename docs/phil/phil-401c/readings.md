@@ -455,7 +455,8 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
   - Necessary axioms - axioms of pure rationality.
 - Savage's theory - dependence on structure axioms which cannot be reduced.
 - The existence of incommensurable goods leads to incompleteness in an agent's preferences rather than intransitivity.
-- 
+
+---
 
 
 
