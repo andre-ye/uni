@@ -82,9 +82,17 @@ CSE 391
 - `&&` can be used to chain together commands in which commands are executed only if the previous command does not raise an error.
 - `||` will only execute if the previous command fails.
 - `;` - chain together commands regardless of failure or correctness.  
-
-Left off at 8:30
-
+- Some commands don't accept standard input - you can use `xargs` to take standard input and convert it into arguments. For instance, `xargs javac < ls *.java`.
+- `find` - recursively searches all files in the current folder or with the current folder as parent.
+- `$(...)` - command substitution. Command line evaluates the command first.
+- `2>&1` - have standard error go to wherever standard output is.
+- `tee` - prints to the console and saves to the file as well.
+  - e.g. `java printer.java | tee output.txt`
+- `echo` - prints to the terminal.
+- `cut` - helps with indexing, e.g. `-c 4` gets the fourth character in the input.
+  - `-c4-6`, `-c1,3,5`
+  - Cut is usually used to break input strings by delimiters. `-d, -f2`
+- Pipe operators let you get pretty far pretty quick.
 
 
 
