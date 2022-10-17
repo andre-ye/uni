@@ -191,9 +191,12 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 - The utility of an act is the expected utility of its outcomes.
 The act with the highest utility will have the higehst expected utility.
 
-#### 4.4:
+#### 4.4: Allais' paradox
+- Maurice Allais - directed against expected utility theory.
+- 
 
 #### 4.5: 
+- 
 
 #### 4.6: The St. Petersburg Paradox
 - St. Petersburg game: the value can rise reciprocally to the probability such that the expected utility becomes infinite.
