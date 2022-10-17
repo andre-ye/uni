@@ -128,9 +128,33 @@ CSE 351
 - Register - a location in the CPU which stores a small amount of data and which can be accessed very quickly. Registers have names, not addresses. Registers are very important in assembly programming.
 - x86-64 integer registers - 64 bits wide.
 - Moving data - general form of `mov_ source, destination`. More of a copy than a move.
-- 
 
+---
 
+## Week 4 Monday - x86-64 Assembly II
+- Memory addressing - `D(Rb,Ri,S)`. Displacement, base register, index register, scale factor.
+- The scaling factor matches to the data type that we want (`char`, `short`, `int`, `long`)
+- Parallel with `*(ar + i * sizeof())`
+- We can dereference just with `(%reg)` - if ommitted, every field has a default value. 
+- `leaq src, dst` - load effective address. We don't always want to dereference; sometimes we want to manipualte addresses. No dereference / memory access.
+- To translate C programs into Assembly, rewrite such that operations are done only as modifications to existing variables.
+- `lea` stops at the address, whereas `mov` dereferences it.
+- We can 'cheat' and use `lea` to perform arithmetic. 
+- Jump statements can be used to develop control flow.
+
+```
+if not: jump to b
+do something
+jump to z
+b: do something
+z: ...
+```
+
+- Conditional branches and unconditional branches (jump) allow us to implement all control flow. Condition codes allow us to do this.
+
+---
+
+## Week 4 Wednesday - x86-64 Assembly III
 
 
 
