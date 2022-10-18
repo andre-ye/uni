@@ -53,6 +53,14 @@ CSE 391
 - Forward slash - helpful way to searcht rogh file.
 - Sort 
 - Redirect into outputs with `>`
+
+---
+
+## Week 4
+- `uniq` only removes duplicates when they're next to each other - make sure to pipe through `sort` before `uniq`.
+- Command substitution
+- `stdout | tee name.txt` prints out and to a file.
+- `cut` - accept delimeter and field (one-indexed)
 - 
 
 
