@@ -192,11 +192,20 @@ $$(u \circ t)(\pi) \succcurlyeq t(\pi) \succcurlyeq (t\circ t) (\pi)$$
 The act with the highest utility will have the higehst expected utility.
 
 #### 4.4: Allais' paradox
-- Maurice Allais - directed against expected utility theory.
-- 
+- Maurice Allais - directed against expected utility theory and certain axioms used in its axiomatization.
+- There is no utility function such that maximizing utility is consistent for preferring Gamble 1 over Gamble 2 and Gamble 4 over Gamble 3. The relative utility is the same.
 
-#### 4.5: 
-- 
+![image](https://user-images.githubusercontent.com/73039742/196567807-bb2adf0e-7666-4e35-b24a-34d36af06882.png)
+
+- Savage's point: states which are the same should be ignored.
+- Shows that guarantees can lead to violations of the independence axiom.
+
+#### 4.5: Ellsberg's Paradox
+- Daniel Ellsberg
+- Urn contains 90 balls, 30 red and 60 black or yellow balls. Should you choose a gamble for 100 if the red ball is drawn or if the black ball is drawn? Then, what about if a red or yellow ball is drawn vs if a black or yellow ball is drawn?
+- Shows that knowledge about probabilities can lead to violations of the independence axiom.
+
+> "The Ellsberg paradox arises because we wish to avoid epistemic uncertainty about probabilities, whereas the Allais paradox arises because we wish to avoid uncertainty about outcomes."
 
 #### 4.6: The St. Petersburg Paradox
 - St. Petersburg game: the value can rise reciprocally to the probability such that the expected utility becomes infinite.
@@ -247,9 +256,29 @@ The act with the highest utility will have the higehst expected utility.
 - Moments of utility. The more an agent wants to experience a moment, the higher the moment's utility. 
 - Archimedean condition: even if one moment is preferred over an other, it can be outweighted by a sufficient large number of dispreferred moments.
 
-### Chapter 14:
+### Chapter 14: Overview of Descriptive Decision Theory
 
+#### 14.1. Observed Violations of the Expected Utility Principle
+- We can empirically observe violations of EUP for various certainties.
+- Certainty is important: probability is variable.
+- Reflection effect: a preference for certain gains is often the complement of aversion to certain losses.
+- Gamblers violate EUP.
 
+#### 14.2: Prospect Theory
+- Kahneman & Tversky - descriptive theory of decisions under risk, Prospect Theory.
+- EUP should be modified by introducing a weighting function for value and another for probability.
+- Prospect theory can be used to provide precise predictions about choice strategies.
+
+#### 14.3: Violations of Transitivity and Completeness
+- Other fundamental principles of rational choice are also often violated.
+- Many students state cyclic preferences, violating transitivity. 
+- Some preferences are essentially probabilistic.
+
+#### 14.4. The Relevance of Descriptive Decision Theory
+- People are irrational.
+- No normative conclusion can be derived from purely descriptive / factual premises. 
+- Descriptive theory can be valauble ffor other purposes. 
+- Assertion - any plausible normative thoery must provide prescriptions people can follow.
 
 ---
 
