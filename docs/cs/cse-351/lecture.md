@@ -155,7 +155,26 @@ z: ...
 ---
 
 ## Week 4 Wednesday - x86-64 Assembly III
-
+- `movz` and `movs` - zero extension and sign extesnion, copies from a smaller source to a larger destination.
+- Any instruction which generates a 32-bit (long, 4 bytes) value will zero out the upper portion of the register to zero.
+- GDB
+  - Start with `gdb <file>`.
+  - Set breakpoints - stop things and look around.
+  - `break main`
+  - `asm` - shows the assembly code
+  - `layout regs`
+  - `run` - allows you to run until the breakpoint.
+  - `stepi` - move to the next assembly instruction.
+  - `print` - can print out the values of registers, add format specifiers to convert to hex.
+  - `x` will dereference.
+- Condition codes -c ount as part of the processor state. These need to be known to understand execution. We will look at `CF, ZF, SF, OF` - `F` stands for flag (zero or one). Other letters - carry, zero, sign, overflow.
+- Condition codes will update after every operation.
+- `lea` does not change the condition codes.
+- Subtraction isa also infuenced as nh==hrardware residingi n software.
+- Labels - a jump changes the program counter (`%rip` - tells CPU the address of the enxt instruction). Every instruction has an address.
+- Labels are placeholders for an instruction defined later on.
+- C has a `goto` method which replicates labels.
+- In loops, we want to identify when the condition is false to determine when to exit.
 
 
 
