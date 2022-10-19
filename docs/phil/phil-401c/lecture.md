@@ -160,7 +160,24 @@ Maybe
 - Normative argument for the independence axiom - dutch book.
 - Rationality in normative theory does not necessarily contribute to decision theory as a descriptive theory.
 - Normativ erationality with vNM: preferences satisfy the completeness accent; empirically preferences follow continuity; our preferences should satisfy transitivity and independence for the skae of rationality. By vNM, we should act like we are choosing outcomes as if we were maximizing expected utility. This is invalid. 
-- 
+
+---
+
+## Week 4 Wednesday
+- Why shold a decision maker behave as if they maximized expected utility?
+- Importance of as-if. Could reconstruct behavior as if you maximized expected utility.
+- Why behave as if you assign numerical utilities to options? vNM - if options are roulette lotteries. Why assign subjective probabilities? Anscombe and Aumann's theorem can help us answer the second or third questions.
+- Why should beliefs be represented by probabilities?
+- Even if we should act like EU maximizers, does anyone really act like it? - Sometimes not.
+- St. Petersberg Paradox
+- Money has diminishing marginal utility - people do not behave as expected monetary value optimizers.
+- Monetary loss incurs a steep drop in utility.
+- Don't people still maximize utility even given diminishing marginal value of utility?
+- Prospect - prizes and associated probabilities.
+- Regular prospect - has a possibility of zero, or there is heterogeneity in the rewards in terms of loss / gain.
+- Value of regular prospect - weighted sum.
+- Irregular prospect - sum to one or homogenous
+- Prospect theory as normative?
 
 
 
