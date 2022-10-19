@@ -153,7 +153,19 @@ Perform Gaussian elimination on the corresponding augmentation matrix. Yes, the 
 - To construct a transformation, stack column vectors corresponding to the novel positions of the basis vectors from the original space.
 - All vectors are positioned by the given basis vectors, as scaled transformations.
 
+---
 
+## Week 4 Wednesday
+- Linear transformations - mappings between Euclidean spaces.
+- All linear transformations can be written as matrix transformations - this is the complete class of linear transformations.
+- We can prove this by writing properties as a matrix.
+- You can construct a linear transformation just by understanding how the unit basis vectors are transformed.
+- You can invert a linear transformation by setting up a system of equations.
+- There is nothing sacred about our standard Euclidean space
+  - e.g. Fourier series - working with sinusoidal waves as the basis space
+- Rotation - arbitrary degrees.
+- Matrix operations are not always commutative - order matters.
+- Function composition - you can repeatedly multiply by different matrices to obtain a composite effect.
 
 
 
