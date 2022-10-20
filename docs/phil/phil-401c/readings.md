@@ -490,10 +490,22 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 
 ---
 
+## *Preference, Value, Choice, and Welfare*, Hausman
+ 
+### Chapter 1: Preferences, Comparative Evaluations, and Reasons
+- Four preference concepts:
+  - Enjoyment comparisons
+  - Comparative evaluations
+  - Favoring.
+  - Choice ranking.
+- Folk psychology - a theory used to explain and rationalize human actions in terms of beliefs and desires.
 
+> Among those philosophers who grant that beliefs and desires help explain actions, most would argue that taking actions to be merely the causal consequence of beliefs, desires, and constraints falsifies the character of rational deliberation.
 
-
-
+- Deliberation forces decision-makers to regard values as realities.
+- Beliefs are linked to reasons.
+- Preferences function as reasons for actions. Theories of choice which attempt to identify reasons for choice must be theories of rational choice.
+- pg. 23
 
 
 
