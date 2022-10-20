@@ -130,8 +130,18 @@ A set of vectors is linearly independent iff the homogenous linear system $$Ax =
 - A transformation is one-to-one iff columns of $$A$$ are linearly independent.
 - A linear transformation must be represented as a matrix multiplication.
 - Linear transformations transform lines in the domain to lines in the range.
-- 
 
+### Section 3.2: Matrix Algebra
+- Two matrices are equal if they have the same size and if their entries are all individually equal.
+- $$AB = [AB_1 \vert AB_2 \vert \hdots \vert AB_m]$$
+- Each cell in the resulting matrix is the dot product of the appropriate row and column of the argument matrices.
+- Identity matrices - do not affect the result.
+- Matrix multiplication is not necessarily commutative.
+- The zero product property does not necessarily apply to matrix multiplication.
+- Tranpose of a matrix - interchanging the rows and columns.
+- $$(AC)^T = C^T A^T$$.
+
+Page 115
 
 
 
