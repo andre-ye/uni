@@ -191,9 +191,9 @@ lea D(Rb,Ri,S), R  # stores Reg[Rb]+Reg[Ri]*S+D in Reg[R]
 - `call` is a label instruction, will push the return address onto the stack and update the program counter to the address of the label.
 - `ret` will pop the return address of the stack and update the program counter to that address. 
 - Return values are placed in `%rax`.
-
-
-
+- We want to support instantiation of individual procedures to enable recursion.
+- Stack frames - hold the local state of each procedure instantiation.
+- LIFO stack - the caller's stack frame cannot be deallocated until the calee's stack frame is.
 
 
 
