@@ -505,8 +505,30 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - Deliberation forces decision-makers to regard values as realities.
 - Beliefs are linked to reasons.
 - Preferences function as reasons for actions. Theories of choice which attempt to identify reasons for choice must be theories of rational choice.
-- pg. 23
+- Preferences are rankings which express total subjective comparative evaluations.
+- Problems:
+  - Arbitrariness
+  - Self-interest
+  - Revealed preference.
+  - Division of theoretical labor.
+  - Welfare as preference satisfaction.
 
+### Chapter 2: Preference Axioms and Their Implications
+- Ordinal utility theory - core of positive economic theory.
+  - Completeness - preferences exist for all pairs of items
+  - Transitivity
+- Are these axioms claims about people's choices or of rationality itself?
+- Ordinal representation theorem - when people's preferences obey certain rational axioms, they can be represented by a continuous utility function.
+- How does a utility function represent preferences? Utility is merely an indicator.
+- Choice determination - Agents will choose the top-ranked choice by preference.
+  - Implies consistency in behavior.
+- Context independence - preference is stable across contexts.
+- Preferences are always comparative - they do not express information about 'objective' or 'absolute' desire.
+- Axioms place large cognitive burdens on agents: finding out preferences is seriously difficult.
+- Axioms of ordinal utility theory do not tell us what people prefer.
+- Axioms governing preferences can be read as conditions for rational choice.
+- Economists regard ordinal utility theory as a fragment of positive theory.
+- page 36. 
 
 
 
