@@ -176,7 +176,35 @@ z: ...
 - C has a `goto` method which replicates labels.
 - In loops, we want to identify when the condition is false to determine when to exit.
 
+---
 
+## Week 4 Friday - x86-64 Assembly
+- Instructions themselves are data stored in memory
+- Jump table - structure used to store code blocks.
+- Ordering code blocks allows for fall-through.
+- If cases are not shown, they go to the default case.
+- The jump table is only as large as it needs to be.
+- Direct jump - `jmp .L9`, indirect jump: `jmp *.L4(,%di,8)`. Start of jump table at `.L4`, must scale by factor of 8, fetch target at EA `.L4 + x*8`.
+- How are programs created and executed on a CPU?
+- Subtracting the stack pointer increases the stack size
+- `rax` - return pointer
+- `callq memset` - pushes the return address onto the stack, changing `%rsp`.
+- `rip` - instruction pointer, updated all the time.
+- Mechanisms required for procedures - passing control, passing data, managing memory.
+- Stack - high addresses in the address space. Local variables and procedure context.
+- Heap - dynamic data, variables allocated with `new` or `malloc`.
+- The stack is managed automatically by the compiler; the heap is maanged dynamically by the programmer; the static data, literals, and instructions remain static in memory.
+- Segmentation fault - impermissible memory access, valid memory addresses accessed in ways which are not allowed (e.g. overwriting instructions in code).
+- Growing goes down; shrinking goes up.
+- `push` and `pop` are multi-part instructions.
+- When you `pop`, the bits are still there but the stack no longer contains that data.
+- Calling convention - where to leave or find things
+- After calling `call`, the return address is the instruction immediately after the call instruction.
+- Procedure return - `ret`. Pop the returned address from the stack and jump to it.
+- The first 6 arguments are stored in registers; the seventh onwards are stored in the stack / memory. 
+- Languages support recursion with the stack. 
+- Code must be re-entrant - it can be instantiated in many places in the same instantiation.
+- Frames - get put out but not removed immediately always
 
 
 
