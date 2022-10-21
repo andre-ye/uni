@@ -528,10 +528,15 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - Axioms of ordinal utility theory do not tell us what people prefer.
 - Axioms governing preferences can be read as conditions for rational choice.
 - Economists regard ordinal utility theory as a fragment of positive theory.
-- page 36. 
+- How do economists understand preference?
+- Revealed preference - preference as choice ranking.
+- 'Usual sense' of preference - betterness.
+- Expected advantage rankings - partial comparative evaluations of alternatives
+- Don't conflate choice rankings and expected advantage rankings.
+- Expected advantage is not a tenable meaning of preference, given that we often have many other motivations - harm, malice, and so on.
+- Theory of revealed preference!
 
-
-
+### Chapter 3: Revealed-Preference Theory
 
 
 
