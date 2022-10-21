@@ -140,10 +140,13 @@ A set of vectors is linearly independent iff the homogenous linear system $$Ax =
 - The zero product property does not necessarily apply to matrix multiplication.
 - Tranpose of a matrix - interchanging the rows and columns.
 - $$(AC)^T = C^T A^T$$.
-
-Page 115
-
-
+- A matrix is symmetric if it is equal to its transpose.
+- We get the same result regardless of how we organize products.
+- Diagonal matrix - only values along the diagonal axis. Raising these matrices to powers amounts to a per-element powering
+- Triangular matrices remain triangular after being raised to a pwoer.
+- We can perform any row operation by operating on the identity matrix (yielding an elementary matrix), then multiplying the identity matrix by the new matrix.
+- Matrices can be partitioned.
+- 
 
 
 
