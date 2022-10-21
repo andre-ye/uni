@@ -152,6 +152,7 @@ A set of vectors is linearly independent iff the homogenous linear system $$Ax =
 - The inverse of a linear transfomration is also a linear transformation.
 - The inverse of $$B$$, $$A$$, is such that $$AB = I_n$$. Then, $$BA = I_n$$.
 
+page 113
 
 
 
