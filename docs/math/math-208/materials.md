@@ -146,8 +146,11 @@ A set of vectors is linearly independent iff the homogenous linear system $$Ax =
 - Triangular matrices remain triangular after being raised to a pwoer.
 - We can perform any row operation by operating on the identity matrix (yielding an elementary matrix), then multiplying the identity matrix by the new matrix.
 - Matrices can be partitioned.
-- 
 
+### Section 3.3: Inverses
+- A one-to-one and onto linear transformation pairs each vector in the domain to each vector in the codomain; the inverse is a pairing from the codomain to the domain.
+- The inverse of a linear transfomration is also a linear transformation.
+- The inverse of $$B$$, $$A$$, is such that $$AB = I_n$$. Then, $$BA = I_n$$.
 
 
 
