@@ -537,7 +537,27 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - Theory of revealed preference!
 
 ### Chapter 3: Revealed-Preference Theory
+- How to understanding preference rankings? Rankings are choices or self-interested benefits.
+- Gul & Pesendorfer - Utility maximization and choice are essentially synonymous.
 
+> Economists who maintain that preferences are revealed by choices are more concerned with making inferences about preferences from data concerning choices than with how preference should be defined.
 
+- What is meant by revealed preference?
+- "Actual revealed-preference theory" - preferences are observed through observable choices.
+- "Hypothetical revealed-preference theory" - would an agent choose $$x$$ over $$y$$, even if they never actually encountered it? Preferences are made in a hyptothetical state.
+- Choices are evidence of preferences - we can infer preferences from choices.
+- Belief-dependent revealed-preference: preferences cannot be defined in terms of choices, but by choices and beliefs.
+- Actual revealed-preference theory
+  - Preferences are identified with actions. 
+  - Weak axiom of revealed preference: if two actions are alternatives in a set but only one is the choice set, then there is no other set containing both alternatives where the other alternative is in the choice set.
+  - Revelation Theorem: WARP implies that a relationship is complete, transitive, and that it implies the agent's choice.
+  - Can we just dispense with preference altogether? Anything economists need to say about behavior can e explained in terms of choice.
+- Critique of actual revealed-preference theory
+  - Implied: when there is no choice, there is no preference.
+  - Preferences are limited to only choosable alternatives.
+- Preferences influence choices through beliefs: we cannot just look at the choice set and make an optimal decision inference (Romeo).
+- Why not redefine preferences in terms of choice?
+
+pg. 45
 
 
