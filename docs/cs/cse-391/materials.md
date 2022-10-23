@@ -94,6 +94,40 @@ CSE 391
   - Cut is usually used to break input strings by delimiters. `-d, -f2`
 - Pipe operators let you get pretty far pretty quick.
 
+---
+
+## Week 4
+
+### Introduction to Git
+- Git - version control software.
+- How to work with partners?
+- Repository - a location which stores a copy of all files. What should be in a file? Source code files, build files, images, general resource files - but not executables and object files.
+- Everyone working on the project has a complete version of the repository.
+- Remote repository - a central repository hosted on services like GitHub
+- `README.md` is the standard documentation.
+- `.git` subdirectory - the 'actual' repository, manages the state of the repository for us.
+- `git status` - updates us about the state of changes.
+- `git stage` - get ready to take a snapshot of the repository.
+- `git commit` - create a snapshot of the repository.
+- `git push` - push to remote repository
+
+### Four Phases of Git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
