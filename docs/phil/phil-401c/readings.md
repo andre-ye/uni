@@ -557,7 +557,26 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
   - Preferences are limited to only choosable alternatives.
 - Preferences influence choices through beliefs: we cannot just look at the choice set and make an optimal decision inference (Romeo).
 - Why not redefine preferences in terms of choice?
+- Beliefs mediate how choices and preferences relate to each other.
+- Hypothetical Revealed-Preference Theory: define preferences in terms of hypothetical worlds. Abandon empricist ideals. But is it still too restrictive? Preferences range more widely than just hypothetical choices.
+  - Are hypothetical choices even choices?
+- Beliefs must be part of analysis.
+- Belief-dependent revealed preferences: inferences about preferences can be drawn from choices given premises about belief.
+- Preferences are subjective states which cause and justify behavior.
 
-pg. 45
+### Chapter 4: Preferences, Decision Theory, and Consequentialism
+- Preferences - entail a complete and transitive ranking (according to ordinal utility theory).
+- Prescriptive usage of 'preference' in economics.
+- Preferences - understood as total subjective rankings as opposed to choice rankings to relate choices to beliefs.
+- Standard model of choice - choices depend on preferences, beliefs, and facts.
+- Expected utility theory: preferences are calculated directly from beliefs about state probabilities.
+- EUT says nothing about causation, even though relations can be understood as typically causal. 
+- Expected utilities represent preferences, but nothing about what determines them.
+- EUT does not need to imply how preferences are formed, but applications do provide us insight into how preferences are formed too.
+- A model of choice is consequentialist iff the agent's final preferences come from beliefs and preferences, and choices causally depend on the beliefs and final preferences.
+- Consequentialism - explains and predicts final preferences.
+- Multi-attribute utility theory - consequentialist. Actions and consequences are attribute bundles.
+- How to understand what preferences are?
+- 
 
 
