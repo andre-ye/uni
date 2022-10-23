@@ -223,9 +223,17 @@ lea D(Rb,Ri,S), R  # stores Reg[Rb]+Reg[Ri]*S+D in Reg[R]
 ---
 
 ## 14. Structs and Alignment
+- A struct in C is a structured group of variables with various fields.
+- Purpose of a struct definition is to define the size and layout of a struct.
+- Fields are accessed using `.` or `->` for pointers. 
+- `typedef` - allows you to create aliases to other data types, e.g. `typedef unsigned int uint;`.
+- A primitive object is aligned if its address is a multiple of its size.
+- Unused space between fields - internal fragmentation.
+- External fragmentation: the overall size of a struct also must follow alignment requirements.
 
+4 + 6 + 1 + 4
 
-
+4 + 4 + 8 + 4
 
 
 
