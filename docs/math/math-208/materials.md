@@ -151,9 +151,14 @@ A set of vectors is linearly independent iff the homogenous linear system $$Ax =
 - A one-to-one and onto linear transformation pairs each vector in the domain to each vector in the codomain; the inverse is a pairing from the codomain to the domain.
 - The inverse of a linear transfomration is also a linear transformation.
 - The inverse of $$B$$, $$A$$, is such that $$AB = I_n$$. Then, $$BA = I_n$$.
+- A transformation can only have an inverse if the domain and codomain are of the same dimensionality.
+- A matrix which is invertible is nonsingular. A matrix which does not have an inverse is singular.
+- How to compute the inverse of a matrix? Begin with $$\[A \vert I_n \]$$ and transform to $$\[ I_n \vert A^{-1} \]$$.
+- Invertibility is related to solutions of linear systems: if a matrix does not have an inverse, then Gaussian elimination will yield at least one zeroed row-vector, and indeed there is a multiplicity of solutions here.
+  - The following statements are equivalent: $$A$$ is invertible, $$Ax = b$$ has a unique solution $$\forall b$$, $$Ax = 0$$ has only the trivial solution (i.e. column vectors are linearly independent).
+- The 2-by-2 matrix has a quick formula: $$A$$ has an inverse when $$ad - bc \neq 0$$ and is given by
 
-page 113
-
+$$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 
 
 
