@@ -195,6 +195,50 @@ lea D(Rb,Ri,S), R  # stores Reg[Rb]+Reg[Ri]*S+D in Reg[R]
 - Stack frames - hold the local state of each procedure instantiation.
 - LIFO stack - the caller's stack frame cannot be deallocated until the calee's stack frame is.
 
+---
+
+## 12. Procedures and Recursion
+- Stack frame - has a return address marking the beginning of the stack frame.
+- Arguments 7+ are part of the caller's argument, put on the stack before `call`.
+- x86-64 Register Saving Conventions - describe how we deal with register reuse.
+- Registers are callee-saved or caller-saved.
+  - Callee-saved: callee's responsibility to restore the old value before returning.
+  - Caller-saved: the caller must save the existing state before it passes control to the callee. The old value is restored after the callee returns.
+- Recursion works without additional work due to the stack frame layout.
+
+---
+
+## 13. Executables, Arrays
+- CALL: compile, assemble, link, load.
+- Compiler: translate a text file (bytes interpreted as characters) into an assembly text file.
+- Assembler - convert assembly code into a binary object file.
+  - Object code: 'incomplete', we do not have addresses for labels yet.
+- Linker - put together the object and static library files.
+- Loader - take an executable file and start a running process from it.
+- Arrays in assembly: the name is a placeholder for the starting address of the array.
+- Array subscript notation is sugar for address dereferencing.
+- C uses row-major ordering for multidimensional arrays.
+- Multilevel arrays are created by adding additional levels of arrays of pointers to arrays.
+
+---
+
+## 14. Structs and Alignment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
