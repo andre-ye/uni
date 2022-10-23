@@ -112,11 +112,28 @@ CSE 391
 - `git push` - push to remote repository
 
 ### Four Phases of Git
+- Phases
+  1. Working directory
+  2. Staging Area / Index
+  3. Local repository
+  4. Remote repository
+- `git stage` or `git add` - move into the staging area.
+- `git commit` - move from the staging area to the local repository.
+- `git push` - move from the local repository to the remote repository.
+- `git status` - tells us about the state of the working directory.
+- `git log` - tells us about the interaction between the staging area and the local repository.
+- Each commit has a unique identifier.
+- What is the point of a staging area? Why use an intermediate step? Git makes us be deliberate about the changes we want to make, we have to manage the history.
+- Only changes which are staged get stored into the local repository during the commit. This allows you to group many different changes and push them all at once.
 
-
-
-
-
+### Git Practice
+- Git doesn't work on files, it works on diffs - changes from one file to another.
+- Commits are groups of diffs
+- Just typing `git commit` will open up `vim` to provide a message - can provide a message and a longer body, too.
+- `git pull` - automatically merges repositories such that the repository can be pushed.
+- Git histories often aren't linear: need to be repeatedly separated and merged. These are recorded all by git.
+  - `git log --decorate --all --graph`
+  
 
 
 
