@@ -179,6 +179,34 @@ Maybe
 - Irregular prospect - sum to one or homogenous
 - Prospect theory as normative?
 
+---
+
+## Week 5 Monday
+- Last class - violations of EUT from the perspective of a normative theory.
+- The Ellsberg paradox - people's preferences are inconsistent with EUT, but really decision making under ambiguity.
+  - Urns and balls
+  - Ambiguity - there are objective probabilities but they are not known to the decision maker.
+  - We end up choosing certain probabilities even when they are inconsistent with EUT.
+- Decision making under uncertainty - choosing between horse lotteries, subjective probabilities.
+  - Objective probabilities don't exist.
+- Next up - _philosophy_ philosophy.
+- _Should_ one behave as if they are an expected utility maximizer? To be rational, one must maximize one's subjective expected utility.
+  - Subjective probabilities - personal likelihoods attached to states
+  - Utility - strength of preference
+- To be rational is to maximize the expected satisfaction of one's preferences.
+- Why not maximize other things?
+  - Value
+  - Welfare
+  - Interest
+- What is the relationship between preferences, values, welfare, interests?
+- How do we measure these things?
+- Value and choice - how direct is the line?
+- Economic theory - preferences are revealed by choices.
+- Chernoff's condition / Sen's alpha - independence of irrelevant alternatives. Even if your option set is contracted, you should still choose the best option you would have chosen before.
+- Menu depedence
+- Cocaine and tea - the addition of cocaine affects your decision.
+- The addition of an option adds new information which changes our understanding about the thing itself.
+- We also see the Chernov Condition violated in plurality voting.
 
 
 
