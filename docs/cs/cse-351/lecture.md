@@ -206,9 +206,21 @@ z: ...
 - Code must be re-entrant - it can be instantiated in many places in the same instantiation.
 - Frames - get put out but not removed immediately always
 
+---
 
-
-
+## Week 5 Monday - Stack Frames and Processes
+- The return address is part of the callee's stack frame for the purposes of this class' calling conventions.
+- `%rbp` - sometimes used as the frame pointer, store the last stack frame's version. `%rsp` - stack pointer.
+- The return address is already pushed on the stack when we begin defining a process.
+- We need to deallocate our space after we allocate space.
+- Minimal stack frame - just 8 bytes given by the return address.
+- The stack pointer should be pointing at the return address by the time that `ret` is called; all modificatios to `rsp` need to be oundone.
+- 16 registers are being saved by all applications. 
+- - Who is responsible for saving and returning original values? Caller-saved and callee-saved, a combination of both are used.
+- Register usage: `%rax`, arguments, `%r10` & `%r11` for caller; others are callee-saved.
+- Complications emerge for intermediate functions which are both callers and callees.
+- Why bother with only caller or callee saved? In certain edge cases, using both can help with stack efficiency.
+- 
 
 
 
