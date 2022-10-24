@@ -167,6 +167,36 @@ Perform Gaussian elimination on the corresponding augmentation matrix. Yes, the 
 - Matrix operations are not always commutative - order matters.
 - Function composition - you can repeatedly multiply by different matrices to obtain a composite effect.
 
+---
+
+## Week 5 Monday
+- Linear transformation - a map from one Euclidean space to another. Sends a vector $$x$$ to $$Ax$$, where $$A$$ is some matrix.
+- The set of matrices $$n \times m$$ is exactly the same set of linear transformations $$\mathbb{R}^m \mapsto \mathbb{R}^n$$.
+- Matrices as equations and linear transformations
+- A linear combination represented as a matrix can be derived by understanding where the various basis vectors go to.
+- You can derive function compositions by multiplying matrices.
+- The range is everything in the codomian which can be reached by the linear transformation $$T$$ from the domain.
+- The range of a linear transformation given by a matrix is the span of the column vectors.
+- The range is equal to the codomain only if there is a pivot in every row of the echelon form matrix form of $$\[A \vert b \]$$.
+- A function is one-to-one if $$(T(x) = T(y)) \implies (x = y)$$
+- Projection - decreasing dimension
+- Bijection does not imply surjection
+- Isomorphism - you can have a forwards and backwards map between two sets.
+- To check if something is one to one, assert that the transformation forces two vectors to be mapped to the same point given an input.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
