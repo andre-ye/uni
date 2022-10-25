@@ -61,8 +61,21 @@ CSE 391
 - Command substitution
 - `stdout | tee name.txt` prints out and to a file.
 - `cut` - accept delimeter and field (one-indexed)
-- 
 
+---
+
+## Week 5
+- `git status` keeps you updated on the state of the repository.
+- If you're not in a git repo, you're going to get a fatal error.
+- `git add` and `git stage` do the same thing.
+  - `git add .` adds everything.
+- `git diff` - show differences.
+  - `git diff --staged`, shows differences between current repository and the local staging area
+- When you commit, you only commit to your local repository. `git commit -m "..."`.
+  - Alternative: just typing `git commit` opens up the default text editor where you can type a more in-depth message.
+  - When completed, save and quit.
+- `git status` is focused on tracking files, `git log` is focused on tracking commits.
+- `git diff --staged`
 
 
 
