@@ -577,6 +577,68 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - Consequentialism - explains and predicts final preferences.
 - Multi-attribute utility theory - consequentialist. Actions and consequences are attribute bundles.
 - How to understand what preferences are?
-- 
+
+---
+
+## "Mentalism versus Behaviorism in Economics", Deitrich & List
+- Behaviorism - preferneces, beliefs, and other mental states are constructs redescribing choice / behavior.
+- Mentalism - preferences, beliefs, mental states capture real phenomena.
+- Mental states are ascribed from choices in economics, according to a commonly used paradigm.
+- Economic DT can be interpreted as a more scientific reconstruction of folk psychology.
+- How to understand ascribed mental states? Are they redescreiptions of behavioral patterns or representations of real psychological phenomena?
+- Deitrich & List suggest the altter.
+- Behaviorism used to be dominant, but has since been replaced by mentalism.
+
+### 2. The Case for Mindless Economics
+- Three claims made by Gul & Pesendorfer:
+  - The only evidence used to test economic theories is evidence about people's choices
+  - The content of any economic theory is solely its behavioral implications
+  - An economic theory should specify choice behavior
+- Psychological behaviorism - behavior should be explained solely on the basis of behavioral evidence.
+
+### 3. Four Misconceptions
+- Misconception of a fixed evidence base
+  - Why should the evidential base of economics be restricted to choice behavior?
+- Evidence / content conflation
+  - Assume the evidential base was restricted to observable choice
+  - Why should the content of economic theory consist solely of choice implications?
+- Unobservable therefore nonexistent fallacy
+- Maximization digma
+  - Why should theories of economic behavior be necessarily premised upon maximization?
+
+### 4. A Primer on the Philosophy of Science
+- Theory - a theory is a set of sentences closed under implications and expressible as the implications of a finite set of axioms.
+  - Interpreted theory - endowed with an intended interpretation.
+- Semantic interpretation - assignment of truth-values to sentences in the language.
+- Model - a semantic interpretation in which all sentences are true.
+  - A world consistent with the theory.
+- 'Thin' interpretation - most well-defined models are admissible; 'thick' - a single concrete model is considered admissible.
+- Empirical adequacy - sentences describing empirical observations are part of a theory.
+  - Not the same as the truth of a theory.
+  - Correspondence theory - a theory is ture if it matches reality and its underlying unobservable features.
+- Ontological commitments - minimally committed objects, properties, relations in all models.
+  - Admissible models do not need to be isomorphic.
+- Underdetermination of theory by evidence - there can be multiple logically incompatible theories which satisfy observable implications.
+- The question of what our evidence for a theory is is not to be conflated with what a theory's ontological commitments are.
+
+### 5. Two Kinds of Revealed Preference Approaches
+Page 17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
