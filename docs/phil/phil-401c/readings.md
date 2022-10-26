@@ -622,9 +622,17 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - The question of what our evidence for a theory is is not to be conflated with what a theory's ontological commitments are.
 
 ### 5. Two Kinds of Revealed Preference Approaches
-Page 17
-
-
+- One approach to revealed preference - epistemological; the other - ontological.
+- Epistemological revealed preference - body of evidence is restricted to agent's choice behavior.
+- Ontological revealed preference - we are restricted to choices and behavioral patterns, excluding mental states.
+- Ontoloigical thesis - apparently harder to defend than the epistemological thesis. 
+- Behaviroism holds that if a theory if committed to functions representing belief, they are instrumental but not real. 
+- It is not necessary to ask whether an entity exists after it has been established as an ontological commitment.
+- Mental states are states which play a certain role for an agent.
+- Choice behavior leads towards underdetermination.
+- Paramorphic model - describes the empirical phenomena correctly; homeomorphic - paramorphic but also internally correct.
+- Supervenience implies explanatory reducibility fallacy
+- 
 
 
 
