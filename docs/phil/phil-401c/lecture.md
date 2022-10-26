@@ -208,9 +208,27 @@ Maybe
 - The addition of an option adds new information which changes our understanding about the thing itself.
 - We also see the Chernov Condition violated in plurality voting.
 
+---
 
-
-
+## Week 5 Wednesday
+- Past two weeks - studied arguments for normative EUT (to be rational, a decision maker must maximize subjective expected utility.
+- Utility should represent a single decision maker's strength of preference.
+- This implies that we should be preference maximizers.
+- What is a preference?
+- Descriptive questions:
+  - How do preferences influence choice behavior?
+  - How do we determine what a decision-maker prefers and the strength of preferences?
+- Normative questions:
+  - Does rationality require maximizing something other than preference?
+  - Are third parties required to help a decision maker from maximizing their preferences?
+- Logical positivism - movement in the 1920s in Europe and the United States. Core tenet - the verification theory of meaning. The meaning of a sentence is the set of conditions under which the sentence would be true; that is, its verification conditions (verification principle of meaning).
+- What is the meaning of words?
+- Logical positivists get a bad rap in the history fo science.
+Logical positivism renders a lot of discourse as meaningless - people think about a lot of things which are in fact meaningless. We could avoid political conflict if we just got clearer on particular ideas.
+- Behaviorism - mental states are states of behavior.
+  - Feelings are demonstrable by different behaviors.
+- Revealed Preference Theory - some versions are equivalent to behaviorism.
+- 
 
 
 
