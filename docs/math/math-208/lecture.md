@@ -184,7 +184,23 @@ Perform Gaussian elimination on the corresponding augmentation matrix. Yes, the 
 - Isomorphism - you can have a forwards and backwards map between two sets.
 - To check if something is one to one, assert that the transformation forces two vectors to be mapped to the same point given an input.
 
+---
 
+## Week 5 Wednesday
+- Range and span
+- A transformation is onto if the range is equal to the codomain.
+- A linear transformation represented by $$A$$ is onto if there is a pivot in every row in the echelon form.
+  - Equivalent to do the column vectors span the range.
+- A vector is bijective if it has a pivot on in every column.
+- Kernel of the matrix - the set of solutions to $$At = 0$$.
+- All points parallel to the kernel are mapped to the same value in the codomain.
+- To be one to one, then the krnel must be the origin - there's nothing to collapse. $$At = 0$$ to test.
+- If the domain is higher in dimensionality than the codomain, the kernel is always nonzero.
+- Bijective and surjective: reflection across $$x$$-axis
+- Not bijective and not surjective: send all to the origin
+- Bijective but not surjective: not possible.
+- Not bijective but surjective: not possible.
+- 
 
 
 
