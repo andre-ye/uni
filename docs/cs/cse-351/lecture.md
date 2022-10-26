@@ -220,7 +220,29 @@ z: ...
 - Register usage: `%rax`, arguments, `%r10` & `%r11` for caller; others are callee-saved.
 - Complications emerge for intermediate functions which are both callers and callees.
 - Why bother with only caller or callee saved? In certain edge cases, using both can help with stack efficiency.
-- 
+
+---
+
+## Week 5 Wednesday - 
+- Every stack frame has a return address.
+- `backtrace` - tells you what your current stack looks like. Begins from the most recent call down.
+- `info frame <framenum>` - frame 0 by default.
+- ISC vs RISC. With CISC, we want to m=maximizze
+- Tech monpolization
+- Executables - how are programs created and executed on a CPU? How does it become something that the computer can understand?
+- CALL - compiler, assembler, linked, loader
+- Assembler - accept the compiled assembly code and output a binary machine code object file. Object/machine code.
+- Assembly directives - `.text`, `.data`, `.quad`, etc.
+- Two information tables - symbol table and relocation table.
+- ELF format.
+- `a.out` - gcc's default executable name.
+- Linking stitches together multiple object files.
+- Disassembly - how to examin object code? `objdump -d sum`. How to interpret the output? Comes in three columns: address code, machine code bytes, interpreted assembly
+- An array name is not a variable; not exactly different from pointers; different in sublte ways. An array name is read-only because it is literally a label in assembly.
+- Arguments to an array are actually passed as the argument (`%rdi` can only hold 8 bytes); so we always need both the array as well as the size information.
+- Multidiimensional array - memory is one-dimensional but we put multiple differerent rows. Row-major-ordering: each individual row will be contiguous and different rows come after each other.
+
+
 
 
 
