@@ -242,7 +242,29 @@ z: ...
 - Arguments to an array are actually passed as the argument (`%rdi` can only hold 8 bytes); so we always need both the array as well as the size information.
 - Multidiimensional array - memory is one-dimensional but we put multiple differerent rows. Row-major-ordering: each individual row will be contiguous and different rows come after each other.
 
+---
 
+## Week 5 Friday - Structs and Alignment
+- Multidimensional array - row-major ordering, it is guaranteed that all rows are arranged together. 
+- Multilevel array - layers of layers of pointers, which each point to a subarray. 
+- Multidimensional - only one memory access. Multilevel - need to access and follow pointers.
+- `->` - dereference a pointer. `.` - reference an attribute of a struct.
+- No objects in C (not object oriented) - just a group of variables.
+- A struct is a statement in C - it must end iwth a semicolon.
+- When using the variable, `struct name`.
+- After being defined, struct acts like a primitive.
+- `typedef` - can be used to create an alias for another existing data type.
+- You don't need to declaree a name when using an alias.
+- Make sure to know wha the slides are talking about.
+- Struct pointers - pointers store addresses which look all the same. Same width, store addresses.
+- When pointing to a struct, this struct has fields. A struct pointer doesn't need to point towards the declared instance of the struct.
+  - Some struct fields might be meaningless.
+- Alignment - if it is a multiple of $$K$$, dividing by $$K$$ should give me a remainder of 0.
+- Each individual field has its own alignment requirements. 
+- Arrays are treated by their elements - if the first element is aligned, then all following elements in the array will be aligned.
+- The size of the overall struct must be a multiple of the maximum size. External fragmentation added after fields. If we want to use an array of structs, we need to make sure that following structs in the array are also aligned.
+- Alignment of structs is completely deterministic
+- Programmers can save space by re-ordering elements.
 
 
 
