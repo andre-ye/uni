@@ -200,10 +200,22 @@ Perform Gaussian elimination on the corresponding augmentation matrix. Yes, the 
 - Not bijective and not surjective: send all to the origin
 - Bijective but not surjective: not possible.
 - Not bijective but surjective: not possible.
+
+---
+
+## Week 5 Friday
+- Mean - 74%
+- All exams will be cumulative 
+- Inverse transformations - we want to be able to undo a transformations. 
+- Composing an inverse transformation and the original transformations should yield the identity transformation.
+- The original transformation must be bijective and surjective. Therefore, the original transformation must be square.
+- The inverse of reflection is itself. This is provable - multiplying it by itself yields the identity matrix.
+- Pseudoinverse - used for rectangular matrices.
+- $$BA = I_{n \times n} \implies AB = I_{n \times n}$$, $$B = A^{-1}$$.
+- Multiplying a row vector by a matrix gives a linear combination of the rows. Multiplying a matrix by a column vector gives a linear combination of the columns.
+- Vectors are always column vectors - horizontal vectors / row vectors should be considered the transpose of a column vector.
+- $$B \[ A \vert I \] \to \[ BA \vert B \] \to \[ I \vert B\]$$. Converting to $$\[ I \vert \vdots \]$$ gives us $$B$$ automatically.
 - 
-
-
-
 
 
 
