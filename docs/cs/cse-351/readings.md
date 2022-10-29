@@ -231,10 +231,21 @@ lea D(Rb,Ri,S), R  # stores Reg[Rb]+Reg[Ri]*S+D in Reg[R]
 - Unused space between fields - internal fragmentation.
 - External fragmentation: the overall size of a struct also must follow alignment requirements.
 
-4 + 6 + 1 + 4
+---
 
-4 + 4 + 8 + 4
+## 15. Buffer Overflow
+- Buffer: a region of the memory (usually array) used for temporary data storage.
+- Buffer overflow: writing data past the end of the buffer. 
+- Sometimes buffer overflow causes program execution to break or goes unnoticed.
+- Stack smashing - write past the end of a local array in the stack. The buffer moves towards higher addresses. Stack smashing overwrites the return address in previous stack frames.
+- If a user enters a string longer than can be held in the buffer, we will get buffer overflow.
+- Code injection: can be used to take advantage of the fact that all data is stored in memory. 
+Code injections: use buffer overflow to overwrite instructions and change the returna ddress to execdute the injected code.
 
+---
+
+## 16. Memory and Caches I
+- IEC prefixes - refer to powers of 1024.
 
 
 
