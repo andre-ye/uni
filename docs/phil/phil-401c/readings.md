@@ -632,11 +632,66 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - Choice behavior leads towards underdetermination.
 - Paramorphic model - describes the empirical phenomena correctly; homeomorphic - paramorphic but also internally correct.
 - Supervenience implies explanatory reducibility fallacy
+
+---
+
+## "In Defense of Revealed Preference Theory", Johanna Thoma
+- The theory for ational choice in economics is formulated in terms of preferences.
+- Measures for the empirical measurement of demand functions presuppose agents are EU maximizers.
+- Committed to a behavioral understadngin of preference - preference is actual or hypothetical choice behavior.
+- Revealed preference theory:
+  - uses past choice data to ascribe preferences to agents
+  - use preference and utility to make predictions about unobserved choices
+  - lay foundations for mapping choice behavior to preference
+- No inference about mental states are made.
+- Revealed prefernece is widely rejected - associated with behaviorism and positivism.
+- A charitable interpretation of RPT can be faithful to economic practice.
+- Revealed preference theorists need only to concede some minimal amount of mentalism.
+
+### Revealed Preference Theory
+- vNM's theorem cited for EUT
+- Savage's representation theorem cited for subjective EUT when probabilities cannot be assumed to ahve been given
+- Utility - perceived as just a useful device for representing preferences. 
+- We can define a technical notion of preference which reduce to choice. Does this track ordinary preference?
+- Revealed Preference is committed to empirical methodology. Preferences need to be understood behaviorally. 
+- Allow us to understand a general type of mechanism which can be applied to many different economic settings.
+
+### The Anti-Behaviorist Challenge to Revealed Preference Theory
+- No science can acknowledge without positing unobservable entities.
+- The identification of preferences and patterns of choice can be isolated from ppositivist theses. 
+- One issue: preference attribution is linked to the attribution fo mental states.
+- The specification of the problem deterines whether or not it is problematic that we have not directly attributed beliefs.
+- How to define revealed preference theory? It seems either incoherent or appeals to mental states.
+
+### Mentalism about Options
+- Representation theorems for EUT begin with a model of decision situation.
+- We need to describe agents' choice behavior consistently to make predictions of future choice behavior.
+- DWe need to describe the choice situation in terms of states of the world.
+- Standards for specification are needed. We need full knowledge of the agent's hypothetical choice behaviors and beliefs.
+  - Description of options should be consistent with the agent's beliefs.
+  - A perceived feature of a choice situation should be included in the description of the agent's options.
+- Agents may display instability in choice behavior.
+- Avoids the problem of false beliefs, e.g. wasabi case.
+- We never have full knowledge of hypothetical choice behaviors and beliefs.
+- Some appeal to mental states must be made in order to understand the specification of choice options.
+- Preference is a mere convenient representation of choice. 
+- Allows us to capture unintentional choices
+- Behavioral choice - lets us accurately capture and predict behavior, and nothing more. Does not need to comment on the origins of behavior.
+- Dietrich and List - functionalist, we have always understood preference through functional mentalism which ascribes mental states.
+- Preference and choice are both belief-dependent but deserve the label of being behavioral.
+
+### Mentalism about Options in Practice
+- Probabilities are asserted as 'known' within vNM-style work. All authors insist on a behavioral interpretation of preference.
+- Economists must describe options in a way which is consistent with their beliefs.
+
+### The Appeal of Revealed Preference THeory
+- Four core motivations of contemporary revealed preference theory.
+  - Black-boxing is attractive because it allows for clearer disciplinary boundary.
+  - Black-boxing allows us to operate without needing to deal with specific pschological processes.
+  - Black-boxes can help expected utility theory achieve greater generality.
+  - There is a tighter connection between data about choices and theoretical constructs.
+- None of the four motivations are undermined by a partially mentalistic theory of options.
 - 
-
-
-
-
 
 
 
