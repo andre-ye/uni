@@ -134,13 +134,52 @@ CSE 391
 - Git histories often aren't linear: need to be repeatedly separated and merged. These are recorded all by git.
   - `git log --decorate --all --graph`
   
+---
 
+## Week 5
 
+### Git Branching
+- Continuous integration - any time you push changes, you need to do tests before you commit to the master.
+- Master - single source of truth, the history of the project. SUpposed to be stable.
+- To make modifications, we need to work on a separate branch.
+- Commit history
+- HEAD - 'current pointer', the pointer which belongs to us, the user. We can move HEAD around from branch to branch.
+- Head - pointer / reference to the current git branch.
+- `git branch feature` - creates a new branch called `feature`. But it does not automatically switch branches.
+- Type `git checkout feature` to switch to a branch.
+- `git log` can look differently depending on where `MAIN` is pointing.
+- How to reconcile different histories?
 
+### Git Merge
+- `git merge feature` - merges `feature` into the current branch. 
+- Git can't fix things for you - you need to go into the files and fix the conflicts. 
+- After we finish editing, we need to stage / add the files with the resolved changes.
+- We need to make a commit with the conflicts resolved.
+- `git log --graph --oneline` will show you the history in a visual format. 
 
+### Git Branching: Working with Remote
+- How to use branches with remote repositories?
+- Origin is a way of referring to the remote repository.
+- If you try to `git push` when the remote has been changed since when you last updated it, you're going to get an error.
+- `git fetch` - does not change your local repository, but the origin master and origin head will be missing. Downloads copy of remote repository to a new branch.
+- You can try to `git merge origin/...` and resolve the issues.
+- Git is built on simple foundations.
+- `git pull` is `git fetch + git merge`.
 
-
-
+### Git Merge Requests
+- In practice, we often don't merge branches locally and push to remote
+- GitHub / GitLab can help us handle these.
+- Steps:
+  1. Create a local branch and make commits
+  2. Push commits to remote
+  3. Open a pull/merge request on GitLab
+  4. Collaborate and fix conflicts
+  5. Merge into master or another branch
+- We need to be very deliberate about what we put on master
+- `git checkpoint -b feature`
+- Merge requests - can be handled on Gitlab.
+- `git branch -d feature` removes `feature` branch from your local repository.
+- 
 
 
 
