@@ -215,9 +215,31 @@ Perform Gaussian elimination on the corresponding augmentation matrix. Yes, the 
 - Multiplying a row vector by a matrix gives a linear combination of the rows. Multiplying a matrix by a column vector gives a linear combination of the columns.
 - Vectors are always column vectors - horizontal vectors / row vectors should be considered the transpose of a column vector.
 - $$B \[ A \vert I \] \to \[ BA \vert B \] \to \[ I \vert B\]$$. Converting to $$\[ I \vert \vdots \]$$ gives us $$B$$ automatically.
-- 
 
+---
 
+## Week 6 Monday
+- Not all matrices can be inverted, even if they are square (the transformation is not bijective or not surjective).
+- We are trying to find combinations of rows which are equal to the identity.
+- $$(BA = I \wedge AC = I) \implies (B = C)$$ - the inverse doesn't matter whether if it is multiplied from the left or the right
+- Properties of invertible matrices, for two invertible $$A$$ and $$B$$.
+
+$$(A^{-1}^{-1} = B$$
+$$(AB)^{-1} = **^{-1}^{-1}$$
+$$(AC = AD) \implies (C=D)$$
+$$(AC = 0) \to (C=0)$$
+$$(Ax = b) \to (x = A^{-1}b)$$
+
+- A matrix is invertible if the reduced echelon form of $$A$$ is $$I$$
+- Chapter 4 - peak of abstraction in the class, covers many things.
+- Vector sets are always subsets of a higher-diensional space.
+- A subset is a vector space if the zero vector is in it and it is closed under addition and multiplication.
+- The span of any vector set forms a vector space.
+- Kernels are vector spaces.
+- Ranges are vector spaces.
+- The range/span lives in the codomain, but the kernel lives in the domain: both are vector spaces in different spaces.
+- Subspace - vector space in another vector space.
+- **All subspaces are either the kernel or the range of a transformation.**
 
 
 
