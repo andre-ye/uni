@@ -176,11 +176,16 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 - A linear transformation $$T$$ is bijective only if its kernel is equal to the set $$\{ \mathbf{0} \}$$.
 
 ### 4.2: Basis and Dimension
+- A vector set is a basis for a subspace $$S$$ if it spans $$S$$ and is linearly independent.
+- The zero subspace does not have a subspace, since the set is not linearly independent.
+- Every vector in a subspace can be expressed in exactly one way as a linear combination of vectors in a basis vector set.
+- If $$A$$ and $$B$$ are equivalent matrices, the subspace spanned by the row vectors of $$A$$ is the same as that of the rows of $$B$$.
+- To find a basis for a vector set: use the vectors to form rows of a matrix, convert it into echelon form, and read the nonzero rows. Alternatively, arrange into columns of the matrix.
+- If two matrices are equivalent, the linear dependence of states is retained.
+- The derived bases mayb e different.
+- If $$S$$ is a subspace of $$\mathbf{R}^n$$, then every basis of $$S$$ has the same number of vectors.
 
-
-
-
-
+Page 182
 
 
 
