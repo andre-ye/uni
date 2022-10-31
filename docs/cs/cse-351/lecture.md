@@ -266,6 +266,30 @@ z: ...
 - Alignment of structs is completely deterministic
 - Programmers can save space by re-ordering elements.
 
+---
+
+## Week 6 Monday - Buffer overflow
+- Memory layout: stack, heap, statically-allocated data, literals, instructions
+- Buffer - array use dto temporarily store data.
+- Streaming - just obtain data for the next few frames. Buffering - waiting for the next data.
+- Buffers can also store user input.
+- Buffer - array defined within a function.
+- When we keep on running upwards past the end of the array, we can run into overwriting non-buffer data.
+- C does not check boudns: it's easy to go past the end of the array.
+- Data and instructions are stored in the same stack
+- Buffer overflow can overwrite interesting data
+- Stack smashing - unchecked length on string input into bounded array causes the overwriting of stack data.
+- Number 1 technical cause of security infiltrations.
+- There is a lot of vulnerable code out there - `gets()`.
+- Code injection attack - input string as ar represetnation of cdode to be aset.
+- Explotis based on buffer overflows - allow attackers to execute arbitrary code
+- Root shell - able to open a shell with admin privileges and can do anything
+- 1988 Internet worm, Heartbleed, Cloudbleed, embedded devices
+- New contexts for buffer overflow and unintended consequences
+- How to deal with buffer overflow attacks
+  - System-level protections - non-executable code segments, read-only/writable/executable, stack is non-executable, randomizing stack offsets - allocate a random amount of space on the stack.
+  - Avoid overflow vulnerabilities - related functions are safer and can set limits, don't use C
+  - Stack Canaries - place a special value (canary) on the stack just beyond the buffer, check to see if the canary message has changed before we return
 
 
 
