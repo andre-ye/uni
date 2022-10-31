@@ -691,7 +691,27 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
   - Black-boxes can help expected utility theory achieve greater generality.
   - There is a tighter connection between data about choices and theoretical constructs.
 - None of the four motivations are undermined by a partially mentalistic theory of options.
-- 
+
+---
+
+## _An Introduction to Game Theory_, Osborne
+
+### Introduction
+- Game theory helps us understand situations in which decision-makers interact.
+- Game theory is a collection of models - abstractions from observations and experiences.
+- Theory of rational choice - a DM chooses the best action according to their preferences among all available actions.
+- Payoff function: associates a utility to each action.
+- Theory of rational choice: the action chosen by a decision maker is at least as good, according to her preferences, as every other available action.
+- No general theory challenges the supreamcy of rational choice theory.
+
+### Nash Equilibrium: Theory
+- Strategic game: a model of interacting decision-makers.
+- Each player has a set of possible actions. Eac h player has preferences about the action profile.
+- Models don't consider time: each player chooses actions once and for all, simultaneously. Strategic game - 'simultaneous-move game'. 
+- Prisoner's dilemma: there are gains from cooperating, but each player has the incentive to 'free ride', regardless of the other prisoner's move.
+- Nash equilibrium - what actions will be chosen by players in a strategic game?
+
+Page 41
 
 
 
