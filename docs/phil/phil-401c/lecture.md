@@ -228,7 +228,19 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 - Behaviorism - mental states are states of behavior.
   - Feelings are demonstrable by different behaviors.
 - Revealed Preference Theory - some versions are equivalent to behaviorism.
-- 
+
+---
+
+## Week 6 Monday
+- Primary sources - Hausmann, Thoma, Dietrich & List, among others.
+- Goal - to understand whether or not we can interpret expected utility theory as a normative theory.
+- Thoma's paper - primary focus is scientific / social-scientific.
+- Does it make sense to interpret preference as behaviorism / revealed to model social behavior?
+- Thoma and Hausman - what notion of preference is the one which is good for economists?
+- Not interested in understanding what the pretheoretic concept of preference is.
+- Normative questions - how should people make decisions as individuals, and how should they behave collectively?
+- The discussion of what preferences are informs these discussions - we need to assume and move forward with what subjects are.
+- Game matrices populated by preferences as total subjective comparative evaluations vs. actual measured preference will vary.
 
 
 
