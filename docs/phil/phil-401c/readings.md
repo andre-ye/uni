@@ -710,8 +710,13 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - Models don't consider time: each player chooses actions once and for all, simultaneously. Strategic game - 'simultaneous-move game'. 
 - Prisoner's dilemma: there are gains from cooperating, but each player has the incentive to 'free ride', regardless of the other prisoner's move.
 - Nash equilibrium - what actions will be chosen by players in a strategic game?
+- We assume that players choose the best available action. Any player must form a belief about other players' actions.
+- Each player views each play of the game in isolation: she is not aware of the effects of her actions or the opponent's strategy.
+- Nash equilibrium: an action profile such tht no player can do better by choosing a better action, ceteris paribus other players.
+- A Nash equilibrium is a 'steady state' - it is a social norm. No one wants to deviate from it if everyone else adheres to it.
+- Prisoner's dilemma: (Fink, Fink) is the Nash equilibrium because each player is better off finking than remaining quiet.
+- Tragedy of the commons
 
-Page 41
 
 
 
