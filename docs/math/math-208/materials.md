@@ -184,9 +184,15 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 - If two matrices are equivalent, the linear dependence of states is retained.
 - The derived bases mayb e different.
 - If $$S$$ is a subspace of $$\mathbf{R}^n$$, then every basis of $$S$$ has the same number of vectors.
-
-Page 182
-
+- If $$S$$ is a subspace of $$\mathbb{R}^n$$, then every basis of $$S$$ has the same number of vectors.
+- The dimension of a vector space is the number of vectors in any basis of $$S$$.
+- The zero subspace $$S$$ has no basis and has dimension 0.
+- Standard basis - orthogonal vectors
+- If a vector set is linearly independent, then it is the basis for $$S$$ or additional linearly independent vectors can be added to form the basis for $$S$$.
+- If a vector set spans $$S$$, then it is the basis for $$S$$ or vectors can be removed to form a basis for $$S$$.
+- Nullity of a matrix: the dimension of the null space.
+- Let a vector set be a set of $$m$$ vectors in a subspace $$S$$ of dimension $$m$$. If the vector set is linearly independent or spans $$S$$, the vector set is the basis for $$S$$.
+- 
 
 
 
