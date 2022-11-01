@@ -77,6 +77,12 @@ CSE 391
 - `git status` is focused on tracking files, `git log` is focused on tracking commits.
 - `git diff --staged`
 
+----
+
+## Week 6
+- `git blame`
+- CI - continuous integration.
+- Younger commits must point to the parent.
 
 
 
