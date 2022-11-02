@@ -242,9 +242,27 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 - The discussion of what preferences are informs these discussions - we need to assume and move forward with what subjects are.
 - Game matrices populated by preferences as total subjective comparative evaluations vs. actual measured preference will vary.
 
+---
 
-
-
+## Week 6 Wednesday
+- A game consists of: players, actions, preference relation or utility function for each player. 
+- Strategic profile - specifies what actions every player in the game takes. 
+- Equilibria are strategic profiles - we need to specify an action for every profile
+- Two equilibria - Nash equilibria for normal-form games and subgame perfect equilibrium, refinement of Nash equilibria.
+- Game theory is full of other equiilibrium concepts.
+- Normatively, equilibria describe how agents should behave.
+- Descriptively, equilibria describe how players do choose.
+- Nash equilibrium - a strategic profile in which
+  - Each player's action is a best response to the other players' actions
+  - No player is better off by taking a different action.
+- Identifying Nash equilibria with two-player games, the quick way: underline best responses for each player. Nash equilibria are action profiles with all responses underlined.
+- No pure strategy Nash equilibrium - for games without Nash equilibria.
+- Equilibrium selection problem - how to normatively understand which option equilibrium players should choose?
+- Mixed strategy Nash equilibrium - randomly choose with probability
+- Nash's Theorem: any game with finitely many players and actions has a a mixed strategy Nash equilibrium.
+  - There is a way for players to choose randomly such that no agent is better off using a different strategy.
+- Is there something wrong with thinking about rationality? Are the sexist problems in game theory inherent to or external to games?
+- Elizabeth Anderson - feminism and rational choice theory
 
 
 
