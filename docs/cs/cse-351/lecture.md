@@ -291,13 +291,29 @@ z: ...
   - Avoid overflow vulnerabilities - related functions are safer and can set limits, don't use C
   - Stack Canaries - place a special value (canary) on the stack just beyond the buffer, check to see if the canary message has changed before we return
 
+---
 
-
-
-
-
-
-
+## Week 6 Wednesday - Caches
+- Caches - firmly in the hardware side.
+- IEC prefixes - unambiguously base 2.
+- 512 GB really means 512 times $$10^9$$ for marketing. 
+- Average memory access time (AMAT): Hit Time + Miss Rate $$\times$$ Miss Penalty
+- How does execution time grow with size? We would expect a linear function, but there is a piecewise linear function. The size of the cache determines the switchpoint. 
+- Moore's Law - we had exponential growth for many years - the processing process doubles roughly every 1.5 years, arguably is dead now. 
+- The CPU is just one component of the overall computer.
+- Memory is important - memory also improves performance exponentially over time, but at a slower rate.
+- Processor-Memory performance gap: grows 50% each year.
+- Registers can be accessed very quickly, but there is not very much data there.
+- A single memory access can take several clock-seconds
+- Cache - storage location for useful memory - obtain more than what you need and keep necessary materials nearby.
+- Data will be copied in the unit of a block - contains a range of addresses.
+- Hit - the desired item is in the cache. Data is returned to CPU directly: no need to involve the memory.
+- Miss - the cache does not have the desired data. 
+- Locality - you tend to use data and insturctions near rcecently  ussed one
+- Temporal locality - recently referenced items are likely to be referenced again, for loosp, while loops.
+- Spatial locality: items with nearby addresses tend to be grouped together over time, e.g. elements of an array.
+- Stride - how many elements forward moving most of the time?
+- 
 
 
 
