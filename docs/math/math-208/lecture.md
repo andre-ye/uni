@@ -241,8 +241,21 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 - Subspace - vector space in another vector space.
 - **All subspaces are either the kernel or the range of a transformation.**
 
+---
 
-
+## Week 6 Wednesday
+- Multiplication is not defined across vector spaces.
+- The zero vector is an example of a finite vector space.
+- The requirement of scaling by a constant bars a non-one finite vector space.
+- Anything which is the span or the kernel are vector spaces.
+- Every vector space is both a span and a kernel.
+- Range is the span of the column vectors of a matrix.
+- Consider some plane $$ax + by + cz = 0$$; this is the kernel of the transformation [a b c].
+- Basis of a vector sapce: a set of linearly independent vectors which spans the vector space.
+- Affine spaces
+- To prove that a set is a vector space, show that it is the span or the kernel of some transformation.
+- The set of all quadratics is a vector space.
+- 
 
 
 
