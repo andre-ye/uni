@@ -717,6 +717,11 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - Prisoner's dilemma: (Fink, Fink) is the Nash equilibrium because each player is better off finking than remaining quiet.
 - Tragedy of the commons
 
+### Rationalizability
+Page 397 in PDF
+
+- How can we understand players' introspective analysis of others' rational behavior?
+- A player's action is rational if it maximizes their payoff given beliefs about the other players' actions.
 
 
 
