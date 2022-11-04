@@ -255,7 +255,26 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 - Affine spaces
 - To prove that a set is a vector space, show that it is the span or the kernel of some transformation.
 - The set of all quadratics is a vector space.
-- 
+
+---
+
+## Week 6 Friday
+- A vector set $$B$$ is a basis of $$S$$ if $$B$$ spans $$S$$ and $$B$$ is linearly independent.
+- The size of a basis is the dimension.
+- Why can we infer the linear indendence of vector sets from the column vector pivot position status of column vectors in Gaussian reduced matrices?
+- The span of row and column vectors does not chang when we perform linear reduction. They can be converted into row vectors and reduced such that the span is still the same. **They must be done as row vectors**: functions as a basis. 
+- If U is linearly independent, then either U is a basis of S, or U can be extended to form a basis of S.
+  - Simply add the standard basis vectors and perform reduction.
+- Two algorithms to identify the basis vectors from an oversized vector set:
+  - Arrange into a standard matrix, perform Gaussian elimination, identify which of the previous column vectors to use
+  - Arrange into a standard matrix, transpose, perform Gaussian elimination, read the resulting row vectors
+- If U spans S, then either U is a basis or a subset of U is a basis of S.
+- The algorithm proves the theorem - you can extend or cut down.
+- Basis is important, because it defines dimension.
+- Rank - number of linearly dependent vectors along the rows
+- Coordinates - always with respect to the standard basis.
+- Can we change the basis and calculate the coordinates of the same location?
+- Monomial basis - extremely unstable. To salve a partial differential equation, you can choose other bases - e.g. Lagrange or Chebyshev bases. 
 
 
 
