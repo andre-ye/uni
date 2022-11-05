@@ -246,12 +246,29 @@ Code injections: use buffer overflow to overwrite instructions and change the re
 
 ## 16. Memory and Caches I
 - IEC prefixes - refer to powers of 1024.
+- Caches - memory with short access time, used to store frequently or recently used data, including instructions.
+- Data is transferred in blocks - machine-specific fixed units of data transfer.
+- The CPU will always check the caches first when accessing memroy.
+- Cache hit - data is found in the cache. Cache miss - not found, fetch from real memory adn copy into cache.
+- Principle of locality: programs tend to use data at addresses near those which have been used recently.
+- Temporal locality - recently referenced items likely to be referenced again
+- Spatial locality - items in nearby addresses likely to be refereced again
+- Copy data into the cache on a cache miss to maximize cache hits
+- Metrics: hit time (how long a cache hit takes), miss penalty (how long it takes to find a blcok fo data from memory, hit rate (fraction of memory accesses resulting in cache hits).
+- Average memory access time (AMAT): Hit time $$+$$ Miss Rate $$\times$$ Miss Penalty
+- Timing reported in clock cycles
 
+---
 
-
-
-
-
+## 17. Memory and Caches II
+- The memory hierarchy: local data storage and remote/external data storage.
+- Each level is a cache of the level below it - faster way to access a subset of available data.
+- Blocks are formed from 0 to $$K - 1$$, $$K$$ to $$2K - 1$$, and so on.
+- We can determine which block an address is in by taking the floor of $$\frac{A}{K}$$: this is the block number.
+- $$A % K$$ is the block offset.
+- Cache size - measures capacity of the cache. Defined as a multiple of block size.
+- Where to place blocks on a cache miss? 
+- Direct-mapped cache placement - use a hash function, block number % (C/K) to determine where to put a block. 
 
 
 
