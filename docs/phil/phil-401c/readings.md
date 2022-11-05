@@ -722,7 +722,20 @@ Page 397 in PDF
 
 - How can we understand players' introspective analysis of others' rational behavior?
 - A player's action is rational if it maximizes their payoff given beliefs about the other players' actions.
+- Introspection: do you believe that the other player is rational?
+- A rational player forms a probabilistic belief about other players' actions.
+- Belief: a probability distribution over possible combinations of other players' actions.
+  - An action can be rational for the belief $$\mu$$.
+- Nash equilibrium requires rational strategoy and correct belief.
+- An action is rationalizable if it is rational, there is a belief which makes it rational that assigns positive probabiliteis only to rational actions of another player, the other player assigns positive probability only to rational actions of mine.
 
+![image](https://user-images.githubusercontent.com/73039742/200136518-e80d913a-7d8e-45bf-854d-f9fbdb07bbfa.png)
+
+- Every action in a mixed strategy Nash equilibrium is rationalizable.
+- Never-best responses: for every belief of another player, there exists a mixed strategy in which the player's expected payoff is less than another.
+- A strictly dominated action is a never-best response.
+
+page 406
 
 
 
