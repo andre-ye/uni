@@ -264,7 +264,19 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 - Is there something wrong with thinking about rationality? Are the sexist problems in game theory inherent to or external to games?
 - Elizabeth Anderson - feminism and rational choice theory
 
+---
 
+## Week 7 Monday
+- Prisoner's dilemma - there's a situation where both do better (stay silent). 
+- The strategic profile
+- Strict Pareto domination - better in all cases for all players
+- Weak Pareto domination - better in at least one case, no one else is worse off.
+- Pareto efficient - dominates all other outcomes.
+- Gibbard-Satterthwaite Theorem: no voting system that chooses a candidate from ranked ballots has all of the four:
+  - Non-dictatorial, no voter such that one voter chooses the winner
+  - The system always chooses a winner
+  - If a candidate is unanimously ranked as the top choice, that candidate is chosen.
+  - Non-manipulable, the only Nash equilibria in a game are where voters honestly report their voting preferences.
 
 
 
