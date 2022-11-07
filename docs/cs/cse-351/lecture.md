@@ -313,7 +313,30 @@ z: ...
 - Temporal locality - recently referenced items are likely to be referenced again, for loosp, while loops.
 - Spatial locality: items with nearby addresses tend to be grouped together over time, e.g. elements of an array.
 - Stride - how many elements forward moving most of the time?
-- 
+
+---
+
+## Week 7 Monday - Caches II
+- Higher up the memory hierarchy - smaller, faster, costlier per byte. 
+- Caches and main memory are hardware-focused. The programmer has control over the registers.
+- How to make memory access fast?
+- Cache organization 
+- Cache parameters - block size and cache size
+- Block offset field - $$k$$ bits wide, for addresses
+- Block size - $$K$$ - unit of transfer between the cache and memory. Will always be a power of 2.
+  - Blocks are adjacent bytes.
+  - Every byte is uniquely part of a block.
+- A block size as an even power of two is a nice address split.
+- How many bits do I need to represent every byte in a block?  Offset field. 
+- Cache size - amount of data that the cache can store.
+- Hash tables for fast loopul
+- We want to use buckets well.'
+- We have a limited cache capacity; we can only hold so many blocks. How to uniquely identify? Use a hashing address. Take modulus of block number.
+- Lets adjacent blocks fit in the cache simultaneously - consecutive blocks go in consecutive cache indices, hypothetically, under certain conditions.
+- What if there is a collision?
+- The rest of the address (which does not give us the offset position) is stored as the tag. The remaining address bits - $$t$$ bits = $4m - s - k$$.
+- If the tag matches, it's a hit; if not, it's a miss.
+- We use every piece of the address in order to access the cache.
 
 
 
