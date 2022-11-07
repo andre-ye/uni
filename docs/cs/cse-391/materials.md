@@ -179,7 +179,55 @@ CSE 391
 - `git checkpoint -b feature`
 - Merge requests - can be handled on Gitlab.
 - `git branch -d feature` removes `feature` branch from your local repository.
-- 
+
+---
+
+## Week 6
+
+### Introduction to Regular Expressions
+- Regex - description of a pattern of text
+- Many applications of regular expressions
+- Almost all programming languages use regular expressions
+- grep is case sensitive by default
+- `.` will match any character.
+- Use `-E` for extended regex.
+- `$` - end of line
+- `^` - start of line
+- Spaces are interpreted literally.
+- Why doesn't `....` match 4 letter characters?
+- `\<` - beginning of word; `\>` - end of word
+
+### Or and Repeated Characters
+- Or can be done with `|`. 
+- We can group together an expression with parentheses: `(e|a)t` is equivalent to `et|at`.
+- `*` - 'zero or more of'
+- `?` - 'zero or one of'
+- `+` - 'one or more of'
+
+### Character Sets and Backreferences
+- Enumerating a lot of characters indiivudally is a pain. We can use a character set with square brackets: `[abcde]` is equivalent to `(a|b|c|d|e)`.
+- `[A-Z]`, `[a-z]`, `[0-9]`, or combine: `[a-zA-Z0-9]`.
+- Curly brackets: `{n}`, matches exactly 3 instances from the set. `{a,b}`, anything from `a` to `b` (inclusive).
+- `^` negates the entire character set - anything except for what is in the set. Interprets signs literally.
+- `(..)\1` will match `abab`, `acac`, all repeated. `\1` is whatever was the frist saved one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
