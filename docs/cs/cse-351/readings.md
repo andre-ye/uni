@@ -270,9 +270,27 @@ Code injections: use buffer overflow to overwrite instructions and change the re
 - Where to place blocks on a cache miss? 
 - Direct-mapped cache placement - use a hash function, block number % (C/K) to determine where to put a block. 
 
+---
 
-
-
+## 18. Memory and Caches III
+- $$m$$-bit address: TIO. $$t$$ bits for the tag, $$s$$ bits for the index selection, $$k$$ bits for the byte offset selection.
+- Widths: $$k = \log_2(K)$$, $$s = \log_2(C / K)$$, $$t = m - s - k$$.
+- A direct-mapped cache always maps blocks to a single index. What if we alternate between different blocks which map to the same index? We lose temporal locality's benefits. 
+- Associative cache - each block fits in a set of locations.
+- $$E$$-way set associative cache: each block can be put in a set $$E$$ ways. 
+  - Direct-mapped cache: 1-way
+  - Fully-associative cache: $$C/K$$ way
+- Caches - there will always be data present. Is it program data or mystery data? Valid bit lets us tell the difference. Management bit - stored in the cache for each block.
+- Cache line - block and management bits.
+- Cold cache: no valid program data.
+- Cache: number of sets $$S$$, associativity $$E$$, block size $$K$$. Cache size is the product of these three.
+- Cache miss categorization:
+  - Compulsory misses: we have to have a cache miss if we access something for the first time.
+  - Conflict misses: more references map to the same set than we can allow to coexist.
+  - Capacity misses: we don't have enough space to keep all the data.
+- Larger block size $$\to$$ fewer compulsory misses
+- Higher associativity $$\to$$ fewer conflict misses
+- Larger cache size $$\to$$ fewer capacity misses
 
 
 
