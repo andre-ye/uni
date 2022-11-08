@@ -274,9 +274,23 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 - Rank - number of linearly dependent vectors along the rows
 - Coordinates - always with respect to the standard basis.
 - Can we change the basis and calculate the coordinates of the same location?
-- Monomial basis - extremely unstable. To salve a partial differential equation, you can choose other bases - e.g. Lagrange or Chebyshev bases. 
+- Monomial basis - extremely unstable. To salve a partial differential equation, you can choose other bases - e.g. Lagrange or Chebyshev bases.
 
+---
 
+## Week 7 Monday
+- There are many subspaces which come out of a matrix: row space, column space, null space.
+- The null space is the kernel of the transformation. 
+- The row space of a transformation - basis can be the nonzero rows of $$B$$.
+- Row span does not change when you convert to echelon form.
+- Dimension of the row space - the _row rank_
+- Dimension of the column space - the _column rank_.
+- The row rank and the column rank are euqal - the number of pivots.
+- This number fof columns in a matrix plus the nullity is the dimension $$n$$.  
+- Free variables - non pivot columns of $$A$$
+- Rank-nullity theorem: $$\text{rank}(A) + \text{nullity}(A) = n$$ for $$A \in \mathbb{R}^{m \times n}$$
+- How to get matrix with a certain set as its null space? Set variables and solve a system of equations.
+- 
 
 
 
