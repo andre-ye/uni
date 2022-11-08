@@ -53,8 +53,21 @@ ENGL 284
 - Symbolic leap - connections between imagery, action, dialogue
 - Object leaps - disjunctures which force readers to bridge bizarre objects. 
 - Relationship between the author and the reader: how much work does the reader have to do? How does the author guide the reader?
-- 
 
+---
+
+## Week 7 Tuesday
+- Insight - fresh, thoughtful, necessary, a unique insight and point of view, which is different and adds.
+- Insight is the place where the writer, reader, and the story all meet.
+- How do we learn things as we read? We all gather meaning as we live.
+- How to understand characters as more deeply related to yourself.
+- Pushing the borders of tolerance
+- Complicating the expected is an act of insight.
+- Three pillars of insight - tension, yearning, subtext - pulse, ache, why?
+- Subtext - the underlying meaning is left unclear, in the negative space
+- Ache - we cannot delineate it until it is done.
+- Don't preach, overwrite, overexplain.
+- Trust your reader, and trust yourself. 
 
 
 
