@@ -84,6 +84,12 @@ CSE 391
 - CI - continuous integration.
 - Younger commits must point to the parent.
 
+---
+
+## Week 7
+- `git switch` - change which branch you are on
+- `grep -E` can be used to search for regular expressions
+- 
 
 
 
