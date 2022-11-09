@@ -734,10 +734,38 @@ Page 397 in PDF
 - Every action in a mixed strategy Nash equilibrium is rationalizable.
 - Never-best responses: for every belief of another player, there exists a mixed strategy in which the player's expected payoff is less than another.
 - A strictly dominated action is a never-best response.
+- An action profile is rationalizable iff it survives iterated elimination of strictly dominated actions.
+- Mark actions of each player which are weakly dominated; remove all marked actions; repeat until no actions can be eliminated.
+- Dominance solvability - if players are indifferent between action profiles which survive when we perform iterated elimination of all weakly dominated actions, the game is dominance solvable.
 
-page 406
+---
 
+## "Knowledge and Equilibrium in Games", Adam Brandenburger
+- Economists use game-theory in a variety of cases.
+- Non-cooperative game theory
+- Nash equilibrium - when to use it?
+- Strategic form - each player must decide a particular strategy in ignornace of the other strategies chosen.
+- A player in a game should assign subjective probabilities to all uncertainty.
+- Common knowledge - everyone knows it, everyone knows everyone knows it, everyone knows that everyone knows that everyone knows it, etc.
+- Any strategy whcih does not maximize expected payoff for any probabilistic assessment over the other players' choices should be removed from consideration.
+- A strategy is strongly dominated iff $$\neg \exists p(x)$$ such that with $$p(x)$$ the strategy maximizes the expected payoff.
+- Iteratively undominated - the strategy remains after all the strongly dominated strategies have been removed from the game.
+- If the structure of the game and the rationality of the players are common knowledge; then each player chooses an iteratively undominated strategy.
+- Pure strategy: no attempt to randomize. Can also choose mixed strategies.
+- The assumption of independence is questionable in decision theory.
 
+### Pure-Strategy Nash Equilibrium
+- Mutual knowledge - everyone knows something. 
+- Common knowledge - mutual knowledge at multiple different laws.
+- Pure-strategy Nash equilibrium: each player's choice is optimal given the choices of the others.
+- Common knowledge is not needed for Nash equilibrium
+
+### Mixed-Strategy Nash Equilibrium
+- Some games do not possess pure-strategy Nash equilibria.
+- We can augment players' choices to include mixed strategies: randomized choices over sets of pure strategies. Using expected utility theory we can maximize the expected payoff.
+- Every finite game has a mixed-strategy Nash equilibrium.
+- Mixed strategies are mathematically convenient but conceptually troubling: why randomize? 
+- Conjecture - a player's probability assessment over the strategy choices of the other players. A mixed strategy is a common conjecture held by other players.
 
 
 
