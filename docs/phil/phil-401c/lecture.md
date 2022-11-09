@@ -305,7 +305,7 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 - How many levels high of common knowledge do we need to go? No more than the number of strategies in the game. 
 - Iterated domination of weakly dominated strategies - what to do?
 - What if rationality is not common knowledge? What can happen when we believe the other person isn't rational? etc. etc.
-
+- When players have incorrect or misperceived beliefs, we can choose out of equilibria.
 
 
 
