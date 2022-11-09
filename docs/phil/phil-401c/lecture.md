@@ -278,8 +278,33 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
   - If a candidate is unanimously ranked as the top choice, that candidate is chosen.
   - Non-manipulable, the only Nash equilibria in a game are where voters honestly report their voting preferences.
 
+---
 
-
+## Week 7 Wednesday
+- Do the game theoretic equilibria concepts pick out the same types of behavior as the prescriptive recommendations of expected utility theory?
+- Is there a conflict between the theory of rational interactive theory and rational individual theory?
+- Two types of significance of equilibria concepts - descriptive and normative, how players will and should behave.
+- Rationalizable - expressable in terms of EUT
+- In science, we always understand that they have their place; only physicists make claims about everything, and even that is a publicity stunt.
+- A Nash equilibrium is a strategic profile in which each player's action is a best response to the remaining players' actions.
+- Osborne - each player's belief is derived from past information playing the game, and that this experience has sufficiently high information density. She is sure of which actions her opponents will choose.
+- Osborne's argument: a player believes they know all others' strategies; if the beliefs are true, then all the players' actions are best responses to one another.
+  - Agents do not need to be expected utility maximizers.
+- It does not matter what your subjective probabilities are over the different states are distirbuted
+- How do we know things
+- What is a real truth?
+- Game theorists rarely suggest normative claims clear.
+- Harsanyi - scathing reviews of Rawls, exploration of political philosophy
+  - Ethics, decision theory, game theory - more or less same method.
+  - Rational behavior described by a set of axioms. 
+  - Utility maximization - a more convenient characterization of rational behavior under certainty than others.
+- Iterated elimination of dominated strategies.
+- If rational players know each other to be rational, contestants choose strategies which cannot be eliminated through dominance considerations.
+- If a unique strategic profile survives the iterated domination of dominated strategies, it is a Nash equilibrium.
+- Higher-level knowing - common knowledge of rationality. But all that is required is common belief - that I believe that you are rational. We just have to believe these things.
+- How many levels high of common knowledge do we need to go? No more than the number of strategies in the game. 
+- Iterated domination of weakly dominated strategies - what to do?
+- What if rationality is not common knowledge? What can happen when we believe the other person isn't rational? etc. etc.
 
 
 
