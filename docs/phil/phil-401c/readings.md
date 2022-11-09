@@ -766,7 +766,13 @@ Page 397 in PDF
 - Every finite game has a mixed-strategy Nash equilibrium.
 - Mixed strategies are mathematically convenient but conceptually troubling: why randomize? 
 - Conjecture - a player's probability assessment over the strategy choices of the other players. A mixed strategy is a common conjecture held by other players.
+- Interactive belief system - formal description of players' choices and conjectures about beliefs.
 
+### Correlated Equilibrium
+- All nash equilibrium distributions are correlated equilibrium distributions.
+
+### Solution Concepts
+![image](https://user-images.githubusercontent.com/73039742/200722108-c3c54d8a-b7c8-4869-b2d4-6fa9854456a2.png)
 
 
 
