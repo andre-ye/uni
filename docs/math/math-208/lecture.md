@@ -290,8 +290,15 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 - Free variables - non pivot columns of $$A$$
 - Rank-nullity theorem: $$\text{rank}(A) + \text{nullity}(A) = n$$ for $$A \in \mathbb{R}^{m \times n}$$
 - How to get matrix with a certain set as its null space? Set variables and solve a system of equations.
-- 
 
+---
+
+## Week 7 Wednesday
+- Change of basis in $$\mathbb{R}^n$$. You can perform a change of basis in other subspaces too.
+- Standard unit basis
+- Coordinates are always w.r.t. a basis and indicatet eha mount of the basis to travel in.
+- To express as a basis: find the inverse of the matrix formed by horizontally concatenating the column vectors and multiplying by the vector in standard $$\mathbb{R}^n$$.
+- We need pivots in all cases to be able to invert a matrix and change the bases.
 
 
 
