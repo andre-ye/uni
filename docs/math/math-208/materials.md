@@ -203,7 +203,10 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 - Rank-nullity theorem: the sum of the rank and the nullity equals the dimensionality of the codomain.
 - A system $$Ax = b$$ is consistent iff $$b \in \text{col}(A)$$. This solution is unique iff the columns of $$A$$ are linearly independent; the column space has the same dimensionality as the number of columns.
 
-
+### 4.4: Change of Basis
+- The coordinate vector contains the coefficients needed to express a vector as a linear combination of the vectors in some provided basis.
+- Change of basis matrix - switch from a basis to the standard basis. The inverse switches from the standard basis to the basis.
+- Composit basis matrices and theri inverses to switch from one basis to another.
 
 
 
