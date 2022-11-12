@@ -696,7 +696,7 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 
 ## _An Introduction to Game Theory_, Osborne
 
-### Introduction
+### 1. Introduction
 - Game theory helps us understand situations in which decision-makers interact.
 - Game theory is a collection of models - abstractions from observations and experiences.
 - Theory of rational choice - a DM chooses the best action according to their preferences among all available actions.
@@ -704,7 +704,7 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - Theory of rational choice: the action chosen by a decision maker is at least as good, according to her preferences, as every other available action.
 - No general theory challenges the supreamcy of rational choice theory.
 
-### Nash Equilibrium: Theory
+### 2. Nash Equilibrium: Theory
 - Strategic game: a model of interacting decision-makers.
 - Each player has a set of possible actions. Eac h player has preferences about the action profile.
 - Models don't consider time: each player chooses actions once and for all, simultaneously. Strategic game - 'simultaneous-move game'. 
@@ -717,7 +717,16 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 - Prisoner's dilemma: (Fink, Fink) is the Nash equilibrium because each player is better off finking than remaining quiet.
 - Tragedy of the commons
 
-### Rationalizability
+### 5. Extensive Games with Perfect Information: Theory
+Page 173. 5.1 - 5.3 assigned.
+- An extensive game with perfect information needs specification of a set of players and their preferences. 
+  - Players
+  - Terminal histories
+  - Player function
+  - Preferences for the players
+- 
+
+### 12. Rationalizability
 Page 397 in PDF
 
 - How can we understand players' introspective analysis of others' rational behavior?
