@@ -721,10 +721,18 @@ $$C_\text{new} (H) = C_\text{old}(H, E)$$
 Page 173. 5.1 - 5.3 assigned.
 - An extensive game with perfect information needs specification of a set of players and their preferences. 
   - Players
-  - Terminal histories
-  - Player function
-  - Preferences for the players
-- 
+  - Terminal histories - sequences, no sequence is a proper subhistory of any other sequence
+  - Player function - assigns a player to every sequence
+  - Preferences for the players - over the set of terminal histories
+- A proper subhistory of a terminal history cannot be a terminal history.
+- Payoff function - represents a player's preferences
+- If the length of the longest terminal history is finite, the game has a finite horizon.
+- Backward induction - choose the action which yields the most preferred terminal history.
+- Backward induction cannot be applied to every extensive game with perfect information - there is often an open case.
+Games with infinitely long histories have no end to begin backwards induction from.
+- Strategy - specifeis the action the player chooses for every history.
+
+Page 181
 
 ### 12. Rationalizability
 Page 397 in PDF
