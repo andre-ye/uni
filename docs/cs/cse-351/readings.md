@@ -308,7 +308,26 @@ Code injections: use buffer overflow to overwrite instructions and change the re
 - Spatial and temporal locality
 - Cache blocking - block operations on a large data structure so chunks fit into the cache.
 
+---
 
+## 20. Processes I
+- Control flow - your computer is executing multiple programs concurrently.
+- Exceptional control flow - trasnfer control and react to external signals.
+- Exception - transfer of control to the kernel in response to an event. An event handler will deal with the event. 
+- Three possible outcomes:
+  - Re-execute the instruction
+  - Execute the next instruction
+  - Abort the process
+- Asynchronous Exceptions - interrupts, external to the processor
+- Synchronous exceptions - traps, faults, aborts
+- Processes - instance of a running program/executable.
+  - Logical control flow - each process 'thinks' it has exclusive use of the CPU
+  - Private address space - each process 'thinks' it has exclusive memory usage
+- Program vs process
+- Multiple processes run on the computer with few CPUs.
+- Processes run concurrently if their instructions overlap in time.
+- Context switching -  pause the currently executing process, restore the process to another state
+- Fork-exec model. Fork is a system call which duplicates a process; exec overlays the current data with a new instance. Starting a new process in linux is forking, then calling exec. Processes are assigned PIDs to keep track.
 
 
 
