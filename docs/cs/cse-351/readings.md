@@ -292,7 +292,21 @@ Code injections: use buffer overflow to overwrite instructions and change the re
 - Higher associativity $$\to$$ fewer conflict misses
 - Larger cache size $$\to$$ fewer capacity misses
 
+---
 
+## 19. Cache Writes and Data Consistency
+- Writes change data, not just reading it.
+- Write-hit and write-miss
+- Write-hit:
+  - Write-through cache writes the change into the block in the cache and in the level below
+  - Write-back cache writes the change only to the block in the cache but makes a note that it changed; dirty bit must be stored
+- Write miss:
+  - Write allocate cache loads the block into cache before executing a write-hit
+  - No-write allocate cache skips the cache and sends the write to the level below
+- Write-back, write-allocate: avoid going to the lower level as much as possible
+- How to optimize code based on memory hierarchy?
+- Spatial and temporal locality
+- Cache blocking - block operations on a large data structure so chunks fit into the cache.
 
 
 
