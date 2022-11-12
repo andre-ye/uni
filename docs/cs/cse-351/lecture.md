@@ -338,10 +338,32 @@ z: ...
 - If the tag matches, it's a hit; if not, it's a miss.
 - We use every piece of the address in order to access the cache.
 
+---
 
+## Week 7 Wednesday - Caches III
+- Lab 4 will be released, on caches
+- Understanding how you as a programmer can make use of your knowledge about how caches work
+- Associativity - how many sets
+- Placement and replacement policies
+- Direct-mapped cache: when you have a block number, it goes in only one slot in the cache.
+- What if we repeatedly access in selective places which cause replacement every time in the cache? 
+- How can we use the space in the cache better than in a direct-mapped cache?
+- Associativity - each address maps to one set, each set can store a block in more than one way. 
+  - 1-way - direct-mapped
+  - Fully-associative: the entire cache is a single set.
+- Associativity $$E$$: the number of ways for each set.
+- There are $$(C / K) / E = S$$ cache sets.
+- If we increase associativity, we need fewer index bits. A fully associative set has a zero-bit index set.
+- If we decrease associativity, we need fewer tag bits.
+- Any empty block in the correct set can be used to store a block - valid bit indicates whether each block has valid or mystery data.
+- LRU (Least Recently Used) policy: kick out the oldest.
+- We can completely describe the cache organization with the number of sets, the associativity, and the block size; everything else can be calculated off of that
+- Cache line: $$K \times E \times S$$ data bytes, not including the valid bit or the tag. 
+- Layers of the cache: blocks, lines, sets, cache
 
+![image](https://user-images.githubusercontent.com/73039742/201489308-3d232883-4227-4022-a774-d45fe57507bc.png)
 
-
+- 
 
 
 
