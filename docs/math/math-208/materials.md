@@ -192,8 +192,16 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 - If a vector set spans $$S$$, then it is the basis for $$S$$ or vectors can be removed to form a basis for $$S$$.
 - Nullity of a matrix: the dimension of the null space.
 - Let a vector set be a set of $$m$$ vectors in a subspace $$S$$ of dimension $$m$$. If the vector set is linearly independent or spans $$S$$, the vector set is the basis for $$S$$.
-- 
 
+### 4.3: Row and Column Spaces
+- Row vectors come from viewing the rows of a matrix as vecotrs.
+- Column vectors come from viewing the columns of a matrix as vectors.
+- Taking the span of the row or column vectors yields the row and column space.
+- The dimension of the row space equals the dimension of the column space.
+- The rank of a matrix is the dimension of the row or column space of $$A$$.
+- The vectors in the general solution form a basis for the null space; the size of this set can be used to calculate the nullity
+- Rank-nullity theorem: the sum of the rank and the nullity equals the dimensionality of the codomain.
+- A system $$Ax = b$$ is consistent iff $$b \in \text{col}(A)$$. This solution is unique iff the columns of $$A$$ are linearly independent; the column space has the same dimensionality as the number of columns.
 
 
 
