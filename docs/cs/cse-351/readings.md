@@ -329,7 +329,22 @@ Code injections: use buffer overflow to overwrite instructions and change the re
 - Context switching -  pause the currently executing process, restore the process to another state
 - Fork-exec model. Fork is a system call which duplicates a process; exec overlays the current data with a new instance. Starting a new process in linux is forking, then calling exec. Processes are assigned PIDs to keep track.
 
+---
 
+## 21. Processes II
+- `exec*()` - overlays current process data with new instances of the given program
+- Loading part of Compiler, Assembler, Linker, Loader
+- Stack, Heap, Data, Code, register values
+- Where does the starting state of a new program come from? Data, code, heap, stack, registers
+- A process ends/terminates by executing the return statement from main, calling the library function exit, or by aborting an exception handler. 
+- Reaped - the system resources are removed
+- Process terminated but not reaped - zombie process
+- Parent process - responsible for reaping a child. Implicity (parent terminates) or explicitly (parent invokes `wait(pid)()` system call
+- An orphaned child is passed to a background process called `init` with a PID of 1.
+- Virtual memory - process abstraction of a private address space. Hides the actual amount of RAM installed on the machine.
+- Virtual vs physical address space.
+- Swap space: a part of the disk to temporarily hold additional memory.
+- 
 
 
 
