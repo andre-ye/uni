@@ -211,9 +211,18 @@ CSE 391
 - `^` negates the entire character set - anything except for what is in the set. Interprets signs literally.
 - `(..)\1` will match `abab`, `acac`, all repeated. `\1` is whatever was the frist saved one.
 
+---
 
+## Week 7
 
-
+### Intro to `sed`
+- `grep -E "CSE[^3][0-9]{2}" classes.txt`
+- `sed -r 's/REGEX/TEXT/'` - normal `sed` usage
+- By default `sed` does not change the contents of the file
+- You can use `sed -ri.bkp` to make changes in-place.
+- By default, `sed` replaces the first occurrence on each line. To change all matches, we need `'s/REGEX/TEXT/g'`.
+- You can escape special characters for the search criteria, but not for the replace string.
+- You can replace with backwards references.
 
 
 
