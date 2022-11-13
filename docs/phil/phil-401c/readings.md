@@ -733,6 +733,23 @@ Games with infinitely long histories have no end to begin backwards induction fr
 - Strategy - specifeis the action the player chooses for every history.
 - Nash equilibrium - a strategic profile from which no player wishes to deviate holding all other players' actions constant.
 - Steady state - nonequilibrium actions are taken, perturbations allow each player to eventually observe every other player's actions.
+- Nash equilibria ignore the sequential structure of an extensive game. Strategies are terated as made simultaneously and finally before the game begins.
+- Subgame - a subhistory and its corresponding players, playe rfunctions, and preferences.
+- Proper subgame - not the entire game.
+- No. subgames $$=$$ no. nonterminal histories
+- Subgame perfect equilibrium - a strategy profile with the property that in no subgame can a player do better by choosing a different strategy, holding all other players' actions constant.
+- Every subgame perfect equilibirum is a Nash equilibrium.
+- A subgame perfect equilibrium is a strategy profile which induces a Nash equilibrium in every subgame.
+- Principle of optimality, dynamic programming
+- Nash equilibria assume that long experience allows players to develop correct beliefs about other players' options.
+- Subgame perfect equilibrium - players can take nonequilibrium actions to eventually form correct beliefs about other players' strategies.
+- Subgame perfect equilibrium - players' rational calculations about each others' strategies.
+- This definition is not helpful when there is more than one optimal action.
+- Backwards induction - finding subgame perfect equilibria of finite horizon games
+- Backwards induction - fuind the optimal actions of players moving in subgames of length 1, then length 2, ..., $$k$$, given the optimal actions of previous games.
+- When there is more than one possible outcome, we need to trace out combinations of optimal actions.
+- A finite extensive game does not necessarily have a single subgame perfect equilibrium.
+
 
 ### 6. Extensive Games with Perfect Information: Illustrations
 - The ultimatum game
