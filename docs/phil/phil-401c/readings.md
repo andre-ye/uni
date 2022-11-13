@@ -731,8 +731,13 @@ Page 173. 5.1 - 5.3 assigned.
 - Backward induction cannot be applied to every extensive game with perfect information - there is often an open case.
 Games with infinitely long histories have no end to begin backwards induction from.
 - Strategy - specifeis the action the player chooses for every history.
+- Nash equilibrium - a strategic profile from which no player wishes to deviate holding all other players' actions constant.
+- Steady state - nonequilibrium actions are taken, perturbations allow each player to eventually observe every other player's actions.
 
-Page 181
+### 6. Extensive Games with Perfect Information: Illustrations
+- The ultimatum game
+- The holdup game
+- Agenda control
 
 ### 12. Rationalizability
 Page 397 in PDF
