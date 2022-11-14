@@ -307,6 +307,33 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 - What if rationality is not common knowledge? What can happen when we believe the other person isn't rational? etc. etc.
 - When players have incorrect or misperceived beliefs, we can choose out of equilibria.
 
+---
+
+## Week 8 Monday
+- Not everyone acts, and then things simultaneously happen, like Nash equilibria may suggest. 
+- Preferences in cases of sequential dependence need to be modeled sequentially
+- Goals:
+  - Understand notation used in the Osborne textbook
+  - Define what a subgame perfect equilibrium is
+- Set of players - unique decision maker. 
+- Two types of histories - subhistories and terminal histories.
+- Terminal histories are histories in which the game concludes. 
+- Proper subhistory: the game hasn't ended yet. Contains the empty history/sequence - no one has done anything yet.
+- Player function - who plays after each subhistory?
+- Strategy - tells a player what they might do even in places which they might never end up with if they followed the strategy.
+- A strategy must specify all of the components of decision responses.
+- Strategic profiles - all combinations of possible actions, even if they never materialize.
+- We can create game matrices after particular subhistories. 
+- What does the game look like after a player has chosen? Include all strategies which are available even if it has been ruled out.
+- Subgame perfect equilibrium - a strategic profile is a Nash equilibrium of every subgame.
+- Why does this matter? 
+- No joining, tree structures
+- Backwards induction
+
+
+
+
+
 
 
 
