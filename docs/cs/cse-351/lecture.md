@@ -363,8 +363,25 @@ z: ...
 
 ![image](https://user-images.githubusercontent.com/73039742/201489308-3d232883-4227-4022-a774-d45fe57507bc.png)
 
-- 
+---
 
+## Week 8 Monday - Caches Iv
+- Write-hit: data is already in the cache.
+  - Write-through - write immediately to new level
+  - Write-back - defer write to next level until the line is evicted. 
+- Dirty bit - needed for write-backs.
+- Write-miss - data is not in the cache.
+  - Write allocate: load into cache, then execute write-hit policy.
+  - No write allocate - write around, write immediately to next level.
+- Two philosophies - you see Write-back + Write allocate (bring into cache), Write-through + No-write allocate (skip the cache); former used the most
+- How to optimize for the memory hierarchy?
+  - Write code which exhibits locality - spatial and temporal.
+- The order in which you do your accesses in can totally change the performance.
+- Medical access are expensive
+- Process-Memroy exterior.
+- All system,s regardlss of their parametrers, benefit from came from good code.
+-  What is goodness here of an action?
+-  Common case optimization - one of the foundations of computer vscience.
 
 
 
