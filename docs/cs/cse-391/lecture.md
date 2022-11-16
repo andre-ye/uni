@@ -89,7 +89,13 @@ CSE 391
 ## Week 7
 - `git switch` - change which branch you are on
 - `grep -E` can be used to search for regular expressions
-- 
+
+---
+
+## Week 8
+- SED - stream editor
+- `-r` to use regular expressions.
+- `\s` - any whitespace (space or tab)
 
 
 
