@@ -365,7 +365,7 @@ z: ...
 
 ---
 
-## Week 8 Monday - Caches Iv
+## Week 8 Monday - Caches IV
 - Write-hit: data is already in the cache.
   - Write-through - write immediately to new level
   - Write-back - defer write to next level until the line is evicted. 
@@ -383,6 +383,49 @@ z: ...
 -  What is goodness here of an action?
 -  Common case optimization - one of the foundations of computer vscience.
 
+---
+
+## Week 9 Monday - Processes I
+- Average Memory Access Time (AMAT) - there are other cache performance metrics
+- What is the consequence of choosing a specific metric? We tend to optimize the metrics we choose.
+- We might be incentivized to do bizarre things for metrics at scale.
+- Success is defined across metrics
+- Minoritized participation in computing - what does success/participation look like here?
+- How far to get people? What is optimization of some groups over others?
+- Metrics are a 'heading'
+- The way we define success shapes the systems we build
+- Processes - caches were exclusively in the basement of hardware, now we will involve the operating system.
+- How do we maintain logical consistency?
+- Terminology and concepts
+- Control flow - how to multiple programs run concurrently? # programs $$>$$ CPUs
+- Exceptional control flow, based on the idea of an exception.  Transferring control between processes and the operating system.
+- Jumps, calls - change program state. 
+- But we also need to be able to change the system state.
+- Exceptions, process context switch, signals
+- Exception - transfer of control to the operating system (OS) kernel in response to an event.
+  - kernel - memory resident of OS
+- Three possibilities:
+  - Execute the instruction again
+  - Return to the next instruction
+  - Abort process
+- Exception table - structured like a jump data, but is an array of pointers to code (exception handlers).
+- Lowrer exception numbers have greater agreement.
+- Exception class
+  - Asynchronous exception - interrupts
+  - Synchronous exceptions - traps, faults, 
+- Accessing files is a privileged access.
+- `x64 -` syscall makes a system call. The number is passed into `%rax`.
+- Every level is above the cache below it.
+- Page fault - memory not in location. Need to go find.
+- =- Process is an abstrc=action create a simple collection of ideas to bring into plaaau.
+- process - way of running a program. Two abvstractions: dedicated logcal control machine. Each program achieves to have exclusive use of the CPUs.
+- Computers ru many pointers and programs ++ hos go hd k /
+- Start and end of processes
+- Not all CPUs have all resources
+- You can call functions in `C` tied to specific system calls, systemc alls are privileged. 
+- `fork` - creating new processes. Creates a new child process identical to the calling parent, return 0 to the child process, return the child's PId to the parent process.
+- 
+- 
 
 
 
