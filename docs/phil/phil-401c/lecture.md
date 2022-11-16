@@ -330,8 +330,15 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 - No joining, tree structures
 - Backwards induction
 
+----
 
-
+## Week 8 Wednesday
+- Backwards induction - a technique for finding subgame perfect equilibria.
+- Goals - apply backwards induction to find subgame perfect equilibria, identify assumptions about players' rationality which are necessasry to 'rationalize' subgame perfect equilibria. 
+- Look backwards and see how to maximize each player's utility given the later players' decisions.
+- If the utilities end up being the same, you just need to be more careful.
+- Every choice is a bestr esponse in a subgame which leads this player to have a particular choice to make.
+- Backwards domination assumes that players have full knowledge of other players' utilities.
 
 
 
