@@ -208,9 +208,27 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 - Change of basis matrix - switch from a basis to the standard basis. The inverse switches from the standard basis to the basis.
 - Composit basis matrices and theri inverses to switch from one basis to another.
 
+---
 
+## Week 8
 
-
+### 5.1: The Determinant Function
+- Determinant of a square matrix - produces a single real number.
+- A matrix is invertible only if the determinant is not equal to zero.
+- The determinant of a $$2 \times 2$$ matrix is $$ad - bc$$.
+- Shortcut method - draw down-left arrows as minus and down-right arrows as plus. 
+- Pipes around a matrix indicate the determinant.
+- $$M_{ij}$$ - the smaller matrix we can get by removing the row and column containing $$a_{ij}$$. The determinant of this is the minor of $$a_{ij}$$.
+- Cofactor of $$a_{ij}$$: $$C_{ij} = (-1)^{i+j} \text{det}(M_{ij})$$
+- General definition of determinant: The determinant of $$A$$ is $$a_{11}C_{11} + a_{12}C_{12} + \hdots + a_{1n} C_{1n}$$
+- Recursively defined function
+- $$n \ge 1 \implies \text{det}(I_n) = 1$$
+- Cofactor expansions - can expand across any row or column.
+- If $$A$$ is triangular, the determinant is the product of the terms along the diagonal.
+- The determinant of a matrix and its transpose are equivalent.
+- If $$A$$ has a row or column of zeros, or has two identical rows or columns, then the determinant is zero.
+- $$det(AB) = det(A) det(B)$$
+- Computing determinants is a slow and difficult process.
 
 
 
