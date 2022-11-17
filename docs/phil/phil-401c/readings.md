@@ -777,6 +777,20 @@ Page 397 in PDF
 - Mark actions of each player which are weakly dominated; remove all marked actions; repeat until no actions can be eliminated.
 - Dominance solvability - if players are indifferent between action profiles which survive when we perform iterated elimination of all weakly dominated actions, the game is dominance solvable.
 
+### 14. Repeated Games
+- When interaction is repeated, members can condition actions on previous actions. We can represent this as an extensive game.
+- Players may be deterred from exploiting short-term advantage by punishment.
+- Grim trigger strategy - if the player chooses confess, then you play confess for every other game.
+- Another Nash equilibrium - each player chooses $$D$$ after every history.
+
+Preferences
+- Discounted summing - why do people value future payoffs less than others?
+- Discounted average - 
+- In preferences over atemporal lotteries, equivalent payoff functions are closed under linear transformation.
+
+Repeated Games
+Page 444
+
 ---
 
 ## "Knowledge and Equilibrium in Games", Adam Brandenburger
@@ -813,6 +827,7 @@ Page 397 in PDF
 ### Solution Concepts
 ![image](https://user-images.githubusercontent.com/73039742/200722108-c3c54d8a-b7c8-4869-b2d4-6fa9854456a2.png)
 
+---
 
 
 
