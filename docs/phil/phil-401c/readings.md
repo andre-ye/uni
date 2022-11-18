@@ -789,7 +789,16 @@ Preferences
 - In preferences over atemporal lotteries, equivalent payoff functions are closed under linear transformation.
 
 Repeated Games
-Page 444
+- Repeated game - extensive game with perfect information and simultaneous moves, a discount factor $$\delta$$, $$T$$ periods
+- Infinitely repeated games
+
+Finitely repeated Prisoner's Dilemma
+- Every Nash equilibrium generates the same outcome path - in the case of the Prisoner's Dilemma, (D, D).
+- Every subgame perfect equilibrium of an extensive game is a Nash equilibrium
+
+Infinitely repeated Prisoner's dilemma
+- Every outcome path has a last period in which at least one player chooses C. 
+- The fixed finite horizon exerts a large influence on players' behavior. 
 
 ---
 
