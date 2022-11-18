@@ -230,6 +230,19 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 - $$det(AB) = det(A) det(B)$$
 - Computing determinants is a slow and difficult process.
 
+---
+
+## Week 9
+
+### 5.2: Properties of the Determinant
+- Convert the matrix into echelon form and multiply terms along the diagonal.
+- Properties of a square matrix:
+  - Interchanging two rows negates the determinant.
+  - Multiplying a row by a constant multiplies the determinant by the reciprocal.
+  - Adding a multiple of a row to another does not change the determinant. 
+  - This applies to columns as well.
+  
+  Page 223
 
 
 
