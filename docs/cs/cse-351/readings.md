@@ -331,7 +331,7 @@ Code injections: use buffer overflow to overwrite instructions and change the re
 
 ---
 
-## 21. Processes II
+## 21. Processes II, Virtual Memory I
 - `exec*()` - overlays current process data with new instances of the given program
 - Loading part of Compiler, Assembler, Linker, Loader
 - Stack, Heap, Data, Code, register values
@@ -344,8 +344,19 @@ Code injections: use buffer overflow to overwrite instructions and change the re
 - Virtual memory - process abstraction of a private address space. Hides the actual amount of RAM installed on the machine.
 - Virtual vs physical address space.
 - Swap space: a part of the disk to temporarily hold additional memory.
-- 
 
+---
+
+## 22. Virtual Memory II
+- Virtual memory must be able to make efficient use of limited physical memory.
+- Page: $$P = 2^p$$, page size denoted in bytes.
+- Physical page numbers and virtual page numbers.
+- Most processes do not need to use most of the virtual address space. Unused virtual pages never have space allocated.
+- Physical memory as cache
+- Page tables - maps VPN to PPN
+- Page table entry - valid bit, dirty bit, access rights bits
+- Memory protection - protect and share memory between processes when desired. Page tables (managed by OS) do this for us.
+- Access rights - mimic Linux file access perms
 
 
 
