@@ -241,8 +241,9 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
   - Multiplying a row by a constant multiplies the determinant by the reciprocal.
   - Adding a multiple of a row to another does not change the determinant. 
   - This applies to columns as well.
-  
-  Page 223
+- $$det(AB) = det(A) det(B)$$. $$det(AB) = det(BA)$$. Multiplication of real numbers is commutative.
+- $$det(A^{-1}) = \frac{1}{det(A)}$$
+
 
 
 
