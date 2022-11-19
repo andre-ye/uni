@@ -300,7 +300,25 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 - To express as a basis: find the inverse of the matrix formed by horizontally concatenating the column vectors and multiplying by the vector in standard $$\mathbb{R}^n$$.
 - We need pivots in all cases to be able to invert a matrix and change the bases.
 
+---
 
+## Week 8 Friay
+- Determinant: maps the set of square matrices to the real numberrs. 
+- Trace - sum of the diagonal elements.
+- The determinant was discovered before matrices were formulated.
+- Worked on mainly by Cauchy
+- Determinant - a certificate for invertibility, is zero if the matrix is not invertible. 
+- How to compute the determinant.
+- Determinant of a two-by-two matrix: products of diagonals minus products of the up-diagonals
+- If there are many zeros in a row or column, pick that for the cofactor expansion.
+- The cofactor expansion is the same regardless of which row or column you choose on. 
+- The determinant is the area of the parallelgogram formed by the column vectors.
+- Determinant of a multi-dimensional matrix - volume spanned by the column vectors
+- Recursively, you can prove that the determinant of a diagonal matrix is the product of all the elements. It is also the product of the eigenvalues in the matrix. 
+- The determinnat of a triangular matrix is still the product of the diagonals.
+- A diagonal or triangular matrix is only invertible when none of the numbers along the diagonal are zero.
+- Laplace expansion (cofactor expansion)
+- 
 
 
 
