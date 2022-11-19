@@ -424,10 +424,39 @@ z: ...
 - Not all CPUs have all resources
 - You can call functions in `C` tied to specific system calls, systemc alls are privileged. 
 - `fork` - creating new processes. Creates a new child process identical to the calling parent, return 0 to the child process, return the child's PId to the parent process.
-- 
-- 
 
+---
 
+## Week 9 Friday - Processes II, VM I
+- Parent and choice processes
+- We cannot predict the execution order of the parent and the child.
+- Changes to local variables are independent.
+- Modeling fork with process graphs: a useful tool to capture partial ordering of statements in a concurrent program.
+- `fork-exec` model: the child process calls `exec*`.
+- `execv` takes in the path tot eh executable and any command line arguments needed.
+- Calling `ls` creates a new process, for instance
+- `exit(status)` - explicitly exits a process. `return` also ends a process in C.
+- Zombies - a terminated process still consumes system resources. Various tables maintained by OS. No longer executing instructions but still consuming resources.
+- Reaping - performed by a parent on a terminated child.
+- `init` - process 1. Takes responsibility.
+- `wait` - suspends the current process until one o fits children terminates
+- Virtual memory: from supporting control flow to data access across multiple crosses
+- VM = Virtual Memory
+- Memory as we know it so far is virtual.
+- Programs refer to virtual memory addresses.
+- Virtual Memory: solving many problems
+  1. How does everything fit?
+  2. Memory management - how to decide where things go and where to find things
+  3. How to protect private address space
+  4. How to share memory sharing
+- Indirection: referencing something using its name or container instead of the value itself. Refer to something without knowing exactly where it is.
+- Indirection in virtual memory: each process has the illusion of its own virtual memory space. 
+- In hardware, we have a mapping between the virtual address and the physical memory address.
+- Virtual address can be mapped to physical memory or the disk.
+- Disk - 'swap space'. Extra space which can be used to store the residual data. 
+- DIstinguish between virtual and physical address space.
+- Every byte in main memory has one physical address and any number of virtual addresses.
+- 64-bit machine and 8 processes: $$2^{67}$$ bytes of address space.
 
 
 
