@@ -224,13 +224,33 @@ CSE 391
 - You can escape special characters for the search criteria, but not for the replace string.
 - You can replace with backwards references.
 
+---
 
+## Week 8
 
+### Introduction to users, groups, adn permissions
+- `whoami` - tells you your username
+- `users` - see other users on the server
+- `pinky` - see user IP addresses, names, etc.
+- `groups`
+- `ps` - see processes
+- ps -u username`
+- `top` / `htop` - updated processes on the system by intensity
+- `kill pid` - kill process ID, only accessible to admins. Give people only as much power as they need.
+- Virtual machine 
+- `sudo` - `super user do`
+- `sudo` - gives you higher permissions
+- Short-hand: `!!` refers to the last command that you ran, e.g. `sudo !!`
 
-
-
-
-
+### `bashrc`, `bash_profile`, and `$PATH`
+- Customizability of linux systems - customize your shell, giving you a starting point for your UX on Linux.
+- `.bash_profile` and `.bashrc`
+- `.bash_profile`, goes through line by line and runs various commands. Every time you log into your system, bash runs the contents of this file.
+- You can set up an alias on `.bashrc` - `alias name="cmd"`.
+- `source .bashrc` - reload/rerun the file.
+- `$PATH` variable, string that bash does to look for commands in.
+- Use `PATH=$PATH:/...` to redirect the path variable to the current path.
+  - To make this persistent, add it to your `.bashrc`.
 
 
 
