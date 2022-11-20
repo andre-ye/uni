@@ -358,6 +358,47 @@ Code injections: use buffer overflow to overwrite instructions and change the re
 - Memory protection - protect and share memory between processes when desired. Page tables (managed by OS) do this for us.
 - Access rights - mimic Linux file access perms
 
+---
+
+## 23. Virtual Memory III
+- Page hit - if the requested page does live in physical memory.
+- Page fault - the requested page is not in physical mmeory (in swap space on the disk)
+- Translation lookaside buffer (TLB) - hardware cache, reduce the number of memory accesses needed during address translation
+- TLB hit - page entry table found, MMU can do address translation without ever accessing the page table.
+- Virtual address: first, TLB lookup
+  - TLB hit: protection check
+    - Access permitted: physical address
+      - Check cache: miss or hit
+    - Access denied: protection fault, SIGSEGV
+  - TLB miss: check page table
+    - Page in memory: update TLB and do protection check
+    - Page not in memory: find in the swap space and do protection check
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
