@@ -344,6 +344,15 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 
 ## Week 9 Monday
 - What if a player has multiple best responses?
+- When do game theorists believe Nash equilibria can plausibly describe real human interactions?
+- Each player's belief is derived from past experience, and that this is sufficiently extensive. 
+- A player confidently believes all players will behave in a certain way. If the player is rational, they will choose the best response. All players' actions are best responses to each other. These work together to form a Nash equilibrium.
+- Osborne's assumptions are weak - it does not require that agents are expeected utility maximizers, and does not require that players know other players' strategies. They do not need to know what their strategies are available or their preferences.
+- Why is always defecting the subgame perfect equilibria? Any strategy which defects on the last round will beat a strategy prescribing always collaborate. Then, the second defecting to last defecting will dominate the former. etc. etc. 
+- Dominance does not require probability assignment (expected utility maximization) or numerical utilities
+- For some item to be strictlyd ominated, you need to know what they will choose
+- Main questions - when do game-theoretic equilibria questions describe how people do and ought to behave?
+- To answer the normative question, ask what assumptions we need about decision methods.
 - 
 
 
