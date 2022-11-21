@@ -340,6 +340,11 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 - Every choice is a bestr esponse in a subgame which leads this player to have a particular choice to make.
 - Backwards domination assumes that players have full knowledge of other players' utilities.
 
+---
+
+## Week 9 Monday
+- What if a player has multiple best responses?
+- 
 
 
 
