@@ -458,5 +458,43 @@ z: ...
 - Every byte in main memory has one physical address and any number of virtual addresses.
 - 64-bit machine and 8 processes: $$2^{67}$$ bytes of address space.
 
+---
+
+## Week 10 Monday - VM II
+- Finals are a three-day window.
+- Virtual memory and virtual address space. 
+- You can use physical addresses, but this is only practical if a system only runs one process at a time. For instance, refridgerators, small electronics, etc.
+- Memory management unit - $$n$$ bits wide virtual address, mapped to a $$m$$ bits wide physical address
+- VM allows us to efficiently use main memory.
+- RAM used as a cache.
+- Page - transfer unit for virtual and physical memory. This is analogous to a block in caching. 
+- Page offset width - analogous to the virtual page number, block offset. 
+- Physical page numbers: correspond to positions in address spaces.
+- Page table entry - cache line
+- Access rights - management bits
+- Think of memory as an array of bytes split into pages. Pages are an aligned unit of memory.
+- There will be a different number of physical and virtual pages.
+- Another level below main memory - disk.
+- Caching policies
+- Large page size - 4-8 KiB or 2-4 MiB
+- We assume fully associated: if there is any space, we want to use it.
+- There are highly sophisticated replacement algorithms implemented in the Operating System
+- Main memory is write-back rather than write-through, try not to change disk. Pages will also have a dirty bit. Only write back when there is a change.
+- 'Thrashing' - performance meltdown, pages are swapped between memory and disk continuously.
+- Page tables - tells you which page you are referring to. Lookup table to translate from VPN to PPN.
+- A page table has to have an entry for every virtual page; they are very large. 
+- Hangling a page fault.
+- Every process has its own virtual address say, which is can view as a single linear array.
+- We have to access physical memroy through a page table.
+- If sharing is required, both page tables need to store the same page number.
+- VM simplifies link & load.
+
+
+
+
+
+
+
+
 
 
