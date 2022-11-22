@@ -302,7 +302,7 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 
 ---
 
-## Week 8 Friay
+## Week 8 Friday
 - Determinant: maps the set of square matrices to the real numberrs. 
 - Trace - sum of the diagonal elements.
 - The determinant was discovered before matrices were formulated.
@@ -318,7 +318,53 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 - The determinnat of a triangular matrix is still the product of the diagonals.
 - A diagonal or triangular matrix is only invertible when none of the numbers along the diagonal are zero.
 - Laplace expansion (cofactor expansion)
-- 
+
+---
+
+## Week 9 Monday
+- Matrix tree theorem - the determinant of a degree-based matrix representation of a graph is the number of spanning trees.
+  - Degree: number of edges touching each vertex.
+  - Laplacian of a graph - can tell connectivity, traversal rate, expansion, etc.
+- Symmetric matrix - equal to its transpose
+- What does Gaussian elimination do to deterimnants and how can we use this to create an algorithm for calculating determinants?
+- Interchanging two rows negates the determinant.
+- Scaling a row by a constant scales the determinant by that constant.
+- Scaling an $$n \times n$$ matrix scales the determinant by $$\lambda^n$$
+- Interchanging rows does not change the determinant.
+- If the determinant of a matrix isn't 0, then a transformation by gaussin elimination of that matrix returnst his status.
+- To find the equation of a plane: stack $$\langle x, y, z \rangle$$ with the given vectors, set determinant to zero, and solve. Need to find a $$n-1$$ dimesnional plane in $$\mathbb{R}^n$$. This is the hyperplane.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
