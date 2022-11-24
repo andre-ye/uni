@@ -838,10 +838,41 @@ Infinitely repeated Prisoner's dilemma
 
 ---
 
+## "Unstrapping the Straitjacket on Preference", Anderson
 
+I. AMARTYA SEN'S CRITIQUE OF THE CONCEPT OF PREFERENCE
+- Preference dominates economic theory.
+- The rational act is the act which maximally satisfies an individuals' preferences.
+- Conversion of dogma into tool
+- Distinct usages of 'preference' -- choices, motives, welfare
+- A person may not choose in a way to maximally satisfy preferences. 
+- Prisoner's dilemma: person can be motivated by moral principle.
+- Preference is used in normative economics to make judgements about individ. welfare, the good of society, and principles of rational choice.
+- People have motives wider than just self-interest.
+- Utility is insufficient to ground ethical or socially rational evaluation. We need to enrich the information provided in our evaluations of individual and social welfare.
+- Argument: we must enrich rational theory beyond individual preference.
+  - Reasons for action
+  - Collective agency, individual identity
+- Committed action becomes action on principles which are rational for any group of people as a collective agent to adopt; therefore, any individual who identifies as a member of that collective group can rationally act as such.
 
+II. WHY THE ECONOMIC THEORY OF RATIONAL CHOICE CANNOT
+GROUND A GENERAL SOLUTION TO PRISONER'S DILEMMAS
 
+- Non-cooperation dominates cooperation, even though cooperation is a better outcome.
+- Proposal: incorporate sympathetic or altruistic preferences, or that cooperation is valued intrinsically. These do not show that it is rational to cooperate in prisoner's dilemmas, but just that payoffs to parties do not have the structure of prioner's dilemmas anymore.
+- Prisoner's dilemmas emerge when an isolated action has marginal effect in socially determined outcomes, such as democratic voting -- even when we have altruistic preferences.
+- Sen: people enjoy voting in itself, therefore it is rational. Anderson: doesn't make sense. 
+- Anti-consequentialism towards rule-consequentialism: any measure of an individual's sole marginal causal impact will result in prisoner's dilemmas.
 
+III. THE RATIONAL BASIS OF COMMITTED ACTION
 
+- Cooperation can only be rationalized in a non-consequntialist principle of rational choice. We cannot justify cooperation on maximum satisfaction of preferences. _Committed action._
+- Parties of a prisoner's dilemma identify with each other as common members of a social group. Discussion allows for deliberation upon unified bases.
+- Universalization principle - rules out maximizing expected utility.
+- Socialized plural first-person: rules out apathy from marginal gains.
+
+> The Priority of Identity to Rational Principle: what principle of choice it is rational to act on depends on a prior determination of personal identity, of who one is.
+
+Page 10
 
 
