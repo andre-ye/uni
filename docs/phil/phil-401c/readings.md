@@ -873,6 +873,43 @@ III. THE RATIONAL BASIS OF COMMITTED ACTION
 
 > The Priority of Identity to Rational Principle: what principle of choice it is rational to act on depends on a prior determination of personal identity, of who one is.
 
-Page 10
+- Expected utility is conditional on assuming one's individuality and detachment from collective agencies.
+- Principles of committed action are universalizable among social groups.
+- Shared intention is enough to constitute individuals as a social group with a functionally shared identity.
+- When is it rational to identify with others?
+- Uncritical identification with collective agencies might be irrational.
+
+IV. WOMEN, COOPERATIVE CONFLICT, AND RATIONAL
+IDENTIFICATION
+
+- Material inequality between women and men can be traced to marriage and gendered divisions of domestic labor.
+- Why do husbands and waves not more equally share rewards in joint production?
+- Parties bargain into a Nash equilibrium. 
+  - The cost for exiting marriage is higher for women than for men.
+- Marriage is painted as a relationship of love and not of exchange. Relationships for exchange are marekd as prostitutional.
+- Women Indian asked about their welfare respond with their family's interests: inability to differentiate personal and social interests.
+- Women manifest committed motivations.
+- Women accept fewer resources because they think they should not act as hard bargainers: worse off than if they were rational egoists.
+- The individual self is authorized to situate one's role in various collective identities.
+- Indiivduality emerges out of a social order.
+- The test for valid reasons: universalizability among those who rationally identify with the group.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
