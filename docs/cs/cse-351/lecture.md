@@ -489,6 +489,38 @@ z: ...
 - If sharing is required, both page tables need to store the same page number.
 - VM simplifies link & load.
 
+---
+
+## Week 10 Wednesday: Virtual Memory III
+- Address translation: page hit. Processor sends a virtual address to the MMU, which retrieves the page table entry
+- Page fault handling
+- Translation is slow. Translation Loookaside Buffer (TLB) is a cache. Store page table entries instead of a block of data.
+- TLB: maps VPNs to PPNs, stores page table entries for a small number of pages.
+- A TLB hit eliminates a memory access.
+- TLB misses are rare
+- Fetching data: address translation.
+  - If TLB hit, then we have the PPN, so go to it.
+  - TLB miss, we need to check the page table.
+- Then, fetch data (check cache): cache hit or cache miss.
+- Address translation: virtual addresses to physical address to cache checking.
+- Address manipulation: translation, different requests
+- Context switching: all addresses look the same. So when is it virtual and when is it real?
+- What happens when the CPU switches processes?
+  - Registers are part of the process and need to be saved & loaded
+  - Memory: don't need to do anything, pages are already protected from each other.
+  - TLB: all entries need to be invalidated.
+  - Cache: can leave this alone, since it is storing chunks of memory.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
