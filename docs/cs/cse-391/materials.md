@@ -252,6 +252,16 @@ CSE 391
 - Use `PATH=$PATH:/...` to redirect the path variable to the current path.
   - To make this persistent, add it to your `.bashrc`.
 
+### File and Directory Permissions
+- File permissions:
+  - Is it a directory - `d`
+  - Owner: `rwx`
+  - Group: `rwx`
+  - Others: `rwx`
+- If you own a file, you can always change the permissions.
+- `chmod u+x`: give execute permissions to the owner (`u`). 
+- Octal codes: +4, +2, +1. `444` - everyone gets write. 
+- `umask`: sets default permissions for newly created files.
 
 
 
