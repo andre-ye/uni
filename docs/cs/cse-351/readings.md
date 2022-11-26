@@ -373,7 +373,46 @@ Code injections: use buffer overflow to overwrite instructions and change the re
   - TLB miss: check page table
     - Page in memory: update TLB and do protection check
     - Page not in memory: find in the swap space and do protection check
-- 
+
+---
+
+## 24. Memory Allocation I
+- Dynamically allocated data - memory whose size can only be determined at runtime. vs. automatically allocated data (local variables tied to stack frames), statically allocated data (global variables).
+- The heap is managed by a dynamic memory allocator. 
+- Heap is organized into heap blocks, which are either allocated or freed.
+- Implicit allocator: programmer only responsible for allocations; explicit: also handles de-allocations.
+- Dynamic memory allocators -- want to maximize throughput and memory utilization, but this often comes at the cost of each other
+- How to track free blocks? Implicit free list - uses arithmetic by using the size of each block. Explicit: travels free blocks using a linked list.
+- `void* malloc(size_t size)` - will initialize at least `size` bytes of uninitalized memory
+
+```
+int* ptr = (int*) malloc(n * sizeof(int));`
+```
+
+- To free memory, use `void free(void* p)`. Must hold the same address as was returned by a `malloc`.
+- Heap fragmentation -- internal, wasted space inside of heap blocks; external, wasted space between heap blocks
+- Payload -- the requested space.
+- Additional space at the end doesn't count as external fragmentation because you can add more to the heap.
+
+---
+
+## 25. Memory Allocation II
+- First fit - search from the beginning and return the first large enough free block.
+- Next fit - search starting from the last search and return the first free block (wrapping around the end)
+- Best fit: search through the entire list and return the best free block.
+- Steps to fulfill an allocation request:
+  1. Compute necessary block size
+  2. Search for a free block using the allocation strategy.
+  3. Compare the block size against the size of the block. If not equal, split off the excess and convert into a new free blcok.
+  4. Allocate the block and return the beginning of the payload.
+- The allocator follows alignment procedures.
+- Minimum block size
+- You can free a block by flipping its allocatted flag.
+- Coalescing: combining neighboring free blocks into a larger free block.
+- Footer: a copy of the header but at the end of the block so it can be read by the next block.
+- Boundary tags -- header and footer.
+- Explicit free list - uses a doubly linked data structure.
+
 
 
 
