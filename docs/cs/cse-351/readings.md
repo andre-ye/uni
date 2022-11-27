@@ -413,7 +413,15 @@ int* ptr = (int*) malloc(n * sizeof(int));`
 - Boundary tags -- header and footer.
 - Explicit free list - uses a doubly linked data structure.
 
+---
 
+## 26. Memory Allocation III
+- Garbage collection - automatic memory management employed by implicit dynamic memory allocators. 
+- When to free a piece of dynmaically allocated memory?
+- Memory is a directed graph: each heap block is a node on the graph, each pointer is an edge, locations not in the heap are root nodes.
+- Any unreachable heap node is not in use by a process and is garbage.
+- Mark and sweep. Mark bit used to track freeing.
+- How to deal with  memory in C? 
 
 
 
