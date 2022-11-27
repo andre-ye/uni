@@ -894,12 +894,44 @@ IDENTIFICATION
 - Indiivduality emerges out of a social order.
 - The test for valid reasons: universalizability among those who rationally identify with the group.
 
+---
 
+## "Collective Intentions and Team Agency", Gold and Sudgen
 
+- Collective intentions - intentions associated with joint actions. 'We' in addition to 'I'. 
+- We cannot represent collective intentions just as the sum of individual intentions. 
+- How to differentiate collective intentions from mutually consistent individual intentions?
+- Nash equilibrium - generally interpreted as a contexxt in which all players are rational individual agents.
+- Are Nash equilibria joint actions?
+- Problems arise in considering collective intensions because they have been considered in terms of mental states rather than mental processes.
+- Team agency -- team reasoning, a distinctive mode of reasoning which allows members of teams to function together.
+- Result of reasoning constitutes an intention.
+- intention -- between reasoning and action
 
+I. Collective Intentions and Nash Equilibrium
+- A 'we-intention': player 1 intends to do A, player 1 believes player 2 will do A, player 1 believes player 2 believes player 1 will do A, and so on. **Becomes a network of mutual beliefs.**
+- Every Nash equilibrium becomes a case of collective intentionality; is this so?
+- Searle: argues that we-intentions are not reducible to combinations of I-intensions and beliefs. We-intentionsa re primitive because of their distinct phenomenology. 
+- Previous work likes to appeal to intuitive understanding of cooperation and collective action.
+- Bratman - shared intention.
+- Mutual responsiveness?
 
+II. Team Reasoning
+- Agency is invested in individuals: the presupposition of game theory.
+- Preferences may take account of effects on other people, but theya re still her preferences.
+- Small antiorthodoxy: teams of individuals count as agents: make towards the possibility of Pareto improvement.
+- Prisoner's dilemma: conventional game theory fails to predict empirical results -- many people have the intuition than cooeprate is the rational choice. Should we make a normative argument in favor of defect?
+- Hi-Lo game: each player chooses from the same set of labels and get a reward if they both choose the same, (High, High) > (Low, Low) > (High, Low) = (Low, High).
+  - Initially, Hi-Lo seems trivial. (high, High). But both (High, High) and (Low, Low) are Nash equilibria.
+  - _We cannot deduce that participants will choose high_ in standard descriptive game theory.
+  - There is no sequence of steps of valid reasoning by which rational players can conclude that they ought to choose high.
+  - Is something fundamentally wrong with the entire business of coordination analysis in game theory?
+- Individuals move from preferences to decisions.
+- When an individual reasons as a member of team, they consider the combination of actions. The axiomatic source of rationality is the team, rather than the individual.
+- Team reasoning as a mode of reasoning: 
+- A mode of practical reasoning is valid if it is success-promoting.
 
-
+Page 14 in PDF
 
 
 
