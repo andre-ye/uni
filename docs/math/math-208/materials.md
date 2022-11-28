@@ -244,6 +244,41 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 - $$det(AB) = det(A) det(B)$$. $$det(AB) = det(BA)$$. Multiplication of real numbers is commutative.
 - $$det(A^{-1}) = \frac{1}{det(A)}$$
 
+---
+
+## Week 10
+
+### 6.1:  Eigenvalues and eigenvectors 
+- NOnzero vectors which satisfy the equation $$A \mathbf{u} = \lambda \mathbf{u}$$ are eigenvectors. $$\lambda$$ is an eigenvalue of $$A$$.
+- If $$\mathbb{u}$$ is an eigenvalue of $$A$$ associated with eigenvalue $$\lambda$$, then $$cu$$ for $$C \in \mathbb{R}, c \neq 0$$ is also an eigenvector of $$A$$ associated with $$\lambda$$.
+- Eigenvectors form a subspace of $$\mathbb{R}^n$$ for an $$n \times n$$ matrix with eigenvalue $$\lambda$$. It is the nullspace of the matrix $$A - \lambda I_n$$.
+- Eigenspace: the subspace of all eigenvectors.
+- $$\lambda$$ is an eigenvalue of $$A$$ iff $$\text{det}(A - \lambda I_n) = 0$$.
+- Characteristic polynomial: the polynomial resulting from the determinant equation.
+- Characteristic equation: setting the characteristic polynomial equal to 0.
+- Eigenvalues of the matrix $$A$$ are the roots of the characteristic equation.
+- Multiplicity of an eigenvalue: its factor's exponent. 
+- A root $$\alpha$$ of $$P(x) = 0$$ has multiplicity if $$P(x) = (x - \alpha)^r Q(x), Q(\alpha \neq 0$$. 
+- The dimension of the associated eigenspace is less than or equal to the multiplicity of $$\lambda$$, where $$\lambda$$ is an eigenvalue of a matrix.
+- If a matrix is invertible / bijective, then $$\lambda = 0$$ is not an eigenvalue of $$A$$.
+
+
+### 6.2:  Diagonalization 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
