@@ -353,9 +353,30 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 - For some item to be strictlyd ominated, you need to know what they will choose
 - Main questions - when do game-theoretic equilibria questions describe how people do and ought to behave?
 - To answer the normative question, ask what assumptions we need about decision methods.
+
+---
+
+## Week 10 Monday
+- Decision theory has both descriptive and normative interpretations.
+- Why might Nash equilibria descriptively be accurate?
+- Why do game theorists believe Nash equilibria describe real human interactions? 
+- We also want a normative claim -- when should we make decisions?
+- Normative 'ought':
+  - Legal and moral obligations might conflict.
+  - We are often tempted to infer normative morality from what we are restricted to do.
+- Should we distinguish rationality and morality?
+- Suppose being rational is maximizing one's preferences: then obligation by rationality may differ from morality.
+- Misalignment between rationality and morality: how to engineer rationality in line with what is morally right.
+- Decision theorists aim to describe what rationality requires.
+- EUT - characterize the obligation of individuals to rational fulfillment of preferences
+- Can we appropriate Osborne to derive a normative conclusion. 
+- Kant - categorical imperitive. A correctc chracaterization.
+- Ac ariant of OSborn'es argument
+  1. Premise 1: a player shodl maximize expected subjective probability.
+  2. A player's best respond is tha action whihch maximi
+- What does it man to act because of resasons? Is there a conssitent rent?
+- Economist often read game theory by invidiaulsa; wnr45eon w5yu4e 6hw6 5w6ionwli6y fwnno un6r45e6wnr tully ti5e6-y4w5.
 - 
-
-
 
 
 
