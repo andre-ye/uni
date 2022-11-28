@@ -264,8 +264,15 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 
 
 ### 6.2:  Diagonalization 
+- Diagonal matrices are easier to work with.
+- Diagonalizing a matrix: expressing it as a product of three matrices, in which the middle matrix is diagonal.
+- A matrix is diagonalizable if there exists $$n \times n$$ matrices $$D$$ (diagonal) and $$P$$ (invertible) such that $$A = PDP^{-1}$$.
+- Diagonalizing allows for more efficient analysis and computation of matrix powers.
+- If $$A$$ has $$n$$ linearly independent eigenvectors, then let $$P$$ be the horizontal concatenation of eigenvectors as column vectors, and let $$D$$ be filled with the corresponding eigenvalues along the diagonal.
+- The diagonalization formula can be used to create matrices with specified eigenvalues and eigenvectors. 
+- An $$n \times n$$ matrix is diagonalizable iff it has eigenvectors which form a basis for $$\mathbb{R}^n$$.
 
-
+Page 264 - summary
 
 
 
