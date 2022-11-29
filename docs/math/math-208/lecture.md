@@ -334,6 +334,24 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 - If the determinant of a matrix isn't 0, then a transformation by gaussin elimination of that matrix returnst his status.
 - To find the equation of a plane: stack $$\langle x, y, z \rangle$$ with the given vectors, set determinant to zero, and solve. Need to find a $$n-1$$ dimesnional plane in $$\mathbb{R}^n$$. This is the hyperplane.
 
+---
+
+## Week 10 Monday
+- Median - 80%
+- A vector is an eigenvector of a matrix with a given eigenvalue if $$A u = \lambda u$$.
+- The rotation matrix does not have real eigenvectors for values of theta other than 0 and 180 degrees.
+- Eigenspace - the set of all eigenvectors
+- An $$n \times n$$ matrix can have at most $$n$$ values. 
+- Goal - to compute all eigenvalues and eigenspaces of some matrix. 
+- Steps to derive the eigenvalue
+  1. $$\lambda$$ is an eigenvalue of $$A$$ iff $$\exists u \neq 0 : Au = \lambda u = \lambda I u$$
+  2. $$\exists u \neq 0 : Au - \lambda I u = 0$$
+  3. $$\exists u \neq 0 : (A - \lambda I)u = 0$$ - we are finding $$u$$ in the nullspace of $$A - \lambda I$$. The rank is less than $$n$$ because the nullity is nonzero (rank-nullity theorem). This means that the matrix is not bijective and therefore that:
+  4. $$\text{det} (A - \lambda I) = 0$$
+- Characteristic polynomial -- has degree equal to the size of the matrix. Every polynomial in one variable is the characteristic polynomial of a matrix. (Used to compute roots to high-dimensional polynomials.)
+- After the eigenvalues are derived, just compute the nullspace of $$A - \lambda I$$.
+- 
+
 
 
 
