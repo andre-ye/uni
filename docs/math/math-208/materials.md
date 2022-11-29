@@ -271,10 +271,11 @@ $$A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d && -b \\ -c && a \end{bmatrix}$$.
 - If $$A$$ has $$n$$ linearly independent eigenvectors, then let $$P$$ be the horizontal concatenation of eigenvectors as column vectors, and let $$D$$ be filled with the corresponding eigenvalues along the diagonal.
 - The diagonalization formula can be used to create matrices with specified eigenvalues and eigenvectors. 
 - An $$n \times n$$ matrix is diagonalizable iff it has eigenvectors which form a basis for $$\mathbb{R}^n$$.
-
-Page 264 - summary
-
-
+- If $$A$$ has $$n$$ linearly independent eigenvectors, then $$A$$ is diagonalizable; $$P$$ is given by concatenating the eigenvectors as column vectors, and the diagonal entries are given by corresponding eigenvalues. Otherwise, $$A$$ is not diagonizable.
+- If a set of eigenvalues of a matrix are distinct, then the set of associated eigenvectors are linearly independent.
+- $$A$$ is diagonalizable when the dimension of each eigensapce is as large as possible. There will be enough linearly independent eigenvectors to form a basis for $$\mathbb{R}^n$$.
+- If $$A$$ is an $$n \times n$$ matrix with $$n$$ distinct real eigenvalues, then $$A$$ is diagonalizable.
+- $$A^k = PD^kP^{-1}$$, provided that $$A$$ can be diagonaized.
 
 
 
