@@ -930,16 +930,42 @@ II. Team Reasoning
 - When an individual reasons as a member of team, they consider the combination of actions. The axiomatic source of rationality is the team, rather than the individual.
 - Team reasoning as a mode of reasoning: 
 - A mode of practical reasoning is valid if it is success-promoting.
+- What is 'we'?
+- Social ontology: can groups be agents in a metaphysical sense? An agent is any entity committed to rational unity - Rovane and Pettit.
+- There are practical reasoning schema using collective reasoning which can be adopted by individuals.
+- We might reason "We should not choose (defect, defect)" -- we make up a unit of agency.
+- We can write schemata in forms which include premises about agency. Profile of actions -- assigns each member to a set of availalbe actions.
+- An individual identifies with a group if it acts as a single group pursuing a single objective.
+- Simple team reasoning schemata:
+  1. We are members of S.
+  2. Each of us identifies with S.
+  3. Each of us wants to maximize the value of U.
+  4. A uniquely maximizes U.
+  5. Each of us should choose our component of A.
+- We can apply this schema to a one-person group.
+- We require common knowledge of the acceptance of the premises.
+- We can adapt team reasoning to individuals.
+- The collective component of collective intentions are axiomatic
+- Group agency explains the phenomenology of collective intensions.
+- Intensions underlying Nash equilibira result from individual reasoning.
+- Common knwoege allows stu oanlwedge the prsence of probability cdpdcn g zxxumpgionx.
+- We presuppose that team agency ise ven a thing.
+- What does it mean to identify with a group?
+- Restricted team reasoning: 
+- Cooperative utilitarianism - cooperate for the overall good of the world.
+- Anderson suggests that identity is prior to rational choice. Will there be principles of raational-self-identification? MOrality requires us to transcend identities and to harmonize demands.
+- We should identify with the Kandian Kingdom of Ends.
+- We should specify agent-neutral goals: what is the unit of agency?
+- Frame - a set of concepts a player uses to think about their situation. A collective concept must be present in the frame to perform team reasoning. 
+- Strong interdependence - primed collective thinking.
+- A logic: an internall consistent system of axioms and inference rules.
+- Actors can indorse particular logics.
+- Rosseau and the social contract -- the transition from individual to group agency which takes place through collective commitment. 
 
-Page 14 in PDF
-
-
-
-
-
-
-
-
+IV. Conclusion
+- General porblem: how to distinguish between collective intentions and individual intentions.
+- The difference between intentions is not a property fo intentions, but rather of modes of reasoning by which they come from.
+- Collective intentions are a product of a distinct mode of practical reasoning (team reasoning) -- agency is attributed to groups.
 
 
 
