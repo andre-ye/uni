@@ -376,10 +376,24 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
   2. A player's best respond is tha action whihch maximi
 - What does it man to act because of resasons? Is there a conssitent rent?
 - Economist often read game theory by invidiaulsa; wnr45eon w5yu4e 6hw6 5w6ionwli6y fwnno un6r45e6wnr tully ti5e6-y4w5.
-- 
 
+---
 
-
+## Week 10 Wednesday
+- It can be rational to advance the goals of a group, even if one prefers to act otherwise.
+- Don't think about it in terms of individual preferences -- think about preferences and commitments. Commitments are other features which override individual preferences -- not something which figures into the preference itself.
+- Objection -- is there irrationality in maximizing the preferences of someone who is not oneself? Why is maximizing collective interests rational?
+- Arguments for normative EUT can be money pumped, dutch booked, subjected to sure loss.
+- It might not be irrational for Ann to model her decisions off of Bob's, if Bob's preferences satisfy appropriate axioms.
+- Is there a positive reason to believe Ann is rational?
+- We need to expand the determining bases of rationality.
+  - Orthodoxy: preferences, beliefs about states of the world, behavior.
+- Should mental states factor into rationality?
+- Orthodox decision theorists seem to leave out mental states and certain types of non-empirical ad=nd the environment.
+- Wht elee does Anderson propose? Can be rational to believe ways if we understand our soical relations as well?
+- Wht I mssing from invidiaul-centered inishgts? Why is it not rational? Can a cause be irrational?
+- Counterpreferential behavior might be recommende by reasoning -- the conclusions of valid arguments that have premises about group identification.
+- What can the premises and derivations of arguments in favor of team reasoning tell us?
 
 
 
