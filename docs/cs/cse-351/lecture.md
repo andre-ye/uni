@@ -535,10 +535,20 @@ z: ...
 - Many different ways to keep track of free blocks - implicit and explicit free lists. 
 - If blocks are aligned, low-order bits of `size` are always 0; use the lowest bit as an allocated / free flag.
 
+---
 
-
-
-
+## Week 11 Wednesday
+- Implicit free list: each bloick begins with a header
+- The payload needs to be 16-byte aligned.
+- First fit - search list from the beginning
+- Next fit - search list from the current location, loop back around if needed
+- Best fit - look at the smallest fitting free space. Keeps fragmentation sutdent
+- Allocating in a free block - splitting. All you have to do is to change the headers.
+- Coalescing - combining free blocks by changing the header.
+- Bidirectional coalescing - use boundary tags, allows us to traverse backwards. 
+- Explicit free list: a linked list of free blocks. We also need a space for pointers. Assuming a doubly linked list requires now an additional 16 bytes. 
+- Blocks can be in any order - no guarantees. 
+- We can use preceding and following to refer to physical neighbors. 
 
 
 
