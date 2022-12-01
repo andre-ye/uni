@@ -352,8 +352,18 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 - After the eigenvalues are derived, just compute the nullspace of $$A - \lambda I$$.
 - 
 
+---
 
+## Week 10 Wednesday
+- The Eigenspace is a subspace. It contains the zero vector and is closed under scalar multiplication and addition.
+- Algorithm 1 for eigenvalues: find the determinant of $$A - \lambda I$$ and set to zero. The resulting polynomial is the characteristic polynomial of $$A$$.
+- The characteristic polynomial of an $$n \times n$$ has a degree $$n$$. Therefore there will be $$n$$ complex roots (eigenvalues) for every $$n \times n$$ matrix.
+- Multiplicity - the relevant degree. The multiplicity is a bound on the dimensionality of the eigenspace. Multiplicity 2 -- a plane or a line. Multiplicity 1 -- a line.
+- If 0 is an eigenvalue of matrix, the determinant of the matrix is 0.
+- Computers solve polynomials by computing eigenvalues.
+- Suppose we are given $$x^3 - 15x^2 + 56x - 60$$. We can construct a matrix for which this polnomial is the characteristic polynomial (companion matrix of a polynomial). There are good methods of finding eigenvalues which don't rely upon solving polynomials
 
+$$\begin{bmatrix} 0 & 0 & 0 & 60 \\ 1 & 0 & 0 & -56 \\ 0 & 1 & 0 & 15 \\ 0 & 0 & 1 & -1 \end{bmatrix}$$
 
 
 
