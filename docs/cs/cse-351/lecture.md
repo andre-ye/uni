@@ -511,7 +511,29 @@ z: ...
   - TLB: all entries need to be invalidated.
   - Cache: can leave this alone, since it is storing chunks of memory.
 
+---
 
+## Week 11 Monday
+- Previously, we've talked a lot about static global data. 
+- Stack-allocated data - known lifetime.
+- Dynamic heap data -- the size is known only at runtime, based on user input.
+  - C: `malloc`
+  - Java: `new`
+- Dynamic memory allocation: use dynamic memory allocators to acquire virtual memory at runtime
+- Explicit allocators and implicit allocators (no need to free space)
+- The allocator organizes the heap as a collection of variable-sized blocks -- allocated or free
+- `brk` - indicates end of the heap.
+- Need to `#include <stdlib.h>`. `void* malloc(size_t size)` - allocates a continuous block of `size` bytes and returns a pointer to the beginning of the allocated block. 
+- GOod practice: use `sizeof` and cast the pointer value explicitly.  
+- Freeing memory: frees a pointer. Doesn't actually remove the data, just affects what it points towards.
+- Goals: maximize throughput and peak memory utilization. 
+- Peak memory utilization defined as the maximum payload divided by the current heap size
+- Internal fragmentation: payload is smaller than the block.
+- Causes of internal fragmentation: overhead, padding purposes, policy decisions, etc.
+- External fragmentation: really tricky, when an allocation pattern leaves holes between blocks. 
+- Keep the length of a block in the word preceding the data -- header field. Requires an extra word for every allocated block. 
+- Many different ways to keep track of free blocks - implicit and explicit free lists. 
+- If blocks are aligned, low-order bits of `size` are always 0; use the lowest bit as an allocated / free flag.
 
 
 
