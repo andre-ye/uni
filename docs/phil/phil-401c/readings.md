@@ -967,6 +967,10 @@ IV. Conclusion
 - The difference between intentions is not a property fo intentions, but rather of modes of reasoning by which they come from.
 - Collective intentions are a product of a distinct mode of practical reasoning (team reasoning) -- agency is attributed to groups.
 
+---
+
+## Team reasoning: Solving the puzzle of coordination
+- 
 
 
 
