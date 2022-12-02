@@ -976,6 +976,73 @@ IV. Conclusion
 - Coordination is often neglected by researchers.
 
 ### Game Theory
+- The fundmaental ideas of game theory are relatively simple. Almost any interesting interaction can be modeled as a game.
+- Von neumann & Morgenstern: players, strategies, payoffs.
+- Rationality assumption: players act in theri own best interests.
+- Common knowledge assumption: preferences and rationality are commonly shared.
+- Principle goal of game theory is to work out the logical implications of gameplay.
+- Noncooperative game theory cannot explain payoff dominance.
+
+### Payoff Dominance
+- A uniquely rational profile of strategies must necessarily be a Nash equilibrium.
+- Stag hunt game -- even though both hunting stag pareto dominates hunting hare, there is no reasont to choose one over the other.
+- Pareto dominance -- payoff dominance.
+- Hi-Lo game: strips payoff-dominance bare.
+- Utilities: measured on interval scales unique up to a positive linear affine transformation. 
+- We have no reason to believe each player will play something because we have to believe that another player will play something. -- a vicious cycle.
+- Classical game theory cannot point to High, High as payoff dominant. 
+- Payoff-domiinance principle: rational players choose payoff-dominant equilibria whenever they exist; but this is an unsatisfactory wrk-around. Payoff-domiannt Nash equilibria are not self-enforcing. 
+
+### Explaining Coordination
+- How can we explain coordination?
+- Coordination: mutualistic cooperation
+- Social dilemma cooperation: altruistic cooperation.
+- Coordnation problems are more interesting and basic phenoomena: how to play in common interest games?
+
+### Two Common Fallacies
+- Salient outcome -- one which stands out and serves as a focal point for coordination.
+- A focal point can provide a purchase for team reasoning but can't explain coordination.
+- Gilbert 1989 - salience is not enough to provide a player with a reason to choose a strategy.
+- Principle of indifference -- why not just use it if a player does not know what the other player will choose?
+- This does not work: reductio ad absurdum, choosing with certainty already violates the premise of indifference.
+
+### Team Reasoning
+- The unit of agency is moved from the individual to a group of players. *What do we want?*
+- In team reasoning, individual reasoning is a special case of team reasoning with a one-person team.
+- Increasing social interdependence - creates an awareness of collective agency.
+
+*Common knowledge of group idetnfication*
+- Team reasoning seems to make sense only if all the players adopt the reasoning. 
+- Bacharach - theory of unreliable team interaction. Teams can function strategically without common knowledge of group idetnfiication.
+- Player frames -- I vs. We
+- Unreliable team interactions -- analyzes players' expectations of group identification by co-players.
+- Team reasoners maximize expected collective payoff while taking into account probability of group idetnification. 
+- Sugden's theory: players never deliberately pay a personal coast for team reasoning; individuals are motivated to adopt team reasoning only if everyone (including themselves) improve. 
+  - Collective utility functions never make anyone worse off.
+- Mutually assured team reasoning: a player will not risk team reasoning in the absnece of assurance that other team members also use team easoning.
+
+*Group Identification*
+Page 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
