@@ -970,7 +970,12 @@ IV. Conclusion
 ---
 
 ## Team reasoning: Solving the puzzle of coordination
-- 
+- Intuitively, individuals have a common interest in coordinating actions - but orthodox game theory cannot explain this.
+- Team reasoning provides a convincing solution to this problem: people adopt a distinctive mode of reasoning than preferences $$\to$$ decisions.
+- Two or more individuals alignt heri actions to achieve a common goal.
+- Coordination is often neglected by researchers.
+
+### Game Theory
 
 
 
