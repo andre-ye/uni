@@ -550,9 +550,34 @@ z: ...
 - Blocks can be in any order - no guarantees. 
 - We can use preceding and following to refer to physical neighbors. 
 
+---
 
-
-
+## Week 11 Friday
+- Struct pointers can be used to access field values.
+- `examine_heap`: follows implicit free list searching algorithm.
+- End of the heap has a one-word block with size zero but which still has tags.
+- Trace files
+- Explicit free list: more pointer management. Explicit free list navigation is much faster when most of memory is full. 
+- Most common use of explicit lists - segregated free lists
+- What data structure of blocks on the lists?
+- You can store allocations in a row and coalesce.
+- Wouldn't it be nice if we didn't have to free memory? We can use an implicit allocator.
+- Garbage collection: automatically recliam heap-allocated storage. 
+- C doesn't know if data is a pointer or not -- garbage memoory is difficult.
+- Can the compiler leave notes in object files?
+- Memory as graph: memory is a directed graph. 
+- What is a pointer and what is not?
+  - Memory allocator must distinguish pointers from non-pointers
+  - All pointers point to the strt of a block in the heap
+  - The application cannot hide pointers
+- These assumptions are not fair for C, which is why C doesn't have garbage pointers.
+- Mark and sweep: use an extra mark bit in the header of each block. Mark: start at roots and set mark bit. Sweep: scan all blocks and free nonmarked blocks.
+- Anything that deals with options in Java is a reference -- highly constrained pointer. Java satisfies all three garbage collection requirements. 
+- C* languages don't abstract away memory. Too much information to keep track of.
+- Always start with bad/unexpected behavior and compare it to what you expect.
+- `valgrind` - helps you analyze runtime execution.
+- What about other languages? In memory-safe languages, most of these bugs are impossible. Memory leaks are still possible -- it may be possible that we have a pointer to something we still don't need.
+- 
 
 
 
