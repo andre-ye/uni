@@ -365,7 +365,14 @@ $$(Ax = b) \to (x = A^{-1}b)$$
 
 $$\begin{bmatrix} 0 & 0 & 0 & 60 \\ 1 & 0 & 0 & -56 \\ 0 & 1 & 0 & 15 \\ 0 & 0 & 1 & -1 \end{bmatrix}$$
 
+---
 
+## Week 10 Friday
+- Diagonalization works if you can find eigenvalues which form a basis for $$\mathbb{R}^n$$
+- Put eigenvectors into a matrix $$P$$ as column vectors, put eigenvalues into the diagonal entries of another matirx. 
+- We have that $$AP = PD$$. We can isolate $$A$$ by $$A = PDP^{-1}$$; we assume $$P$$ is invertible.
+- Diagonal matrix multiplication is commutative.
+- Multiplying $$P^{-1}x$$ performs change of basis across the columns of $$P$$.
 
 
 
