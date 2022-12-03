@@ -1022,11 +1022,48 @@ IV. Conclusion
 - Mutually assured team reasoning: a player will not risk team reasoning in the absnece of assurance that other team members also use team easoning.
 
 *Group Identification*
-Page 6
+- SOcial psychology research on group identification.
+  - Mutually beneficial group identification can be increased by enhancing the salience of group identity.
+- Strong interdependence is required for team reasoning.
+- Can we incorporate team reasoning into social identity theory?
 
+*Team Reasoning in Social Dilemmas*
+- Team reasoning provides a compelling example to cooperation in social dilemmas. 
+- Team reasoning explains cooperation in social dilemmas easily. It doesn't make sense to assert that players will cooperate because (C, C) is Pareto dominant to (D, D). Instead:
+  - A team-reasoning player interprets the collective payoff as the sum of payoffs. (C, C) is the optimal choice for the player pair.
+  
+*Collective Payoff Function*
+- How to identify the outcome which is best for the group of players as a whole?
+- Most intuitive interpretation of collective payoff - sum of individual payoffs. Bentham - the greatest happiness of the greatest number.
+- Total utilitarianism // totalism
+- Total utilitarianism generates a mere addition paradox
+- Von Neumann and Morgenstern's theory of utility: interval scale measurement iwth an arbitrary zero point varying by individual.
+- Bacharach -- nature of the collective payoff function can be empirical but must be Paretian. 
+  - The Pareto criterion does not fully specify the collective payoff function.
+- Sugden: rejects the idea of collective payoff altogether. Team members aim to achieve common interests rather than maximizing a common utility function.
+- Sugden's theory: maximin payoffs
 
+*Social value orientations*
+- Messick and McClintock - social value orientation, different social motives are possible in 2-player social dilemmas.
+- Individaulistic, cooperative, competitive, altruistic.
+- SVO explains much of the variance in players' choices in social dilemmas. 
+- Cooperative SVO relevant to payoff dominance and coordination of (C, C).
 
+*Experimental evidence for team reasoning*
+- Empirically, gteam reasoning seems to predict strategy choices more successfuly tha northodox game theory.
 
+### Other explanations of coordination
+- Team reasoning distinguishes itself from other theories by marking itself as a theory f rational choice, whereas other theories are psychological explanations of nonrational behavior.
+- Social projection theory - people expect others to behave as they do.
+- Cognitive hierarchy & level-$$k$$ theories - model players who reason to various strategic depth levels.
+- Strong Stackelberg reasoning - players choose strategies as if co-players can anticipate their choices.
+- Virtual bargaining - individuals reason about problems by simulating explicit negotiation.
+
+### Where to from here? Interdisciplinary cross-fertilization
+- Team reasoning allows us to solve coordination in social interaction.
+- Team reasoning seems to have the strongest support.
+- The concept of team reasoning should make more of a presence in social psychological literature on group identification.
+- 
 
 
 
