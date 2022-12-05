@@ -395,8 +395,26 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
 - Counterpreferential behavior might be recommende by reasoning -- the conclusions of valid arguments that have premises about group identification.
 - What can the premises and derivations of arguments in favor of team reasoning tell us?
 
+---
 
-
+## Week 11 Monday
+- Principle of indifference -- a bad principle, you can get different results depending on you assign different probabilities. To apply the principle, you need an inprincipled way of dividing the space to distinguihs between the cases.
+- Bertrand's paradox, Van Fransen's Cube Factory
+- Anderson: it can be rational to advance the interests of a group with which one identifies, even if they prefer to act otherwise. 
+- Does inconsistency between preferences and behaviors cause irrational behavior?
+- IrraiontliY; disobeys certain axioms of rational behavior. 
+- "Not irrational" shouldn't necessarily imply "rational". 
+- Is there a positive argument that group identification can be rational? Turning "not irrational" (Anderson) into "rational".
+- What is the reasoning involved in justifying such behavior?
+- Rationality has a robust association with reason. Raiontliy which can be justified by reasoning. 
+- Empirical evidence for rationality?
+- There are many plausible arguments which might represent "team reasoning"
+- Why should arguments presented in Gold and Sugden justify (robust normatively) forgoing dominant strategies for an individual?
+- Objection 1: In what sense is there a collective utility function for a group? What are group "preferences"?
+  - Possible response: experimenter believes she is speaking to and offering a series of choices to a single person behind a computer. Experimenter thinks they are assigning single outcomes to an individual but in fact it is a team. We could ascribe a utility function to a team if you can't see the inner mechanisms of choice-making. 
+  - 1955 Harsanyi theorem: if you and I choose in such a way that if $$s$$ Pareto dominates $$s'$$, then we will never choose $$s'$$, then it follows that the utility function that the experimenter will attribute to us is a weighted sum of our individual utility functions.
+- Objection 2: Even if arguments can justify counterpreferential behavior, do people actually reason in this way? Are people doing waht team reasoning folks advocate?
+- 
 
 
 
