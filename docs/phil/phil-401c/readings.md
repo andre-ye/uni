@@ -1104,11 +1104,30 @@ IV. Conclusion
 - Team game: extends a material game by adding team preferences and participation states.
 
 ### Team reasoning as a payoff transformation theory
-Page 13
+- Team games generalize motivational games.
+- For each motivational game, we can define a team game where the team preference function is equal to the personal motivation function.
+  - Every payoff transformation can be incorporated as an agency transformation theory.
+- Can team reasoning be viewed as a payoff transformation? 
+  - Payoff transformation still relies on rational choice theory, so theories only change utilities but not the derivation principles.
+  - Team reasoning is inherently non-invidualistic, cannot be derived from SVOs.
+- Incompatibility claim: team reasoning actions cannot be satisfactorially explained by payoff transformations.
+- Dutjf: we don't need to transform both the payoffs and the unit of agency, just the payoffs.
+  - Theory of participatory motivations
+- Payoff-transformation theory cannot model Hi-Lo. More generally, equity-Pareto personal motivation functions do not rule out (low, low).
+- A material game cannot be compatible with (high, high) while ruling out (low, low), even if personal motivation functions are SVO.
+- Kindness functions and partial-conformity Pareto motivation functions cannot explain the Hi-Lo game, either.
+- Agents seem to // need to care about more than equality and reciprocity.
 
-
-
-
+The Possibility Result
+- Team reasoning can be viewed as a payoff transformation in which people care about the group actions they participate in.
+- Participatory motivation functions. 
+- Participatory motivations rule out low iff agents acre more about group actions than about material payoff.
+- Participatory motivations can explain cooperation in the prioner's dilemmas.
+- Agency transformation in team reasoning can b esimulated with payoff transformations.
+  - How to obtain team utilities? If these can only be obtained through team reasoning,t hen participatory motivations are still dependent on collective reasoning.
+- Participatory motivations are process-oriented rather than outcome-based. May evaluate a given player's actions differently depending on concurrent actions of others. (Spontaneous reciprocity.) Simple model between self-interest and team-reasoning.
+- Team reasoning theorists need to move beyond behaviorism and consider mentalism.
+- 
 
 
 
