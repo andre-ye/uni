@@ -374,8 +374,18 @@ $$\begin{bmatrix} 0 & 0 & 0 & 60 \\ 1 & 0 & 0 & -56 \\ 0 & 1 & 0 & 15 \\ 0 & 0 &
 - Diagonal matrix multiplication is commutative.
 - Multiplying $$P^{-1}x$$ performs change of basis across the columns of $$P$$.
 
+---
 
-
+## Week 11 Monday
+- In diagonalization, we convert to the eigenbasis and perform the scaling along the respective dimensions, then revert to the original area. 
+- $$\lim_{k \to \infty} A^{k} \nu_0 = \nu_\text{top}$$ -- eigenvalue of $$\lambda = 1$$
+- The matrix $$\begin{bmatrix} 0 & 1 \\ 1 & 1 \end{bmatrix}$$ transforms from $$f_i, f_{i+1}$$ to $$f_{i+1}, f_{i+2}$$. We can compute the $$n$$th Fibonacci number by performing matrix transformations. 
+- Diagonalizability and invertability are independent.
+- If 0 is an eigenvalue, then the matrix is not invertible: because the nullspace is nonzero.
+- A matrix cannot be diagonalized if the eigenvectors as column vectors form an invertible matrix.
+- A matrix is guaranteed to be diagonalizable if the eigenvalues are unique.
+  - Suppose that a set of eigenvalues are distinct, then the eigenvectors span the maximum matrix subspace.
+  - 
 
 
 
