@@ -1063,11 +1063,48 @@ IV. Conclusion
 - Team reasoning allows us to solve coordination in social interaction.
 - Team reasoning seems to have the strongest support.
 - The concept of team reasoning should make more of a presence in social psychological literature on group identification.
-- 
 
+---
 
+## "Cooperation, fairness, and team reasoning", Hein Duijf
 
+### Introduction
+- Most economic models assume people exclusively pursue material self-interest, even though this is empirically invalidated. 
+- People often care about fairness.
+- Payoff transformation theories: people care about distribution fo gians.
+- What motivates people? -- question of payoff transformation theories.
+  - Attempt to begin with a game and transform it to take into account relevant factories.
+- Utilitarian theory: a group may fail to promote deontic utility even if each player individually promotes deontic utility.
+- Coordination problem
+- Theory fo team reasoning: conceive of a decision problem as a problem for the team rather than for themselves; forces a transformation in agency. 
+- Action recommendations from team reasoning cannot be explained by payoff transformations. (Incompatibility claim)
+  - We need to include team reasoning to explain behavioral findings
+- Can we explain collective action and intentionality in terms of individualistic attitudes? 
+- Dutjf argues against incompatibility: team reasoning can be viewed as an unorthodox payoff transformation theory. 
+- Theory of participatory motivations - people care about group actions.
 
+### Game theory and material games
+- von Neumann and Morgenstern, theory of games: 
+- Utility function: preferences, revealed preference, a moral code, deontic superiority
+- Material game -- utilities represent material payoff functions. 
+- Nash equilibrium -- no one has an incentive to deviate.
+
+### Payoff transformation theories
+- Why do people vote, pay taxes, sacrifice? 
+- Fairness - inequity aversion. 
+- Motivational game: each agent holds a personal motivation function. Incorporates intuition that people dislike inequitable outcomes.
+- Social value orientations (SVO) -- represented by linear payoff functions: individualistic, altruistic, cooperative, competititve.
+- Egalitarian SVO: inequity aversion.
+- Three facts we arguably need to incorporate: People are willing to sacrifice material well-being to help those who are kind, to punish the unkind, and that these become amplified as material costs become smaller.
+
+### Team reasoning
+- Team reasoning originates from utitilitarian ethics.
+- We-perspective
+- The Pareto principle is only a principle of rationality if players conceive of themsleves as a team.
+- Team game: extends a material game by adding team preferences and participation states.
+
+### Team reasoning as a payoff transformation theory
+Page 13
 
 
 
