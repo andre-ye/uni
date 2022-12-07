@@ -385,9 +385,6 @@ $$\begin{bmatrix} 0 & 0 & 0 & 60 \\ 1 & 0 & 0 & -56 \\ 0 & 1 & 0 & 15 \\ 0 & 0 &
 - A matrix cannot be diagonalized if the eigenvectors as column vectors form an invertible matrix.
 - A matrix is guaranteed to be diagonalizable if the eigenvalues are unique.
   - Suppose that a set of eigenvalues are distinct, then the eigenvectors span the maximum matrix subspace.
-  - 
-
-
 
 
 
