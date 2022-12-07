@@ -414,8 +414,33 @@ Logical positivism renders a lot of discourse as meaningless - people think abou
   - Possible response: experimenter believes she is speaking to and offering a series of choices to a single person behind a computer. Experimenter thinks they are assigning single outcomes to an individual but in fact it is a team. We could ascribe a utility function to a team if you can't see the inner mechanisms of choice-making. 
   - 1955 Harsanyi theorem: if you and I choose in such a way that if $$s$$ Pareto dominates $$s'$$, then we will never choose $$s'$$, then it follows that the utility function that the experimenter will attribute to us is a weighted sum of our individual utility functions.
 - Objection 2: Even if arguments can justify counterpreferential behavior, do people actually reason in this way? Are people doing waht team reasoning folks advocate?
-- 
 
+---
+
+## Week 11 Wednesday
+- Team reasoning vs transformation payoff theories
+- Team reasoning and payoff transformation theories are intended to solve equilibrium selection and non-equilibria play.
+- We can understand these both descriptively and normatively.
+- What theory of rationality allows us to make consistent intuitive normative claims?
+- Team reasoning: people behave as if they're thinking collectively -- we need a need a new theory of rationality.
+- Payoff reasoning -- suggests that we just need to define utilities in the appropriate way. 
+- What if you never met someone? Would you still play even in the ultimatum game? Do we really form a team? Do we care about each other?
+- Payoff transformation theories are interesting, and right in some sense, but many people are unhappy with them.
+- Anderson: payoff transformations don't show that we can cooperate in Prisoner's dilemma, but rather show that the people were not playing a Prisoner's dilemma in the first place. But there are real Prisoner's dilemmas which are not addressed by payoff transformation theories.
+- We might restrict ourselves to plausible types of transformations -- focus on utility functions by SVOs. However, this provably does not allow us to explain equilibrium selection.
+- Low-Low remains a Nash equilibrium even if using any one of the SVOs.
+  - Anything which retains Pareto dominance still recommends Low-Low.
+- Are there plausible transofrmations to explain patterns of choice?
+- Players prefer the outcome in which both of them get nothing than when both of them get a sum smaller than the maximum. This is a logical necessity. You can indeed use a payoff transformation, but you have to bite a heavy bullet.
+
+Course Wrap-Up
+- "Game theory says it's only rational to...", "Rational choice theory says we must..." -- always more controversial than people let on.
+- Rational choice theory does not require you to be selfish; your utility function is variable. They can represent many different preferences.
+- The deployment of equilibria concepts in the social sciences depends on strong assumptions about what players know and believe.
+- The normative and descriptive uses of game theory should be distinguished, even if they are often closely related.
+- How does normative theory guide empirical work? EUT sets the explanatory goals for descriptive theory. 
+  - Descriptive work of course also guides normative work. "Ought implies can."
+  - 
 
 
 
