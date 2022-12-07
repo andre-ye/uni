@@ -577,7 +577,54 @@ z: ...
 - Always start with bad/unexpected behavior and compare it to what you expect.
 - `valgrind` - helps you analyze runtime execution.
 - What about other languages? In memory-safe languages, most of these bugs are impossible. Memory leaks are still possible -- it may be possible that we have a pointer to something we still don't need.
-- 
+
+---
+
+## Week 12 Monday
+- Reconnecting to Java -- connecting to a different environment.
+- Java is specified different than C: Java is more abstract, only guaranteeing behavior.
+- Data is stored around the same.
+- Pointers are 'references' in Java - much more constrained than C's general pointers.
+- `null` represented as `0`, but 'you can't tell'
+- Arrays: we can use bounds-checking by storing the size.
+- Strings not bounded by a null character; uses two-byte unicode instead of ASCII. Also stored as an array.
+- `C` is not an object-oriented organizaiton: struct is the closest thing.
+- Objects in Java are always accessed with references.
+- Arrays are objects in Java: return a reference. 
+- Type-safe casting in Java
+- How are objects stored? Methods are just an array of function pointers. 
+- Compiler creates the virtual method table -- a jump table for methods
+- Subclassing: simply store and copy addresses to functions
+- Dynamic dispatch
+- Implementing programming languages: source code to binary executable. 
+  - Alternative: source code, interpreter, produces interpreter binary.
+  - Interpreter is its own executable. You are feeding your source file into the interpreter and figures out on the fly what the machine code here is.
+  - NO need to compile on your part.
+  - Python -- install interpreter, execute code one line at a time.
+- 'Compiled' vs 'interpreted' language: there is nothing preventing us from going one way to the other. 
+- Java compiled to bytecode, then is interpreted.
+- Java process:
+  1. Save java code
+  2. Run Java compiler
+  3. Execute on a Java Virtual Machine (interpreter for Java byte code)
+- Disassembled bytecode looks very much like assembly.
+- Other languages for JVMs: Jython, Clojure, Groovy, JRuby, Rhino, Scala
+- Microsoft C+ and .NET: common language runtime.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
