@@ -14,9 +14,11 @@ ENGL 284
 
 ---
 
-A collection of work produced in ENGL 284.
+- [Final Portfolio](https://andre-ye-github.io/uni/docs/eng/engl-284/Portfolio.pdf){:target="_blank"}
+- Compiled Craft Discussion Responses
+- Compiled Weekly Writing Assignments
 
----
+<!-- ---
 
 I was you in a previous life, I said. You was I in a later life, I said. Yes, I said. Yes, you said. You are in me, and I am in you, you said. I said the same. We looked at each other until our eyes rolled inside out. When our eyes were looking into our eyesockets, I tasted your bitter tongue, coming up from my stomach into the cavity of my mouth. My two hands traced circles around the other two. Yes, you say, go on. Yes, I say, I will. Your feet slam into the bedpost. I feel the pain in my stomach. I suddenly exhale. The air leaves your lungs. My lungs feel parched, dry. You lie there. My arm goes numb. Your right leg twitches. My eyes roll back out.
 
@@ -162,3 +164,4 @@ Administrator 2 message logging: Yes. But we are lucky that we pulled it back in
 Administrator 3 message logging: Indeed. We all know that we have had to take more extreme 
 measures for previous subjects. Let’s not forget this and move to the next room.
 Session logging: Supervised administration terminated; unsupervised extraction regime 
+ -->
