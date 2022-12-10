@@ -15,7 +15,7 @@ ENGL 284
 ---
 
 - [Final Portfolio](https://andre-ye-github.io/uni/docs/eng/engl-284/Portfolio.pdf){:target="_blank"}
-- Compiled Craft Discussion Responses
+- [Compiled Craft Discussion Responses](https://andre-ye-github.io/uni/docs/eng/engl-284/Compiled Craft Discussions.pdf){:target="_blank"}
 - Compiled Weekly Writing Assignments
 
 <!-- ---
