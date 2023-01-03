@@ -26,3 +26,6 @@ PHIL 440
 ---
 
 ## Week 1 Tuesday
+
+[...]
+
