@@ -25,7 +25,7 @@ PHIL 440
 
 ---
 
-## Week 1 Thursday
+## Week 1 Thursday: Well-Being
 
 [...]
 
