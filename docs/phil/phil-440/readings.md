@@ -160,7 +160,19 @@ Beyond Welfare?
 
 **Reading Preparation Notes**
 
-Coming soon
+Shaw argues that utilitarianism, broadly speaking, is concerned with promoting actions whose outcomes increase well-being. Thinkers have proposed many different understandings of what constitutes well-being, including happiness, pleasure (including repulsive or immoral pleasure), satisfaction of desire, and fulfillment of ‘objective’ collective potential. This disagreement, Shaw asserts, does not render utilitarianism impotent as an applicable ethical theory: there are multiple vectors of development, inside and outside of the site of debate.
+
+Terms
+- Pleasure. Pleasure is an individualist mental experience conceptually decorrelated with others’ pleasure. Hedonist utilitarianism is committed to the maximization of aggregated pleasure.
+- Well-being. Well-being is an abstracted conceptual attempt to capture what we might want in addition to or beyond the mental domain of pleasure. Well-being considers truth-hood, material realization of desire, and goodness as a function of entities greater than the individual’s mental states.
+
+Comprehension Questions:
+- What are objections to Hedonism and what alternative understandings of well-being are proposed?
+-	How do different utilitarian thinkers approach contexts in which different members of a social group have antithetical paths towards well-being? (That is, one’s pleasure may be at the expense of another’s pain.)
+
+Philosophical Questions:
+- Do theories of utilitarianism need to be descriptively and materially coherent (‘practical’) to truly be normative? In simpler terms: should “should” imply “can”? If the answer is yes, then arguably utilitarian theories which rely upon unmeasurable or otherwise unimplementable ideals should not even be considered ‘real’ normative theories.
+- At the conclusion of the article, Shaw declares that philosophers need to draw from the social sciences to develop substantive ethical theories. A question we might ask in response/addition is: how central is ‘intuition’ to the formulation of (utilitarian) ethical theory – even if it is wrapped in many layers of formality – and to what extent is this ethical and/or moral ‘intuition’ already derived from materiality? Can and do mental states and ethical theories exist in a void? To employ Moore’s ‘isolation test’: are ethical theories themselves ‘inherently’ valuable? To what extent does (utilitarian) ethical theory reflect (and possibly perpetuate) the world it was conceived in, and to what extent does it offer the potential for change?
 
 ---
 
