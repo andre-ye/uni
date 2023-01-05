@@ -65,8 +65,15 @@ Towards a theory of Imaginary Worlds
 - We cannot interpret science fiction through the cold distance of allegory: we need to accept factual contingent and arbitrarily given conditions.
   - Is this materialist? Or is this idealist?
   - Is this training for the acceptance of given myth?
-
-
+- Hyperserial format
+- IMaginary worlds always already prompt convergence culture: stories spill from one media window to another.
+- What makes a film into a cult artifact? Eco: completely furnished, encyclopedia.
+- The reader must engage with the world differently
+- The world may be experienced differently than the narratives set within them.
+- Are worlds just backgorounds or can they also be things in and of themselves?
+- Speculation and fantasy
+- New storytelling: making your way in a fragmented, imaginary world.
+- **Diagetic** worlds
 
 
 
