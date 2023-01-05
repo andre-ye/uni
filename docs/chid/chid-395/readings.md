@@ -29,6 +29,29 @@ CHID 395
 
 ### Introduction from _Building Imaginary Worlds_, Wolf
 
+- Media Studies largely overlooks imaginary worlds.
+- Imaginary worlds can be massive
+- How to experience an imaginary world?
+- Traditional storytelling privileges the linearity of narrative. World building, on the other hand, involves an abundance of 'details' which fall off the narrative but help form experience. 
+- Imaginary worlds are organized by other forms of structures.
+
+World-building as a Human Activity
+- Imaginary worlds are enjoyed by those who build them.
+- Compressed time and space
+- Perhaps the building of imaginary worlds is innate or serves evolution.
+  - Simulation of simulations: imagination without action
+  - All cultures create fictional worlds: intrinsically interesting
+  - Engage emotion, disengage action
+  -  We can decouple fictional worlds from real experiences.
+- World-building can begin very early
+- Media Studies is the best basis for understanding imaginary worlds. 
+
+Towards a theory of Imaginary Worlds
+- "Subcreation" -- a specific form of creation, reliant; 'sub'
+- What is the ontological status of fictional worlds? 
+- Most analytical approaches focus on form or narrative of content. But what about the world itself as a form of cstudy?
+- Supersystem: network of intertextuality which cuts across different modes of image production and appeals to many different groups.
+
 ### Introduction from _Extreme Fabulations_, Shaviro
 - Kant -- the conditions of possibility.
 - Science fiction writing offers a unique way of understanding problems which are intractable.
