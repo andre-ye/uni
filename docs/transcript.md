@@ -3,6 +3,7 @@ layout: default
 title: Transcript
 nav_order: 1000
 has_children: false
+nav_include: false
 ---
 
 # Transcript
