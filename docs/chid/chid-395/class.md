@@ -74,6 +74,50 @@ What is a world?
 - What counts as real? A reciprocal dependency. 
 - How much is reality? What is the real?
 - Narcissus: a rationalistic trope, you fall in love with what is represented? Look at the mirror, put it in a world. What's the world for the mirror.
+- The power of the false: from Gilles Deleuze. Confounded ideas about what truth is.
+- Two themes: imaginative worlds and fabulation
+- The importance of fabulation: the act of inventing or relating false or fantastic tales
+- truth as timeless, eternal, non-temporal, truth as faithful representation, as 'real'.
+- Problems with formulation: trauma is too painful to represent; does not represent change, dynamic systems, what is unrepresented?
+  - Trauma invades representation, that which we cannot understand, which we must wrestle with: the unrepresentable
+  - This idea of truth only exists in non-temporal space; it doesn't work in temporal worlds.
+  - The fantastic is often a reference to a change in scale.
+  - No world happens on the same scale. 
+  - Things which haunt us which we cannot see -- the spectre, the ghost in the machine
+- Occult (that which is not seen but which is felt) and trickster wisdom (something nonlinear, nonlinear events; beyond projection of the now into the future)
+- Journalists build truth through representational veracity.
+- Tropes and ways to think about fantastical stories: what is the truth within them?
+- In the act of world-building, the logics come out: we have to build the world to understand the trick.
+- Imagination is not linear (projection -- linear algebra); it exceeds the characters, narratives, environments; it is immersive rather than causal (immersive is larger than causal: an environment for a subject, as opposed to a relationship between a subject and an object).
+- Imagination points towards something much larger than what we get right now.
+- Often we need to reconstitute the world in order to understand it. Not by answering a question, but by building a world.
+- knowing through change instead of critique
+- There is a kernel of fantasy at the very heart of our experience.
+- The point of science fiction isn't predictive: it is to create a world under which certain predictions can or cannot come true.
+- Canw we recognize the imaginative in our daily lives and our most mundane arguments? That is the world.
 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
