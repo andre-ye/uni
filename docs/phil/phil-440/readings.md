@@ -174,7 +174,18 @@ Philosophical Questions:
 - Do theories of utilitarianism need to be descriptively and materially coherent (‘practical’) to truly be normative? In simpler terms: should “should” imply “can”? If the answer is yes, then arguably utilitarian theories which rely upon unmeasurable or otherwise unimplementable ideals should not even be considered ‘real’ normative theories.
 - At the conclusion of the article, Shaw declares that philosophers need to draw from the social sciences to develop substantive ethical theories. A question we might ask in response/addition is: how central is ‘intuition’ to the formulation of (utilitarian) ethical theory – even if it is wrapped in many layers of formality – and to what extent is this ethical and/or moral ‘intuition’ already derived from materiality? Can and do mental states and ethical theories exist in a void? To employ Moore’s ‘isolation test’: are ethical theories themselves ‘inherently’ valuable? To what extent does (utilitarian) ethical theory reflect (and possibly perpetuate) the world it was conceived in, and to what extent does it offer the potential for change?
 
+### "Extreme and Unrestricted Utilitarianism", J. J. C. Smart
+I
+- Utilitarianism: the goodness of actions is to be judged by their consequences.
+- Differences in how we interpret what constitutes an action yields two different utilitarianisms.
+  - Action as individual actions. Extreme utilitarianism.
+  - Action's goodness as determined by falling under a certain rule; the rule's goodness is considered by evaluating the consequences of the rule. Restricted utilitarianism.
+- Different distinction from hedonistic and ideal utilitarianism. 
+
+Page 3
+
 ---
+
 
 
 
