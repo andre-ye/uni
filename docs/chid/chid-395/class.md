@@ -56,6 +56,24 @@ What is a world?
 - The ways imaginative worlds are coupled with lived world creates politics.
 - A world is always becoming
 
-## Week 2 Thursday
+## Week 2 Thursday: The Power of the False
+- Narratives and windows
+- Narrative as relation between the viewer and the window.
+- Do we really see windows? Or do we see the world? 
+- "I see the pool tiles because of the water, not in spite of it" -- the pool isn't contained in the pool
+- Are we really engaging with the window? Or the illusion that there is no window
+- Do we want to overcome our situation in the world?
+- Hegel, is there a difference between embodying and changing: the future comes about through synthesis. The dialectic is a model of time, of history. Overcoming contradictions. Can we think about time passing, futurity, which is not about antagonistic synthesis. Embodying rather than overcoming contradiction.
+- A delicate balance between overcoming and embodying. What does this mean? How do futures occur? What makes time progress? Historicity
+- The future is a paradox: an imagination.
+- Can we imagine a future which is not a projection? We need some sort of imagination.
+- The future is anti-truth: it is a fabulation. We have to make things up. 
+- We have to rely upon what we know to explain something which goes beyond us. 
+- Imagination does not exist in a vacuum.
+- Can imaginary worlds exist as a means for themselves?
+- What counts as real? A reciprocal dependency. 
+- How much is reality? What is the real?
+- Narcissus: a rationalistic trope, you fall in love with what is represented? Look at the mirror, put it in a world. What's the world for the mirror.
+- 
 
 
