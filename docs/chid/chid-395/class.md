@@ -94,8 +94,10 @@ What is a world?
 - knowing through change instead of critique
 - There is a kernel of fantasy at the very heart of our experience.
 - The point of science fiction isn't predictive: it is to create a world under which certain predictions can or cannot come true.
-- Canw we recognize the imaginative in our daily lives and our most mundane arguments? That is the world.
-- 
+- Can we recognize the imaginative in our daily lives and our most mundane arguments? That is the world.
+- Philosophically: speculation
+- Dorothy Napangardi, Sandhills in Minia mina
+- Lines aren't just lines; worlds are nonlinear. 
 
 
 
