@@ -180,10 +180,18 @@ I
 - Differences in how we interpret what constitutes an action yields two different utilitarianisms.
   - Action as individual actions. Extreme utilitarianism.
   - Action's goodness as determined by falling under a certain rule; the rule's goodness is considered by evaluating the consequences of the rule. Restricted utilitarianism.
-- Different distinction from hedonistic and ideal utilitarianism. 
+- Different distinction from hedonistic and ideal utilitarianism. Extreme/restricted utilitarianism can be hedonistic or ideal.
+  - Ideal utilitarianism: pleasure is not even a necessary condition of the good.
+- Universalization principle: is it good if everyone does it? -- hypothetical. Is it that one person's action causes others to also do it? -- causal.
+- Extreme utilitarianism: causal universalization; restricted utilitarianism: hypothetical form.
+- How to approach morality? Not the "milk and water" approach; common morality is superstitious, morally bad, logically confused.
 
-Page 3
-
+II.
+- Extreme utilitarian: moral rules are "rules of thumb"; rules themselves are not sancrosanct
+  - To rescue Hitler or not when he is drowning? We can follow rules and justify trusting instincts
+  - Extreme utilitarians may praise actions which we 'know to be wrong'
+- 
+ 
 ---
 
 
