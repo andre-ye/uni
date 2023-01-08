@@ -224,13 +224,25 @@ Philosophical Questions
 - Throughout the piece, Smart writes about the ‘common man’ as influenced by idealistic worship and pursuing praiseworthiness rather than rationality. That is, the practice of restricted utilitarianism contains an irreducible kernel of unquestionable faith or adherence to a rule. One may ask to what extent all ethical judgements, and perhaps even all philosophical statements, contain this irreducible kernel. 
 - What is the metaphysical or ontological status of a rule? Are rules ‘real’, and who is responsible for enforcing them? Are all rules derivatives of ‘natural rules’, and who or what (Nature, God, …) creates these ‘natural rules’?
 
----
+### "The Case for Longtermism", Greaves & MacAskill
 
+Introduction
+- Just how early are we in the history of civilization?
+- Most political discussions are centered on the now.
+- Longtermism: ensuring the far future goes well, and that it is the most important feature of our contemporary decisions.
 
+Precisifying strong longtermism
+- Axiological strong longtermism (ASL): far-future effects are the most important determinant of what we ought to do.
+  - Every option that is near-best overall is near-best for the far future.
+  - Every option that is near-best overall delivers much larger benefits in the far future than in the near future
+- ASL is not concerned with objective value of options and actual effects: rather, focused with predictions.
+- ASL only makes comparative claims
+- Benefit Ratio (BR): The highest far-future ex ante benefits that are attainable without net near-future harm are many times greater than the highest attainable near-future ex ante benefits.
 
-
-
-
+The size of the future
+- How many lives will exist in human civilization?
+- 
+Page 9
 
 
 
