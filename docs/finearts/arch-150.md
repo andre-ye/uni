@@ -5,6 +5,7 @@ parent: Fine Arts
 nav_order: 150
 permalink: /docs/finearts/arch-150
 has_children: true
+include_nav: false
 ---
 
 # ARCH 150
