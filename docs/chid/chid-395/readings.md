@@ -66,7 +66,7 @@ Towards a theory of Imaginary Worlds
   - Is this materialist? Or is this idealist?
   - Is this training for the acceptance of given myth?
 - Hyperserial format
-- IMaginary worlds always already prompt convergence culture: stories spill from one media window to another.
+- Imaginary worlds always already prompt convergence culture: stories spill from one media window to another.
 - What makes a film into a cult artifact? Eco: completely furnished, encyclopedia.
 - The reader must engage with the world differently
 - The world may be experienced differently than the narratives set within them.
@@ -74,7 +74,47 @@ Towards a theory of Imaginary Worlds
 - Speculation and fantasy
 - New storytelling: making your way in a fragmented, imaginary world.
 - **Diagetic** worlds
+  - Zizek: the subject is always diagetic
 
+---
+
+## Writing Worlds
+
+### "Introduction" and "Worldbuilding" from *Wonderbook*, Jeff Vandermeer
+- Some of the most mundane moments of our existence can be saturated witih complexity and wonder.
+- Every piece of fiction written is a product of someone's imagination: but it does not settle easily into our reality.
+- Subjective interpretation renders the complete replication of reality impossible. (Really? Is reality not but the subjective reproduction of sociality?)
+- Even realistic fiction is not really realistic.
+- What is a "stance"? What is a "position"?
+- We can never truly build a world: we are always creating models of worlds
+  - Avoid being "hopelessly lost in details"
+
+Worldview vs. Storyview
+- Worldview: what you as the writer know about the world.
+- Storyview: what the characters know and believe about the world.
+- Unreliable narrator
+- Three possible vantage points for characters
+  - Native of teh culture -- don't appropriate culture, what is noticed is what is deviant
+  - Tourist or visitor
+  - Conqueror or colonizer
+- There is both freedom and responsibility in worldbuilding
+- Characteristics of a well-realized setting
+  - Coherent and consistent logic, even if it is absurdist
+  - Cause and effect
+  - Specific details
+  - It both mirrors and deviates from our real world
+  - Personal to you
+  - SUfficient mystery, unexplored vistas
+  - Consistent inconsistency
+  - We live in a multicultural world
+  - Objects in the narrative act as extended, literal
+  - Settings allows for different operational realities in conflict with each other
+  - Collective and individual memory
+  - Miscommunication and imperfect comprehension: operational realities have incompatibilities
+
+Page 22
+
+### *Promethea*, Issue 1, Moore et al.
 
 
 
