@@ -15,7 +15,7 @@ The Concert Season
 Mark Rodgers
 {: .label }
 
-Fall 2022
+Winter 2022
 {: .label .label-green }
 
 2 Credits
