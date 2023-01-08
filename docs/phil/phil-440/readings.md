@@ -190,8 +190,24 @@ II.
 - Extreme utilitarian: moral rules are "rules of thumb"; rules themselves are not sancrosanct
   - To rescue Hitler or not when he is drowning? We can follow rules and justify trusting instincts
   - Extreme utilitarians may praise actions which we 'know to be wrong'
-- 
- 
+  - Extreme utilitarians may choose to follow moral rules because of lack of time, to avoid personal bias, etc. -- connection with morality of common sense.
+- Should an extreme utilitarian propagate extreme utilitarians among the public?
+
+> The extreme utilitarian, then, regards moral rules as rules of thumb and as sociological facts that have to be taken into account when deciding what to do, just as facts of any other sort have to be taken into account. But in themselves they do not justify any action.
+
+III.
+- Restricted utilitarian: moral rules are there to short-cuit calculations of consequences.
+- Consequences are not relevant in particular cases: only relevant to rules
+- Restricted utilitarianism is "monstrous" -- superstitutious worship of the rule
+- When would an extreme utilitarian go agains ta conventional moral rule? "For the greater good"
+  - Prisoner's dilemmas: what is the harm if just I make a change? "A right action may be rationally condemned"
+- What is the duty of an extreme utilitarian in an extreme utilitarian (not a non-utilitarian) society? It is irrational to take the rational choice if you know everyone else will take it.
+- Egoistic game theory does not suffice because extreme utilitarians attempt to derive the best outcomes for humanity as a whole.
+- Rules are not logical reasons; they must be contextualized to determine whether or not they should be followed.
+- Moral rules are rules of thumb only.
+- Conceives of ethics as a study of what the most rational action is. 
+- In ordinary language, "right" and "wrong" are associated with "praiseworthy" and "unpraiseworthy"
+
 ---
 
 
