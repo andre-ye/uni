@@ -104,13 +104,23 @@ Worldview vs. Storyview
   - Specific details
   - It both mirrors and deviates from our real world
   - Personal to you
-  - SUfficient mystery, unexplored vistas
+  - Sufficient mystery, unexplored vistas
   - Consistent inconsistency
   - We live in a multicultural world
   - Objects in the narrative act as extended, literal
   - Settings allows for different operational realities in conflict with each other
   - Collective and individual memory
   - Miscommunication and imperfect comprehension: operational realities have incompatibilities
+- All settings can be complex -- even the places we may think of as simpler
+- Dangers in fantastical world-building:
+  - Setting devours the cahracters
+  - Fantastical talismans dominate other details
+  Detail overwhelms other elements
+- Do we want to make the unfamiliar familiar? Do not tamper with the essential strangeness, the irreducible inexplicability.
+- Impossibility of knowing anything for certain
+- Strangeness is a perspective: not immanent in anything.
+- Can we ever grasp the true essence of the world?
+- 
 
 Page 22
 
