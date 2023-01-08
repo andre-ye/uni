@@ -208,6 +208,22 @@ III.
 - Conceives of ethics as a study of what the most rational action is. 
 - In ordinary language, "right" and "wrong" are associated with "praiseworthy" and "unpraiseworthy"
 
+**Reading Preparation Notes**
+
+First, Smart asserts two forms of utilitarianism: ‘extreme utilitarianism’ and  ‘restricted utilitarianism’. The latter, Smart writes, is appealing because it appears to reconcile utilitarianism with intuitionistic accounts of ethical decision-making. Smart argues that restricted utilitarianism encourages irrational adherence to rules, even in cases where they cannot be argued to serve any purpose except their own existence. Given that Smart views ethics as the study of rational (rather than praiseworthy) actions, Smart believes that restricted utilitarianism fails to live up to its normative ethical promise.
+
+Terms
+- Extreme utilitarianism. A utilitarian perspective which advocates that rules are merely guidelines and may be violated if the consequences of doing so are favorable. Extreme utilitarianism views rules as potentially useful mechanisms for making quick or less biased ethical decisions in service of a more fundamental entity (preferable outcomes/consequences).
+- Restricted utilitarianism. A utilitarian perspective which views rules as strict requirements, to which individual actions must abide by. The rules themselves are subjected generally to a consequentialist judgment. 
+
+Comprehension Questions
+- How does Smart address Prisoner’s Dilemma-type problems with extreme utilitarianism and how does his conception of rationality differ from the classical individualist account of rationality employed by “egoistic” game theory?
+-	To what extent does the restricted utilitarian believe in the absolute nature of rules? Can restricted utilitarianism be viewed as a modification of extreme utilitarianism in which the unit of agency is relocated from the individual (individuals make decisions depending on the estimated consequences in extreme utilitarianism) to the team (all individuals abide by the same rules), and if so, to what extent are they fundamentally different?(Smart does not give very much real estate towards the justification of restricted utilitarianism, so this point is unclear to me.)
+
+Philosophical Questions
+- Throughout the piece, Smart writes about the ‘common man’ as influenced by idealistic worship and pursuing praiseworthiness rather than rationality. That is, the practice of restricted utilitarianism contains an irreducible kernel of unquestionable faith or adherence to a rule. One may ask to what extent all ethical judgements, and perhaps even all philosophical statements, contain this irreducible kernel. 
+- What is the metaphysical or ontological status of a rule? Are rules ‘real’, and who is responsible for enforcing them? Are all rules derivatives of ‘natural rules’, and who or what (Nature, God, …) creates these ‘natural rules’?
+
 ---
 
 
