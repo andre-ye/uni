@@ -120,11 +120,19 @@ Worldview vs. Storyview
 - Impossibility of knowing anything for certain
 - Strangeness is a perspective: not immanent in anything.
 - Can we ever grasp the true essence of the world?
-- 
 
-Page 22
+### "Imaginary Empires: Transmedia World-Building and Global Capitalism", Hasslerforest
+- "Everything is awesome" - LEGO, the cultural logic of global capitalism, capitalist and anticapitalist, practically communist?
+- Contradictions which inform fantastic fiction and capitalism.
+- Marxist conception of the false consciousness
+- Guy Debord, "Society of the Spectacle": capital encapsulates all of lived experience. "Everything is awesome"
+- Most interesting part of the Lego Movie: the imaginary world is anticapitalist side-by-side with the promotion of Lego commodification. 
+- Lego is a tension between productivity and assembly.
+- Hyperdiegesis: a vast and detailed narrative space.
+- Storyworlds are coherent kernels of suturing immanent contradictions.
+- Transmedia world-building
 
-### *Promethea*, Issue 1, Moore et al.
+Page 7
 
 
 
