@@ -37,7 +37,7 @@ CSE 311
 
 ---
 
-## Week 1 Friday -- Logic
+## Week 1 Friday -- Propositional Logic
 - Implication: $$p \to q$$
 - Order of operations: parentheses, negation, and, or, implication, biconditional
 - $$p \Leftrightarrow q$$: biconditional -- $$p$$ if and only if $$q$$, $$p$$ iff $$q$$, $$p$$ is equivalent to $$q$$, $$p$$ is necessary and sufficient for $$q$$
@@ -46,9 +46,18 @@ CSE 311
 - Two propositions are equivalent iff they have the same truth table: $$p \wedge q \equiv q \wedge p$$
 - $$a \Leftrightarrow b$$ is a statement across two propositions with variable variable values; $$a \]equiv b$$ is a statement across all possible truth values
 - DeMorgan's laws: $$\neg(p \vee q) \equiv \neg p \wedge \neg Q$$, $$\neg(p \wedge q) \equiv \neg p \vee \neg Q$$.
+- 
 
+---
 
-
+## Week 2 Monday -- Contrapositive Proof
+- We can express implication as $$p \to q \equiv \neg (p \wedge \neg q) \equiv \neg p \vee q$$
+- Logical connective properties
+  - Associative across conjunction and disjunction
+  - Distributive
+  - Absorption
+  - etc.
+- Proof-writing: make sure you know what you are trying to show.
 
 
 
