@@ -46,8 +46,14 @@ MUSIC 185
   - Fate motive: exposition 
   - Medial Caesura -- stop! modulation
 
+## Lecture 5: Modernism
+- Modernism: rejection of Romantic aesthetics, confrontation with realities of modern life
+- Avant-garde, radical modernism
+- Asserting the superiority of the present over the past
+- Instincts over feelings
+- Changing meter, polyrhythm, non-Western syncopations, percussion, rhythmic complexity
 
-
+12:54 left off
 
 
 
