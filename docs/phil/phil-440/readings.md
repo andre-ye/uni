@@ -238,14 +238,24 @@ Precisifying strong longtermism
 - ASL is not concerned with objective value of options and actual effects: rather, focused with predictions.
 - ASL only makes comparative claims
 - Benefit Ratio (BR): The highest far-future ex ante benefits that are attainable without net near-future harm are many times greater than the highest attainable near-future ex ante benefits.
+- Open-minded philanthropist: not limited. Axiological longtermism: the highest-expected value options come from effects more than 100, 1000, etc. years in the future.
 
-The size of the future
-- How many lives will exist in human civilization?
-- 
-Page 9
+A plausibility argument for axiological longtermism
+- The size of the future, potentially enormous numbers of future people and other bearers of moral status. 
 
+13:29 in video
 
+https://www.youtube.com/watch?v=Wz8lgjBLTpI
 
+Empirical objection
+
+Axiological objections
+
+Deontic longtermism
+
+The scope of longtermism
+
+Summary and conclusion
 
 
 
