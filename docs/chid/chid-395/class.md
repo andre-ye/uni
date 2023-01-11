@@ -138,7 +138,14 @@ What is a world?
   - Comic books are more of a duration than a moment.
   - The panel: the language of industrialization
   - How to recover richness from simple forms to give it depth and mystery?
-  - 
+- Plato's pharmacy
+- 
+
+```
+Prompt: Write a world which includes the stapler.
+
+The bleak moon casts a dull light across the blackened street. Two bodies lay still: three pairs of thin and deep indents to the forehead, two on the back. In the distance, a curdling scream. Three equally spaced staples to the forehead, two across the back. The body slumps, quiet. The figure waits several moments, then reabsorbs the embedded staples. It opens the pockets and collects the contents: one gray device, seven faintly bloodied staples. Three are unused. and moves quietly away. It loads the stapler and presses it gently against its abdomen. The stapler faintly clicks. The staple clings into the delicate flesh. It holds the rotting material together. It gives the decaying body a new body: structure. Structure is life in a rotting world. Another staple to the arm, then to the chest, and four on the right leg. But not on the head. Never on the head.
+```
 
 
 
