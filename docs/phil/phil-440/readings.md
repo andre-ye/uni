@@ -242,20 +242,44 @@ Precisifying strong longtermism
 
 A plausibility argument for axiological longtermism
 - The size of the future, potentially enormous numbers of future people and other bearers of moral status. 
-
-13:29 in video
-
-https://www.youtube.com/watch?v=Wz8lgjBLTpI
+- If you want to evaluate long term vs short term answers, you need to consider the long term effects. 
+- Most entities which control resources pick short-term over long-term low-hanging fruit.
+- Axiological longermism is true.
 
 Empirical objection
+- There could be complete causal disconnection between the short term and the long term. 
+- Washing-out hypotheses: the magnitude of average effects of one's actions decays over time
+- Extinction risk mitigation -- totalism: complete well-being. Premature human extinction as very bad. Anything to reduce extinction risk could save more lives than aleviating poverty in the near term.
+- Increases the general well-being of the future by speeding up progress or changing the trajectory of progress.
+- Speeding up progress: humanity is on upward trajectory. Does longtermism follow? Dependent on the shape of the trajectory.
+- Trajectory changes. Attractor states -- moments of temporal gravity. Some political arrangements, agents, climates, value-systems
 
 Axiological objections
+- Population axiology
+  - Totalism is controversial because it treats currently existing people the same as creating new lives. 
+  - Interventions to improve general future well-being: population axiology will agree that the proposition is valuable
+- Discounting future welfare
+  - Dampens the important of the future
+  - Longtermism is false given future-discounting utilitarianism
+  - It is not appropriate to discount future lives in this way -- appeals to consensus among moral philosophers
+- Non-aggregationism
+  - Utilitarianism aggregates well-being across individuals
+  - Ex post (possible effects) or ex ante (effect on expected welfare)
+- Is it immoral to consider indirect effects?
 
 Deontic longtermism
+- Consider someone who doesn't have the explicit goal of longtermism.
+- Move towards larger scale organizing boies: result becomes more storngly consequentialist
 
 The scope of longtermism
+- Fixed-cause area philanthropy -- what should we do within a cause area
+- Career choice
 
 Summary and conclusion
+- Axiological longtermism: main question is an empirical one. Is understanding the future sufficiently tractable?
+- Invest resources into research to understand tractability in the first place
+- Most of longtermism does not presuppose totalism or utilitarianism
+- 
 
 
 
