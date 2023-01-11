@@ -59,7 +59,36 @@ CSE 311
   - etc.
 - Proof-writing: make sure you know what you are trying to show.
 
+---
 
+## Week 2 Wednesday -- Normal Forms and Predicates
+- We do proofs not just to prove things but also to know why they are true. 
+- Modifying implications:
+  - Implication: $$p \to q$$
+  - Converse: $$q \to p$$
+  - Contrapositive: $$\neg q \to \neg p$$
+  - Inverse: $$\neg p \to \neg q$$
+- Proving implication and contrapositive are equivalent:
+
+$$p \to q \\ \equiv \neg p \vee q \\ \equiv \neg \neg \neg p \vee \neg \neg q \\ \equiv \neg \neg q \vee \neg \neg \neg p \\ \equiv \neg \neg \neg q \to \neg \neg \neg p \\ \equiv \neg q \to \neg p$$
+
+- Work from both ends, but make sure it makes sense from top to bottom.
+- Digital logic:
+  - Digital circuits, computing with logic
+  - Gates correspond to propositional connectives.
+- More vocabulary
+  - Tautology -- always true
+  - Contradiction -- always false
+  - Contingency -- can be both true and false
+- Boolean algebra
+  - $$+$$ for disjunction
+  - $$\cdot$$ for conjunction
+  - `'` for negation
+  - Boolean semiring
+- Canonical forms for a truth table: have a standard way of going from a truth table to an expression.
+  - Disjunctive normal form (DNF): conjoin all the conditions for truthhood and disjunct against them
+  - Conjunctive normal form (CNF): disjoin the negations of all the conditions for falsehood and conjoin against them
+  - Don't simplify canonical forms
 
 
 
