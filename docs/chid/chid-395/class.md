@@ -100,6 +100,66 @@ What is a world?
 - Lines aren't just lines; worlds are nonlinear. 
 
 
+## Week 2 Tuesday
+- How does a picture make sense of the world?
+- What is the function of mystery?
+- Instability, incompleteness, movement.
+- How do we think about rationality and order? Rationality as a supreme, universal way of thinking about how things are structured. 
+- Worlds abide by homogenous epistemic systems. 
+- Worldbuilding as a philosophical tool.
+- Deleuze, _The Logic of Sense_
+- Incompleteness which makes completeness
+- We create uncertainty as we create knowledge. 
+- The territory and the model: Borges. What is consistency, mystery? Can only get at mystery through the power of the false, precisely because it's not the territory.
+- To what extent does the map make the territory.
+- Is conspiracy theory giving body to mystery? Giving mystery a name?
+- Mystery is fundamental. It comes from our being convinced that there is a consistency as opposed to our inconsistent experience.
+- What purpose does the author serve as an intellectual vessel, and can authors simulate authors in other worlds who have unique intellectual production?
+- Heterogeneity: people need to disagree, people need to conflict on how to inhabit the world.
+- Metaphysical disagreement -- how do elements in the world itself interact?
+- The magical item -- maybe our magic is more disturbing, not just concentrated in a particular item.
+- Mystery should illuminate elements of our world.
+- Why do we write? -- to understand, to change, to reflect, to uncover. 
+- The role in speculating about the world: imaginative and speculative engagement.
+- When you move from a subjectview to a worldview, the world emerges not just through the description of one subject, but through the engagement of multiple subjects. 
+- Worlds get us out of our heads.
+- Observer's dilemma
+- Deeper engagement with the world than how to rationally depict the world.
+- Do we discover or create worlds, or does it matter?The role of ritual
+- Setting up the conditions for possibility
+  - Are you provoking or provoked by?
+  - Discovery: does it exist prior to its discovery?
+- Anti-superhero movies
+- *Promethea*
+  - Words affect people directly -- not a postmodern semiotics
+  - Turns the daughter into a story -- but how does the story function?
+  - The eternal return: to rediscover that little bit of cosmology.
+  - Difference within unity
+  - Comic books are more of a duration than a moment.
+  - The panel: the language of industrialization
+  - How to recover richness from simple forms to give it depth and mystery?
+  - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
