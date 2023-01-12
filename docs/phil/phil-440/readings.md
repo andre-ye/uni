@@ -279,9 +279,22 @@ Summary and conclusion
 - Axiological longtermism: main question is an empirical one. Is understanding the future sufficiently tractable?
 - Invest resources into research to understand tractability in the first place
 - Most of longtermism does not presuppose totalism or utilitarianism
-- 
 
+**Reading Notes**
 
+Greaves argues for axiological longtermism, an ethical position in which actions which maximize long-term should be pursued over those which only maximize short-term benefits, because the ‘size’ (given by the quantity of beings with moral status) of the far future is much larger than that of the near future. The truthhood of axiological longtermism, Greaves asserts, is not deterred by the empirical or axiological objections. 
+
+Terms and Concepts
+- Empirical objection. A category of arguments against axiological longtermism which object to its assumptions on how the near- and far-future behave – for instance, that one’s present actions have decaying or negligible causal influence on the long-term, or that it is intractable to even evaluate such causal influences. Greaves responds by asserting that there are plausible pathways towards changing the world trajectory by shifting the world from one attractor state to another.
+- Axiological objection. A category of arguments against axiological longtermism which object to various aspects of its utilitarianism, such as the equation of a small quantity of high-magnitude utility with a high quantity of low-magnitude utility or the aggregation of utility itself. Greaves responds by either asserting that the targets of such objections are not structural to axiological longtermism or that such objections are not strictly relevant to axiological longtermism, although they may concern other forms of longtermism.
+
+Comprehension Questions
+-	Greaves asserts that the non-aggregationism is a valid objection against longtermism, but that it targets deontic rather than axiological longtermism. Why exactly is non-aggregationism a matter of choice rather than of outcomes? What is choice but comparison of outcomes? Is this property Greave’s interpretation or inherent to the formulation of non-aggregationism?
+-	Exactly why is discounting future welfare generally regarded as an incorrect approach by moral philosophers, and is this appeal to consensus a philosophically sound way to address this objection?
+
+Philosophical Questions
+- Given the scarcity of resources, does longtermism deprive the presently oppressed of the means of existence in the name of maximizing the existence and utility of future beings? If this is so, does longtermism participate in an implicit eugenics campaign? 
+- Axiological longtermism rests on the assumption that we care about the well-being of future beings, but why should we believe so? How might axiological longtermism reconcile itself with anti-natalist arguments? 
 
 
 
