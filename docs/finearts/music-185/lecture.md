@@ -52,11 +52,14 @@ MUSIC 185
 - Asserting the superiority of the present over the past
 - Instincts over feelings
 - Changing meter, polyrhythm, non-Western syncopations, percussion, rhythmic complexity
-
-12:54 left off
-
-
-
+- Melody disintegrates: dissonance and consonance, polyharmony, atonality, new performance techniques
+- Impressionism: momentary effects, perceived light, ambiguity
+- Symbolism: a reaction against realism, detached language-use, effects
+- Debussy: art as sensuous experience, lack of particular clear demarcation or strict structure
+- Primitivism: 'primitive' styles, interest in Africa and Oceania. Utopian goals, new modes of expression -- but often results in colonialist appropriation
+- Igor Stravinsky: hypnotism, folk song, rhythm. Leaned into reputation for provocation.
+- Expressionism -- German, inspired by psychologicla developments, dreamlike and nightmarish
+- Schoenberg -- self-taught composer and leading figure of the second Vieneese school
 
 
 
