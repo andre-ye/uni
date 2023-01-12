@@ -119,7 +119,8 @@ PHIL 440
 - Longtermism understood in an act-utilitarian approach: objection, does not care how the utility/well-being is distributed over time. Shouldn't we be concerned with the equity of well-being's distribution?
 - Strong axiological longtermism - the long future is always more valuable than the expected value of anything in the short term.
 - Greaves: thinks that many people in her circle (economists, ...) don't think that justice and fairness matter much at all.
-
+- Deep trouble to be found in longtermism and effective altruistic ideology.
+- 
 
 
 
