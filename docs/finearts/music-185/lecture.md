@@ -60,7 +60,7 @@ MUSIC 185
 - Igor Stravinsky: hypnotism, folk song, rhythm. Leaned into reputation for provocation.
 - Expressionism -- German, inspired by psychologicla developments, dreamlike and nightmarish
 - Schoenberg -- self-taught composer and leading figure of the second Vieneese school
-
+- Ruth Crawford Seeger -- belnded mysticism with radical modernism
 
 
 
