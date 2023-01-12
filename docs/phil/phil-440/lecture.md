@@ -101,6 +101,24 @@ PHIL 440
 
 ---
 
+## Week 2 Thursday: Longtermism
+- Longtermism -- justify anti-abortion legislation?
+- Longtermism -- implicit eugenicist purification of the body? We should invest in abstract, faceless future beings rather than the current underclass of beings: so when we do that, who gets to materialize / manifest the abstract, faceless future beings? Certainly not the underclass.
+- Theory of value -- axiological component, theory of actions -- deontic
+- Greaves - wants to say this is what we say about the value of the future, but we can say that without committing ourselves to a claim about what we ought to do about the future. 
+- Axiology and deontology are likely highly separated.
+- Washing-out assumption: there's not much that we can do which has long-term consequences.
+- The cluelessness objection to utilitarianism -- we don't know enough to actually maximize the good.
+- Maybe utilitarianism needs to advocate against utilitarianism to be truly utilitarian.
+- Objection of fanaticism: eexpected utility calculations reign supreme.
+- Utilitarianism: compare individuals' utilities.
+- From an ethical point of view, we shouldn't even be getting involved in utilitarian calculations. It violates our nomral understanding of morality and relationships. Uunconditionality on the part of true morality
+- Utilitarian calculus as a normative ethical theory alienates us from our humanity.
+- Axiological longtermism... for our world
+- Longtermism comes out of effective altruism: often a universalized approach towards our axiology
+- Longtermism understood in an act-utilitarian approach: objection, does not care how the utility/well-being is distributed over time. Shouldn't we be concerned with the equity of well-being's distribution?
+- Strong axiological longtermism - the long future is always more valuable than the expected value of anything in the short term.
+- Greaves: thinks that many people in her circle (economists, ...) don't think that justice and fairness matter much at all.
 
 
 
