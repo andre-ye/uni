@@ -139,7 +139,6 @@ What is a world?
   - The panel: the language of industrialization
   - How to recover richness from simple forms to give it depth and mystery?
 - Plato's pharmacy
-- 
 
 ```
 Prompt: Write a world which includes the stapler.
@@ -147,7 +146,40 @@ Prompt: Write a world which includes the stapler.
 The bleak moon casts a dull light across the blackened street. Two bodies lay still: three pairs of thin and deep indents to the forehead, two on the back. In the distance, a curdling scream. Three equally spaced staples to the forehead, two across the back. The body slumps, quiet. The figure waits several moments, then reabsorbs the embedded staples. It opens the pockets and collects the contents: one gray device, seven faintly bloodied staples. Three are unused. and moves quietly away. It loads the stapler and presses it gently against its abdomen. The stapler faintly clicks. The staple clings into the delicate flesh. It holds the rotting material together. It gives the decaying body a new body: structure. Structure is life in a rotting world. Another staple to the arm, then to the chest, and four on the right leg. But not on the head. Never on the head.
 ```
 
-
+## Week 2 Thursday
+- Diagetic sound, involvement
+- Deterroritorialization as a notion of abstraction, to a place of flow from one idea or another -- one space to another
+- Dialectic - thesis, antithesis, synthesis.
+- Marxism
+  - Where does value come from? Labor, demand, social capital
+  - Affective labor
+  - False consciousness, truthhood comes through the proletariat
+- Affective labor -- understanding the labor present in service, feeling, the exchange of signs
+- Alienation of the self from the conditions of the labor
+- In communication, production is not marked.
+  - *Avatar* is produced, but it is the collective effort of many laborers.
+  - Labor gets lost in a long chain of marking.
+  - You've already destabilized the notion of production and the role of the individual
+  - Sign-value and social value
+- Complex systems destabilize the concept of labor, support fetishization. How to resist in the paradigm of production? Produce things which can take us somewhere else.
+- Revolution -- dissemination, the revolution can(not) be televised
+- The multitude -- Spinoza. 
+- Mass culture: Horkheimer and Adorno -- enlightenment has two interesting components, a) makes technology, and b) makes critical thinking. Critical thinkers synthesize the cultural makers in a way to get us towards a more informed society.
+  - We don't have the same form of culture production that we used to have.
+  - Thurtle: desn't think that critical thinking is very important. What else do we need: we need imagination. 
+  - Critical thinking is walking backwards: technoscience leads first (producer), and humanity follows (the intellectual)
+  - Imagination allows us to negate this assymetric dialectic: the imagination leads. 
+- The consumer: imaginative engagement and critique
+- Authentic revolution -- coming from traditional Marxism, work from within the inside: because there is no outside to capital anymore.
+- Empire: global media production
+- Spinozan multitde: in a world which is globalized, multiplatformed -- includes all different forms of labor. Where is the individual? We no longer have a clear relationship between the individual and the mass?
+- For Spinoza, Hardt & Negri, ... -- hold together mass production and individual production at the same moment.
+- The crowd and the singularity.
+- Deleuze & Guaratarri: line of flight, infinite deferral of synthesis -- not quite, thesis and antithesis in eternal production. 
+- Authenticity ends up becoming the new topic in capital, authentcitiy has sign-value.
+- What is the new authenticity? -- recognizing the relationship between our singularity and our multiplicity. And this leads us towards imagination.
+- Liberatory politics as opposed to authenticity, truthhood
+- We have multiplicity, a matrix of variations -- where we find a liberatory politics. 
 
 
 
