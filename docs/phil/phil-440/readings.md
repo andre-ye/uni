@@ -296,8 +296,22 @@ Philosophical Questions
 - Given the scarcity of resources, does longtermism deprive the presently oppressed of the means of existence in the name of maximizing the existence and utility of future beings? If this is so, does longtermism participate in an implicit eugenics campaign? 
 - Axiological longtermism rests on the assumption that we care about the well-being of future beings, but why should we believe so? How might axiological longtermism reconcile itself with anti-natalist arguments? 
 
+## "Additive Aggregation and The Repugnant Conclusion", Forcehimes & Semaru
+Introduction
+- To evaluate a group of outcomes, we can not just have knowledge of individual goodness: we need a combinatorial principle. 
+- Additive aggregation: the overall value of a complete system is the sum of its individual goodnesses.
+- Modeling worlds: individual well-being comes at the cost of population size.
+- Repugnant conclusion: additive aggregation makes it such that a world with a large number of moral beings with poor lives is better than a world with a small number of moral beings with good lives.
+
+The Argument from the Repugnant Conclusion
+- Welfarism: all episodes of well-being are basically good.
+- Welfarism does not force us to arrive at the RC. Equal amounts of well-being are not all equally basically good.
+- Proportionalism: the basic goodness of well-being is dependent on its relative reception by the subject.
+
+Page 6
 
 
+---
 
 
 
