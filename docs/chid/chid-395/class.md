@@ -180,8 +180,22 @@ The bleak moon casts a dull light across the blackened street. Two bodies lay st
 - What is the new authenticity? -- recognizing the relationship between our singularity and our multiplicity. And this leads us towards imagination.
 - Liberatory politics as opposed to authenticity, truthhood
 - We have multiplicity, a matrix of variations -- where we find a liberatory politics. 
-
-
+- A Marxist will tell you that world-building is escapism, leading you away from understanding systems of production.
+- This gives us a way of thinking about the possibilities for a better existence.
+- What is a better existence? -- could be less oppressive, is it more creative
+- Individualist liberalism: individuals are individuals, not only intellectually, but also politically or economically.
+- When you are at the feet of the pyramid, your choice becomes inconsequential: it is no longer a right, it is no longer a choice.
+  - Coke or Pepsi, it's another flavor of how we participate in society.
+  - You're always already playing into a conception of society, society is already setting the rules
+- Modernism/romanticist account of historicity: individuals drive history. Dialectical materialism: the material conditions of society (the 'outside') drive history. So what is the multitude's theory of history?
+- A more subtle notion of how we are different, without thinking about what it means to be an individual -- both how can we be different and part of the crowd
+- Where does the solution lie? In creating worlds which can alleviate suffering and increase creativity. We're not giving up politics: we're recognizing the complexity of politics.
+- We will be building worlds which have to draw upon this world -- imagination never exists in a vaccuum. But which express a small difference.
+- Biopolitics -- the ability to make live, and let die.
+- Does world-building have anything to say about how we can merge the worlds that we imagine and the world in which we materially inhabit? Or can the premise of speculative knowledge only take us towards possibilities?
+  - Write a manifesto and what you want to change (next week). When you world-build, you often end up getting ideas you wouldn't get. World-building is generative. It's about relationships, rather than objects: it's a way for speculating about different types of relationships. 
+  - May not be predictive, in the sense of statistical modeling -- but it is a form of modeling to think about what can come about from different tyeps of relationships. 
+- 
 
 
 
