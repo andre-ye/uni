@@ -195,7 +195,11 @@ The bleak moon casts a dull light across the blackened street. Two bodies lay st
 - Does world-building have anything to say about how we can merge the worlds that we imagine and the world in which we materially inhabit? Or can the premise of speculative knowledge only take us towards possibilities?
   - Write a manifesto and what you want to change (next week). When you world-build, you often end up getting ideas you wouldn't get. World-building is generative. It's about relationships, rather than objects: it's a way for speculating about different types of relationships. 
   - May not be predictive, in the sense of statistical modeling -- but it is a form of modeling to think about what can come about from different tyeps of relationships. 
-- 
+- How does the multtide stand in relationship to intersectional epistemology?
+- On the sex appeal of the inorganic
+- We exist as historical subjects: now it is up to us to decide where we want to take it?
+- Manifesto, initially: the principles to order the world around, and why
+- The Futurist Manifesto: our society is not prepared for thinking about new developments in modernity, and we need an art which embraces it
 
 
 
