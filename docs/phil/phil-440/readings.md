@@ -307,8 +307,26 @@ The Argument from the Repugnant Conclusion
 - Welfarism: all episodes of well-being are basically good.
 - Welfarism does not force us to arrive at the RC. Equal amounts of well-being are not all equally basically good.
 - Proportionalism: the basic goodness of well-being is dependent on its relative reception by the subject.
+- The goodness of a complete state of affairs, under the repugnant conclusion, becomes strictly proportional to the total amount of welfare. 
+- If the repugnant conclusion is false, then either welfarism, proportionalism, or additive aggregation is false.
 
-Page 6
+The Argument against Additive Aggregation
+- Positive lives are good: if well-being exceeds ill-being, then one's existence is good.
+- Additive aggregation and positive lives are good arrive at the repugnant conclusion.
+
+The Argument to Accept Repugnance
+- Those who deny the repugnant conclusion must also deny additive aggregation.
+- What are alternatives to additive aggregation?
+- Average view: improve the average state of living. -- avoids the repugnant conclusion. However, it does not take into account population size. World A and populous-World A are equally good.
+- Average view must deny that more intrinsic goods are better
+- Lexical view: the overall value of a complete system cannot be evaluated on a numerical scale. -- avoids the repugnant conclusion.
+  - There are different natures to goodness and badness: lollipops and falling in love, both are good but no amount of lollipops will be as good as the good of falling in love.
+  - Lexical view denies the positive life continuity: contribution of each life may not be comparable. But the positive life continuity seems to be necessarily true for gradually decreasing worlds/goods.
+  - Lexical dominance requires a critical radical break
+- The argument to accept repugnance?
+
+The Argument for the Unreliability of Repugnance
+- hmm
 
 
 ---
