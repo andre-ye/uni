@@ -326,8 +326,16 @@ The Argument to Accept Repugnance
 - The argument to accept repugnance?
 
 The Argument for the Unreliability of Repugnance
-- hmm
+- The Repugnant Conclusion is certainly unwelcome: but is our resistance justified?
+- Are our lives like those on World-Z?
+- We should not have reason to trust our intuition on the morality of the repugnant conclusion.
+- The argument for the unreliability of repugnance
 
+Conclusion
+- Additive Aggregation at the root of the Repugnant Conclusion
+
+
+> As the passage suggests, the rejection of Positive Life Continuity depends on the plausibility of a nonmonistic theory of welfare with incomparable goods. But is such a position defensible?
 
 ---
 
