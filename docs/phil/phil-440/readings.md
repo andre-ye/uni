@@ -352,6 +352,58 @@ Philosophical Questions
 - Is it justified to accept a problematic ethical principle if it is the least problematic of ethical principles we can accept? Are we obligated to accept Additive Aggregation because it is arguably optimal compared to averaging or the lexical view, even though it results in the Repugnant Conclusion? If not, then many of the arguments throughout the text which rely upon acceptance of the optimal proposition may not be sound.
 - The implicit premise throughout the exploration of Additive Aggregation is that, in the context of moral determination, it acts upon individuals as the core unit of goodness-experiences. Is it possible, however, to apply Additive Aggregation to different units of goodness-experiences, such as families, nations, and body parts, and does such an application contradict with or support an application of Additive Aggregation to individuals?
 
+### "The Non-Identity Problem", Parfit
+- Each of us may never have existed -- how do we understand our identity, and future identities?
+
+How our identity in fact depends on when we were conceived
+- Time-dependence claim: if any particular person had not been conceived when he was conceived, it is 'in fact' true that he would never have existed.
+- The TDC is not true -- it is a reductionist view about personal identity: not about personal identity through time, but identity in different possible histories.
+- It is not true that questions of identity must be answered in a binary fashion. Identity may be indeterminate.
+- TD2: If any particular person had not been conceived within a month of the time when he was in fact conceived, he would in fact never have existed.
+  - In fact true, but not necessarily true
+- $$P$$: a distinctive and necessary property.
+  - Origin View: each person has a $$P$$ -- growing from a particular pair of cells. But fails to account for identical twins. Compatible with TD2. 
+  - Featureless Carteisan View: individuals are particular Cartesian Egos with no $$P$$s.
+  - Descriptive View: each person has several $$P$$s, but do not include the origin view.
+  - Descriptive Name View: each person's name is associated with particular $$P$$s.
+  - Backward Variation View: reference does not need to be the point of origin, but to any point in a person's life -- and maybe we have a different origin.
+- Descriptive views: do not account for the different ways in which we live our lives.
+  - Reply: properties are not necessary but distinctive.
+- Tolstoy: history does not depend on the decisions made by particular people. Author dismisses this view :(
+- TDC applies to all views.
+
+The Three Kinds of Choice
+- There will be people living later who do not exist now. 
+- We can affect identities of future people.
+- Would all and only the same people ever live in the same outcomes?
+  - Yes: same people choices
+  - No: different people choices; would the same number of people ever live in both outcomes?
+    - Yes: same number choices
+    - No: different number choices
+
+What weight should we give to the interests of future people?
+- Most moral thinking is about same people choices
+- We can morally ignore different people choices and same/different number choices because we cannot predict them.
+- Sometimes we can predict harm.
+- Do moral principles only encompass people who can reciprocate? We should reject this.
+- Social discount rate, discounting the value of the future.
+- SDR is indefensible, Parfit argues. 
+- Can we conceive of time as a spatial dimension, just like shooting an arrow?
+
+A young girl's child
+- Future people:
+  - Will future people have a life worth living?
+  - Do we benefit the person if an act of ours is a necessary part of their existence?
+- Non-Identity problem: in different outcomes, different people would be born.
+- We use the phrases 'her child' to cover any child whicht he girl may have, but she has different children.
+- Same number quality claim, Q
+
+How lowering the quality of life might be worse for no one
+- Different polices will affect who marries who, and what children will come out.
+- The problem of depletion: we must choose which resources to deplete.
+
+Page 8
+
 ---
 
 
