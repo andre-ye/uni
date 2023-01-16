@@ -337,6 +337,21 @@ Conclusion
 
 > As the passage suggests, the rejection of Positive Life Continuity depends on the plausibility of a nonmonistic theory of welfare with incomparable goods. But is such a position defensible?
 
+Response
+
+Forcehimes and Semaru present the Repugnant Conclusion as the assertion that any quantity of people with high quality of life can be outweighed in goodness by a sufficiently larger quantity of people with very low but positive quality of life. They argue that if we accept Additive Aggregation, we must also accept the Repugnant Conclusion. However, alternatives to Additive Aggregation which evade the Repugnant Conclusion force us to accept similarly unintuitive assertions. Lastly, Forcehimes and Semaru speculate that we may not be justified in our reluctance to accept the Repugnant Conclusion.
+
+Terms and Concepts:
+- *Additive Aggregation*. The assertion that the value of a system can be quantitatively determined by summing individual positive or negative values. Importantly, Additive Aggregation rejects the lexical position that there are different untraversable types of good and maps all good on a single continuous scale.
+- *Positive Life Continuity*. The assertion that sufficiently high quantity of low-welfare lives can always result in a better net goodness than a single high-welfare life. Positive Life Continuity is the core logic of Additive Aggregation and is rejected by the lexical view.
+
+Comprehension Questions
+- How do Forcehimes and Semaru infer from proportionalism that each unit of well-being on a world is equal to a unit of ‘basic goodness’ when proportionalism asserts that the goodness of well-being is dependent on the good it provides for its subject and therefore a relative entity? Is the act of asserting goodness in terms of fundamental units already doing ‘part of the work’ of an aggregative/combinatory principle?
+
+Philosophical Questions
+- Is it justified to accept a problematic ethical principle if it is the least problematic of ethical principles we can accept? Are we obligated to accept Additive Aggregation because it is arguably optimal compared to averaging or the lexical view, even though it results in the Repugnant Conclusion? If not, then many of the arguments throughout the text which rely upon acceptance of the optimal proposition may not be sound.
+- The implicit premise throughout the exploration of Additive Aggregation is that, in the context of moral determination, it acts upon individuals as the core unit of goodness-experiences. Is it possible, however, to apply Additive Aggregation to different units of goodness-experiences, such as families, nations, and body parts, and does such an application contradict with or support an application of Additive Aggregation to individuals?
+
 ---
 
 
