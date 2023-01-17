@@ -120,10 +120,25 @@ PHIL 440
 - Strong axiological longtermism - the long future is always more valuable than the expected value of anything in the short term.
 - Greaves: thinks that many people in her circle (economists, ...) don't think that justice and fairness matter much at all.
 - Deep trouble to be found in longtermism and effective altruistic ideology.
-- 
 
+---
 
-
+## Week 3 Tuesday: The Repugnant Conclusion
+- Written in a particular style popular among utilitarian apologists
+- There are different ways to understand utilitarianism. 
+- Total utilitarianism -- maximizes total welfare, gives rise to a problem for utilitarianism
+- When we write philosophical statements, we want to pick out crucial features.
+- Average utilitarianism -- avoids the repugnant conclusion. Mere addition paradox challenges average utilitarianism.
+- Modeling worlds example
+- Album amalogy
+- Additive aggregation is essential to the classical form of utilitarianism.
+- Contracturalism is rejection of additive aggregation.
+- Three principles of total utilitarianism: additive aggregation, welfarism, proportionalism
+- Is the repugnant conclusion actually repugnant?Nn
+- Recently -- question whether the Repugnant Conclusion really is false -- is it true?
+  - Put forwards positive argument
+  - Challenge credibilityh of our intuitionChen2021ExplainableMI
+- Insensitivity to popular wor-pro=be 
 
 
 
