@@ -191,10 +191,31 @@ Personal Questions
 - Are storyworlds material, materialist?
 - Can storyworlds exist for themselves?
 
+---
 
+## Other
 
+### *A Grammar of the Multitude*, Paolo Virno
+We, the Multitude
 
+Introduction, p. 21 (9)
+- The multitude is more useful than the people as an analysis of the contemporary public.
+- Hobbes -- people, Spinoza -- multitude
+- Spinoza: the plurality which persists as such. 
+- Hobbes: people and the State, reciprocally constitutive
+- Multitude: inherent to the state of nature; before the State, there were the many. Multitude shuns political unity and authority, resists the single.
+  - The multitude is anti-state, but also anti-people
+  - But how has the multitude survived?
+- The bifuraction between the public and the private: the private is the personal, deprived of the public.
+  - The multitude is concealed in individuals: the remainder of multiplications and divisions; and not conceivable in the democratic socialist thought.
+- The dichotomies: public-private, collective-individual, are dying. The category of the citizen, of the producer -- failed.
+- The multitude is the middle region. **The multitude does not conflict witht he One, it redefines it**; the unity is no longer the State or universal commonality: it is the base which authorizes differentiation to the many as the individualization of the universal.
+- Three approaches to the many
+  - Hobbesian: dialectic of fear and security.
+  - The multitude and the failing tripartite of labor, politics, thought
+  - Subjectivity of the multitude
 
+Forms of Dread and Refuge, p. 29 (12)
 
 
 
