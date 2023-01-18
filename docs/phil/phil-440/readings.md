@@ -296,7 +296,7 @@ Philosophical Questions
 - Given the scarcity of resources, does longtermism deprive the presently oppressed of the means of existence in the name of maximizing the existence and utility of future beings? If this is so, does longtermism participate in an implicit eugenics campaign? 
 - Axiological longtermism rests on the assumption that we care about the well-being of future beings, but why should we believe so? How might axiological longtermism reconcile itself with anti-natalist arguments? 
 
-## "Additive Aggregation and The Repugnant Conclusion", Forcehimes & Semaru
+### "Additive Aggregation and The Repugnant Conclusion", Forcehimes & Semaru
 Introduction
 - To evaluate a group of outcomes, we can not just have knowledge of individual goodness: we need a combinatorial principle. 
 - Additive aggregation: the overall value of a complete system is the sum of its individual goodnesses.
@@ -442,6 +442,20 @@ Causing predictable catastrophes in the further future
 - We can easily affect the identities of future people.
 - Depletion can be bad even though it is worse for no one.
 
+Responses
+
+Utilitarian evaluations of decisions which have disparate outcomes in the future often treat the people in question as if their identities remain the same across all actions. However, Parfit argues that such evaluations run into the non-identity problem: an individual’s identity is specific to their biological conditions of origination, and therefore no individual existing in the sufficiently far future from action A could also exist in the sufficiently far future from action B. It is then possible that enacting a decision which only reduces the quality of life of future individuals (while still being worth living) is not harmful to anyone, because otherwise these individuals would not exist. Parfit asserts that an argument for rights does not solve the non-identity problem because we can still prefer to live overall well-off lives with some violated rights than to not exist. Lastly, Parfit suggests that a (mysterious) Theory X is needed to understand decisions which affect both different types and quantities of people in the future, which will truly solve the non-identity problem.
+
+Terms and Concepts
+- Time-dependence claim. An individual’s identity is unique to the time at which they are conceived, such that an individual which hypothetically was not conceived at the time in which they really were conceived does not exist. Parfit argues that multiple views on the status of identity are all compatible with the time-dependence claim.
+- Q (Same number quality claim). Given two distinct actions in a decision affect the same number of people who would be brought into existence, then it is bad if the people who are brought into existence by an action live worse off than if another action was chosen and they never existed. Parfit argues that Q does not solve the non-identity problem because it does not handle cases in which different types or numbers of people can be affected.
+
+Comprehension Question
+- Parfit writes that the non-identity problem, while arising from ‘superficial’ features of human reproductive biology, is still a ‘real problem’. I have trouble understanding how: Parfit is writing in the domain of deciding between two social or economic policies, so why does he focus on a biologically oriented conception of identity rather than a socially or economically informed one? What is Parfit’s argument that the non-identity problem is significant to the difficult issues he attempts to apply it to?
+
+Philosophical Questions
+- Is an individual which would have been conceived at some point in time but was not of the same status of inexistence as an individual who never was going to be conceived at any time (of which there are theoretically infinitely many)? If there is a difference, then how is it that our intentions constitute a different form of inexistence?
+- Throughout his numerous examples, Parfit assumes that the adverse effects of a current decision on a future individual’s life can be isolated from the well-being that said individual has been defined as having. But is this a reasonable assumption? – is it not that knowing about such adverse effects can cause serious psychological harm, and that we are much more attuned to the ills and injustices done upon us than the good we reap from the world?  
 
 ---
 
