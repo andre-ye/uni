@@ -401,8 +401,39 @@ A young girl's child
 How lowering the quality of life might be worse for no one
 - Different polices will affect who marries who, and what children will come out.
 - The problem of depletion: we must choose which resources to deplete.
+- If particular people live lives that are worth livign, is it worse for these people than if they had never existed? -- **No.** It does not matter what decision we make -- we will benefit all future people
+- One idea: what is bad must be bad for someone. But we should not morally choose depletion. 
+- Non-identity problem: the identities of people in the further future can be easily influenced. While it arises superficially in terms of reproduction, it is also real: it is not true that the same people exist.
 
-Page 8
+Why an appeal to rights cannot wholly solve the problem
+- 14-y/o girl: every child has a right to a good start in life, which this girl is violating by choosing to give birth to him early.
+- Even if a child has a right, it can not be fulfilled at a later point in time.
+- We often waive rights: we do not expect them always to be fulfilled.
+- The mother should have waited, not because of some innate right, but because of what she could have done.
+- People do not have rights to a share of some resource.
+- We cause people to exist with rights that cannot be fulfilled.
+- Are you glad to be alive? Perhaps you waive the violation of your rights
+- Is utilitarianism a theory of rights? Rights rather constrain the principle of utility; principle of beneficence (theory X)
+
+Does the fact of non-identity make a moral difference?
+- Do our choices make a moral difference if our choice is worse for no one?
+- No-difference view: no difference between accepting and rejecting the non-identity problem.
+- Accept the No-Difference View: causing someone to exist with a life worth living benefitss this person.
+- Two views:
+  - Person-affecting view: V
+  - It would be bad if the same number of people would live and the ones who do live worse off than those who would have lived.
+- V is wrong -- draws moral distinctions where no moral distinctions should be drawn. 
+- In Same People Choices, $$Q = V$$. For Same Number Choices, they conflict and we shoulda ccept $$Q$$ over $$V$$.
+- X and V will conflict when we make same and different number choices. 
+- Causing to exist cannot benefit.
+
+Causing predictable catastrophes in the further future
+- The non-identity problem cannot be solved by an appeal to rights
+
+page 13
+
+
+
 
 ---
 
