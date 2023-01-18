@@ -221,8 +221,34 @@ The bleak moon casts a dull light across the blackened street. Two bodies lay st
 - Defining of a new self -- the heart of world-building
 - Rationality as a suspension of time.
 - The history of biology is a history of trying to cut things up and explaining them. This depends upon the suspension of time. It is only recently that biology thinks about how things change.
-- 
-
+- Books are channeling existing ideas -- the troubled concept of the author
+- How does Marxism allow for the concept of a liberatory politics to emerge through popular culture?
+- Afro-futurism, artistically exploring
+- Drexciya
+- There is a world which gives birth to world-building
+- What is the role of myth in world-building? -- active and dynamic, whereas literature as frozen into a canon (Deleuze)
+- Myth is active and reproductive
+- Not quite "never forget", but "always relive" -- Nietzsche, eternal return
+  - Repeat to live through 
+- Storyview vs worldview
+- A lot of people are into stories: but if you tell enough stories, you get a world
+- How do objects come about?
+- Worlds collide -- they intersect with our material bodies
+- Psychoanalysis -- trauma to rebirth
+- Don't separate the idealistic from the mateiral: you cannot. You cannot separate the story from the real. There is no box strong enough to pull the two apart. 
+- Narrative -- as opposed to the world, the image. What is the role of enw stories in old worlds? We need new worlds. In world-building, we're not just interested in narratives, we're interested in what relationships come out of it and what narratives a world promotes.
+- "oral hallucinations from the Middle Passage" 
+- History vs hallucination: have others experienced it before?
+- Can hallucinated experiences be real? Are hallucinations separate from reality? Reality is not just what we have around us: it's so much more. This is why our storyview is different from others' storyviews. 
+- Scientific experiments as: "am I hallucinating?"
+- Manifestos
+  - Challenge and provoke
+  - Come in many forms
+  - Theatrical
+  - Fiction dressed as fact
+  - Embrace paradox
+  - Always on the bleeding edge
+  - Are almost magic
 
 
 
