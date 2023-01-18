@@ -201,6 +201,27 @@ The bleak moon casts a dull light across the blackened street. Two bodies lay st
 - Manifesto, initially: the principles to order the world around, and why
 - The Futurist Manifesto: our society is not prepared for thinking about new developments in modernity, and we need an art which embraces it
 
+### Week 3 Tuesday: Liquid Liberation
+- Bare life vs political life: you only have rights if you are recognized as a political life.
+- Biopolitics
+- In biology: the individual is dead
+- Giorgio Agamben
+- Biopolitics -- comes out of Foucault, it's no longer about disciplining subjects, but about making subjects more lively. Doesn't fit into discourses on rights.
+- What is the social function of wellness programs?
+- Foucault's formulation -- the right to make live, and let die
+- Necropolitics: there are active places where people are made to die
+- Multitude -- what is the function of the historian? In *The Deep*
+- Can utopia only happen without memory? What is the burden of memory?
+- What is the importance of the false? One of the things we don't have in a state of perfection is time. Time is not about perfection, but circularity, decay. Aristotle -- history is a tragedy.
+- The Middle Passage and haunting --  the role of the water in black American discourse. Water and trauma. Ends up becoming the middle stage which erases identity. The Middle Passage is a place of erasure.
+- Freud's conception of the oceanic
+- Water has important psychological associations.
+- From the aqeous environment of the womb to the aqeous environment of the ocean. Ties together many of these themes, trauma: water as a place of rebirth, ritual. Water as part of the subconscious.
+- *Civilization and its Disconentents* -- the mystic experience, the removal of the object//subject dyad. Oceanic as psychological: there is a state which is not fragmented in the way that 'civilized' minds are. This is the oceanic -- a retreat from trauma to go to the oceanic. Water gives oneself a chance to be reborn from traumatic experiences. 
+- Defining of a new self -- the heart of world-building
+- Rationality as a suspension of time.
+- The history of biology is a history of trying to cut things up and explaining them. This depends upon the suspension of time. It is only recently that biology thinks about how things change.
+- 
 
 
 
