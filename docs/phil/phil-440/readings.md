@@ -429,10 +429,18 @@ Does the fact of non-identity make a moral difference?
 
 Causing predictable catastrophes in the further future
 - The non-identity problem cannot be solved by an appeal to rights
-
-page 13
-
-
+- If people live lives that are worse living, our choice for the risky policy is worse for no one.
+- "A choice cannot have a bad effect if the choice is bad for no one" -- disproven by the risky policy
+- We may have harmed these people even though our choice is not worse for people struck by the catastrophe.
+- We can deserve blame for harming others, even when i tis not worse for them.
+- To assign blame, we need to consider predictable and not actual effects.
+- Criticism based on beliefs stand even if our belief is false.
+  - What is the real nature of this criticism?
+- Maybe the best thing to do is to conceal the non-identity problem: perhaps it is better that people believe falsely.
+- Consent and infringements to autonomy
+- People who owe their existence to choices
+- We can easily affect the identities of future people.
+- Depletion can be bad even though it is worse for no one.
 
 
 ---
