@@ -137,9 +137,69 @@ PHIL 440
 - Is the repugnant conclusion actually repugnant?Nn
 - Recently -- question whether the Repugnant Conclusion really is false -- is it true?
   - Put forwards positive argument
-  - Challenge credibilityh of our intuitionChen2021ExplainableMI
+  - Challenge credibilityh of our intuition
 - Insensitivity to popular wor-pro=be 
 - Broome's bridges
+
+---
+
+## Week 3 Thursday: The Non-Identity Problem
+- A traditional identity-dependent view: future generations have a right that we do not harm them. 
+- Parfit's strategy: we should agree that there are strong moral reasons to be concerned with future generations. However, in many cases, we actually are not harming future people. Our moral reasons to be concerned with future generations cannot rest on oglibations not to harm people.
+- They rest on principle A or Q (really X) instead; A vs Q makes little practical difference but makes a large theoretical difference
+- Parfit converts contractualism into utilitarianism
+- Views which solve the non-identity problem have to rely upon principle A, and only some theories can endorse those -- the quasi-utilitarian ones; the ones which can't endorse it are non-consequentialist theories. 
+- Same people choices -- nuclear technician. Same particular people would be born in the next centuries. The choice not to check the tank is worse for people who later will be harmed. But is it morally relevant if people who the technician harms do not yet exist? Parfit says no. 
+- Different people choices: risky policy. It is not true that the same particular people will exist two centuries later. Our choice of the policy will affect who actually lives in the future. Energy policies have a ripple effect -- we experience different population compositions. What you have been born if World War II didn't happen?
+- Metaphysics of personal identity: under what circumstances are persons in different possible histories the same person?
+  - Claims:
+    - The same person must have the same parents
+    - The same person must come from the same sperm and egg, which provides the basic genetic material
+  - To be the same person, you must be conceived at more or less exactly the same time as you were in fact conceived.
+- Contingent identity: lots of spermies in a cumdump
+- Core example: depletion vs conservation.
+- The depletion argument: Large-scale environmental policies are necessary to deal with many environmental problems. These also affect the conditions of conception. Because identity is contingent on the conditions of conception, large-scale environmental policies affect the identities of individuals who come into existence in succeeding generations.
+- If you think that depletion is morally wrong, it cannot have to do with someones' being harmed.
+- "No practical difference view" -- we on't become less concerned with effects on ufture generations.
+- **It is morally irrelevant that our choice will be worse for no one.**
+- Rival 'big difference' view: maybe the non-identity problem is good and shows that the NIP should affect how we think in practice. Our objection to the risky policy should be much weaker and that it may be no objection at all. A theoretical move makes a big practical difference.
+- **Why might the NIP matter theoretically?**
+  - An entire class of ethical theories accept the general principle that wrongs require victims, our choice cannot be wrong if we know that it willb e worse for no one.
+  - Parfit's theoretical argument: person-affecting principle (PIP) it is bad if particular people are affected for the worse.
+  - Parfit's argument:
+    1. WRV (wrongs require victims) cannot solve the NIP because it is a PAP.
+    2. All PAPs must be rejected.
+    3. A large portion of commonsense morality require PAPs.
+    4. All of these must be rejected too.
+- Rival principles
+  - A/Q, same number changes. It is bad iif those who live are worse than those who might have lived, we don't care about identity -- it is irrelevant. 
+  - We have some significant moral reason to bring into existence people who are better off.
+- Motivating AQ
+  - 14 y/o girl's pregnancy. We cannot claim that it would be worse for this child that he could have been better.
+  - The two choices differ in the alternatives: the objection to the choice is that her actual child is worse off than some later child would have been, supports principle A/X
+- Parfit doesn't like the repugnant conclusion: the repugnant conclusion is not really that repugnant
+- Why talk about specific people? We don't care about individual people, says the consequentialist. But for the non-consequentialist (WRV), pre-theoretically, suppose my generation continues to screw up climate change and ends up with a compromised form of existence. Future generations have a complaint: you should have done more, but you didn't. You therefore violated a relationship with us.
+- Parfit: you can't blame us because you wouldn't have existed if not for our decision! You have no complaint against us. This annoys many moral theorists and future generations.
+- It's hard to apply NIP due to the theroetical temporality of NIP.
+- NIP only gets a grip if you can guarantee that future people are above the minimal welfare; if you push welfare below the threshold, then you've harmed them -- maybe this pushes into a non-consequentialist direction already.
+- A contractualist response -- should we really care about technicalities of individuals when we could be considered with the relative position in society?
+- Select the suboptimal outcome -- gives rise to some sort of harm. 
+- Have we harmed people who have not been brought into existence?
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
