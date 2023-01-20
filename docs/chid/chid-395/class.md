@@ -250,9 +250,41 @@ The bleak moon casts a dull light across the blackened street. Two bodies lay st
   - Always on the bleeding edge
   - Are almost magic
 
-
-
-
+### Week 3 Thursday -- Bergson, Memory, and the Virtual
+- We are a beach
+- How much of the ocean is made by the tidepools, by the shores? Are pools areas of comfort from trauma or ignorance? How is our selective ignornace sometimes bringing us closer to a greater knowing, greater consciousness?
+- Marxism as understanding universality through partial commitment, through partial epistemic understanding
+- History as causal, phenomenologically ordered and linear. We can get nuance in this -- historians
+- Foucault, geneology: not to think about items as a chrnology, but as potentials for something else to happen; breaking up the linearity.
+- Let's go further: our experience is a compendium of past, present, future -- we take these things with us. Links us from memory to Deleuze's theory of virtuality
+- What is the virtual? -- ask for Deleuze writing on the virtual
+- Virtuality and immanence
+- So much about memory -- what does it mean to remember? How can memory be the basis for the future? How is the future the basis for the past?
+- This idea of return -- the return to the memory? Re-enactment? Repetition? Or do you run away? Or as a moment of re-birth, of re-engagement into new memory?
+- We too often think about the virtual in opposition to the real. 
+- How does the virtual function, historically? 
+- Ontologically, different pieces: virtual vs. actual, possible vs. real
+- Bergson -- we need to think about the virtual vs the action instead of the virtual vs the real. The virtual is a state before things become actualized, and it is predicated upon certain relationships. And it is understood in terms of memory.
+- The possible and the real -- thinking about potentials, if we think about specific possible, it's the thing which hasn't happened, hasn't been actualized 
+- Henri Bergson and memory: memory exists as a thing in itself, instead of as a reflection of the subject. It is not wholly of the subject, nor a material element of the world, but something which exists virtually.
+- Language is sufficient for history, but not for memory -- memories of olfactory sensations. 
+- Memory as my experience of abstraction to the universal. 
+- Memory as virtual coexistence -- how would a new present come about if the old present did not pass at the same time that it is present? How would any present pass, if it were not past at the same time as present?
+- We hold the past with us, it is a part of the present. The past is not actualized as present -- the past is something which we hold. 
+- Virtual is an actual which has immaterial dimensions. It is something actualized which can be something else.
+- The cone of memory, Bergson.
+- The subject mediates the different levels in the cone of memory. If you change your memory, you can change your future. We need to run, and we need to hide. We need to select different areas
+- Where do memories lie? -- ontologically, the collective
+- World-building is not an escape, it is a different tool to access insights about current relationships
+- Memory is a place of great vulnerability and strength: relationships, stories. You can actualize certain things -- what you actualize is always bigger than what you perceive as it.
+- World-building is a way to think about how our memories and experiences can be politically engaged, give them a space -- get out of the ocean, go to the tide pool and see how the things are relating. Then go back out to the ocean. 
+- What is change but play?
+- Subject of zero-point, Merleau-Ponty -- we're tubes
+- We carry the world with us -- **a possible argument against intersectional epistemology?**
+- Meaning is often a way to avoid memory -- 'maps of meaning'
+- WHat is the logic of dreams? 
+- Biological unconscious, an associative way to think about what we take with us
+- Memory and multiplicity -- philosophy is the theory of multiplicities. Deleuze calls his philosophy a philosophy of multiplicities, multiple potentials. There are the actual adn the virtual. Il n'y pas object actual -- every actuality is surrounded by a fog of virtual images. Memory is a way to be reborn, to think about something else.
 
 
 
