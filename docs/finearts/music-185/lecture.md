@@ -46,6 +46,38 @@ MUSIC 185
   - Fate motive: exposition 
   - Medial Caesura -- stop! modulation
 
+---
+
+## Lecture 4: Romanticism
+- Music as an innocent luxury: Kant, music as 'sensations without concepts'
+- Composers sought new modes of epxression and individuality.
+- It becomes difficult to discuss universal stylistic features
+- Expansion of orchestra
+- Tempo rubato: robbed time, hesitation and anticipation
+- Program music: instrumental music with literary associations
+- Absolute music: designed without explicit non-musical associations
+- War of the Romantics: program vs absolute music
+- Concert overtures
+- Felix Mendelssohn -- born in Germany
+- Overture to *A Midsummer Night's Dream*
+- Incidental music: complimentary, dramatic, evocative -- different from melodrama
+- Norweigan Edvard Grieg, studied with Mendelssohn and Schumann
+- Berlioz: French, developed program symphony, wrote first book on orchestration
+  - Idolized Shakespeare and Beethoven
+- *Symphonie fantastique* -- unusual and hallucinatory work. 
+- Idee fixe: recurrent theme represent obsession
+- Thematic transformation -- variation on the idee fixe
+- Symphonic poem: Franz Liszt, single-movement symponic work. Program -- a poem, play, narrative. Form from thematic transformation.
+  - Strauss
+- Does the program ruin the music?
+- Johannes Brahms -- future of Viennese classicism. 
+- Symphony in F Major
+- Gustav Mahler
+
+
+
+---
+
 ## Lecture 5: Modernism
 - Modernism: rejection of Romantic aesthetics, confrontation with realities of modern life
 - Avant-garde, radical modernism
@@ -61,6 +93,8 @@ MUSIC 185
 - Expressionism -- German, inspired by psychologicla developments, dreamlike and nightmarish
 - Schoenberg -- self-taught composer and leading figure of the second Vieneese school
 - Ruth Crawford Seeger -- belnded mysticism with radical modernism
+- Mahler: nostalgia for the freshness of early Romanticism, detachment from direct feeling; maximalism
+- William Grant Still, Florence Price
 
 
 
