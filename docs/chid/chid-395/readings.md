@@ -193,6 +193,38 @@ Personal Questions
 
 ---
 
+## Virtual Worlds and the Potential of Play
+
+### "Envisioning the Virtual", Massumi
+- 'Virtual' -- in opposition to reality. The virtual is the unreal.
+- Virtual became a synonym for artificial, which itself means illusionary.
+- Gilles Deleuze - the virtaul is about force. The virtual is possibility, potential, potentiality.
+- THe virtual is a dimension of reality, not its artificial overcoming or representation.
+- For Deleuze, it is not virutal reality, but the reality of thev irtual.
+- Potential's fulfillment is closed. Potential is recessive and abstract, negative. What is the reality of the abstract?
+- The virtual and perception are deeply intertwined.
+- That which is real is effectively real.
+- The abstract is not in simple opposition to concrete experience.
+- Perception is not a question of truth of illusion, but varying modes of reality.
+- What is the temporality of potential? It always comes too early or too late, always is too little or too much.
+- Optical illusions. What do you call an illusion you cannot not see? It makes a difference, it appears; illusion satisfies a criteria for the real.
+  - We are in relational reality.
+  - Critical distance and requisite configuration
+  - A being of relation adopts perceptible effects
+  - The unity and the disjunction enjoy equal imediacy.
+- Whitehead: the senuous and the non-sensuous
+-  Disjunctive plurality and the singularity.
+- What we experience is the binding of different modes, emergent form, supervening form.
+- Actual -- 'in act'. THe unity and plurality of its conditions for emergence are dimensions of the actual. Different ways ob eing in an act -- sensuous (necessary reference to space), the nonsensuous (cannot be replaced by the sensuous)
+- The non-sensuous is there in excess over the disjunctive plurality which sensuouly conditions its appearance.
+- The virtual is the dimension of the actual where it exceeds itself, the excessive dimension.
+- The thickness of potential. Sensuous elements in play envelop the nonsensuous past: we find ourselves at the (non)/sensuous collision in act, the actual.
+- Nonsensuous diimension of future-past recursivity is recessive. 
+
+page 8
+
+---
+
 ## Other
 
 ### *A Grammar of the Multitude*, Paolo Virno
