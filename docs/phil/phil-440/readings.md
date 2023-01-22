@@ -495,11 +495,19 @@ Principles
 - Why should we understand actions through principles to begin with? To justify an action is always to defend a principle.
 - Contractualism heavily emphasizes the rule of justification. -- an act is wrong not just because it is, but for some reason.
 - We rarely see that an action is wrong without knowing why. (Is this really treu though?)
+- What is a principle? They are general conclusions about the status of various kinds of reasons for action. They leave room for interpretation -- otherwise it would be too narrow and there would be few moral principles.
+- Familiar moral principles are succint labels for more complex ideas. But also, what are the areas wide principles cover which people agree on?
+  - In making judgements, we draw upon these understandings.
+- How many valid moral principles are there? Scanlon says an infinite number.
 
-page 11
+Standpoints
+- Are there standpoints other than our own from which principles we consider can be reasonably rejected?
+- What is a standpoint?
+- We need an abstractperspective -- we need to take into account consequences of actions and other implications -- we need many individuals' perspectives.
+- Acts can have different effects on  individuals -- especially because they may trigger or not trigger other actions.
+- We must rely on commonly available information -- generic reasons.
 
-
-
+page 18
 
 
 
