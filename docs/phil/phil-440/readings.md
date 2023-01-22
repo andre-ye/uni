@@ -459,7 +459,44 @@ Philosophical Questions
 
 ---
 
+## Contractualism
 
+### *The Structure of Contractualism*, Scanlon
+Introduction
+- An act is right iff it can be justified to others
+- Justifiability is elementary: it is the normative basis of morality.
+- Contractualism: when we decide morality, we decide firstly which principles cannot be reasonably rejected.
+- Alternative views: appeal to rationality.
+  - Gauthier: rationality is the fulfillment of one's aims
+  - Hare: rationality is maximum satisfaction of present preferences as conforming to truth
+  - Kant: actions are morally if it can hold as a universal law
+  - Rawls: veil of ignorance
+- Thee theories: we can reach conclusions by asking what is rational or note. We hasve to consider the interests of others.
+- Contractualism  -- finding principles which could not be reasonably rejected.
+- Appeals to reasonableness rather than rationality.
+
+Reasonableness
+- What does it mean to reasonable?
+- The distinction between reasonable and rational actions is semantically significantly. 
+- Rationality in group reasoning yields more complex answers in realistic scenarios where gain comes at a cost.
+- Deciding on the right or wrong of an action requires a judgement on whether objections to moral principles are reasonable.
+- Reasonability is not about advancing interests or producing agreements, but on th suitability of principles.
+- Reasonability guides our common morality; it has moral content.
+- Is reasonability a circular theory? We put in moral elements to get morality? 
+- Is it wrong to do X in circumstances C? Consider if a principle which allows one to do X in C can be rejected.
+- Concept: a threshold of reasonable rejection. This is generally incorrect.
+- How do we deal with evenly balanced strong objections from opposing parties?
+- Objections are symmetrical, and allow us to derive unrejectable principles.
+
+Principles
+- An act is wrong if it would be disallowed by a principle that no one could reasonably reject. 
+- What is a principle?
+- Act and rule utilitarianism
+- Why should we understand actions through principles to begin with? To justify an action is always to defend a principle.
+- Contractualism heavily emphasizes the rule of justification. -- an act is wrong not just because it is, but for some reason.
+- We rarely see that an action is wrong without knowing why. (Is this really treu though?)
+
+page 11
 
 
 
