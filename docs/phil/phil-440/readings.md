@@ -506,11 +506,20 @@ Standpoints
 - We need an abstractperspective -- we need to take into account consequences of actions and other implications -- we need many individuals' perspectives.
 - Acts can have different effects on  individuals -- especially because they may trigger or not trigger other actions.
 - We must rely on commonly available information -- generic reasons.
+- Reasonable rejection is dependent on alternatives
+- We experience a pressure to make principles more fine-grained. But these also create greater uncertainty.
+- Moral theory -- correct biases. Justifying our actions to others helps to gradually refine intuitive moral categories.
 
-page 18
+Generality and Fairness
+- It is natural to take into account the likelihood that a person will benefit or suffer from a principle. How to respond?
+  - Those who cannot benefit should more wholly register the concerns of the benefactors.
+  - How to take others into account? If one needs it, should one be called upon to do so, generic costs, generic benefits
+- Two actions may differ in harm is not consequentialist; we can accept prohibiton against intentionally inflicting serious harm.
+- Moral principles and proper names? Exclusions and generality?
+  - Rawls: veil of ignorance
+  - Hare: moral principles may contain no proper names. But we cannot tell if they are 'rigged' or not.
 
-
-
+Page 23
 
 
 
