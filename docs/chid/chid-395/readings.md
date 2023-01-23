@@ -219,9 +219,42 @@ Personal Questions
 - The non-sensuous is there in excess over the disjunctive plurality which sensuouly conditions its appearance.
 - The virtual is the dimension of the actual where it exceeds itself, the excessive dimension.
 - The thickness of potential. Sensuous elements in play envelop the nonsensuous past: we find ourselves at the (non)/sensuous collision in act, the actual.
-- Nonsensuous diimension of future-past recursivity is recessive. 
+- Nonsensuous dimension of future-past recursivity is recessive. 
+- The sensuous is between the virtualities (the ways in which it exceeds itself): one is recessive (infra) and that which is popout (super)
+- Tension between infraception and supervention
+- The triangle resolves the tensions into its emergence: logical, rather than chronological, time.
+- Sensuous elements are not causes, but conditions.
+- Disjunctive plurality
+- Conditions are not conformal, but formative
+- *Tendency*: acquired habit in immediate experience
+- Perceptual judgements are abductions: innate habits. Habits are formative vectors. They give experience aim.
+- Our eyes form a disjunctive plurality, a tension. Depth emerges from this.
+- 'Natural' three-dimensional perception is an 'illusion' -- the abstract emergence of viewing from offset eyes.
+- Natural objects of our perception are virtual appearances. 
+- Our experience is self-prosthetic: it extends the potential of itself
+- Images are virtualized with the emergence of depth perception:
+- *Virtual event*: interference of two images which did not occur
+- Nonsensuous rendering is necessary to a theory of the virtual. 
+  - Infraception of sensuous elements
+  - Virtual is about creativity: potential, emergence
+- Objects are emergent virtual forms. 
+- There are virtual events which perception depends upon.
+- Value
+  - Differentials: unsustainable tensions, resolutions, actions
+  - Life-existential value
+  - Maximally abstract virtual reality
+  - Value is imperceptible but it makes a difference.
+  - Conditioning differentials, disjunctive pluralities -- value is actuality incorporating what exceeds the direct immediacy of its disjunctive plurality.
+- Perception of value is nonsensuous and impassive.
+- Exceeding itself
+- Virtual forms always co-occur.
+- Virtual ecology
+- Axiological dimension -- the virtual is in universes of values
+- Theory of the virtaul is ethical: courses of action, transmutation of indifference into concern for the event. 
+- Situational ethics -- ''axiological alchemy of the virtual'
 
-page 8
+Personal questions
+- Not still quite clear about this ethical dimension
 
 ---
 
