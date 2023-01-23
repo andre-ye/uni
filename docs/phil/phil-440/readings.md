@@ -518,9 +518,28 @@ Generality and Fairness
 - Moral principles and proper names? Exclusions and generality?
   - Rawls: veil of ignorance
   - Hare: moral principles may contain no proper names. But we cannot tell if they are 'rigged' or not.
+- When to free-ride? Prisoner's dilemma. Should everyone who benefits contribute?
+- Rawl's principle: everyone who accepts the benefits of participation in a fair scheme should also comply with its requirements.
+  - Each of us has reason to prefer exemptions favoring us, but we have no reason to prefer a neutral policy over one biased in anothers' favor.
+  - However, these are arbitrary: choice is arbitrary, and the principle is rejectable.
+- Inclusion by reason is all that matters.
 
-Page 23
+Reasonable rejection
+- We need to determine whether a principle can be reasonably rejected by considering it from multiple different angles.
+- Must we set aside certain assumptions about other rights?
+- Contractualism: does not assume that there is some elementary justification in which only well-being matters.
+  - Claims of well-being are given a privileged status over other moral considerations
+- Does contractualism become self-circular if it doesn't rely upon an irreducible core? 
+- Circularity
+  - We object to principles because they are unfair: this is understandable, it is a reason.
+- Contractualism, as opposed to utilitarianism and other views which center well-being, it can account for multiple different moral notions without reductionism.
+- Why do people have reason to insist on principles?
+- The judgement that any consideration constitutes a relevant reason for rejecting a principle is already a judgmenent with moral content.
+- Contractualism -- goal is to provide a unified account 
 
+Impersonal values
+
+page 30
 
 
 
