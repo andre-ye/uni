@@ -538,10 +538,35 @@ Reasonable rejection
 - Contractualism -- goal is to provide a unified account 
 
 Impersonal values
+- There must be a standpoint from which people can refuse to accept the principle.
+- Rejection on impersonal grounds: not tied to well-being, individuals, etc.
+- Contractualist formula describes ideas concerning what we owe each other -- concerned with what we owe to other individuals. But impersonal reasons are not concerned with what we owe each other.
+- Things really depend on impersonal reasons, which depend on value.; they do not give us a moral compass
+- Impersonal values are what we owe each other, even though they indirectly affect us.
 
-page 30
+Priority for the Worst Off
+- The worst off take priority -- in contractualist arguments, this is an element of the generic reasons and not a general feature of contractualism. 
+- Rescue Principle
+- Judgements are required, and cannot be provided for by contractualism.
+- Helpfulness: take others' interest into account.
+- Contractualism -- key point is what is reasonable
 
+Aggregation
+- The justifiability of a moral principle depends on individuals' reasons for objecting to a principle and its laternatives.
+- Utilitarianism uses aggregative justification
+- Contractualism does not suffer from Repugnant Conclusion-type results
+- Reasons can also take into account claims arising from groups of individuals. But this move exposes us to problems with additive aggregation.
+- We can use a contractualist argument to reject a moral principle whicha llows indiviudals to choose evenly between saving larger and smaller groups of people.
+- There are other principles which satisfy positive and equal weight to each person's life, such as weighted lottery.
+- Contractualism supports principles in which the larger number of people should be supported given equally harmed groups of people.
+- The rightness of actions depends only on the robustness to criticism (rejections) of principles from individual standpoints. 
+  - Claims to individuals -- appealing feature of the view
 
-
+Conclusion
+- Contractualist theory should avoid upwards, constructivist judgements -- but rather downwards, negative argumetns. Do not appeal to what is reasonable, but what cannot be rejected.
+- Is the point of a theory to avoid appeals towards what is reasonable?
+- Welfarist contractualism cannot yield a plausible account for morality. Judgements of well-being are contextually situated.
+- We should not think that the goal of moral theory is to find how to decide moral questions without appealing to intuition.
+- Contractualism provides a process through wihch moral principles are justified.
 
 
