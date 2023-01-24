@@ -90,8 +90,15 @@ $$p \to q \\ \equiv \neg p \vee q \\ \equiv \neg \neg \neg p \vee \neg \neg q \\
   - Conjunctive normal form (CNF): disjoin the negations of all the conditions for falsehood and conjoin against them
   - Don't simplify canonical forms
 
+---
 
-
+## Week 4 Monday -- Quantifier Proofs, English proofs
+- Direct proof rule -- assume and get result to show an implication
+- Arbitrary: just another variable doesn't depend on variables
+- Fresh: new symbol, hasn't been used before
+- You need to eliminate all dependencies when you eliminate a universal.
+- Symbolic proofs -- preparation for writing proofs in English
+- 
 
 
 
