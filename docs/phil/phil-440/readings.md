@@ -569,4 +569,34 @@ Conclusion
 - We should not think that the goal of moral theory is to find how to decide moral questions without appealing to intuition.
 - Contractualism provides a process through wihch moral principles are justified.
 
+Personal Notes
+
+Scanlon argues for contractualism, which outlines the process by which actions can be morally judged: an action is bad or wrong if and only if it is not allowed by principles which cannot be reasonably rejected, across an array of standpoints. By focusing on the framework by which individuals work out what they owe each other rather than specifying the specific principles by which they should do so, Scanlon argues, contractualism becomes more flexible to variations in context and standpoint than alternative ethical theories such as utilitarian. This allows contractualism to robustly avoid problems in (additive) aggregation such as the Repugnant Conclusion while being inclusive of fairness and distributive considerations.
+
+Terms and Concepts
+- Reasonable. In contractualism, the reasonability of a principle (or its rejection) is core to determining the moral judgment of an action. Reasonability is concerned with whether a given principle is congruent with intuition and suitably regulates or maps upon the context in question. Scanlon distinguishes reasonability from rationality: rationality is instead concerned with what individuals invested in maximizing their utility should pursue, but due to the configuration of their environmental conditions, this path may not be one which is reasonable.
+- Principle. To justify any action, Scanlon asserts, is to support a principle. Principles are generalized rules which supply us with justifications to pursue certain actions over others. However, Scanlon emphasizes that principles must be sufficiently large/open to allow for interpretation. Scanlon asserts that while many individuals from different standpoints may find high agreement in such open principles.
+
+Comprehension Questions
+- Scanlon mentions egalitarianism sparingly throughout, but is egalitarianism a structural assumption of contractualism (i.e. does it ‘break’ without the assumption that all people are inherently equal, or is it flexible enough even to operate outside of or without it)? Throughout, it seems that Scanlon’s examples are premised on people with equal ‘life-worth’ but different amounts of suffering, and it is contractualism helps us reconcile disparities in such suffering. But what about, say, people who actively harm vs help (whatever those two could mean) society?
+
+Philosophical Questions
+- If the main advantages of contractualism come from its confirmation of our intuition, insofar as ‘reasonability’ seems to be a funnel for intuition on the personal and group fairness or suitability of a principle, then can it really ever advance ethics past what we can already intuit? That is, what does contractualism offer beyond what intuition could without contractualism?
+- Can and should contractualism convincingly consider the standpoints of the mentally disabled, the physically disabled, and the ‘anti-social’ (anarchists, revolutionaries, radicals, subversives) – all groups for whom the expression of standpoints/reasonability judgements is either technically difficult (in the case of the disabled) or possibly not compatible with ‘social’ reasonability (in the case of the ‘anti-social’). What about infants, animals, the unconscious, and future generations – all groups which we must ‘speak for’ in terms of reasonability judgements? Epistemically, are we ever justified in speaking for groups which cannot speak for themselves?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
