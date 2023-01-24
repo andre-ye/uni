@@ -584,8 +584,21 @@ Philosophical Questions
 - If the main advantages of contractualism come from its confirmation of our intuition, insofar as ‘reasonability’ seems to be a funnel for intuition on the personal and group fairness or suitability of a principle, then can it really ever advance ethics past what we can already intuit? That is, what does contractualism offer beyond what intuition could without contractualism?
 - Can and should contractualism convincingly consider the standpoints of the mentally disabled, the physically disabled, and the ‘anti-social’ (anarchists, revolutionaries, radicals, subversives) – all groups for whom the expression of standpoints/reasonability judgements is either technically difficult (in the case of the disabled) or possibly not compatible with ‘social’ reasonability (in the case of the ‘anti-social’). What about infants, animals, the unconscious, and future generations – all groups which we must ‘speak for’ in terms of reasonability judgements? Epistemically, are we ever justified in speaking for groups which cannot speak for themselves?
 
+### "Contractualism", Ashford and Mulgan (SEP)
+What is contractualism?
+- Scanlon's contractualism is not just about right and wrong, but about what forms of reasoning are justifiable.
+- Wrongness is being unjustifiable. Wrongness is a higher-order property of being unjustifiable.
+- Wrong is the primary moral predicate; right is not wrong.
+- Kant -- people are never means but ends in themselves.
+- Which principles can not be reasonably rejected support an action?
 
-
+How does contractualism differ from other social contract theories?
+- Morality comes from agreement between those in the moral domain.
+- Contractarianism -- Hobbes, self-interest: morality is a form of cooperative behavior which is mutually advantageous for self-interested agents to pursue.
+- Contractualism requires all persons to have equal moral status -- the capacity for rational, autonomous agency.
+- Contractualism -- rooted in Rosseau
+- Under contractualism, I pursue my interests in a way I can justify to others.
+- 
 
 
 
