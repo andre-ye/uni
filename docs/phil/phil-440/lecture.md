@@ -217,11 +217,14 @@ The Formula in Detail
     - Scanlon is a self-claimed not--a-Kantian
     - FOr contractualisms, it is the action itself which mattr=ers
     - What is jsti
-  - Era\\\\\\\\\'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''?
--  kfkf'
-
-
-
+  3. ...for personal reasons -- it maybe unfair, maybe arbitrary -- gives you privileged or underpvieged status. 
+- How to deal with reasons? Personal reasons don't have to be highly specific to you, we can work with tegneric characeristics we have.
+- What cannot be appealed to in rejecting a moral principle?
+  - personalist restriction: leads to an accountment which is impersonally bad, independent of its effects on people. 
+  - indvidualist restriction -- reasonable rejection must occur by the principle's implication only for ourselves, or any other individual
+- Yay rejecting utilitarianism! Ruling out aggregation in classical utilitarianism.
+- Conctractualism: only look at reasons that individual people have, does not allow pooling of reasons.
+- 
 
 
 
