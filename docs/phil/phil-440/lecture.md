@@ -185,7 +185,40 @@ PHIL 440
 - A contractualist response -- should we really care about technicalities of individuals when we could be considered with the relative position in society?
 - Select the suboptimal outcome -- gives rise to some sort of harm. 
 - Have we harmed people who have not been brought into existence?
-- 
+
+---
+
+## Week 4 Tuesday: Scanlon's Contractualism
+- Approach: keep on confronting Scanlon in different ways, 'osmosis' and immersion
+
+Motivating Scanlon's Contractualism
+- Major work in moral philosophy in the last century
+- Leading alternative to utilitarianism
+- Some cultural resonance
+- THe ultimate principle of morality is justifiability
+- Additive aggregation principle -- summing utilities on a single numerical scale
+- Many utilitarians want to embrace the Repugnant Principle because they are so committed to utilitarianism that they odn't want to give it up.
+- What could your eplace utilitarianism with?
+- Scanloni s trying to give you an alternative: utilitarianism operates all over the place. So this is a significant area, not just in philosophy. Aims at fundamental stuff which drives the way that we think in the world.
+- Additive aggregation implies that there is some number of trivial benefits which outweights a massive cost.
+- Contractualism denies additive aggregation, repugnant conclusion: focus on the impacts on people as individuals rather than in the aggregate.
+- Background, familiar objection to utilitarianism -- separateness of persons objection; society is not a 'super-person'. We cannot justify utilitarian trades: you make the sacrifice for benefits which accrue for you. 
+- Scanlon's pairwise approach: focus on the one with the strongest individual claim. 
+- Contractualism returns the intuitive answer to additive aggregation, the transmitter room case: needs to be justifiable to _everyone_.
+
+The Formula in Detail
+- Analytic philosophers: break the formula down into constituencies
+  1. In the domain of interpersonal morality...
+    - What do we owe each other? Harms, oglibations to aid, etc.
+    - Contractualism does not exhaust morality (particularly impersonal reasons)
+  2. ...an action is morally right iff it is justifiable to each person
+    - We are answerable to other people for our reasons to action.
+    - Kantian overtones
+    - Scanlon is a self-claimed not--a-Kantian
+    - FOr contractualisms, it is the action itself which mattr=ers
+    - What is jsti
+  - Era\\\\\\\\\'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''?
+-  kfkf'
 
 
 
