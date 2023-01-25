@@ -629,8 +629,90 @@ Differences between contractualism and utilitarianism
   - Contractualist reasons are flexible
 
 How does contractualism differ from other non-consequentialist ethical theories?
+- Nonconsequentialism often distinguishes itself from consequentialism by emphasizing intensions. 
+- Intention is not directly relevant to permissibility.
+- Intentions have predictive significance, but they are fundamentally indirect. 
+- Moral reaction vs substantive responsibility.
+- Contractualist blame only functions within a relationship
+- Even those who are not concerned with justifiability retain basic moral rights.
+- Blame is a reaction to attitudes, not concerned with control over attitudes.
 
-Page 6.
+The convergence argument
+- Parfit: rule consequentialism, contractualism, Kant's moral theory -- all coincide, triple theory
+- Parfit's improvements to Scanlonian contractualism:
+  - Individualist: rejections must appeal to affects on single people only
+  - Impersonalist: we cannot appeal to claims about impersonal goodness or badness
+- Kantian rule consequentialism: everyone should follow principles where everyone could rationally will to be universal laws.
+- Can contractualism cope with new challenges without collapsing into rule consequentialism?
+
+Is contractualism circular or redundant?
+- Logical structure of contractualism: is it circular or incomplete?
+- objection: the apparatus of reasonable rejection is redundant. A principle no one can reasonably reject is one which permits no actions which are wrong; but what is wrong is given by a principle which no one can reasonably reject...
+  - Response: "because it is wrong' is not a reason which can be used in contractualist discourse -- wrongness is constructed out of reasons
+
+Is contractualism too tidy?
+- Can there really be a unified account of wrongness?
+- Pluralist: morality is irreducibly plural
+- What is most morally relevant is suffering brought through another's agency: affront to human dignity.
+- Contractualism: "could reasonably reject", not "does reject"
+
+Can contractualism really avoid aggregation?
+- Coin-tossing for mutually interventionist trolley problems?
+- Choosing a singular over a multiple choice devalues individuals in the multiple.
+- Individualist restriction as an essential feature of contractualism
+
+What does contractualism demand?
+- Impartial theories are accused of being unreasonably demanding.
+- Is it doing wrong if you do not follow the utilitarian calculus of wealth redistributionism?
+- It may be impossible to construct any principles no one can reasonably reject.
+- Bite the bullet? Morality is demanding.
+- Any impersaonl reformulatio nof contractualism is more demanding than contractualism.
+
+The contractualist account of substantive responsibility
+- Forefeiture view: by disregarding warnings, one forfeits their right to alleviate their burden of harm.
+- Availability of choice matters, not the actual choice.
+- There are symbolic reasons for pursuing actions which may result in worse outcomes.
+
+How does contractualism deal with risk?
+- Contractualism should prohibit all activities which carry any risk of harm.
+- One response: contractualism only deals with certain harms.
+- Second response: risky social activities are indeed never permitted.
+- Third response: favors ex ante or hybrid ex ante ex post evaluation.
+- Does contractualism collapse into consequentialism in an ex-ante evaluation?
+- Contractualism: focus on broader principles rather than specific ones.
+
+Can contractualism protect animals?
+- Social contract theories leave out nonhuman animals.
+- Scope: contractualism is restricted to persons.
+- Trustees: proposed principles can be offered on behalf of animals.
+
+Can contractualism protect future people?
+- Assymetry between responsibility: posterity cannot do anything to or for us.
+- Contractarian: morality is an agreement for mutual advantage. We have no obligations to future people. 
+- Contractualism: we can justify ourselves to others, whether they are currently existing or not. 
+- Who can reject to a decision, though? Non-identity problem
+- My grounds for rejecting a principle are not confined to my well-being.
+- Mary fails to show respect for her future child, whoever that might be.
+- Impersonalism does not allow contractualism with individualism to accomodate non-identity problems.
+- Parfit: contractualists need personal and impartial reasons for reasonable rejections
+  - Impartial: grounded in moral claims or well-being of individuals
+  - We should appeal to the impartial reasons had by people who do exist
+- Does incorporating impartial reasons abandon contractualist's core character?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
