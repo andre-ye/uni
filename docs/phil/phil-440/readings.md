@@ -617,8 +617,20 @@ Differences between contractualism and utilitarianism
 | well-being is the moral predicate | personal reasons accepted |
 
 - Assessment of strength of reasons individuals have for rejecting principles, compared to their alternatives. 
+- Reasonable rejection
+  - I must have objection to a principle in order to reasonably reject it. 
+  - If I am reasonable, I withdraw my objection if your reason is more pressing. 
+  - Contractualism -- presupposes individuals are also motivated by respect for others
+  - There can be multiple rational attitudes towards values -- contractualism can accomodate consequentialism without being wholly consequentialist
+  - Mutual respect 
+- Reasons beyond well-being
+  - I can reject a principle for reasons beyond my well-being.
+  - Failure to respect my status as a person as an example objection to racist principles
+  - Contractualist reasons are flexible
 
+How does contractualism differ from other non-consequentialist ethical theories?
 
+Page 6.
 
 
 
