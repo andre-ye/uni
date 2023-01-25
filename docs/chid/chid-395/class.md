@@ -286,8 +286,41 @@ The bleak moon casts a dull light across the blackened street. Two bodies lay st
 - Biological unconscious, an associative way to think about what we take with us
 - Memory and multiplicity -- philosophy is the theory of multiplicities. Deleuze calls his philosophy a philosophy of multiplicities, multiple potentials. There are the actual adn the virtual. Il n'y pas object actual -- every actuality is surrounded by a fog of virtual images. Memory is a way to be reborn, to think about something else.
 
+---
 
-
+## Week 4 Tuesday -- Actualizing Values
+- Manifesto as made to be unfinished
+- We already assume a way of processing reality which really is about our individuality. Reality is what we've already processed and already been making up.
+- Perception -- we don't all have the same apparatuses of perception, but we all perceive. 
+- We share the experience of perception.
+- How to understand the virtual?
+- Potentials to be actualized
+- The virtual exists as a cloud of potential around an object. 
+- Virtuality: the capability of imagining, and imagining itself as a form of actualization. 
+- Quadrivium
+- Virtual `X` Real -- usage in common speech
+- You have instead the Virtual and the actual, and the real and the possible. 
+- The possible is the one thing you have actualized which doesn't exist.
+- Modal philosophy
+- Deleuze: poststructuralist but not postmodernist
+- The problem with the real was that it wasn't even that interesting to think about to begin with
+- The virtual and the actual as being more interesting
+- What exists as real are objects -- relations which exist between them are not 'as real'; relationships themselves are preludes to something actualizing
+- Kanizsa Triangle -- it is the virtual, but you can sense that something exists there which is in tension, in the negative space, outlined bythe individual objects.
+- Relationships which exist between things -- the virtual. 
+- Information -- not really the message itself, but the differences which matter.
+- Reality and oppositional thinking -- two things which trip us up
+- Contextual, situated: not an ontological determination, but a situated analysis.
+- Why is the virtual ethical? There's an abstraction which exists around objects which becomes the source for values. 
+- Probabilities are already actualized -- what are the conditions which allow for probabilities to occur.
+- Probabilities are a relation
+- A tension between teh many and the one in probability, which we don't understand very well. Probabilities exist as many: for a probability to be actualized in depends on the sample size, etc. It's not very good with meaning: it doesn't give us a very provocative way to think about our experience.
+- Excess
+- Nietzsche and information
+- Countable and count-as-one. Different modes. Also comes from Nietzsche. Two classes of things -- the countable (something which statistics is good at, defining a category  and counting -- positivity) and count-as-one (counts which change your categories -- not just a count, but also a perception -- how we make the category influences the counting). Tension between the definition of categories and counting; exist in tension with each other. 
+- The triangle is not real vs unreal, but spaces in opposition to each other -- different ways of belonging to the same event -- they happen together, they're bundled in the same mode; always in tension with each other. 
+- Tension has difference -- difference ends up being absolutely productive; difference produce a world from a point. (Two points?)
+- Different ways to engage with the complexity in the experience we have.
 
 
 
