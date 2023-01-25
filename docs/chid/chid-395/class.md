@@ -321,8 +321,41 @@ The bleak moon casts a dull light across the blackened street. Two bodies lay st
 - The triangle is not real vs unreal, but spaces in opposition to each other -- different ways of belonging to the same event -- they happen together, they're bundled in the same mode; always in tension with each other. 
 - Tension has difference -- difference ends up being absolutely productive; difference produce a world from a point. (Two points?)
 - Different ways to engage with the complexity in the experience we have.
-
-
+- Tensions create conditions. Difference becomes a condition under which certain things can emerge as opposed to other things. 
+- A cause is dictatorial: it does something, but retroactively writes itself into the effect. And often things cannot be reduced into a participatory gesture. What conditions does something emerge from?
+- Something happens in society which makes certain ways of thinking possible, and then attractive. 
+- Social constructivism, scientific naturalization -- both in nature and constructed socially, thinking about the conditions for emergence.
+- Time exists within the tension itself and not the object.
+- The dialectic is oppositional, but also it is through the synthesis throughout which you get the movie forward. 
+- Time is a part of the world, it is the tension between the virtual and the actual, desire is part of the world itself. 
+- The virtual exists both as futures and pasts
+- Time is the result of tensions -- we just measure time in a certain way. 
+- For Freud, desire is that which we cannot have. For Deleuze and Guattari, desire is the world expressing itself.
+- By the time we think about time, we've already measured it -- divorced from space. The world is always a process, though -- we try to talk about time as its own quality, we have actualized time. 
+- Differences without abstractions of binaries. Tools to think about new types of philosophies. 
+- There are different ways to actualize.
+- Disjunction betweeen modes of experience produces depth -- offset eyes, uneven ears. 
+- Depth comes from the tension we hold between two perspectives. It's within all sensation
+- Information is the difference which makes a difference (counting as one)
+- The singular experiencing of existential value emerges from the tensions and multiplicites present. 
+  - Maximally abstract virtual reality
+- Instead of going to the normal, go to the tensions -- the weird, the bizarre.
+- In worldbuilding, you need a moment where you feel frustrated, where you feel the tension. Otherwise, you're not finding out about the world: you're just ticking another box. Ethical research involves changing your mind.
+- The virtual and the ethics of the virtual is at the heart of world-building.
+  - Your world provides conditions, as opposed to determinations.
+  - Relationships provide the codnitions for stories.
+  - Stories emerge from the world, but are not determined by it.
+  - Your world exists as a set of relations through which its products emerge from, which actualize: your world is virtual.
+- Society is product-centric: what can you buy, cell, objects: but this is more about virtuals, fields, potentials: there is a liberatory moment, world as tension, as a recreation of the world.
+- Purpose of manifesto -- really to expose values more than precisely determinations of any kind.
+- Your world is not reducible to determinations. 
+- It is the tensions, rather than the brilliance of your original presupposition, which matter. Manifestos are about reliving tensions to make claims. 
+- Tensions create objects, and tensions are created from differences in the world. 
+- The values produced by potentials emergent from conditions are more important than the determined acts, characters, arguments: this is what animates the ethics of what you're doing rather than just coming upw ith a story.
+- **Compelling worlds invite recreation and retelling over and over again.**
+- Virtuals remain abstract
+- The virtual world creates the conditions for products (e.g. The Lord of the Rings, The Hobbit)
+- World-building as very different from story-building.
 
 
 
