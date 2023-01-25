@@ -598,8 +598,25 @@ How does contractualism differ from other social contract theories?
 - Contractualism requires all persons to have equal moral status -- the capacity for rational, autonomous agency.
 - Contractualism -- rooted in Rosseau
 - Under contractualism, I pursue my interests in a way I can justify to others.
-- 
+- Kant -- rational agents agree. Abstracts away from concreteness. Contractualism is based on a relation of mutual respect, rather than abstraction to a greater point of view. Focus on lack of disagreement rather than agreement.
+- Scanlon's contractualism has kantian elements.
+- John Rawls: more Kantian, political (liberal society) -- veil of ignorance, liberal neutrality
+- Contractualism: I know my circumstances. But it is my role to justify myself to other people.
+- Contractualism aims at a non-utilitarian theory
 
+How does contractualism differ from utilitarianism?
+- Contractualism is (theoretically) impartial
+- Utilitarianism is consequentialism
+
+Differences between contractualism and utilitarianism
+
+| Contractualism | Utilitarianism |
+| --- | --- |
+| applicable to all domains of morality | only applicable to what we owe to each other |
+| aggregated utilities | focuses on standpoints |
+| well-being is the moral predicate | personal reasons accepted |
+
+- Assessment of strength of reasons individuals have for rejecting principles, compared to their alternatives. 
 
 
 
