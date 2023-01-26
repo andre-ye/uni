@@ -274,7 +274,11 @@ Textual reading is never enough, even if the world is the text: we need interven
 - Critical theory: unmask lies of the established disorder which appears as normal.
 - Optical metaphors, critical vision
 - Techoscience: inherits the negativity of critical theory without relying on Marxist humanism.
-
+- Cracking the possibility for belief in better worlds -- Harding's "strong objectivity"
+- High theory is pushing critical negativity to the extreme.
+- Diffration: making a difference in the world
+- Two fibers: intersecting threads, implosion
+- 
 
 ---
 
