@@ -256,6 +256,26 @@ Personal Questions
 Personal questions
 - Not still quite clear about this ethical dimension
 
+### "A Game of Cat's Cradle", Haraway
+- Emergencies, crises -- these are not the exception but the rule.
+- We must bring about real emergency.
+- Nature is commonplace: nature is not a choice, but inheritance.
+- Nature roots me into itself: I cannot escape nature, the shared place, the place in common.
+- Technoscience: about reconfiguring what counts as nature.
+- Antiracist feminist theory and cultural studies
+- What is normal, natural in technoscience?
+- Queering what counts as nature.
+- How not to replicate the worlds we analyze?
+
+Cat's Cradle
+- Feminist, multicultural, antiracist technoscience projects transgress the borders between disciplines.
+- What life can flourish in war zones?
+Textual reading is never enough, even if the world is the text: we need intervention and narration, world-building -- not just participating in its processes as interpreters.
+- Critical theory: unmask lies of the established disorder which appears as normal.
+- Optical metaphors, critical vision
+- Techoscience: inherits the negativity of critical theory without relying on Marxist humanism.
+
+
 ---
 
 ## Other
