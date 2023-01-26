@@ -278,6 +278,45 @@ Textual reading is never enough, even if the world is the text: we need interven
 - High theory is pushing critical negativity to the extreme.
 - Diffration: making a difference in the world
 - Two fibers: intersecting threads, implosion
+- Actors, agencies, actants
+- (Non)humanity -- a product of relation, relationality: humanity is not self-evident
+- Scientific realism: nature and society are foundationally there, like an objective totalitarian socialism.
+- Categorical purity
+- The game of cat's cradle
+- Cultural studies: bodily and cultural production, comparative culture, hegemonies -- Marxism, psychoanalysis, Gramsci, Frankfurt school
+- Feminist, Multicultural, Antiracism: situation is never self-evident or concrete, but critical: there is no origin
+- Science studies: science in action and in the making, labor, the formation of science
+- Knotted analytical practice: cat's cradle as collaborative,local and global
+- A tangled mess
+- Unified totality
+- String theories of cat's cradle are games of complex processes and culturally interesting patterns.
+- "Bodies that matter"
+
+### *Parallel Botany*, Leo Lionni
+*Morphology*
+
+- Plants are matterless
+- What is a plant? What is plantness?
+- Plantness is part of a larger concept of organicity: what is the basis of nature?
+- How can we tell natural things from human ones?
+- We know when something has grown.
+- Biophilosophy ... haha
+- Growth -- is it really about growth? Or more of decay and whittling?
+- Organisch: a harmonious complex of organs
+- What typifies the forms of nature which man's products do not have?
+- Technology: objects of use into objects of possession, mechanical into ritual
+- The geometric impulse: man projects things into concrete terms
+- Organic - authenticity.
+- What is an organic thing?
+- Human manipulation ends with organic forms, or nature destroys the original forms of man-made objects.
+- Size, too, is dependent
+- We accept dubious dimensions without verification: accepting images as reality.
+- Plants and a dialgoue with the world: personal identity, survival.
+- Many biological 'natural' phenomena elude rational explanation. 
+
+*The Woodland Tweezers*
+- Woodland tweezers: social plants.
+- Parallel plants: cannot be moved; turn to dust in contact.
 - 
 
 ---
