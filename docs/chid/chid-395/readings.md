@@ -317,6 +317,12 @@ Textual reading is never enough, even if the world is the text: we need interven
 *The Woodland Tweezers*
 - Woodland tweezers: social plants.
 - Parallel plants: cannot be moved; turn to dust in contact.
+- Illusion of self-determination: plants live a 'community life', 'monotonous'
+- The game of Go
+- Mystical and aesthetic aspiration -- foreign to Western scientisim
+- Choice of location is definitive
+
+**The Tubolara**
 - 
 
 ---
