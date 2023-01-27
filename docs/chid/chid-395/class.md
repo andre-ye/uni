@@ -389,7 +389,29 @@ A Game of Cat and Cradle
 - A new literary movement -- maybe agonistic, but what is more interesting is its expression of shared difference -- a literature which reacts to the mass is just another mass literature.
 
 Parallel Botany
-
+- What makes a world 'adjacent' ('parallel') as opposed to other forms of imaginary creation?
+- Perspective and premodern art -- not about how it is situated in space, it is about how it is situated within the world.
+- Capital: infinite circulation, you can put things where you want
+- Some things can not be engaged within equivalent exchange.
+- Parallel botany
+- The importance of the world of form -- meaningless shapes to fill the empty vertical space. 
+- Leo Lionni is very interested in the vertical.
+- How to shape space, shape forms. 
+- References to truth
+- Something about engaging with materials that we build the world from
+- Dictatorial relationships to materials: materials need tob e able to speak to you
+- How are spaces constructed in relationship to the page? 
+- What is a plant? Plantness -- the act of speculation. 
+- Abstracting plantness -- creating a new set up virtual circumstances.
+  - Modeling: abstraction and virtuality
+- Form and morphology: what makes a plant? What characterizes organic forms? Form and function -- always about forms. 
+- Plants outside of time and space
+- Plants which change perception: what is inside and outside of an imaginary space, as soon as you can see it, it's no longer inside. 
+- What's in an apple? Cut in half: and you have a new outside.
+- What is the status of a plant which forms as a tube? Is there a negative interior which exceeds the unimaginable?
+- Actualizing differential forms and images
+- Take your ordinary moment, and make it weird. 
+- Whiteboards and screens
 
 
 
