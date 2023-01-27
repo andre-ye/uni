@@ -357,6 +357,38 @@ The bleak moon casts a dull light across the blackened street. Two bodies lay st
 - The virtual world creates the conditions for products (e.g. The Lord of the Rings, The Hobbit)
 - World-building as very different from story-building.
 
+---
+
+## Week 4 Thursday -- Parallel Worlds
+A Game of Cat and Cradle
+- Associational forms of logic
+- Metaphor, the function of metaphor -- or homology (shared histories)
+- No metaphors in biology: analogies and homologies
+- Homology: shared historical continuity
+- Nature and culture, the split -- is this even an inherently Western split?
+- Science studies: how do we create knowledge in society? -- science's stated goal is to make universal claims from local observation.
+- "Situated Knowledge", Donna Haraway. Situated knowledge is thinking about the role of local observations, the situated knowledge.
+- Universalizing abstraction of science -- "the view from nowhere", "the God trick"
+- Sandra Harding, "Strong Objectivity" -- objective to get at universality through more committed partiality or to abandon universality as a useful concept altogether?
+- A landscape based on knots, not on a 'view from nowhere' -- dense understandings of when things come together. It is a view of more than one. 
+- Do we always need universals?
+- Universal assumptions aren't as universal as we think they are -- can we use non-universal statements, if that's what we use anyway -- and we can use the wormholes.
+- The God trick -- erases traces of how it was formed.
+- Knots --- associations, entanglements
+- Polysemouos words, bundling together, new concepts, neologism.
+- Troubling: to take apart, to pull at, to undo knots
+- Emgomeering: ethics within its own structure. Tighter control over the internal critique.
+- Science studies -- militarized metaphors.
+- Cybernetics: the ontology of the enemy
+- Why think in antagonisms?
+- Cat's Cradle: about making knots, untying knots, and about the beach ball -- this is the source of play. 
+- Trickster logic --- game theory and queering/feminizing it into cat's cradle.
+- You can't homogenize -- different from a Marxist conception (get from the right perspective and you have the right view of the world) -- Deleuze, homogenization doesn't happen, it givesyou a notion of a homogenous mass, but in fact there is the multitude -- both about difference and the mass. Every mass creates a minor.
+- Preserve and recognize commonality and difference
+- The minor is always the most immediate thing -- that which emerges under conditions, so it's not responding to the major.
+- A new literary movement -- maybe agonistic, but what is more interesting is its expression of shared difference -- a literature which reacts to the mass is just another mass literature.
+
+Parallel Botany
 
 
 
