@@ -98,8 +98,16 @@ $$p \to q \\ \equiv \neg p \vee q \\ \equiv \neg \neg \neg p \vee \neg \neg q \\
 - Fresh: new symbol, hasn't been used before
 - You need to eliminate all dependencies when you eliminate a universal.
 - Symbolic proofs -- preparation for writing proofs in English
-- 
 
+---
+
+## Week 4 Wednesday -- English Proofs and Sets
+- Definitions are inherently iff statements.
+- Sets are an unordered group of distinct elements.
+
+$$A \subset B \equiv \forall x (x \in A \to x \in B)$$
+
+$$A = B \equiv A \subset B \wedge B \subset A$$
 
 
 
