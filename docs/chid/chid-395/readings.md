@@ -322,7 +322,21 @@ Textual reading is never enough, even if the world is the text: we need interven
 - Mystical and aesthetic aspiration -- foreign to Western scientisim
 - Choice of location is definitive
 
-**The Tubolara**
+---
+
+## Envisioning Nature -- Modeling and Knowledge
+
+### _Into the Technical Universe of Images_, Vilem Flusser
+
+To Abstract
+
+
+“To Abstract”, “To Imagine”, “To Make Concrete”, “To Envision”, “To Signify”, “To Interact”, “To Play”, “To Decide”, “Chamber Music”, and “Summary”
+
+### *Calculated Surprises: A Philosophy of Computer Simulation*, Johannes Lenhard
+- 
+
+### "The Varieties of Gridded Experience" from *Biology in the Grid*, Phillip Thurtle
 - 
 
 ---
