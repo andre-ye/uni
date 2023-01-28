@@ -699,14 +699,63 @@ Can contractualism protect future people?
   - We should appeal to the impartial reasons had by people who do exist
 - Does incorporating impartial reasons abandon contractualist's core character?
 
+### "Wronging Future People: A Contractualist Proposal", Rahul Kumar
 
+Can Future People Resent Us?
+- Some moral wrongs are interpersonal, but some are impersonal.
+- An action can be morally wrong even if no one is wronged.
+- Most people believe that obligations to future generations should be characterized in impersonal terms.
+- Derek Parfit, the non-identity problem: we cannot frame policy choice based on the well-being of future beings.
+- We need impersonal terms to reason about moral defensibility for future generations.
+- Should we really accept that members of the future have no reason to resent us?
+- A positive case for interpersonal obligations to the future from Scanlonion contractualist theory.
+- Scanlonion contractualism allows us to understand what is morally wrong in interpersonal terms. A wrongs B by failing to consider B's interests to the extent they are entitled.
+- Scanlonion contractualism offers us a way of thinking about obligations
 
+Non-Consequentialist Wronging and the Non-Identity Problem
+- How one person relates to another has strong moral significance, even if the consequences don't pan out.
+- Is having been harmed a necessary condition of having been wrong? No. This much is clear.
+- Non-consequentialists understand wronging in a way which the non-identity problem cannot get started on.
+- But we still have the question: how can someone who is wronged by another person make an honest claim about wrongdoing when the wrongdoing brought them into existence?
 
+Contractualism: Basic Framework
+- We need to move away from general non-consequentialism towards Scanlonian contractualism to reconcile with the non-identity problem
+- One person wrongs another by relating to them in a way which is disallowed by principles that no one could reasonably reject.
+- What is the 'value of a person'? People are capable of recognizing and acting upon reasons; persons must govern how they live their life actively.
+- Second-order evil: consciousness 
+- To wrong another: the failure to respect legitimately entitled deliberation
+- Failing to recognize the value of life, failing to consider interests to which individuals are entitled
+  - Different than the 'worse off view', but does not require anything to have happened to a person
+  
+Immunity to the Non-Identity Problem?
+- Contractualism claims to offer an interpersonal characterization of wronging
+- A type of person is not a particular determinate person. It is merely a way of referring to normatively significant characteristics.
+- Legally: we can think about what principles regulate how employers relate to employees.
+- The token identity is in fact quite irrelevant because the principle is dependent on normative features.
+- Is it possible, though, for us to identiy our normatively significant relations to future generations?
 
+In What Relation Do We Stand to Those Who Will Live in the Farther Future?
+- We don't stand in a concretely characterizable relationship with those who will live in the further future. But this doesn't have to undermine our case.
+- Impartial moral justification -- each person's life is no more importan than another.
+- Can a person assess reasons and justifications? -- as assessed from their standpoint, they have no reason to reject the principle. They have licensed you.
+- Does justifiability make sense when talking about people who do not yet exist?
+- There may be no existing individuals which can be understood as forming a type. But their standpoint still matters.
+- If an individual were to come into existence who fits into a type, then we should have given consideration to that individual.
+- Those who live in the farther future form relevant interests. 
+- Can we assess the interests of those living in the future?
 
+The Relevance of Reparations
+- How to understand reparations for slavery?
+- Wrongdoing has to do with choices which are not consistent with the respect for human value; all tokens of a type claim to be wronged. 
+- If one has been wronged but not harmed, is anything owed to them?
+- If one is entitled to reparations for past wrongdoing, then it would be better if the wrongdoing had not been done: assumption of non-identity ethics.
+- A justification in contractualist terms should be available for why those wronged many generations ago should be given material redress. 
 
-
-
+Conclusion
+- Those who end up living in the far future can be wronged, even if they cannot be harmed.
+- Temporal distance has no bearing on if a person can be wronged.
+- Most questions around obligations to future generations are in fact substantive: how much should we demand of ourselves?
+- Is it moral to ensure that no one lives in the far future?
 
 
 
