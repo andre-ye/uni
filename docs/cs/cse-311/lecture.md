@@ -114,7 +114,11 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 ## Week 4 Friday -- Sets and Number Theory
 - The intersection of the complement of $$A$$ and the complement of $$B$$ is the complement of the union of $$A$$ and $$B$$
 - Analogs of DeMorgan's laws
-
+- Forall proofs: reason about properties and show arbitrary point results
+- Existential proofs (disprove forall proofs)
+  - Give an example
+  - Proof by cases. 
+- $$x$$ divides $$y$$ means that $$x$$ is a factor of $$y$$. $$x \mid y$$.
 
 
 
