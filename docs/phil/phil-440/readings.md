@@ -757,11 +757,21 @@ Conclusion
 - Most questions around obligations to future generations are in fact substantive: how much should we demand of ourselves?
 - Is it moral to ensure that no one lives in the far future?
 
+Response
 
+Parfit’s Non-Identity Problem seems to show that obligations to care for future generations must be formulated impersonally. Kumar, however, asserts that such obligations can be formulated interpersonally using Scanlonian contractualism without significant extensions. Kumar asserts that contractualism is concerned not necessarily with relations between particular individuals but rather with what is owed between certain types of individuals in certain types of contexts. Even if a type of individual or context is not materially actualized, under contractualism’s principle of impartial justification to all persons, such standpoints still warrant consideration.
 
+Terms and Concepts
 
+- Types. Kumar uses the term ‘type’ to abstract away from the specific material bodies of individuals towards their more normatively relevant characteristics. A ‘type’ of individual is a group of similar such relevant features which aptly describe their interests with respect to the context. Scanlonian contractualism, Kumar argues, is premised upon considering types of individuals’ standpoints.
+- Interpersonal wronging. The Non-Identity Problem asserts that any formulation of our obligations to future generations must not be formulated in terms of effects or harms done to future persons: that is, such a formulation must be impersonal. On the other hand, Kumar argues that Scanlonian contractualism allows us to develop an interpersonal understanding of wronging, which allows us to understand relationships between individuals as the basis for ethical decision-making.
 
+Comprehension Question
+-	It seems that one of Kumar’s important philosophical moves here is to suggest that contractualism is really about relationships between types of individuals rather than the fleshy bodies of individuals per se. While I think that this is the right move to make, is it true then that Kumar is not really talking on the same grounds as Parfit, since Parfit explicitly assumes a ‘fleshy body’ interpretation of an individual? If so, then can Kumar really say that this approach ‘is immune’ to the Non-Identity Problem so much as it rewrites the premises?
 
+Philosophical Questions
+- Kumar talks about reparations for individuals in groups who inherited and currently bear the burden of systematic historical oppression. However, given Kumar’s application of Scanlonian contractualism in this article, do we also have an obligation to past generations themselves (not considering their current descendants for the purpose of the question)? Must we respect their legacy, protect them from libel, and faithfully execute their posthumous instructions? Do dead individuals fall out of the domain of contractualism or has Kumar’s introduction of the ‘type’ given them a certain immortality?
+- Consider a policy which, if enacted, will allow humans to progressively transition into porcupines who live very happy lives but are not rational deliberators; if it is not enacted, humans will continue to pursue ecological destruction and live lives which are barely worth living (to borrow Parfit’s phrase): how does Kumar’s understanding of contractualism handle this, if it can at all? This is the Non-Identity Problem, but with a twist which makes it relevant to contractualism (i.e. personhood). This scenario is an entirely improbable reality, but the question is philosophically asking: can contractualism be applied to future generations who will no longer be within the domain of contractualism, or does it require some sort of ethical continuity throughout time? Does contractualism recommend its own perpetuation in future generations, or is it capable of recommending ‘suicidal’ decisions? This could possibly be used to understand how contractualism would deal with policies that can affect the prominence of explicitly anti-contractualist thought (e.g. anti-liberal authoritarianism) which would need to be excluded from the contractualist domain, particularly in international politics.
 
 
 
