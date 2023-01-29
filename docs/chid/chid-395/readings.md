@@ -212,7 +212,7 @@ Personal Questions
   - Critical distance and requisite configuration
   - A being of relation adopts perceptible effects
   - The unity and the disjunction enjoy equal imediacy.
-- Whitehead: the senuous and the non-sensuous
+- Whitehead: the sensuous and the non-sensuous
 -  Disjunctive plurality and the singularity.
 - What we experience is the binding of different modes, emergent form, supervening form.
 - Actual -- 'in act'. THe unity and plurality of its conditions for emergence are dimensions of the actual. Different ways ob eing in an act -- sensuous (necessary reference to space), the nonsensuous (cannot be replaced by the sensuous)
@@ -329,9 +329,124 @@ Textual reading is never enough, even if the world is the text: we need interven
 ### _Into the Technical Universe of Images_, Vilem Flusser
 
 To Abstract
+- Technical images -- photographs, films, etc., replacements for *linear texts*
+- What happens when images supplant texts? -- two-dimensions rupture from one (historical to spatial).
+- Linear texts: bear history
+- Perhaps linear texts are a moment in our history and we are returning to two dimensions: but Flusser argues otherwise.  Technical images are not prehistoric but posthistorical: *without dimension*.
+- Flusser's rungs:
+  1. Four dimensions: concrete experience
+  2. Three dimensions: objects, things
+  3. Two dimensions: cave paintings, mediation
+  4. One dimension: linear texts, writing
+  5. Dimensionless: collapse nto particles, technical images
+- Technical images are a different form of media.
+- Each rung corresponds to spaces which must be crossed, from one universe to another.
+- Images have no depth; they are only visible.
+- Linear texts: grasping; representations; concepts
+- Both texts and images are mediations.
+- We recognize rules of play: lost coherence, disintegration.
+- Traditional vs technical images: observations of objects vs computations of concepts. -- *hallucinatory power*
 
+To Imagine
+- Split between object and subject, anthropologically: subject withdrew into subjectivity to understand objectivity
+- Images are models for actions. They only show surfaces, but they still show relationships.
+- Every observation is subjective, and every observation is momentary
+- Images need to be stabilized to be made models fro actions
+- Cave paintings: an activity of symbols; symbolic content, imaginative consciousness in the universe of traditional images
+- Codes -- symbols linked to content. Initiates -- decipher symbols.
+- Is there a 'history of images'? 
+- Original images attempted to be as true to images as possible.
+- Makers try to reduce subjectivity: to retain the objective conditions
+- Prehistoric universe (universe of traditional images)
+- Linear texts: now emerges the history of images.
+- Technical images are on a different level of consciousness
+- Visualization as different from depiction
 
-“To Abstract”, “To Imagine”, “To Make Concrete”, “To Envision”, “To Signify”, “To Interact”, “To Play”, “To Decide”, “Chamber Music”, and “Summary”
+To Make Concrete
+- Dimensionless level: post-history. 
+- The universe is quanta -- bits of information. 
+- Particles do not follow rules
+- We can't live in an empty and abstract universe. So we make it concrete.
+  - Integrate, differentiate
+- Technical images: consolidate particles; turn information into images. We need methods to grasp the ungraspable.
+- Apparatuses are not intractable: they can simulate thought 
+- A technical image is a blindly realized possibility.
+- Production of technical images happens in a field of possibilities (virtual?)
+- Possibility is the emergence of consciosuness.
+- Particle universes tend towards disinformation
+- There are improbable situations everywhere in the universe
+- Can large computers futurize improbable situations
+- Apparatuses are part of a search for eternal life: to produce and distribute information
+- Technical images are resevoirs of immortality
+- Improbable situations become more probable with time. 
+- 'programmed accidents'
+- The universe runs past the programmed task; the apparatus continues with its programmed tasks
+- Automation: self-governing computation of accidental events. 
+- Over time, the apparatus becomes liberated from humans.
+- Unintended results -- the challenge to automated production of technical images. 
+- The appratus does as the photographer desires, but the photographer can only desire waht the apparatus can do.
+  - The tools constrain the wishes of the tool-wielder.
+- Apparatuses generate informative situations automatically. 
+- Technical images come from a complex relationship between the inventor and the manipulator of the apparatus.
+- Technical images: programming computation, then deprogramming to become informative. To rise from no dimensions to two dimensions: abstraction to concreteness.
+- Every surface is infinitely many particles. 
+- Traditional image makers direct from objects to a surface (concrete, then abstract). But technical images are from particles to surfaces (abstract, then concrete).
+
+To Envision
+- Technical images are envisioned surfaces. The basic construction of particles is the same: they are surfaces computed from particles.
+- Tension between looking and observing in technical images
+- Technical images are very different from standard objects in the objective world
+- Wholeness is an illusion
+- The theory precedes the practice: without the theory, there can be no practice. 
+- Concrete experience: visualized out of abstractions
+- Envision: the capacity to step from the particulate universe to the concrete
+- Technical images are symptoms of chemical and electronic processes: objective depictions of events in the particle universe.
+- Technical images require critical distance. 
+- Should we praise the superficiality of images, the truth itself?
+- Envisioners are superficial people.
+- To visualize, we must have a mistrust of deep explanation. A contempt for depth.
+- Envisioners are constrained tightly by the machine, more than a writer. It is not about writing texts, but about building from within.
+  - Envisioners are freed from the pressure for depth.
+- Superficiality gives new powers for invention
+- Envisioning: to make concreteness out of the abstractness.
+- Envisions offer us the possibility to experience the world concretely in the most extreme edge of abstraction.
+- It does not make sense to distinguish fiction and reality, illusion and disillusion.
+- We should abandon true-false, real-artificial, and so on -- instead, it is about the concrete and the abstract. 
+- Science and technology eroded the objective world and bathed us in illusion.
+- "suicidal view of Western society"
+
+To Signify
+- Semiotics: sign and meaning
+- What do technical images indicate? Where do they point? What is their meaning?
+- Before generation: technical images capture particles in the environment.
+- Depictions vs models: what is, and what could be.
+- It is impossible to distinguish between a representation and a model.
+- Models are representations: sketches of concepts.
+- All technical images are visualizations.
+- A photographer envisions objects, not as they are but as they should be: the object is the effect of the image.
+- Technical images -- what do they mean? More like: how is the visualizing gesture oriented?
+- Historical consciousness, textual: "Nature speaks". The world is an open text. It is our job to interpret it. But in the universe of particles, this is impossible. There is nothing to decode. Meaning is dead. Now we point our finger at the world. We project meaning on the world. We give absurdity meaning.
+- Traditional images: walls. Cave walls, peoples' houses. But the universe of technical images has no substrate, no such surface. 
+- Technical images don't depict anything: they project
+- Traditional images are mirrors: it makes sense to ask what they mean. But technical images are projections: we give them meaning. It is not, what do they mean -- it is, why do they do what they show?
+- Technical images are projections: they are not representations but signs to things outwards -- it is the projector which is the criticism.
+- **Technical images show us a way we may be directed**.
+- **Vectors of meaning** -- they indicate only a direction, signify instructional programs
+
+To Interact
+- Lorem ipsum
+
+To Play
+- Lorem ipsum
+
+To Decide
+- Lorem ipsum
+
+Chamber Music
+- Lorem ipsum
+
+Summary
+- Lorem ipsum
 
 ### *Calculated Surprises: A Philosophy of Computer Simulation*, Johannes Lenhard
 - 
