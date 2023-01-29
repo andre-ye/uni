@@ -109,8 +109,11 @@ $$A \subset B \equiv \forall x (x \in A \to x \in B)$$
 
 $$A = B \equiv A \subset B \wedge B \subset A$$
 
+---
 
-
+## Week 4 Friday -- Sets and Number Theory
+- The intersection of the complement of $$A$$ and the complement of $$B$$ is the complement of the union of $$A$$ and $$B$$
+- Analogs of DeMorgan's laws
 
 
 
