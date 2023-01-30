@@ -434,10 +434,49 @@ To Signify
 - **Vectors of meaning** -- they indicate only a direction, signify instructional programs
 
 To Interact
-- Lorem ipsum
+- Technical images are not mirrors, but projectors 
+- People do not group themselves by their material relations, but by technical images.
+- Classical sociology cannot accomodate the universe of technical images
+- Archaic spaces
+- Programmed disinformation
+- People don't leave the private towards the public commons: there is no public to go to anymore. 
+- We are not free to *not* press the buttons (photograph, scroll, open the television) -- the penetrating force of technical images.
+- Receivers and senders: reciving technical images is not simple as abosrbption: it is also reaction, to go in the directino which the image points.
+- And the receiver also enhances the image.
+- Cinemagoers pay to be betrayed. 
+-  Consensu between images becomes stronger, **people become one**
+- Attempts to dispel the force of magic (reduce to natural processes).
+- People and images become more exciting the more excited the receivers are.
+- Everyone is a receiver, willing or not -- we are all penetrated by the phallic cock of technical images
+- Images are never closed circuits -- they do not simply reproduce. They also change -- feed on politics, science, art.
+- Technical images appear as windows to look through: but these are false. 
+- Current events roll towards technical images, not towards futurity.
+- Weddings conform to the photographic program, the moon landing was on the television schedule. 
+- We attempt to retain the primacy of history.
+- Linearity of history: becomes the circularity of technical images (posthistory). Progress accelerates.
+- Is the source of history parched? **History's source is human freedom** -- but now history becomes a theater. History can be exhausted by technical images.
+- Images are scratching the bottom of the bottomless
+- "History" -- the way that conditions can be recognized in linear texts. 
+- Historical readings of the world: emphasize the uniqueness of all event. Prehistoric mind: time moves in a circle; it is not linear or temporal
+- Technical images: historical events become infinitely repeatable projections. Operates outside history. 
+- Stories and texts are materials for images. 
 
 To Play
-- Lorem ipsum
+- How to generate information in a dialogic society?
+- Improbable situations -- could we not have accidentally produced another world?
+- The world is no longer a question of miraculous creation, but of chance configurations. Creato ex nihilo -- ad nihilium. 
+- The generation of future information is done by synthesizing previous information.
+- All information distintegrates --- thermodynamics, information is lost; information decay is more fundamental than information production because of its probabilistic certainty.
+- Information synthesizes prior information. 
+- Humans play with dialogue
+- Dialogues are games of chance: they let information construct new information.
+- We have not escaped the myth of creativity just by imagining a playful society -- creative as engaging in dialogues, games of probability.
+- Society becomes a superbrain of brains -- the first self-conscious and free soceity.
+- Mass culture -- a stupid society
+- How to turn a stupid society into a creative one?
+- Socialization of freedom refutes Judeo-Christian anthropology.
+- Nature produces by chance, but society produces purposefully
+- In new society, we will become truly human -- 'information society', and a genuinely free society.
 
 To Decide
 - Lorem ipsum
