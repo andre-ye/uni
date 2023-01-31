@@ -513,13 +513,11 @@ Chamber Music
 - But chamber music is still within linear space. Telematics occurs in simultaneous time.
 - Technical images are 'pure art'
 - Hyperconscious dream world
-- 
-
-Summary
-- Lorem ipsum
 
 Personal Notes
 - Flusser's knots of the net in "To Decide" are like nodes in a neural network (pg. 64)
+- Models and depictions -- why are they indistinguishable? Why are all technical images visualizations?
+- Technical images are 'envisioned surfaces' -- they are things which we give meaning to, which we produce effortlessly and which therefore has little meaning which is already in it. And they need us to stay away. They are projective surfaces, reflective distortors.
 
 ### *Calculated Surprises: A Philosophy of Computer Simulation*, Johannes Lenhard
 - 
