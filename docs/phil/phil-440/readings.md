@@ -773,8 +773,23 @@ Philosophical Questions
 - Kumar talks about reparations for individuals in groups who inherited and currently bear the burden of systematic historical oppression. However, given Kumar’s application of Scanlonian contractualism in this article, do we also have an obligation to past generations themselves (not considering their current descendants for the purpose of the question)? Must we respect their legacy, protect them from libel, and faithfully execute their posthumous instructions? Do dead individuals fall out of the domain of contractualism or has Kumar’s introduction of the ‘type’ given them a certain immortality?
 - Consider a policy which, if enacted, will allow humans to progressively transition into porcupines who live very happy lives but are not rational deliberators; if it is not enacted, humans will continue to pursue ecological destruction and live lives which are barely worth living (to borrow Parfit’s phrase): how does Kumar’s understanding of contractualism handle this, if it can at all? This is the Non-Identity Problem, but with a twist which makes it relevant to contractualism (i.e. personhood). This scenario is an entirely improbable reality, but the question is philosophically asking: can contractualism be applied to future generations who will no longer be within the domain of contractualism, or does it require some sort of ethical continuity throughout time? Does contractualism recommend its own perpetuation in future generations, or is it capable of recommending ‘suicidal’ decisions? This could possibly be used to understand how contractualism would deal with policies that can affect the prominence of explicitly anti-contractualist thought (e.g. anti-liberal authoritarianism) which would need to be excluded from the contractualist domain, particularly in international politics.
 
+### "Intergenerational Distribution" (Ch. 4), Finneron-Burns
 
+### "Procreation" (Ch. 5), Finneron-Burns
 
+### "Population Size" (Ch. 6), Finneron-Burns
+- Population size -- the number of people who exist at any particular time, not who will ever live. 
+- The number of people who will exist is not fixed. 
+
+Human Extinction and the Repugnant Conclusion
+- What is the optimal population size? Certainly not the physical limit
+- What about Parfit's repugnant conclusion? As large as people have lives worth living?
+- Contractualism should reject human extinction and the repugnant conclusion. There is no optimal population size, but permisiveness.
+
+Human Extinction
+- Is it bad for the human species to end? 
+
+page 3
 
 
 
