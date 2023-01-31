@@ -504,7 +504,16 @@ To Decide
 - We remain arbiters.
 
 Chamber Music
-- Lorem ipsum
+- Something more substantive 
+- Heidegger, precaution: to anticipate it such that you do away with it. All prediction damages the future. There is no future.
+- True catastrophes are new information
+- Telematic society is a structure for realizing catastrophes -- information
+- What makes a phenomenon concrete?
+- Chamber music as a model for dialogic communication. Chamber music has no director: but it is cybernetic, and pure play.
+- But chamber music is still within linear space. Telematics occurs in simultaneous time.
+- Technical images are 'pure art'
+- Hyperconscious dream world
+- 
 
 Summary
 - Lorem ipsum
