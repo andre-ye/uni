@@ -224,6 +224,23 @@ The Formula in Detail
   - indvidualist restriction -- reasonable rejection must occur by the principle's implication only for ourselves, or any other individual
 - Yay rejecting utilitarianism! Ruling out aggregation in classical utilitarianism.
 - Conctractualism: only look at reasons that individual people have, does not allow pooling of reasons.
+
+---
+
+## Week 5 Tuesday: Kumar and Obligations to Future Generations
+- Non-identity Problem again
+- Conservation vs depletion
+- Interpersonal and impersonal wrongs
+- A question of resentment -- they will resent us because of what our choices mean for them. 
+- Nonconsequentialism -- how one person relates to another is entirely independent of what happens to the other as a consequence.
+- Being harmed is not even a necessary condition of being wronged.
+- Consequentialists aren't concerned with harm: wronging is the relevant moral notion. 
+- Scanlon's contractualism
+- How can you wrong if you don't exist?
+- Scanlon's contractualism in terms of types and tokens -- motivated by framing of contractualism: we wrong other people by failing to give them deliberative consideration of their interests to which they are entitled.
+- Persons as types -- contractualism does not treat people as biological anyway.
+- What we owe to future people just depends on if they are of a type which would be disrespected by the made decision, regardless of their existence. 
+- Past injustices: members of oppressed grouops -- have grounds for complaint in the same way that all tokens of an oppressed type has a right to.
 - 
 
 
