@@ -479,13 +479,38 @@ To Play
 - In new society, we will become truly human -- 'information society', and a genuinely free society.
 
 To Decide
-- Lorem ipsum
+- Freedom in the dialogical net, knot to knot (Cat's Cradle).
+- Information accumulates and is stored
+- Flusser's knots of the net are like nodes in a neural network
+- How to understand freedom? Freedom as the opposition to natural entropy.
+- knots in the telematic net are the "I".
+- Telematic society: conscious of the intention of technologies -- increases the sum of available information, as opposed to previous dialogue. 
+- How to distinguish redundancy and information?
+- Maxwell's devil: establishes a dialogue which leads to improbable outcomes (information)
+- Informatics: the information content of a situation is measurable
+- Propositional calculus: values can be calculated, propositions can be translated.
+- Telematics appears like the end of freedom
+- Should we produce critics? To separate generation and discrimination?
+- Schizophrenia: split consciousness
+- Humans become free to focus on evaluation: the automation of production permits everyone to be a critic.
+- Now, the critique can be automated: and now humans make the metadecisions.
+- Flusser's three questions:
+  1. To separate generation from the evaluation
+  2. To automate the generation and allow humans to be the critics
+  3. To automate criticism and leave humans to metajudgement
+- These steps lead to nihilum. There is no judgement to be made.
+- We will remain the right to veto. Freedom is this negative decision> Freedom fundamentally is negative.
+- The possibility of suicide is freedom.
+- We remain arbiters.
 
 Chamber Music
 - Lorem ipsum
 
 Summary
 - Lorem ipsum
+
+Personal Notes
+- Flusser's knots of the net in "To Decide" are like nodes in a neural network (pg. 64)
 
 ### *Calculated Surprises: A Philosophy of Computer Simulation*, Johannes Lenhard
 - 
