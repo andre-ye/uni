@@ -415,7 +415,7 @@ Parallel Botany
 
 ---
 
-## Week 5 Tuesday -- 
+## Week 5 Tuesday -- The Technical Universe of Images
 - We love representation, but representation is a very tiny piece of the surface.
 - Two steps of abstraction:
   - From 3d to 2d, traditional image, pre-writing, pre-history. Very different from words. We apprehend it all at once, then identify its details. Writing begins from the details and you apprehend it from the details.
