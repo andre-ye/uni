@@ -520,7 +520,22 @@ Personal Notes
 - Technical images are 'envisioned surfaces' -- they are things which we give meaning to, which we produce effortlessly and which therefore has little meaning which is already in it. And they need us to stay away. They are projective surfaces, reflective distortors.
 
 ### *Calculated Surprises: A Philosophy of Computer Simulation*, Johannes Lenhard
-- 
+- What can we calculate?
+- Is computational modeling an extension of mathematical modeling? 
+- Misinterpretation of computing: a logical-mathematical machine. "Everything before, but faster and more"
+- Computer modeling spread rapidly in the mid-1980s
+- Computer simulation is radically different from mathematical modeling.
+- Simulation is not determined by some new feature or quantity of features, but in the novel way that these features are combined.
+- Models mediate between theories, laws, phenomena, data, and applications
+- Models as 'autonomous agents'
+- What features characterize simulations? Simulation is neither empirical experiment nor theory
+- The computer also channels mathematical modeling. The model is able to 'speak' about the world, add new constructions.
+- Complex systems lack transparency, and they are complex: complexity characterizes both the object nand the instrument.
+- Simulation: balances complexity with usability; mathematical modeling handles rather than overcomes complexity
+- Elements of simulation modeling -- experiment and artificiality, visualization and interaction, plasticity, epistemic opacity.
+- Modeling -- a convergence of the natural sciences and engineering.
+- What is a solution?
+- How to validate a model?
 
 ### "The Varieties of Gridded Experience" from *Biology in the Grid*, Phillip Thurtle
 - 
