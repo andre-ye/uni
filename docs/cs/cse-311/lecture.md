@@ -120,8 +120,15 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
   - Proof by cases. 
 - $$x$$ divides $$y$$ means that $$x$$ is a factor of $$y$$. $$x \mid y$$.
 
+---
 
-
+## Week 5 Monday -- Number Theory
+- Division theorem
+- mod -- refers to a set of rules, modular arithmetic -- arithmetic mod $$k$$.
+- $$13 \equiv 1 (\text{mod } 12)$$. Or $$13 \equiv_{12} 1$$.
+- Formal definition: Let $$a, b, n \in \mathbb{Z}$$ and $$n > 0$$. $$a \equiv_n b$$ iff $$n | (b - a)$$.
+- $$a \equiv_n b \to a + c \equiv_n b + c$$
+- Proof by contrapositive
 
 
 
