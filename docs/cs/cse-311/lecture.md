@@ -128,7 +128,7 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - $$13 \equiv 1 (\text{mod } 12)$$. Or $$13 \equiv_{12} 1$$.
 - Formal definition: Let $$a, b, n \in \mathbb{Z}$$ and $$n > 0$$. $$a \equiv_n b$$ iff $$n | (b - a)$$.
 - $$a \equiv_n b \to a + c \equiv_n b + c$$
-- Proof by contrapositive
+- Proof by contrapositive: instead of showing $$p \to q$$, show $$\neg q \to \neg p$$. Use if there are a lot of nots involved.
 
 
 
