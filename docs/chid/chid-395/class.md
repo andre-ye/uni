@@ -413,6 +413,20 @@ Parallel Botany
 - Take your ordinary moment, and make it weird. 
 - Whiteboards and screens
 
+---
+
+## Week 5 Tuesday -- 
+- We love representation, but representation is a very tiny piece of the surface.
+- Two steps of abstraction:
+  - From 3d to 2d, traditional image, pre-writing, pre-history. Very different from words. We apprehend it all at once, then identify its details. Writing begins from the details and you apprehend it from the details.
+  - From bits to envisioning information. Already created from particles, technical images. All technical images are about particles.
+- Magic -- a way to engage with traditional images
+- What's historical is the sense of time, which comes from writing. It has a subject, verb, and an object. 
+- Technical images -- have built into it a historical component into each of the particles. 
+- Technologies are always already recreating some aspect of society
+- We cannot run straight to representation because we're missing something -- recreating a technological society much more than it is recreating a specific object.
+- Idealized society -- we always envision before we capture.
+- You can only critique from the inside, you cannot get on the outside.
 
 
 
