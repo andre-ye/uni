@@ -427,9 +427,20 @@ Parallel Botany
 - We cannot run straight to representation because we're missing something -- recreating a technological society much more than it is recreating a specific object.
 - Idealized society -- we always envision before we capture.
 - You can only critique from the inside, you cannot get on the outside.
-
-
-
+- Artificial setups -- artificial constructs to understand nature
+- What is interesting, what is surprising, what is valuable. What is informative and interesting. 
+- Marx's labor theory of value: image generation models as conceiving of valueable images
+- You're bound before you create a message
+- Freedom is to say 'no'. 
+- Science is the controlled production of anomalies -- to make anomalies productive -- but this is also true of art, and of all creativity
+- Art is a form of research, a way to make use of the world
+- It can be absurd, but it must be consistent; the false
+- Fiction and fact -- is it informative?
+- Electronic pragmatism
+- What we call world-building, Flusser calls envisioning.
+- A class on how to actualize, how to make things concrete -- ethically, creatively, less oppressively
+- 
+- 
 
 
 
