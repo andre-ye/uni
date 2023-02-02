@@ -547,9 +547,54 @@ Envisioning Consumers
 - Our ability to envision organisms is tightly bound with spectacle in consumerism.
 
 The Spectacle of the Grid
-- ...
+- The role of grids in graphic design
+- We envision the world as a grid
+- Bodies as a series of modules
+- Modules have self-autonomy in self-organization.
+- How to analyze lives in the grid? 
 
-page 4
+The Varities of Regulated Experience
+- Regulation: regulatory practices, the production of the collective interest
+- Understanding genetic regulation required us to rethink how regulation functions in society.
+- Genetic regulation is not a simple directive: it si a complex set of responses, potentially coordinated responses to local changes.
+- Genetic regulation as multicausal and conditionally responsive
+- Grids structure interactions and let scientists see additive interactions.
+- Return to a biology of organic holism?
+
+From Visualization to Envisioning
+- Vilem Flusser
+- Phenomenological point: readers engage with images differently than texts: surfaces seize the totality of pictures. It is a different in the order of analysis and comprehension.
+- The political-economic: images produced through technological means operate different than traditional ones. Technical images are composed, envisioned.
+- What makes images meaningful is how they are regulated, arranged. 
+- All images reflect the scientific statements allowed for theri production.
+- Representation and imagination is no longer very interesting
+- The medium is the message?
+- Flusser -- not the hyperreal, but rather how abstract elements of symbolic exchange can inform concrete processes (rather than implosion).
+- Galloway, protocol
+- How are bodies industrially calculable before they are informationally computable?
+- Excess, illusion, imagination fuel our knowledge of science
+
+The Chapters Envisioned
+- Grids: partition, and reconstruction
+- Quanta acquire meaning in the power of grids
+- Technological images represent the political-economic conditions which produce it and which endow it with meaning.
+- Unlikely events are the most informaitve.
+- Envisioning helps us define how we look at things.
+
+The Importance of Aesthetic Analysis
+- How we order the world is a product of how we envision it.
+- 'Form' and 'function'
+- Organization of quasi-autonomous modules
+
+Not Just Computing
+- Computers often serve as metaphors to explain biological processes
+- Has biology always been an information science?
+
+The Value of Warped and Composite Sensibilities
+- Many technical images are composites
+- Should we read everything through a politics of control? We can have more nuanced understanding.
+- How to draw conflicting orders so all in the grid have greater freedom.
+- We must keep on envisioning to understand the consequences of biology in the grid
 
 ---
 
