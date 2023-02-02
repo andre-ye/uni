@@ -538,7 +538,18 @@ Personal Notes
 - How to validate a model?
 
 ### "The Varieties of Gridded Experience" from *Biology in the Grid*, Phillip Thurtle
-- 
+- Molecular biologists often use computation to promote making as a new way to understand -- world-building
+- Overemphasizing computation as a historical agent?
+- HOw to make the body calculable? And how to envision -- to see how something could occur? These are the questions.
+
+Envisioning Consumers
+- Mechanisms for relating to consumers: helping consumers visualize how products can change their lives.
+- Our ability to envision organisms is tightly bound with spectacle in consumerism.
+
+The Spectacle of the Grid
+- ...
+
+page 4
 
 ---
 
