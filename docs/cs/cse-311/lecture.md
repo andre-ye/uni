@@ -130,10 +130,20 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - $$a \equiv_n b \to a + c \equiv_n b + c$$
 - Proof by contrapositive: instead of showing $$p \to q$$, show $$\neg q \to \neg p$$. Use if there are a lot of nots involved.
 
+---
 
-
-
-
+## Week 5 Wednesday -- Number Theory and Induction
+- Each step has to follow only from what is before it. Do not begin from a false statement.
+- We must derive from known truths.
+- How do we know that recursion works?
+- Two cases we need: base and recursive
+- How to prove this: define a truth function $$P$$. We need to show that $$\forall k [P(k) \to P(k+1)]$$
+- Steps for induction:
+  1. Define $$P(n)$$ and state proof by induction on $$n$$
+  2. Show the base case
+  3. Suppose $$P(k)$$ for an arbitrary $$k$$
+  4. Show $$P(k+1)$$
+  5. Suggest that $$P(n)$$ is true for all $$n$$ by induction.
 
 
 
