@@ -598,6 +598,15 @@ The Value of Warped and Composite Sensibilities
 
 ---
 
+## Ideas Into Things
+
+### "Speculative Everything: Design, Fiction, and Social Dreaming", Anthony Dunne & Fiona Raby
+Lorem ipsum
+
+### "Speculative and Critical Design", Leon Johanssen et al.
+
+---
+
 ## Other
 
 ### *A Grammar of the Multitude*, Paolo Virno
