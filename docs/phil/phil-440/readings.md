@@ -774,8 +774,36 @@ Philosophical Questions
 - Consider a policy which, if enacted, will allow humans to progressively transition into porcupines who live very happy lives but are not rational deliberators; if it is not enacted, humans will continue to pursue ecological destruction and live lives which are barely worth living (to borrow Parfit’s phrase): how does Kumar’s understanding of contractualism handle this, if it can at all? This is the Non-Identity Problem, but with a twist which makes it relevant to contractualism (i.e. personhood). This scenario is an entirely improbable reality, but the question is philosophically asking: can contractualism be applied to future generations who will no longer be within the domain of contractualism, or does it require some sort of ethical continuity throughout time? Does contractualism recommend its own perpetuation in future generations, or is it capable of recommending ‘suicidal’ decisions? This could possibly be used to understand how contractualism would deal with policies that can affect the prominence of explicitly anti-contractualist thought (e.g. anti-liberal authoritarianism) which would need to be excluded from the contractualist domain, particularly in international politics.
 
 ### "Intergenerational Distribution" (Ch. 4), Finneron-Burns
+- Do we have oglibations to future generations? -- what obligations do we have to future people and how should we distribute resources intergenerationally?
+- Richard Arneson, opportunity for welfare -- a chance of getting a good if one seeks it
+
+How to distribute intergenerationally?
+- Intergenerational egalitarianism -- an important idea.
+- Intrinsic egalitarians value equality for its own sake: inequality is bad by itself.
+- Intrinsic egalitarians prefer that intergenerational inequality is eliminated.
+- Intergenerational egalitarianism as conservatism?
+- To be intergeneral egalitarians, we might want to reduce our current level.
+- 'leveling down objection' against intrinsic equality
+- We exclude reasons that support principles which require us to level down.
+- Contractualism does not accept impersonal reasons
+- We choose equality because of its impact on persons
+- Impersonal values per se are not independently admissible reasons.
+- Why should we condemn inequality?
+  - Humanitarianism -- not egalitarian. Instead, the worst off should be adequate. & does not apply intergenerationally
+  - Status - does not apply intergenerationally
+  - Domination - does not apply intergenerationally. We need incremental change.
+  - Procedural fairness - no institutions to govern procedural fairness
+  - Equal benefits - there is no authority for the distribution of intergenerational wealth 
+- We cannot translate Scanlon's non-intrinsic reasons to intergenerational contexts.
+- Intergenerational egalitarianism -- dismissed!
+- Sufficientarianism -- concerned with absolute well-being
+
+Sufficientiarianism: Lexical Priority Below the Threshold
+
 
 ### "Procreation" (Ch. 5), Finneron-Burns
+
+
 
 ### "Population Size" (Ch. 6), Finneron-Burns
 - Population size -- the number of people who exist at any particular time, not who will ever live. 
