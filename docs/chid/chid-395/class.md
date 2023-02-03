@@ -482,7 +482,9 @@ Parallel Botany
 - Dream logic -- deep dream and network hallucinations
 - The Illuminarium -- the Cathedral of the 21st century, the cosmology of the present
 - We cannot just represent the world: we must abstract and illuminate it, and under these conditions we have a God which makes sense.
-- 
+- Science as a cathedral
+- Money isn't the currency here: it's vitality
+- We need meaning, and that often doesn't come from science. World-building: we have to understand doesn't replace myth: it ends up creating more myths. It creates an empire of myths.
 
 
 
