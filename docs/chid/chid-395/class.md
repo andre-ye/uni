@@ -465,7 +465,24 @@ Parallel Botany
 - We go to a very highly constructed media to understand what is real.
 - The real not as representational -- as can you see if they fit together, do they make sense together. Realism as a world-building mechanism
 - What's real vs not real doesn't really make sense -- nor does it really matter. It's more about if it is informative, and what happens when you go from the virtual to the actual, the abstract to the concrete.
-
+- Hegel -- abstract, negative, concrete. 
+- Flusser -- how exactly does it deviate from the Hegelian logical motion?
+- Appeal to science has to understand that there is a kernel of the weird within the science, and if you don't appreciate it, you are making a reductionist maneuver.
+- Making as a form of knowing -- thinking about how to build things back up. 
+- Making as a form of critique
+- Studying relationships which allow for elements to occur.
+- Frankfurt/Marxist distinction: critiquing and making, how is making itself a form of critique.
+- Preconditions
+- Worlds are the gift which keep on giving
+- De Novo protein design
+- There is no negativity in biology, there is no void.
+- Biology is all full
+- We have to go outside biology to fix our biological bodies
+- Making sense of reality isn't enough
+- Dream logic -- deep dream and network hallucinations
+- The Illuminarium -- the Cathedral of the 21st century, the cosmology of the present
+- We cannot just represent the world: we must abstract and illuminate it, and under these conditions we have a God which makes sense.
+- 
 
 
 
