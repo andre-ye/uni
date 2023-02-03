@@ -788,10 +788,44 @@ Human Extinction and the Repugnant Conclusion
 
 Human Extinction
 - Is it bad for the human species to end? 
+- There might be psychological and physical damage done due to human extinction.
+- Why might we find the human species to be bad?
+  - Many people would not be born
+  - Loss of intelligent life and intellectual progress
+  - Possible physical pain to current people
+  - Possible psychological traumas
+  
+Contractualism's Response
+- Whether or not contractualism supports principles which lead to human extinction depend foremost on the nature of the extinction and its effects on current people.
+- Preventing people from being born: it is wrong to prevent people from existing (they cannot object and are not owed justification), or lost value of lives: however this is not itself a reason for rejecting a HE principle.
+- If there is no intelligent life, who is there to lament its loss? We must use an impersonal approach, but principles cannot be reasonably rejected on impersonal grounds.
+- There are many ways in which human extinction can cause harm to current people.
+- Psychological effects of current people 
+- Human extinction can only be wrong insofar as it negatively impacts current people's interests.
+- A natural cause of extinction is not wrong, or if it is brought about voluntarily and unanimously.
+- Contractualism is concerned only with interpersonal relationships
 
-page 3
+The Repugnant Conclusion(s)
+- Repugnant conclusion: claim about relative value of two populations on opposite ends of the size and well-being scale
+- One state being better does not mean we should realize that state.
+- Repugnant Obligation Conclusion -- normative, not axiological
+- Contractualism is concerned with the rejectability of principles.
+- Choosing A over Z -- contractualist response
+- "We already live in world Z" -- Finneron-Burns REJECTS this
+- Failing to commit suicide does not mean that we do not find our lives not worth living
+- Contractualism considers the perspective of the agent advocating for a principle
+- Information about who will exist is not available at the time of acting.
+- How to reduce or limit population sizes? Restrictions on reproduction, genocide, sterilization
+- Principles requiring or even permitting Population Z to be created can be reasonably rejected.
+- Why is the repugnant conclusion rejected?
+- What is wrong with the repugnant conclusion is the disrespect to population Z. Contractualism coherently explains why we want to avoid Z.
 
-
+Conclusions
+- No one lives, vs. as many people as possible live.
+- Contractualism is not against human extinction itself.
+- We can balance sacrifices and gains.
+- Contractualism is not susceptible to problems in the extremes of population size.
+- Contractualism is flexible!
 
 
 
