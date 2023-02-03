@@ -439,10 +439,32 @@ Parallel Botany
 - Electronic pragmatism
 - What we call world-building, Flusser calls envisioning.
 - A class on how to actualize, how to make things concrete -- ethically, creatively, less oppressively
-- 
-- 
 
+---
 
+## Week 5 Thursday: Creating Alternate Worlds in the Biological Sciences
+- There is always a capacity to find another world in our current one
+- Can we only analyze until after we characterize the world? I need to read everything before I start writing... no, you always need to be putting things back together
+- Grids in the webpages, the fundamental language of HTML and the Internet
+- Foucault -- two parts of the grid, the partiion and the bringing back together (the reconstruction)
+- A lot of people who read Foucault center on the partitioning, but we need a way of bringing back together. 
+- Teleology of the organism -- its construction is in its final product
+- Generative models and partition // reconstruction
+- Holism and 20th century German society -- as oppressive as anything else.
+- Regulation is a primary aspect of world-building
+- What is the color of air?
+- We have never really experienced our biology without colored lens
+- The view is not true.
+- But the image institutes itself as universal.
+- The notion of order does not make sense
+- Biology is always about combinations and moving between them
+- Stem cells have a virtual component
+- Animations -- how to connect information, how to link things
+- Few parts of biology were computerized to begin with, but biology has become thoroughly computerized
+- Most of the visualization techniques for biology come from the entertainment industry.
+- We go to a very highly constructed media to understand what is real.
+- The real not as representational -- as can you see if they fit together, do they make sense together. Realism as a world-building mechanism
+- What's real vs not real doesn't really make sense -- nor does it really matter. It's more about if it is informative, and what happens when you go from the virtual to the actual, the abstract to the concrete.
 
 
 
