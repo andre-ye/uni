@@ -145,6 +145,31 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
   4. Show $$P(k+1)$$
   5. Suggest that $$P(n)$$ is true for all $$n$$ by induction.
 
+---
+
+## Week 5 Friday -- Strong Induction
+- Take-home midterm
+- 2 hours to submit solutions for the midterm
+- Induction proofs can work on all recursive-type problems
+- $$P(n)$$ must be true or false.
+- When making arithmetic proofs, move from LHS to RHS to avoid backwards proofs.
+- Inductive hypothesis: $$P(k)$$ holds
+- Fundamental theorem of arithmetic: every positive integer greater than 1 has a unique prime factorization.
+- Induction on primes: use inductive step in cases (prime and composite)
+- Strong induction: we assume $$P(\text{base case})$$ through $$P(k)$$ -- same fundamental idea as weak induction.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
