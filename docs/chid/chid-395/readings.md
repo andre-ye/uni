@@ -601,7 +601,35 @@ The Value of Warped and Composite Sensibilities
 ## Ideas Into Things
 
 ### "Speculative Everything: Design, Fiction, and Social Dreaming", Anthony Dunne & Fiona Raby
-Lorem ipsum
+- What are today's dreams? Perhaps they are now just hopes. What role can design play in dreaming new dreams?
+- Design's "inherent optimism"
+  - Denies the seriousness of problems
+  - Directs changing the world instead of changing our ideas
+- Speculative design
+- Design speculations
+
+P/P/P/P
+- "The Future" -- we are not interested in this. It is pointless. But how do we understand the wants of future people?
+- Provocative, simplified, fictional: let your imagination wander, and think aobut how things could be.
+- Loosening reality's grip on our imagination
+- Speculative culture
+- Plausible futures: not about prediction, but alternative economic and political futures
+- Cones: the probable, the plausible futures, the possible, the fantasy, preferable futures
+- The preferable spans the probable and the plausible
+- Designers should generate futures as catalysts
+
+Beyond Radical Design?
+- Radical architecture
+- The socially oriented dimension of design was lost as big business embraced it
+- Neoliberal capitalism and the 1980s
+- Changes to suppress imagination in design
+  1. 1980s hypercommercialization of design
+  2. End of the Cold War, "there is no alternative"
+  3. Atomization of society: we are a society of individuals
+  4. The downgrading of dreams and unsustainability, crisis
+- How to rethink our current system? People are thinking.
+- Greater pluralism in design: in ideology and values
+
 
 ### "Speculative and Critical Design", Leon Johanssen et al.
 
