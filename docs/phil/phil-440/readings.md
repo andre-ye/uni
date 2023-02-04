@@ -798,8 +798,35 @@ How to distribute intergenerationally?
 - Intergenerational egalitarianism -- dismissed!
 - Sufficientarianism -- concerned with absolute well-being
 
-Sufficientiarianism: Lexical Priority Below the Threshold
+Sufficientarianism: Lexical Priority Below the Threshold
+- Morally, whatm atters is that people should live above a certain threshold; distributions above do not matter.
+- Strict sufficientarians: bringing a person to sufficiency threshold has absolute priority over welfare gains
+- Moderate sufficientarians: priority to those further from the threshold
+- Sufficientiarianism has unintuitive implications
+  - Disproportionality
+  - Upward transfers
+  - Indifference above the threshold
+- Are our ethical duties fulfilled when people are sufficiently well-off?
+- Reason-balanced sufficiency
 
+Contractualism: Reason-Balanced Sufficiency
+- Finding principles no one can reject -- balancing different parties' reasons
+- Reasons are dependent on conditions
+- Helpfulness -- take others' interests into account when we can easily do so, and this is morally required
+- There are no reasons which always outweigh other reasons
+- When sufficiency is given high importance, it can not outweigh every other consideration
+- Sufficiency thresholds should not be determinative, but rather serve as guides.
+- Prioritarianism -- there is no specific absolute amount of well-being
+- We can let future people live sufficiently good lives. 
+- Sufficient resources
+- Contractualism does not require us to be completely impartial
+
+When sufficient resource scannot be satisfied
+- If the current generaiton is well off, they are morally obligated to save for the future.
+
+Conclusion
+- A contractualist solution with sufficientarian intuition which is not lexical
+- 
 
 ### "Procreation" (Ch. 5), Finneron-Burns
 
