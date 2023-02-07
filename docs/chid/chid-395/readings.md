@@ -632,6 +632,30 @@ Beyond Radical Design?
 
 
 ### "Speculative and Critical Design", Leon Johanssen et al.
+- Speculative and Critical Design: SCD. Ethical and societal features of design practice.
+- Categories of change:
+  1. Political and social
+  2. Product value and UX
+  3. Aesthetics
+- Speculative everything.
+- Critique as gentle refusal 
+- Discourse, power, knowledge -- Foucault
+- Language is the means of exerting power -- by regulating, through biopolitical means, discursive power
+- A critical attitude of the designer.
+- Capitalism and consumerism: radical design and avant-gardeism.
+- IN capitalism: we must borrow money to buy things we don't need and impress people who don't care (Papanek)
+- SCD is not a methodology, but a position. How might the world be?
+- Steps for SCD:
+  1. Define a context for debate
+  2. Ideate, find problems, create a scenario
+  3. Materialize the scenario to provoke an audience
+- Commercial design -- the objective is to make money for the industry, and to address the client's needs
+- Conventional design process
+- Discursive design -- creation of products which encourage discourse
+- When does SCD become pretentious, and itself a product of sensuous capitalist decadence and surplus?
+- Is SCD elitist? Morally high-grounded?
+- Alternative design methodologies: Vision in Design, lenses, transition design
+
 
 ---
 
