@@ -826,10 +826,20 @@ When sufficient resource scannot be satisfied
 
 Conclusion
 - A contractualist solution with sufficientarian intuition which is not lexical
-- 
 
 ### "Procreation" (Ch. 5), Finneron-Burns
+- When is it permissible and impermissible for individuals to procreate?
+- What are the sacrifices current people need to bear to allow future people to have certain qualities of life?
+- Even though there are different burdens in conservation vs procreation, we still can apply similar analyses. 
+- Contractualism disallows the creation of people born with lives not worth living.
 
+When is it permissible to procreate?
+- Free procreation: a person is morally permitted to procreate whenever they want to. 
+- Principle of Procreative Beneficence: a person should create the child with the best possible life
+- Non-rejectable principle of permissible procreation: needs to take into consideration expected well-being of chid, magnitude of extra well-being, magnitude of sacrifices.
+- Absolute sufficiency -- a poor criteria.
+
+page 8
 
 
 ### "Population Size" (Ch. 6), Finneron-Burns
