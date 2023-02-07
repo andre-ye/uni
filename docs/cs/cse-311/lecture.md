@@ -158,8 +158,14 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - Induction on primes: use inductive step in cases (prime and composite)
 - Strong induction: we assume $$P(\text{base case})$$ through $$P(k)$$ -- same fundamental idea as weak induction.
 
+---
 
-
+## Week 6 Monday -- Proof by Contradiction
+- Proof by contrapositives
+- Prove that $$\neg P \to F$$, so $$\neg P$$ is false, so $$\claim \equiv T$$.
+- Proof by contradiction will be a messy process of exploring the world -- you will write down things which may or may not be useful.
+- Proofs in class: there are infinitely many primes, $$\sqrt{2}$$ is irrational
+- 
 
 
 
