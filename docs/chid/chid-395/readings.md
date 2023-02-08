@@ -601,6 +601,8 @@ The Value of Warped and Composite Sensibilities
 ## Ideas Into Things
 
 ### "Speculative Everything: Design, Fiction, and Social Dreaming", Anthony Dunne & Fiona Raby
+
+#### Chapter 1
 - What are today's dreams? Perhaps they are now just hopes. What role can design play in dreaming new dreams?
 - Design's "inherent optimism"
   - Denies the seriousness of problems
@@ -630,6 +632,57 @@ Beyond Radical Design?
 - How to rethink our current system? People are thinking.
 - Greater pluralism in design: in ideology and values
 
+#### Chapter 2: A Map of Unreality
+- The realm of the unreal: the fictional
+- Conceptual design: design about ideas
+- Divorcing design from industry allows design to free itself from market pressures. There are many different possibilities
+- Social and humanitarian design is concerned with working within the limits of reality. Speculative design is about pushing those limits to begin with.
+- Conceptual design: celebrate their unreality
+- Reality si judged by ideals
+- The ideal is a practical fiction
+- Future design and chairs as vehicles for exploring new designs
+- When is speculative design pretentious?
+- Vehicle design -- building concept cars, traversing the liminimal
+
+ Commodified Imaginations
+ - Conceptual design is a highly valued and interesting way to work
+ - Product design: difficult to do conceptual and speculative work.
+ - Thinking about new functional possibilities for new media rather than visions for life
+ - Alternative ways to view the world
+ - HOme as a biological machine?
+ - We need to find speculative design, even though it will be difficult.
+
+#### Chapter 6: Physical Fictions -- Invitations to Make-Believe
+- There are many forms of fictional objects -- accifdental fictions. But what about intentional fictional objects?
+- Props for nonexistent films --- these are the fictional objects of speculative design.
+- Hyperrealism: what is the power of a hyperreal intentional fictional object?
+- Walton, theory of make-belief: props prescribe imagining and generate fictional truths.
+- Stories help us think about alternate possibilities and challenge materialism.
+- Speculative props: trigger an imaginative response in the viewer.
+- Films and books: to identify with characters and immersion in worlds; but speculative design, help us construct worlds shaped by different ideals, values, beliefs
+- We are not concerned here with mimicing reality, but making new ones.
+- Props and fictions: expanding imaginative horizons and perspectives. 
+- A prop can be fully working or not, but the point is to facilitate imagining.
+- Speculative design props: physical synedoches (!!!), parts representing wholes
+- User as imaginer: viewers have to become imaginers. We need to think, do thought experiments, imagine.
+- Suspension of disbelief: there is a difference between make believe and believe. It is not about beliving -- but an invitation to imagine. Fooling the viewer into reality is cheating. Viewers should consciously suspend their disbelief and enjoy unfamiliarity.
+- A convincing impossibility is always preferable to an unconvincing possibility, Aristotle
+- A speculative design prop only needs to be plausible
+- How to design for unreality?
+- Objects must appear real but signal that they are not
+- Products need to be subdued: drama is important; the language needs to be unnatural and glitchy.\
+- The novelist as a triple-writer: author's language, character's language, world's language
+- What is the designer's language? 
+- Trying to make props realistic can force us to adopt the de facto language of the world.
+- Design fiction
+- Speculative literature over science fiction, speculative design over design fiction
+- Fictions are strange and disruptive
+- Criticality of the technological progress
+
+Questions
+- Speculative design props are synedoches: parts which represent wholes (e.g. the wheels go round). So where is the world-making, almost metaphysically, being done? Do we risk reproducing what worlds we already have, by neutralizing the foreign object with familiar experience? How do we experience something authentically different and new, to build worlds which are really different and not so easily reducible or assimilable into our known world?
+- Why is it cheating to fool the viewer into reality? Why does the language need to be unnatural and even glitchy, as the authors say? Isn't maintaining the irreality of fiction emphasizing the distance between the viewer's world and that world? Isn't this "imagine the end of the world more than the end of capitalism" -- because the end of the world is depicted as something so real to us through institutions from film to science, but the end of capitalism is thoroughly discredited and in fact in modern media very much portrayed as a polemic fiction? Shouldn't the praxical objective of creating new worlds be to create new realities which we feel are imaginable?
+- "Fictions are strange and disruptive" -- but can fictions be disruptive unless we mistake them for possible reals?
 
 ### "Speculative and Critical Design", Leon Johanssen et al.
 - Speculative and Critical Design: SCD. Ethical and societal features of design practice.
@@ -656,6 +709,20 @@ Beyond Radical Design?
 - Is SCD elitist? Morally high-grounded?
 - Alternative design methodologies: Vision in Design, lenses, transition design
 
+### "I Design Worlds", Liam Young and Stuart Candy
+- Design, imaginate, speculate, construct worlds
+- Spatial way of thinking about futures
+- Architects are already trained to think in worlds, about spatial and temporally unfolding narratives
+- Speculative objects in product design; architecture and speculation
+- Parastical operation within the mechanisms of industries
+- How to seed cultural mediums with important ideas?
+- Speculative work -- not too far to be dismissed as pure fantasy
+- What are the limits to speculation?
+- "the street finds its own uses fort hings"
+- Accessibility
+- How to prototype culutral and ideological positions before the technology arrives/
+- The present is a process -- stages, it is the future coming into being.
+- Shifting discourse in culture
 
 ---
 
