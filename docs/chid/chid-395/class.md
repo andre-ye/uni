@@ -487,6 +487,47 @@ Parallel Botany
 - We need meaning, and that often doesn't come from science. World-building: we have to understand doesn't replace myth: it ends up creating more myths. It creates an empire of myths.
 
 
+---
+
+## Week 6 Tuesday -- Worlding Objects
+- Fantasy, dreams/hopes
+- Futurology -- to study the future; innovation studies, etc.
+- Speculate, but don't think about fantasy.
+- Design --- oriented, always pointed, directed in a certain way for a particular purpose.
+- Things which could and should be, how could design be.
+- Design as actualization; space, communication
+- Design vs art
+- Designers can create processes
+- Design as solving problems
+- Designers brand themselves in school more than any other academic branch, which is interesting -- they are being self-reflective about their approach.
+- What are the nuances between schools in design?
+- Speculative design: critical design and design fictions. 
+- Critique of the relation between design and industry problem-solving. 
+- Hyperreal -- could be actualized.
+- What countsa  violine?Os positivitiy good
+- We don't ;ean rea..u
+- How e can privilege the socierty we tryttouporse in the morning.
+- Critiques to do something else which is not so oppositional. 
+- Authenticity of criticism?
+- Critique as needing to be constructive?
+- Collaborative critique? -- collaborative construction? 
+- Can SF be a positive thing despite its commodification?
+- Paint a picture of interrelationship
+- How to move from the reactive to the active
+- World-building: the stated goal is to take objects and figure out how they fit in worlds; emerge out of a set of relationships: analyses are useful because they are about world-building -- opinions reify objects and stances, they make a thing, a critique makes a thing
+- Critique vs speculation
+- World-building which is inherently about cosmology? -- the ridiculous, irreality; but this might also be important.
+- World-building as an analytic: exploration, showing that world-building is everywhere: the systems of work, views and values, tend not to be recognized; the praxis
+- World building as critical making: creating worlds that produce objects.Can we build worlds in a certain way which allow us to see the richness of the world more clearly. 
+- Can we produce worlds which keep on producing objects? NOt definitive, we don't have the causality: the world has the causality, and you are just a tube which funnels this. So you need critique to nudge this.
+- Letting the world tell you who and what you are, and what you will be part of -- the beauty of the cosmology
+- Our ideas and our imagination -- not realism or social constructivism, because it also has the material of the world: it is time for us to invite the world to drink with us.
+
+
+
+
+
+
 
 
 
