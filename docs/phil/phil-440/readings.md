@@ -853,10 +853,21 @@ When is it permissible to procreate?
 - Is it morally obligatory to create a child with a better quality of life even if a child will have a decent one?
 - Helpfulness principle -- it is morally required 
 - Question -- is it morally required to participate in helping others through contractualism if those individuals fail to be part of the contractualist framework to begin with?
-- 
+- Parents do not need to make large sacrifices to create better-off children.
+- Good lives -- one should always create the best possible child if the sacrifice to do so is less significant than the gain in well-being.
 
-page 8
+The Asymmetry of Reproduction
+- When might we be required (not just permitted) to procreate?
+- We have an obligation not to create children who will have bad ideas but no obligation to create children who will have very good lives.
+- Having a life worth living is not on its own a good reason to exist.
+- Non-Obligatory Creation -- not morally required to create a child because they will have a good life. Not rejectable.
+- Obligatory creation -- morally required. Rejectable: violates autonomy, removes the element of choice and freedom, 
+- In both non-obligatory creation and in very bad lives there is a violation of reproductive autonomy, but it is about the balance of reasons
 
+Conclusion
+- Very bad lives
+- Good lives
+- Asymmetry, non-obligatory creation
 
 ### "Population Size" (Ch. 6), Finneron-Burns
 - Population size -- the number of people who exist at any particular time, not who will ever live. 
