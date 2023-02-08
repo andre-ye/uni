@@ -838,6 +838,22 @@ When is it permissible to procreate?
 - Principle of Procreative Beneficence: a person should create the child with the best possible life
 - Non-rejectable principle of permissible procreation: needs to take into consideration expected well-being of chid, magnitude of extra well-being, magnitude of sacrifices.
 - Absolute sufficiency -- a poor criteria.
+- A threshold of well-being which determines the permissibility of procreation? Not supportable by contractualism. 
+  - This does not tell us how to procreate above the threshold.  Pure sufficientarianism is not explanatory.
+  - There is a gradient quality of life, and of permissibility.
+- Very bad lives
+- What does it mean to have a very bad life? 
+- The child can reasonably reject any principle which allows it to have a very bad life. (Non-Identity Problem???)
+- Can we make serious sacrifices when they significantly damage our own well-being?
+- Robert Goodin -- the child's unique vulnerable state.
+- What are the conditions of the child you create? Parents have obligations to procreate.
+- "parent freely choosing to bring a child into existence" -- what about coercion, both explicit (e.g. rape) or implicit (e.g. culture, heritage, etc.)
+- A person can have a reason to reject a principle even if it caused them to exist.
+- What about children who have good lives?
+- Is it morally obligatory to create a child with a better quality of life even if a child will have a decent one?
+- Helpfulness principle -- it is morally required 
+- Question -- is it morally required to participate in helping others through contractualism if those individuals fail to be part of the contractualist framework to begin with?
+- 
 
 page 8
 
