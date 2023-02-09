@@ -165,8 +165,22 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - Prove that $$\neg P \to F$$, so $$\neg P$$ is false, so $$\claim \equiv T$$.
 - Proof by contradiction will be a messy process of exploring the world -- you will write down things which may or may not be useful.
 - Proofs in class: there are infinitely many primes, $$\sqrt{2}$$ is irrational
-- 
 
+---
+
+## Week 6 Wednesday -- Wrap-Up for NUmber Theory
+- Greatest common advisor and least common multiple
+- $$gcd(a, b) = gcd(b, a % b)$$
+- Euclidean algorithm: $$7x \equiv_n 1$$
+- Division is not defined for modular arithmetic
+- Bezout's theorem: if $$a$$ and $$b$$ are positive integers, then there exist two integers $$s$$ and $$t$$ such that $$gcd(a, b) = sa + tb$$.
+- Given two numbers, we can find the GCD quickly. 
+- RSA encryption
+  - $$n = pq$$; send you $$n$$ and $$e$$.
+  - Send unmber $$a$$. Compute $$C = a^e % n$$ and send Amazon $$c$$.
+  - Amazon computes the multiplicative inverse of $$e$$ in mod $$[p-1][q-1]$$
+  - Amazon finds $$C^d % n$$, which is $$a$$.
+- How to raise large numbers to exponents mod $$n$$?
 
 
 
