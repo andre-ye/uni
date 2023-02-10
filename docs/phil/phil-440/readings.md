@@ -919,6 +919,15 @@ Conclusions
 - Contractualism is not susceptible to problems in the extremes of population size.
 - Contractualism is flexible!
 
+---
+
+## Virtue Ethics
+
+### "Virtue Ethics", Julia Annas
+
+### "Modern Moral Philosophy", Anscombe
+- 
+
 
 
 
