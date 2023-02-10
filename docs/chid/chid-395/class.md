@@ -486,7 +486,6 @@ Parallel Botany
 - Money isn't the currency here: it's vitality
 - We need meaning, and that often doesn't come from science. World-building: we have to understand doesn't replace myth: it ends up creating more myths. It creates an empire of myths.
 
-
 ---
 
 ## Week 6 Tuesday -- Worlding Objects
@@ -523,7 +522,42 @@ Parallel Botany
 - Letting the world tell you who and what you are, and what you will be part of -- the beauty of the cosmology
 - Our ideas and our imagination -- not realism or social constructivism, because it also has the material of the world: it is time for us to invite the world to drink with us.
 
+---
 
+## Week 6 Thursday -- 
+- Images are not consumed in the places which produce them
+- Renderfarms
+- World-building behind world-breaking
+- Fetish as a religious object becoming a form of critique
+- What is the limit of Marxist analysis? Does a Marxist analysis leave anything left to be understood? Why do people participate in fetishization?
+- Fetishism as misdirected desire
+- "opium of the masses" -- opium as a historically situated phenomena (allowing for surgery, excising)
+- Early capitalism: production. Late capitalism: desire, how to make people consume what we have.
+- Marxism as a powerful mode of analysis. But we should still believe in magic. 
+- Magic -- modernism, magic is what brings you away from rational thought. **Or**, magic is a way to think about the heterogeneous elements of the world. 
+  - Modernism reduces to a grid of interchangeability
+  - The layering between the domestic and the supernatural is where we find it.
+  - We can have critique and our dreams.
+- Value comes about through exchange-value
+- Where to push into?
+- It is in the tensions where we find futures and realities.
+- Dreams with more tensions in them
+- Capital touches everything, but not everything can be reduced to capital. There are many inexchangeable parts of the world, but perhaps we don't search for them, or we don't understand them.
+- Haraway, God trick - transcending it
+- Should we fully transcend? If we do, are we just playing the game? What is the goal? To take what is around us to make more informed choices, but not just informed rationally, but informed by the types of values that we have for holding ourself in the world. 
+- Dreaming and critiquing
+- Interdisciplinarity as a value -- the relationships, the cat's cradle (Haraway)
+- Props as 'backwards fetishes' -- here is an object, and what is the history which went into it?
+- Utilizing the object
+- Utilitizing concepts -- magic, dreams, etc.; actualizing magic
+- We are not going to transcend, but this doesn't mean we can't make some lives better
+- Pleasure and its commodification; exchange
+- Gift giving: you're buying obligations, time
+- Interdisciplinarity: a recognition that the big problems transcend the disciplinary boundaries we have set up to understand them
+- Modernist logic of equal exchange
+- What are the means from which ideas emerge, the relationships which can happen out of this?
+- Interdisciplinary as a way to arrange ideas, not people; intersectionality as a way to understand identities, not quite collapsing them
+- 
 
 
 
