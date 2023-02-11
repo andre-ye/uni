@@ -924,6 +924,9 @@ Conclusions
 ## Virtue Ethics
 
 ### "Virtue Ethics", Julia Annas
+- Ethical theory before modern ethical debate from Kant onwards has been focused on virtue ethics.
+- Virtue ethics has been discredited by analytical ethical philosophy. But has emerged recently.
+- 
 
 ### "Modern Moral Philosophy", Anscombe
 - 
