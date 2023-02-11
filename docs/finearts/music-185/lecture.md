@@ -96,8 +96,23 @@ MUSIC 185
 - Mahler: nostalgia for the freshness of early Romanticism, detachment from direct feeling; maximalism
 - William Grant Still, Florence Price
 
+---
 
-
+## Lecture 10: The End?
+- "The death of classical music is perhaps its oldest continuing tradition." -- Rosen
+- Conservative and backwards-looking culture?
+- What counts as classical changes over time
+- 'Concert hall tradition'
+- Process music: the gradual elaboration of simple musical ideas.
+- Phase music: combinations of repeating loops at different speeds.
+- Steve Reich and ethnographic work -- reductivism?
+- Minimalism: short melodic and harmonic patterns
+- Steve Reich, Philip Glass
+- Psychedelic and hypnotic effect
+- Emphasis on immediacy
+- Film music and John Williams
+- Classical music migrating to a new dimension: Wagner and Mahler, leitmotifs; transformation of narrative
+- John Adams (1947): trained as a serialist but becomes a minimalist. 
 
 
 
