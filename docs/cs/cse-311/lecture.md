@@ -168,7 +168,7 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 
 ---
 
-## Week 6 Wednesday -- Wrap-Up for NUmber Theory
+## Week 6 Wednesday -- Wrap-Up for Number Theory
 - Greatest common advisor and least common multiple
 - $$gcd(a, b) = gcd(b, a % b)$$
 - Euclidean algorithm: $$7x \equiv_n 1$$
@@ -182,8 +182,12 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
   - Amazon finds $$C^d % n$$, which is $$a$$.
 - How to raise large numbers to exponents mod $$n$$?
 
+---
 
-
+## Week 6 Friday -- Even More Induction
+- Induction across cases
+- Forcing expressions to appear
+- Watch out for hideen assumptions in your induction step.
 
 
 
