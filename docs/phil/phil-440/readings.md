@@ -926,7 +926,30 @@ Conclusions
 ### "Virtue Ethics", Julia Annas
 - Ethical theory before modern ethical debate from Kant onwards has been focused on virtue ethics.
 - Virtue ethics has been discredited by analytical ethical philosophy. But has emerged recently.
-- 
+- Virtue ethics comes much from Aristotle, but it is not archetypically Aristotelian
+
+Virtue Ethics: The Whole Picture
+- Virtue: state or disposition of a person to act for reasons
+- Decision: a choice which endorses a disposition
+- An agent's practical reasoning is important to how virtue is constructed and exercised.
+  - Perhaps classical VE is elitist.
+- Is practical reason available to everyone?
+- Affective and intellectual aspect of virtue
+- Affective: virtue requires both the right action and the right reason.
+  - Is there a distinction?
+  - Question: what exactly is the distinction between affective and intellectual aspects?
+  - What is the attitude?
+- A moral education should encourage the pupil to think for themselves about the reasons for their actions,e ven if at first they are directed towards authoritative top-down moral fragments. 
+- Becoming just is like becoming a builder -- it is learnable.
+- Classical account: criticized because it relies so heavily on disposition and character.
+- Virtues are character traits, but not necessarily vice versa. 
+- Virtues are commitments to multiple values.
+- Virtues contribute to how I live my life in a certain way.
+- Living virtuously will allow me to live well.
+- Eudaimonia: the goal of virtues, its 'telos' -- 'flourishing', 'happiness'
+- How do we get to eudaimonia? It is an ordinary way of thinking about our lives  -- my actions reflect what I am
+
+page 7
 
 ### "Modern Moral Philosophy", Anscombe
 - 
