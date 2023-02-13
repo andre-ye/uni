@@ -925,7 +925,7 @@ Conclusions
 
 ### "Virtue Ethics", Julia Annas
 - Ethical theory before modern ethical debate from Kant onwards has been focused on virtue ethics.
-- Virtue ethics has been discredited by analytical ethical philosophy. But has emerged recently.
+- Virtue ethics has been discredited by analytical ethical philosophy. But has re-emerged recently.
 - Virtue ethics comes much from Aristotle, but it is not archetypically Aristotelian
 
 Virtue Ethics: The Whole Picture
@@ -948,8 +948,37 @@ Virtue Ethics: The Whole Picture
 - Living virtuously will allow me to live well.
 - Eudaimonia: the goal of virtues, its 'telos' -- 'flourishing', 'happiness'
 - How do we get to eudaimonia? It is an ordinary way of thinking about our lives  -- my actions reflect what I am
+- I do actions for their own sake -- nothing else. Actions are not instruments for other ends.
+- Eudaimonia cannot consist in things, stuff, passive states: I aim to live in a certain way
+- Virtue ethics tells us the eudaimonia cn only be achieved by living in accordance with virtues.
+- Disagreement about virtues is the beginning of ethical discussion
+- Is virtue needed for flourishing? Perhaps it is naive. But virtue ethics begins from flourishing as a concept which is already built upon virtues. 
+- Virtue is not just one value in life: it is necessary and sufficient for a flourishing life. It is not an alternative: it is. 
+- Perhaps it is egoistic? A virtuous person lives virtuously for themselves? No -- living in a flourishing way is an activity.
+- What is the right thing to do?
+- Virtue ethics considers your current state
+- Reflection about our ethical views shows them to be inadequate.
+- Ethical thought is an aspiration to be better than we are.
+- We need to become better people -- and this is a realization which can certainly apply universally.
+- I have to improve myself. (Is this reasonable? Or is it an ethical rendition of neoliberal entrepreneurship of the self?)
+- Some theories give us a theory of right and wrong actions -- ethical thinking becomes like reading a computer manual, and this is unrealistic. **There is no theory of right action.** The virtuous person does not take shape in the void.
+- What I should do if I were brave is to be braver than I am.
+- Is virtue ethics ethically conservative? However, virtue theory is committed to virtue as an ideal, and that we must aspire to it.
+- Perhaps virtue ethics is not applicable to moral problems. Virtue ethics cannot mechanically give us an answer. But it does more service to moral discourse and psychology. 
+- Is virtue ethics naturalistic? -- Aristotelian, broadly scientific understanding of human nature? No: virtue ethics is not bound to be naturalistic. 
+- Flourishing requires humans to live in a virtuous way. Because this is human nature.
+- Ethics emerges from how we live.
+- Contemporary virtue ethics looks towards modern understandings of human nature -- biology, psychology, etc. (Question -- does this really hold up, and how far does this dependency go?)
+- Neo-Aristotelian virtue theory: it benefits humans to have virtues. Takes as a fact that we are rational animals. Will we wend up with a Stoic rather than Aristotelian way of living?
+- What kind of theory of justice does virtue ethics need?
 
-page 7
+Reduced Versions of Virtue Ethics
+- Practical reasoning: you are not virtuous unless you have thought through and understood why you act. 
+- Can we remove this? The virtue is just a disposition to act.
+- 
+
+page 14
+
 
 ### "Modern Moral Philosophy", Anscombe
 - 
