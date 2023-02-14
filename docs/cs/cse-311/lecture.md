@@ -189,8 +189,20 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - Forcing expressions to appear
 - Watch out for hideen assumptions in your induction step.
 
+---
 
-
+## Week 7 Monday -- Structural Induction
+- Recursive definitions of sets
+  - Basic step: certain elements which are in the element
+  - Recursive step: if some element is in the set, then this other element is in the set
+  - Exclusion rule: every element in the set is from the basis step or a finite number of the recursive step.
+- Structural induction: prove $$P(s)$$ for all $$s \in S$$: the inductive step is to prove $$P$$ for a new element in the set.
+- Weak induction is a special case of structural induction.
+- Recursion on strings
+  - $$\Sigma$$ -- the alphabet
+  - $$\sum^*$$ -- the set of all strings you can build off the letters
+  - $$\epsilon$$ -- the empty string
+  - 
 
 
 
