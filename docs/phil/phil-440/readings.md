@@ -975,10 +975,32 @@ Virtue Ethics: The Whole Picture
 Reduced Versions of Virtue Ethics
 - Practical reasoning: you are not virtuous unless you have thought through and understood why you act. 
 - Can we remove this? The virtue is just a disposition to act.
-- 
+- Humean virtue ethics: I have a disposition to do good to me or others. A disposition does good. Why does it matter if I endorse the disposition with my practical reflective reasoning?
+- Virtues are dispositions to act which produce good -- but not quite, because practical reasoning links virtue to an agent's nature: the virtue is part of their life, not instrumental to some other consequentialist means.
+- Consequentialism trivializes virtue
+- Kant: virtue is a strength of your will to do your duty.
+- Our final end is defined by formal constraints rather than content: this is bizarre to modern ethical philosophy. 
+- Must we define eudaimonia in a way independent from virtues? Doing so makes it prone to certain attacks.
+- Virtues as means to an independently specified end: consequentialists, ATTACK!
+- The role of practical reasoning is important to establish the connection between the agent and the virtue.
+- Can we reject a telos, a goal?
+- A revival of interest in virtues in recent times.
+- Virtues are developed in existing traditions and societies: but do we fall here into relativism? 
 
-page 14
+Unreduced Modern Virtue
+- Not all modern virtue ethics attempt to dilute virtue.
+- Foot and HUrsthouse: develop a neo-Aristotelian theory of virtue, or a neo-Stoic one
+- Practical reasoning is essential to the practice of virtue.
 
+Conclusion
+- Why has virtue ethics been neglected?
+- Consequentialism has dominated ethical theory
+- Consequentialism and deontology -- assumed only major forms of ethical theory, focus on actions in isolation from agents
+- Meta-ethics: problematizes naturalism
+- Is it true that metaphysics is the first philosophy for work in ethics? Virtue ethics challenges the primacy of metaphysics
+  - First get ethics right, then ask about metaphysical implications
+  - The ethical relationship as primal
+- What is the connection between flourishing and practical reasoning?
 
 ### "Modern Moral Philosophy", Anscombe
 - 
