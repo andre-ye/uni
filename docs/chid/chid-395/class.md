@@ -524,7 +524,7 @@ Parallel Botany
 
 ---
 
-## Week 6 Thursday -- 
+## Week 6 Thursday -- Architectures and Landscapes
 - Images are not consumed in the places which produce them
 - Renderfarms
 - World-building behind world-breaking
@@ -557,8 +557,37 @@ Parallel Botany
 - Modernist logic of equal exchange
 - What are the means from which ideas emerge, the relationships which can happen out of this?
 - Interdisciplinary as a way to arrange ideas, not people; intersectionality as a way to understand identities, not quite collapsing them
-- 
 
+---
+
+## Week 7 Tuesday -- *The Deep*, Oceans and Water
+- What did reading *The Deep* tell you about world building?
+- Unmooring the reader -- letting them stay adrift
+- Windwos within the story and as stories to begin with
+- Let there be light -- creation
+- Enlightenment
+- Light as illumination vs light as ephermeral form -- glistening, sparkling, etc.
+- The deep -- depth, surfaces
+- The gradient of water as a method of meaning -- epistemic truthhood
+- Authentic depth vs the reality of depth
+- Depth emerges as a difference between things
+- A metaphysics of emptiness: can this emerge in the ocean?
+- We see the world of substances as things which are and things which give (weight). But what would it mean for us to interpret a world of substance which *takes*?
+- To make concrete
+- Materiality is already there and already affecting us
+- Part of being a world builder is to show a world whose coherence comes about because of the forces present in its material reality
+- Sound as an important piece of media, an important dimension
+- 'Precipitate' -- a liquid analog for concrete
+- Stories are often about characters and things
+- Environments are often thought of in the natural.
+- What is natural defines our temporal and metaphysical worldview -- what is right, what happened, what is, what will happen, what does happen
+- History makes us miserable -- do animals have history?
+- The concept of the object -- Object Oriented Ontology, post-Continental philosophy. Objects have agency, given by a specific reading of Kant.
+- The elemental -- what is an element? What makes up the world? What are its forces and how is it different from an object?
+- Is an element different than an object -- Levinas, an element only has one side, one face. Thinking beyond what is an object.
+- Thinking about the metaphysics of force, and in larger terms about what a politics of force looks like.
+- Let's not lose the elemental which structures our world, not into a world of objects and subjects.
+- How do elements provide different ways for thinking about the world, for generating new patterns to live by.
 
 
 
