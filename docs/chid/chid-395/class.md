@@ -588,6 +588,8 @@ Parallel Botany
 - Thinking about the metaphysics of force, and in larger terms about what a politics of force looks like.
 - Let's not lose the elemental which structures our world, not into a world of objects and subjects.
 - How do elements provide different ways for thinking about the world, for generating new patterns to live by.
+- What is near and what is far? What is far is perceived indirectly, by what is near to us!
+- Not the different, not the same -- the critical excess.
 
 
 
