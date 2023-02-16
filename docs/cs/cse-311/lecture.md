@@ -202,7 +202,30 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
   - $$\Sigma$$ -- the alphabet
   - $$\sum^*$$ -- the set of all strings you can build off the letters
   - $$\epsilon$$ -- the empty string
-  - 
+  
+---
+
+## Week 7 Wednesday -- Regular Expressions and Structural Induction
+- Recursive definition of string
+- Binary trees are a source of structural induction
+- Basis: a single node
+- We can define the size and height of a tree recursively
+- Size: size of left and right nodes plus one
+- Height: maximum of height of left tree and height of right tree plus one
+- Regular expressions -- find a certain format of string. 
+- A set of strings is a language.
+- $$(0 \cup 1)*$$ -- the set of all binary strings
+
+
+
+
+
+
+
+
+
+
+
 
 
 
