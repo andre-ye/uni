@@ -241,7 +241,76 @@ The Formula in Detail
 - Persons as types -- contractualism does not treat people as biological anyway.
 - What we owe to future people just depends on if they are of a type which would be disrespected by the made decision, regardless of their existence. 
 - Past injustices: members of oppressed grouops -- have grounds for complaint in the same way that all tokens of an oppressed type has a right to.
-- 
+
+---
+
+## Week 7 Thursday: Introduction to Virtue Ethics
+
+Williams' Two Cases
+- Objections to utilitarianism -- something distinctly problematic about utilitarianism -- not petty like violating rights, calculation ambiguity, etc.
+- Smart and Williams: Utilitarianism, For and Against
+- **George and the chemical and biological weapons job**. George: chemistry PhD. Needs a job. Offerred a job in research for chemical warfare. George refuses out of conscience. George's refusal will not change the situation. And a less conscientious person may take his position.
+- **Jim and the Indians**. Jim is tied up with other Indians who are to be executed; Jim is not from the land so he is offered the chance to shoot one of them so the remaining 19 will go free.
+- Utilitarians say take the job, kill the Indian
+- Williams: utilitarianism may give us the wrong answer in these cases, and it does, in the case of George.
+- Other objections: Obliviousness. Even if utilitarianism gets the right answer, it is for the wrong answer. Oblivious to many things going on in this case. The idea is that it is the agent itself which has to be involved in the activity. It is blind to the idea that each of us are responsible for what we do, rather than what others do.
+- Integrity
+  - Quality of possessing and adhering to moral principles
+  - Sound and undamaged
+  - Complete, undivided
+- Utilitarians are not taking seriously what it means to live and life and to be us.
+- Perhaps there is a connection to virtue here: what it means to be an agent living the life that we are living.
+- Virtue ethics is about how to live your life in a way which counts for living an authentic life.
+
+Status of Virtue Ethics
+- Julia Annas: virtue ethics is treated as the third thing, maybe? (but there were two before)
+- Late in the 20th century, virtue ethics starts to be treated seriously.
+- Virtue ethics is the default theory we have, throughout time and cultures -- the Kantian, Benthanian, etc. ethics are upstarts, and virtue ethics is the dominant theory.
+- Virtue ethics subjected to bitte rand hostile criticism, dismissed quickly without any consideration.
+- Virtue ethics turns out to be quite radical in comparison to other theories. It answers questions in totally different ways and considers different questions to begin with.
+- Other theories often try to drag virtue ethics onto their own terrain.
+- We should focus on the classical versions of virtue ethics. They have a full structure, and there are different versions of them.
+- There are long traditions of different ways to be a virtue ethicist.
+- Modern VE is underdeveloped -- we are reinventing the wheel, except the wheel is shit
+- Central role of reasoning to virtue ethics
+- Living virtuously and life itself
+- Virtue and naturalism
+
+Central Ideas
+- Doesn't think in a two-step account
+- Instead, each of us have our lives, there are challenges involved, and we want to live our lives well -- and this is a skill which can be and is acquired.
+- We already have a lot going on in terms of reasons and understanding of things related to the good life.
+- We come into the life preconditioned with ideas from our cultures and upbringing -- not coming into virtue ethics as blank slates, but it's also aspirational. We want to live life better.
+- Socrates: originator of virtue ethics in the Western tradition. Executed partially because he was a revolutionary in this way of living. He would say bizarre things, like you shouldn't have money and power if you aren't virtuous.
+- My life, and our lives, have some sort of end -- we have a life to live. It is living that life which is what I am fundamentally dealing with.
+- We want to achieve intenral unity.
+
+Standard Objections
+- Virtue Ethics is biased: elitist, egoist, cultural influences
+- Virtue Ethics is naive: bad biology, V not necessary or sufficient for flourishing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
