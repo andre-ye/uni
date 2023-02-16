@@ -1003,9 +1003,17 @@ Conclusion
 - What is the connection between flourishing and practical reasoning?
 
 ### "Modern Moral Philosophy", Anscombe
-- 
+- We should not do moral philosophy until we haave an adequate philosophy of psychology.
+- The modern way of talking about moral goodness, etc. is very specific.
+- Thinkers in ethics -- serious flaws
+  - Butler: conscience can prescribe vile things.
+  - Hume: truth as indpeendnet from ethical judgmeent
+  - Kant: legislating for oneself
+  - Bentham and Mill: pleasure is a tricky concept
+- Hume as a 'mere' sophist
+- What does obligation mean? The transition from is to owes
 
-
+page 4
 
 
 
