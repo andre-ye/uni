@@ -592,7 +592,23 @@ Parallel Botany
 - Not the different, not the same -- the critical excess.
 
 
+---
 
+## Week 7 Thursday -- The Power of the Wind
+- To imagine a world where the insects are much bigger than the humans
+- The cavities of dead bodies -- what kind of spaces do these form
+- Regrowth and re-instrumentalization
+- Wind -- something we can only see indirectly, but which we must feel
+- Wind must continually move; if it ceases, it is not wind anymore
+- The ill father
+- What is the function of the archetype?
+- Lore
+- World-builders: you can tie together complex worlds which have difference but without being antagonistic to the current world through archtetypes.
+- Lore as the building blocks through which myth is created.
+- When is something born from the ocean?
+- Lore exists across worlds but is expressed in myths.
+- Things are never really separate, ever
+- Meaning as created through an arc
 
 
 
