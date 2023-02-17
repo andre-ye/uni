@@ -726,6 +726,11 @@ Questions
 
 ---
 
+## Event and Lore
+### "Speculative Research: The Lure of Possible Futures", Alex Wilkie et al.
+
+---
+
 ## Other
 
 ### *A Grammar of the Multitude*, Paolo Virno
