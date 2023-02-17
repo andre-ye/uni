@@ -1015,6 +1015,9 @@ Conclusion
 
 page 4
 
+### "Utilitarianism and the Virtues", Foot
+- 
+
 
 
 
