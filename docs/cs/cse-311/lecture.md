@@ -216,11 +216,23 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - A set of strings is a language.
 - $$(0 \cup 1)*$$ -- the set of all binary strings
 
+---
 
-
-
-
-
+## Week 7 Friday -- More Regular Expressions, Context Free Grammars
+- A language is a set of strings
+- Regular expressions are recursively defined. 
+  - Recursive steps: or, concatenate, star operator
+- or with empty string to make a character optional
+- Constructing regular expressions by adding up
+- Check empty and low-character strings
+- 'not' is hard but you can negate at a low level
+- To say at least one copy, use  `aa*`.
+- Context Free Grammar: a way of defining a set of strings.
+- CFG: finite set of production rules over:
+  - Terminal symbols, $$\sum$$
+  - Nonterminal symbols, $$V$$
+  - Start symbol, $$S$$ 
+- A production rule for a nonterminal: $$A \to w_1 \vert w_2 \vert ... \vert v_k$$
 
 
 
