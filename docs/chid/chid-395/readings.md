@@ -750,7 +750,31 @@ Modes of futurity: risk, temporality, speculation
 - It matters what futures we use to cultivate other futures with.
 
 The politics of the impossible: reclaiming speculation
-- page 9
+- The goal of speculation is to provoke modes of knowing and thinking. 
+- Association of speculation with the irrational -- high risk, financial trading practices. Speculation seems to be a pejorative term.
+- Algorithmic and probabilistic logics -- make correlations across contingent events.
+- We should not reject speculation because of these associations.
+- Financial speculation participates in the dream of precision objective knowledge which can anticipate the future.
+- Algorithms operate upon a highly mutable conception of probability. It designates an image of the future. It projects from the order of the actual and prolongs the order of the present.
+- Speculative research is really about a struggle against probabilities. 
+- Metaphysical position: any experience of pattern is a human imposition.
+- Speculation also affirms the existence of patterns. 
+- Speculative possibilities come out of what is, in all likelihood, impossible (rather than scouting out and then participating in the problem space of the normal).
+- What concept of futurity do we use?
+- Eventful temporality: do not reduce futures to presents.
+- Speculative is not the subjective anticipation of the future. It is resisting the probable future which simply presents itself as an extension of the present.
+
+Thoughts that are creative of the future: cultivating a speculative sensibility
+- Speculative research attempts to nurture a field where speculation has a longer and more productive history -- science fiction
+- Reality is always entangled with the what-if, the sense of the impossible.
+- Creating impossibles is a collective and interdisciplinary task
+- Contemporary continental philosophy: speculative realism. Share a commitment to metaphysical speculation against correlationist circles.
+  - Correlationism: we can only understand the correlation between thinking and being, not these in isolation
+  - Can we think of the essence of objects without positing them in relation to knowing subjects?
+- Resisting the bifurcation of the world into subjects and predicates
+- Thinking about empricisms of experience, perspectives in the world. 
+- Speculative practices become active ingredients in the becoming of the world. 
+- How to make speculation relevant to empriical challenges?
 
 ---
 
