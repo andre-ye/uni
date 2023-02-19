@@ -1016,7 +1016,74 @@ Conclusion
 page 4
 
 ### "Utilitarianism and the Virtues", Foot
-- 
+- Utilitarianism continues to haunt us, even if we do not believe in it. Utilitarianism is in a central place in moral philosophy. Rule utilitarianism, for most people, is an unstable compromise.
+- What is most wrong about utilitarianism is consequentialism, but this is also what makes it compelling. 
+- Rightness is determined by the goodness of states of affairs.
+- Previous problems with utilitarianism: welfarism, or aggregationism.
+  - Modifications chase after objections, but they can never quite catch up.
+- Amartya Sen: the respecting or violating of rights should be counted as a good or evil. Goal rights fail to deal with many other forms of actions.
+- Consequentialism of any form gives us 'unacceptable' conclusions.
+- Why is consequentialism so intuitive? It does not make sense to prefer a worse set of states to another.
+- Where have we gone wrong from this intuition towards unacceptable conclusions?
+- We go wrong in thinking that there are better and worse states of affairs to begin with.
+- What does it mean to have a good state of affairs? That certain affairs can be better than others?
+- What is a 'better' or 'good' state of affairs?
+- We use expressions on the goodness and badness of states on a daily basis.
+- Our conceptions of good and bad are not impersonally used.
+- We also generally use statements which are dependent on speakers, or which do not fully consider the best possible outcome.
+- A good state of affairs is one which is generally advantageous: well sure, but we want to say something about maximum welfare.
+- What we care about is good and bad from the moral point of view. But this doesn't really help us at all. What is the moral point of view? From the legal point of view? From a social point of view? etc.
+- Why does it make sense to talk about morally good and bad affairs? 
+- Harsanyi: the only rational morality is one where rightness/wrongness of an action is judged by its relation to an outcome.
+- Non-conseqwuentialisms accept questions.
+- With no reference to morality, talking about good states of affairs is relative to the speaker. If we add a moral point of view, it means nothing because it is recursive / circular. 
+- Yet it is significant that people find themselves driven towards consequentialism on the basis that we can not choose worse outcomes. This is an inescapable idea.
+- Benelovence is a virtue. Benelovent persons want the good of others and call things good on this basis. This is a solution, and we have found the result within morality, not outside of it. Benelovence is only one of the virtues, only part of morality. And even benelovence has its limits.
+- Impartial sympathetic observer: defined from the utilitarian point of view, moral assessment is being defined in utilitarian terms.
+- There is a place within morality for the concept of better and worse states of affairs -- it is a virtue. And it may be inhibited by other virtues.
+- "Best outcome" and "good state of affairs" -- have no special meaning in a moral context other than what virtues give them.
+- We should not take an end which makes up good actions and turn it into a guide for action.
+- It is illegitimate to move what is within morality to a position outside of it (to judge morality by).
+- However we need to judge morality by factors outside. How shallw e deal with this objection? Morality as tacit legislation, with the aim of general good
+- Consequentialism in some form is always reinstated. We need something to judge with, that there are better and worse states of affairs
+- Perhaps the concept of a good state of affairs is an axiom of our system. Perhaps this is too hasty. 
+- Mill: how do we pass from "the end of each is the good of each" to "the end of all is the good of all"? is there such thing as a shared end?
+- The truth? We don't have a satisfactory theory of morality.
+- Scanlon: the real answer to utilitarianism is the development of alternatives. 
+- But we still should not feel pressured to accept consequentialism. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
