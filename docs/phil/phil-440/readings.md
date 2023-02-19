@@ -1051,7 +1051,7 @@ page 4
 - The truth? We don't have a satisfactory theory of morality.
 - Scanlon: the real answer to utilitarianism is the development of alternatives. 
 - But we still should not feel pressured to accept consequentialism. 
-
+- We should not surrender to consequentialism by uncritically accepting its key idea.
 
 
 
