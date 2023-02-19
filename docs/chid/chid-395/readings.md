@@ -729,6 +729,29 @@ Questions
 ## Event and Lore
 ### "Speculative Research: The Lure of Possible Futures", Alex Wilkie et al.
 
+Beyond the impasse of the present
+- Is another future possible?
+- It seems like we occupy a static frame of time.
+- What restores linearity is the practice of anticipating the future. 
+- How to articulate a response, to be attracted to possibilities of the future?
+
+Modes of futurity: risk, temporality, speculation
+- The future is not what it used to be.
+- We enter the future backwards.
+- Risk analytics and management of uncertainty: defining feature of late modernity.
+- 'society of risk'
+- 'govermentality'
+- Science and Technology Studies -- sociology of expectations.
+- Financial commodification of the future
+- SOcial action becomes oriented in the present.
+- Futures become a prolongation of the present
+- The concept of time is important here.
+- We need to resist modern time: consider temporality as it is formed through its own becomming.
+- It matters what futures we use to cultivate other futures with.
+
+The politics of the impossible: reclaiming speculation
+- page 9
+
 ---
 
 ## Other
