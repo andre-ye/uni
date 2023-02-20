@@ -776,6 +776,12 @@ Thoughts that are creative of the future: cultivating a speculative sensibility
 - Speculative practices become active ingredients in the becoming of the world. 
 - How to make speculation relevant to empriical challenges?
 
+The process of speculative research: organizing the collection
+- To speculate is to take the risk of developing practices which disclose alternative futures.
+- What is the nature of the possible? Dead, latent? Or urgent, in need of exegesis?
+- What is a lure for speculation?
+- What counts as the material, the empirical?
+
 ---
 
 ## Other
