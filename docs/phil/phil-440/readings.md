@@ -1053,16 +1053,47 @@ page 4
 - But we still should not feel pressured to accept consequentialism. 
 - We should not surrender to consequentialism by uncritically accepting its key idea.
 
+### "Meaning and Value Across the Generations", Scheffler
+- Even though we cannot clearly relate to future generations, future generations should matter.
 
+Our relations to future generations
+- How to avert threats to future generations? It is an important problem.
+- What are our relations to future generations?
+- Ethical norms are there to help guide us through the social world.
+- While we cannot engage in reciprocated relationships with future generations, we have large causal power.
+- Future generations are not just receivers of our causal impacts (utilitarian premises -- they are the consequences of our actions).
+- What would happen if we faced human extinction without pain? We might lose passion in our activities, towards the advancement of long-term goals.
+- Would it be a catastrophe if no new people came into existence?
+- We have a direct concern for humanity's survival.
+- We have self-interested reasons to want human succession to continue.
+- Humanity's imminent destruction is a source of grief in its own right.
+- The future of humanity matters
+  - our interests depend on it
+  - it is part of our concern for humanity irreducible to a love of individuals
+  - value itself is contingent on the continuity of humanity
+- Many of us have a concern for the future of humanity
+- Imminent demise sets back our interests and corrupts our live and thriving. We cannot flourish without continuity.
+- We are also dependent on future generations in certain ways.
+  - Future generations are causally and existentially dependnet on us
+  - We are emotionally dependent on them
+- Questions o fintergenerational ethics are often framed as our obligations to them; future generations ar eneedy and vulnerable. We should not exclusively focus on the asymmetric dimensions of power by privileging causality.
+- Have we lost sight of our significance in the participation of the generational chain? Do we ascribe importance autonomously to the continuity of the species?
+- Historicist sensibility: situation of activities within historical traditions
+  - We tend towards temporal individualism; we do not assign value to relations towards people before and after us
+- Anyway, future generations matter to us.
 
+A motiviational deficit?
+- Moral motivation: people have a moral oglibation
+- Moral motivation is not itself sufficient to overcome popular motivations.
+- We do no not have much agreement about the norms of intergenerational ethics.
+- People do not have the motives to address problems; this is a motivational deficit.
+- We have a love of humanity and the meaning of our activitiesa re in many cases contingnet on the future of humanity.
+- Do asymmetrical benefits (causal vs rational) count as genuine reciprocity? 
+- Four reasons: interest, love, value, reciprocity
+- Do we really have a motivational deficit?
+- Reasons have a normative force
 
-
-
-
-
-
-
-
+Page 11
 
 
 
