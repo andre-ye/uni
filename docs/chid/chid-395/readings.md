@@ -782,6 +782,18 @@ The process of speculative research: organizing the collection
 - What is a lure for speculation?
 - What counts as the material, the empirical?
 
+### *Building Imaginary Worlds: The Theory and History of Subcreation*, Mark Wolf
+
+Nature
+- Nature deals with the materiality of a world
+- New flora and fauna -- but we cannot just present them without ocnsidering their relationship with their systems and structures.
+
+page 3
+
+More than a story: narrative threads and narrative fabric
+
+
+
 ---
 
 ## Other
