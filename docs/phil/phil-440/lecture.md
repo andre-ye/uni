@@ -289,8 +289,33 @@ Standard Objections
 - Virtue Ethics is biased: elitist, egoist, cultural influences
 - Virtue Ethics is naive: bad biology, V not necessary or sufficient for flourishing
 
+---
 
-
+## Week 8 Tuesday: Utilitarianism and the Virtues
+- 1958: Elizabeth Anscombe, *Modern Moral Philosophy*. A bombshell. What is wrong with modern moral philosophy? Ethics had lost its way and the right thing to do was to turn back towards virtue ethics.
+- Manifesto with three theses:
+  - Psychology -- we must wait for a philosophy of psychology (philosophy of mind -- action, etc.) for it to be profitable to do ethics
+  - Moral 'ought' -- the very notion is mistaken. It is too tightly linked to particular types of religious and philosophical traditions which regard the normative claim as a decisive idea -- it has the weight of the gods behind it, it comes with a punch and seriousness. Anscombe: this conception of ethics is not so widespread, even among those who are believers. We need a weaker normatively, which we can get from the ancients. How to live the good life? This is enough for ethics.
+  - Post-Sidgwick problem: differences between moral philosophers from Sidgwick (utilitarian, 1907) until 1958 weren't very important. Arguing about topics important to tutilitarianism, but this is not really what we're interested in. 
+- Consequentialim's deep root: hard to shake it off, even if you aren't a consequentialist. What's the deep root, and then how can we pull it out. 
+- Consequentialism -- states of affairs are good or bad, actions are to be judged by their outcomes.
+- consequentialism yields many results which are unacceptable to Foot.
+- The deep root of consequentialism: it is never right to prefer a worse state of affairs to a better one.
+- Are there really bette rand worse state of affairs in the way that consequentialism requires?
+- We always use good and bad in a speaker-relative way.
+- Not just reduction to self interest. But it is a personal issue, speaker relative. 
+- Objection from the utilitarians -- the best state of affairs in general, from 'the moral point of view'? Consequentialism has to tell us why it is the best. Not all points of view in the world have states of affairs attached to them. The very claim that there is an overall best state of affairs begs the question.
+- We are tricked into consequntialism: error theory -- benelovence is a virtue, but it is only one of many virtues. 
+- Inside morality. In identifying the root cause, we found the root insidee morality, inside commonsense morality adn the judgements we already make. It's not some independent requirement. The origins of the thought come from within the system of morality. There is no independent standard used by consequentialism.
+- In our ordinary moral code there are many other requirements and prohibitions. Benelovence is not the whole of morality.
+- We wouldn't call unjust actions benelovent
+- Impartial observer. The God's-eye view: promoting everyone's well-being. This idealization of an impartial observer may be trying to be benelovent: but what about honesty, justice, etc. We have just assumed them away. 
+- What is the point of morality? Surely it is not a code of manners. It is why we have the system, whether we should have them. 
+- Morality as a rational device answerable to certain purposes. However, just with this thought we have re-introduced consequentialism. We haven't introduced anything independent. Do we need to understand purpose in such a way?
+- Who has the end (the purpose) of morality which we have posited? Looks like the purpose has to come from some place external.  
+- The consequentialist gives us one moral theory, and we don't need to accept it. But we need to look for alternatives.
+- Aristotle's moral philosophy?
+- 
 
 
 
