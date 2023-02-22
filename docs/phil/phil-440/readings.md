@@ -1092,8 +1092,14 @@ A motiviational deficit?
 - Four reasons: interest, love, value, reciprocity
 - Do we really have a motivational deficit?
 - Reasons have a normative force
+- Reasons have bearing on our decisions.
+- The motivational significance of the ways that future generations matter to us is large.
+- Consensus may strengthen the sense of obligation
+- Intergenerational ethics is in a quite early stage of development, but there is a political dimension
 
-Page 11
+Conclusion
+- Relations to our successors are rich and varied; they have complex tones.
+- Motivational deficit is less of an obstacle than we might have thought it was.
 
 
 
