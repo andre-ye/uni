@@ -610,8 +610,53 @@ Parallel Botany
 - Things are never really separate, ever
 - Meaning as created through an arc
 
+---
 
-
+## Week 8 Tuesday -- The Lure of the Impossible
+- Impossible vs improbable
+- Not all speculative futures are useful (?)
+- To make a speculation isn't to make a judgement
+- What is the goal of speculation?
+- How do you do predeterminations on something which has not been determined yet?
+- We can't expect to have it predetermined. 
+- Goals? Why do we do things?
+- How do we create a better world?
+- Invest in the ticked check-boxes that we like. But this doesn't happen for any complex system. 
+- How do you engage in the future without relying too much on the past?
+- Models for a better future
+- Alfred North Whitehead on propositions: the possibility of an actual world, true vs. false and prehensive
+- Process philosophy
+- Not based on categorical imperatives
+- What are philosophical propositions? 
+- There are two different ways of engaging with propositions, and we have two different subjects of engaging with the world.
+- Evaluative: true vs false. This is all well and good. But it's not the only one.
+- Prehensive subject: to grasp, a subject which feels something before it becomes conscious.
+- A philosophy to help us think about the rule of judgement. Not a judgement (true vs false). NOt everything in a proposition. It is an idea about how things might work. What happens when we think about how things might work?
+- Emotionally invest in a way for thinking about how the world works.
+- Lure -- we come to become attached to it; it links our feeling and emotional investment.
+- Intensity -- how important they are, how pressing it is.
+- On being a lure: although propositions can be true or false, it is more important to be interesting. Propositions can become a lure for feelings. It is more important for people to engage than to believe or recognize. Provocation
+- Prehensive quality and the emotional bind: making a proposition becomes an attractor, a seducer for different emotions. 
+- What is the point of a speculation?
+- Putting things out
+- Futures become evoked in propositions.
+- Consequences in the world are never straightforward
+- Speculations are told about specific actualities
+  - Not there to manage risk or to solve problems
+  - Not removed from the world even though it is part of it.
+  - When you build the world, you always start from this world.
+- Speculation takes a differeent set of skills
+- You cannot make evaluative judgements before the event occurs -- this is authentic speculation.
+- Going beyond what can think
+- Actuarial tables
+- Copernican vs Ptolemy
+- How do the ery parameters of a model change?
+- Matter of fact and what is important may be antithetically opposed.
+- The power comes in its being constrained.
+- Speculation as reorganizing the virtual.
+- A way to find out why certain things are attracted to one another.
+- Experiences intensified for importance
+- How to hold yourself in the woerld to act as a lure for other futures
 
 
 
