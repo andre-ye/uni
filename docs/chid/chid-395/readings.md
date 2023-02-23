@@ -787,12 +787,58 @@ The process of speculative research: organizing the collection
 Nature
 - Nature deals with the materiality of a world
 - New flora and fauna -- but we cannot just present them without ocnsidering their relationship with their systems and structures.
+- One often finds humanoid races in invented creatures.
+- Differing physics
+- Different dimensions of the world
+- The power of good subcreation
 
-page 3
+Culture
+- Culture links nature to history (interesting definition)
+- How can imaginary worlds reflect different cultures, literatures, histories?
+- Cultures are important structural frameworks for worlds
+- Origins and arcs
+
+Language
+- Constructed languages: a posterior and a priori languages
+- Tendency to use less frequent letters for the purpose of exoticism.
+- Difficulties for the reader -- engagement
+
+Mythology
+- Mythologies structure worlds by giving them history and context for events
+- Pseudomythology
+- Cross author collaboration in reference
+- The Bible -- what are Bibles?
+
+Philosophy
+- Philosophies can be revealed: actions, ethics, metaphysics.
+- Difference must be naturalized
+- Secondary worlds embed and support philosophical ideas
+
+Typing Different Infrastructures Together
+- Infrastructures must fit together consistently.
+- The concepts of nature and the larger world beyond the incomplete
 
 More than a story: narrative threads and narrative fabric
-
-
+- Narrative is most commonly found in imaginary worlds
+- Secondary world infrastructures can take place beyond narrative
+- Narrative grows alongside secondary world infrastructures.
+- Maps can apply narratives
+- Narrative theory: kernels/satellites, etc. -- what makes a narrative: a series of causally connected events. Actors and actions. Closure and teleology.
+- Narrative braids: multible threads sharing diagetic materials.
+- Narrative fabric can be woven from nonfiction stories.
+- The world's 'illusion' of completeness?
+- Engagement with the world
+- Backstory and world history: glimpses at larger structures and explanations; greater narrative speed than the main narrative.
+- Sequence elements and internarrative theory: sequels and addendum stories. Prequel? Intraquel? Interquel? Midquel? How do worlds develop through multiple stories?
+- Paraquel: covering the same events and time from a different perspective. Unauthorized and noncanonical.
+- Retroactive continuity and reboots: retconning changes estalished facts. Author-public relationships as social contracts: the world retains conssitency. 
+- Crossovers, multiverses, retroactive linkages: multiverse? separate but linked universes. Retroactive linkages: conceived and made separately between worlds.
+- Interactivity and alternate storylines. Interactivity is made up of choices; we must follow divergent strands.
+- What are the alternate paths chosable by characters?
+- Interactivity vs immersion in the world
+- What are the choices available?
+- The making of documentation
+- Storeis of subcreations
 
 ---
 
