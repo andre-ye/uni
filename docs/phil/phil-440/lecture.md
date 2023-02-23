@@ -315,7 +315,18 @@ Standard Objections
 - Who has the end (the purpose) of morality which we have posited? Looks like the purpose has to come from some place external.  
 - The consequentialist gives us one moral theory, and we don't need to accept it. But we need to look for alternatives.
 - Aristotle's moral philosophy?
-- 
+
+---
+
+## Week 8 Tuesday: Meaning Across Generations
+- Reasons of love -- reasons of love have a distinctive role in our lives.
+- Meaningfulness: subjective and obejctive elements.
+- Loving objects worthy of love and engaging with them in a positive way.
+- 'Worthy of love' -- objective standard
+- Meaningful life -- finding passion and pursuing it. Passion gives the subject a rewarding experience
+- How can we be involved with something larger than ourselves?
+- Scheffler - PD James thought experiment. Four reasons to care for future generations: individual interests, love of humanity, value, reciprocity
+- We we have motivations
 
 
 
