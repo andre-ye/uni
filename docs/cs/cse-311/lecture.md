@@ -234,9 +234,19 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
   - Start symbol, $$S$$ 
 - A production rule for a nonterminal: $$A \to w_1 \vert w_2 \vert ... \vert v_k$$
 
+---
 
+## Week 8 Wednesday -- Context Free Grammars
+- Alphabet of terminal symbols, final set of terminal symbols, and a start symbol.  
+- Poorly defined CFGs allow mutliple ways to construct a string in which the construction should evaluate to different things. Ambiguous
+- Parse tree can be generated from CFG. Preserves identical strings but with different structures.
+- A binary relation from A to B is a subset of $$A \times B$$
+- A binary relation on A is a subset of $$A \times A$$
+- Relations have common properties.
 
+---
 
+## Week 8 Friday -- Relations
 
 
 
