@@ -1141,13 +1141,39 @@ Hope, Generally
 
 - Our encouragement can take many different forms -- inspiring mental image, adjustment of reasons, cognitive resolve, etc.
 - Take perspective of a future in which the problem has been resolved in a preferable way -- it provides encouragement and motivates me. 
+- Motivation of hope
+- How are we to hope when we do not have a determinate future?
+- What should be the proper object of radical hope?
 
+Radical Hope Reconsidered
+- Catastrophic threats to social stability are not contemporary.
+- Ontological vulnerability
+- Radical hope: a hope that people will flourish in a new world. Not just wishing for a way of life -- wishing does not come with encouragement (we can wish with the impossible but not hope for it). 
+- Radical hope points towards the possibility of an object. We will find a meaningful existence withouot usual constraints.
+- We can imagine a good life in climate induced instability. 
+- A stance of commitment to possibility, even if this is indeterminate and unimaginable.
+- Hope requires an object. Radical hope requires an object, but this object is possibility.
+- We need more than an appeal to a nostalgic past
+- Radical hope as a way of addressing human life: making sense of ourselves amidst environmental conditions.
+- Hope is focused on states of affairs
+- Radical hope that there was a proper object of hope that could be foundd.
+- How can we become disposed to radical hope? -- is it virtuous to adopt radical hope?
+- Distinguishing virtue from hope: 
+- Radical hope; hope with an under specified object.
 
+> RADICAL HOPE: to have radical hope for Y is to have hope that there will be a suitable  object X such that we would HOPE for X, where the probability of X occurring may be estimated, and where X is one of a set of objects that would satisfy a set of unspecified conditions, A, B, C, some conjunction of which would satisfy Y.
 
+- Background conditions will allow one to develop a life which one can find the object of hope. 
+- We should radically hope for conditions which allow us to be ourselves.
 
-
-
-
+What to hope for: Ideals, Capabilities, and the Good Life
+- Radical hope is a form of hope, complete with an object
+- How might we live well under environmental circumstances which are unfamiliar?
+- What opportunities allow us to flourish in any context?
+- Encouragement of hope: confidence in our aiblity to thrive across a wide range of conditions. 
+- The capabilities for a good life. Amartya Sen: capabilities. Freedoms and opportunities needed to enact ideasl fo a complete life, and to have security without fear. Functionings -- states of being, ways of doing. There are many ways to do functionings. Functionins are basic to human flourishing.
+  - Functionings are contrasted with material resources
+  - We need more than opportunities: capacity to access opportunities (opportunity for opportunity)
 
 
 
