@@ -1101,7 +1101,46 @@ Conclusion
 - Relations to our successors are rich and varied; they have complex tones.
 - Motivational deficit is less of an obstacle than we might have thought it was.
 
+### "Living Well Wherever You Are", Kenneth Shockley
 
+The Need for Hope
+- How to understand hope in our new world?
+- What does it mean to flourish?
+- What should we hope for? This is not a useful question. It is in fact, what things might be appropriate objects of hope? 
+- Can we hope without a clear object?
+- Is there a role for derivative or anomolous hope without objects?
+- Radical hope: characterized by refusal to tie to an object
+- We should think of radical hope in terms of its leadership qualities
+- Connecting hope and motivation
+- What should we hope for?
+- Radical hope as the possibility of having a distinctive object. Radical hope can provide us the object and motivate us to pursue the good life.
+- Previous work on radical hope are confused. 
+- Shockley will provide us the object of radical hope, even if we cannot see the specific conditions to hope for.
+- Balance between being specific enough to be a valid object of hope and being loose enough to accomodate flux.
+- Capabilities: what people are able to do (freedoms and opportunities), rather than states of affairs.
+- The most appropriate objects for radical hope are associated with substantial freedoms.
+
+Facing Instability
+- Anthropocene
+- IPCC reports: future climates will not be like the past.
+- How do we understand human flourishing?
+- The dominant feature of the Anthropocene is instability
+
+Hope, Generally
+- The hoped object is a possible future state of affairs
+- Hope is not just desire -- what we want the world to be like. Hope is an attention to probability, moreover a desire to treat the object in a way which additively distorts this probability.
+- Hope requires a mental image -- this is not true. What if I have a negative hope?
+- Radical hope requires a different type of mental approach than just hope. 
+- Cognitive resolve: reflects our taking of a stance. It is not necessarily that we deceive ourselves. 
+- Adrienne Martin: hoping is a way of responding to one's attitudes in a way which incorporates our attitude towards that object. Hope involves arranging our ends, to pursue actions towards ends.
+- Hope must express the significance of the object.
+- Presentational phenomenology -- perceptually experiencing the world gets you to experience the world in a specific way.
+- Hope provides encouragement; it motivates and provides opposition to despair
+
+> "HOPE: to hope for an outcome, X, is to have a desire for X, to believe that X has some probability less than 1 and more than 0, and to be encouraged by the possibility of the  occurrence of X."
+
+- Our encouragement can take many different forms -- inspiring mental image, adjustment of reasons, cognitive resolve, etc.
+- Take perspective of a future in which the problem has been resolved in a preferable way -- it provides encouragement and motivates me. 
 
 
 
