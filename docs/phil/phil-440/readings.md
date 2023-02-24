@@ -1174,8 +1174,20 @@ What to hope for: Ideals, Capabilities, and the Good Life
 - The capabilities for a good life. Amartya Sen: capabilities. Freedoms and opportunities needed to enact ideasl fo a complete life, and to have security without fear. Functionings -- states of being, ways of doing. There are many ways to do functionings. Functionins are basic to human flourishing.
   - Functionings are contrasted with material resources
   - We need more than opportunities: capacity to access opportunities (opportunity for opportunity)
+- Food vs food security, money vs wealth
+- Capabilities express human flourishing wherever and however we are.
+- The good life captures the ideal sense of home, life without fear. 
+- What are the conditions A, B, CC? -- unspecified possibilities, capabilities.
+- Possible occurrence of ideals provides encouragement
+- Encouragement: means for making sense of our motivations subjectively
+- Radical hope -- a foundation for the motivation needed to promote ideals.
 
-
+Conclusion: What we should hope for in a time of great change
+- Despair reigns in the Anthropocene.
+- Hope is not just cognitive resolve, but a source of encouragement. It needs an object for, but this object is not findable in uncertain futures. So we must instead adopt radical hope: we hope for conditions which may provide us with objects to hope for. We should hope for substantial freedoms.
+- We can acknowledge and identify important qualities of good lives across outcomes: freedoms and capabilities
+- Perhaps the world was never as stable as we might imagine it to have been.
+- The veneer of stability
 
 
 
