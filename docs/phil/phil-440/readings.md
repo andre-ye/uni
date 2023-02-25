@@ -1189,8 +1189,39 @@ Conclusion: What we should hope for in a time of great change
 - Perhaps the world was never as stable as we might imagine it to have been.
 - The veneer of stability
 
+### "Way to Go, Me", Andreou
+- "Way to go, you" on Starbucks cups
+- What mindset does this tap into?
 
+Climate Change as a Creeping Environmental Problem
+- Creeping: problem where serous damage is realized by individually trivial contributions
+- There is no local preference because of its individually trivial difference.
 
+Different Orientations
+- Oriented towards groups or individuals? These make differences (team reasoning)
+- Team reasoning allows individuals to reward and punish themselves on the basis of collective positive and negative action.
+
+Switching Between Orientations and Mindset
+- Perhaps we should not look towards orientations but rather whether individualistic or group-oriented takes facilitate praiseworthiness.
+- Mindset M -- the target for feel-good buying: feel good about individually trivial contributions but do not feel bad about individually trivial contributions to negative outcomes.
+- Our perception is often motivated by our self worth
+- Cultures can vary by valuation of collective and individual priorities
+- We may vary between individual and group oriented takes by whichever is beneficial to us. 
+- Individuals can spin how they see the world when blame is at stake. **The motivation to blame prevails.**
+- Moral image and self-/blame
+- Mental acrobatics
+- Can we really simultaneously sustain individualist and group oriented directions at the same time?
+- Each view is fairly credible, and they are not necessarily directly conscious for discussions of consistency. 
+
+Seeking Self-Praise versus Avoiding Self-Blame
+- Individuals may be acting by assessments of their own behavior.
+- Positive and negative praiseworthiness activate different motivations.
+- It may be that self-praise can be a useful instrument.
+- M is a force to be reconciled with
+
+Conclusion
+- Maybe the future is not to reconcile the inconsistency but to try and prompt different thoughts through M.
+- Some inconsistency can facilitate our goals of action across multiple individuals.
 
 
 
