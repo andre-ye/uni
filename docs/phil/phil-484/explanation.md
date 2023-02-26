@@ -67,18 +67,52 @@ The SR Model
 - Wesley Salmon's statistical relevance model.
 - Class/population $$A$$; attribute $$C$$ is statistically relevant to another attribute $$B$$ iff $$P(B \mid A \wedge C) \neq P(B \mid A)$$
 - Statistically relevnat properties are explanatory.
+- Homogenous partition: a set of subclasses which are mutually exclusive adn exhausted. Allows us to characterize SR mdoels more precisely.
+- An explanation is not an argument (vs. DN/IS). It is an assembly of statistically relevant information.
+- Irrelevancies are harmless in arguments but fatal in explanations -- Salmon
+- Once an SR model has been constructed, no other factors can distinguish outcomes.
+- Generally -- what do statistical theories explain?
+- Does it make sense to use a single model to capture all examples?
+- A more radical question: does it even make sense to think statistically to begin with?
+- Explanations should cite causal relationships
 
+The Casual Mechanical Model
+- Causal process theories of causation -- overcome facts of statistical relevance
+- Causal process: a physical process which transmits a mark in a continuous way. 
+- A mark is a local modification on the structure of a process.
+- Marks persist at other spatio-temporal locations even without more interaction
+- Pseudo-processes cannot transmit marks.
+- Genuine causal processes must structurally leave marks which retain over time.
+- A process can be causal even if it does not transmit any mark.
+- Causal interaction. A causal interaction involves a spatio-temporal intersection between causal processes which changes the structure of both
+- CM leaves out causal relationships which exist between properties and magnitude rather than strictly processes and interactions
+- Mark transmission may not help us understanding which features of the causal process are causally relevant.
+- Generalization about the distribution of a large quantity of interactions -- 'radical abstraction'
+- Causal explanation which avoids appeals to counterfactuals
+- Causal process: a process which transmits non-zero conserved quantity at each moment in history.
 
-
+A Unificationist Account of Explanation
+- ...
 
 ---
 
 ## Mathematical Explanation (SEP)
 [Source](https://plato.stanford.edu/entries/mathematics-explanation/){:target="_blank"}
 
+Mathematical explanations in the natural sciences
+- How to understand the appearance of mathematical phenomena in science?
+- How to distinguish from the mathematical and physical components of an explanation?
+- Dominant accounts of scientici explanation are causal
+- What about non-causal explanations?
 
+The explanatory role of mathematics in science: some historical remarks
+- How do we obtain scientific knowledge? Through demonstration. 
+- Aristotle: of the fact vs of the reasoned fact.
+- There are mathematical explanations of physical phenomena
+- Can mathematics give explanations of natural phenomena?
 
-
+Philosophical relevance of mathematical explanations in science
+- Unification and explanation often pull in different directions.
 
 
 
