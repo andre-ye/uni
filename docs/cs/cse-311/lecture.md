@@ -247,8 +247,26 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 ---
 
 ## Week 8 Friday -- Relations
-
-
+- A relation is a subset of $$A \times B$$. 
+- Properties of relations for relations $$R$$ on sets $$S$$
+  - Symmetry: $$\forall a, b \in S, [(a, b) \in R \to (b, a) \in R]$$
+  - Transitivity: $$\forall a, b, c \in S, [(a, b) \in R \wedge (b, c) \in R) \to (a, c) \in R]$$
+  - Antisymmetric: $$\forall a, b \in S, [(a, b) \in R \wedge a \neq b \to (b, a) \notin R]$$
+  - Reflexivity: $$\forall a \in S, [(a, a) \in R]$$
+- Some relationships are neither symmetric or antisymmetric. You can only be both if the implication is vacuous.
+- Equivalence realtion: reflexive, symmetric, and transitive
+- Partial order Relation: reflexive, antisymmetric, transitive. Can partially put things into order.
+- Directed graphs: $$G = (V, E)$$.
+  - $$V$$ is a set of vertices -- set of elements
+  - $$E$$ is a set of edges (ordered pairs of vertices)
+- Graphs can represent relations
+- Simple path: distinct vertices
+- Cycle: end is same vertex as beginning
+- Simple cycle: simple path plus edge $$(v_k, v_0)$$ for $$k > 0$$
+- Combining relations
+- Relations can be represented using graphs.
+- Reflexive-transitive closure of $$R$$. Show a relation which is: minimum number of edges needed to add to $$R$$ to make it reflexive and transitive
+- 
 
 
 
