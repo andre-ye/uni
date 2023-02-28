@@ -329,7 +329,22 @@ Standard Objections
 - We we have motivations
 
 
+---
 
+## Week 9 Tuesday: Radical Hope
+- Instability is the dominant feature of the Anthropocene
+- What are the appropriate objects of hope. 
+- Hope is not just a desire, or just a mental image (too strong of a requirement).
+- Presentational phenomenology -- when we hope for something, we experience something differently than if we didn't hope for it
+- How to determine probability? What is to distinguish the boundary between impossibile (probability 0) and very implausible (very close to 0)
+- Encouragement: the arrangement of beliefs and desires in congruence with what we hope for
+- Radical hope as an attitude of hope, not restricted to a specific object which is hoped for
+- What satisfies conditions?
+- Capabilities are freedoms and opportunities available to an agent to achieve a certain state of being.
+- Functionings -- to have a capability, to be able to access a certain set of functionings
+- The object of radical hope is -- capability based ideals
+  - Given this, I can only hope for good items or good outcomes.
+- 
 
 
 
