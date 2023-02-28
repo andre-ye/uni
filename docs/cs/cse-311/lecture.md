@@ -266,7 +266,16 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - Combining relations
 - Relations can be represented using graphs.
 - Reflexive-transitive closure of $$R$$. Show a relation which is: minimum number of edges needed to add to $$R$$ to make it reflexive and transitive
-- 
+
+---
+
+## Week 9 Monday -- Finite State Machines
+- Deterministic finite automaton -- every action is determined, based on the input. 
+- Get a string as input. Read one character at a time and update its state. The machine is a finite state of vertices.
+- Each state which is not the start will either be accept or reject.
+- DFAs cannot count arbitrarily high because it rquires an infinite number of states.
+- Cross product construction -- Cartesian product of states, helps us do and configurations
+
 
 
 
