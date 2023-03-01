@@ -658,7 +658,7 @@ Parallel Botany
 - Experiences intensified for importance
 - How to hold yourself in the woerld to act as a lure for other futures
 
-
+---
 
 
 
