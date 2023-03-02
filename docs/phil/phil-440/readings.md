@@ -1223,6 +1223,109 @@ Conclusion
 - Maybe the future is not to reconcile the inconsistency but to try and prompt different thoughts through M.
 - Some inconsistency can facilitate our goals of action across multiple individuals.
 
+Preparation Notes
+1. Statement of Central Argument (2-5 sentences)
+Provide a clear, accurate summary statement of the reading’s central argument or claims.
+
+Andreou argues that individual responses to campaigns intended to address some aspect of climate change can be understood as seeking praise rather than as group vs. individual-oriented behavior. When individuals seek praise, they are likely to identify with individual-oriented thinking when a result is positive (such that they maximize the praise given to them) and with group-oriented thinking when a result is negative (such that they minimize the scorn cast upon them individually). Knowing this, Andreou suggests, may allow campaigns for climate change to better engage individuals.
+
+2. Terms and Concepts (2-4 sentences)
+Provide a brief explanation of 2 key terms or concepts from the readings which are central for understanding.
+
+Way to go, me/you (Mindset M). A congratulatory phrase representative of praise-seeking behavior, or Mindset M. In Andreou’s example, it gives voice to the suggestion that you should feel individually good for supporting a company which ethically sources its coffee but obscures the possibility you might feel bad for doing so by using a disposable cup.
+
+Creeping environmental problem. By ‘creeping’, Andreou means that a large amount of damage is done by many individuals committing individually marginal damages, rather than, for example, one individual or entity committing significant damage. It is significant that Andreou studies climate change from a ‘creeping’ perspective because every individual must relate to the group in some way, and the impact of this relating at an aggregate level can be substantially positive or negative.
+
+3. Comprehension Questions (1-4 sentences)
+Raise 1-2 significant comprehension questions.
+
+Andreou talks about how mindset M can be used positively, for instance to encourage individuals to vote for environmental protection legislation. However, does Andreou address how to, if at all, ensure that abuses of mindset M – such as in the Starbucks example raised at the beginning – are prevented? 
+
+4. Philosophical Question #1 (2-5 sentences)
+Raise an important philosophical question about the reading.
+
+Andreou is careful to make clear that she is not attempting to make any normative claims, but rather that mindset M is a descriptive reality and we should find ways to run more successful campaigns given this information. However, is it possible that this framing itself commits itself to consequentialism and its many associated problems? Moreover, borrowing from Foot, is there really a ‘good’ or ‘bad’ consequence in the sense that Andreou assumes? For instance, Andreou provides the example that an individual driven by self-praise might vote for an environmentally friendly measure which may have a large positive impact. But more broadly, can we navigate a troubled world sustainably with populations which only vote when it is convenient to out of the pursuit of self-praise? – surely another nonconsequentialist approach is needed.
+
+5. Philosophical Question #2 (2-5 sentences)
+Raise an important philosophical question about the reading.
+
+Perhaps the most interesting part of mindset M is that it allows individuals to switch between adopting individual- and group-oriented attitudes on the basis of self-praise. What is praise? Is praise fundamentally something which can only be understood at root as being given to or received by individuals? Does it make sense to conceive of praise for a group which is not reducible to a simultaneous praise of the individuals within that group? If it is possible, then can we develop campaigns which appeal to this group-oriented sense of praise which are more sustainable and virtuous than those which appeal to an individual-oriented sense of praise?
+
+### "Respect for Nature: Learning from Indigenous Values", Cuomo
+- Environmental ethics is often described in terms of novel ideals. 
+- However, this is misleading because there is substantial work on environmental ethics from indigeneity.
+- Respect for earth as a superior value in indigenous ethics.
+- Traditional knowledge
+- Virtues are commitments which can provide grounding needed for the practice of ethical development
+
+More than a Feeling
+- 'Respect for nature' -- captures an important part of environmental moral consciousness.
+- Kantian respect for moral value in all living things
+- Respect for nature is a set of dispositions embodied in character (like virtues)
+- How to consider another animal's viewpoint without anthropocentrism
+- Respect for nature as an attitude? No -- virtues must be deep, substantial. Attitudes are a small part of what we do.
+- How to actively respect, and respect virtuously?
+
+Land, Autonomy, and Active Respect
+- Indigenous philosophers -- respect for nature as an approach to life which can restore health and integrity.
+- Respect requires tangible effort, more than an attitude.
+- Personhood is built on a fundamental responsibility within relationships
+- Native sovereignty and treaty rights are important to supporting ethical autonomoy of indigenous communities
+
+Indigenous Values in Context: Perspectives from Northern Alaska
+- Iñupiaq values from Arctic Alaska
+- Promoting respect for nature as an ethical value in subsistence culture
+
+From Ancsa to Npra-a
+- Capitalist-militaristic institutions do not embody a respect for nature
+- (in)corporation of indigenous communities
+- Native corporations
+
+Inupiaq Values and Respect for Nature
+- Respect for nature as a basic commitment and active practice
+- Ideals and ways of living
+- Respect for nature is tied to other fundametnal values and social virtues
+- Nature's wisdom
+- Practicing virtue by learning from and communicating with animals
+- Refrain from greed an dwaste
+
+Complex Politics of Respect
+- Alaska Federation of Natives
+- Support and coalition
+- Institutionalization of active caring
+
+Conclusion
+- Virtues of ecological sustainability are antagonistic to the practices of capitalism
+- Virtues need to be laid out and embodied.
+- Virtue requires us not only to reject exloitation but to embody better ways of being.
+- Environmental ethics as a return to basic values?
+
+1. Statement of Central Argument (2-5 sentences)
+Provide a clear, accurate summary statement of the reading’s central argument or claims.
+
+An ethics focused on respecting and sustaining the environment is often treated in Western ethical discourse as being a radical or new proposition, when in fact such ideas have been long developed and adopted by indigenous communities. Respect for nature can be and is often discussed as an abstract value or attitude, but Cuomo emphasizes that they should be, must be, and are actively lived and practiced as virtues. We can look towards indigenous communities’ interactions with capitalist and militaristic disruptions as inspiration for living and practicing of respect for nature as a virtue. Lastly, we can work to practice respect for nature even deep within Western capitalist society. 
+
+2. Terms and Concepts (2-4 sentences)
+Provide a brief explanation of 2 key terms or concepts from the readings which are central for understanding.
+
+Respect for nature. Respect for nature is a concept which has often been discussed in ethics, but frequently has been reduced to an attitude, feeling, or disposition. Cuomo argues that this is not properly respect: respect instead requires our active involvement in living out our commitments to nature and the environment.
+
+Indigenous resistance. Indigenous communities have a long history of often violent interaction with Western intellectual, economic, and militaristic forces. Despite this, they often resisted the erosion of their intellectual values in relation to the conditions they found themselves in. The history of indigenous resistance can also give us inspiration for how to live a life in accordance with the virtue of respecting nature.
+
+3. Comprehension Questions (1-4 sentences)
+Raise 1-2 significant comprehension questions.
+
+Do different indigenous traditions around the world have different conceptions of nature? How can we incorporate these other perspectives? Should indigenous virtues be considered universally or as locally and historically situated?
+
+4. Philosophical Question #1 (2-5 sentences)
+Raise an important philosophical question about the reading.
+
+Is it possible for individuals entrenched within Western consumerist society to truly adopt respect for nature as an active praxis beyond an attitude if their sole means of sustenance come from sources which do not respect nature? Cuomo suggests that individuals may engage in protests, but ability to protest is also unevenly distributed. More broadly, can virtues be authentically actively lived in environmental conditions which are hostile to them?
+
+5. Philosophical Question #2 (2-5 sentences)
+Raise an important philosophical question about the reading.
+
+Why should we adopt the virtue of respect for nature? If we adopt the virtue in service of the ‘greater’ end of a better future for humans rather than as a way of living to be lived by itself, then have we truly adopted it at all (qua Annas)? Will any invocation of the virtue of respect for nature in the context of the immediacy and potential devastation of climate change appropriate respect for nature as a proxy for the betterment of human lives?
 
 
 
