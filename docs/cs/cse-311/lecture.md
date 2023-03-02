@@ -276,6 +276,41 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - DFAs cannot count arbitrarily high because it rquires an infinite number of states.
 - Cross product construction -- Cartesian product of states, helps us do and configurations
 
+---
+
+## Week 9 Wednesday -- Nondeterministic Finite Automata
+- Bit shift register -- remembers previous states
+- WHat is the smallest possible DFA for a problem?
+- There is a unique minimum DFA for every language
+- How can we make our DFAs more powerful?
+- Deterministic: your next step is determined, there is one option you can go
+- Non-deterministic: you have a 'choice' of where you can go. A given state can have any number of outbound ideas.
+- If there is one set of choices which leads us to an accepting state, we accept.
+- You have to finish in an accepting state; rejected if it fails in an accepting state
+- How to think about NFAs: outside observer, perfect guesser, parallel exploration
+- Nondeterminism lets us give simple descriptions of complex objects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
