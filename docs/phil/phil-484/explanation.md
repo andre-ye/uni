@@ -113,8 +113,20 @@ The explanatory role of mathematics in science: some historical remarks
 
 Philosophical relevance of mathematical explanations in science
 - Unification and explanation often pull in different directions.
+- Mathematics, modeling, and idealization
+  - Moving away from explanations of mechanical causes, rather, emphasis on mathematical forms.
+  - Mathematical formalism helps unify but doesn't really explain the how and why.
+  - Asumptotic reasoning -- idealisms. Batterman: ''asymptotic analyses so often provide physical insight is that they illuminate structurally stable aspects of the phenomenon and its governing equations''.
+  - Details are ignored, but one still arrives at correct explanations
+  - How does math 'hook onto' reality?
+  - Optimality models: explain without asserting causal structure
+  - Topological explanations
 
-
+Questions
+- Why cannot mathematical facts be explanations?
+- If proofs are citing evidence, then why cannot the axioms of our system (theorems) and properties be cited?
+- Is there a difference between being explained by [x] and being explained? Can a theory be universally explained?
+- Are explanations unique, scientific or mathematic? -- unique, all explanations can be trivially transformed into another.
 
 
 
