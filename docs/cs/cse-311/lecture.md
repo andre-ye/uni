@@ -290,9 +290,23 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - How to think about NFAs: outside observer, perfect guesser, parallel exploration
 - Nondeterminism lets us give simple descriptions of complex objects
 
+---
 
-
-
+## Week 9 Friday -- Regular Languages
+- NFA
+- or statements between DFAs can be represented neatly with NFAs
+- Cross product construction for and
+- Negation on NFAs is not so easy
+- Parallel exploration view of NFAs
+- DFAs are a proper subset of NFAs vs DFAs = NFAs?
+- Kleene's theorem: for every language $$L$$
+  - $$L$$ is the language of a regular rexpression iff
+  - $$L$$ is the language of a DFA iff
+  - $$L$$ is a language of an NFA
+- If a language can be represented as an NFA, DFA, or regular expression, it is a regular language.
+- Constructive proofs
+- There are languages which are not regular but CFGs. CFGs are more powerful than regular languages.
+- 
 
 
 
