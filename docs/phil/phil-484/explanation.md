@@ -123,17 +123,70 @@ Philosophical relevance of mathematical explanations in science
   - Topological explanations
   - What is distinctively mathematical about mathematical explanations of scientific facts?
 - Indispensability arguments
-  - 
+  - Descriptive vs explanatory role of mathematics in scientific explanations
+  - Math is indispensable for science
+  - There are genuinely mathematical explanations of empirical phenomena. We ought to be committed to the theoretical posits postulated by such explanations; thus, We ought to be committed to the entities postulated by the mathematics in question.
+  - Maybe what needs explanation cannot even be descreibed without mathematical language.
+  - Are numbers part of our symbolic universe?
+  - Maybe mathematics only indexes physical facts.
+  - Is mathematics purely representational.
+  - Perhaps mathematics has an ontological commimtnet to concrete entities.
+  - Optimality fallacy -- solutions to biological problems
+  - Lyon: alternative causal explanations present in mathematical explanations. Process explanation: the actual causes. Program explanation: cites a property which ensures causality.
+  - Existence of alternative mathematical explanations for the same phenomenon -- negates indispensability of either entity
+
+Mathematical explanations within mathematics
+- Proofs: decision procedures, transfer principles
+- Explanations do not just come in the form of proofs. (really?)
+
+Mathematical explanations: some historical remarks
+- Aristotle: of the fact vs. of the reasoned fact (provides explanations)
+- Proof by contradiction: not a demonstration of reasoned fact.
+- Mathematical demonstrations are not causal? Or is causal?
+- Bolzano and Cournot: central problem of philosophy of math being explanatory vs non-explanatory demonstrations.
+
+Two classical models for mathematical explanation: Steiner and Kitcher
+- Explanitoriness is a local property of proofs vs a global property of the whole theory.
+- A local model of explanation: Steiner
+  - To explain the behavior of a thing, one deduces behavior from the entity's essence
+  - Characterizing property: a property unique to a given structure within a domain of structures
+  - An explanatory proof has to make reference to the characterizing property such that the result is dependent on that property.
+- A holistic model of explanation: Kitcher
+  - Unification as the model for explanation in science and mathematics
+  - Understanding phenomena: not just reduction to axioms, but seeing connections and patterns. From premise-conclusion to derivation.
+  - Derivation and redundancy
+  - Explanatory store: the best systemization over $$K$$.
+  - Systemization: arguments deriving some elements from $$K$$ from other elements from $$K$$.
+
+Recent developments
+- 'Bottom up' vs 'top down' approaches
+- Marc Lange: mathematical induction fails to be explanatory. 
+- Mathematical explanations do not follow a general pattern
+- Coincidence vs non-coincidence
+- Context-dependency of mathematical explanations: what are the salient features?
+
+Connections to other debates
+- Mathematical beauty? Explanatory proofs are not necessarily beautiful proofs.
+- Are aesthetic properties of proofs dependent on the epistemic property of explanitoriness. 
+- Pure vs impure
+- Mathematical depth
+
+Conclusion
+- Better understnading of how mathematicals applies in the physical world
+- Mathematical explanations of scientific fasts being tested in theories of scientific explanation
+- Metaphyiscal arena
 
 Questions
 - Why cannot mathematical facts be explanations?
 - If proofs are citing evidence, then why cannot the axioms of our system (theorems) and properties be cited?
 - Is there a difference between being explained by [x] and being explained? Can a theory be universally explained?
 - Are explanations unique, scientific or mathematic? -- unique, all explanations can be trivially transformed into another.
-
-
-
-
+  - Euclid: sum of internal angles of a triangle is equal to two right angles. vs. 180 degrees. vs. pi radians. Is there a difference?
+- Maybe mathematics as representation is functionally explanatory?
+- How much of explanation requires the subject's view?
+  - Is an explanation for how to construct an explanation an explanation? (induction)
+  - Banach-Tarski theorem?
+- Proofs as a process? Center the subject? How did an individual come to get the result?
 
 
 
