@@ -121,6 +121,9 @@ Philosophical relevance of mathematical explanations in science
   - How does math 'hook onto' reality?
   - Optimality models: explain without asserting causal structure
   - Topological explanations
+  - What is distinctively mathematical about mathematical explanations of scientific facts?
+- Indispensability arguments
+  - 
 
 Questions
 - Why cannot mathematical facts be explanations?
