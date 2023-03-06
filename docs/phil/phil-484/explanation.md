@@ -92,7 +92,40 @@ The Casual Mechanical Model
 - Causal process: a process which transmits non-zero conserved quantity at each moment in history.
 
 A Unificationist Account of Explanation
-- ...
+- Scientific explanation is about providing a unified account of different phenomena. 
+- Does unification allow us to better understand what explanations are good?
+- Schematic sentence: nonlogical vocabulary has been substituted for predicates. Filling instructions sepcify how to replace predicates in dummy sentences. Schematic arguments -- sequences of schematic sentences. 
+- Kitcher: an explanation is about deriving descriptions for as many phenomena as possible with as few argument patterns as possible. How to reduce certain facts as ultimate? How to reach the explanatory store?
+- What is the origin of the theory and its development? Origin & development pattern of explanation
+- Unificationism does not require all explanations to be deductive. 
+- 'because' in causation is always derivative of 'because' in explanation. Causal judgements simply reflect explanatory relationships
+- Epistemic inaccessibility of causal claims
+
+Pragmatic Theories of Explanation
+- Pragmatic theories of explanation:
+  - Irreducible reference to facts about interests, beliefs, features of psychology
+  - Irreducible reference to the context in which the explanation occurs
+- What is the role of pragmatic elements in theories of explanation?
+- There is thought to be a non-pragmatic core to the notion of explanation, without reference to pscyhology.
+- How much does explanation ahve a pragmatic dimension?
+- Stronger claim of pragmatic approaches: constructing a model of explanation which is abstractly universe is unsuccessfuly because of the ineliminability of pragmatic and contextual factors. A diagnosis of the failure of accounts.
+- Pragmatic is generally associated with the consideration of pyschology and other attempts to localize models of explanation.
+- Pragmatism may not be in conflict with the traditional goals of the theory of explanation
+- Bas van Fraassen: the aim of science is the construction of empirically adequate theories, not to tell true stories about unobservables. Explanations are answers to questions. What is a why question? -- queries about why a particular explanandum rather than any other member of a contrast class.
+- Explanation is **not** a relation (between theory and fact), but between theory, fact, and context. Being an explanation is relative, because an explanation is an answer, to a question.
+- Where is the source of asymmetry in the flagpole vs shadow case? In nature or in the psychology of the viewer.
+- Perhaps the relevance relation here is too broad. A relevance relation can be held for any two true propositions
+- However van Fraassen's account still leaves us with an unexciting and uninteresting theory of explanation.
+
+Conclusions, Open Issues
+- The role of causation -- how interested are we in causal forms of scientific explanation?
+- Why takl about explanation at all?
+- What sorts of distinctions matter?W hat is relevant?
+- Are there forms of why-explanations which are non-causal?
+- Is there a signle general model of causation? Or is it precluded
+
+Questions and Notes
+- Unificationism seems to be related to the impulse to identify purpose or reason against coincidence.
 
 ---
 
