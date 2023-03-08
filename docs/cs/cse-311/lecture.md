@@ -306,7 +306,19 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - If a language can be represented as an NFA, DFA, or regular expression, it is a regular language.
 - Constructive proofs
 - There are languages which are not regular but CFGs. CFGs are more powerful than regular languages.
-- 
+
+---
+
+## Week 10 Monday -- Regularity
+- Parallel exploration view allows us to convert NFAs to DFAs
+- We can build a DFA from an NFA by using states as elements from the powerset of NFA states and linking epsilon transitions
+- Nondeterminism isn't magic, but really efficiency 
+- Don't say in order to do X, machine must do Y. Impossible to rigoorusly justify.
+- Make claims about irregularity via proof by contradiction. 
+- A DFA is deterministic and finite.
+- How to force the mistake? 
+- $$S$$ is an infinite set of strings. There are two different strings $$x, y$$ such that $$x$$ and $$y$$ go to the same state. Consider the string $$z$$. $$xz$$ and $$yz$$, one of them is in the language and the other one is not in the language. But they should be in the same string.
+
 
 
 
