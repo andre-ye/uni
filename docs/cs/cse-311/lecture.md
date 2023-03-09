@@ -319,7 +319,15 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - How to force the mistake? 
 - $$S$$ is an infinite set of strings. There are two different strings $$x, y$$ such that $$x$$ and $$y$$ go to the same state. Consider the string $$z$$. $$xz$$ and $$yz$$, one of them is in the language and the other one is not in the language. But they should be in the same string.
 
+---
 
+## Week 10 Wednesday -- (Un)Countability
+- Domain, codomain, bijection, surjection, injection
+- Injection: each input goes to one output
+- Surjection: each output has one input
+- Bijection: both injection and surjection
+- There exists a bijection iff both sets are the same size
+- Countable: there is an injection from $$A$$ to the natural numbers. 
 
 
 
