@@ -329,6 +329,16 @@ $$A = B \equiv A \subset B \wedge B \subset A$$
 - There exists a bijection iff both sets are the same size
 - Countable: there is an injection from $$A$$ to the natural numbers. 
 
+---
+
+## Week 10 Friday -- The Halting Problem
+- Diagonalization proof by contradiction to prove uncountability of the reals. Assume bijection, but show that it is not a surjection and therefore not a bijection
+- Binary valued function: mapping natural numbers to a binary value. How many functions are there? It is uncountably infinite.
+- The number of Java programs is countable: bijection between natural numbers and code. Therefore there are more binary functions than there are Java functions. Some functions are uncomputable. 
+- Does it matter that most functions are not computable?
+- A practical uncomputable problem: the halting problem
+- Halting problem: given source code for a program $$P$$ and $$x$$ an input we could give to $$P$$, return True if $$P$$ will halt on $$x$$ and False if it runs forever.
+- 
 
 
 
