@@ -122,10 +122,15 @@ Conclusions, Open Issues
 - Why takl about explanation at all?
 - What sorts of distinctions matter?W hat is relevant?
 - Are there forms of why-explanations which are non-causal?
-- Is there a signle general model of causation? Or is it precluded
+- Is there a single general model of causation? Or is it precluded
 
 Questions and Notes
 - Unificationism seems to be related to the impulse to identify purpose or reason against coincidence.
+- General question, more of a meta-philosophical one pointing towards a pragmatist view: what is the point of defining explanation and what are properties of a good model of explanation? And is this neccessarily an explanation of explanation?
+- Rephrased: Perhaps explanation cannot be determined because from a meta-philosophical perspective to determine what explanation is we must produce an explanation, that is of what explanation is. And so it is fundamentally recursive and circular.
+  - Are descriptions explanations? Possibly. Explanations apply too in reasoning and argumentation.
+  - Are models of explanation self-consistent in their justification? Maybe.
+  - Are all models of explanation inductively formed and validated? 
 
 ---
 
@@ -220,9 +225,16 @@ Questions
   - Is an explanation for how to construct an explanation an explanation? (induction)
   - Banach-Tarski theorem?
 - Proofs as a process? Center the subject? How did an individual come to get the result?
-
-
-
+- Random question: Are humans restricted to proving computable proofs?
+- Grad-Cam and causality in AI explanation approaches.
+- Is AI an interesting subject of explanation thinking?
+- Math as reducing results to axioms, fundamental results?
+- Is causality ultra-saturated in math in that everything necessary becomes part of the causal process?
+- What is a coincidence?
+- Might the question beg the answer in certain scenarios, esp using mathematical facts for scientific phenomena?
+- Explanations in AI 'meta over-fitting'?
+- Does explanation 'exist' always?
+- Do arguments on causality by necessity/removal also threaten the conditions which make the removed necessity necessary?
 
 
 
