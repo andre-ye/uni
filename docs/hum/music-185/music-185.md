@@ -1,9 +1,9 @@
 ---
 layout: default
 title: MUSIC 185
-parent: Fine Arts
+parent: Humanities
 nav_order: 185
-permalink: /docs/finearts/music-185
+permalink: /docs/hum/music-185
 has_children: true
 ---
 
