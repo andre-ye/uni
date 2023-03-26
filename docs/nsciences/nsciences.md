@@ -8,5 +8,5 @@ permalink: /docs/nsciences
 
 # Natural Sciences Notes
 
-The Memory-Sapping Discipline
-{: .fs-6 .fw-300 }
+<!-- The Memory-Sapping Discipline
+{: .fs-6 .fw-300 } -->
