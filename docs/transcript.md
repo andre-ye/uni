@@ -10,17 +10,38 @@ nav_include: false
 
 A complete list of the courses I have taken, are taking, or immediately will take at the University of Washington, ordered by quarter (most recent on top).
 
+## Spring 2023
+
+| Code | Course | Instructor | Credits |
+| --- | --- | --- | --- |
+| HSTAA 465 | [The Sixties in America: Kennedy to the Counterculture](https://andre-ye.github.io/uni/docs/hum/hstaa-465) | Roberts | 5 |
+| PHIL 458 | [Phenomenology](https://andre-ye.github.io/uni/docs/phil/phil-458) | Peters | 5 |
+| ASTR 101 | [Astronomy](https://andre-ye.github.io/uni/docs/nsciences/astr-101) | | 5 |
+| RUSS 103 | First-Year Russian III | Vukadinovich | 5 |
+| CSE 312 | [Foundations of Computing II](https://andre-ye.github.io/uni/docs/cse/cse-312) | Weber | 4 |
+| --- | Total | --- | 24 |
+
+## Winter 2023
+
+| Code | Course | Instructor | Credits |
+| --- | --- | --- | --- |
+| CHID 395 | [Interdisciplinary Praxis Lab](https://andre-ye.github.io/uni/docs/hum/chid-395) | Thurtle | 5 |
+| PHIL 440 | [Ethical Theory](https://andre-ye.github.io/uni/docs/phil/phil-440) | Gardiner | 5 |
+| RUSS 102 | [First-Year Russian II](https://quizlet.com/760079451/russ-102-complete-vocabulary-and-concepts-flash-cards/) | Konatar | 5 |
+| CSE 311 | [Foundations of Computing I](https://andre-ye.github.io/uni/docs/cse/cse-311) | Weber | 4 |
+| --- | Total | --- | 19 |
+
 ## Fall 2022
 
 | Code | Course | Instructor | Credits |
 | --- | --- | --- | --- |
 | ENGL 284 | [Beginning Short Story Writing](https://andre-ye.github.io/uni/docs/eng/engl-284){:target="_blank"} | Lenk | 5 |
 | PHIL 401C | [Philosophy of Game Theory](https://andre-ye.github.io/uni/docs/phil/phil-401c){:target="_blank"} | Mayo-Wilson | 5 |
-| RUSS 101 | [First-Year Russian I](https://andre-ye.github.io/uni/docs/russ/russ-101){:target="_blank"} | Vukadinovich | 5 |
-| CSE 351 | [The Hardware/Software Interface](https://andre-ye.github.io/uni/docs/math/cse-351){:target="_blank"} | Hsia | 5 |
+| RUSS 101 | [First-Year Russian I](https://quizlet.com/740637979/russ-101-complete-vocabulary-and-concepts-flash-cards/){:target="_blank"} | Vukadinovich | 5 |
+| CSE 351 | [The Hardware/Software Interface](https://andre-ye.github.io/uni/docs/math/cse-351){:target="_blank"} | Hsia | 4 |
 | MATH 208 | [Matrix Algebra with Applications](https://andre-ye.github.io/uni/docs/math/math-208){:target="_blank"} | Thomas | 3 |
 | CSE 391 | [Software and Hardware Tools](https://andre-ye.github.io/uni/uni/docs/cs/cse-391){:target="_blank"} | Anderson | 1 |
-| --- | Total | --- | 18 |
+| --- | Total | --- | 23 |
 
 ## Spring 2022
 
