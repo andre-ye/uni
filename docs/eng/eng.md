@@ -1,12 +1,12 @@
 ---
 layout: default
 title: English
-nav_order: 5
+nav_order: 2
 has_children: true
 permalink: /docs/english
 ---
 
 # English Notes
 
-The Misunderstood Discipline
-{: .fs-6 .fw-300 }
+<!-- The Misunderstood Discipline
+{: .fs-6 .fw-300 } -->
