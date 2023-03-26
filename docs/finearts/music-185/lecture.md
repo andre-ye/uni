@@ -2,7 +2,7 @@
 layout: default
 title: Lecture Notes
 parent: MUSIC 185
-grand_parent: Fine Arts
+grand_parent: Humanities
 nav_order: 1
 ---
 
