@@ -8,5 +8,5 @@ permalink: /docs/business
 
 # Business Notes
 
-The (Generally) Intellectually Isolated Discipline
-{: .fs-6 .fw-300 }
+<!-- The (Generally) Intellectually Isolated Discipline
+{: .fs-6 .fw-300 } -->
