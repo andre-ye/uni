@@ -2,7 +2,7 @@
 layout: default
 title: Reading Notes
 parent: CHID 395
-grand_parent: CHID
+grand_parent: Humanities
 nav_order: 2
 ---
 
