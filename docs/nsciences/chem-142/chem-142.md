@@ -2,7 +2,7 @@
 layout: default
 title: CHEM 142
 parent: Natural Sciences
-nav_order: 1
+nav_order: 142
 permalink: /docs/nsciences/chem-142
 has_children: true
 ---
