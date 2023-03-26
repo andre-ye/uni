@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: CHID
 nav_order: 2
@@ -10,3 +10,4 @@ permalink: /docs/chid
 
 "Wait, what's CHID?"
 {: .fs-6 .fw-300 }
+ -->
