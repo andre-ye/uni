@@ -1,9 +1,9 @@
 ---
 layout: default
 title: CHID 395
-parent: CHID
+parent: Humanities
 nav_order: 395
-permalink: /docs/phil/chid-395
+permalink: /docs/hum/chid-395
 has_children: true
 ---
 
