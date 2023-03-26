@@ -14,21 +14,21 @@ A complete list of the courses I have taken, are taking, or immediately will tak
 
 | Code | Course | Instructor | Credits |
 | --- | --- | --- | --- |
-| HSTAA 465 | [The Sixties in America: Kennedy to the Counterculture](https://andre-ye.github.io/uni/docs/hum/hstaa-465) | Roberts | 5 |
-| PHIL 458 | [Phenomenology](https://andre-ye.github.io/uni/docs/phil/phil-458) | Peters | 5 |
-| ASTR 101 | [Astronomy](https://andre-ye.github.io/uni/docs/nsciences/astr-101) | | 5 |
+| HSTAA 465 | [The Sixties in America: Kennedy to the Counterculture](https://andre-ye.github.io/uni/docs/hum/hstaa-465){:target="_blank"} | Roberts | 5 |
+| PHIL 458 | [Phenomenology](https://andre-ye.github.io/uni/docs/phil/phil-458){:target="_blank"} | Peters | 5 |
+| ASTR 101 | [Astronomy](https://andre-ye.github.io/uni/docs/nsciences/astr-101){:target="_blank"} | | 5 |
 | RUSS 103 | First-Year Russian III | Vukadinovich | 5 |
-| CSE 312 | [Foundations of Computing II](https://andre-ye.github.io/uni/docs/cse/cse-312) | Weber | 4 |
+| CSE 312 | [Foundations of Computing II](https://andre-ye.github.io/uni/docs/cse/cse-312){:target="_blank"} | Weber | 4 |
 | --- | Total | --- | 24 |
 
 ## Winter 2023
 
 | Code | Course | Instructor | Credits |
 | --- | --- | --- | --- |
-| CHID 395 | [Interdisciplinary Praxis Lab](https://andre-ye.github.io/uni/docs/hum/chid-395) | Thurtle | 5 |
-| PHIL 440 | [Ethical Theory](https://andre-ye.github.io/uni/docs/phil/phil-440) | Gardiner | 5 |
-| RUSS 102 | [First-Year Russian II](https://quizlet.com/760079451/russ-102-complete-vocabulary-and-concepts-flash-cards/) | Konatar | 5 |
-| CSE 311 | [Foundations of Computing I](https://andre-ye.github.io/uni/docs/cse/cse-311) | Weber | 4 |
+| CHID 395 | [Interdisciplinary Praxis Lab](https://andre-ye.github.io/uni/docs/hum/chid-395){:target="_blank"} | Thurtle | 5 |
+| PHIL 440 | [Ethical Theory](https://andre-ye.github.io/uni/docs/phil/phil-440){:target="_blank"} | Gardiner | 5 |
+| RUSS 102 | [First-Year Russian II](https://quizlet.com/760079451/russ-102-complete-vocabulary-and-concepts-flash-cards/){:target="_blank"} | Konatar | 5 |
+| CSE 311 | [Foundations of Computing I](https://andre-ye.github.io/uni/docs/cse/cse-311){:target="_blank"} | Weber | 4 |
 | --- | Total | --- | 19 |
 
 ## Fall 2022
@@ -57,28 +57,28 @@ A complete list of the courses I have taken, are taking, or immediately will tak
 
 | Code | Course | Instructor | Credits |
 | --- | --- | --- | --- |
-| [ENGL 131](https://andre-ye.github.io/docs/eng/engl-131){:target="_blank"} | Composition: Exposition | Jennie Baker | 5 |
-| [MATH 125](https://andre-ye.github.io/docs/math/math-125){:target="_blank"} | Calculus w/ Analytic Geometry II | Ricky Liu | 5 |
-| [CSE 143](https://andre-ye.github.io/docs/cs/cse-143){:target="_blank"} | Computer Programming II | Stuart Reges | 5 |
-| [ENTRE 490B](https://andre-ye.github.io/docs/nsciences/entre-490b){:target="_blank"} | Startup Skills for Lavin Founders | Antyush Bollini | 2 |
-| [CSE 390HB](https://andre-ye.github.io/docs/cs/cse-390hb){:target="_blank"} | Special Topics in CSE | Stuart Reges | 1 |
+| [ENGL 131](https://andre-ye.github.io/uni/docs/eng/engl-131){:target="_blank"} | Composition: Exposition | Jennie Baker | 5 |
+| [MATH 125](https://andre-ye.github.io/uni/docs/math/math-125){:target="_blank"} | Calculus w/ Analytic Geometry II | Ricky Liu | 5 |
+| [CSE 143](https://andre-ye.github.io/uni/docs/cs/cse-143){:target="_blank"} | Computer Programming II | Stuart Reges | 5 |
+| [ENTRE 490B](https://andre-ye.github.io/uni/docs/nsciences/entre-490b){:target="_blank"} | Startup Skills for Lavin Founders | Antyush Bollini | 2 |
+| [CSE 390HB](https://andre-ye.github.io/uni/docs/cs/cse-390hb){:target="_blank"} | Special Topics in CSE | Stuart Reges | 1 |
 | --- | Total | --- | 18 |
 
 ## Fall 2021
 
 | Code | Course | Instructor | Credits |
 | --- | --- | --- | --- |
-| [CHEM 142](https://andre-ye.github.io/docs/nsciences/chem-142){:target="_blank"} | General Chemistry | Xiaosong Li | 5 |
-| [MATH 124](https://andre-ye.github.io/docs/math/math-124){:target="_blank"} | Calculus w/ Analytic Geometry I | Natalie Naehrig | 5 |
-| [CSE 142](https://andre-ye.github.io/docs/cs/cse-142){:target="_blank"} | Computer Programming I | Brett Wortzman | 4 |
-| [GEN ST 297](https://andre-ye.github.io/docs/misc/gen-st-297){:target="_blank"} | RC Seminar | Kathryn Grubbs | 2 |
+| [CHEM 142](https://andre-ye.github.io/uni/docs/nsciences/chem-142){:target="_blank"} | General Chemistry | Xiaosong Li | 5 |
+| [MATH 124](https://andre-ye.github.io/uni/docs/math/math-124){:target="_blank"} | Calculus w/ Analytic Geometry I | Natalie Naehrig | 5 |
+| [CSE 142](https://andre-ye.github.io/uni/docs/cs/cse-142){:target="_blank"} | Computer Programming I | Brett Wortzman | 4 |
+| [GEN ST 297](https://andre-ye.github.io/uni/docs/misc/gen-st-297){:target="_blank"} | RC Seminar | Kathryn Grubbs | 2 |
 | GEN ST 199 | The University Community (FIG) | Jiamin Wang | 1 |
-| [CSE 390HA](https://andre-ye.github.io/docs/cs/cse-390ha){:target="_blank"} | Special Topics in CSE | Hunter Schafer | 1 |
+| [CSE 390HA](https://andre-ye.github.io/uni/docs/cs/cse-390ha){:target="_blank"} | Special Topics in CSE | Hunter Schafer | 1 |
 | --- | Total | --- | 18 |
 
 ## Spring 2021
 
 | Code | Course | Instructor | Credits |
 | --- | --- | --- | --- |
-| [ECON 200](https://andre-ye.github.io/docs/business/econ-200){:target="_blank"} | Introduction to Microeconomics | Melissa Knox | 5 |
+| [ECON 200](https://andre-ye.github.io/uni/docs/business/econ-200){:target="_blank"} | Introduction to Microeconomics | Melissa Knox | 5 |
 | --- | Total | --- | 5 |
