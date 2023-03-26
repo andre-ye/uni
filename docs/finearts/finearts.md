@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Fine Arts
 nav_order: 15
@@ -10,3 +10,4 @@ permalink: /docs/finearts
 
 The VLPA Credit Discipline
 {: .fs-6 .fw-300 }
+ -->
