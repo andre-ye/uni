@@ -12,7 +12,7 @@ has_children: true
 Astronomy
 {: .fs-6 .fw-300 }
 
----
+Chris Laws
 {: .label }
 
 Spring 2023
