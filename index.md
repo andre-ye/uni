@@ -13,7 +13,7 @@ Notes from classes, research, speeches, student organizations, and more from the
 {: .fs-6 .fw-300 }
 
 <!-- [Research](https://andre-ye.github.io/uni/docs/research){: .btn .btn-purple } -->
-[PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120){: .btn .btn-blue }
+<!-- [PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120){: .btn .btn-blue }
 [PHIL 401C](https://andre-ye.github.io/uni/docs/phil/phil-401c){: .btn .btn-green }
 [CHEM 142](https://andre-ye.github.io/uni/docs/nsciences/chem-142){: .btn .btn-purple }
 [CSE 142](https://andre-ye.github.io/uni/uni/docs/cs/cse-143){: .btn .btn-blue }
@@ -29,19 +29,33 @@ Notes from classes, research, speeches, student organizations, and more from the
 [MATH 208](https://andre-ye.github.io/uni/docs/math/math-208){: .btn .btn-green }
 [ENGL 284](https://andre-ye.github.io/uni/docs/eng/engl-284){: .btn .btn-purple }
 [ENGL 308](https://andre-ye.github.io/uni/docs/eng/engl-308){: .btn .btn-blue }
-[ECON 200](https://andre-ye.github.io/uni/docs/business/econ-200){: .btn .btn-green }
+[ECON 200](https://andre-ye.github.io/uni/docs/business/econ-200){: .btn .btn-green } -->
 
-[🡠 Explore More](){: .btn }
+<!-- [🡠 Explore More](){: .btn } -->
 
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
 
 ---
 
-I’m Andre, and I’m on a mission to document my college experience. This website serves to host class notes at the University of Washington. I’m pursuing a triple major in Philosophy, Comparative History of Ideas, and Computer Science; as well as a minor in Russian Language.
+I’m Andre, a sophomore at the University of Washington. This website serves to host class notes at the University of Washington, as well as to host and share some of the work I've done in them. I'm pursuing a double major in Philosophy and Computer Science and a minor in Russian Language. I tend to take a fairly wide range of classes, so I hope they are interesting and/or helpful to viewers.
+
+---
+
+## Recent Commits
+View recent updates to this repository.
+
+<center>
+    <iframe id="commitHistory"
+        title="commitHistory"
+        width="70%"
+        height="200"
+        src="https://github.com/andre-ye/uni/commits/master">
+    </iframe>
+</center>
 
 <!-- If you're also a student at the UW and are introduced in contributing your notes, reach out to me at `andreye@uw.edu` for possibilities of collaboration. I'm looking to convert this site from a personal project into a wide-ranging repository for college notes and content, if there are people willing to work with me to that end. -->
 
----
+<!-- ---
 
 ## Announcements
 
@@ -69,4 +83,4 @@ I’m Andre, and I’m on a mission to document my college experience. This webs
 
 | **2/11/2022** CSE 143 midterm reminders and problem schemes have been added. |
 
-| **2/9/2022** Lecture notes for all of CSE 142 have been added. |
+| **2/9/2022** Lecture notes for all of CSE 142 have been added. | -->
