@@ -9,7 +9,7 @@ permalink: /
 # Uni Notes
 {: .fs-9 }
 
-Notes from classes, research, speeches, student organizations, and more from the University of Washington (from a 4.0 CGPA student!).
+Open-sourced notes material from courses at the University of Washington
 {: .fs-6 .fw-300 }
 
 <!-- [Research](https://andre-ye.github.io/uni/docs/research){: .btn .btn-purple } -->
@@ -37,7 +37,7 @@ Notes from classes, research, speeches, student organizations, and more from the
 
 ---
 
-I’m Andre, a sophomore at the University of Washington. This website serves to host class notes at the University of Washington, as well as to host and share some of the work I've done in them. I'm pursuing a double major in Philosophy and Computer Science and a minor in Russian Language. I tend to take a fairly wide range of classes, so I hope they are interesting and/or helpful to viewers.
+I’m [Andre](https://andre-ye.github.io){:target="_blank"}, a sophomore at the University of Washington. This website serves to host class notes at the University of Washington, as well as to host and share some of the work I've done in them. I'm pursuing a double major in Philosophy and Computer Science and a minor in Russian Language. I tend to take a fairly wide range of classes, so I hope they are interesting and/or helpful to viewers.
 
 ---
 
