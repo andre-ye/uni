@@ -44,14 +44,37 @@ I’m [Andre](https://andre-ye.github.io){:target="_blank"}, a sophomore at the 
 ## Recent Commits
 View recent updates to this repository.
 
-<center>
+<div id='commits'></div>
+<script src='https://code.jquery.com/jquery-2.2.1.min.js'></script>
+<script>
+var path = $('#commits').data('path');
+var url = 'https://api.github.com/repos/andre-ye/uni/commits?path='+path;
+$.ajax({type:'GET',
+        url:url,
+        success: function(data){
+    var str="<table class='docutils'><thead><tr><th>message</th><th>date</th><th>author</th><th>link</th></tr></thead><tbody>";
+    for(var idx=0;idx<data.length && idx<10;idx++){
+      var one = data[idx];
+      var d = one.commit.author.date.substr(0,10);
+      var t = one.commit.author.date.substr(11,10);
+      str+="<tr><td>"+one.commit.message+"</td><td>"
+          +d+" "+t+"</td><td>"
+          +one.commit.author.name+"</td><td>"
+          +"<a href='"+one.html_url+"'>"+one.sha.substr(0,7)+"</a></td></tr>";
+    }
+    str+="</tbody></table>";
+    $('#commits').html(str);
+}});
+</script>
+
+<!-- <center>
     <iframe id="commitHistory"
         title="commitHistory"
         width="70%"
         height="200"
         src="https://github.com/andre-ye/uni/commits/master">
     </iframe>
-</center>
+</center> -->
 
 <!-- If you're also a student at the UW and are introduced in contributing your notes, reach out to me at `andreye@uw.edu` for possibilities of collaboration. I'm looking to convert this site from a personal project into a wide-ranging repository for college notes and content, if there are people willing to work with me to that end. -->
 
