@@ -25,7 +25,7 @@ ASTR 101
 
 ---
 
-## Chapter 1: Introduction
+## Chapter 1: Science and the Universe -- A Brief Tour
 
 ### 1.1: The Nature of Astronomy
 - Astronomy -- obejcts which lie beyond Earth
@@ -63,8 +63,49 @@ ASTR 101
 - Earth is one of eight planets which go around the sun.
 - The Sun is a local star
 - Galaxy -- Milky Way Galaxy -- a giant disk with a small ball
+- The space between stars is not completely empty, it has some gas and some small particles
+- Interstellar material is very sparse
+- Dust in space can block up light of distant stars
+- Dark matter -- its gravity is exerted on stars, but we do not know what it is made of.
+- Some stars are involved in double or triple systems
+- No star lasts forever; eventually all stars run out of fuel.
 
+### 1.7: The Universe on the Large Scale
+- The universe is made up of a large number of galaxies.
+- Universe: everything accessible to our observations
+- Galaxies -- island universes, groups of stars in intergalactic space
+- Local group -- a cluster of about 50 galaxies
+- Galaxies occur mostly in clusters, large and small
+- Superclusters -- Virgo Supercluster, local group is part of this
+- Quasars -- centers of galaxies. These are the brightest things we can see, including close to the big bang explosion which begins time.
 
+### 1.8: The Universe of the Very Small
+- The Galaxy is mostly empty space
+- One atom per cubic centimeter in interstellar Galaxy gas
+- Dense places like the human body are very rare in the universe
+- Cosmically abundant elements: hydrogen, carbon, nitrogen, oxygen
+
+---
+
+## Chapter 2: Observing the Sky -- The Birth of Astronomy
+### 2.1: The Sky Above
+- Geocentric view: humans as the central focus of the cosmos. 
+- One of the great monuments of our intellectual history is to overthrow geocentrism.
+- Zenith -- point directly above you; horizon -- dome meets surface of Earth
+- Celestial sphere, Greeks
+- North and south celestial pole
+- The sun changes position
+- The Sun takes a ecliptic path
+- Fixed and wandering stars
+
+### 2.2: Ancient Astronomy
+
+### 2.3: Astrology and Astronomy
+
+---
+
+## Chapter 4: Earth, Moon, and Sky
+- 
 
 
 
