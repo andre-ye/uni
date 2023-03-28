@@ -12,26 +12,23 @@ permalink: /
 Open-sourced notes material from courses at the University of Washington
 {: .fs-6 .fw-300 }
 
-<!-- [Research](https://andre-ye.github.io/uni/docs/research){: .btn .btn-purple } -->
-<!-- [PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120){: .btn .btn-blue }
-[PHIL 401C](https://andre-ye.github.io/uni/docs/phil/phil-401c){: .btn .btn-green }
-[CHEM 142](https://andre-ye.github.io/uni/docs/nsciences/chem-142){: .btn .btn-purple }
-[CSE 142](https://andre-ye.github.io/uni/uni/docs/cs/cse-143){: .btn .btn-blue }
-[CSE 143](https://andre-ye.github.io/uni/uni/docs/cs/cse-143){: .btn .btn-green }
-[CSE 351](https://andre-ye.github.io/uni/docs/cs/cse-351){: .btn .btn-purple }
-[CSE 390HA](https://andre-ye.github.io/uni/docs/cs/cse-390ha){: .btn .btn-blue }
-[CSE 390HB](https://andre-ye.github.io/uni/docs/cs/cse-390hb){: .btn .btn-green }
-[CSE 391](https://andre-ye.github.io/uni/docs/cs/cse-391){: .btn .btn-purple }
-[MATH 124](https://andre-ye.github.io/uni/docs/math/math-124){: .btn .btn-blue }
-[MATH 125](https://andre-ye.github.io/uni/docs/math/math-125){: .btn .btn-green }
-[MATH 126](https://andre-ye.github.io/uni/docs/math/math-126){: .btn .btn-purple }
-[MATH 126](https://andre-ye.github.io/uni/docs/math/math-126){: .btn .btn-blue }
-[MATH 208](https://andre-ye.github.io/uni/docs/math/math-208){: .btn .btn-green }
-[ENGL 284](https://andre-ye.github.io/uni/docs/eng/engl-284){: .btn .btn-purple }
-[ENGL 308](https://andre-ye.github.io/uni/docs/eng/engl-308){: .btn .btn-blue }
-[ECON 200](https://andre-ye.github.io/uni/docs/business/econ-200){: .btn .btn-green } -->
+Try out some important/interesting classes:
 
-<!-- [🡠 Explore More](){: .btn } -->
+[PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120){: .btn .btn-blue }
+[PHIL 401C](https://andre-ye.github.io/uni/docs/phil/phil-401c){: .btn .btn-green }
+[PHIL 440](https://andre-ye.github.io/uni/docs/phil/phil-440){: .btn .btn-purple }
+[PHIL 458](https://andre-ye.github.io/uni/docs/phil/phil-458){: .btn .btn-blue }
+[CHEM 142](https://andre-ye.github.io/uni/docs/nsciences/chem-142){: .btn .btn-green }
+[CSE 143](https://andre-ye.github.io/uni/uni/docs/cs/cse-143){: .btn .btn-purple }
+[CSE 351](https://andre-ye.github.io/uni/docs/cs/cse-351){: .btn .btn-blue }
+[MATH 125](https://andre-ye.github.io/uni/docs/math/math-125){: .btn .btn-green }
+[MATH 208](https://andre-ye.github.io/uni/docs/math/math-208){: .btn .btn-purple }
+[ENGL 308](https://andre-ye.github.io/uni/docs/eng/engl-308){: .btn .btn-blue }
+[ECON 200](https://andre-ye.github.io/uni/docs/business/econ-200){: .btn .btn-green }
+[CHID 395](https://andre-ye.github.io/uni/docs/hum/chid-395){: .btn .btn-purple }
+[HSTAA 465](https://andre-ye.github.io/uni/docs/hum/hstaa-465){: .btn .btn-blue }
+
+[🡠 Explore More](){: .btn }
 
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
 
@@ -44,28 +41,7 @@ I’m [Andre](https://andre-ye.github.io){:target="_blank"}, a sophomore at the 
 ## Recent Commits
 View recent updates to this repository.
 
-<div id='commits'></div>
-<script src='https://code.jquery.com/jquery-2.2.1.min.js'></script>
-<script>
-var path = $('#commits').data('path');
-var url = 'https://api.github.com/repos/andre-ye/uni/commits?path='+path;
-$.ajax({type:'GET',
-        url:url,
-        success: function(data){
-    var str="<table class='docutils'><thead><tr><th>message</th><th>date</th><th>author</th><th>link</th></tr></thead><tbody>";
-    for(var idx=0;idx<data.length && idx<10;idx++){
-      var one = data[idx];
-      var d = one.commit.author.date.substr(0,10);
-      var t = one.commit.author.date.substr(11,10);
-      str+="<tr><td>"+one.commit.message+"</td><td>"
-          +d+" "+t+"</td><td>"
-          +one.commit.author.name+"</td><td>"
-          +"<a href='"+one.html_url+"'>"+one.sha.substr(0,7)+"</a></td></tr>";
-    }
-    str+="</tbody></table>";
-    $('#commits').html(str);
-}});
-</script>
+[Commit History](https://github.com/andre-ye/uni/commits/master){:target="_blank" .btn .btn-purple } 
 
 <!-- <center>
     <iframe id="commitHistory"
