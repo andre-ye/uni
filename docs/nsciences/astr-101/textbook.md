@@ -97,18 +97,100 @@ ASTR 101
 - The sun changes position
 - The Sun takes a ecliptic path
 - Fixed and wandering stars
+- Planets -- wandering stars; planet means wanderer in ancient Greek
+- Constellations: geometric patterns formed by groupings of stars
+- Telescopes reveal millions of stars which are too small for the eye to see
+- Constellation refers to 88 sectors of the sky
 
 ### 2.2: Ancient Astronomy
+- Ancient astronomers were able to grasp the length of a year
+- Cosmology: our concept of the basics tructure and origin of the cosmos
+- Eastern Mediterraneans knew Earth was round; Pythagoras may have pioneered round earthers
+- Parallax: the apparent shift in the direction of an object as a result of the motion of the observer
+- Stellar parallax: shift in the apparent direction of a star due to Earth's orbital motion. Stars however did not seem to shift in spring vs in fall, when Earth is on the opposite side of the sun.
+
+> This meant either that Earth was not moving or that the stars had to be so tremendously far away that the parallax shift was immeasurably small. A cosmos of such enormous extent required a leap of imagination that most ancient philosophers were not prepared to make, so they retreated to the safety of the Earth-centered view, which would dominate Western thinking for nearly two millennia.
+
+- Eratosthenes: measuring a single angle in one region allowed for determining the size of th Earth.
+- Hipparchus: measured positions of objects in the sky and provided the coordinates for understanding this world. The position in the sky over the north pole changed over the previous 1.5 century. Earth must be doing the wobbling. **Precession**: the direction in which Earth's axis points
+- Ptolemy: geometric representation of the solar system which predicted the position oft he planets.
+- Epicycle: each planet revolves in a local circle as well as in a broader circle. However it was in fact that the planets travelled in ellipses; circles do not work.
+- Will the revolution be Copernican or a Ptolemization? -- a Ptolemization requires increasing complex analyse sand mechanisms to make it work.
 
 ### 2.3: Astrology and Astronomy
+- Planets and stars as symbols of gods and the supernatural, the metaphysical (technology is the making of the metaphysical into the physical)
+- Astrology begins in Babylon
+- Natal astrology -- Ptolemy, the *Tetrabiblos*. An ancient religion of shorts
+- Horoscopes -- mappings of birth to the position of stars in the sky
+- Astrologists posit unknown forces exerted by planets -- epistemic inaccess
+- Why do we identify with horoscopes? Maybe they are true in the more philosophical sense, that we feel the need to identify a particularity of ourselves, and the truth of the horoscope -- and its sadness -- is that this particularity is totally arbitrary. So maybe we should think about how even if we turn away from astrological horoscopes, we turn towards other horoscopes -- my college major, my interests, my quirkiness, etc.
+- 
 
 ---
 
 ## Chapter 4: Earth, Moon, and Sky
-- 
+
+### 4.1: Earth and Sky
+- Great circle -- any circle whose center is at the center of the sphere
+- Meidian
+- Longitude of the prime meridian is 0 degrees; it passes through Greenwich, England.
+- Declination and right ascension: make use of a fictitious celestial sphere.
+- Why does the Earth turn? Jean Foucault and the pendulum
+
+### 4.2: The Seasons
+- There are significant variations in heat received from the Sun throughout the year
+- Seasons: different amount of sunlight.
+- Seasons are not the result of changing distance between the earth and the sun. Seasons are actually caused by the 23.5 degree tilt of the Earth's axis.
+- Arctic and Antarctic circles -- the place where sun can hit all day long
+- Hottest months are July and August because the Sun progressively heats it up even after the summer solstice
+
+### 4.3: Keeping Time
+- Solar day: rotation period of Earth w.r.t. the Sun
+- Sidereal day: defined in terms of rotation period of Earth w.r.t. stars
+- **Why can't we just measure how much Earth rotates 'on its own'? **
+- Apparent solar time: actual position of the Sun in the sky, given by sundials. 
+- Mean solar time: average value of the solar day over the course of the year. 24 hours
+- Standardization of time zones: noon is different for everyone
+- Travelers reset watches only when time change accumulates to a full hour.
+- New time zone ever 15 degrees longitude. 
+- International Date Line: set at 180 degree meridian. By convention the date of the calendar is changed.
+
+> To maintain our planet on a rational system of timekeeping, we simply must accept that the date will differ in different cities at the same time.
+
+- What is time, really? Because I can't observe something happening in Japan at the same time. What is the rigorous way to understand 'at the same time'?
+
+### 4.4: The Calendar
+- Day (Earth), month (based on moon cycles), and year (Sun)
+- Chinese: 12-year cycle of Jupyter, retained in the Zodiac
+
+```
+day, month, year, zodiac cycle
+earth, moon, sun, jupiter
+```
+
+- Julian calendar: year as 365.25 days
+- Julian calendar differs from the true year by about 11 minutes. Reformation by Pope Gregory XIII.
+- Gregorian calendar: only century years divisible by 400 are leap years; also move the calendar forward 10 days. The average length of the Gregorian calendar is correct to 1 day in 3300 years
+- Gregorian calendar was adopted immediately by catholic countries and later by other countries
+- Russia did not abandon the Julian calendar until the Bolshevik revolution; Russians omitted 13 days to sync with the rest of the world.
+
+### 4.5: Phases and Motions of the Moon
+-  
 
 
+### 4.7: 
 
+---
+
+## Philosophical Relevance
+Personal notes
+- Ptolemization (reactionary) vs Copernican (revolutionary, new coordinates)
+- Ptolemization requires an increasingly complex series of mecahnisms to accomodate reality
+- Eratosthenes: measure the world with an angle (particularity to understand universality)
+- Horoscopes: the arbitrariness of the scientific factors we choose to determine ourselves.
+- Astronomists adopt the fictitious celestial sphere to literally define the coordinates of the sky.
+- We need a star to measure and mark time
+- Calendars: the necessity of time and the flacidity of skipping time
 
 
 
