@@ -25,7 +25,7 @@ HSTAA 465
 
 ---
 
-## Lecture 1:
+## Lecture 1: The 1960s -- A Crisis of National Unity
 Unfortunately my notes previously were lost because my computer lost battery and GitHub was stalling :(
 
 - What is meant by consensus? Enough to provide definitiona nd form to the dominant culture
@@ -56,6 +56,25 @@ Unfortunately my notes previously were lost because my computer lost battery and
 	- Rivers catching on fire (Cuyahoga river fire, 1969)
 	- Progressive nations, looking forward.
 	- "the US has no history"
+	- Fear of nuclear war, fallout, the world is falling -- the environment is collapsing. What is going to happen going forward?
+	- The future is not necessarily better, and we see in this generation that the future indeed will pose large problems.
+- Social liberation.
+	- Civil rights -- we see the unacknowledged dominance of white men in society accepted
+	- Generally normal, understood, and accepted.
+	- "Good white people" (Malcolm X)
+	- My life is my life, I'm not directly involved in oppression of black people: that's not my problem. An unchecked sense of superiority
+	- Civil rights movements often conflict with each other: for instance there was a heavy dose of chauvanism running in the Black Panther Party.
+- War.
+	- Previous idea: America fights just wars and always wins.
+	- Always in defense, never an aggressor
+	- All problematic ideas. Why don't Ameircans know about the Phillipine war? Or much about the Korean war? Indigenous wars?
+	- A source of shame emerged in the 1960s from Vietnam etc.: and a need to place **blame**. Who is to be blamed?
+	- Americans aren't exceptional -- as demonstrated in Afghanistan.
+	- The Civil War: different visions for the future; a radical abolitionist perspective, and also the ameleriorist vision which dominated and produced Jim Crow laws: America does not want to commit the Civil War to memory. Generations later, the Daughters of the Confederacy make the move to build the narrative of *lost cause*: the Confederates were still brave and noble men, just happening to be on the wrong side of the battle -- states rights, etc. 
+	- What stories do we tell ourselves about what we are and where we came from?
+	- The lost cause vision reinforces a white supremacist vision of America: rebirth of a nation.
+	- Why were there so few executions after the Civil War? After the Dakota uprising, 38 Sioux leaders were hung. What kind of reconciliation did America settle with?
+- Project idea: Understanding the relationship between analytic philosophers, educational institutions, and radical student movements in the 1960: precisely how analytic philosophy reconciled this with its political neutral and castrated philosophical position.
 
 
 
