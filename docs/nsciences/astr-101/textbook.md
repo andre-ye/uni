@@ -175,10 +175,34 @@ earth, moon, sun, jupiter
 - Russia did not abandon the Julian calendar until the Bolshevik revolution; Russians omitted 13 days to sync with the rest of the world.
 
 ### 4.5: Phases and Motions of the Moon
--  
+- The Moon glows from reflected sunlight
+- The Moon follows phases
+- The Sun moves 1/12 of its path around the sky every month
+- How much of the face we see illuminated by sunlight depends on the angle the Sun makes with the Moon
+- Moon -- new when it is between the sun and the Earth -- the moon is invisibile to us
+- It takes 30 days for the moon to orbit the Earth
+- lunacy -- lunar
+- Sidereal month: 27.3217 days -- period of revolution about Earth measured wrt the stars.
+- Moon rotates on its axis in the same time it takes to revolve around the earth; and so it always keeps the same face towards Earth. *Synchronous rotation*.
+  - **Q:** This seems like too good of a coincidence to be true. Why?
 
+### 4.6: Ocean Tides and the Moon
+- The Earth is not perfectly rigid
+- The moon exerts gravitational forces on the Earth
+- Earth is an oblate spheroid
+- Tide forces produce tidal bulges in the oceans; water gathers towards the moon.
+- Neap tides: when the moon is in the 1st or last quarter, tides produced byt he sun partially cancel tides of the moon
+- However, land masses stop the flow of water, the ocean has variable depth, etc.; so tides change a lot.
 
-### 4.7: 
+### 4.7: Eclipses of the Sun and Moon
+- An object in the solar system casts a shadow when it blocks the light of the Sun
+- Eclipse: any part of the earth or moon enters the shadow of the other
+- Moon's shadow strikes earth: people in the shadow see the sun partially covered by the moon (solar eclipse)
+- Earth passes into the shadow of earth: people in the night side of Earth see the moon darken (lunar eclipse)
+- Umbra: cone where the shadow is darkest; penumbra: where the shadow is more diffuse
+- A lunar eclipse is visible to everyone who can see the moon
+- Even when eclipsed, the Moon appears red (why?) **Q**
+- Corona: the thn outer atmosphere of the Sun visible during a total solar eclipse.
 
 ---
 
@@ -191,7 +215,7 @@ Personal notes
 - Astronomists adopt the fictitious celestial sphere to literally define the coordinates of the sky.
 - We need a star to measure and mark time
 - Calendars: the necessity of time and the flacidity of skipping time
-
+- Lunar eclipse: anyone who can see the moon can watch it be eclipsed by the ground they stand upon
 
 
 
