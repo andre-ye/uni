@@ -100,6 +100,49 @@ HSTAA 465
 - The courage to cling to 'our conceptions' of human society -- do not cope, do not allow the parasite to take over.
 - Interesting ideological analysis which can be done on this work -- contradictions and tensions abound.
 
+### Kitchen Debates, 1959
+- Nixon and Khrushchev -- at the US Embassy in Moscow
+- Nixon showing kitchen to Khrushchev.
+- The kitchen is equipped with appliances to make women's lives easier -- Khrushchev says that this 'capitalist attitude' towards women does not occur under Communism. 
+- Universalization of the domestication of women -- making life easier
+- Differences of temporality -- what goes out of date and what doesn't?
+- What is the Soviet man? Not quite so backwards as in the American imagination...
+- Who is the slave? who has freedom?
+- Free exchange and free ideas -- but what is the critical particular edge to universalizing free exchange?
+- Battle of progresion -- who will go further?
+- The question of translation and mutual understanding
+
+### Montgomery Bus Boycott Threat, 1954
+- *Women's* political council
+- Mediocre reform: black people sit from back to front, and white people from front to back
+- Patronization of buses by black people
+
+### Brown v. Board of Education, 1954
+- 14th amendment invoked -- separation of white and black children in public schools on the basis of race
+- Segregation deprives minority children of equal opportunity even if 'tangible' factors are equal
+- Separate but equal in Plessy v. Ferguson cannot continue
+- Segregated public schools can never be equal; they are deprived of equal protection
+  - Beyond differential outcomes: what would be wrong about separate but equal but *truly* equal, assuming this is hypothetically possible? Or is this a false question?
+- Removal of legal distinctions?
+- Equalization of 'tangible' factors -- the decision cannot turn on a comparison of the material consequential outcomes, but rather the effect of *segregation itself* (yes! my previous question)
+- Education is an important governmental function, and it is important for a democratic society. Education is a right.
+- Does segregation of children on race deprive minority children of equal educational opportunities? SC opinion: it does.
+  - Generation of feelings of inferiority, which impedes learning
+  - Appeal to psychological finding
+  - Separate educational facilities are inherently unequal (can this be applied to other dimensions which we feel are more acceptable?)
+
+### Birmingham Public Accommodation Segregation Laws
+- Unlawful for control of any area in which both black and white people are allowed with equal geophysical relation
+- White and nonwhite people must be separated in different rooms or by a partition in restaurant
+- A black and white person *cannot play together*
+- Equal but separate accomodation for black and white people
+- Take the seat to which you *belong*
+- Interesting geopolitical divide of space: and why? Maybe it is a naive question: but why this doctrine of separate but equal? Why spatial demarcation?
+
+### Southern Manifesto, 1956
+
+### *Howl*, 1955
+- 
 
 ---
 
