@@ -56,8 +56,8 @@ CSE 312
   - $$C(n, 0) = 1$$, $$C(n, n) = 1$$
 - This trick of 'what happens if order does matter?' will be useful later on
 - Path counting on a $$a \times b$$ Cartesian lattice: $$_nC_k$$ unique paths from bottom left to top right corner only moving up and right
-- 
-
+- Anagrams of "seattle", not $$7!$$ but $$7! / 4$$
+- Is there an interpretation of this as a choosing problem?
 
 
 
