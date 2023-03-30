@@ -140,9 +140,19 @@ HSTAA 465
 - Interesting geopolitical divide of space: and why? Maybe it is a naive question: but why this doctrine of separate but equal? Why spatial demarcation?
 
 ### Southern Manifesto, 1956
-
-### *Howl*, 1955
-- 
+- Supreme Court involvement in segregation cases -- "substitute naked power for established law"
+- Appeal to Founding Fathers, legal conservatism, overstepping of the Constitution, abuse of judicial power
+- "Climaxes a trend" in the judiciary branch to legislate -- increasing 'politicization' of the court?
+- Constitution does not mention education
+  - Essentially a shallow and strict textualist reading
+- Argument that the 14th amendment odes not conflict with the doctrine of separate but equal
+- Appeal to the right of parents to direct their children's education
+  - What is wrong about this?
+  - Maybe we should dismantle the parental instinct.
+- The court ruling is "destroying amicable relations" -- a vision of a fall from purity, now suspicion and hatred
+- "outside meddlers"
+- Some states declared resistance to forced integration
+- No appeal at all to the actual separate but equal law -- instead an appeal to the protection of racial discrimination under the Constitution, or at least the lack of objection to it which can be found in the Constitution
 
 ---
 
