@@ -59,7 +59,21 @@ CSE 312
 - Anagrams of "seattle", not $$7!$$ but $$7! / 4$$
 - Is there an interpretation of this as a choosing problem?
 
+---
 
+## Week 1 Friday -- More Counting
+- Multinomial coefficient: in general, $$\binom{k}{a, b, ..., z} = \frac{k!}{a!b!...z!}$$.
+- Symmetry of combinations: $$\binom{n}{k} = \binom{n}{n-k}$$
+- Pascal's rule: $$\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}$$
+  - You can $$n - 1$$ people are trying out for a $$k$$ person time
+  - Can calculate as n choose k
+  - Can also say: number of teams without me plus number of teams with me
+- Binomial theorem: $$(x + y)^n = \sum_{i=0}^n \binom{n}{i} x^i y^{n-i}44
+  - $$2^n = \sum_{i=0}^n \binom{n}{i}$$
+- Inclusion-exclusion principle
+  - $$|A \cup B| = |A| + |B| - |A \cap B |$$
+  - $$|A \cup B \cup C| = |A| + |B| + |C| - |A \cap B| - |B \cap C| - |A \cap C| + |A \cap B \cap C|$$
+  - 
 
 
 

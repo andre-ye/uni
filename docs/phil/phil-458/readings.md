@@ -2,7 +2,7 @@
 layout: default
 title: Reading Notes
 parent: PHIL 458
-grand_parent: Phenomenology
+grand_parent: Philosophy
 nav_order: 2
 ---
 
