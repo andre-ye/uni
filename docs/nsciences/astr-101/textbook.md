@@ -124,7 +124,25 @@ ASTR 101
 - Horoscopes -- mappings of birth to the position of stars in the sky
 - Astrologists posit unknown forces exerted by planets -- epistemic inaccess
 - Why do we identify with horoscopes? Maybe they are true in the more philosophical sense, that we feel the need to identify a particularity of ourselves, and the truth of the horoscope -- and its sadness -- is that this particularity is totally arbitrary. So maybe we should think about how even if we turn away from astrological horoscopes, we turn towards other horoscopes -- my college major, my interests, my quirkiness, etc.
+
+### 2.4: The Birth of Modern Astronomy
+- Many names for stars come from Arabic
+- Copernicus -- new Sun-centered, heliocentric model of the solar system
+- If Earthw were moving, we would feel this motion -- objection to Copernian revolution. 
+- Copernicus could not prove the Earth revolves around the Sun, but appealed to the lack of beauty in Ptolemaic cosmology.
+- Galileo: pioneered many modern principles of science
+  - Greatest contributions were to mechanics
+  - Acceleration 
+  - Pioneered telescope
+  - Interesting question -- what is the believability of microscopes? What does it mean to see something as if you had a 'small eye'?
+- Galileo confirmed the Copernican hypothesis
+- The Roman Catholic Church condmened Galileo.
+- Modernity: nature is rational and ultimately knowable through experimetns and observations
 - 
+
+---
+
+## Chapter 3:
 
 ---
 
