@@ -142,7 +142,62 @@ ASTR 101
 
 ---
 
-## Chapter 3:
+## Chapter 3: Orbits and Gravity
+### 3.1: The Laws of Planetary Motion
+- Tycho Brahe, Johannes Kepler
+- Brahe: recorded the loction of the sun, moon, and the planets
+- Kepler helped understand the planetary data; developed Kepler's three laws
+- Orbit: path of an object through space. Orbits are ellipses
+- Major axis (widest) and semimajor axis
+- Eccentricity: ratio of distance between foci to the length of the major axis
+- First law: orbits of all planets are ellipses -- no need to move things in circles.
+- Second law: planets speed up when they come closer to the sun and slow down when they get away. The area swept out in space over time along the orbit relative to the sun is always equal in equal intervals of time.
+- Third law: a planet's orbital period squared is proportional to the semimajor axis of its orbit cubed
+  - A planet's semimajor axis is equal to its average distance from the sun
+  - Orbital period: time it takes for a planet to travel once around the sun
+  - When the orbital period is measured in years and the semimajor axis in AUs, $$P^2 = a^3$$
+  
+### 3.2: Newton's Great Synthesis
+- Science first called natural philosophy
+- Newton's first law: an object will continue to be in a state of rest or move at a constant speed in a straight line without external influence
+  - Conservation of momentum
+  - Momentum: mass times velocity
+- Newton's second law: the change of motion of a body is proportional to and in the direction of the force acting on it
+  - A force is required to change speed and/or direction
+- Newton's third law: for every action there is an equal and opposite reaction
+  - Acceleration of a body is proportional to the force being applied to it. 
+  - Generalization of the first law
+  - Lets us define mass
+  - In a system isolated from outside influences, total momentum of objects should remain constant (law 1)
+  - Change in momentum *has to be balanced* by another change which is equal and opposite
+  - There is always a pair of forces; if a force is exerted on an object, the object exerts another equal and opposite force.
+  - What really is force as formalized?
+- Mass -- measure of material in an object
+- Volume -- amount of physical space occupied
+- Density -- mass per volume
+- Angular momentum: measure of rotation of a body revolving around a fixed point
+- Kepler's second law: conservation of anglar momentum
+
+### 3.3: Newton's Universal Law of Gravitation
+- Newton: gravity causes planets to move in ellipses, rather than straight lines (as per the first law)
+- Pre-Newton: gravity applies only to Earth.
+- Earth's gravity can extend as far as the moon and curve the path to a straight line.
+- Universal attraction among all bodies everywhere in space
+- Newton invented calculus to deal with problems in universal attraction
+- Magnitude of the force of gravity must decrease with increasing distance between the sun and the planet in proportion to the inverse square of their separation
+- Gravity gives us our sense of weight
+- Why does the moon not fall in? Why in general would bodies orbit and not spiral out or in? It seems like equilibrium is fragile
+- Gravity is built into the concept of mass: wherever there is mass, there is attraction.
+- What constitutes a 'body'? Because if you break it down all it really is is atoms together, right? Is it density? How are we defining an object? Isn't that kind of a subjective imposition?
+- Gravity can never become zero, even though it can become infinitely weaker
+- Astronauts feel weightless because they are falling: you accelerate at the same rate as everything around you, and so you experience no additional forces. So you continue to fall through, but not towards earth but around it.
+- Orbital motion and mass: factoring in masses shows us that the orbital period squared times the sum of the two bodies' masses equals the semimajor axis cubed.
+
+### 3.4: Orbits in the Solar System
+
+### 3.5: Motions of Satellites and Spacecraft
+
+### 3.6: Gravity with More Than Two Bodies
 
 ---
 
