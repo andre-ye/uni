@@ -32,8 +32,64 @@ Translated by Dorion Cairns
 Decartes' Meditations as the prototype of philosophical reflection
 - Decartes as France's greatest thinker
 - Transcendental phenomenology as a neo-Cartesianism, even though it thoroughly rids itself of the doctrines of Cartesian philosophy
-- *Meditationes de prima philosophia* -- a grounding of philosophy into a science
-<!-- - Radical rebuilding of  -->
+- *Meditationes de prima philosophia* -- a grounding of philosophy into a science, the need to bind philosophy to axioms
+- Philosophy is a personal affair -- self acquired knowledge which "tends" towards the universal, to reason through knowledge.
+- One of the first things one should reflect on when building a first philosophy is epistemology
+- Decartes employs a regress to the ego as a subject of pure cogitationes (thinking process) through the method of doubt. Nothing is accepted as existent unless it cannot become doubtful. 
+  - Decartes doubts sensuous experience and the natural world
+  - Only the cogitationes has undoubtable existence; it cannot be doubtable
+  - Decartes therefore is kind of solipsistic
+  - How can we deduce an objective outwards? God, then Objective Nature.
+
+The necessity of a radical new beginning of philosophy
+- The positive sciences have paid very little attention to the meditations even though they find their grounding in it.
+- The *Meditations* were epoch-making because it turned (back) to the pure ego cogito: from naive Objectivism to transcendental subjectivism
+- The striving of transcendental subjectivism towards a 'necessary final form'
+  - the fuck is "radical transmutation"?
+- The decline of Western philosophy as a unitary science in the mid 1800s -- faith in 'autonomous philosophy' grew. But now it is falling too
+- The semblance of pihlosophizing seriously -- pseudo-everything. The striving to produce objective results. But the philosophies do not share the same conceptual space
+- Time to renew the radicality of the Carteisan overthrow
+- Interesting that Husserl takes a historical approach here
+- The radicality of philosophical self-responsibility: to be self-contained and true, to not fetishize itself, to be authentic and genuine. 
+
+### First Meditation: The Way to the Transcendental Ego
+The Cartesian overthrow and the guiding final idea of an absolute grounding of science
+- The making of a new beginning: so we cannot start from existing sciences, we need a radically genuine science.
+- Why this very idea that scince should be grounded absolutely? We cannot presuppose this
+- Decartes presupposed the structure of science in his overthrow of science: we shall not so quickly accept the normative ideal of science
+- We cannot even presuppose the possibility of an absolute grounding of science -- here Husserl is very cautious
+- We will temporarily assume the general idea of science
+
+Uncovering the final sense of science by becoming immersed in science qua noematic phenomenon
+- The concept of science is not abstraction from the 'de facto sciences': the sciences involve a claim which is already satisfied. (What???)
+- What is 'genuine science'?
+- Judicative doing vs judgement
+- Mediate judgements: believing presupposes beliving others
+- Grounded judgements: showing the correctness or truth of the judgement
+- The showing of the truth of the grounded judgement is itself mediate
+- **Cognition** is the reactualizing and awareness of the truth in grounded judgeents
+- **Evidence**: judgmeents show themselves to be correct; i.e. in agreement with the *judged* state of affairs.
+  - Judging is meaning
+  - When one has evidence, it is not merely believed, but apprehended or experienced. We have the state of affairs itself, not necessarily a representation. This gives evidence its pre-eminent judicative meaning.
+- The scientist does not merely intend to judge, but to ground judgements: there must be a 'freely actualizable return to his repeatable act of grounding'-- this is what is meant by being apprehended, at hand
+- Pre-predicative: prior to expression in language
+- Judgement and evidence as being meant or viewed is different from a 'presymbolic' 'pre-predicative' state; being viewed means being given an expression in a language via prediction (something as a property of a subject). Evidence of the expression is an important part of scientific truth. ('second order', 'meta-')
+
+
+Evidence and the idea of genuine science
+- Evidence is a very broad sense -- experiencing of something which is ('mental seeing').
+- Conflict with evidence is negative evidence as the form of a judgement ("positive evidence of the affair's non-being")
+- Perfect evidence, pure & genuine truth: strivings of knowledge; science looks towards universal truths, which requires different verifications 'carried through to the end'
+- **Science does not actualize absolute truths (even though it acts like it does), but rather modifies its "truths", tends towards improved approximations**
+  - Science believes it can transcend itself
+  - The idea of science requires beginning with a concept of the noumenal
+- Everything which makes a philosophical beginning, we must acquire 'ourselves' 
+  - How to make something out of nothign?
+- First methodological principle: I cannot accpet any judgement as scientific which I have not derived from evidence (experiences) which make themselves apparent to me as themselves.
+  - "It is plain that..." -- appeal to what, intuition?
+- The sciences aim to symbolize what is held presymbolically (pre-predicatively)
+- Now, a normative principle of evidence emerges and will be used henceforth
+- A systematic order of cognitions. 
 
 ---
 
