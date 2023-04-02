@@ -68,7 +68,7 @@ CSE 312
   - You can $$n - 1$$ people are trying out for a $$k$$ person time
   - Can calculate as n choose k
   - Can also say: number of teams without me plus number of teams with me
-- Binomial theorem: $$(x + y)^n = \sum_{i=0}^n \binom{n}{i} x^i y^{n-i}44
+- Binomial theorem: $$(x + y)^n = \sum_{i=0}^n \binom{n}{i} x^i y^{n-i}$$
   - $$2^n = \sum_{i=0}^n \binom{n}{i}$$
 - Inclusion-exclusion principle
   - $$|A \cup B| = |A| + |B| - |A \cap B |$$

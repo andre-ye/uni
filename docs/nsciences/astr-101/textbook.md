@@ -194,10 +194,24 @@ ASTR 101
 - Orbital motion and mass: factoring in masses shows us that the orbital period squared times the sum of the two bodies' masses equals the semimajor axis cubed.
 
 ### 3.4: Orbits in the Solar System
+- Place where planet is closest to Sun: perihelion
+  - Farthest away: aphelion
+  - Orbiting Earth: perigee, apogee
+- All planets have low-eccentric orbits except for Mercury (0.21)
+- Comets have larger orbit sizes and eccentiricites than asteroids
 
 ### 3.5: Motions of Satellites and Spacecraft
+- The behavior of an artificial satellite is the same as that of natural satellites
+- Circular satellite velocity -- speed needed to fall around Earth
+- Escape speed: speed needed to move away from Earth forever
+- Spacecraft sometimes use gravity to direct spacecraft to another target, like 'swingbys'.
 
 ### 3.6: Gravity with More Than Two Bodies
+- All planets exert gravity on themselves as well. 
+- Discovery of Neptune
+- Uranus -- originally recorded as a star. Herschel discovers that some planets are too dim to be unaided but are visible with a telescope.
+- Uranus does not move in an orbit predicted by Newtonian theory: another planet is influencing its trajectory, Neptune. 
+- Proved the generality of Newton's laws.
 
 ---
 
