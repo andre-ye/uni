@@ -30,6 +30,8 @@ ASTR 101
 - Set up textbook
 - The universe and stuff
 
+---
+
 ## Week 1 Wednesday -- Patterns in the Sky
 - Earth > solar system > milky way galaxy > local group > local supercluster (Laniakea) > the universe
 - Anasazi Sun Dagger petroglphy, New Mexico
@@ -53,6 +55,25 @@ ASTR 101
 - Red moon -- the only light which hits it is light from the sun which is bent through the atmosphere and casts a red light on the moon.
 - Most of the tie, the moon is either above or under the penumbra. The moon's shadow is small, the earth's shadow is large: explains the difference between lunar and solar eclipse frequency. 
 
+---
+
+## Week 2 Friday --  A Universe in Motion
+- Patterns we experience in the sky -- clusters and patterns of motion which clearly define important time units
+- On most new moons, the moon's shadow doesn't hit the earth. You only get eclipses when everything is aligned well
+- Ancient civilizations often documented sky objects
+- Venus is unusual because it follows a different path htan other objects -- it wanders around
+- Weird back-and-forth movement of Jupiter and Saturn
+- 7 things which move in the sky -- 5 planets and the Sun and the  Non
+- Babylonian cultures -- noticed stars were wandering around 'us', centered around the Earth. The planets 'care' about us
+- Astrology -- deep influence on culture and history. We have lots of astronomical data becuase people held astrological significance for these celestial bodies
+- Growing mythology in the Eastern Midterranan : a model of the universe in which the Earth sat inn the center with planets on giant wheels which spin around the Earth.
+- Aristotelian geocentric model of the solar system
+- Need to successively complicate a geocentrered theory: Ptolekyl0 Wgt
+- Why oudbt  fappepleesssssss wored?
+  - Parllax
+- The universe is spinning too -- the entire solar system moves a 1m km per hour.
+- Our galaxy is being gravitationally pulled to other members of the local group, like M31.
+- All motions moving under gravity.
 
 
 
