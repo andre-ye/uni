@@ -91,6 +91,59 @@ Evidence and the idea of genuine science
 - Now, a normative principle of evidence emerges and will be used henceforth
 - A systematic order of cognitions. 
 
+Differentiations of evidence. The philosophical demand for an evidence that is apodictic and first in itself.
+- Absolute certainty / absolute indubitability
+- The perfection of evidence becomes differentiated
+- Perfection of prescientific experience/evidence, imperfection of incomplete experience (expectant meaning): perfecting is the filling of attendant meanings with actual experience.
+- An apodicity as perfection -- even if evidence is inadequate
+- What is apodicity? Evidence is a grasping of the 'it itself' (noumena?) "with full certainty of its being". With regular evidence, we may still become doubtful. Apodictic evidence, however, does let us do so: it discloses itself as being also the inconceivability of its nonbeing. i.e. necessary.
+- If we have acquired this Cartesian principle of absolute indubitability, then we can build a science, an actual beginning. Well, can we bring out evidence which is apodictic, 'firstly in themselves'?
+
+The evidence for the factual existence of the world is not apodietic; its inclusion in the Cartesian overthrow
+- Does the existence of the world constitute apodictic evidence? Indeed, all sciences rely upon this.
+- It seems so obvious that we don't need to assert it. However, our experiential evidence of the world also lacks apodicticity. The experienced thing may be an illusion of the senses; it could be a dream. Non-being is conceivable.
+- We must criticize being in the world very much before using it as the basis for science.
+- We cannot naively accept the sciences.
+- But what can we do now, now that the world is no longer the basis for judgement?
+
+The ego cogito as transcendental subjectivity
+- Following Decartes, here is the reversal: the turn to the ego cogito as the ultimate apodictictally certain basis for judgement
+- The world is something which claims being
+- We should no longer speak in the plural: other men are the data of experience for me: I cannot use it. I lose formations of sociality and culture.
+- My life is continually there *for me*: I can never doubt my own non-being, even if I choose to abstain from sensuou experiencing.
+- I no longer naturally believe in the world
+- But wait... even in the Ego's abstention from taking positions, they still appear in his field of experience. I have to presuppose the world to believe in my experience.
+- We deprive the universe of acceptance: "putting out of play" of positions towards the Objective world -- the phenomenological epoche, pathenthesizing -- is not nihilistic or solipsistic, but rather what we get is my pure living and subjectivity, and the universe of phenomena
+- I apprehend myself purely via epoche as ego: the Objective world exists for me as it is for me (i.e. accepted by me -- you perceive it experience it, judge it, remebmer it, etc.)
+  - This is the Cartesian cogito
+  - The world is the conscious cogito which comes from the cogitationes.
+- *Natural being is secondary and presupposes the transcendental being.*
+- The method of the transcendental epoche is transcendental-phenomenological reduction: it leads us back to transcendental being, to the pure ego and its cogitationes -- being that is prior in itself to all natural being in the world.
+
+The range covered by apodictic evidence of the "I am"
+- Does the reduction allow for apodictic evidence of the being of transcendental subjectivity?
+- "I doubt" presupposes "I am"
+- Doubt of the apodicity of the transcendental ego: what range does apodictic evidence cover?
+- Adequacy and apodicity of evidence do not need to be equivalent. 
+- What is the apodicity of memory?
+- External perception is an experiencing of something itself. The physical thing has *for the experiencer* indefinitely generated horizon, which can be opened up by possible experiences.
+- Similarly, the transcendental experience of the transcendental I-am has an indeterminate generality which can be opened up.
+- How much can the transcendental ego deceive itself?
+
+Digression: Decarts'failure to make the transcendental turn
+- Decartes makes it easy to get hold of the pure ego and its cogitationes
+- Much scholasticism lies in Decartes'*Meditations*
+- We must stear clear of the "admiration" of natural science
+- Decartes misses the point with transcendental realism by departing from the principle of evidence and accepting things which are not in the field of the ego cogito.
+
+The psychological and transcendental Ego. The transcendency of the World.
+- If I keep only what comes to view for me via my epoche, I exist
+- I do not find myself as a man in natural self experience: I am not Objective or positive or a psyche. Phenomenological epoche does not allow us to so quickly accept the Objective world
+- By phenomenological epoche, I reduce my objective self to my transcnednetal-phenomenological Ego.
+- This world derives its existential status from me as the existential Ego
+- Transcendence is inherent to anything which is worldly
+
+
 ---
 
 ## *Phenomenology: The Basics*, Zahavi
@@ -125,7 +178,7 @@ Up to Appearance and Reality
 - The phenomenon vs the noumenon
 - To know what the object 'really is', the traditional notion is that we must go beyond the merely phenomenal.
 - Heidegger: phenomenology invokes a different understanding of the phenomenon: the phenomenon is that which shows itself.
-- PHenomenology is not a theory about the merely apparent: the phenomenon is something in itself.
+- Phenomenology is not a theory about the merely apparent: the phenomenon is something in itself.
 - Two-world doctrine: world as it presents itself, vs. the world as it is in itself
   - Not a metaphysical split but rather, according to the phenomnologists, different modes of manifestation.
 - Transcendentalism is rejected by phenomenologists

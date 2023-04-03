@@ -25,11 +25,51 @@ HSTAA 465
 
 ---
 
-## *Kennedy and the Promise of the Sixties*
+## *Kennedy and the Promise of the Sixties*, Rorabaugh
 ### Introduction
+- The early 60s were a time of promise and optimism: science, wealth, technology, improving life
+- A society balancing between fulfilling and making promises: getting hooked on promises
+- When hope gets too far ahead of experience, this difference kills hope
+- Desire and reason: did desire govern more?
+- Dark undercurrents: eroding tradition, difficulties in gender and sexuality -- an insistence on promising. Let's ride on the surface!
+  - Contradiction between phenomena and noumean explored in music
+  - Tension between public and private
+  - Collapse of censorship and rising counterculture; coarsening of discourse
+  - Postmodernity
+- Why should we look at the 60s?
+  - Complex interactions between the political, social, and culture
+  - These interactions became in excess of themselves: liberation of the self from social constraints
+  - The 60s are a crucial formative period in American politics
+- 60s as a change in tone from the conservatism of the 50s -- a move from the complacent and comformist to the radical
+- Kennedy: mastery of the television but failure to do much as president; cautious but bold; a president of spectacle. 
 
-### Chapter 1
 
+### Chapter 1: Kennedy
+- The 1960s and John Kennedy have a very close relationship with each other
+- Americans already sensed they were entering a promising time leading up to the start of the 60s
+- The 50s as the Great Barbecue
+  - Criticism of Eisenhower as lethargic, a do-nothing.
+  - Vapidity of consumerism
+  - Not everyone can enjoy the great barbecue
+- McCarthy's anti-communist smears of the 50s form an intellectual vacuum
+- Eisenhower as a master of deception; ruthless government across the world. 
+- Nixon becomes Eisenhower's VP, but not a good candidate: widely hated. A 'middle class uneducated swindler' without moral compass
+- Kennedy declares for presidency in January 2, 1960 -- opening oft the decade. Projected forwards unrelenting optimism
+- Turned youth into an advantage
+- Kennedy's family was very important
+- Jack was a war hero; stranded on island and survived by sending a coconut message
+- Suspicious relationship with McCarthy
+- Question of being Catholic: can a Catholic be allected?
+- Remaking of American politics, almost populist: appealing directly to voters, grassroots campaigning
+- Rise of data-driven, strategic, careerized politicking 
+- Kennedy suffered from chronic poor health, which he hid
+- Kennedy's personal relationship was scandalous and tenuous
+- Kennedy grew coalitional support in very complex and tense ways, almost surpassing logic
+- Strategic action with Civil Rights leaders to get a larger share of the Black vote
+- Wins very narrowly
+- Inaugural address: ignores domestic affairs, very global and international -- reframes the role of the citizen and the government
+- Reshaping of the aides: smart and intellectual (a source of criticism, detached from common sense); egalitarian and chaotic; creative but poor coordination.
+- A liberal fantasy paradise for three months, interrupted by the Bay of Pigs invasion.
 
 ---
 
