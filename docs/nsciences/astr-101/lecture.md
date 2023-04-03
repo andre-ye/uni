@@ -68,13 +68,14 @@ ASTR 101
 - Astrology -- deep influence on culture and history. We have lots of astronomical data becuase people held astrological significance for these celestial bodies
 - Growing mythology in the Eastern Midterranan : a model of the universe in which the Earth sat inn the center with planets on giant wheels which spin around the Earth.
 - Aristotelian geocentric model of the solar system
-- Need to successively complicate a geocentrered theory: Ptolekyl0 Wgt
-- Why oudbt  fappepleesssssss wored?
+- Need to successively complicate a geocentrered theory: Ptolemization
+- Why doubt the world?
   - Parllax
 - The universe is spinning too -- the entire solar system moves a 1m km per hour.
 - Our galaxy is being gravitationally pulled to other members of the local group, like M31.
 - All motions moving under gravity.
-
+- In every moment of your life, you are in a diffeent place -- you can't go home again
+- Relativity
 
 
 
