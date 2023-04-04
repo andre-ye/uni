@@ -312,6 +312,26 @@ earth, moon, sun, jupiter
 - When grains of brkoen rock (cosmic dust) enter the atmosphere, they burn up and produce meteors; when they hit the ground, they are meteriorites
 
 ### 7.2: Composition and Structure of Planets
+- There are two distinct kinds of planets, so it is likely that they formed under different conditions.
+- The giant planets -- the two largest planets (Jupiter and Saturn) have the same chemical makeup as the Sun -- hydrogen and helium, 75% mass hydrogen and 25% helium.
+- Jupiter and Saturn are so large that their gas is compressed until hyodrgne becomes a liquid. They really should be called liquid planets.
+- Jupyiter and Saturn have heavy rock, metal, and ice regions
+- Giant planets have hydrogen and many other compounds.
+- Hydrogen-dominated composition: reduced
+- Terrestial planets: the most abundant rocks (silicates) are made of silicon and oxygen; most common metal is iron. Mercury has the greatest proportion of metals
+- Densest metals are in the center; lighter silicates are near the surface.
+- Differentiation: gravity helps separate a planet's interior into different layers.
+- Earth's moon is like terrestrial planets
+- Most moons have a similar composition tot he bodies they orbit
+- THe farther a body from the Sun, the cooler the surface. 
+  - Temperature decreases in proportion with the square root of distance from the sun
+- Earth is the only planet where surface temperatures lie between freezing and boiling points of water; the only planet to support life.
+- Geological activity -- crusts of all terrestrial planets have been modified over time by internal and external forces.
+- All planets are subject to impacts -- geological activity is the result of a hot interior
+- The Moon is geologically dead -- Mercury ceased most volcanic activity about the same time as the Moon.
+- Primordial heat 'powered' bodies -- the larger the body, the better it retains its internal heat
+  - Is there any regeneration of heat in these bodies? Where does the heat from dead planets go to?
+
 
 ---
 
