@@ -278,4 +278,212 @@ Unfortunately my notes previously were lost because my computer lost battery and
 - Capitalism breeds mediocrity -- they have to be largely palatable.
 	- Our bananas are unflavorable lol
 
+## Lecture 3: The Ongoing Struggle for Civil Rights
+- Argument: WWII changed the conversation over civil rights by placing the US in a struggle for human freedom. The war's outcome and the meanings of the Cold War empowered new leaders, spurred new efforts, led to new tactics that advanced civil rights in America
 
+Part I
+- What new role will the US play in race relations?
+- The great depression and the new deal (1930s)
+	- Paul Robeson -- someone who has a prevoius relationship to the Soviet Union -- is blacklisted from Hollywood, cannot perform because he was seent o have Communist sympathies. 
+	- Changes from the 1930s to the 1950s: in the 1930s, the New Deal was an attempt to alleviate the problems of the stock market crash and the crisis of capitalism in the Great Depression -- New Deal policies were heavily discriminatory
+		- It's easy to think that the federal government wrote discriminatory policies
+		- Rarely deos the federal government at this time strictly discriminate
+		- Instead, the way to sell these to Americans is that the federal policy money is locally administered -- local people can put their own spin on the policy -- hire people where you want or need them
+		- The New Deal by this fashion ends up being discriminatory -- excludes Black people. 
+	- Popular front: coalition of working class people who are trying to fix problems in America, and to bring in influences from the far left. What emerges is a coalition of laborers -- a time to help out the little guy, the working man, the popular front. Turns into an acceptance of ethnic groups which previously haven't been accepted (Italians, Jews, Catholics). 
+	- Communist party plays an important rule here because it's the only group in America doing anything about race -- specifically challenges the US on issueus of race.
+	- Communist party says that race and gender are tools of capitalism. The CP is trying to take actions on race
+	- Highly publicized cases
+		- Scottsboro case 1931 -- 9 young black men are accused of rape by two white women. Both of the women will recant it. But it has implications for the Supreme Case
+		- Powell v Alabama (1932) -- the young men never got any kind of good representation
+		- Norris v Alabama (1935) -- systemic exclusion of Black people from juries
+		- Scottsboro case is one of the most important court cases which opens peoples' eyes to systemic problems in the criminal justice system
+	- CIO -- labor union which comes in the model of the old IWW. IWW was important because they would organize everyone. Many other labor unions were historically very discriminatory (e.g. AFL). The CIO with the CP begin to challenge race lines, bring in more black people inot labor unions
+	- Ongoing segregation in the South, lynching had not lessenned. 
+- 1941 lend-lease act
+	- WW2 is important for what happens to Civil Rights because the US begins to produce a lot of stuff
+	- Many jobs are union jobs with good pay
+	- America begins to send stuff to all manner of items
+	- The US already produces a lot of stuff
+- "Arsenal of democracy": US War Production 1940 - 45
+	- The US creates huge amounts of stuff to win the war
+	- Domestic stuff: cigarette manufacturers got declared as a necessary sector of the economy 
+	- Unified effort in WW2 to win -- a lot of work, jobs, and production
+- FDR and selling the war
+	- Four Freedoms speech (1941) 
+	- The US were before very isolationist -- American First committee who did not want to go to war, America should stay out of Europe
+	- FDR working on how to sell the ar to the United States
+	- Four Freedoms speech visualized by Norman Rockwell
+	- Freedom of speech, worship, from fear, from want.
+	- Need for national stories: this is a national story, ths is who we are
+	- Atlantic Charter: belief in making a pact with European Allies will help bring a world-safer democracy
+- A Philip Randolph
+	- Black people still very much held apart from this national unity
+	- As 'interior others' -- still being othered, interior ro the nation (provide a lot of labor) but still held as seocnd-class citizens
+	- 1941, Roosevelt is trying to get Americans to see they are on the same page
+	- Black people know they are not unified
+	- A Philip Randolph, head of union of black pullman car porters -- threatened a massive Civil Rights demonstration in DC
+	- Let Roosevelt knew in this moment of attempted unity that black workers would hold a massive demonstration to show just how ununited the country was -- the last thing FDR wanted
+	- From A Philip Randolph's pressure, Roosevelt had to make important policy concessions
+	- Creationo f the Fair Employment Practices Commission (1941 - 1946): investigate labor conditions in war industries
+	- There remained ways to discriminate: unions, pay, conditions, etc. -- Black people not allowed to be in 'skilled' positions -- last hired, first fired
+	- 1942, Congress of Racial Equality (CORE) -- important Black Civil Rights organization which will continue to play an important role throughout
+	- Urban league in 1909, 1910 -- growing rights organizations
+- Double V for Victory -- Victory at home over racism and Victory abroad over totalitarianism
+- Second Great Migration -- many white AMeicans begin to see it differently after many black people move out of the South in WW2 to take new jobs in western and northern manufacturing jobs. (First Great Migration happens in WWI). 
+	- Southernization of American culture -- take and spread culture
+- Blacks during wartime
+	- Northerns and Westererners don't want then there either -- a problem with the entire country
+	- When black people move and try to get homes, they aren't welcome there. 
+	- New situation that white Americans are encountering
+- 1943, racial unrest in 34 CS cities
+	- Race riots between white and black
+	- Affter the frist great migration, we got the rise of a new KKK (first comes after Civil Rights to fight against northerners coming into the South, but became defunt with new segregation laws -- no need for a campaign of terror). Not a Southern entity at all -- a KKK of the north and the west (biggest chapters in Oregon, Indiana, Iowa, etc.). Not entirely new but now on a  new scale.
+	- A new focus: united
+- Wartime industrial jobs
+	- Changes going on in the workplace
+	- Rosie and the Riveter is white, but black women also served in the same industrial defense jobs.
+	- NAACP & American Jewish Congress push for post-war fair employment practices,w hcih are difficult to secure
+- Patriotic assimilation
+	- Anti-Jewish and anti-Catholic stances begin to change in America -- bringing people into the definition of what is counted as white -- allowing Jews and Catholics and Italians post-war. Lines still get drawn at the color line
+	- Black and white separate beaches, entrances
+- FDR: talking about pluralism in wartime, people in different lands can become a united person
+	- Office of War Information hires novelist Pearl Buck to write novels
+	- A glaring obvious contradiction going on
+- Cultural inclusion -- to make films about the war, you need to go byt he Office of War Information (no films critical of the war)
+	- Bataan (1943) -- showing a nonexistent racial integration, a multi-racial society
+	- WW2, Americann units were generally not integrated
+	- Conversation on race begins to change
+	- Ruth Benedict, begins to write knew tracks on race and sees it as a moral failing -- begins to move race away from the concept of race and more in the way we talk about it now -- as a cultural construction, away from the concept of biological distinction
+	- Montagu -- influential in UN's new attention to race and racism post-war.
+	- New conversations to be had about what constitutes race
+- *An American Dilemma* (1944), Gunnar Myrdal
+	- Swedish social scientist
+	- Came to America and studied the problem of race and segregation, the long published problems with lynching
+	- Found that racism was deeply entrenched in law, politics, economics, and society
+	- Problem of structural and institutional racism now began to be discussed by academics -- how race and racism get institutionalized and put into structures
+- Blacks and military service
+	- Until 1948, segregated units
+	- Most Black people serve in segregated units with specific types of jobs -- truck drivers, barbers, cooks
+	- Limits to the GI Bill -- the GI BIll is a major change to American life because of WW2 and FDR type policies
+	- The GI Bill
+	- Homeowner's loan corporation -- begins to remake the industry
+	- Federal government is involved in giving out home loans, and changes the industry because it forces the private mortgage industry to come down on elements of the mortgage. The American middle class expands enormously and more people can buy homes.
+	- In fact quite good for capitalism, because no the consumer class grows
+	- part of a change over to a consumer economy
+	- GI Bill -- millions of Americans can get zero percent down loan with zero percent interest to build a farm, go to college, buy a house, etc. -- many could not do so before, now can
+	- Same kinds of racial restrictions are in place -- local restriction
+- The Bracero Program (1942 - 1964)
+	- Invitation to Mexican agricultural workers -- many Americans going to war
+	- Southern migration: Black folks going from rural to orban -- moving from agricultural work to manufacturing work
+	- Large changes happen in American agriculture, the need to hire more labor
+	- Bracero -- labor/worker in Spanish
+	- Invitation for Mexcians to come into the US and work until 1964 (large change in immigration policy)
+	- 22 million people or so moving across the border to work -- generation of this sort of movement even helps explain today's population
+	- Employers get used to hiring certain kinds of workers and laborers
+- Zoot Suit Riots, LA (1943)
+	- Zoot suit -- long jacket flamboyant suit, sometimes with flashy colors -- famous and well-liked along black and latino guys. Would go out and go dancing with white women in LA. Police, sailors, soldiers run throughout the nightclubs and beat up and harrass Latino and Filipino guys.
+	- Different examples of racial conflict
+- Women in wartime
+	- Some women are happy to go back to the home, other women have changed expectations
+	- Promotion of working women in manufacturing and in the military.
+	- Women end up composing a large quantity of the labor force (1/3) by 1944
+	- Businesses and manufacturers now deal with a large female proportion of the workforce
+- Freedom at home
+	- The "moking paradox" of racism in America
+	- Becoming part of a national conversation
+	- Republican W. Wilkie running against FDR, clearly making race an issue -- Southern Democrats aren't going to make changes on race
+
+
+Part II
+- William Levitt
+	- Expanse of suburban living and the single-family home, which radically changes American family life
+	- Middle-class expectation of owning your own home -- central to middle-class American identity
+	- New focus on getting Americans into single-family homes (mortgage industry changes allow for this)
+	- Levittowns (PA, NY, NJ, MD, Puerto Rico) -- large massive suburbs, a new type of suburbs which hasn't existed before -- previous suburbs outside of large American towns had a lot of design features -- working class people in mind, sidewalks, trolley cars, etc. Levittowns essentially have no design -- efficiency, speed, selling towns -- not a healthful or satisfying middle-class life. Build and sell houses.
+	- 1 new house every 15  minutes in PA
+- Racial restrictions nad covenants
+	- The way that people relate to each other begins to change
+	- Levitts know that Americans who buy these houses don't want to livewith black epople, and so restirct black people 
+	- Once these patterns start, hard to break
+	- Racial covenants -- a phrase put on a housing deed which says that the hosue cannot be sold to non-whites.
+	- 1948, Shelly v Kramer -- racial covenants are unenforceable, but restrictions continued.
+- Myers family in Levittown, PA
+	- Were able to get into a house in a Levittown
+	- Response by neighbors -- many threats and taunts trying to get them out
+- Seattle's racial covenants
+	- Seattlelites can sometimes be smug -- a lefty crunchy city
+	- Pretty much the entire city all had racial covenants on pretty much every neighborhood
+	- Inability for balck people to take part in the middle-class opportunity
+- Seattle's red-lined map
+	- Red lining -- a security map which idetnfieis neighborhoods by the likelihood that mortgage loans would be safely lent and repaid.
+	- North of the Ship Canal is a very white area of Seattle
+	- Redlined area is near downtown -- banks won't grant loans in the area
+	- Process of redlining and racial covenance -- institutional/strucutral restrictions put on people of color
+	- Other examples in insurance, real estate, banks, etc.
+	- Net result is few Black people able to buy a home, and then unable to use that home as capital
+- Creation of ghettoes
+	- Central district -- highest proportion of black population -- the only place they can live
+	- Not allowed to live in other parts
+	- Central District, Chinatown
+- Cold War and Civil Rights in the West
+	- California and other states repeal Alien Land Laws in 1947
+	- California did it first -- passed Alien land laws which prohibited especially Japanese people from owning land
+		- japanese farmers had acquired quite profitable farms andt here was deep antipathy against them
+		- Japanese internment is primarily a land grab
+	- Segregation in California among Asian immigrants
+- 1947, Jackie Robinson
+	- Significant figure, was a lietenant in the army
+	- Had been on a civilian bus and refused
+	- Tried for insubordination
+	- Goes on to become an important player in professional baseball 
+	- Important Civil Rights activists, new what to do -- knew how to resist backlash
+	- Important premise of Civil Rights -- especially black men, don't react
+- Political change
+	- Truman in 1946 -- assumes he'll lose in 48 and begins doing things he thinks will be important without worrying about political repurcussions
+	- Creates a new commission on Civil Rights 
+	- 1948, anti-lynching legislation, ending poll taxes (keeping blacks from voting), education and job access
+	- "correct the remaining imperfections in the practice of democracy"
+	- Dixiecrat Revolt and Strom Thurmond -- died in 2003 at the age of 101 after serving in the US federal government for more than 60 years and was a steadfast segregationist
+		- 1948, ranf or president as a segregationist candidate, won four states
+- *To Secure These Rights*, Truman administration, 1948
+	- Said -- there is a racial problem in America
+	- Talked about how racism weakened the country because of the impact of the Communist party
+	- Racism was an open wound which would bring down the country and which needed to be addressed
+	- Structural and institutional racism in America
+	- Different studies performed -- don't point the finger at anything, it is sort of actively happening, don't want to make any accusations. Reads sort of complacently
+- Civil Rights and military integration
+	- Truman integrates the armed forces
+	- Another movement on Civil Rights
+	- Sets up a new way for women to have permanent career paths in the military
+	- Significant steps happening in Civil Rights, even though they seem small
+- Expressions of American freedom after WWII
+	- Trying to tell a new national narrative
+	- Freedom Train -- one of the attempts post WWII to tell a national narrative
+	- Freedom Train -- a train which took documents out of the national archive and ride them around the country on rails so that Americans could come and see them. 
+	- Caveat -- viewings are integrated. No longer allowing for segregation
+	- Part of the country did not allow for inegrated viewing
+	- The national story is one of division
+- Black internationalism
+	- Linking global colonialism to black disfranchisement
+	- Black internationalism or pan-Africanism -- the plight of people of African descent no matter where they are
+	- Franz Fanon -- *Black Skin, White Masks* (1952) and *The Wretched of the Earth* (1961) -- has a terminal illness and dies very young
+	- Du Bois -- wrote groundbreaking works and is part of the pan-Africanist movement
+	- Robeson
+	- Colonial relationships even within the US
+- Conservatism and communism
+	- For post-war conservatives, there are changes coming too
+	- Conservatives begin to see a different type of Ameirca
+	- Attack on labor
+	- Taft-Hartley Act (1947)  restricted the power of unions, strikes, and other labor activism by introducing the "right to work"
+		- "right to work" -- if you are in a job and there is union activity, you do not have to join the union -- you can opt out of it.
+		- A job which has half the people in and out of the union has little power
+		- Unions are undercut in right to work states
+		- Michigan became the first state to drop the right to work status and embraces unionism (recently)
+- Anti-communist propaganda
+	- Americans are bourght together under the sphere of a creeping socialism
+- The turn to human rights
+	- Eleanor Roosevelt, Universal Declaration of Human Rights 91948) -- equal in dignity, without distinction of any kind
+	- The US won't sign it... 
+	- John Foster Dulles -- refusal to sign for fear that it would allow an international investigation of the "Negro question"
+- People are very aware of the racial problem
