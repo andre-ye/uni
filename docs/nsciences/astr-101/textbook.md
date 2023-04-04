@@ -293,6 +293,28 @@ earth, moon, sun, jupiter
 
 ---
 
+## Chapter 7: Other Worlds: An Introduction to the Solar System
+
+### 7.1: Overview of Our Planetary System
+- Sun and smaller objects -- planets, moons, rings, debris
+- Objects formed with the Sun about 4.5b years ago
+- The sun is brighter than 80% of stars in the galaxy
+- The sun is the largest member of the solar system, accounting for 99.80% of total mass
+- Most material is concentrated in JUpiter
+- Most planets follow orbits in a concentric plane
+- Four planets closest to the sun -- terrestrial planets
+  - Sometimes the moon is included here
+- Jupiter through Neptune -- the jovial or giant planets
+- Only Mercury and Venus move through space without a moon
+- Giant planets have rings made up of many small bodies in orbit around the equator of the planet.
+- Asteroids -- rocky bodies which orbit the sun like minitiar planets
+- Comets: small bodies composed mostly of ice, frozen gases, carbon dioxide, carbon monoxide
+- When grains of brkoen rock (cosmic dust) enter the atmosphere, they burn up and produce meteors; when they hit the ground, they are meteriorites
+
+### 7.2: Composition and Structure of Planets
+
+---
+
 ## Philosophical Relevance
 Personal notes
 - Ptolemization (reactionary) vs Copernican (revolutionary, new coordinates)
