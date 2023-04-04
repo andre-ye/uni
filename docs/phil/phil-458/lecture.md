@@ -199,3 +199,83 @@ Russian verbs which only exist in the perfective
 договориться (dogovorit'sya) - to agree (perfective only)
 ```
 
+---
+
+## Week 2 Tuesday -- Husserl's Introduction to Phenomenology
+- Get started on reflection papers
+- Discussion leader next week
+- Actus imperfecti (kinesis) and actus perfecti (energeia)
+- Imperfect act -- motion -- motion is inherently spatial and temporal
+- Motion is an intrinsically complete act -- on its way to something else. The completion of the act and the act itself are distinct.
+- The act of seeing: the tree you see isn't spatially distinct from your act of seeing. As a perfect act, the act and the term of the act are coincident.
+  - You're never on your way to seeing -- either you see or you don't see.
+  - The act of seeing persists through time
+  - There are always light waves, sound waves, etc. as imperfective acts towards me. But when they reach my eyes I see, i.e. it is the perfective act.
+- Once you understand the truth of a sentence, you don't stop understanding it -- it is a complete act
+- Imperfective and perfective aspects in grammar
+- Potency is not inert -- it anticipates form.
+  - Potency -- dunamis, tendency, tending towards
+  - Previous acts of understanding become potency for more -- part of a larger dynamism
+- Humans are potentially dynamically oriented towards becoming on the level of nous (intellect) all things
+- Each act is a partial actualization of this dynamic dimension.
+- In our seeing, we are making them more be -- they are not fully what they be until they are comprehended; there is no beauty outside of the act of appreciating; there is no act of being beautiful. There is a sense there in that we only exist when we're known by God. 
+- Prime potency -- potentially all things on the level of material reality
+- We are potentially all things on the level of intellectual reality
+- Prime potency doesn't 'exist' -- something in potency doesn't exist -- things only exist insofar as they have been formed
+- Final actualization occurs in the act of appreciating the art itself, which doesn't happen metaphysically unless there is the act of appreication. There is a sense in which we only fully act when we're known...
+- When you are in the act, you are fully doing what the act has you do
+- You have halfway understood but you have not understood halfway; whereas I can shipbuild halfway
+- Unlimited potentiality, a horizon -- which Husserl asserts science strives for.
+- Questions are metaphysically bizarre. Meno's parodox: learning is impossible. Either you know something, in which case you can't learn it. Or you don't know something, in which case you can't look for it and don't know where to find it, so you can't learn it.
+  - Socrates: we 'unforget' -- we knew everything to begin with. But it's a myth of recollection -- as if we recall things
+  - Aha! moment -- that's it, that's sort of like when you forget your keys and you remember where they are.
+  - Potency as desire to know is the bizarrest of desires -- asking questions -- you both know and do not know what you are looking for.
+  - It's the act of potency insofar as it remains in potency: questions are the act of knowing insofar as it is still in potency
+  - Metaphysically, here we have an act which is not fully in act -- a desire to know which is a dynamic orientation
+  - When the potentiality is actualized the activity which results is a perfect act; the dynamism of knowing resolves into the perfect act of understanding, as opposed to the dynamism of mere motion (the act ceases).
+  - Potency is always anticipatory
+- Sense in act is sensed in act -- there may be sound waves but there is no sounding -- it is one act; sounding and hearing are metaphysically the same reality.
+
+| | Subject | Object |
+| --- | --- | --- |
+| Potency | Human | Tree |
+| Form | Faller / striker | Falling / struck |
+| Act | Sounding / sound | Sounding / sound |
+
+- "You are the music while the music lasts" -- dancing is not just motion, something more: it is a motion which is formed, and in the full sense it also has to be appreciated. Dance is a unity of motion and act, metaphysically beyond mere motion. There are different ways to be present. You forget about yourself -- in some sense you are the music, and in some sense you are the dance -- there is a sense in which you can render your life as a perfect act in the sense that you are not in agony about the future.
+- Intellect in act is intelligible in act -- metaphysically, the act of understanding (intellecting) is not distinct from what is intelligible.
+- In order to be, you have to be known. If you're intelligible, to be fully in act, you have to be understood by something
+- Hell as God doesn't know you -- you're forgotten
+- The dance as motion occurs over time, but as danceit exists throught ime
+- Play -- activity for its own sake
+- You don't become a tree when you see a tree, but in a sense you do. You take on the form without the matter.
+  - Seeing: sensible form without matter
+  - Understanding: intelligible form without matter
+- Seeing is a fundamental part of your being -- the thing is you, it's making up part of what I am -- it's the form of the thing without the matter.
+- The act of seeing isn't really spatial -- the tree is here in the same sense that you see there. We are distinct insofar as we have different matter. 
+- Aristotle says form without matter, but we never just experience matter -- so how do we know if there really is anything there?
+- This question just didn't get raised -- the critical turn with Decartes through Kant -- how do we know what we experience isn't an illusion?
+- We only experience an act -- never potency / matter. If matter is the way by which I am different from others, then I am just me
+- Omnipotent -- omni, potency
+- On the level of the intelligible, in knowing something, we become that thing. Prime matter can become all things on the material level -- and nous / ego / cogita on the conceptual level.
+- We never experience things insofar as they are determinations of our consciousness.
+  - Never "out there", always "in here"
+- In here / out there -- are distinctions you draw in here -- determinations you've made
+- Treat consciousness as a field -- but it's you -- you're not just a body
+- Insofar as we can become all things, our ultimate horizon is being. 
+- Apodicticity -- known with absolute certainty
+- Decartes -- it's impossible to doubt that you're doubting -- it's undubidable insofar as I am doubitng that I be
+- It is apodictically certain that I am thinking -- if I try to doubt I am thinking, I am doing thinking
+- Decartes was on the way but he gets sidetracked because he carries with him a lot of baggage from the Scholastic tradition which Husserl wants to axe
+  - Decartes says "I am a thinking thing" 
+  - Substance is the thing which stands underneath or behind the phenomena
+  - We are all substances for Aristotle
+  - No one experiences substantance as substance -- substance is still a kind of potency underlying it; never an actuality in experience
+  - This is where Husserl says Decartes went too far -- a metaphysical reality which is not a phenomena of himself as a thinking substance. I've seen phenomena but nver substance as substance; I have to infer that.
+  - Decartes -- if there is thinking, every thing has a substance behind it, so I must be a thikning thing
+- We have to start only from the apodictic reality that the activity of thinking is happening. This is what is given in an experience. 
+- Intentional existence -- presence of form without matter -- it exists intentionally within us.
+- Idea of a substance is not something which is really an object of experience as experienced.
+- Bracketing -- stop presupposing an underlying substance. 
+
+
