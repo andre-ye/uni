@@ -197,3 +197,59 @@ HSTAA 465
 ---
 
 ## Document Collection #2
+
+### *The Dependence Effect*, from *The Affluent Society* (Galbraith)
+- The idea that wants apply unilaterally across indiviudals' conditions is repugnant to common sense
+- The case for the urgency of production based on the urgency of wants has no ground: one cannot defend production as satisfying wants if it creates those wants (pharmakon)
+- Production only fills a void that it has itself created
+- Consumer wants can be bizarre and frivolous. It is almost admirable if a society still desires to satisfy them. But it is like a hamster running in a wheel: satisfaction creates desire.
+- Keynes: the middle class has insatiable desires
+- People become evaluated by the types of products they have. 
+- Direct link between production and wants in modern advertising and salesmanship: the central function is to create desires.
+- Advertising is a large cost -- increasing growth of the modern advertising industry
+- Wants are dependent on production -- the producer both makes the goods and the desires for them
+- Economists resist this concept: closed their eyes to obtrusive phenomena -- the want creation.
+- Advertising has an uneasy place in economic theory
+- Notion of independently determined wants and still dominates textbooks -- and the economist dedicates himsefl towards fulfilling these wants.
+- **As a society becomes increasingly affluent, wants are increasingly created by the process by which they are satisfied.**
+- It is no longer necessarily true that welfare is greater at a higher level of production than at a lower one -- it may be the same. This is the Dependence Effect.
+
+> Like woman's, his work is never done.
+
+- The squirrel wheel is not structurally faultless: there are structural weaknesses.
+
+> It is easy to see why the conventional wisdom resists so stoutly such change. It is far, far, better and much safer to have a firm anchor in nonsense than to put out on the troubled seas of thought.
+
+### The Sharon Statement (1960), YAF
+- Responsibility of young (conservative) America to 'affirm certain truths'
+- Individual's use of God-given free will
+- Political freedom is dependent on economic freedom
+- The government exists to protect economic freedoms
+- The government becomes tyrannical past these existential requirements
+- Supremacy and omniscience of the Constitution
+- States' rights
+- The market economy is the single best economy
+- Communism is the single greatest threat to these liberties
+- The US should stress *victory over coexistence* with the 'menace' of Communism -- the US should pursue a world in alignment with its vision for it.
+- A militant and interventionist global policy
+
+### VP Nixon on Foreign Policy, 1960
+- "Name one Republican President whot ook us into war"
+- Not a question of Republican or Democrat, but of America
+- What will keep the peace?
+- Eisenhower has never acted in haste or anger, always calm and bold in the face of 'dictators' like Khurshchev
+- 'Pipsqueak' Castro -- why can't we send the Marines in? The people of Cuba will 'take care of it' if the US morally supports them.
+- Kennedy is a flop: sometimes here, sometimes there
+- 'only an inexperienced and impulsive act could lead to war'
+- Not military or economic strength but rather a question of honor and moral strength.
+
+> The question is: Do you take a chance or do you go forward on the kind of policies that Dwight Eisenhower has given the United States? And I say we go forward.
+
+- Resting upon Eisenhower's stability and cool-headedness
+- "Forget" -- party label, family votes, etc. -- vote for America and the world.
+
+
+
+
+
+
