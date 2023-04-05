@@ -130,7 +130,7 @@ The range covered by apodictic evidence of the "I am"
 - Similarly, the transcendental experience of the transcendental I-am has an indeterminate generality which can be opened up.
 - How much can the transcendental ego deceive itself?
 
-Digression: Decarts'failure to make the transcendental turn
+Digression: Decartes'failure to make the transcendental turn
 - Decartes makes it easy to get hold of the pure ego and its cogitationes
 - Much scholasticism lies in Decartes'*Meditations*
 - We must stear clear of the "admiration" of natural science
@@ -143,6 +143,10 @@ The psychological and transcendental Ego. The transcendency of the World.
 - This world derives its existential status from me as the existential Ego
 - Transcendence is inherent to anything which is worldly
 
+### Second Meditation: The Field of Transcendental Experience Laid Open in Respect of its Universal Structures
+
+The idea of a transcendental grounding of knowledge.
+- 
 
 ---
 
