@@ -88,8 +88,27 @@ CSE 312
 - Choose 8 pieces of fruit (apples, oranges, bananas): pick at most 2 apples and at least 1 banana. Pick your one banana and toss it in your box. You now need 7 fruits, of which at least 0 is a banana. This is just a stars and bars problem. Now do complementary counting and find the number of combinations where we need at least 3 apples. Now toss them into the basket. Now we need 4 pieces of fruit: choose apples, oranges, bananas. Then subtract. $$\binom{9}{2} - \binom{6}2 = 36 - 15 = 21$$.
   - 'Throw the banana in' is a good generalizable set
 
+---
 
-
+## Week 2 Wednesday -- Probability
+- Probability is a method of quantifying our uncertainty. 
+- Sample space $$\Omega$$ -- set of all possible outcomes of an experiment
+- Event: $$E \subset \Omega$$; subset of possible outcomes
+- Probability: a number between 0 and 1 describing how likely a particular outcome is. $$\mathbb{P}: \Omega \to [0, 1]$$. Also: $$Pr[\omega], P(\omega)$$
+- A didscrete probability space is a pair $$(\Omega, P)$$ where
+  - $$\forall x ; \mathbb{P}(x) \ge 0$$
+  - $$\sum_{x \in \Omega} \mathbb{P}(x) = 1$$
+  - $$(E \subset \Omega \wedge F \subset \Omega \wedge E \cap F = \emptyset ) \to (\mathbb{P}(E \cup F) = \mathbb{P}(E) + \mathbb{P}(F))$$
+- Uniform probability measure: $$\mathbb{E} = \frac{|E|}{|\Omega|}$$
+- Two events $$E, F$$ are mutually exclusive if they cannot happen simultaneously: $$E \cap F = \emptyset$$ (disjoint subsets of the sample space)
+- Axioms for probability measures:
+  - Non-negative
+  - Sum to one across sample space
+  - If two events are mutually exclusive, the probability of their union is the sum of their independent probabilities
+- Three corollaries
+  - Complementation: $$P(\bar{E}) = 1 - P(E)$
+  - Monotonicity: $$E \subset F \to P(E) \le P(F)$$
+  - Inclusion-exclusion: $$P(E \cup F) = P(E) + P(F) - P(E \cap F)$$
 
 
 
