@@ -332,6 +332,25 @@ earth, moon, sun, jupiter
 - Primordial heat 'powered' bodies -- the larger the body, the better it retains its internal heat
   - Is there any regeneration of heat in these bodies? Where does the heat from dead planets go to?
 
+### 7.3: Dating Planetary Surfaces
+- How do we know how old planets and moons are?
+- Counting the craters -- count ght enumber of impact craters; we can assume a certain uniform rate of craters
+- You can also track radioactive rocks
+- Natural radioactivity: some atomic nuclei are not stable but can spontaneously decay into smaller nuclei, which produces gamma rays
+- Decay is random in nature but radioactive substances generally have a half-half
+
+### 7.4: Origin of the Solar System
+- Much of astronomy is motivated by a desire to understand *origins*
+- Superearths -- planets in between terrestrial and giant planet sizes
+- Some exoplanet systems have giant planets close to a star.
+- We look for patterns among our planets. ALl planets lie on the same plan and spin around its own access. The Sun and planets formed together in a solar nebula.
+- The sun has the same hydrogen composition as Jupiter and Saturn.  Processes which led to planet formation in the inner solar system likewise excluded lighter materials
+- Many stars in space are younger than the sun; solar nebulas which can resemble our own solar system.
+- Theoretical calculations can help us see how solid bodies might form from gas and dust
+- Precursors of planets: planetesimals.
+- Violentness of planetesimals
+- Solar nebula model can explain many regularities in the solar system
+
 
 ---
 
