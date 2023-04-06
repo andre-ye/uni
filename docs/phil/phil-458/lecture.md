@@ -278,4 +278,95 @@ Russian verbs which only exist in the perfective
 - Idea of a substance is not something which is really an object of experience as experienced.
 - Bracketing -- stop presupposing an underlying substance. 
 
+---
 
+## Week 2 Thursday -- Husserl's Introduction to Phenomenology II
+- You can trace throughout archaic Greek the emergence of the mind -- in pre-Homeric Greek you don't have the language for 'mental acts' (seeing, tasting, ... understanding, judging, deciding, deliberating)
+- Schnel, *Discovery of the Mind* - in Archaic Greek there are no words for mental acts; but presumably people did see, judge, decide, ... -- why weren't there words for them? 
+- You can't draw mental acts because they're not spatial realities
+- All the action appears to be in the object, whatever is going on -- whatever is being scene, whatever is being understood, being judged, etc. This is prior to the discovery of the mind
+- Eventually in Greek these acts begin to show up, and eventually you get philosophers trying to understand these acts
+- Plato and Aristotle begin to adopt philosophies by which they begin to reflect on the mind, but they don't even really get at a phenomenology of these acts itself. They don't develop a phenomenology of the acts themselves -- eventually there are words for acts, then philosophyw hich tries to deal with it.
+- In the way in which Greek philosophers studied mental acts, Plato and Aristotle applies acts universally -- mental acts as on the same plane as vegitable acts -- same method to different kinds of souls
+- Aristotle sees a difference between actus imperfecti anda ctus perfecti -- but he still uses the same set of metaphysical terms. But fundamentally you need a diffferent method with which to investigate mental acts to fully understand what they are (beyong just im/perfect) and in relationship to one another
+- A metaphysical rather than a phenomenological account of mental operations provided by the Greeks
+- Imperfect acts -- Aristotle kind of sees it, but he was struggling to articulate the reality of metnal acts. But still couched in this kind of metaphysical language. Sees the different realities of seeing vs. motion, but not quite seeing the unique dimension of mental acts
+- Scholastics -- started to talk about the act by which one is able to have an object in conciousness as an intentional act. What I see is the sensible form of the thing without the matter, I become the thing I see on the level of intentionality -- I have conceptual intentionality rather than material intentionality in me
+- Phenomenology -- I only ever see the tree in me -- I don't see it when I'm not seeing it
+- Sartre -- "I'm trying to see what the flowers look like when no one looks at them"
+- On the basis of what do I affirm that the tree is not me?
+- By limiting ourself to the fact that the thing I see is the sensible form without the matter; the mind is potentially makingna dbecoming all things -- matter and potency are essentially the same things. 
+- How do we know that what we see isn't you? How do we establish the externality of objects?
+- Givenness -- what is given in an experience? Husserl -- one of the things that isn't given is that that thing is independently of you.
+- Metaphysical thing: object and mind, then mind receives the form separate from the form -- as if you already knew that there was a separation -- but you only ever have the form in you. So this fundamentally inverts the problem.
+- Subject and object are intrinsically correlated. Zahavi -- phenomenology is the discovery of the correlation between the two (no object without subject, etc.) whereas modern epistemology threatens to trap us in the pure cogito, the pure I think, in subjecthood itself; phenomenology shows us we are always already connected to obejcts.
+  - A critical and naive way of reading this interpretation
+  - Phenomenological naivete -- you continue to posit or presuppose the being of the world as self-evident. And conscious does it behind its own back -- it's you which posited / presupposed it.
+  - This idea that we are connected to the being of the world is a phenomenological naivete -- in order to analyze acts between subject and object, you have to already presuppose the ontological beingness of the object.
+  - So with epoche, now we need to bracket and stop presupposing the reality of being as something which is just there and set out before us.
+- Old epistemological problem which shows up past the scholastics into Hume and Kant -- present us witht he problem of the bridge. How can I be sure that what gets from the subject gets to the object and vice versa? This is the original Cartesian meditations -- oh gosh, what if this is all the Matrix or an evil demon? 
+- Decartes says I am a thinking substance -- but we don't experience ourselves as substance, but as act -- then Decartes goes off the rails -- 'proves' undubidably God. Modern epistemological challenge of the bridge. Hume -- we only have our subjective impressions, we don't know what cuases them, don't worry about it
+- Phenomenology -- it was you who already decided that there was a world outside you -- this distinction is within you -- not the problem of bridge but affirming the distinction to begin with. What are the grounds (evidence) for this sort of judgement?
+- For phenomenology, subject vs object is already part of the naive attitude -- as if to know something is to know something which is out there. 
+- Anxiety is a naive presupposition -- 'how do I get outside of my head' -- but why are you assuming there is an outside to begin with? Why do you assume the basic epistemological problem is the problem of the bridge? -- ensuring what is in here is reliably a representation of, effect of, etc. 
+- How can I be sure what I see is the effect of an object? -- Decartes' question, which already presupposes the question of the bridge.
+- Aristotle runs into this -- the world of perfect acts which really are nothing at all like motion -- sense in act is sensed in act, metaphysically. Since we only ever experience the sensed in act, how do I know if the sensed is the act? (Flowers, what do they look like when no one is watching them?)
+- Objectivity -- how can I be certain that my knowledge is objective?
+  - Naive conception -- how can I be sure my subject reception is derived from the object, that there is a relation to the object
+  - For Husserl objectivity is constituted by the subject -- we discover things which are apodictic and universal -- it doesn't get you to an 'outside' but beyond you as an individual subject. Your knowledge is not merely your product, because it's not relative to you -- it's absolutely true; universally and necessarily true. 
+  - "I think therefore I am" -- an apodictic conclusion
+  - Husserl -- you can then build up entire columsn of knowledge -- push you beyond what you are as a limited finite subject, which is where you can go beyond Hume. For Hume it is a deeply subjective reality whereas Husserl thinks we can obtain a degree of objectivity, but not the naive conception of objectivity.
+  - There is a Platonic dimension to this
+  - This movement of building up is the transcnedental subjectiivty, or the transcendental-phenomenological reduction
+- A more immediate context -- hot problems Husserl responds with in the strict philosophical sense -- Husserl is responding to
+  - Philosophical disagreement -- lack of unity in knowledge/science because lack of apodictic formulation
+    - Persists throughout the whole history of philosophy
+    - In some sense it is **the** problem
+    - This is what inspires Decartes to write the meditations. How to resolve these differences? 30 years of war in Europe...
+    - How do these philosophical ideas conflict? Everyone has different views -- can we generate a universal account of virtue? Aristotle -- try to find this
+    - Epoche: Ancient skpetics did this first, because they were the first skeptics to say, let's stop arguing and first reserve judgement -- rather bracket out unproductive elements and work on clearing a new universal ground.
+    - Medievals have to include the Bible and its conflicts, plus the church fathers, etc. --- Decartes, start over
+    - Hume: start over
+    - Kant: start over
+    - Husserl: start over
+    - Both philosophical but also generally -- why do people disagree? Why can't we get unified? For Husserl we need to have a unity
+    - WWI as a philosophical conflict
+    - What we need is an apodictically certain foundation to all knowledge, otherwise we will continue to fall with reasonable doubts -- unproductive.
+    - An arguably apocalyptic horizon
+    - Division from God
+  - Supposed devaluation of 'lived experience' by modern science
+    - e.g. a reduction of secondary qualities to primary qualtiies
+    - Alienation from ourselves / the world / others produced by this scientism
+    - Very preoccupied with Galileo; modern science provide this distinction between secondary and primary qualities which are then taken up by all the modern philosophers (Hume et al.): primary quality is mathematically measurable aspects of that object (matter in motion -- weight, mass, density, velocity, etc.) as opposed to secondary qualities (color, sound, etc.) -- movement towards a denial of the reality of secondary qualities or have anything to do with the object -- are 'merely subjective'
+    - Epiphenomenal -- layered upon the real thing (the mathematically measurable aspects of matter in motion)
+    - Husserl saying -- it's backwards, we only know the primary by way of the secondary; we can't be nearly as certain of the primary qualities as the things which we experience more directly
+    - You're not looking behind the secondary qualities for the object
+    - What you experience is apodictically certain knowledge
+    - You only infer a primary quality based on the idea that you see it move or you see the measurements -- you never see velocity an sich, you see the representations, etc. -- it's less apodictic. 
+    - 'Lived experience' (erlehnisse)
+    - Reductionism -- Freud; believe in God, *but* you replaced the father you murdered. Freud is a materialist in some sense though.
+    - You become alienated from your experience -- can I believe in my experience when Freud tells me about my consciousness? I've never experienced my consciousness an sich... that of what I am conscious of is much more apodictically certain than the matter and motion which would come to me. 
+    - Phenomenology as a descriptive science. 
+- Ancient skeptics' use of the epoche; Husserl adds more; also the first to point out how philosophers disagreeing are not addressing what should be the goal of settling things.
+- Husserl -- there has to be pre-predicative experience
+- Attend to what is actually given and what our interpretation is
+  - Is this even possible?
+- Epoche -- to withhold or suspend judgement / assent -- not denial or affirmation, and it's hard to do. Epoche as a deeply meditative practice (hence Carteisan meditations) -- don't just affirm things and get caught up in disagreements. 
+- Husserl -- we can't fully follow Decartes; Decartes proposed a scientific method which we must withhold judgement about, cannot assume it is the scientific method -- we are founding science (sciencia, knowledge) itself -- we can't even presuppose you know what science is yet. 
+  - Science as geometry -- from axioms to theorems. 
+  - Even geometry is dubidable
+- I am looking for an axiom from which I can start out from. '
+- Husserl: you didn't successfully doubt it -- you carried it along with you
+- Opposite of apodicticity -- presupposed (that which is doubtful but assumed, which is not grouunded)
+- Decartes did not ground his presupposition that geometry was the right type of way to do philosophy -- it's not apodictic, we need to keep on going, to find a truly apodictic foundation to all knowledge.
+- Core -- searching for an apodictic foundation to all knowledge. Husserl says, is the being of the world apodictically certain? Is it indubidable that there is a world existing distinct from me? Is it absolutely certain? Indubidable? It could be an illusion. 
+- Does Husserl presuppose a notion of science with his notion of apodicticity? Objectivity as an ascent to the universal.
+- Husserl -- phenomenology is the true positivism (which claims to stick with only what is experienced -- they've missed a lot of what is experienced ine xpeirence, not least being the acts themselves).
+- Being in the world is dubidable. By reason of evidence of natural experience, must no longer for us be an obvious fact. It must henceforth only  be a phenomenon -- we bracket its existence. We treat it as what appears -- we don't judge is it real or not. We need to find what is indubidable.
+- The Being of the world is not gien to us -- it is not apodictic. 
+- Epoche: entails a reduction -- removing presuppositions but also enriching, a discovery of a new 'continent'
+- The existence value  of the world is something we give to it.
+- Zahavi -- this entails a religious conversion -- you have to go through this experience of 'I'm floating, and I don't know what is real -- I just have my experiences... am I now trapped?' But this is already presupposing that I need to get out. Some people say no, Husserl is actually saying we don't have to worry about the epistemological problem b/c we're always connected to the world, consciousness of ... but Husserl is saying, yes,, we are conscious of *a* world -- this is apodictically true. But is it *the* world? Not so sure.
+- The natural attitude -- the naive perspectivce -- is forbidden when we do phenomenology, we bracket these things.
+- Zahavi tries to say that Husserl takes this back -- the true ontic reality is now set truth, we don't lose anything -- this is false, we keep our world but we bracketed the existence/meaning value of it. 
+- Subject and object correlate is not religious conversion -- epoche is saying first in order to understand what acts are doing we can't presuppose that world because for all we know we could have constituted it -- if you want to keep the world, you will have to give it up.
