@@ -486,4 +486,184 @@ Part II
 	- Eleanor Roosevelt, Universal Declaration of Human Rights 91948) -- equal in dignity, without distinction of any kind
 	- The US won't sign it... 
 	- John Foster Dulles -- refusal to sign for fear that it would allow an international investigation of the "Negro question"
-- People are very aware of the racial problem
+	- People are very aware of the racial problem
+	- The US CIvil Rights record damaged the US' ability to function int he UN
+	- USSR, Cuba, etc. would hammer the US for its Civil Rights record.
+	- Civil Rights was entering a new phase; Communist Party was dropping out of Civil Rights in the Cold War, and you have new kinds of tactics and attitudes
+- The Cold War and civil rights
+	- Activism in urban spaces
+	- New voter registrations -- there are many places in the American South which are overwhelming black majorities with very few registered voters
+	- Question about communism and racism -- why is communism anti-American but racism isn't?
+	- "That's just how people thought back then" -- there are alwyas people asking questions and critiquing what's going on
+- Civil Rights
+	- New focus on Civil Rights which comes from some of the most prominent organizations: Thurgood Marshall, NAACP, Urban League, etc.
+	- Governer Earl Warren of California -- during the war, happy with Japanese incarceration. After the war, changed his tune -- supported the Leage of United Latin American Citizens -- a convert to the ideal that Civil Rights problems were hurting our global reputation -- it's patriotic to stop being racist
+	- 1950s -- NAACP works on specific issues; Marshall and Houstin on the Plessy v. Ferguson ruling of 'separate by equal'. 
+	- What is significant about the 14th amendment -- establishment of citizenship and "equal under the law" -- getting to a revision of the interpretation of the 14th amendmetn (passed during Reconstruction which should change things -- but the courts define the 14th amendment narrower and narrower until you get separate but equal)
+	- Reviewing different cases having to do with race -- qual protection under the law so narrow, so it is never really fully realized
+	- NAACP wanting to revisit the 14th amendment, go after equal protection under the law clause
+- 1954 Brown v. Board Topeka, Kansas ruling
+	- HIghly calculated, not spontaneous
+	- NAACP figuring out how to argue this the best, looking at different schools
+	- Kansas is kind of a middle state
+	- South -- it's easy to say "oh, it's the South" -- focus on Kansas might bring more national attention. 
+	- By forcing Black students to walk much farther to go to a segregated school, it is uneven
+	- Overturning of separate but equal in education
+- Raising voices, taking notice
+	- A number of events move things faster
+	- Murder of Emmet Till -- significant because of the resonance it had within Black communities in the NOrth, getting out of the American South. 14 year old boy from Chicago who had gone South to visit family in Mississippi -- acted towards a white woman, and for doing so was tracked down and brutally tortured before he was murdered. Mother insisted on an open casket.
+	- Chicago had a significant Black community
+	- Rosa Parks -- longtime member of the NAACP; practiced activist. Goes through the bus situation.
+	- Montgomery Bus Boycott forces the Supreme Court to act in 1956
+	- Accelerates the Civil Rights process
+	- Supreme Court in 1956 calls for desegregation of buses "with all deliberate speed"
+- MLK Jr's Leadership
+	- Presence of MLK is significant
+	- Comes from a family of ministers in the South
+	- Considered being a doctor but ended up going to Boston ad sutdying for the seminary
+	- In Montgomery, finishing writing his dissertation and seeing these kinds of events.
+	- Historic importance of Christianity within the black communities of the South
+	- King's speeches have great presence
+	- 1956, SCLC emerges and becomes one of the galvanizing institutions for the Civil Rights movement -- maybe one to critque also, very top-heavy and focused on Christian values
+	- SNCC is a very different institution -- don't really have leadership, almost intentionally, and in fact quite critical of the top-heavy nature of the SCLC
+	- Civil Rights is often presented as monolithic but there are many different wings
+	- Others are conencted with black internationalism: in contact with Kwame Nakruma (in contact with Ghana, independence in 1950s and becomes a stable democracy)
+	- inspiration from decolonization
+	- Bayard Rustin goes to India and inserts nonviolence into Civil Rights
+- Massive resistance to Civil Rights in the South
+	- Comparison between post-Civil Rights and post-Nazi Germany: not forced to give up anything besides slaves vs. ideological salting of the Earth
+	- State flags of Florida, Abama, etc. all have resonances with the Confederate Flag
+	- Who are the real losers of the Civil War?
+	- Race-mixing is communism
+- Many obstacles to Civil Rights
+	- 1957 -- token effort, US government passes the Civil Rights law which tries to put some enforcement into Civil Rights legislation; but without enforcement, there really isn't anything.
+	- If it's not enfroced, what does it matter? It doesn't really matter.
+	- There really is no enforcement here, and nor ights.
+	- Little Rock, 1957 -- Eisenhower sends out the US military to enforce the integration law of the Supreme Court
+- The Sit-Ins
+	- Greensboro, NC
+	- Student-led movements like the sit-ins beginning at the Whoolworths' where Black epople are not supposed to be, and sit at the counter nonviolently -- not there to respond to beatings and threats to be effective -- will be taken to jail and portrayed in the media as unruly ungovernable thugs who deserve what they get
+	- Only by remaining non-violent even in the face of violence can they get their message across -- they need to be taught and schooled in this
+	- Segregated beaches throughout the South -- "wade-ins" in Biloxi and Gulfport, Mississippi
+	- A number of young Black people were killed as they attempted to do wade-ins
+- Student Nonviolent Coordinating Committee (SNCC)
+	- Ella Baker and the SNCC, 1960
+	- Ella Baker - focuses on organizing young people and knew it would be young people who would be the vanguard of Civil Rights
+	- Ella Baker was about getting away from focusing on leaders like MLK and putting the roles in the hands of the 'every-people' -- a decentralized movement, you can't blackmail or shame one leader because everyone is schooled int eh theory, tactics
+	- Helps to form the Yougn Negroes Cooperative League which becomes SNCC
+	- Robert Moses (passed away recently) -- a Northerner who came down to the South and did the same kind of organizing work among young people. 
+- Freedom Rides (1961)
+	- CORE (Congress of Racial Equality) -- begin taking long bus rides
+	- At first, were doing it in the upper South and they didn't care that much, also doing it in one state -- going from Virginia to Virginia
+	- Get the federal government involved by going between states (across states, federal government gets involved -- creation of the martial service)
+	- Taking busses from New York to Alabama  -- the response was intense and violent
+	- John Lewis -- suffered horrible beating snad threats; busses being firebombed; to get in the national media, to show what is going on and to promote nonviolent tactics.
+- To sum up
+	- Talk about the importance of changing tactics, attitudes, strategies which come about because the Cold War context is dfiferent
+	- Proliferation of young activists in particular -- changes to the Civil Rights movement.
+
+---
+
+## Lecture 4: Prosperity, Consumerism, and Environment
+- Argument: The modernist view of a consumer-driven economy, which began around 1920, seemed to reach its zenith by about 1960 only to encounter new challenges in health, environment, discrimination, and the emergence of economic citizenship
+- What starts off in the post-war period that America has reached this high standard of living begins to come undone -- emerging difficulties in public health, nuclear fear, ecology, and the environment
+- How are consumer goods sold to the market? 
+- Proliferation of consumer goods and a need to police and make consumer goods saf -- just companies trying to sell products.
+- World War II produces many of the chemicals which will proliferate post-WWII. Companies make enormous chemicals for industrial applications and turn them into domestic products.
+- Critique of consumer society
+	- Henry Carter Adams, 1879 -- equitable division of property and produce, or despotism and decadence
+- The great depression and the new deal (1930s)
+	- How to solve the problems of the great depression? CHanging production to be more efficient -- producing more on less quantities of land
+	- New Deal policies trying to produce more on less -- origin of agricultural subsidies, take land out of production so it can recover
+	- Focusing science and chemical expertise onto farmland to produce more on less.
+	- Decline of the small American farmer and the rise of larrge farm firms -- large agricultural companies -- not some nefarious plan but rather the Roosevelt administration is trying to find the most solid farmers with capital; consolidation of land across agriculture companies
+	- New housing policies begun to spur more consumption
+- Financing single-family home ownership
+	- Changes in federal policies might be the most significant economic change to come out of WWII on housing
+	- Federal Housing Act, 1934 and Home Owners Loan Corporation (1933)
+	- Restructure the mortgage industry 
+	- With increasing wages after the war, more and more people are moving into suburban spaces
+- Consumers during WWII
+	- During WWII, this is very intentional in ROosevelt's circle: already a focus on Americans as consumers, a kind of patriotic consumption going on.
+	- Americans are rationing -- growing your own gardens (Victory garden) to not buy food which can go overseeds
+	- Messages from the OWI (War Info) or OPA (Price Administration)
+	- Consumers have a role to play as ptriots in rationing -- consuming in a particular way.
+	- Women are a target as the primary consumers for households in the 1960s.
+	- New step in market segmentation (division of population into groups and selling to them)
+- Production during WWII
+	- Production rates were incredibly high in WWII
+	- Focus of the government is how to keep this high
+	- OWI -- releasing state propaganda
+	- State-capital cooperation needed to not fall into price issues, etc. -- OWI set prices so there wasn't crazy competition
+	- War Labor Board -- made sure no stirkes during the war; CIO vowed no strikes during the war
+	- Both 1942
+	- Emergence of Keynesian economic theory -- the government needs to help out in the boom and bust cycles to not end up in the great depression
+- From War to Peace
+	- Post-war consensus around Keynesian economic theory
+	- Economist Robert Nathan -- if mobilization for war, then why not for peacetime consumption?
+	- Don't want to see a massive dip in consumption and production post-war
+	- Beginning working on this post-war
+- Post-war consensus on economics
+	- In general, even conservatives in politics to some degree or another believed in Keynesian economic theory -- smoothed things out
+	- Different emphases going on
+	- 1945: proposed law that if people couldn't find jobs, the state had to create jobs for them (rjeected by conservatives)
+	- 1946: employment act trying to keep employment at a high level
+	- Purchasing power -- perhaps most visible phras in the post-war period: they want good jobs (great during the war -- union jobs), allows you to buy many of the consumer goods which are being produced
+	- Mass consumption only possible with ongoing mass production
+	- Looking for good-paying manufacturing jobs as the keystone of the economy
+	- Consumer and military Keynesianism exist
+		- Consumer Keynesianism: work with industry and labor unions to try and maintain ability to buy consumer goods
+		- MIlitary Keynesianism: keeping Raytheon, Boeing, etc. operating at a high level -- especially aerospace industry getting enormous amount of money to continue doing what they're doing.
+	- Even after the dip in the 1960s, the Vietnam War will keep consumer spending high for a while -- by early 70s the whole show is over and it begins to be laid bare there are problems with the American industrial sector
+	- Mixture of public and private spending which keeps purchasing power very high
+- Economic changes
+	- The nuclear family -- images of the direct post-war period -- gathered around the TV in a single-family home in the new suburbs being designed all around America from coast-to-coast
+	- Increasingly, idea of American freedom is being connected to economic citizenship -- to be an American citizen is to have a certain standard of living: at least a middle-class existence
+	- Americans increasingly worry less about the political sphere and more about an economic sphere existence
+	- By 1960, this swing has begun to happen
+	- Poverty impacted greatly -- fallen 8% from 1950 to 1960
+	- Emergence of credit by 1955 - a revolution in consumer purchasing
+	- With the growth of credit, much more capacity for purchasing power -- just how much is being bought on credit?
+	- Enjoy your consumer goods while you're paying them off! Increasing debt
+- During this time, UC system is free or close to free if you're in-state -- monetization in the 70s
+- Capitalist society -- if you don't have capital, you have your labor. 19th century -- huge land giveaways for many Europeans, or free education, etc.; ways to up the social status (although today neither of these are true -- what are the options today?)
+- Origin point of ideological split in the middle 60s on Keynesianism -- Lyndon Johnson's huge spending budget, what to think about it?
+- The reason for this primarily is that the people in moments of crisis could get on board with big government programs in this time of crisis; but it is these people who look at the same behavior and say, "it's a time of prosperity" -- why is the government messing around int eh free market economy still? Break from the neoliberal tradition and become neoconservatives
+- HIgh point of American manufacturing is at 1955
+- The Baby Boomers
+	- "the luckiest generation" -- born during WWII with the fallout of the Great Depression
+	- Generation which has good-paying jobs, availability of going to college
+	- Baby boom generation which we compare other generations to -- up very high in 1950 - 55 -- families were very large, just more babies
+	- When they get into college and become political active and consumers, these ptterns matter just simply because of numbers
+	- As the baby boom generation ages, healthcare will become more important and this will effect the economy
+	- Politically active generation
+	- Part of this life is about 'materialism' -- living in new suburban spaces with more consumer products than before -- all these new things to put in people's homes
+	- Some of these spaces are highly toxic spaces -- lead in a lot of the paint, asbestos, cosmetics, pesticides, insecticides, not necessarily safe and ti will take a while to figure it out.
+	- People are also living very different kinds of lives in relaitonship to each other and the environment -- complete re-organization of social and environmental space. 
+	- There are no sewer systems planned -- each house has its own sceptic system; can also be very dangerous; etc. When building suburbs, this is so 100s of people can live in the houses. Not desigend for traffic -- massive traffic problems.
+	- Social isolation -- particular kind of space.
+- In the New Deal period, you get a lot of ideology -- WPA, CC, etc. -- Roosevelt coming at you with ideology "promote confidence!" -- TVA, "electricity for all". Postwar period is different. Not a federal agency trying to provide you with a sense of values, bu tconsumerism -- buy stuff to make you happy, to reach a level of status, to make you feel good. Trying to find cultural value.
+- Proliferation of plastics.
+	- Plastics which had not really played much of a role in American life / economy before proliferate, largely remannts of war research
+	- Bakelite -- an early plastic, a brittle and hard plastic
+	- Changes becuase of WWII
+	- Pre-war reputation for being cheap and inferior (to woods and metals)
+	- Post-war spin on efforts by GE and other indutries to really promote plastics -- ligher weight, technologically innovative
+	- Effort to naturalize plastics -- now that we've got it, we can do so much with it
+	- Brownie Wise -- leaving advocate for Tupperware. Success story of post-war
+	- Large-scale acceleration of packaging. Advertisements in the store. 
+	- 1920s with mass production and consumption, you have department stores and grocery stores, in which the consumer gets their own products -- development of advertisements in these stores
+	- A cereal box is a billboard -- now they are advertising at you
+	- Massive amount of consumer products are in packages which are one-use, then throw out
+	- Packaging becomes 1/3 of the waste stream and has increased by about 70% since 1960
+- Landfills by 1960 and late 1970s -- landfills begin to proliferate over America and aren't regulated until they start causing problems. Issue -- landfills leak nasty stuff into the water and show up in water
+	- Staten Island, NY -- largest landfill in the world by 1955
+- Planned obsolescence
+	- Market thinking and advertisement thinking throughout the economy
+	- Finns on the backs of cars -- have no function, all about style. 
+	- Car fashion -- designed to become obsolete
+	- A way of manipulating consumer tastes by planning to keep things changing so consumers can keep up with what is the new thing now.
+	- Creation of taste
+- Highways
+	- 
+
