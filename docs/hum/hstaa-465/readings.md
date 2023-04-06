@@ -248,8 +248,28 @@ HSTAA 465
 - Resting upon Eisenhower's stability and cool-headedness
 - "Forget" -- party label, family votes, etc. -- vote for America and the world.
 
+### Eisenhower Farewell Address, 1961
+- Four major wars among great nations in the 20th century (which ones?)
+- American exceptionalism -- depend upon judicial and virtuous use of American power
+- Purpose -- to foster peace and human achievement
+- There will continue to be more crisis
+- To balance the private and the public economy
+- New threats are constantly arising
+- A strong military presence is now an integral part of America, and this necessary; but we should be wary of the military-industry complex
+  - An alert and knowledgeable citizenry necessary
+- Avoid the impulse to live only for today -- conserve and sustain, do not plunder
+- A confederation of equals
 
+### John F. Kennedy Inaugural Speech, 1961
+- The world is different now -- man holds the power to abolish poverty and life itself.
+- We must be united to confront challenges
+- Freedom and decolonization
+- Effort to help the rest of the world -- it is right, a free society must help the many who are poor
+- Hope in the UN as an international regulatory body
+- Hope for peace in the face of possible darkness; never fear to negotiate
+- To turn science for us, to explore the unexplored, and to encourage liberal heaven.
 
+> And so, my fellow Americans: ask not what your country can do for you -- ask what you can do for your country.  My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man. 
 
-
-
+- Appeal to a certain Protestant work ethic -- fulfill your dity
+- 
