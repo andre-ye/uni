@@ -110,11 +110,21 @@ CSE 312
   - Monotonicity: $$E \subset F \to P(E) \le P(F)$$
   - Inclusion-exclusion: $$P(E \cup F) = P(E) + P(F) - P(E \cap F)$$
 
+---
 
+## Week 2 Friday -- Conditional Probability
+- Uniform measure helps to simplify calculations -- solve two counting problems and divide
+- If you have a different measure, then it's a more difficult counting process
+- There might be information you don't need in your sample space
+- Conditioning: partial information which provides an impetus to update your porbabilities
 
+$$P(A|B) = \frac{P(A\cap B)}{P(B)}$$
 
-
-
+- If $$P(B) = 0$$, the conditional probability is not defined.
+- $$P(A|B)$$ and $$P(B|A)$$ are different quantities
+- Independence: conditioning does not affect probabilities
+- Bayes' Rule: $$P(A|B) = P(B|A)P(A)/P(B)$$
+- Law of total probability: $$P(S) = P(S|G) \cdot P(G) + P(S | \bar{G}) \cdot P(\bar{G})$$
 
 
 
