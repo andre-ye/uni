@@ -272,4 +272,51 @@ HSTAA 465
 > And so, my fellow Americans: ask not what your country can do for you -- ask what you can do for your country.  My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man. 
 
 - Appeal to a certain Protestant work ethic -- fulfill your dity
-- 
+
+### Kennedy's Consumer Bill of Rights, 1962
+- Uneffective organization by consumers, despite their large nature.
+- Cannot afford waste in consumption; the dollar should be spent best
+- Technology increases the difficulties of the consumer; law is too old.
+- Marketing becomes impersonal
+- Right to
+  - Safety
+  - To be informed
+  - To choose
+  - To be heard
+
+### Kennedy at American University, 1963
+- Wilson: a university graduate should be a man of his nation as well as a man of his time
+- Few things more beautiful than a university: a striving to know
+- What is peace? Not peace contingent on suffering -- genuine peace -- not only for Americans but for all mena dn women
+- New war threats -- but war is irrational 
+- War as the 'necessary rational end of rational men'
+- We must examine our own attitudes -- look inwards, not just outwards.
+- Too many of us think that peace is impossible -- but it is defeatist. Problems are manmade.
+- Conflict does not last forever. 
+- We msut persevere: peace does not need to be impracticle; and war does not need to be inevitable. We can 'break' history.
+- Sad to realize the gulf between the Soviets and the Americans -- but it is a warning, to not distort your view
+- No government is so evil that people might be considered to lack virtue; but the Russian people should still be 'hailed' for their achievements.
+- Never been at war with the Soviet Union
+- Why devote money to armment when you could to combating 'ignorance, poverty, disease'?
+- Halting the arms race
+- Let us not be blind to our differences, but also emphasize our commonalities
+- We are not engaged in a debate --the world as it is now.
+- American weapons are deterrent
+- Strengthen the United Nations
+- Keeping peace in the non-Communist world
+- Maintaining alliances
+- Blaming change on the Communist imperialist drive
+- Outlawing of nuclear tests
+- What is the domestic attitude towards peace and freedom? We have responsibilities to pursue: to respect the rights of all others and to respect law.
+- Safeguard human intersts above national interests
+- "The US, as the world knows, will never start a war. We do not want war." Ironic words
+
+
+
+
+
+
+
+
+
+
