@@ -130,7 +130,45 @@ ASTR 101
 - We can measure mass and radii of large bodies, and therefore their denities, from which we can guess what materials they are made of
 
 
+---
 
+## Week 3 Monday -- Terrestrial and Jovian Planets
+- Materializing the world -- a new universality
+- Patterns in planets -- 'the big worlds'
+- Why is the universe so different? A large range of compositions
+- All the planets lie in the same plane
+- Same direction of rotation (almost)
+  - Venus rotates in the other direction
+  - Uranus rotates on its side; a day is longer than a year
+- Solar nebula model: like we see nebula in space, some of which are the sites of star formations
+  - Nebula -- a formation of dust and gas in place
+  - Solar nebula is a good idea
+- Orion constellation
+- Forming stars are surrounded by disks of gas and dust 
+- HL Tau: a disk formed around it with some gaps, where the mateiral is coalescing to form gaseous planets
+- You have a slowly spinning interstellar cloud (nebula) which is collapsing; it inevitably forms a dik. 
+- Material falls in along the axis of rotation -- rotation retards collapse in the plane perpendicular to the axis.
+- Major difference between the terrestrial planets and the jovial planets -- their masses are much higher than the terrestrial ones 
+- These worlds are not made of rock and metal -- mainly hydrogen, helium, hydrogen compounds
+- We have visited all the planets at least once -- 50 years to take a photo fo all the planets
+- Terrestrial planets are mainy rock and metal 
+- The Earth is mostly rock -- the atmospheres are very thin. Mercury and the moon basically don't have forces which create interesting erosion on Earth and Mars
+- Moon and Mercury are littered with craters, and there is noe rosion or plate tectonics to renew the surface
+- Atmospheres are merely thin skins on solid, rocky surfaces
+- The Jovian planets are basically all atmosphere -- no surface
+- It is believed that there is a 'surface', 'core' of highly pressurized gases
+- Very different compositions
+- Why are the planets like this?
+- In the conditions of the solar nebula, we have accretion -- individual dust grains which begin to build up in size. Planetismals then something large enough to be round with gravity
+- Kep difference is where it forms. The Sun in the middle -- it is very hot near to the sun, and very cold farther from it; so there ar edifferent choices for material. You have metal and rock which can be high solids near the sun. (Rocks and metals are actually quite rare galatically). Only choices are rocks and metal. But then you can have water ice; farther, you get methane ice, nitrogen, etc.
+- Protoplanets in the solar system can grow larger for gravity to begin attracting hydrogen and helim gas (most abundant materials in the solar nebular). Worlds  go from super-sized terrestrial planets to gas giants
+- Gas capture phase -- formed farther from the Sun; there is ice needed, which helps you to get large quickly and to collect large atmospheres. Terrestrial planets: can only form from rock and metal.
+- Jovian planets collected many moons -- brojught a lot of solid material 
+- Galileo discovered Jupiter's Galilean moons -- objects rotate around Jupiter
+- Io has fascinating geography: one of the oly bodies in the solar system which has active volcanoes. Most geologically active system; Io has a lot of sulfur; molten sulfur lakes on Io
+- Tidal heating
+- Europa --  also has tidal heating, but not to the extent of sulfur volcanoes; enough to keep it warm. Europe also has a lot of ice. Europa is possibly covered in ice flotating on top of water.
+- Titan -- it looks featureless, but bc it has a very thick atmosphere. However we landed on it. We see lakes of methane and rocks (made of ice). 
 
 
 
