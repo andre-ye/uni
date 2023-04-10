@@ -136,7 +136,7 @@ Digression: Decartes'failure to make the transcendental turn
 - We must stear clear of the "admiration" of natural science
 - Decartes misses the point with transcendental realism by departing from the principle of evidence and accepting things which are not in the field of the ego cogito.
 
-The psychological and transcendental Ego. The transcendency of the World.
+11 - The psychological and transcendental Ego. The transcendency of the World.
 - If I keep only what comes to view for me via my epoche, I exist
 - I do not find myself as a man in natural self experience: I am not Objective or positive or a psyche. Phenomenological epoche does not allow us to so quickly accept the Objective world
 - By phenomenological epoche, I reduce my objective self to my transcnednetal-phenomenological Ego.
@@ -145,8 +145,53 @@ The psychological and transcendental Ego. The transcendency of the World.
 
 ### Second Meditation: The Field of Transcendental Experience Laid Open in Respect of its Universal Structures
 
-The idea of a transcendental grounding of knowledge.
-- 
+12 - The idea of a transcendental grounding of knowledge.
+- What can I do with the transcendental ego?
+- The being of the transcnedental ego is prior to all knowledge of the Objective sense; it is the basis for it
+- A new idea of grounding knowledge -- of the transcnednetal ego as a grounding; let us perform the phenomenological epoche to understand transcendental experience
+- What is the a priori science? (Philosophy)
+- It is not just that "I am" is the only indubitable thing, but rather also the 'particular data' of self-experience -- the experiencable structure of the ego.
+
+13 - Necessity of at first excluding problems relating to the range covered by transcnedental knowledge
+- Criticizing transcendental self-experience
+- Broadening of the Cartesian meditations
+- Transcendental phenomenology, two stages:
+  1. Explore the realm accessible to transcendental self-experience. Not yet fully scientific
+  2. Criticism of transcendental experience and all transcendental cognition
+- A science in contrast with the 'objective' sciences, a science of subjectivity (not objective subjectivity)
+- Science can posit nothing but the ego and what is included in the ego itself
+- Reduction to the transcendental ego seems solipsistic. However it leads towards a phenomenology of transcendental intersubjectivity.
+- Cartesian evidence is barren -- the ego can explicate himself ad infinitum by means of transcendental experience
+- We do not have to accept the existence of Objectivity, but we must accept the existence of experience
+
+14 -- The stream of cogitationes. Cogito and cogitatum.
+- From the ego cogito to the cogitationes -- the flowing of conscious life
+- It is a mistake to take a psychological approach -- psychology is not transcendental phenomenology, because it does not necessitate the phenomenological reduction
+- Epoche does not change the fact that that cogitationes 'bear the worldly' within themselves. Every conscious process is a consciousness *of* -- regardless of the 'objectivity' of the thing it is directed towards
+- Ego cogito 'means' something or other, and bears in itself the cogitatum (the 'object' of cogitationes)
+- Conscious processes are intentional
+- A cogito always bears the cogitatum
+
+15 -- Natural and transcendental reflection
+- Straightforward grasping/perceiving vs reflections
+- We might grasp the house, but not really the grasping in and of itself
+- We already assume the world already exists
+- In the transcendental-phenomenological reflection we doubt this via universal epoche: we look at the transcendentally reduced cogito
+- Natural reflection: makes an object out of what it was previously
+- Proper reflection is to consider what can be found in it
+- What is a new intentional proces?
+- Experiential knowing: Erfahrungswissen
+- Reflecting experiencing is experiencing experiencing; flowing of subjective processes
+- The Ego as a distinterested onlooker
+- The Ego's interest is to see adn describe what he sees
+- The universality of transcendental experience
+- Noematic -- of the object being intended
+- Noetic -- of the cogito itself
+- We have not lost the world for phenomenology -- we retain it
+- The universe continues to appear unitarily -- always a co-awareness of it, a unity of consciousness
+- Whatever exists naturally exists only for me and by me.
+- I have objects as the intentional correlates of modes of consciousness in them.
+
 
 ---
 
