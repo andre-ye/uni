@@ -126,6 +126,18 @@ $$P(A|B) = \frac{P(A\cap B)}{P(B)}$$
 - Bayes' Rule: $$P(A|B) = P(B|A)P(A)/P(B)$$
 - Law of total probability: $$P(S) = P(S|G) \cdot P(G) + P(S | \bar{G}) \cdot P(\bar{G})$$
 
+---
+
+## Week 3 Monday -- Bayes' Rule
+- $$P(A | B) = P(A \cap B) / P(B)$$
+- A way to reverse the conditioning
+- $$P(A | B) = P(B|A) P(A) / P(B)$$
+- $$P(A) = P(B) P(A|B) + P(\bar{B}) P(A|\bar{B})$$
+- Law of total probability
+  - Consider a partition of a set which is mutually exclusive but wholly covering
+  - In general, $$P(E) = \sum_{\forall i} P(E | A_i) P(A_i)$$
+  - $$P(E) = \sum_{\forall i} P(E \cap A_i)$$
+- View tests as updating your beliefs, not as revealing the truth
 
 
 
