@@ -274,11 +274,18 @@ Digression: Decartes'failure to make the transcendental turn
 - The all-ness of objects and types of objects are graspable by me as the transcendental ego 
 - A universal constitutive synthesis -- all syntheses function together in an ordered manner; all actual and possible objectivities are embraced; the trask of transcendental phenomenology is to carry out phenomenological investigations within this unity
 
-Questions
-- What is the 'infinite regress' of conscious life? p. 55
-- Is there an assumption of some concept of free will here which precedes my perception?
+Key Points
+- The transcendental ego is prior to so-called Objective knowledge. Moreover, It is not only that "I am" is apodictic, but also the experiencable structure of the ego
+- Psychology is not transcendental phenomenology but parallel to it, because it conceives of consciousness as an object from outside  whereas first phenomenology understands the outside is always constructed from inside
+- Conscious processes are always intentional; a cogito always has a cogitatum. There can never be a consciousness in a void which is not directed at intending something.
+- All objects are formed as synthesis (a fundamental movement) and cointended with other intentions; appearances are always compossible; we must in our analysis not only consider what is directly given to us in terms of features and traditional analysis but consider the holistic presence and absence which together form a universal unity of consciousness.
 
-### Third Meitation: Constitutional Problems. Truth and actuality
+Questions
+- Is there an assumption of some concept of free will here which precedes my perception? How does, if at all, an unexplained concept of choice operate here? Does it hinder the efficacy of the argument?
+- Does phenomenological analysis apply to a non-human ego; i.e. an animal which can ostensibly experience but perhaps which cannot articualte that experience?
+- To what extent is the unintended part of the world? What are the limits of the ego? Is the ego definitionally what is apodictic?
+
+### Third Meditation: Constitutional Problems. Truth and actuality
 
 23 -- A more pregnant concept of constitution, under the titles 'reason' and 'unreason'.
 

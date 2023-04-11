@@ -370,3 +370,68 @@ Russian verbs which only exist in the perfective
 - The natural attitude -- the naive perspectivce -- is forbidden when we do phenomenology, we bracket these things.
 - Zahavi tries to say that Husserl takes this back -- the true ontic reality is now set truth, we don't lose anything -- this is false, we keep our world but we bracketed the existence/meaning value of it. 
 - Subject and object correlate is not religious conversion -- epoche is saying first in order to understand what acts are doing we can't presuppose that world because for all we know we could have constituted it -- if you want to keep the world, you will have to give it up.
+
+---
+
+## Week 3 Tuesday: Universality in Phenomenology I
+- Husserl -- we're not looking for transcendence (this is what is bracketed in the epoche) -- the world as transcending consciousness; we only ever know and experience that which is in consciousness
+- Transcendence as opposed to immanence -- we have to limit our investigation to that which is immanent in consciousness
+  - Immanence -- within, restricted to
+  - That which is within consciousness
+  - What is immanent in consciousness -- what is within consciousness
+  - Conscious acts are not spatial; consciousness is not spatial; within implies there is an in and an out, that it is a spatial location
+  - To what extent is a tree in my consciousness? vs. a water is in my bottle
+  - Space is in consciousness. We are gonna restrict ourselves to something in consciousness in a different sense from what is in containers. But we can get tripped up on this. We have to overcome biases which arise from the natural attitude -- biases about what reality is, waht knowing is, what it means to attain transcendence from a naive natural attitude.
+- 'within' consciousness: already potentially an embodiment of the natural attitude
+- object -- something which stands over and against consciousness as opposed to something which is immanent in consciousness. object -- 'over against', from latin (project, objectus). But we have to overthrow this bias, that this is just what an object is. So we're going to use knew words -- stuff, content, the meant. But we have to struggle against object. Even Husserl has to overcome biases which emerge in the natural attitude and which are sedimented in language. 
+- Transcendence -- that which will transcend consciousness, distinct from consciousness, etc. Husserl calls to attention that that which is transcednent to consciousness is in consciousness -- how else could you conceive of it?
+- Transcendence -- also a theological context, leaving or going beyond this world.
+- Epistemological or theological senses for the transcendent.
+- Transcendental -- conditions of the possibility of experience, knowledge, 
+- For Kant and the modern turn to the subject: the subjective conditions for the possibiility of experience -- what needs to be true for consciousness such that experience is possible at all? The transcendental refers to the deeply internal now -- 
+- If we are talking about the transcendental, we are not exactly talking about transcendence -- it is almost even reversed in a particular sense (but with both we have an outside-immanence)
+  - For Kant the transcendental is unconscious
+- **Question** -- what counts as conscious? If I am indirectly aware of something (e.g. I receive representations or measurements from something), am I really conscious of it?
+- Intentionality does not mean on purpose or volitional -- that I consciously or purposely create/intend something. From Brentano through Husserl, rather directedness to an object, term, content, 'meant'. Volitional acts are intentional. But also just by seeing fish, you are also performing an intentional act; it is directed at something.
+  - Why not 'attending', 'attention'? Perhaps attending is one kind of intending
+- Epoche -- the concrete conscious and intellectual practice of suspending or withholding judgement about the existence or ontological status of the world
+  - The world is the generic term of consciousness at this point which we all have -- whether that world which we have has anything to do with the world, we are bracketing for now. Stop presupposing a world beyond my word or your world.
+  - So do we run into transcendental solipsism? Maybe, but no -- it leads towards transcendental intersubjectivity. But we won't judge whether it is my world
+  - Not a mere mental experiment, but a practice -- you have to actively engage in it; it cannot be done for you. 
+  - While you are on a jury, you suspedn judgement until you have enough evidence to suggest otherwise 
+- The natural attitude is the attitude of consciousness which apodictically presupposes the existence of the world which is wholly distinct from the subject. The world transcends consciousness. In the epoche, we bracket the question of transcendence -- 'objccts' are immanent terms of intentional acts. 'Objectivity' is attaining knowledge which is existent independently of our consciousness.
+- We're not given being as being.
+- Phenomenology as a religious conversion
+- People were doing phenomenology before phenomenology -- Kierkegaard, Nietzsche (psychology), St. Augustin
+- For Kierkegaard, the Abraham-Isaac story reveals that we have to be willing to sacrifice immediate attachment to existence in order to relate to it on an ethical and religious level; Husserl demands something similar on the rational level
+- St. Augustin: memory is almost infinite, and in some sense all of the world is in my memory; but maybe my memory is in the world? I can live in memory... Phenomenology of memory is wild
+- The 'naivete' of the natural attitude -- to be phenomenologically naive is to fail to critically account for consciousness to posit the existence of the world; world is presupposed and already posited, set out; not realizing that existence is posited by us
+- Phenomenology comes in after the fact
+- Hegel: we constitute the world but we 'forget' it -- we do not recognize our own activity in the world; and we confront it as a gegenshtein; as already out there. Then you do philosophy and you think the problem of philosophy is the problem of the bridge.
+- There is an epistemological problem of objectivity, but not about getting from the subject to the object -- the problem of the bridge is a false problem. We've presupposed that the world must already be out there rather than something that consciousness posits for itself. 
+- Who inhabits the natural attitude? Everyone. 
+- qua -- insofar as
+- You can realize when you are asking problems with basic naive presuppositions
+- Husserl vs Decartes -- we "haven't really lost things" -- we've changed their identities in a particular sense, by what and how do appearances appear to me?
+- Why practice the epoche? Demand for apodicticity in knowledge -- emerges from reason's drive to achieve unity of knowledge
+- The idea that if knowledge is knowledge it has to be absolutely certain -- this is potentially a presupposition, maybe emerges from the background of disagreement Husserl emerges from -- for Husserl this is not good
+- A layer below utter apodiciticity -- an evidence which excludes doubt but still can be doubted; for Decartes, "I am" is indubidable
+- The being of the world is not apodictic (which is why we bracket it): we see red, but we do not see being-red; we hear a high pitch but we do not hear being high-pitched
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
