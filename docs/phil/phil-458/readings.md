@@ -192,6 +192,95 @@ Digression: Decartes'failure to make the transcendental turn
 - Whatever exists naturally exists only for me and by me.
 - I have objects as the intentional correlates of modes of consciousness in them.
 
+16 - Digression: Necessary beginning of both transcendental and purely pscyhological reflection within the ego cogito
+- The ego cogito indicates an openly infinite multiplicity of concrete subjective processes
+- The ego is concrete only in a connected intentional life
+- Transcendental-descriptive egology has to begin with the ego cogito
+- Separation between the cogito and the cogitatum qua cogitatum
+
+17 - The two-sidedness of inquiry into consciousness as an investigation of correlatives. Lines of description. Synthesis as the primal form belonging to consciousness
+- Synthesis -- I see that 'this' die is given continuously such that it appears to be the same thing throughout time.
+- Each appearance is a synthetic unity
+- Each passing cogito intends its cogitatum; the cogito has a 'structre of multiplicites'
+- Facts of synthetic structure -- give noetic-noematic unity to single cogitationes
+- Intentionality is the fundamental characteristic of psychic phenomena, Brentano
+
+18 - Identification as the fundamental form of synthesis. The all-embracing synthesis of transcendental time.
+- Identification -- a passively flowing synthesis.
+- Every subjective process has its own temporality
+- Unity of appearances is a unity of synthesis -- making one identical die, the connectedness of cogitationes
+- The existence of the die is parenthesized in the epoche, but one identical appearing die is continuiously immanent in my consciousness.
+- The object of consciousness is included in the subjective process; not necessarily some external imposition.
+- We can intend the same die (for consciousness) many different ways.
+- "Every consciousness in which the non-identical is intended unitarily is ultimately a synthesis in this sense"
+- The whole of conscious life is unified synthetically; it is a cogito
+- Fundamental form of universal synthesis is the consciousness of internal time; immanent and infinite time
+- Modes of appearance are also intentive components of conscious life
+- Relation between a viewer and itself.
+- All of conscious life is unified synthetically.
+- 'infinite regress'
+
+19 -- Actuality and potentiality of intentional life
+- The multiplicity of intentionality -- we can intend many different dimensions even as we experience them as one thing.
+- Every actuality involves potentialities -- possibilities which are part of the subjective process and actualizable by the ego
+- Every subjective process has a horizon
+- Every perception has a reference to the 'genuine' object 
+- Perception has horizons made of possibilities of perception -- what could we have intended if we directed our perception otherwise?
+- This is stored in memroy in modified form
+- Every perception is situated within a horizon of the past -- awakenable recollections
+- Possible recollections might be actualized by "my initiative"
+- Freedom is always open to possible interventions
+- Horizons are 'predelineated potentialities'
+- Cogitatum qua cogitatum is never present to actual consciousness
+- There is a determinate structure to the indeterminacy of the predelineation of horizons: a die is the die in advance even though the particular determination is open -- there are multiple different forms an object can take on
+- Leaving open is what makes the horizon
+- Everyc onsciousness has the essential property not only to change into new modes of cnosciousness continuously on the same object (unity of synthesis) but doing so only according to the horizon intentionalities
+- An object is a pole of identity -- having yet to be actualized, pointing towards a noetic intentionality
+
+20 -- The peculiar nature of intentional analysis
+- The analysis of consciousness must be distinguished from conventional anaysis.
+- Conscious analysis is not just the data of consciousness into elements
+- An uncovering of implicit potentialities in consciousness -- an unfolding of what is consciously meant.
+- Intentional analysis
+- Intending beyond itself as implicit in any consciousness -- I always mean more than the Same
+- Phenomenologists do not naively devote themselves to understanding the intentioanl object (explicating its parts and properties); by doing so the noetic determinate multiplicities of consciousness remain hidden and unpenetrated
+  - It is not just what is intended but also what is not intended but which could be intended
+  - Consciousness makes clear an existing and determined object in it, but the phenomenologist includes also what is non-intituitively cointended.
+  - The intentional reaches beyond isolated subjective processes which bring themselves to our intention. -- actual and potential subjective processes
+- A new approach -- we concern ourselves with the subjective oranges.
+- Intentional psychology -- Brentano. But failed to recognize the fundamental dimensions of the method
+- There is no necessary determinism or fixedness to objects in consciousness; however, intentional analysis is still important; we can focus on the unity of consciousness in strict concepts
+
+21 -- The intentional object as 'transcendental clue'
+- The universal type -- ego, cogito, cogitatum; universal descriptions
+- The particularization of a type
+- The intentional object plays the role of the transcendental clue to the infinite multiplicites of possible cogitationes which, together in their synthesis, bear the intentional object
+- An object given 'straightforwardly' -- the place of departure
+- Formal universality -- any object can be thought of as cogitatum; we find the possible modes of consciousness fall into different types -- perception, retention, recollection, expectation, representation by analogy -- which apply to any conceivable objects
+- Particularizing the 'empty universality' of the intentional obejct
+  - Formal-logical/ontological: modes of anything (objct, universal, plurality, predicatively formed, etc.); objectivites which are real vs categorical objectivities
+  - Material-ontological: beginning from a real individual which is differentiated into real reasons
+- What is the noetic-noematic structure ofe ach type?
+- The trask of transcendental theory is to articualte the set of structural tasks; belong together in a formally universal theory of any object and the horizon of all possible objects of consciousness
+- Transcendental theories arise from relating to any spatial things ever; from the transcendental epoche.
+- DIstinguishing the particular and the universal
+- The world is a universal problem of egology
+
+22 -- The idea of the universal unity comprising all objects, and the task of clarifying it constitutionally
+- Types of objects viewed purelya s cogitata are clues for transcendental investigations
+- Multiplicities of consciousness belong together for essential reasons
+- An 'Objective' object has a structure in the transcendental ego governed by a rule
+- The object indicates a universal rule governing possible other consciousnesses as identical, for every imaginable object
+- The all-ness of objects and types of objects are graspable by me as the transcendental ego 
+- A universal constitutive synthesis -- all syntheses function together in an ordered manner; all actual and possible objectivities are embraced; the trask of transcendental phenomenology is to carry out phenomenological investigations within this unity
+
+Questions
+- What is the 'infinite regress' of conscious life? p. 55
+- Is there an assumption of some concept of free will here which precedes my perception?
+
+### Third Meitation: Constitutional Problems. Truth and actuality
+
+23 -- A more pregnant concept of constitution, under the titles 'reason' and 'unreason'.
 
 ---
 

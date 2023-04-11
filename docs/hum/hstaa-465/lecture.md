@@ -664,6 +664,88 @@ Part II
 	- Car fashion -- designed to become obsolete
 	- A way of manipulating consumer tastes by planning to keep things changing so consumers can keep up with what is the new thing now.
 	- Creation of taste
+	- Waste isbuilt into the system -- proliferation of landfills
+	- Waste as a byproduct of the capitalist system -- increases standards of livign and produces commodities, sure; but much waste
+	- What do people want to buy? Keeping up with the Joneses -- having good jobs which pay wages (purchasing power) which people can spend; we keep wages high so we can be consuming, which is a problematic relationship
 - Highways
-	- 
+	- Cards are central to the economy and the suburban environment
+	- Surbibanization is happening in many places in the world
+	- Car culture is pretty unique to the US; the iea that your car becomes an expression about who you are as an individual; suburbs designed with cars and not busses in mind. Cars become central 
+	- Henry Ford was in many ways an idealist; a particular vision of an ideal American society -- worker sshould be able to buy the products that they're building -- not egalitarian but a fair society in which people aren't slaving away; they can buy waht they produce. 
+	- Fordlandia, Brazil
+	- Cars have been central to the middle clas enviornment for a long timr -- definitely not an accident.=
+- Oil -- no groweth wihthou it - 
+- The government goes through a lot of funding to produce new things
+- The new suburban house is now marketed heavily -- to rid it of the intruder
+- Idea of being sold a chemically sterile, insect-free world. Being promoted as if the world is not right unless the insects are gone.
+- Organophosphate deaths in the 1940s -- begin to see government regulation after deaths of factory and agricutlure workers are dying; indications that something is off.
+- FIFRA (1947): starts as an attempt to protect consumers, turns out as a snake oil law -- no advertising if it doesn't work
+- Murray Bookchin -- even in 1952 there is still revolutionary thinking: principle motive for chemicals and demands on frmland are imposed by the needs of profit and competition. 
+- Viscose Rayon & CO2
+	- Fllammable fabrics -- much more of this stuff than ever before
+	- Flammables -- 6.4k people being killed a year by flammable fabrics and other consumer goods
+	- Little kids' halloween costumes produced with Viscose Rayon
+	- Clothing catches on fire so fast
+	- Polyurethane foam -- put on furniture, referred to as 'solid gasoline'
+	- Regulations on flammable fabrics -- Flammable Fabrics Act (1953)
+	- Part of an American story: what is our fix? Never social or environmental confrontations to social or environmental problems: not by producing less flammable stuff, but rather alternative technologies -- tinkering with the technology so we cna continue to sell more
+	- Chemical fire retardants
+- Worker's health vs consumer satisfaction
+	- Focused heavily on consumers -- the one group in Americna history which we have always struggled to come to terms with is industrial works -- this was never part of the American Dream; we don't celebrate the American industrial worker.
+	- These sorts of topics are often a focus on the consumer
+	- Carbon Disulfide -- as a consumer product, it's not very dangerous. But it is the workers who are producing this; inhaling it , touching it, etc.
+	- Vinylchloride Monomer makes PVC pipes, which don't get regulation until the 1970s after OSHA is created
+	- When they get regulated, it's for consumers -- not really for workers
+- 1950s -- multiple-chemical sensitivity
+	- Large gypsy moth problem in long island
+	- Response -- DDT
+	- Marjorie Spock -- lives with another woman who suffers from multiple-chemical sensitivity.
+	- New York sprays DDT over their farm; Spock begins suing the state of New York because spraying their property. Begins as a property rights issue. What it becomes is more a sotry about public health. 
+	- Attracts Rachel Carson
+- Rachel Carson (1907 - 1964)
+	- Biologist from Johns Hopkins
+	- Is interested in these stories about nature and environmentalism
+	- Silent Spring, 1962 -- investigations, meant to inspire women (targets of consumerism) and also pointing finger at the entymologists and other federal agents -- sterile, insect-free environments
+	- Rising fears of nuclear way -- chemicals in consumers, health threats, etc.
+	- Silent Spring makes a big splash; Kennedy reads it.
+	- Criticizes post-war pesticides, USDA entomologists, the chemical industry, the intimacy between the state and the industry
+	- Becomes influential in ecosystems ecology
+	- Rachel Carson's book gets Kennedy thinking about the consumer bill of rights
+- Reactions to Silent Spring
+	- Smear campaign against Rachel Carson as a woman -- she can't be boht a scientist and a woman
+	- Monsanto -- the desolate year, overrunning with insects if we don't use pesticides
+	- Congress begins investigating
+	- Kennedy creates an advisory committee
+	- FIFRA act is improved a little bit to respond to these sorts of problems
+- Kennedy's Consumer Bill of Rights in 1962 -- "consumers, by definition, includes us all"
+- DDT Lawsuits: trucks sspraying DDT going down on people -- the kind of optimism and comformity that Ameircans have, we have faith that these sorts of things are safe or they can be saved -- not actuely toxic itself but not really questioned
+	- No investigation about the interaction of multiple chemicals
+- Environmental Defense Fund comes out of the DDT fight
+- Nuclear science -- changing Americna society
+- Strontium 90 -- what nuclear tests are doing to people. Strontium 90 is a byproduct of nuclear fission. Strontium 90 is like calcium; it attaches to bone, teeth, skin; we get strontium 90 in our bodies. 
+- 1956 -- sound the alarm on this. Late 40s and early 50s, tos peak out against nuclear testing is a bit anti-American but mainstream politicians and people claiming that 10k people a day are dying from forms of radiation
+- *On the Beach, 1957 + 1959. The nuclear cloud is coming for us
+- Baby Teeth Experiment, 1959
+	- Saint Louis -- look into the problem of strontium-90. Asking them to send children's baby teeth.
+	- Collecting hundreds of thousands of baby teeth
+	- Children born in St Louis in 1963 have 50x more Strontium 90 than in 1950
+	- Results of nuclear testing are coming home
+- By 1962, when the results of the baby teeth experiment and such are coming out, what before was a radical notion is now a thing which mainstream middle-American people are doing -- protesting against atmospheric testing
+- 1963, Kennedy signs the partial nucelar test bans -- does not ban underground nuclear testing
+- Middle-America's women are being targeted
+- Ernest Dichter -- "One of the basic problems of prosperity, then, is to demonstrate that the hedonistic approach to life is a moral and not an immoral one." -- having a want and satisfying it is moral and not immoral. A change going on in the consumer economy. The single biggest cultural influence on Americna life is protestant Christian religion. 
+- Greatest cultural influence today is consumerism -- even edating is consumer based (is this good enough?; shopping for a date)
+- Values which used to be lodged into the consumer marketplace have moved into alternative places.
+- For the advertisers and marketers, hedonism is necessary. Bush -- what can you do for your country? Go shopping.
+- This idea that consumerism is good is not 'natural' -- it's historical, and emerges from a particular economy. Nothing is inevitable; decisions get made, and somehow we end up where we are. This swing in American life...
+- 19th century, debt is something which Americans desperately try to stay away from (it makes you unfree); believed in moral values of hard work, etc. Dichter: turning to a hedonistic way of being, go satisfy all of your wants and desires.
 
+---
+
+## Lecture 5: Critique, Discontent, and Alternatives
+The influences of African-American art-forms and the impulse to non-comformity helped to further fragment the 1960s as especially young people searched for alternate forms of expr
+
+- God and reactions to Communism -- God-given vs natural-given, self-evident
+- Turn towards unabashed consumerism challenges many previous morals
+- We in many ways are more consumers than we are citizens -- who do very little to our political citizenship even though we consume daily.
+- Conservatism, genuine -- technological conservatism, opposition to enamorment with consumerism
