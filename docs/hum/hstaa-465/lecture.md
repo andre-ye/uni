@@ -773,3 +773,96 @@ The influences of African-American art-forms and the impulse to non-comformity h
 - Bebop -- a new form of jazz which is fast and loud, experimental, and exploratory
 - Many of the Black jazz musicians faced greater freedom abroad than in America; Billy Holiday couldn't walk through the front door at the venue that she was playing at
 - LSD captures the American imagination, particular in psychological circles -- advocated as a sort of miracle drug
+- Public relations, marketing, advertising, and other kinds of political or social persuasion groups prop up
+- Proliferation of psychology and psychiatry explode post-WWiI; people get jobs in ad firms and job firms, work for politicians
+- Critique of the ways in which Americans are being persuaded to buy lots more stuff and what the effect of this is
+- Critiques of conformity in the 1950s and 1960s
+	- *The Lonely Crowd*: Americans couldn't think for themselves, too much falling into lockstep and doing what you're told. Isn't good for science, democracy, etc.
+	- Not just about noncomformity but continuing to encouarage creative discovery
+- Timothy Leary, experiments with LSD; LSD comes from Europe (Switzerland), sent to the US hoping it can be marketed
+	- Leary becomes interested in it after taking it; finds illuminating results
+	- Aldous Huxley experiments with LSD and acid; it breaks through some barriers
+	- Leary begins to promote the use of LSD in a therapeutic way
+	- Is let go from Harvard given his LSD experiments
+	- Becomes the face of using LSD, acid
+	- CIA is exprimenting with drugs -- how to keep people motivated and awaked; how to control human motivation and emotion -- the elements in them which can be turned into good soldiers
+- Hipsters
+	- The influence of African-American art forms -- (re)emergence of individuals linked to the beats and aesthetically and behaviorally to black art forms -- hipsters
+	- Hipsters are dimensions of the market system -- go to the fringes of what is socially acceptable / marketable -- take from the fringes (Black art forms -- jazz, hight of eexperimental music), find what is good, and bring it to the mainstream
+	- Emeergence of a 1950s - 1960s hipster type which is tied in with the beats -- Marlon Brando, *A Streetcar Named Desire*, James Dean, NOrman Mailer
+	- An intentional working class affectation which is key to the hipster aesthetic -- playing around with working class stereotypes -- hipsters tend to come from middle to high class but take up these coded aesthetics
+	- Love and theft -- like what they see in Black performances and want to take it -- this is the role of the hipster, to facilitate incorporaton
+	- Norman Mailer writes "THe White Negro" about the emergence of the hipster searching for "an orgasm more apocalyptic than the one that preceded it"
+	- Find the higher lifestyle from the fringes
+	- Represent resistance to mainstream and modern society, but also feed modern society
+	- Little Richard $$\to$$ Pat Boon $$\to$$ Elvis Presley: brings rock and roll to the mainstream, draws much from Black roots, plays with gender -- a synthetic character
+- Hipters and beasts, adjacents
+	- Sam Shepard, prolific playwright -- mid-60s plays, continues to write 12, 13 plays a year being put in off-broadway shows
+	- Ed Sanders 
+	- Hunter S. Thompson -- 'gonzo' journalist -- inserted himself into his stories and the lives he was writing about
+	- Breaking free of the standard molds of playwriting, music, etc. All of these become somewhat cult figrues -- not cult figures but are bringing in new audiences
+- Challenges to conformity
+	- Humor and satire become very important
+	- Mad Magazine and Cracked -- 1952 and 1958, introduce satire to a sterile American society
+	- Britain -- Monty Python, making fun of the British empire. Satire of the Royal Family, of empire, etc.
+	- Dr. Strangelov, Stanley Kubrick -- paradoxes of the nuclear deterrent -- that we develop weapons to never use them; you lose if you win
+	- By the 1960s, satire is an established tradition
+- The folk movement
+	- Founded in individuals like Pete Seeger, travels around and plays a lot of music
+	- Concentration on 'folk' -- supposed to be the music of the people
+	- Peter Seeger reflecting on the IWW -- unionism and togetherness, stirring up the people
+	- Utah Phillips
+	- Bob Dylan comes of age in the 20s; recalls the communist influence of the 1930s labor activism -- particularly Woody Guthrie
+	- Reflecting on the 1930s labor activism, critique of the government
+	- Joan Baez, Phil Ochs, Bob Dylan
+	- Attract a large following along college students -- articulating key dimensinos of their life; being led into a new expressive space
+	- Bob Dylan, Newport Folk Festival 1965 -- plugs into the guitar to the amp guitar and plays electrical guitar, people booed him; felt betrayed that this creative musician had gone 'sellout' -- this moment is defining for how people say the folk movement and Bob Dylan
+- Conformity of the post-war decade alienated some Americans who turned to critique, alternative lifestyles, and art forms for a wide range of motivations, from self-satifaction to social and political commentary.
+- A search for authenticity
+
+---
+
+## Lecture 6: Kennedy and the Cold War
+Kennedy's short tenure as Presdient showed him to be a Cold Warrior who was ready to fight the spread of communism, but his experiences in office altered his political rhetoric by 1963 to a focus on world peace.
+
+- Cuban missile crisis -- changes the focus of American and Soviet foreign policy; brings the US and USSR in close nuclear conflict
+- A change of focus and the big ideals
+- Goes into the presidency in 1961 -- has to play tough with communism -- only way to politically stay afloat, way more military spending than Eisenhower, stares down the soviet
+- Near the end of his life, he changes his tune -- the Cuban Missle Crisis
+- THe US in Latin America
+	- Since the early 19th century, the Munro doctrine to the focus on growing fruit and bananas throughout latin America, it has remained very important
+	- Part of what Kennedy proposes is the Peace Corps -- alternative to military service, still counts as service but you go to a part of the world and build houses or schools
+	- Alliacne for progress -- looks like New Deal policies -- farmers demonstrating new farming techniques -- more technological sophistication than existed in Latin America otherwise, like the Truman doctrin e-- people on the fence about Communism, bringing them into our sphere by doing something good.
+	- The carrot -- lure the poeple towards you
+	- The stick -- the School of the Americas (Western Hemisphere Instittue for Security Coopertion) -- set up after WWII in the Panama Canal zone -- US has a lease of the Panama Canal zone. Trains right wing militias to fight leftists throughout Latin America. Becomes the other part of the peace corps -- the part which will beat you. People here will be responsible for Che Guevara
+- John F. Kennedy
+	- An important part of his image as a new president in 1971 is to be a cold warrior, will not be weak on communism
+	- "paya ny price, bear any burden" -- the US will unconditionally stand up tot eh USSR
+	- Gets massive budgets for military spending; Eisenhower was a fiscal conservative, much lower than Truman's and certainly Kennedy's.
+	- Kennedy beefs up the military much for flexible response -- not just relying on US nuclear deterrent, but conventional forces which can be built up in other ways
+	- Eisenhower, New Look -- fueling nuclear deterrent. For Kennedy and his advisors, too many small conflicts -- things sorted out without nuclear weapons
+	- Alternative fallout shelters and missile systems
+	- Focus on stopping wars of 'national liberation' -- stopping leftist and nationalist efforts funded by communist states like China and the USSR in Cuba, Vietnam, Laos, the Congo -- Kennedy sees a coming war of national liberation and wants to stop it
+	- Creation of Navy SEALs and a large focus on expanding the Army Green Berets
+	- Inspirational to young americans
+- Foreign policy
+	- The arms race and the space race -- not wanting to lose to the Soviets
+	- soviets already put a satellite in space,so the US would rush to put a man on the moon
+	- Flexible response military policy -- much more spending (Helicopters in Vietnam -- major mode of transportation)
+	- Cuba -- dealing with Castro -- secretly, plotting out many different ways to get Castro out of power
+- "Best and Brightest" -- the advisers and cabinets
+	- Drawn from many places who were not necessarily traditional Washington fixtures
+	- Considered many mainstay figures in teh Democratic Party 
+	- Kennedy goes with a lot of young guys -- nontraditioalists
+	- Robert McNamara -- president of Ford motor company, now runs the defense department
+		- Capital and the state -- head of Ford to head of the defense departmetn to head of the international bank
+	- Maxwell Taylor -- WWII general, part of joint chiefs
+	- McGeorge bundy and Walt Rostow -- policy wonks, out of universities -- writers, poly sci, put out of university jobs into government -- presumably smart guys not tainted by Washington history -- hopefully shape things up and be creative
+	- Robert Kennedy is the Attorney General and one of John Kennedy's closest advisors
+	- Walt Rostow -- architect and defender of the Vietnam War
+- Liberal domestic agenda
+- 
+
+
+
+

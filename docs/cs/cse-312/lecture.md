@@ -139,6 +139,24 @@ $$P(A|B) = \frac{P(A\cap B)}{P(B)}$$
   - $$P(E) = \sum_{\forall i} P(E \cap A_i)$$
 - View tests as updating your beliefs, not as revealing the truth
 
+---
+
+## Week 3 Wednesday -- Independence
+- Two events $$A, B$$ are independent if $$P(A \cap B) = P(A) \cdot P(B)$$
+- Statistical indepednence: we're talking about probabilities, not physical interactions
+- If $$A, B$$ both have nonzero probability, then $$P(A|B) = P(A)$$ and $$P(B|A) = P(B)$$ -- if the two are independent
+- Two zero-probability events are always independent
+- If either of your events has zero probability, it's going to be independent. 
+- Chain rule: $$P(A_1 \cap A_2 \cap \hdots \cap A_n) = P(A_n | A_1 \cap \hdots A_{n-1}) \cdot P(A_{n-1} | A_1 \cap \hdots \cap A_{n-2}) \hdots P(A_2 | A_1) \cdot P(A_1)$$
+  - Starts from $$P(A \cap B) = P(A | B) P(B)$$
+  - The probability of an intersection of events -- start from $$P(A_1)$$, then $$P(A_2 | A_1)$$, then $$P(A_3 | A_1 \cap A_2)$$
+- Conditional independence: $$A$$ and $$B$$ are conditionally independent on $$C$$ if $$P(A \cap B|C) = P(A | C) \cdot P(B | C)
+  - Condition everything on C
+  - If we condition on $$C$$, these events become independent
+  
+
+
+
 
 
 

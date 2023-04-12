@@ -170,10 +170,46 @@ ASTR 101
 - Europa --  also has tidal heating, but not to the extent of sulfur volcanoes; enough to keep it warm. Europe also has a lot of ice. Europa is possibly covered in ice flotating on top of water.
 - Titan -- it looks featureless, but bc it has a very thick atmosphere. However we landed on it. We see lakes of methane and rocks (made of ice). 
 
+---
 
-
-
-
-
-
-
+## Week 3 Wednesday -- Asteroids and Comets
+- Addition of ices in the outer solar system means that worlds which start out as small amount of rock grow very quickly that they develop gravity in the solar nebula and begin to clear out an area of the nebula by sucking out gas
+- Titan -- Saturn's planet, very large moon
+- Every jovian planet has a ring system
+- Saturn has obvious rings  which have been known for a long time; Galileo observed something was off; Christiaan Huygens observes Saturn through a Saturn-year and sees with the different profiles that it has a ring at a tilt; sometimes e see it at an angle or edge-on.
+- Saturn's rings have small moons
+  - F-ring: small shepherd moons in the rings help keep bands in check -- to keep them in a flat structure, carving out gaps in them
+- Rings are very thin -- less than a few hundred meters, which is very very narrow -- partly because these moons keep things in line
+- Rings are made of many tiny ice particles which orbit Saturn
+- Ring particles can easily become charged and interact with Saturn's magnetic field; therefore it begins to rain down on Saturn
+- Rings are not going to last more than a million years -- either we're very lucky or there's new material going into the rings.
+  - Rings are transient, which implies a short lifetime -- what happened here to create these rings?
+- All Jovian planets have ring systems -- it's just that Saturn has very well defined rings.
+- Jovian planets have collected many moons; if rings are created by moons coliding and creating debris, then that makes sense
+- Saturn's large rings may come from a particularly large impact, but the origin isn't entirely clear
+- Jupiter gravitationally dominates a lot of the solar system
+  - Comet Shoemaker-Levy 9 crashes into Jupiter, producing dozens of impact sites -- massive explosions of energy
+- 40 meter object explodes in the atmosphere destroyed over 2000 sq km of forest.
+- Dinosaurs almost certainly went extinct because of an impact in the Gulf of Mexico -- 
+- Most impacts are small
+- Meteriorites hit the Earth ever few minutes and prroduce shooting stars
+- Every few years, we will eencounter a ad '
+- Any chunk of thing which falls into the atmosphere is a mteor; most likely degree
+- Most meteors are made of bits of astreorids and comets
+- Jupiter has its own colllection of asteoirds
+  - Just approaching Jupiter forced Shoe-maker Levy 9 to break apart -- shear forces getting to Jupiter
+- Comets are full of volaties (ices), frostline where ice sublimates -- particles get pushed apart and form comets of their own. The tail isn't streaking through space and stuff is falling behind -- the tail is being carried away by the sun's win; particles are now in a different orbit than the original comet
+- Churyumov-Gerasimenko -- you can jets of material evaporating from its surface and steaming away into space
+  - Rosetta mission -- has a very weak and constructed shape
+  - What do we do if one of these come by?
+- Asteroids are generally made more of rock and iron, but are loosely held together by gravity -- well modeled as bubble piles. You're throwing small stuff together; stuck for now but not for the future
+- Earth's atmosphere is fairly thin -- it won't protect from large bodies
+- Few comets ever enter the inner solar system and are unlikely to strike Earth; most are found in the Kuiper belt beyond Neptune
+- Kuiper belt -- area of many small rocky icy bodies which have been put out by the Jovian planets -- leftover planet making material
+- Oort cloud -- far away from the solar system is a lot of icy bodies thrown in a huge area with a spherical distribution; theorized to exist because comets have a lifetime; they get small everyt ime they come by the sun but we stilll see them; where are they coming from? Idea -- very large cloud of material which holds material getting thrown into the solar system.
+  - Things which are disc shaped are disc shaped because they come from the solar nebula
+  - In close encounters getting thrown over th eplace with the jovian planets, we get spherical shapes; most of the solar system has been cleared out
+- Most asteroids are in the asteorid belt, but they are not that closely packed.
+  - One of the few places in the solar system where you can throw in a rock and it can not get thrown around byt eh planets. 
+- Near-Earth Objects -- orbits cross with the orbit of Earth at some point.
+- Most 1km+ asteroids have been discovered.
