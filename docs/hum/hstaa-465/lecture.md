@@ -749,3 +749,27 @@ The influences of African-American art-forms and the impulse to non-comformity h
 - Turn towards unabashed consumerism challenges many previous morals
 - We in many ways are more consumers than we are citizens -- who do very little to our political citizenship even though we consume daily.
 - Conservatism, genuine -- technological conservatism, opposition to enamorment with consumerism
+- Comformity of post-war enforced Ameircan values with patriotism, consumerism, etc.
+- Critics of modern society -- Packard, the Hidden Persuaders / Risman, the Lonely Crowd -- cannot think for yourself.
+- Critique of consumerism
+- Galbraith -- focus on market satisfaction of produced desires
+- Communism is set forth here -- enforcement of the mainstream
+- Nuclear forces -- Oppenheimer expresses doubt on the hydrogen bomb exactly -- the philosophical metaphyisical conundrum, eventually accused of being a Communist
+- The idea of "the Counterculture" -- the recent literature says that this is a horrible word to encompass much too many people. It is not a definition of a group. The 'counterculture' certainly directly challenges the mainstream, but there are many dimensions here. What about people out to have a good time, to smoke pot and listen to good music? This is not the same as movements with a political and philosophical edge. 
+- Hippie movement lasts very short -- 18 months, consumerism culture gobblesd up hippieism.
+- Expatriate writers
+	- James Baldwin -- 1948, lived outside of the US. Felt could be more authentically himself outside of the US
+	- Richard Wright, Arthur Himes -- novelists, critique from the outside of Ameircna society
+- Allen Ginsburg, Howl. 1955. A centerpiece of the counterculture, articulating what that something which is wrong is. Becomes an intellectual keystone
+- The Beats
+	- Jack Keruoac -- being used and raw, On the Road -- non-comformity, no attachment, nomadic living
+	- Keruac drank himself to death in 1969
+	- Self indulgence and often a focus on male heroism -- felt that they had discovered an unfiltered freedom
+	- Breaking boundaries in American life
+	- Not everyone can go on the road -- women are often left behind. The solipsism of this poetry
+	- William Bunourghe publishes a postmodern novel; nonlinear, meant to be opened anywhere. 
+- 1950s to 1960s, Ameircnas are somewhat fine with drugs; many take drugs
+- Jazz works alongside the beats; an admiration for Miles Davis, Bud Powell, etc. (beaten by police)
+- Bebop -- a new form of jazz which is fast and loud, experimental, and exploratory
+- Many of the Black jazz musicians faced greater freedom abroad than in America; Billy Holiday couldn't walk through the front door at the venue that she was playing at
+- LSD captures the American imagination, particular in psychological circles -- advocated as a sort of miracle drug

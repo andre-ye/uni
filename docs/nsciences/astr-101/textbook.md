@@ -461,8 +461,122 @@ earth, moon, sun, jupiter
 - Jupiter has no solid surface to slow down atmosphered isturbances
 - Photochemistry: chemical changes caused by electromagnetic radiation
 
-## Chapter 14: 
-Cosmic Samples and the Origin of the Solar System
+## Chapter 12: Rings, Moons, and Pluto
+
+### 12.1: Ring and Moon Systems Introduced
+- Rings and moons in the outer solar system have different composition than those in the inner solar system; this is given by different cooling procedures during formation
+- 1/3 of moons in the outer solar sytem are in direct orbits -- west to east direction along the equator.
+- Retrograde: east to waste or high eccentricity or high inclination -- located far from the planet
+- Jupiter has 79 known moons and a faint rings
+  - 4 large moons -- Callisto, Ganymede, Europe, Io, discovered in 1610 by Galileo -- these are Galilean moons
+  - Most of Jupiter's moons are retrograde orbits very very far from Jupiter
+- Saturn has > 82 known moons and many rings
+  - Titan -- only moon with a substantial atmosphere and lakes / seas of liquid hydrocarbons
+  - Enceladus -- active water geysers
+  - Saturn's rings are collections of ice fragments orbiting Saturn in a traffice pattern
+- Uranus: Ring and moon system is tilted at 98 degrees
+  - 11 rings
+  - 27 known moons
+- Neptune
+  - 14 known moons
+  - Triton: large moon in retrograde, which is unusual
+
+### 12.2: The Galilean Moons of Jupiter
+- From 1996 to 1999, Galileo spacecraft went through the jovian system and had close encounters with Galilean moons
+- Callisto
+  - Outermost moon
+  - Large distance from Jupiter
+  - Callisto rotates in the same period as it revolves; keeps the same face towards jupiter
+  - Callisto's day is its month
+  - Low surface temperature; permannet water ice
+  - Callisto is not fully differentiated
+  - Callisto covered with impact craters
+- Ganymede
+  - Largest moon in the solar system
+  - Has a lot of cratering
+  - Ganymede is a differentriated world
+  - Rock sinks to form a core about the size of the moon
+  - Ganymede has a magnetic field and intermittent geological activity
+  - Tidal heating -- gravitational flexing due to the gravity grap of Jupiter
+- Europe
+  - Has an ocean, wau
+  - Acquired the majority share of ice; infrared radiation vaporized ice near Jupiter, leaivng Europa and Io with compositions similar to inner planets
+  - Europa is more geologically active than Earth
+  - Europa has a very complicated surface, with quasi straight lines. Form if it floats without much friction on liquid water.
+  - A global ocean on Europa
+  - Europa -- only palce in the solar system other than Earth with large amounts of liquid water
+  - Ocean must be warmed by heat escaping the interior of Europa
+  - Life derives its energy from minimeral laden water. Maybe there is life under Europa?
+- Io
+  - A close twin of the moon
+  - Has very high volcanism; plumes which extend several 100 kms out in space
+  - A lot of volcanism on Io has hot silicate lava
+- Tidal heating
+  - Effect of gravity through tidal heating
+  - If Io always kept the same face towards Jupiter, the bulge would not generate heat; but because of its uncircularity, it twists back and forth, which generates heat
+
+### 12.3: Titan and Triton
+- Saturn's largest moon Titan has similarities to Earth's moon
+  - Titan, seen in 1655
+  - First moon discovered after the Galilean moons
+  - Titan has a thick atmosphere and lakes and rivers and falling rain
+  - Only moon or planet other than Earth with bodies of surface liquids
+  - Atmospheric methane can condense and fall as rain
+- Triton
+  - Largest of Neptune's moons
+  - 75% rock, 25% water ice
+  - Coldest temperature of any visited body
+  - Small atmosphere
+  - Long history of geological evolution
+
+### 12.4: Pluto and Charon
+- Is Pluto a planet?
+- Uranus has slight departures from its predicted orbit
+- Pluto could not have exerted any measurable pull on Uranus; the reported small anomalies were in fact not real
+- Pluto is not a giant like the 4 outer solar system planets
+- Pluto has a moon Charon and four much smaller moons. 
+  - Maybe Pluto and Charon are double worlds
+- Pluto is an odd cousin -- Pluto is not unique: Eris, Makemake. A dwarf planet -- planet much smaller than the terrestrial planets
+- Asteroid Ceres initially hailed as a planet
+- Pluto's surface is highly reflective; partial sublimation
+- Pluto is not geologically dead, even though it is so small. Remarkable geological activity
+- Charon keeps the same size towards Plato and vice versa -- the two constantly face each other. A double tidal lock
+
+### 12.5: Planetary Rings and Enceladus
+- All 4 giant planets have rings
+- Each ring system has billions of moonlets / small particles
+- Rings have a complicated structure related to interactions between ring particles and larger moons
+- A ring -- collection of many many particles, each like a tiny moon which follow's Kepler's laws
+- The ring does not rotate as a solid body -- a ring is not really a thing rotating
+- Rings of Saturn and uranus; particles are close enough to exert gravitational influence; sometimes rub together and bounce off each other
+- How did rings come to be?
+  - Breakup hypothesis: rings are remains of a shattered moon broken by a passing comet or asteroid; tidal forces disperse it into a disk
+  - Breakin hypothesis: rings are particles who are unable to come together to form a moon
+- Gravity is important -- tidal forces can drastically change the dynamics
+- Saturn's rings are broad and very thin
+- Enceladus: possible subsurface ocean of water feeding the geysers which is conveniently escapign into space
+- Uranus has narrow and black rings discovered by occultation
+- Neptune's rings do not have evenly distributed rings
+- Planetary rings have intricate structures, which is why they are interesting.
+  - Without moons, there would be no rings, because the small particles would dissipate
+- Gaps in Saturn's rings are gravitational resonances from smaller innoer moons; resonance: ratios of gravity
+
+## Chapter 13: Comets and Asteroids: Debris of the Solar System
+
+### 13.1: Asteroids
+
+### 13.2: Asteroids and Planetary Defense
+
+### 13.3: The Long-Haired Comets
+
+### 13.4: The Origin and Fate of Comets and Related Objects
+
+
+## Chapter 14: Cosmic Samples and the Origin of the Solar System
+
+### 14.1:
+
+### 14.2: 
 
 ### 14.3: Formation of the Solar System
 - Basic properties of the planetary system: motion, chemical, and age constraints.
@@ -491,6 +605,5 @@ Personal notes
 - We need a star to measure and mark time
 - Calendars: the necessity of time and the flacidity of skipping time
 - Lunar eclipse: anyone who can see the moon can watch it be eclipsed by the ground they stand upon
-
-
-
+- In the discovery of Pluto, initially it was thought that a mysterious body must have been influencing Neptune because of reported anomalies in Neptune's path. However later it was shown that Pluto could not have influenced Neptune and that these recording anomalies were likely false. This is a sort of negation of proposition which in turn renders a positive result.
+- Sublimation -- from solid to gas. 
