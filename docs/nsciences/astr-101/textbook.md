@@ -564,19 +564,85 @@ earth, moon, sun, jupiter
 ## Chapter 13: Comets and Asteroids: Debris of the Solar System
 
 ### 13.1: Asteroids
+- Most asteroids are found between Mars and Jupiter, in the asteroid belt
+- Largest asteroid -- Ceres, diameter of 1k km, but reclassified as a dwarf planet
+- Pallas and Vesta
+- Asteroids revolve around the Sun in the same direction as the planets 
+- Asteroid belt -- between Mars and Jupiter
+- Asteroids are not dense; typical spacing between objects is several million kilometers; this allows spacecrafft to travel through the asteroid belt without collision
+- Some asteroids fall into families
+- Asteroids are generally very dark -- primitive bodies which change little since the beginningo f the solar system -- C-type asteroids
+- S-type asteroids: stony or silicate; chemically primitive also
+- M-type asteroids: metalic, much better reflector; probably came from a  parent body shattered in a collision
+  - There is enough metal in a 1-km M-type asteroid to supply the world with iron and industrial metals for the forseeable future
+- Vesta -- the surface is covered with basalt, meaning it is differentiated and that it once must have been volcanically active even though it is small (500km diameter)
+- Gaspra and Ida -- 1955 Galileo encounter
+  - Ida has a moon (Dactyl) in orbit around the asteroid
+- Large objects are pulled by their own gravity into spherical shapes
+- Discovery of an interstellar asteroid on a larger orbit -- dscovered in late 2017 leaving the inner solar system
 
 ### 13.2: Asteroids and Planetary Defense
+- Asteroids which stray away from the main belt are interesting
+- Asteroids which come inwards are of interest to people on Earth
+- Comets which come close to the planet and asteroids are near-Earth objects (NEOs)
+- A 1 km or higher asteroid could cause global damage; blocking sunlight; etc.
+- None of the NEAs found so far will impact earth soon.
+- We have about a 5-second warning that an asteroid orbit will hit earth
+- Orbits of Earth-approaching asteroids are unstable over a long time
+- Will humans defend themselves against an asteroid impact? Simple ways -- crash spacecraft into an asteroid
+- A spacecraft impact can have a greater effect on certain types of asteroids than others
 
 ### 13.3: The Long-Haired Comets
+- Comets have an icier composition, which makes them brighten a lot more when they approach the sun
+- 'Hairy stars'
+- Comet -- icy material which develops an atmosphere as it appraches the sun; later there will be  tail extending several million km away from the main body of the comet
+- MOst comets appear at unpredictable times
+- Comet Halley has been observed and recorded on every passage near the Sun since 239 BCE  every 74 - 79 years
+- Halley's commet will return in 2061
+- Short-period comets have orbits changed by coming too close to the giant planets
+- Temporary atmosphere of gas and dust -- atmosphere is the comet's head / coma. The atmosphere is escaping all the time and needs a new source; this is the nuclear, which is the real comet -- the icy material
+- Dirty snowball model, Fred Whipple (1950)
+- The visual profile of comets come from the evaporation of cometary ices heated by sunlight
+- Beyond the asteroid belt, comet ice is frozen
+- A tail is an extension of the atmosphere; tails always point away from the sun, not along the comet's orbit. Comet tails are formed by the repulsive force of sunlight driving particles away from the head.
+  - Dust tail: curves a little bit 
+  - Ion tail: pushed more directly outward by the Sun
+- Comet 67P's strange surface and features
+  - Highly porous comet material
 
 ### 13.4: The Origin and Fate of Comets and Related Objects
-
+- In the outer solar systme, objects contain a lot of water ice
+- Pholus -- reddest surface of any object
+- Centaurs -- distinction between asteroids and comets breaks down in the outer solar system
+- Beyond the orbit of Neptune -- trans-Neptunian objects (TNOs), e.g. Pluto
+- TNOs are part of the Kuiper belt
+- Oort cloud: resevoir of ancient icy objects from which comets are derived
+- Comets from the Oort cloud help us sample material very far from the Sun
+- The fate of comets
+  - Any comet we see today will have spent most of its existence in the Oort cloud or the Kuiper belt
+  - May collide with the Sun or survive the passage around the Sun and rejoin its origins
+  - Sometimes a comet interacts with a planet; it can impact the planet, speed up and be ejected out of the solar system, or come into orbit with a shorter period -- its lifetime begins being phased out.
 
 ## Chapter 14: Cosmic Samples and the Origin of the Solar System
 
-### 14.1:
+### 14.1: Meteors
+- Meteors are created as tiny solid particles which enter the atmosphere from interplanetary space
+- Friction in the air vaporizes meteors 
+- 'Shooting stars'
+- Most meteors which strike the Earth are associated with the dust particles of a comet; when Earth crosses a dust stream we experience a meteor shower
+- Perseid shower
+- Comet dust is fluffy and burnsa way quickly
 
-### 14.2: 
+### 14.2: Meterorites -- Stones from Heaven
+- Any interplanetary debris which survives the fall through Earth's atmosphere is a meteriorite
+- Meterorite finds
+- A lot of meteriorites landed in Antarctic
+- There are irons, stones, and stony-irons
+- Irons and stony irons are extraterrestrial
+- The average age for most primitive meteriorites is 4.56b years
+- Primitive vs differentiated (irons) meteriorites
+- To understnad early solar system history, look at primitive meteriorites. Primitive stones
+- Amino acids found on meteriorites -- maybe meteriorites brought amino acids to Earth
 
 ### 14.3: Formation of the Solar System
 - Basic properties of the planetary system: motion, chemical, and age constraints.
