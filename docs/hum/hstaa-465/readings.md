@@ -311,12 +311,60 @@ HSTAA 465
 - Safeguard human intersts above national interests
 - "The US, as the world knows, will never start a war. We do not want war." Ironic words
 
+---
 
+## Document Collection #3
 
+### "Developing Community Leadership", Ella Baker
+- Ella Baker -- works in early 1940 with the NAACP as an assistant field secretary; becomes a national director of branches eventually
+- Participant in SNCC after SCLC
+- Not making a contribution -- functioning where you need to function
+- In the south, NAACP membership could get you killed
+- Routinely travel to the South to organize membership campaigns
+- Local problems necessitate organization with /in the NAACP
+- Interesting point on individuals and how to understand their own place:
 
+> My basic sense of it has always been to get people to understand that in the long run they themselves are the only protection they have against violence or injustice... People have to be made to understand that they cannot look for salvation anywhere but to themselves.
 
+- Problem of *de facto* segregation -- achievement levels of black people go down instead of up when they enter public school
+- People who cntrol things -- no belief that they will pay the price of itnegration
+- Not insisting on a title at the SCLC
+- SNCC born out of conference in 1960
+- SUpporting role -- do it for the young people. No difficulty relating to young people.
+- No paid relationship with SNCC
+- It is a handicap for oppressed peoples to depend so much on a leader -- a leader is a leader because they have been recognized as such by media institutions, etc. 
+- Movement of the fifties and sixties -- carried much by women from church groups; women as a supportive role; Black women carrying this role. Younger women insisting on equal footing
+- What is important is not so much people being interested in leaders as developing leadership
 
+### *Ecology and Revolutionary Thought*, Murray Bookchin
 
+### "Homophile Groups Argue Civil Liberties", The Washington Post (1964)
+- "second largest minority group in the US"
+- Equality of job rights for gay people
+- Government policy of dismissing creates pressure points for blackmail
+- Increasing public attention to gay people
+- Rep. John Dowdy (D) of Texas
+- The gay person is 'the same as any other person'except for their sexual orientation
+- Removal of criminal sanctions for sexual acts in private
 
+### Letter from Birmingham City Jail, MLK Jr. (1963)
 
+### "The Sexual Sell", Friedan
 
+### Port Huron Statement, SDS (1962)
+- 'Bred in at least modern comfort, housed now in universities, looking uncomfortably to the world we inherit'
+- Increasingly troubling developments of modernity; paradoxes and concerns in American society -- hypocrisy and contradiction abound
+- May be the last generation of living
+- There is an alternative, a democratic alternative 
+- Campus -- a place of private people, going as usual. Students leave university fundametnally unchallenged in values and political orientations. Education's real function is to impart complacency and comfortableness
+- The campus is a miniature of America -- isolation of the individual, democracy without publics; a psychological conflict
+- Politics without publics: the American political system confuses individual citizens
+- We celebrate economic prosperity amid poverty and deprivation -- the affluent society. Work is unfulfilling -- the wastes of consumerist society, the entrepreneur of the self
+- Eisenhower's military-industrial complex: the permanent war economy
+- Towards American democracy
+  - Abolish political stalemate
+  - Politicize youth and sociality
+  - No institutions to sifle dissent; peaceful dissent
+  - Coporations must be publicly responsible
+  - Fair distribution fo resources
+  - America should concentrate on 'real' social proprities
