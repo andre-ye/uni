@@ -861,8 +861,179 @@ Kennedy's short tenure as Presdient showed him to be a Cold Warrior who was read
 	- Robert Kennedy is the Attorney General and one of John Kennedy's closest advisors
 	- Walt Rostow -- architect and defender of the Vietnam War
 - Liberal domestic agenda
-- 
+	- Got a lot of heat from the Democratic Party for not having much of a domestic agenda, large focus on foreign policy
+	- Big area of domestic policy (Civil Rights) -- Kennedy is not going near for political viability, trying to get elected again in 64; trying to keep conservatives happy
+	- Not too much by civil rights
+	- Style over substance -- commission on the status of women, inspires a number of states to do the same -- several other domestic agenda victories in Congress
+	- Addressing economic changes
+	- Manpower development and training act -- retraining for workers being replaced by automation -- deindustrialization, a lot of direct automation
+	- Area Redevelopment Act -- going into poor regions and trying to fix endemic economic problems. Wide swathes of the country remain without electricity, running water, illiteracy, etc. Also resisted by the people there to a certain extent, overall campaigns are not very scuccessful
 
+Part I: Cuba
+- US maintains spy plane initiatives (U-2) to high at high altitudes and spy on many places -- see if countries are stockpiling weapons
+- Eisenhower's policy -- Open Skies Policy, both being aware they are spying on each other to address tensions between the US and Soviet
+- Planes could be shot down -- 1960, by the USSR, held the pilot and then released him to the US, became a bit embarrasing for the US and the UN
+- Castro and Cuba
+	- Nationalists / Communists movement in 1959, Cuban Revolution, government under Castro
+	- Try to embarrass the US a lot at the UN
+	- Organization of American states (Western Hemispheric organization), trying to embarrass the US about civil rights and the US position in the world
+	- For Kennedy this is a major policy focus in secret -- CIA works on how to get rid of Castro
+	- When Kennedy comes into office they've already got the Bay of Pigs plans drawn up by the Eisenhower administration, laying there for Kennedy to sign. Kennedy agrees to sign it.
+	- Allen Dulles -- head of the CIA. 
+	- Use Cuban exiles -- train them up (about 1400) -- send them in to start a grassroots movement and install a different leader
+	- Will this be a slow groing grassroots insurgency or a straightforward invasion? 
+	- For Kennedy, a slow grassroots insurgency; limited US assistance; do not want US military getting involved; pledges air support
+- Bay of Pigs
+	- 1961 -- OKs Bay of Pigs invasion
+	- Ends up a disaster
+	- Castro and the Cubans knew it was coming and were ready for it
+	- Kennedy had promised air spport on the second day and pulled it back -- left the Cuban exiles stuck in there
+	- Depended on a grassroots revolt in Cuba which did not materialize -- the US is often incorrect in its belief that people who live in Communist countries hate their leadership and love to see the country overthrown. "the people want democracy"
+	- Reality is somewhat different, perhaps for many different reasons -- often no big grassroots movement against Castro
+	- Those who were not killed were captured
+	- Bay of Pigs becomes a major embarrassment for Kennedy -- first foreign policy decision, and it is a failure
+	- one black eye just coming in by a low margin
+	- Cuban exiles continue to see Kennedy as a traitor (conspiracy theories about Cuban exile involvement in assassination)
+	- Continue to work on how to oust Castro
+- Operation Mongoose
+	- Covert plot to kill Castro
+	- All sorts of crazy ways to get rid of Castro
+	- Robert Kennedy and Allen Dulles working on this
+	- Pushed Castro closer to the Soviets -- knew he was being targeted and hew as facing off against the US, began to seek out more help from the USSR
+	- Castro didn't want to be a Soviet satellite (wanted to be independent) but become closer to the Soviets
+- 1961 -- Berlin Wall erected overnight. Germany is still occupied -- West (democratic) and East (USSR). Berlin, in East Germany, is divided. The wall goes up which will stay there until 1989, 1990.
+	- Kennedy gets blamed for this -- on his watch the Soviets have erected a wall through Berlin which is a barrier of anyone trying to go west. Becomes a major talking point in speeches -- the ways in which the Soviets shoot people trying to get over the wall. 
+	- becomes the best symbolf ro anti-democratic forces
+	- Puts the focus on Berlin squarely in the Cold War
+	- If the US attacked Cuba, the Soviets would surely roll into West Berlin; the US would be pulled into a conflict
+	- Berlin becomes a major focus -- the city itself become sa symbol
+- 1962, Cuban missle crisis
+	- U2 flights over Cuba demonstrate that in fact the Soviet Union is putting nuclear missiles in Cuba, 100 miles off the US coast
+	- Believe they are medium-range ballistic missiles, but in fact they are intermediate-range
+	- Missiles being constructed, programmed, erected by Soviet personnel -- large numbers of Soviet soldiers in Cuba
+	- Attacking Cuba a bad idea -- leading to war
+- Soviet Missiles in Cuba (1962)
+	- MRBM -- medium range
+	- IRBM -- can reach virtually everywhere in the US (except Seattle!)
+	- From the US side, how to use tactical nuclear weapons -- smaller nuclear weapons, meant to blow up a hole so the army can roll through
+	- Kennedy's joint chief of staff -- really want an invasion of Cuba during this time
+	- Kennedy's ears -- one voice, we must invade Cuba (military does not want to not get rid of Castro)
+- This is the crisis for 13 days -- people watched on the news, how are we going to get out of this
+- Cuban Missile Crisis, 1962
+	- People are fearful -- building bomb shelters, raiding grocery stores, protesting
+	- Fearful that this will come to a strong nuclear conflict
+	- Consequentially, Kennedy and Khushev couldn't really talk to each other -- ambassador to ambassador, department to department. Getting communiques which are supported to be from Khushchev, but maybe not really Khushchev saying these things -- communication breakdowns and problems
+- Kennedy's solution: military quarantine of Cuba
+	- Naval ringing of Cuba with ships
+	- A blocakde is technically an act of war, so called a quarantine
+	- Gave the Soviets a chance to step back -- if they wanted to run the blockade we would have to figure out what to do next
+	- Becomes a chess match (symbolic -- US vs Soviet Union)
+	- Most ships stopped going to Cuba -- a deep breath, yes we haven't shot down ships
+- Military decisions
+	- A lot of stuff happened in these 13 days
+	- Many decisions brought us closer to war
+	- Major Robert Anderson's U2 was shot down and was killed
+	- Cubans shot at US recon planes 
+	- U2 flight accidentally flew over Soviet airspace in Siberia
+	- General Power set DEFCON 2 from DEFCON 3 with no authorization (US military goes into all sorts of heightened preparation)
+	- Atomic energy commission -- totally not on the same page as the politics, in the south pacific doing new nuclear weapon
+	- Pushing the pressure towards war
+- Resolution
+	- Khushchev not trying to start WWIII
+	- The US negotiates a settlement with the Soviets
+	- US will secretly take its missiles out of Turkey (old Jupiter missiles)
+		- Could not do this publicly
+	- Soveits took their missiles out of Cuba
+	- Hot line in the White House with USSR
+	- Cold War cools; kennedy focuses on not gettin gin this situation again
+- Space Program: Geminini (1961)
+	- Mercury program -- testing different spacecraft, leads to the Gemini program
+	- Test methods of space travel and mechanics
+	- LEO -- Low Earth Orbits
+	- Kennedy has the Apollo program slated later
+
+Part 2: Containment in Vietnam
+- Ho Chi Minh - major force in Vietnam, patriotic leader, works with the OSS -- Office of Strategic Services (predecessor to the CIA)
+- Fighting the Japanese -- the US and Vietnam
+- Trying to kick the Japanese out of Indochina
+- After the war, one of our closest allies (France) wanted to go back and get the Vietnamese colony back
+- The US supported this to avoid a taking back of communism
+- This begins the very long Vietnam Wars
+- From the Vietnamese perspective, at war for >30 years
+- French in Indochina: 1945 - 1954
+	- Don't want to be ruled by the French
+	- Overthrow of colonial movements
+	- Viet Minh -- national Liberation Front (NLF) 
+	- In the South, you have many French influences and Anti-communists -- this is who is fighting against Ho Chi Minh adn the nationalists / communists
+- US Policy -- NSC-68, containment policy
+	- Gets the US interested in Vietnam
+	- Neutrality until 1950 -- because of the Korean War etc., the US begins moving closer to supporting the French with money and weapons
+	- Truman under presusre to push against the Vietnamese because of the 'loss of China' under his watch
+	- Truman focuses more in Vietnam
+	- Truman -- "We are fighting in Korea for our own national security and survival". Same argument will be made about Vietnam. This will not be received well by Americans
+	- We get in Southeast Asia Truman's multi-million dollar aid program
+	- Adivers in the Vietnam War  -- personel going to Vietnam to train the Vietnamese
+- US Policy
+	- Eisenhower: seeing Southeast Asia as many dominos in the domino theory
+	- Dogmatic belief by the mid fifties in the domino theory
+	- If you let one go, all will fall -- (broken windows theory?)
+- 1954, French Defeat by the Viet Minh at Dien Bien Phu, Indochina
+	- The french believed they had good allies and modern weaponry + good trainig,s hould be winning
+	- They were fighting an entrenched and dedicated enemy
+	- Vo Nguyen Giap
+	- French defeat -- the US must figure out what must happen next in Vietnam
+- Communsit leadership
+	- Changesa re going on in Vietnam itself
+	- Ho Chi Minh is getting older -- becomes more of a symbolic figure ('Uncle Ho') -- relates to the common man, becomes a symbolic father
+	- Real power moving into Le Duan; not there durnig the jockeying of power, which leaves him clean. Well opsitioned to rise to the top.
+	- Americans are totally focused on Ho Chi Minh -- Americans know him and use him in propaganda -- talk about him like Castro, the single figurehead in Vietnam. But Ho Chi Minh is moving out of the picture. Americans do not know who Le Duan is
+	- The US does not know a lot about Vietnam -- but maintains a large amount of arrogance that they know what i will be about
+		- Arrogance + ignorance
+	- Guys in the North are consolidating power, supporting more of the guirreula powers
+- Vietnam: Divison of Indochina (1954)
+	- Division at the 17th parallel -- temporary division of the coutnry until a new government can be put in there
+	- Rival groups with totally different visions for what will happen in Vietnam -- unified under a communist or anticommunist flag
+	- Laos -- 3-party Civil War. US backs one of them
+- War and peace under Eisenhower
+	- US government begins supporting Ngo Dinh Diem, who rises to power in southern Vietnam
+	- Geneva Summit in 1955, not much gets decided about Vietnam, but new conversations between Khushchev and Eisenhower about collective security -- SEATo, Baghdad Pact (1954 and 1955)
+- SOuth Vietnam
+	- Ngho Dinh Diem is an unfortunate ally -- aligned with the french as many of the Vietnamese bureaucrats were; converted to Catholicism
+	- Are authoritarian -- many people who take over in post-colonial states are authoritarian
+	- Diem's authority is a rule by police squads and arrests
+	- Ngo Dinh Nhu -- brother -- runs a lot of this stuff
+	- Madame Nhu -- sometimes compared with Jackie Kennedy, a colorful personality
+	- Southern Vietnam in an authoritarian party, and this is now our ally -- rule from a position of privilege rather than populism
+- Kennedy's Policies
+	- Kennedy gets in power, what does he do?
+	- Getting involved further in Vietnam
+	- Laos -- Kennedy and Khushchev take part with 13 other nations in getting involved in Laos and settling a compromise government which doesn't allow the government to devolve into further civil war
+	- Seen by Kennedy's opponents as a loss -- couldn't beat them in Laos
+	- Vietnam, increases American advisors doing training and military advising
+	- Beginning of special fofrces type operations -- sabotoge, psychological warfare, recon, training SV forces in these tactics
+	- Lots of US equipemnt is going into Vietnam
+	- Disturbing discoveries in Vietnam -- Ngo Diem Dinh's rule is not good -- McNamara and Taylor, almost impossible to win the war. It is grim starting 1962/3. The government from Truman to Kennedy to Johnson will tell the American people very different stories than the private discussion
+	- 1963 -- 16k advisors, are going into operations, are getting involved in combat operations -- 500 casualities
+	- Few voices in Kennedy's administration. George Ball gives a prescient remark on getting too deep into it; Kennedy dismisses this
+- Special forces: counter-insurgency
+	- The US put a lot of effort into training for war; got sunk more into Vietnam
+	- Green Berets -- important role in Vietnam, did a lot of going into the mountains and training tribal people to be armies for the South
+	- By 1963, a large number of special forces -- 950 Green Berets
+- 1963 -- Vietnam: State and Society
+	- American ignorance about Vietnamese society
+	- State and soceity did not look like one another
+	- Southern Vietnam is going through a chain of bad leaders after Diem -- only worsening
+	- Madame Ngu -- jokes about the Buddhists protesting anti-Buddhist policies ('barbeque in the street')
+	- Buddhists being pushed out of power and site sof worship closed; massive demonstrations of Buddhists and students against the Catholic rulers; universities etc. closed
+	- Massive protests against the government the US is dedicated to backing -- a losing proposition since 1963
+- World peace
+	- Kennedy's turn towards world peace, part of his legacy
+	- After the Cuban Missile Crisis, a politician which undergoes change
+	- Rousing speeches on world peace
+- Assassinations of November 1963
+	- A US backed coup sings off on ousting Diem and his brother -- now a long chain of worse leaders.
+	- November 63, John Kennedy is assassinated and Lyndon B. Johnson
+	- New leader of South Vietnam: Khahn
 
 
 
