@@ -283,11 +283,60 @@ Key Points
 Questions
 - Is there an assumption of some concept of free will here which precedes my perception? How does, if at all, an unexplained concept of choice operate here? Does it hinder the efficacy of the argument?
 - Does phenomenological analysis apply to a non-human ego; i.e. an animal which can ostensibly experience but perhaps which cannot articualte that experience?
-- To what extent is the unintended part of the world? What are the limits of the ego? Is the ego definitionally what is apodictic?
+- Is apodicticity apodictic; that is, it is self-evident that self-evidence is self-evidently necessary? Is it possible for us to really run away from transcendental constitution? Does Husserl later on make unapodictic conclusions, such as the question of multiplicities and synthesis? What is the 'reality' or 'apodicticity' of these conclusions?
+- What is the relation between the process of arriving at a statement and its apodicticity? Is the history of an object necessarily inscribed upon the ontological status of that object?
 
 ### Third Meditation: Constitutional Problems. Truth and actuality
 
 23 -- A more pregnant concept of constitution, under the titles 'reason' and 'unreason'.
+- Phenomenological constitution has been the constitutional of whatever intentional object whatever -- full, broad, unrestrained, universal within the phenomenological frame.
+- 'pregnant concepts of constitution'
+- Are the objects in question truly exsitent/possible?
+- Reason and unreason, being and non-being
+- Epoche, we reduce to pure meaning -- cogito. 
+- Truth 
+- Consicousness can be explored as the synthesis of multiplicities
+- Reason -- a title for an essentially necessary structural form in all transcendental subjectivity
+- Reason -- possibilities of verification (!!!) -- making evident, having asevident
+
+24 -- Evidence as itself-givenness and the modifications of evidence
+- Evidence -- primal phenomenon of intentional life
+- The Ego which signifies not at something but with itself
+- Evidence is experienc ein a maximally broad yet essentially unitary sense
+- Evidence points towards a fundamental trait of intentional life -- consciousness is either already evidence or tends towards variants, in "I can"
+- TO what extent does the meant object correspond to consciousness? How odes it look 'it itself'?
+- Verification can become negative -- character of nullity
+- Non-being is a mode of being
+
+25 -- Actuality and quasi-actuality
+- Possibility -- imaginableness
+- Non-actualities -- not belonging to actuality
+- Correlativity, modes of consciousness - divided into positionality and quasi-positionality (as if, fantasizing)
+- Clarification -- making clear is a mode of making evident. 
+
+26 -- Actuality as the correlate of evident verification
+- A universal conformity to laws on structure by conscious life
+- Regularity of truth and actuality
+- Objects exist for me -- well, but this only says that objects are accepted by me
+- Something is actual by virtue of a synthesis of evident verification; the truth of objects is obtained only from evidence; it is only by evidence that any sort of actual existing has sense for us. 
+
+27 -- Habitual and potential evidence as functioning constitutively for the sense 'existing object'. 
+- Ideal immanence -- complex of possible syntheses. Every evidence sets up for me a possession -- I can return 
+- Evidence of immanent data
+- Potentiality and possibility
+- Particular evidence does not give us any abiding being by itself; everything which exists (for me) is in itself (for me); and every truth is likewise a truth (for me) in itself (for me)
+- Repeatability of evidence and experience
+- Potentiality of infinite intendings
+
+28 -- Presumptive evidence of world-experience. World as an idea correlative to a perfect experiential evidence
+- Objects are given to us with a necessary one-sidedness
+- Objects in the real Objective world are "external experience" -- there is not only a physical but also a philosophical one-sidedness" to external experience: a horizon of unfilled anticipations which refer us to potential evidence
+- Actualizing synthetic transitions from evidence to evidence -- it is the synthesis which actualizes the thing, the identified thing
+- Syntheses must always involve expectant and unfulfilled meanings 
+
+page 74
+
+### Fourth Meditation: 
 
 ---
 
