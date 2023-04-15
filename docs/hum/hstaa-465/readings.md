@@ -336,7 +336,62 @@ HSTAA 465
 - Movement of the fifties and sixties -- carried much by women from church groups; women as a supportive role; Black women carrying this role. Younger women insisting on equal footing
 - What is important is not so much people being interested in leaders as developing leadership
 
-### *Ecology and Revolutionary Thought*, Murray Bookchin
+### *Ecology and Revolutionary Thought*, Murray Bookchin (1964)
+- Every development of revolutionary thought grows in parallel with a branch of science
+  - Copernicus and Gaileo -- rationalism and naturalism
+  - Mechanics and mathematics -- Enlightenment
+  - Biology and anthropology -- overthrow of the Victorian era
+  - Freudian psychology -- Marx
+- Growth of psychology
+- Modern science has lost its 'critical edge', its 'liberatory estate', but there is a savior: ecology, relation between the animal and its spheres; the balance of nature
+
+The Critical Nature of Ecology
+- Critical edge of ecology comes from man's sovereignty over man and his activities
+- Human parasitism
+- Imperialism and the despoliation of the environment: CO2 emissions, pollution of watewrways, , etc.
+- Man as a highly destructive parasite -- sure. But this reflects a disruption in the ecological situation. And this is of the 'social ecology'
+- Organization into extreme belts and industrialized, swollen apparatuses
+- The question of the ecological 'breaking point'
+- SImplification of the environment -- encroachment of the synthetic on the natural: the cultural dimension of manipulation and ideological influence
+  - Quantiative, statistical abstraction over free expression and complexity
+  - A false claim, I might propose, in that the great contradiction is that these are held together
+- Reformulation and mechanization of agriculture as a machine to be optimized: flat landscapes
+- Division of labor, to an exaggerated point -- natural beauty sacrificed by cold concrete -- *undoing of organic evolution* (really?) -- eliminating local difference
+- Ecology has a necessarily social dimension (I don't know how much this applies only to ecology...)
+
+The Reconstructive Nature of Ecology
+- Attempts to resolve contradictions of centralization and stratification -- "progress".
+- Anarchist: social outcast, false dreams for decentralization and humanism
+- History validates anarchist thought
+- Balanced community, face-to-face democracy, decentralized society, humanistic technology -- not just dreams, but necessary
+  - 'Intuiting', a feeling, of anarchism among the youth
+  - A reaction against modern instituted comformity
+- Ecology redirects nihilist rejection of centralization to an affirmation of life and a humanistic society: **diversity** -- balance and harmony, respect of the web of dependence. More room for spontaneity, biological forces
+- A deindustrialization or postindustrialization of agirculture and land: descaling
+- Nuclear fuels -- not 'ecological' -- first apply ecological principles, do not try to engage in technological determinism & progressivism. Rather a localized method of energy sources. Highlight local potentialities
+- We need a new kind of geopolitics, a new kind of relating and community
+- Decentralization: logistical problems cannot be solved top-down
+  - What is the border between anarchism and laissez-faire capitalist libertarianism? Perhaps the latter still retains the state structure necessarily
+  - Diminishing variety in the natural world destroys its harmony and unity
+  - Man is certainly of nature: social ecology
+  - Unity by differentiation
+- The anarchist seeks to elaborate and express possible social experience
+- Electronic devices should be used little to mediate relations between people -- all members should have contribution for collective decisions -- we must humanize humanity
+- General education 
+- Rotation of responsibilities -- self-development and generality
+
+Observations on "Classical Anarchism" and Modern Ecology
+- Anarchism must apply basic libertarianism to new historical principles
+- In revolution there is concentration 
+- Is anarchism 'classical'?
+- Anarchists must grasp changing historicity in the backdrop of static libertarian principles
+- The anarchist finds themselves:
+  - Post French revolution
+  - Industrial proletariat
+  - Now -- widespread peasant discontent and undermining by modern technology
+- "astonishing social mobility and insecurity" -- "virutal impossibility to predict the ovcational or professional future of most people int he Western world"
+- Technology is ripe with the promise for liberated society. Anarchism ust assimilate it in humanistic terms. Anarchism must infuse modern technology with an organic dimension.
+- SOcial disintegration under capitalism and after capitalism: can anarchism update itself?
 
 ### "Homophile Groups Argue Civil Liberties", The Washington Post (1964)
 - "second largest minority group in the US"
@@ -406,3 +461,58 @@ HSTAA 465
   - Coporations must be publicly responsible
   - Fair distribution fo resources
   - America should concentrate on 'real' social proprities
+
+### Letter from Birmingham Jail, MLK Jr. (1963)
+- In Birmingham city jail: clergymen have called activities 'unwise and untimely'
+- Does not pause to answer criticism often -- there is too much
+- SCLC: large organization, resources are shared. Invited to Birmingham to engage in nonviolent direct programs.
+- Interrelatedness of communities and states -- there is no 'foreign' when it comes to justice: "justice aywhere is a threat to justice everywhere"
+- Look not only at the effecs but also the causes
+- 4 steps of nonviolent campaign
+  1. Collection of facts
+  2. Negotiation
+  3. Self purification
+  4. Direct action
+- Birmingham -- most thoroughly segregated US city; brutal treatmetn of black people
+- Treaties and promises don't work.
+- Why sit ins and marches? Why not negotiation? Direct action creates the conditions and tensions to force negotiation -- "dramatize the issue that it can no longer be ignored"
+- The nonviolent register must have the dimension of tension -- not violent tension, but nonviolent tension
+  - Socrates -- tension in the mindof individuals to see the objective world
+  - Monologue over dialogue -- too long
+- 'Untimely acts'. The administration must be prodded -- a segregationist is a segregation.
+- "History is the long and tragic story of the fact that privileged groups seldom give up their privileges voluntarily"
+- "Wait!" the Althusserian policeman -- Wait too often means Never for the Black man
+- Inspiration from African and Asian postcolonization
+- poverty in an/the affluent society
+- What is the breaking of laws? Some laws are just, some are unjust. Augustine: an unjust law is no law at all
+  - A just law -- 'squares with moral law or the law of God'; a law must uplift human personality and not degrade it
+  - Segregation substitutes "I-it" with "I-thou"
+  - Not democratic
+  - An ordinance enforced to promote segregation is unjust
+  - Not breaking laws willy nilly -- "that would lead to anarchy"
+  - We must break unjust laws openly and novingly, and to willingly accept the penalty
+  - Not unique: early Christians, academic freedom and Socrates
+- Everything Hitler did in Germany was "legal" -- but here is a higher law
+- Grave dissapointment with the white moderate -- the greatest stumbling block is the white moderate devoted to order over justice, preference for 'negative peace': paternalism
+- Tension in the South is a necessary phase of transition from obnovious negative peace towards positive peace
+- Nonviolent actors are not creators of tension, but in fact birng to the surface the tension which already exists
+- Society must protect the robbed and punish the robber
+- "The teachings of Christ take time" -- time is in fact entural, there is no progressive determinism which guides things somehow: human progress never rolls on the wheels of inevitaiblity
+- Two opposing forces in the Black community: complacents and bitters (Black nationalist groups)
+- Oppressed people cannot remain oppressed forever: freedom will come (tension between making history and history being made): cosmic urgency towards the promised land of racial justice
+- 'facts of history'
+- "I gradually gained a bit of satisfaction from being considered an extremist" -- Jesus, Paul, Martin Luther, John Bunyan -- all extrimists. What kind of extremist will we be?
+- Disappointment in the white church and its leadership
+- Law vs moral right
+- "What kind of people worship here? Who is their God?"
+- Churh as thermometer vs Churh as thermostat
+- The goal of America is freedom
+- "Your statement has troubled me profoundly"
+- Nonviolence in the favor of violent ends is violent
+
+### Chapters 1 -- 3 from *Silent Spring*, Rachel Carson 
+
+[Notes](https://andre-ye.github.io/ts/docs/english/spring/reading/#chapter-3-elixirs-of-death){:target="_blank"}
+
+
+

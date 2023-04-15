@@ -334,9 +334,19 @@ Questions
 - Actualizing synthetic transitions from evidence to evidence -- it is the synthesis which actualizes the thing, the identified thing
 - Syntheses must always involve expectant and unfulfilled meanings 
 
-page 74
+29 -- Material and formal ontological regions as indexes pointing to transcendental systems of evidence
+- Ego's self-explication: true being indicates a structural differentiation among infinite multiplicities ofa ctual and possible cogitationes
+- Actually existing objects point towards some particularity in this multiplicity, where evidences relating to the object combine to make up total evidence -- perfect evidence
+- Problem of transcendental constitution of existing objectivity ('pregnant constitution')
+- Beyond formally universal investigations -- what is the Objective world? Physical Nature is given to man: naive ontological concepts like real space, real time, real causality, real physicality, etc. We have to uncover the intentionality implicit in this experience itself, of course. But there are very complicated correlations and syntheses. Subjective objects ascend or 'emerge from' a 'lower' objective basis (the apodictic)
 
-### Fourth Meditation: 
+### Fourth Meditation: Development of the Constitutional Problems Pertaining to the Transcendental Ego himself
+
+30 -- The transcendental ego is inseparable from the processes making up his life.
+- Objects exist for me and are for me what they are
+- What makes up the existence of m consciousness?
+
+page 77
 
 ---
 
