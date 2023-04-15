@@ -154,7 +154,19 @@ $$P(A|B) = \frac{P(A\cap B)}{P(B)}$$
   - Condition everything on C
   - If we condition on $$C$$, these events become independent
   
+---
 
+## Week 3 Friday -- Applications of Bayes Rule
+- Prevalence -- probability of disease
+- Sensitivity -- probability of test given disease -- pick up on disease when it's there -- of the positive tests, there is a high disease (few false negatives)
+  - 1 - false negative rate
+- Specificity -- probability of not test given not disease -- of the positive disease, there is a positive test (few false positives)
+  - 1 - false positive rate
+- Intuition trick: 
+  - Think about the broader population of people who also don't have the disease
+  - Multiply the prior (the prevalence of the disease before tests) by the Bayes Factor: sensitivity / false positive rate, or (1 - FNR) / (FPR)
+  - For negative texts, FNR / specificity
+- Trouble brewing when you have very different population sizes -- becuase it's a small population, even small effects become significnat
 
 
 

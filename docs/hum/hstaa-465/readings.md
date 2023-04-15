@@ -350,6 +350,44 @@ HSTAA 465
 ### Letter from Birmingham City Jail, MLK Jr. (1963)
 
 ### "The Sexual Sell", Friedan
+- The image of women as housewives
+- "Why do people in books never go to the toilet?"
+- Women as housewives: to buy more things for the house. Women are chief customers of American business.
+- Not necessarily a conspiratorial, but -- by materialist analysis -- the outcome of economic objectives
+- "sexually joyless, uncreative, purposeless lives" of American housewives
+- American housewives can find identity in consumerism
+- Market segmentation
+  - The "True Housewife" -- too dedicated to housework, will not accept new consumer products
+  - Career women are too critical 
+  - The Balanced Homework is the ideal type -- readily accepts mechanical appliances but has outside interests
+- Be a modern housewife!
+- Advertisers as manipulators -- social science and advertising, the sinister dimension of psychology
+- Must emphasize creative effort
+- Products aren't just selling products -- selling happiness and images, and selling personal narratives
+- MId-50s: the Career Woman is gone -- finds in housework an expression of femininity and individuality
+- "Creativeness is the modern woman's dialectical anser to the problem of her changed position in the houehold. Thesis: I'm a housewife. Antithesis: I hate drudgery. Synthesis: I'm creative!"
+- House cleaning should be fun: achievement, granting of the ego
+- Participation of women in the enterprise of science?
+- The *illusion* of achievement
+- Possibly an algorithamitization of women? 
+- Teenagers and young wives -- insecure - convince the youth that happiness through things is entirely possible
+- Market reports, surveys
+- The remaking of consumerist femininity
+- A need to advance in life -- satisfied in the capitalist incorporative method
+- "If the stores are women's school of life, ads are the textbooks"
+- Privacy and individualism: personalization
+- Where is the missing sexual spark?  -- consumerism sexed the sex out of sex. So how to return the libido?
+- The need to develop the need for new products (Galbraith)
+- The complexity of feminine consumerism
+- NOt the creation of the feminine mystique -- but certainly perpetuation -- flattering and reifiying the image of the American housewife. **And all with the assistance of social science.**
+- The housewife as an 'unaware victim'
+ - The attempt to 'get them young' -- to put womanhood and wifery upon young girls immediately.
+  - This is wrong, certainly. But what is wrong about it? NOt the 'virginal purity' of young girls.
+  - "grooming"
+  - "sacrifice our girls"
+- Ignorance of women's intelligence and energy
+- A sick and/or immature society? Retreating into "that thing-ridden house"
+  - "thing-ridden house" -- the epotime of American consumerism
 
 ### Port Huron Statement, SDS (1962)
 - 'Bred in at least modern comfort, housed now in universities, looking uncomfortably to the world we inherit'

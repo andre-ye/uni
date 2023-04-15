@@ -417,7 +417,75 @@ Russian verbs which only exist in the perfective
 - The idea that if knowledge is knowledge it has to be absolutely certain -- this is potentially a presupposition, maybe emerges from the background of disagreement Husserl emerges from -- for Husserl this is not good
 - A layer below utter apodiciticity -- an evidence which excludes doubt but still can be doubted; for Decartes, "I am" is indubidable
 - The being of the world is not apodictic (which is why we bracket it): we see red, but we do not see being-red; we hear a high pitch but we do not hear being high-pitched
-- 
+
+---
+
+## Week 3 Thursday: Universality in Phenomenology II
+- Introduction to Hegel's lectures on the history of philosophy -- Hegel is a major thinker bbecause he establishes the concept of intellectual history, history of thought / philosophy / the mind / the spirit -- the mind emerges over time / history
+- To understnad philosophy, you have to understand the history of philosophy
+- Hegel draws heavily from biological analogies -- more than analogies, even; geist goes all the way down; the World is spirit. It's not just an analogy, but 'this is what the mind is like' on another level
+- The ultimate moment of a plant's development is when it bears fruit. At a certain point the fruit is a determination of the plant -- but it can fall off, go to the ground; it can reach a point where the object it produced is now distinct from it. Parallel movement for the mind -- a hypothesis which has been verified -- something is true. Up until you verify it, it's just you -- truthood is the moment of 'transcendence' 
+  - When the mind bears fruit and it transcends, "it's not just me" -- in being not just you, it doesn't leave your consciousness.
+  - Nature as petrified spirit
+  - The fruit is the same 'nature', the same 'nature' as the tree -- even if the tree 'forgets' that (i.e. does not recognize its self in the other)
+  - Nature speaks to a hidden knowledge of what spirit really is, but only spirit qua spirit can recognize itself -- distinctions are made in you
+  - Something about objectivity and truth, universality wihch has to be something more -- beyond the consciousness
+- THe distinction between you and the other is within you
+- Understanding things -- you are with them, things are in your consciousness. But it can seem like it's over there, but you're understanding it over here. 
+- You desire to be the thing which knows -- is anything I know more than me? But firstly you change; you develop, self-transcend, but generating a hypothesis.
+- Epistemic / experiential move -- everything which you say and can conceive of must be registered in your epistemic claims
+- Lonergan -- being is divided from within
+- Apodicticity instead of truth -- an approximation of what we call 'truth'
+- Why practice the epoche? To make philosophy more rigorous and strict -- strenge Wissenshaft by grounding all judgements in evidence
+- Evidence -- that which is *actually* given in experience vs the infered, supposed, hypothesized, implied; it is the phenomena, that which actually appears
+- First, just describe phenomena as they appear without judging whether or not they 'really exist' or not
+- 'Explanatory science' -- physics, chemistry, etc. -- entail things which are inferred and entailed, but which are not given
+- Other sciences rely on mere suppositions and beliefs about objects which are not directly given to consciousness
+- **Question on evidence** -- things are never given to us necessarily -- are feelings given to us? Can we choose whether or not to experience?
+- Lonergan -- the criteria of indubitability is not indubitable -- knowledge is not apodictically apodictic
+- Decartes carries out assumptions from Science; and then Husserl does the same thing (what is the criteron of apodicticity if not another presupposition, of an ideal of science which he has not grounded himself)? 
+- Performative self contradiction -- the performance of making a claim is in conflict with the content of the claim -- your performance contradicts what you say (but why is this bad necessarily?) -- not particularly a logical claim
+  - Maybe not a contradiction, possibly ontological distinction between a claim and the operation of claiming
+- Reason itself as the drive for apodicticity -- phenomenology is the only disciplline 'which gets it' -- studies the pheonmena as they appear and doesn't deal with hypothesized entities which don't appear
+- Fichte, the infinite striving -- maybe presupposed by Husserl
+- Kierkegaard's absolute is paradoxical
+- Regulative ideal -- a term/end which you strive for but you can never really reach, the end is absolute as a goal but it's just regulative as opposed to constitutive (you get it) -- you direct your inquiry but you never get there
+- Hume - causaity is not apodictic
+- Husserl and Freud, contemporaries 
+- Objects of explanatory science never real themselves an sich
+- Primary and secondary qualities -- a philosophical not a scientific distinction
+- I can intend something but what is given to me is actually a particular profile. My attention exceeds what is given. I can fill my exptent attention and over time constitue not just a profile but the thing -- the naive attitude is that is what you see, vs. what you intend
+- Transcendental reduction
+  - Ego - cogito - cogitatum, a structure which is given in experience
+  - My acts are given -- think 'experienced'
+  - We don't know what the ontological status is, or rather the ontological status appears to us
+- My personal argument: givenness and intention occur simultaneously, in fact what is given is always already intended -- as symbols, as judgements
+  - Sight, hearing, etc. -- always already given to us as symbols, as these things -- I can't not see it, the pervasiveness of language. The moment I am conscious of something is the moment I predicate it
+- Husserl trying to fulfill a project of founding all philosophical claims in apodictic evidence
+- Totalitarianism
+- What is the point of the state? Hobbes -- to end philosophical disagreements.
+- The utopianism of phenomenology; the violence of modernity
+- To view the cogitatum, and then to understand the act of the cogitata which intends it
+- Things appear to be hapepning in the universe, but that's really all happening in my head. Acts are conscious -- there is a fundamental phenomenological onlooker -- you exploit thef act that you can in some sense make your own acts objects (the infinite regress) -- you can also onlook upon your ego -- there is the galaxy, and here are my acts; they are both present to me on consciousness: a transcendental onlooker which describes things as they are given
+- Ego (self), cogitationes (mental acts), cogitata / cogitatum (intended objects)
+- Cogito ego sum -- doesn't really understand that cogito is really an act with a term
+- One ego, one field of consicousness -- but you can have multiple acts
+- To perceive, to hear, to see: what is restricted?
+- Meaning-intention as protention, retention, anticipation
+  - Perceiving a symphony -- I can distinguish how in order to perceive the symphony (I can describe perceiving a symphony -- this is given in my experience)
+  - At any given time there is an act of hearing with a cogitata and within the ego, conscious of protentions (anticipate the note to come) -- sometimes the protention may not be harmonious witht he content
+  - Retention of previous notes -- in order to hear the symphony I must hear the aggregate
+  - The continuum of consciousness
+- What is given in experience is that you do retend
+- "I think, therefore I am" -- what is the "I"? How much of this is already a predicative experience?
+- What is the constituttion of meaning
+- Nothing is 'lost' in the epoche -- you just don't take it to exist a priori -- this is how I experience it, through these acts
+- There is no pre-cogitationes which is distinct from the cogitatum
+
+
+
+
+
 
 
 

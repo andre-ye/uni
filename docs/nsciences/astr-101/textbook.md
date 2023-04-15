@@ -659,6 +659,53 @@ earth, moon, sun, jupiter
 - Collapse of gas explains hydrogen rich composition
 - VIsible comets are on the tip of the 'cosmic icebirg'
 
+### 14.4: Comparison with Other Planetary Systems
+- Stars like our Sun are formed in dense regions in a molecular cloud feel extra gravitational force and collapse -- this is 'runaway' -- as the cloud collapses, the material get scondensed into a protostar
+- 1/2 the time, the protostar will form binary or multiple star systems
+- Circumstellar disks -- have internal structures, dont shaped -- gaps closed to the star. 
+- Planets form gaps as they form in disks
+- As the mass of protoplanets increases, they orbit faster and sweep up material in a gap along the disk.
+- Exoplanets -- difficult to find because exoplanets are faint given the glare of the orbiting star
+- Stellar sepctroscopy
+  - Doppler effect: astronomers can measure radial velocity -- speed of star from us
+  - Measurements about radical velocity give us mass and orbital period; radial velocities can be disentangled and an entire planetary system can be decipherable
+  - Planet transits -- detect transits from changes in brightness
+  - These techniques have been very successful for identifying planets
+  - One quarter of stars have exoplanet systems: at least 50b planets in our galaxy
+- Multipleplanet systems are typical for planet formation
+- Most known planetary systems don't resemble the current solar system.
+- Hot Jupiters -- planets of jovian mass closer to stars than the orbit of Mercury. We don't know about how a giant planet can be formed without condensation of water ice.
+- Most exoplanets have large-orbital eccentricity -- not expected for disk foring planets
+
+## Chapter 21: Black Holes and Curved Spacetime
+
+### 21.3: Tests of General Relativity
+- Einstein proposed a new theory of gravity -- mass determines the curvature of spacetime, which controls how objects move.
+- Einstein's theory only really makes itself apparent at large masses
+- When distorting mass is small, Newton's universal gravitation works. But Einstein works more 'universally'
+- Mercury orbits closest to the Sun and is most affected by spacetime produced by Sun's mass.
+- Mercury has a highly elliptical orbit: Newtonian gravitation has errors -- people thought there was some other body (just like with Neptune and Uranus). 
+- Einstein -- light near the Sun shoud follow a curved path under an eclipse: consistent with general relativity
+
+### 21.4: Time in General Relativity
+- Generalizes space and time
+- The stronger the gravity, the lower the pace of time
+- Time is, it is thought, a democratic concept: all of us have it. But in fact it changes
+- 1959 atomic clock experiment -- a clock closer to the ground should run slightly slower than a taller one
+- What does it mean for time to run slowly?
+- WHen light emerges from strong gravity where time slows down, light experiences a change in its frequency and wavelength
+- Light is a repeating phenomenon (a wave) -- every light wave is a little clock
+- Stronger gravity makes the period of waves longer.
+- To maintain constant light speed, a lower frequency must be compensated with a longer wavelength -- this is redshift. Gravitational redshift -- produced by gravity
+- Why should I care about relativity? In fact it is everywhere. Satellites, planes, GPSs, etc.
+
+### 21.5: Black Holes
+- If a core's mass is bigger than three times the mass of the sun, nothing can stop the core from collapsing together.
+- Classical collapse
+
+
+### 21.6: 
+
 ---
 
 ## Philosophical Relevance
