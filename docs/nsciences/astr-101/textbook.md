@@ -702,9 +702,52 @@ earth, moon, sun, jupiter
 ### 21.5: Black Holes
 - If a core's mass is bigger than three times the mass of the sun, nothing can stop the core from collapsing together.
 - Classical collapse
+  - A rocket has to have high velocity to escape gravitational pull of Earth
+  - Imagine we compress the Sun
+  - Gravity depends on mass and distance from center of the mass
+  - If the Sun is compressed, the mass remains the same but your distance gets smaller; gravity gets super strong
+  - When the shrinking Sun reaches the diameter of a neutron star (20 km), escape velocity is half the speed of life
+  - Escape velocity will soon exceed the speed of light, and nothing (including light) can escape; therefore it emits no light and nothing which falls into it can return
+  - This is a black hole
+- Collapse with relativity
+  - Gravity is a curvature of spacetime
+  - Curvature gets larger and larger as gravity increases
+  - Gravity is not pulling on the light; matter has curved spacetime; the concept of out has no geometrical meaning, the star is trapped in its pocket of spacetime
+  - The star's geometry 'cuts off' when escape velocity is equal to the speed of light; the size of the star is the event horizon
+  - Events in the event horizon can never affect events outside of
+  - The event horizon does not get smaller once a star has collapsed inside it. A horizon's size depends only on the mass inside it
+- Myths
+  - Black holes do not just suck things p with their gravity
+  - Even if you orbit around a star which becomes a black hole, your orbit will not be significantly affected, even though there may be mass loss.
+  - Only very near to the event horizon is gravitation so strong that Newton's laws break down
+- It is possible in theory to construct a time machine with gravity to take you into the future.
+- A trip into a black hole
+  - Black holes have no hair
+  - What happens to a star core in a black hole? Material collapsed into a squozen point -- zero volume and infinite density, singularity
+  - Spacetime ceases to exist at singularity
+  - The structure of a basic black hole can be described as asingularity surrounded by an event horizon
+  - All matter falling into the black hole will look like it takes infinite time to fall through it
+  - The event horizon is not a physical barrier
+  - Theories of relativity: your measurement of the world is dependent on yrou frame of reference
+  - Spaghettification
 
-
-### 21.6: 
+### 21.6: Evidence for Black Holes
+- Do black holes actually exist? HOw can we even find them?
+- Requiremetns for a black hole
+  - Start by looking for a star which is part of a binary star system; we find systems where only one star is visibile
+  - But not just invisible (can have confounders): there must be collapse. Using Kepler's law, measure the mass of the invisible member: if the mass is bigger than 3 * mass of the sun, it is probably a black hole
+  - Stars in binary systems can exchange mass: material falls towards hte black hole and spirals aruond it; this forms the accretion disk.
+- The discovery of stellar-mass black holes
+  - X-rays are important tracers of black holes
+  - Cygnus X-1
+  - Flickering X rays -- small collapsed object
+- Feeding a black hole
+  - After an isoalted star becomes a black hole, it won't grow much -- other stars are too far to provide 'food'
+  - Black holes in the center of galaxies are more likely to find mass close enough to event horizons to pull in
+  - Black holes in crowded regions can grow
+  - There is a black hole in the cneter of our own galaxy
+  - Feeding frenzy of supermassive black holes may be responsible for energetic phenomena in the universe
+  - Many observations can only be explained if black holes do exist.
 
 ---
 
