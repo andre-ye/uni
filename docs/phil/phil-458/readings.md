@@ -365,7 +365,15 @@ Questions
 - What is the identical Ego whicih lives in all processes of consciousness?
 
 32 -- The Ego as substrate of habitualities
+- The Ego is not an 'empty' pole of identity
+- Ego as both a subject and an object
+- When I accept my act, I can return to it and find it as mine -- 'act-process vanishes but the decision persists' -- I am so decided, I keep my decision.
+- I am changed if I 'cancel' my decisions
+- The Ego becomes the identical substract of Ego-properties -- the ego acquires a 'personal character'
 
+33 -- The full concretion of the Ego as monad and the problem of his self-constitution
+- The ego taken in full concreteness: the monad (Leibniz)
+- As an ego, I have a surrouding world -- 'my world', everything which exists 'for me'
 
 page 77
 
