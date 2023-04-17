@@ -340,11 +340,32 @@ Questions
 - Problem of transcendental constitution of existing objectivity ('pregnant constitution')
 - Beyond formally universal investigations -- what is the Objective world? Physical Nature is given to man: naive ontological concepts like real space, real time, real causality, real physicality, etc. We have to uncover the intentionality implicit in this experience itself, of course. But there are very complicated correlations and syntheses. Subjective objects ascend or 'emerge from' a 'lower' objective basis (the apodictic)
 
+Key Points
+- Evidence is experience in a very broad but fundamentally unitary sense: evidence is what is directly given to us in experience. Consciousness is already itself evidence or tends towards variants of evidence. Consciousness actualizes synthetic transitions from evidence to evidence to constitute continuous identification of an object.
+- The truth of objects is obtained only from evidence, and only by evidence that actual existing can itself have any sense for us. Objects are accepted by me via this synthesis of evident verification.
+- Syntheses always involve expectant and unfulfilled meanings. Along with every actuality is a potentiality which shows what is in excess of the actuality such that the actuality may appear as an object. We continually fulfill these expectant meanings through our protention.
+
+Questions
+- In what sense does the concept of the object precede evidence of the object? I can only perceive an evidence *of* if I have already established the ideal infinite multitude of the Object which remains expectant to possible actualizations. I might just 'see' the environment 'in general' (although this is itself a good question); but I will never 'turn the apple in my hand and perceive its various sides' without first constituting at least some vague concept of the apple.
+- To what extent really is possibility the possiiblity of actualization? Can an object have in itself possibility which has no hope of actualization?
+- Can one actualize things by their own free will, and in that sense how 'given' is that thing? If I consciously think of traveling at infinite speed, have I actualized it even though it is "physically impossible"? Is there a difference between thinking about traveling at infinite speed and traveling at 100 km/h, in that both are theoretical intendings, but one is 'physically impossible', whatever that means?
+
 ### Fourth Meditation: Development of the Constitutional Problems Pertaining to the Transcendental Ego himself
 
 30 -- The transcendental ego is inseparable from the processes making up his life.
 - Objects exist for me and are for me what they are
-- What makes up the existence of m consciousness?
+- What makes up concretely the existence of m consciousness?
+- every object the ego means, thinks of, deals with, etc. exists as the correlate of its system; indicates a correlative system
+- The ego 
+
+31 -- The Ego as identical pole of the subjective processes
+- The ego is existent for himself in continuous evidence -- he continuously constitutes himself as existing. 
+- We have looked at the flowing cogito
+- What about a second kind of synthesis, which embraces not identical obejcts but a multiplicity of cogitrationes
+- What is the identical Ego whicih lives in all processes of consciousness?
+
+32 -- The Ego as substrate of habitualities
+
 
 page 77
 
