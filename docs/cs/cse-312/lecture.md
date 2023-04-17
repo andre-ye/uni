@@ -168,11 +168,31 @@ $$P(A|B) = \frac{P(A\cap B)}{P(B)}$$
   - For negative texts, FNR / specificity
 - Trouble brewing when you have very different population sizes -- becuase it's a small population, even small effects become significnat
 
+---
 
-
-
-
-
+## Week 4 Monday -- Random Variables
+- Infinite processes  -- a sequential process can be infinite
+- We can still calculate probabilities because the tree is self-similar: I know what each step looks like
+- Infinite sums: we have a common ratio 
+- A sum of infinite geometric series: closed form of first term divided by 1 - ratio (only works if common ratio is between -1 and 1).
+- Can also calculate the complement, which is finite
+- Random variable: Any function $$X: \omega \to \mathbb{R}$$; $$X(\omega)$$ is the summary of the outcome $$\omega$$ -- it summarizes some sort of numerical information about your experiment. Don't think about what specifically happens, but in fact we get $$X(\omega)$$ -- the random variable of that outcome, which will be some real number
+- Random variables let us do things more conveniently: you can define many random variables for any one sample space
+- Formally speaking, random variables are functions
+- Support: the range of values that $$X$$ can actually take -- this is the image in 311.
+  - "$$S$$ is supported on ..."
+- Two ways to represent a random variable
+  - Probability mass function (PMF)
+    - Often we're interested in $$\{\omega : X(\omega) == x\}$$ -- the event that the random variable takes on that value, or $$\mathbb{P}(X = x)$$
+    - $$p_x(x)$$ or $$f_X(x)$$: pmf
+  - Patition
+    - A random variable partitions $$\Omega$$: a way of splitting up the outcome space
+- Make sure to be specific about the pmf, including handling different cases: the pmf has to give you an answer regardless of if the input to the pmf is in the support or not
+- Good check: sum of $$p_x(x) \forall x \in \Omega$$ you should get 1.
+- CDF: gives you the probability that $$X \le x$$. $$F_X(x) = \mathbb{P}(X \le x)$$
+  - You can sum up the PDF to get the CDF
+  - CDF should handle decimal values
+- Good check: $$F_x(\infty) = 1$$
 
 
 

@@ -213,3 +213,120 @@ ASTR 101
   - One of the few places in the solar system where you can throw in a rock and it can not get thrown around byt eh planets. 
 - Near-Earth Objects -- orbits cross with the orbit of Earth at some point.
 - Most 1km+ asteroids have been discovered.
+
+---
+
+## Week 4 Monday -- Chaos and Contingency in Planetary Systems
+- Rings are produced by asteroids and comets running into the moons of large Jovian planets -- hits one of the moons and that kicks up enough dust to form a ring / contribute to a ring.
+- Comets reveal chaos in interactions with Jovian worlds.
+- Short-period comets tend to be prograde; long-period comets have no clear plane or preferred direction of rotation -- long-period orbits show randomness clearly.
+- Comets are out there in a random spherical distribution because they are the comets which missed Jupiter and the moons -- which almost ran into Saturn but different, and so their orbits got jacked off, now they get fucked far into the solar system due to contingent chaotic events.
+- Chaos and contingency -- a comet which gets close to Jupiter -- become a ring; if you miss, out into the Oort cloud.
+- The Oort cloud is pretty much it for the solar syestem
+- We need to look at other planetary systems to consider planets around other stars -- can the model of solar system explainw ahtwe see in other planetary systems?
+- Stars like the sun are much brighter than planets.
+- Planets are a billion times dimmer than stars are -- so planets are very hard to see bc they are so small and dim
+- We don't find planets by finding planets: we find planets around stars by looking at the star -- let the star reveal the presence of a planet -- the center of mass of the sun changes a little bit -- wobbles. 
+- 1995, first exoplanet discovered -- 51 Pegasi, routinely moves towards us, has a 4-day orbitla period around its parent star
+- Gravity -- the planet is pulling on the star, pulling the Sun. You learn there is a planet and its gravitational pull, then its mass. We can calculate mass given the orbital speed. 
+- Transit method -- if a planet orbiting another star passes often between us and the star, then the star temporarily dim for us. This has to happen repeatedly before we can establish significance.
+- Not mass, but size (diameter) given by transit method
+- Transit methois imortat []
+- Large telescopes
+- Most plaenete do have solar systems -- thea verage number of plaents per straris more than 1 -- most stars
+- Planetary systems are very complex and basically form around all stars
+- Our model makes sense wutg terrerp'0 
+- We can start with el= == a freckly. 
+- Bizarre characteristic os fextrasolar planets
+  - Semi-major axis by eccentricity: very low eccentricity in our solar system. 
+  - Jovian-type planets orbiting closer to their star than the Earth does -- does not seem to line up with solar nebula theory
+  - "Hot Jupiters" orbiting other stars -- as close as 0.03 AU to their stars, orbits as short as 1.2 Earth days
+  - Why? Not that planets formed close tot hose stars, but they formed far away from the stars by the solar nebula model and then they started moving around. Planets clear out gaps in the solar nebula; but there's still material; if there is more material on one side, it begins moving inwards over time towards the gravitational pull of the side material as it clears out material
+  - Gravitational forces can create all sorts of chaos, including migration, mergers, and highly eccentric mergers
+- If a body just misses a body, its orbit can change significantly
+- We believe that Jupiter and Saturn moved inwards and then things shift backwards again -- this kind of moving around happens in our solar system in subtle and dramatic ways
+- Earth moon formation -- formed that something hit us -- if it missed us, no moon: the absolute contingency of the universe
+- Philosophically: but what is contingency, really?
+- Venus may have been hit so far it is spinning backwards; Uranus tilts over by 98 degrees
+- It takes studying other planets to understand the way our solar system is laid out is fairly arbitrary adn contingent -- it's almost random chance.  There are simple rules -- but once you start putting it together, what you get depends a lot on what happened.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- "Habitabele zoon" -- 'goldilacokcszoom- We see the planets in histb=p on
+- Proama -- nearest solar sysren near to aaaa
