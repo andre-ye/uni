@@ -377,6 +377,8 @@ Questions
 
 page 77
 
+65 -- 
+
 ---
 
 ## *Phenomenology: The Basics*, Zahavi
@@ -486,3 +488,10 @@ Transcendental Philosophy
 
 Up to Transcendental philosophy
 
+---
+
+## Office Hours Questions
+
+4/19/23
+- - In what sense does the concept of the object precede evidence of the object? I can only perceive an evidence *of* if I have already established the ideal infinite multitude of the Object which remains expectant to possible actualizations. I might just 'see' the environment 'in general' (although this is itself a good question); but I will never 'turn the apple in my hand and perceive its various sides' without first constituting at least some vague concept of the apple.  
+- 

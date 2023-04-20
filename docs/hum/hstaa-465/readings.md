@@ -514,5 +514,31 @@ Observations on "Classical Anarchism" and Modern Ecology
 
 [Notes](https://andre-ye.github.io/ts/docs/english/spring/reading/#chapter-3-elixirs-of-death){:target="_blank"}
 
+---
 
+## Document Collection #4
 
+### "A Time for Choosing" (Reagan), 1964
+- Spent most of life as a Democrat, but following a new course which transcends party lines
+- Prosperity is being sucked out amuck by heavy spending
+- The Vietnam War as a noble cause to fight for -- "We're at war with the most dangerous enemy that has ever faced mankind"
+- If America is lost, then there is no where to 'escape to' -- the only freedom from communism
+- Question of self-government vs. tyranny / federal overreach
+- No left or right, only up or down
+- Resent reference as 'the masses'
+- A centralized government -- cannot control the economy without controlling people
+- Farmers' rights and the efficiency of the free market over state planning
+- 'Taking from the needy and giving to the greedy' -- seizure and control of land and resources for distribution -- doesn't appear like it's going anywhere. Redistribution efforts for money are limited and have overhead -- not efficient
+- "War on poverty" -- thinking the government is the issue and the solution, add more programs
+- 'Simple arithmetic'
+- Opposition to welfare is declared as anti-humanitarian
+- Adding 'voluntary features' to help the citizen build themselves up from their disadvantaged position
+- Framing of choice and agency -- choosing whether you can enroll in government programs or not
+- Interesting -- silenty supporting / not objecting to allied colonies
+- Irresponsible spending internationally
+- The Democratic Party is going down the path of the socialist labor party of England
+- Socialism doesn't need big steps -- it's "already here". Government plays with unalienable rights.
+- Government carelessly sending people to war (why support Vietnam war still?)
+- The "soup kitchen of the welfare state"
+- Need to be noble and stand up for injustice internationally rather than cowering over the threat of retaliation (liberating East Germany)
+- "We're spirits -- not animals" -- duty and obligation -- "You and I have a rendezvous with destiny."
