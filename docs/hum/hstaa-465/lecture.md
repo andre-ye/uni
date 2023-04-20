@@ -1035,5 +1035,414 @@ Part 2: Containment in Vietnam
 	- November 63, John Kennedy is assassinated and Lyndon B. Johnson
 	- New leader of South Vietnam: Khahn
 
+---
+
+## Lecture 7: Civil Rights -- Policy and Activism During 1964 and 1965
+- On the response paper -- do not write body paragraph 1 (one document), body paragraph 2 (one document), etc. Least analytic, least interesting, least useful thing you can do -- bring documents in combination wiht each other
+- Argument: The height of the Civil Rights movmeent brought policy changes and helped to alter American politics of both the left and right as well as creating a new pluralist America.
+- Organizations
+	- There are number of organizations working together now
+	- NAACP, CORE, SCLC, SNCC, VEP
+	- Albany, Georgia -- they don't get along well for integration methods, and this works against their overall mission
+	- NAACP is a lot of lawyers -- courts and courtcases; CORE is a more activist group (freedom rides); SNCC does a lot of student-centered stuff.
+- Protesting for Civil Rights
+	- After the 1954 Brown v. Board ruling
+	- Desegregation -- local and interstate services, schools, busses, wade-ins
+	- Massive resistance -- White Southerners' campaign of resistance to not integrate in the South
+	- Voting rights -- produces a lot of violence and why Mississippi comes to be known as 'Mississippi burning'
+	- 1957 Civil Rights Act -- an act in Congress which really gets watered down through compromise and ends up as a suffrage act which tries to make it illegal to discriminate against 'qualified' Black voters.
+	- Greatest violence in rural areas and counties in Mississippi, Alabama, etc.; almost nobody votes; anyone who votes, is usually in cities (might be small populations)
+- Voter Education Project -- 1962 to 1964
+	- Attempt to get more poeple registered to vote
+	- Across the American South, trying to get people to register to vote, this is what produces a bunch of violence across the South 
+- Voting Rights
+	- By 1964, results in about 700k new Black voters -- from 29% to 43% of adult Black voters nationally
+	- Louisiana, Mississippi, Alabama -- face a lot of challenges to try and get people to vote
+	- 1964 in Mississippi -- less than 7% of adult Black people could vote
+	- 1965 voting rights act
+- School Integration
+	- Because of Brown v. Board, schools should be integrated -- but there is massive resistance
+	- James Meredith registers at Ole. Miss, Oxford Mississippi (Oxford Town, Bob Dylan) at 1962 -- a riot ensues where two people are killed and 375 people are injured
+	- Kennedy dispatched federal troops (30k) to keep this in hand
+	- MLK: "To take a moderate approach, hoping to get whit ehelp, doesn't help. They nail you to the cross and it saps the enthusiasiam of followers. You've got to have a crisis."
+	- Kennedy is trying to keep his hands off; MLK realizes that only by provoking a crisis can you get places -- this is where you get non-violent protesters putting their bodies on the line (sacrifices?)
+- George Wallace
+	- Governor of Alabama
+	- Significant because of what he teaches Richard Nixon -- on an anti-integration pattern / segregationist platform, he can get the 'Solid South' behind him
+	- This changes the South being controlled by the Democrats to the Republicans
+	- University of Alabama, 1963 -- admitting Vivian Malone and James Hood -- Gov. George Wallace stands in the door to prevent integration. 
+	- A highly staged and publicized event -- the fact that it becomes a media circus works in many ways -- galvanizes segregationists behind Wallace but also shows other Americans what is happening in the South.
+	- Wallace is breaking federal law -- he gets lots of political attention -- a white leader breaking the law vs. black people breaking the law -- they don't even have to protest to go into jail.
+	- Robert Kennedy as the AG: sherrifs say that if they think there will be a riot, they will first arrest the black people.
+- Birmingham, AL
+	- After the Civil War, Birmingham is one of the few Southern cities where there is an effort to invest a lot of capital to create an industrial town by Northern industrialists
+	- Effort to create Northern-style factory work, union jobs, etc. -- Birmingham at the center of this investment
+	- After 1900 -- Birmingham stands out as a unique southern town
+	- Even though it is industrial, white unions control a lot of the labor; black people remain the second class and remain on the outside
+	- Birmingham becomes an important place to take a stand. A lot of Black folks who have a stake in civil rights -- it becomes a focal point for Civil Rights
+	- Held in check by Bull Connor -- the sheriff who rules with an iron fist in Birmingham, does not mind sending out dogs and fire hoses to attack and subdue people
+	- Through 1963, Birmingham became a very violent place, including bombings, such as one which killed four young girls
+	- People start to see well-trained protesters standing up against physical attacks by police
+	- Kennedy begins to change his tone in Civil Rights -- May 1963
+- Medgar Evers
+	- June 11: JFR finally pronounces Civil Rights as a moral issue
+	- Medgar Evers assassinated in his home
+	- JFK had made a speech about how civil rights was a moral issue as clear as the scriptures and the US Constitution -- starting to be interested in standing up for Civil Rights
+	- Evers worked on many issues, including wade-ins in Gulf Areas of Mississippi, investigating Emmett Till's murder, works with the NAACP in Missisippi
+	- Killed by a sniper in his home -- one of the assassinations which will lead to the November 63 assassination of JFK
+- August 1963: march on Washington for Jobs and Freedom
+	- Almost 250k people -- NAACP, SCLC< etc.
+	- Come out to protest what is happening in America in terms of race
+	- MLK gives the central galvanizing speech on race in America
+- A New President
+	- Kennedy is assassinated in Dallas, Texas in November
+	- Lyndon Johnson -- brings his own focus on Civil Rights to bear in his presidency
+	- Johnson is ambitious -- a long-time lawmaker and policy-maker, has a lot of influence in Congress, quite political successful; from Texas
+	- A colorful personality
+	- Johnson comes out of the New Deal tradition -- in the mold of FDR -- believed it was the federal government which could be used to start to change American life in important ways -- how to put a stamp on the country? At a pivotal time in American presidency where we can make change
+	- Johnson is set up well to become one of the longest serving presidents (two terms changed after FDR) -- Johnson can finish Kennedy's term and can run for two more terms
+	- Johnson has a moment to put a massive mark on the future of hte country
+	- The Great Society -- a continuation of New Deal ideas -- using the power of the federal government to get into and change lives for the better
+	- Centerpiece of the Great Society -- the war on poverty
+	- Post WWII, war becomes the American mode of combat for everything -- war of poverty, war on drugs, etc.
+	- Pricey government programs to fix black and white poverty
+	- A democrat from Texas: has some cred here, is a southerner, has some credit here -- gets some people to follow him on the idea of the Great Society
+	- Not just that some groups will resist this (a centerpiece of conservatism -- resisting government programs) but what destroys Johnson and these programs is the Vietnam War.
+	- Johnson tries to fight two wars at once, does both of them badly, and loses boht of them
+	- It is rare for a sitting president to not run for a second term -- but he is so defeated by 1968 that he does not even run for president -- when he doesn't run for president, he smokes again, pus on 20 more pounds, and is dead by 1973. Johnson's presidency with hope and promise will become completely derailed by the Vietnam War.
+- Wallace shows Nixon -- the South can vote as a bloc, and this is politically significant for taking back the South for the Republicans
+- LBJ -- a racist? The trends are already there that black voting can be key to political victories. Even Eisenhower had increased his proportion of black voters. Part of it is pure political animalism. But this is also the direction of the US. LBJ has no respect for the Vietnamese for instance.
+- LBJ sees Civil Rights as politically expedient
+- Civil Rights Act of 1964 -- passed in Congress
+	- Questions about its longevity -- is it still relevant?
+	- Prohibits the kinds of discrimination we see in schools as well as privately onwed institutions. 
+	- The South got away with discrimination via public/private divide: the 14th amendment doesn't apply to private institutions
+	- Includes discrimination based on sex, which is an interesting development. Many employers continue to discriminate on the basis of sex. Made a big stink about the law saying that we should have male playboy bunnies, etc. -- in their minds, work was divided by gender / sex anyway.
+	- The '64 act did not mention voting -- a major issue which Civil Rights folks wanted
+- Freedom Summer (1964)
+	- Across the American South, a lot of people in the South begin registering to vote --going into rural areas and getting Black people registered to vote
+	- Unleashed another wave of violence in the south.
+	- Hundreds of volunteers in the North coming down -- many were white, some were also black -- the response is multiple bombings, beatings, shootings, and other forms of violence.
+	- THree specific murders -- the Mississippi bruning case -- one black and two white volunteers going to register voters and were murdered by the KKK
+	- The federal government tries to keep its hand out of local cases but there was here a massive hunt for the bodies and the killers
+	- In rural places, volunteers are setting up freedom schools -- being educated so they can read and start to vote, being more politically involved.
+- Democratic Convention -- Atlantic City, New Jersey (1964)
+	- Picking who is going to run for president
+	- Delegation to Mississippi is dominated by whites
+	- Delegations go to the convention and try to get the candidate they like elevated to the person running for president
+	- Group of African-American activists form the Mississippi Freedom Democratic party (MFDP) -- trying to be seated at the 1964 convention -- but they were turned away because thye were black. Gave them two seats in the convention. Refused these seats. Afterwards, the news media began to interview some of threse folks.
+		- Fannie Lou Hamer -- local activist in Mississippi, lost her job for being too much of an activist.
+		- Began talking with the media about her experience in Mississippi
+		- What she had to say was being viewed on national media
+		- Fannie Lou Hamer becomes a voice of the struggle going on in Mississippi at the Democratic Convention
+- Republican Convention 
+	- Significant -- Barry Goldwater from Arizona rises to the top of the American field of candidates
+	- From Arizona is significant: a place of grassroots conservatism in the country, referred to as the 'Sun Belt' -- Orange County and Arizona across the warm states of the South
+	- Demonstrates George Wallace's success, that he had brought together the southern states under a segregationist platform.
+	- What might be possible if they had gotten involved?
+	- How do use coded language which indicates segregation by talking about the fderal government's overreach, etc. Bringing together the core of the deep south
+	- Barry Goldwater fired up a lot of people, including young conservatives voting for the same time -- excited about Barry Goldwater. A transitional figrue here getting to Nixon. 
+	- *The Conscience of a Conservative* (1960) -- articulates these new conservative ideas.
+	- Has cred with the south that he voted against the 1964 Civil Rights act; really targets Kennedy's Great Society -- targets the welfare state, social security, etc.
+	- "Extremism in the defense of liberty is no vice"
+- Selma march for voting rights
+	- Now the Civil Rights movement is focused on voting
+	- Selma, Alabama -- famous march over the bridge
+	- A small percentage of blacks could vote -- becomes a centerpiece for new voting laws
+	- TV cameras are rollinig with massive violence, thrust at these marchers who are nonviolent and unarmed
+	- American s are watching protesters being beaten up
+	- It is not uncommon in America for average Ameircans "the white moderate"  to look at this and think "the black people have still done something wrong for this to have happened" -- and this is a feeling which takes a long time to work out -- the Kennedys had to change their position for this, etc.
+	- Surely it cannot be as simple as beating up nonviolent protesters.
+	- "Go slow" -- Kennedy and the later white Americans -- take it slow, American society isn't ready yet -- a lot of pushback against this from the white moderate
+	- In 1965, Voting Rights Act
+		- idea for black people to vote dates from reconstruction
+		- If black people didn't have voting rights, they would enver have equal citizenship -- Douglas, effort since post Civil War
+		- Selma is the final moment before the Voting Rights Act is passed in 1965
+		- 24th amendment: ends the poll tax (pay to vote), literacy tests, etc.
+		- 25 Black people are elected in the South in 1964; there are over 700 in 1970
+- Black power / Black militancy
+	- Impact of the 1964 Democratic Convention
+	- High point of the Black power movement isn't quite there yet 
+	- Malcolm X is a fringe figure, a radical -- belongs to a radical organization for most of his life (Nation of Islam)
+	- Mainstream Americans are uncomfortable with Malcolm X
+	- 1964 DC central to rise of black power: it is clear that African-Americans are still going to rmeain on the outside of political power
+	- Malcolm X talk about Black indpeendence movements -- not being connected to whites anymore; breaking free, enough is enough.
+	- Jim Brown (football player) -- becomes one of the many faces of the black pwoer movement
+	- SNCC begins to turn towards more black inependence and black militancy -- begins to purge white counterparts -- wanted them out. =
+	- Malcolm X becomes so central -- very articulate and intelligent, is debating with people -- Blacks will have to be more militant, stop just asking for table scraps, demand independence
+	- 1965: dissaffected member of the Nation of Islam kills Malcolm X after he left that organization
+	- Muhammad Ali -- won the Olympics at a young age
+		- One of the great characters of American history
+		- Ali would say 'outrageous' things -- much charisma and humor, became a face of the black power and black militancy movement
+		- Joined the Nation of Islam, becmae a Muslim in 1961
+		- Cassius Clay -- a name which comes from slavery, gets rid of these names from legacies of slavery -- changes to Muhammad Ali
+		- Becomes to educate himself -- black people have no knowledge of *themselves* -- understand 'roots', 'self', etc.
+		- 1966: supposed to report for the draft, absolutely refuses
+		- Goes to jail for 3 years
+- Immigration Reform
+	- Since 1924, the US had a quite draconian immigration law -- 1924, the height of xenophobia and racism in America
+	- 1924 cut off immigration from Asia and established a quota system -- quota numbers are determined from census data from the 19th century  -- really priviliged Northern and Western Europe
+	- Hart-Cellar Act of 1965, a championship for immigration reform
+		- Looked bad for the US -- main motviation
+		- An aspect of the Great Society
+	- Ends Asian exclusion, quotas, and other restrictions
+	- Makes a general number from any place on Earth -- what this means is that immigrant from Nigeria has just a good chance of getting in as someone from Norway
+	- Limited Western hemisphere immigration to 120k; Mexico and Central America will send many immigrations over across the decades
+		- Creates a new category of 'illegal aliens' which becomes very significant
+		- People come for agricultural war
+		- Brosero program has gone on for over 20 years -- people come and go for agricultural work -- will continue to be an issue
+	- Effects
+		- Allows more immigrants in than in previous periods
+		- Many immigrants are refugees from communism
+		- A lot more people in the Caribbean and Asia, as well as Latin America
+		- Suggests that the laws being passed are favoring a more pluralist American society -- one which is less overtly white
+		- The 'browning' of America
+- Urban unrest on the horizon -- 1964 and 1965, dark clouds on the horizon in terms of what is happening
+	- 64 & 65 laws have been passed, significant and not to be understated -- but they don't change things from day to day
+	- Harlem in 64, Watts in 65 -- both places explode with extreme racial unrest in places caused by police who stopped young black men
+	- Massive unrest, damage, violence, and so on -- a signal of what is to come in the next few years
+	- 67 -- the long hot summer; over 100 American cities will look somewhat similar
+- Sum up
+	- Activism has its triumphs and limitations
+	- Fracturing of the movement was like the 1960s more broadly
+	- JOhnson administration's new policies establish a new liberalism and the backlash tot hose policies a new conservatism.
+
+---
+
+## Lecture 8: The Great Society
+Argument: The Great Society was a response to prosperity. it was a vision of a more generally prosperous America that would use the power of the federal government to solve economic and social problems.
+- End of LBJ's term as presdiency, the White House puts more than 200 bills through Congress -- big Democratic majority and gets a lot of legislation through; some of it lingers, such as medicaid / medicare
+- Great Society -- response to prosperity -- we're doing well but a good portion of the country has been left behind -- but this is also what irritates Reagan -- when it was a response to depression, spending is fine; but not as a response to prosperity. The government should not be taking money from one group of people and giving it to others.
+- When Nixon gets elected in 68, Nixon actually keeps it going -- it's pretty popular. In the 80s a lot of it gets cleaved away.
+- The Great Society
+	- Help for poor Americans, the elderly
+	- Great Society -- focused on both black and whites, supposed to be for everyone
+	- New Deal lacked significantly in terms of race because Roosevelt needed the Southerners
+	- Johnson thinks of himself as carrying on Kennedy's legacy ; wants to use Kennedy's name political as much as he can
+	- Influenced significantly by *The Affluent Society* (Galbraith) and others
+	- Galbraith became part of the administration (ambassador to India) and later an advisor to Johnson
+	- *The Affluent Society* -- all of this focus on private gain and wealth and jobs and income, etc., we are missing out on opportunities to do public projects which will help more people. Johnson is taking from this and saying we should do more publc 
+	- LBJ played heavily on drawing on Roosevelt and the New Deal
+	- New deal inspired -- take this overseas to Vietnam. Same thing US is doing elsewhere also -- social uplift / infrastructure projects
+	- 1964 in the fall elections; Johnson is elected but there is also a solid Dem majority in Congress, which allows Johnson to send bill after bill to Congress
+- The War on Poverty
+	- A focus on absence of skills and needs for job training + education
+	- LBJ didn't want direct aid (welfare)
+	- Food Stamps (1961) -- one form of direct aid, but coupled with a tax cut for the middle and high class
+		- Johnson sees the pitfalls here -- programs focus on uplifting people and not just wealth distribution
+	- A 'hand up', not a 'hand out'
+	- Begins / accelerates a national conversation about working hard, deserving, meritocracy, origins of poverty, lack of success
+- *The Other America*, Michael Harrington (1962)
+	- Authoritative voice -- Michael Harrington, University Professor and influential in the Kennedy administration -- talking about 'the other america'
+	- 40 to 50 million Americans who are invisible to the rest of the country, living in deep poverty
+	- Promoting the conscience constituency -- fellow countrymen
+	- Gets debated constantly; it's well-done and researched, becomes a lightning rod for different sides of the issues
+- Connecting poverty to a lack of freedom
+	- If not taking part in properity, if not accessing basic services, are you *in fact free*?
+	- Comes up by people who are critical of hte system: you oare unde the humb of work that you don't enjoy any of the prosperity in the country
+	- The need for a soical safety net so Americans don't fall below a certain value
+	- Economic liberty -- the way American freedom is getting defined is less about your political contributions / poliitcal citizenship and more about what you can enjoy and afford economically because of the money you make / the family you belong to. Economic liberty is a centerpiece of Johnson's claim. People need to be able to make a living wage an achieve soical status
+- Experiencing poverty
+	- LBJ talking about all sorts of groups of Americans, not letting race be unmentioned
+	- "We seek not just equality as a right and a theroy, but equality as a fact and as a result"
+	- Division on responsibility for lack of success
+- Economic opportunity
+	- Wnat to put emphasis on the right topics -- economic opportunity bcomes an important buzzphrase for the Johnson administration
+	- 1964 Economic Opportunity Act -- helpes to create the Equal Employment Opportunity Commission (EEOC) -- see if people are being discriminated against in hiring
+	- Supposed to be about both sex and race, but not being paid  alot of attention
+	- What are Americans able to talk about? It perhaps is sex and gender which maybe is the hardest for Americans to get their head around
+	- Expectation that this will be taken seriously is not followed by many people
+	- Many new laws which speak exactly to gender discrimination
+	- Office of Economic Opportunity
+	- Locally oriented Community Action Agencies (CC)
+	- Helping people with job training, finding jobs, getting jobs, not being discriminated against when applying to jobs, etc. -- have some success
+	- Like the Peace Corps, the Job Corps is focused on economic opportunity -- getting people jobs.
+	- 1965 -- Head Start, program for working poor people to get their kids started
+- Volunteering
+	- Major part -- programs to stimulate volunteering
+	- VISTA: Volunteer in Service to America. People volunteering locally to helping people
+	- Like a Peace Corps for the inner cities
+	- Making people aware of government programs -- many rural poor don't know about new government programs -- a lot of lack of awareness / information about programs people can take advantage of.
+	- People worried about taking advantage of government services b/c they'll be stigmatized as lazy, a taker, etc.
+	- Johnson is careful to not use terms like 'living on the dole' / welfare
+- Health Programs
+	- Medicaid and Medicare -- health insurance for hte poor and the elderly
+	- Universal Health coverage on the liberal agenda since 1938
+	- Government creates the Homeowner's association which redid the mortgage industry by being competitive -- completely remade the mortgage industry and was great for American capitalism and the market system
+	- Continued argument over healthcare -- business or a right?
+	- Some healthcare companies refer to the people they insure as customers, not necessarily as patients or people
+	- Medicaid and Medicare both become part of the gov'm't safety net
+- The Arts and Education
+	- Programs like the Works Progress administration -- hire artists, songwriters, poets, etc. who would celebrate and reinspire Americans
+	- Sesame Street in 1969 and PBS (Public Broadcasting)
+	- Public money being made available to promote arts
+	- Remain constant targets by those who dont think that the govn'mt should be in the arts
+- Successes
+	- End of first year of LBJ's presidency, gets 84 / 87 bills submitted to Congress into law by end of 1965 (end of 200 by end of his presidency)
+	- A legacy of the Greaet Soceity still remaining, but gets overshadowed by the Vietnam War, massive protests, etc.
+	- Creation of Department of Transportation and Housing and Urban Developemnt -- new offices in the cabinet, are also targets
+- War on Poverty
+	- National poverty rate does decline because of these programs -- 22 to 13 percent nationally over the 60s
+	- Become targets for attack
+	- Drawbacks
+		- All this job training is nice, but manufacturing jobs are disappearing
+		- By 65s, economists know that jobs are on their way out -- dindustrialization which happens across the Rust Belt is beginning
+		- Middle of 70s, we are deep into a recession, problem of de-industrialization
+		- Jobs will not necessarily be there
+		- Beginning of rust belt towns
+		- Germany and Japan have been rebuilt; other economies which suffered in WWII are being rebuilt; Auto indsutry is being challenged by German and Japanese manufacturing. A lot of automation going on. A lot of jobs were automated out of existence. One hope is that Johnson's tax cut -- capitalists will reinvest in the economy and hire more people. But many of these industries and capitalists invent in automation and further drive the loss of jobs. Cascading effect of job loss.
+		- Not a lot of support for unionization. The economics are changing and unions are losing their footing. Not a central piece of the Great Society.
+		- Beginning of ascendancy of service jobs -- people are going into service type jobs
+- US Indian Policy
+	- Parts of American life which got left out -- US Indian Policy
+	- Policy of the US federal government swings wildly w.r.t. native people
+	- US policy has gone through many different changes
+	- 1950s and 60s -- goes through another great upheaval / convulsion of new policy. The very fact that native people / tribes on reservations maintained a tribal status was keeping them down, it was said
+	- Government should make native people economically viable and then revoke their special status -- make them like 'everyone else'
+	- None of these worked
+	- Relocation -- native people were poor bc they were rural; some native people did this and relocated and got jobs, but of course had quite detrimental effects on kinship and tribal comunities.
+	- Both policies as well as the boarding school policy are questioned as policy changes again under Nixon, where people can get free tom the country and create hteir own worlds.
+- Labor activism
+	- We don't see very much about the farmworkers, an ongoing issue
+	- INvisible folks  -- many farm workers are quite invisible, come and work in America's fruit fields, pretty much picking all of its fruits
+	- Really remains very invisible, live in poor conditions and are paid very small amounts of money for their wages
+	- Cesar Chavez and Dolores Huerta form UFA -- United Farm Workers (1965), go through boycotts and strikes -- reaches far into other states where people start boycotting table grapes because of farmworker conditions
+	- Eventually we do see changes in farmworker working condtitions; but left out of consumer society
+- Criticisms of the Great Soceity
+	- Growing conservative movement -- Buckley's Firing Line TV show
+		- Buckley interviews many interesting people
+		- w/ Noam Chompsky
+		- position w/ James Baldwin (the 'pen drop' speech)
+	- Conservative platofrm for drawing attention to the Great Scoeity
+	- Goldwater -- criticizes Great Society in 64 while running against LBJ
+	- NEA, NEH, PBS remain heavily scrutinized by conservatives
+	- Ongoing criticism of the poor
+	- Ongoing reliance on the prosperity doctrine (belief system -- if you're successful, it's because you deserve it -- you did the right thing, you did it) and individualism -- one's success is tied to one's goodness, one's failure is tied to one's failures. Dedication to bootstrap mentality
+
+---
+
+## Lecture 9: The Vietnam War in Country (1964 - 1965)
+- The Vietnamese have already been fighting for 20 years, and then the US gets involved.
+- Argument: A commitment to stop the spread of communism anywhere in the world did not prepare Americans to win a war in this specific place in time
+	- The US had devoted itself to a policy of containment
+	- Made many many pledges and statements about following this policy and stopping the spread of communism in the world
+	- This policy did not prepare the US to step into this particular place and time and be effective
+- Getting involved in 64/65
+- Kennedy administration begins the process of entry but LBJ definitely follows it up and pours more people into Vietnam, even as he does not want to do any of it. But he feels like he has no choice.
+- One hard truth about the US involvement in the Vietnam War
+	- Vietnam itself did not matter to America or to Americans, but rather Vietnam was a symbol in the fight against the spread of communism, it mattered a lot
+	- LBJ referred to Vietnam as a 'piss-ant little country"
+	- Mainly symbolic value -- this simple formula is how the US ends up in a war Americans didn't know, with people Americans didn't understand, with unenviable allies in the Vietnamese south -- nothing promising about getting involved in the war
+- Vietnam
+	- About the land area of New Mexico -- not very large
+	- This amount of land will absorb triple amount of tonnage that was dropped by all countries in WWII -- mostly the south is being bombed
+	- 1960 -- almost 32.7 million people; by the end of the war, 3m (8 - 9%) of people die in the portion of the war the US dies in
+	- Civil War -- killed about 2% of the American population
+	- Hanoi -- big capital, lots of French buildings and cathedrals from the imperial era. After 1954 when the French are defeated, many Catholic Vietnamese go back down to the South with the Communists taking over in the North.
+	- End of the river -- Haifong -- large international shipping port. Johnson doesn't want to blow up or mine the harbor and the military leaders want to -- a major source of tension in the war
+	- Ho Chi Minh trail -- a road system which runs from the North, goes through Laos, and then goes into the South
+	- THe US Navy stops all ships going in and out; naval bloackade 
+	- Ho Chi Minh trail willb e the target of enormous bombing campaigns -- the bombs don't do good -- stuff continues to flow South
+	- Laos in the Kennedy administration -- agreement between 13-16 countries that Laos would have a neutral government and share power. Painted as if Kennedy gave up and lost it
+	- Some people in Vietnam are pushing for Laotian neutrality but US feels like they have to stop them (also the Communists wouldn't have allowed for a neutral government anyway)
+	- Cambodia has three factions vying for power -- but also many Communist bases
+	- Saigon -- major capital of the South, sits at the delta of the Maikong river delta
+	- Da Nang and Hue -- important cities
+	- DMZ at the 17th parallel -- not the establishment of different countries -- was a temporary division until the country could come together nad have a vote as a unified nation. Often talked about as North vs. South -- it's more complicated
+- Northern Communist Nationalists
+	- Ho Chi Minh and Le Duan
+	- By 64/65, Ho Chi Minh is being phased out as the US gains interest. Ho Chi Minh is also the only one that the Americans know.
+	- Le Duan becomes major policy maker in the North for the Northern communists
+	- Two major backers: the USSR and China, play many roles
+	- Different angles on what should be happening in Vietnam
+	- Soviets -- want to see peaceful coexistence, want to see Northern Vietnamese negotiate so there isn't conflict
+	- China -- looking at global revolution, violent if needed, so continuing to stoke the Vietnamese in order to make the revolution possible.
+	- Le Duan believes it is an uncompromising position -- the war aims (political goals of war) are to unite Vietnam under a communist government. A fairly exclusive war aim, doesn't allow for many possibilities
+- Vietnamese Communists / Nationalists
+	- Northern regularly trained conventional forces -- People's Army of Vietnam (PAVN) -- trained in the North
+	- South: National Liberation Front (NLF) -- trying to convince Southerners who may be on the fence or aligned with the Southern government to come over the Northern side -- or torture / coerce them 
+	- NLF gets called the 'Vietcong' or VC derogitorially. You can't tell which side they're on -- they blend in, work in the rice fields at day and subvert at night; these people make the war really hard for Americans, very hard to tell who is the real enemy out in the countryside
+	- North -- lots of militias (coastal, scoop out American pilots, etc.) and volunteer civilians -- most of the North is galvanized behind this approach -- a total war approach, all of society is helping to win this war
+	- South si massively factionalized, don't have the same kind of cohesion in the south
+	- Lots of equipment given to the North by USSR and China
+- South Vietnam
+	- 1965 -- very tricky map. Many areas in South Vietnam have entrenched NLF sympathies.
+	- US doesn't really know what they're getting into -- the US doesn't relaly know the full extent of the war
+	- McNamara
+	- With the assassination of Ngo Diem in 1963, there are multiple different coups -- differnet generals kicking out and taking over; none of them really got popular support. The US gets behind general Khahn becuae he was young and would do waht the US wanted him to do. By this point the Southern government had no credibility -- people in the South were allied only out of fear. There was very little popular support in the South.
+	- Tried to do a new start with Buddhists and the students -- under the Diem regime there is a major crackdown; Khahn tries to make common point. However the Buddhists and students continue to protest throughout this period.
+	- Communists on the move -- from 54 to 63, have had a long time to plan, work, infiltrate the South, really get set to try and topple the Southern government
+	- Most people are farmers -- people trying to live. both the Southern government and the Communists are trying to politicize people
+- The US and its Allies
+	- Northern Army -- Army of the Republic of Vietnam (ARVN)
+	- Supplied and trained by the US, given a *lot of equipment* -- much of Vietnam War is shipments of American stuff
+	- Why is war good? The companies the produce war material is getting shipped into Vietnam
+	- By the early seventies, a stream of military goods but also other American consumer products
+	- Why is American spending so high? Vietnam War -- what the govenrment is spending so much war on. Vietnam becomes a consumer for American products.
+	- ARVN have some problems with corruption -- corruption at the top, corruption on the line -- officers exist who aren't there or don't know what's going on. That being said maybe ARVN troops fought well and with distinction. Performances were far from uniform
+	- Major allies in Vietnam -- South Korea, Thailand, Australia, New Zealand, the Philippines
+		- A lot of South Koreans fought
+- Who is the enemy
+	- In Vietnam, who is the enemy? Who is being fought?
+	- The guys in the unifroms, sure -- but what most Ameircan soldiers were finding when they went into the countryside is that they are facing villages full of people and they can't tell who is a communist and who isn't one
+	- The United States and ARVN end up finding a stash of guns or much more rice than one village can consume, make connections, and end up blowing up the village -- dropping bombs, burning things down, etc. -- this makes more enemies
+	- Every time they arrest someone and burn a village (US and ARVN), create mor eneemis -- push people further into the camp fo the NLF. Major strategies to get people on our side is something that we are undermining -- gets to become a big problem
+- Strategic Hamlet Program -- started by the French and carried over by the AMericans
+	- identify Hamlets (little villages) which were targets of the communists and to physically fortify them -- make sure they have enough to eat, brin gin electricity, help them with farming, etc. -- New Deal type, Truman Doctrine -- bring them to our side by helping them. But you can't stand and guard every Hamlet every time -- some of these did work, both for a nationwide program -- all of the South is not viable after a certain time
+	- Early on -- a centerpiece to the hearts and minds campaign -- we need to win the hearts and minds of the people
+- "Hearts and Minds"
+	- Neew Deal, Great Soceity, CORDS -- Civil operations and Rural Development Support
+	- Buildin gin new equipment, pesticides, herbicides, more animals, etc. -- as an effort to politicze the Southern people, get them supporting the Southern government. Similar to what the French did. Both sides are putting a lot of pressure -- the US didn't have the time and personnel to do waht the Communists did. The US has a hard time actually politicizing the rural population
+- CIA and the Military
+	- Some success becuase it replicated what the NLF was going to do: the PHOENIX program (CIA, 1965 - 1972) engaged in the same kind of subserive work -- assassinations, intimidation, identifying who in a village needs to die to get the influence out of that village. PHEONIX program is doing this the entire time -- often there is a lynchpin leader who could drop the Communist influence in an area.
+	- Trained ARVN folks to engage in the same kind sof tactics -- investigations, killings, kidnappings, torture, etc.
+- War Aims
+	- A war aim is a political outcome that you hope to see in the war -- the goals you are fighting for
+	- Unlimited and limited wars: your goal is to topple the other government (WWII) vs. anything other than that, respectively
+	- Comes out of the Defense Department -- long memorandum of purpose for going to Vietnam (March 10, 1965), Secretary of Defense
+		- 70% -- to maintain US reputation -- we staked our reputation on containment
+		- 20% -- to check the Chinese, to make sure that they didn't become another patron to a Communist state
+		- 10% -- to make life better for people in South Vietnam
+		- Have to emerge from crisis without unacceptable taint from methods used (ironic)
+	- Getting into it to maintain our reputation  -- lofty goals in the press about saving the South Vietnamese, etc. -- not what is really going on behind the scenes. 
+	- A lot of confidence and arrogance going in -- McNamara and Rusk, etc. know this is probably a losing proposition, and they go anyway -- hidden from the American public
+	- They're not dummies; it's not that they don't know  -- what explains involvement?
+- The Beginning
+	- 1964: begins iwth OPlan 34-A, a plan to start to selectively target certain part of the North and to help the ARVN in their ongoing conflict
+	- Bombinrg raids on communist bases in Laos -- communists putting bases in laos. Was Johnson going to go into another country and bomb it? (Yes, we will)
+	- Commanod raids on bridges, railroads, etc.
+	- Use of naval ships to support the South Navy on raids of North Vietnamese coastal isladns, doing surveillance , radio jamming, etc. 
+	- Johnson had his advisors draft up something if something happened for Congress
+- Gulf of Tonkin Incident (1964)
+	- Maddox and Turner Joy -- ships out in the Gulf of Tonkin when North Vietnamese torpedo boats come and attack them -- at first a volley of misses -- the next day, there was a belief that the attacks would resume. The attack never comes, but there is communication between Maddox and Turner Joy that they might have seen a torpedo shot at them; report up the chain of command that they were "probably, but not certainly", attacked
+	- Becomes a very controversial issue because it really gets us into the Vietnam War
+	- When Johnson is told the Maddox is probably attacked, sends the Gulf of Tonkin Resolution to Congress, and it is almost uninanimously voted for -- no one in the House votes against it, and only two senators vote against it. Time to use force in Vietnam War.
+- US Strategy
+	- Strategy -- general concept for how to wage war, how to fight a war
+	- Tactics -- how troops move around. But strategy is more general.
+		1. Support the southern government and the ARVN
+			- After 1963, Southern government is unlikely to get support of the people -- the coups and such, and the Communists hammering the populations 
+		2. Heart and Minds -- help the Southern government build support among rural populations
+			- Too many refuges, Strategic Hamlet abandoned
+			- Many people caught in the middle
+		3. Bomb the North until they agree to negotiate -- break morale
+			- US sees that its tech superiority will just lay waste to whatever it wants; the North can't sustain American bombing
+			- Bombing created massive criticism of the US; they were globally condemened, entirely abandons the anti-war movement in the US, and it never broke the moral of the north
+		4. Naval blockades, river patrols; attempts to render the terrain unusuable
+			- The Ho Chi Minh Trail always stayed open despite the bombings
+			- THe NLF build large systems of underground tunnels
+		5. Destroy communist guerillas in the South through decisive action
+			- Guerrillas ate away at American morale by inflicting massive physical and pyschological wounds -- got very good at sniping, ambush, etc. which chipped away at American morale
+	- All fasing real challenges.
+
+
+
+
+
+
+
+
+
+
 
 

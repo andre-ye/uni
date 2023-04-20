@@ -293,6 +293,16 @@ earth, moon, sun, jupiter
 
 ---
 
+## Chapter 5: Radiation and Spectra
+### 5.1: The Behavior of Light
+- A lot of information can be found in light from objects in the universe and how they work. They are messages 'to be deciphered'!
+
+---
+
+## Chapter 6: Astronomical Instruments
+
+---
+
 ## Chapter 7: Other Worlds: An Introduction to the Solar System
 
 ### 7.1: Overview of Our Planetary System

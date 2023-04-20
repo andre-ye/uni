@@ -482,11 +482,52 @@ Russian verbs which only exist in the perfective
 - Nothing is 'lost' in the epoche -- you just don't take it to exist a priori -- this is how I experience it, through these acts
 - There is no pre-cogitationes which is distinct from the cogitatum
 
+---
 
-
-
-
-
+## Week 4 Tuesday: Evidence and Truth
+- The natural attitude is 'in' the transcendental ego; it is a kind of diminishment or even impoverishment / restriction on the transcendental ego
+- You take on this attitude and relate to a 'world' whose existence you presuppose
+- If the existence-meaning of the object is not the effect of the transcendental ego, then error is impossible: being is or isn't present to you; how can you ascribe existence-meaning to something if it is a matter of seing if it is there or not? How do you distinguish between illusion and reality? There are possibilities, but whether they be is a determination you make
+- Zahavi: Any interest in the being / non-being of the world is forbidden, but Husserl doesn't really mean that -- nothing is lost in the epoche
+- The scientist presupposes even the presence of the world 'out there'
+- The 'practical interests' -- these are the ends of the natural attitude. 
+- We intend things as possible things which we can do things with -- free play of images
+- Animals' objects are not quite what our objects are
+- We're always perceiving something as if it is something we can do things with
+- Disharmonious experience: protention does not agree with intention
+- Part of the fanstasy -- 'as if it could do this, as if it could do that'
+- Subjective correlates are revealed -- objects are subjective correlates
+- Ontic -- ontology (being as being) -- ontic meaning of being is the beingness of whatever being it is; people can be possible (hypothesis) (be as a possibility) vs actual
+- The natural attitude comes after the fact
+- Delphi the Oracle -- know thyself, a new meaning in transcendental phenomenology -- transcendental science is 'lost in the world'; I must lose the world by epoche to regain it by universal self-reflection
+- No -- something is lost, the world as taken by the naive attitude is lost -- the totality of your world, all phenomena, are lost; but as the world of the natural attitude, it is lost; it gets its meaning from you.
+- For Decartes, the cogito is a worldless I: Decartes, imagine this is all the matrix / an illusion -- the entirety of the world is dubidable, but myself as an isolated monad of an ego with no world is apodictic; pure consciousness detached from the world.
+  - Naive reading: there is no consciousness without object, so there must be a 'real world'
+  - But there also is not an object without consciousness
+  - The world as more than the phenomenon is lost
+- Zahavi -- the problem of the bridge is solved because there is always a bridge
+- Intentionality is a correlation: it is not a spatial reality; I don't have to move there to see the tree, the tree is 'here' 'in me'
+- "Cogito ergo sum" -- the "ego" is implied. The "ego cogito". What is the "cogito"? There is no thought without thinking; there can be no world without an I and no I without a world: to *think* is to have *a thought*
+- Decartes: says, there is just "I think"
+- Heidegger -- you can have an 'I'-less world
+- Meditation 3: Decarte clarifies / argues that thi s idea of God as personally finite idea -- he can not give an idea, he cannot cause it
+- Questions about infinity
+- You must lose the world by epoche in order to gain it
+- Augustin -- do not wish to go out, go back into youself; it s the inenr man whoo holds truth.
+- Basic structure of intntionality for Husserl is this concept of meaning-intention (cogitationes) towards meaning-fulfillment (cogitata, cogitatum)
+  - Cogitata somethines do not fulfill the expectations -- no cogituatum, not filled, at least no cogitatum not adequate to the intention itself. The intention is not filled; empty
+  - Seeing -- fulfilled in the seen
+  - But I percieve a thermos. I could stop percieving a thermos -- I could restrict my intentionality
+  - Two aspects of phenomenological reduction & epoche: bracketing, focusing on phenomena as phenomena, and analysis of syntheses
+  - Some cogitatum remain unfulfilled and as mere possibilities because there is no cogitata which is adequate to them, which is filled. I can shift my seeing to other things
+  - I cannot see a thermos until I conintend 
+  - Constituting is synthesizing
+- Temporality of the subject and temporality of the object: while cogitationes are correlated to cigtata, the temporality
+- Questions
+  - To what extend does the object existing for me precede evidence of it? 
+  - How can we establish what things 'really are for me' before they 'appear as things for me'? Why? How?
+    - It seems like we're trying to pursue a 'phenomenal nouemna' -- if things appear to us as objects, why are we hoping we can get at what they 'really are' for us? In what sense are we replicating the problem of the bridge in the phenomenal?
+  - Intentionality and constitution -- don't I have to first constitute the object to be intentional of it?
 
 
 

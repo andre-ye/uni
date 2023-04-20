@@ -194,8 +194,21 @@ $$P(A|B) = \frac{P(A\cap B)}{P(B)}$$
   - CDF should handle decimal values
 - Good check: $$F_x(\infty) = 1$$
 
+---
 
-
+## Week 4 Wednesday -- Expectation
+- The expectation of a random variable $X$ is $\mathbb{E}[X] = \sum_k k \cdot \mathbb{P}(X = k)$
+- $$\mathbb{E}(X)$$ is not the most likely outcome necessarily, but the average -- what is going to happen
+- The expectation does not need to be an actual possible outcome; it is just the average value you would expect
+- $$X$$ is random, but $$\mathbb{E}[X]$$ is not -- it's a deterministic number
+- Two events are independent if $$P(A \cap B) = P(A) \cdot P(B)$$. We would have defined it as $$P(A | B) = P(A)$$ but $$P(A|B)$$ is not defined for zero $$B$$.
+- What about independence for 3 or more events? We need two kinds of independence. There are different levels at which the events can be independent of each other.
+  - Pairwise Independence: every pair of events is independent of each other: $$\forall i \forall j P(A_i \cap A_j) = P(A_i) \cdot P(A_j)$$
+  - Mutual Independence: $$P(A_{i_1} \cap A_{i_2} \cap \hdots \cap A_{i_k}) = P(A_{i_1} \cdot P(A_{i_2}) \cdot \hdots \cdot P(A_{i_k}))$$ for all subsets $$i_1, i_2, ..., i_k$$ of $${1, 2, ..., n}$$ -- all subsets must be independent
+- Even though two events might be independent, the intersection of three events might interact in some unique way. 
+- Not pairwise independent implies not mutually independent
+- Independence of random variables: $$X$$ and $$Y$$ are independent if $$\forall k, l P(X = k, Y = l) = P(X = k) P(Y = l)$$
+  - Commas in lieu of $$\cap$$$
 
 
 

@@ -250,17 +250,44 @@ ASTR 101
 - Venus may have been hit so far it is spinning backwards; Uranus tilts over by 98 degrees
 - It takes studying other planets to understand the way our solar system is laid out is fairly arbitrary adn contingent -- it's almost random chance.  There are simple rules -- but once you start putting it together, what you get depends a lot on what happened.
 
+---
 
-
-
-
-
-
-
-
-
-
-
+## Week 4 Wednesday -- Measuring and INterpreting Light
+- Moving into the second act (first act -- here on Earth), leaving our homes behind
+- We can undrstand distant objects,b ut we just need to know more about light
+- We know a lot more aobut how light works
+- Light -- a way that energy propgates around the universe 
+- Wavelength
+- Frequency: how many waves pass per unit of time
+- No matter its wavelength or frequency, all light moves through the universe at the smae speed.
+- However becuase red has a lower frequency than blue, more blue waves move in space than red waves in any period of time or space
+- Light shakes electric and magnetic fields -- hsorter wavelengths pack a lot more punch
+- Your eyes are sensitive to a very small range of wavelengths -- if the energy is too low or large your eye cells aren't being activated.
+- X-rays (ultraviolet): higher frequency than visible spectrum; radio waves, microwave radiation (infrared): lower frequency than visible spectrum
+  - Infrared waves can be very long -- meters or km long.
+  - Ultraviolet -- slightly higher energies than visible spectrum
+  - Gamma rays -- even higher frequency
+- Light which I see is reflected light -- dyes reflect certain colors and not others
+- But I am also making light -- I have a certain temperature hotter than the room around me, and I am producing infrared light, which we think of as heat, but it is really radiation 
+- Light interacts with different things in very different ways
+- Light is based on temperature: molecules banging into each other, producing radiation, which leaves my body. What sort of glow you make depends on how much activity there is, and therefore how much energy they produce
+- There is a form of radiation that all things which are not transparent make which depend on their temperature
+- Smooth and continuous without break: continuous radiation
+- Hotter objects produce more light per area unit at all wave lengths, so the peak of hotter objects move to bluer colors at higher temperature
+- THings look good becasue they;re produing more blue than not blue
+- Electrons in any atom respond in a predicable way to particular energies
+- Every elment prouced a 'barcode' when exposed to light
+- Bombining continuous spectrum and birght light p specitrum -- e=we  that deelat proccesssssnt
+- Inteferes with motion: Doppler Shifrt / redshit -- sounds waves are pressure waves -- shacking air in the room -- shaky air shakes the ones in y
+  - Higher patch with higher frequency and shorter wavelength
+  - Lower frequency and wavelength
+- Reflecting telescope -- uses curvmrirros to eing ight to Earth; 1960s. Curr position matter
+- We use reflecting instead of refracting telescopes by size -- you can make mirrors much much larger than you can make lenses -- we can build 30-meter telescopes or more -- a mirror just just some shiny stuff sitting at the bottom, much easier to engineer.
+- Why does size matter when it comes to telescopes? Currently planning a 100-m telescope. TWo reasons you need a big teloscope:
+  - A telescope is a bucket which collects light: the bigger your telescope mirror/lens, the more light passes through it every second, so you can see fainter things. *Fainter* - not farther, but fainter. Sometimes things are faint because they're far, but they can be faint because they're small and dark. 
+  - Size of the telescope sets the level of detail you can see in your focused image. A big telescope improves the angular resolution of images -- more detail.  also called angular separation -- smallest possible angle you can detect with your telescope system
+- For most time we've used the human eye -- which is great. But the human eye 'erases' every 0.03 seconds or so -- if we want to see something faint, it has to be bright enough to make an impression in .03 seconds, which restricts you 
+- Mid-1800s, invention of photography: astronomy becomes astrophysics. You can take a picture of what is happening.
 
 
 
