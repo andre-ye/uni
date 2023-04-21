@@ -280,7 +280,7 @@ Russian verbs which only exist in the perfective
 
 ---
 
-## Week 2 Thursday -- Husserl's Introduction to Phenomenology II
+## Week 2 Thursday -- Husserl's Introduction to Phenomenology II (Meditation 1)
 - You can trace throughout archaic Greek the emergence of the mind -- in pre-Homeric Greek you don't have the language for 'mental acts' (seeing, tasting, ... understanding, judging, deciding, deliberating)
 - Schnel, *Discovery of the Mind* - in Archaic Greek there are no words for mental acts; but presumably people did see, judge, decide, ... -- why weren't there words for them? 
 - You can't draw mental acts because they're not spatial realities
@@ -373,7 +373,7 @@ Russian verbs which only exist in the perfective
 
 ---
 
-## Week 3 Tuesday: Universality in Phenomenology I
+## Week 3 Tuesday: Universality in Phenomenology I (Meditation 1, 2)
 - Husserl -- we're not looking for transcendence (this is what is bracketed in the epoche) -- the world as transcending consciousness; we only ever know and experience that which is in consciousness
 - Transcendence as opposed to immanence -- we have to limit our investigation to that which is immanent in consciousness
   - Immanence -- within, restricted to
@@ -420,7 +420,7 @@ Russian verbs which only exist in the perfective
 
 ---
 
-## Week 3 Thursday: Universality in Phenomenology II
+## Week 3 Thursday: Universality in Phenomenology II (Meditation 2)
 - Introduction to Hegel's lectures on the history of philosophy -- Hegel is a major thinker bbecause he establishes the concept of intellectual history, history of thought / philosophy / the mind / the spirit -- the mind emerges over time / history
 - To understnad philosophy, you have to understand the history of philosophy
 - Hegel draws heavily from biological analogies -- more than analogies, even; geist goes all the way down; the World is spirit. It's not just an analogy, but 'this is what the mind is like' on another level
@@ -484,7 +484,7 @@ Russian verbs which only exist in the perfective
 
 ---
 
-## Week 4 Tuesday: Evidence and Truth
+## Week 4 Tuesday: Evidence and Truth (Meditation 3)
 - The natural attitude is 'in' the transcendental ego; it is a kind of diminishment or even impoverishment / restriction on the transcendental ego
 - You take on this attitude and relate to a 'world' whose existence you presuppose
 - If the existence-meaning of the object is not the effect of the transcendental ego, then error is impossible: being is or isn't present to you; how can you ascribe existence-meaning to something if it is a matter of seing if it is there or not? How do you distinguish between illusion and reality? There are possibilities, but whether they be is a determination you make
@@ -529,10 +529,55 @@ Russian verbs which only exist in the perfective
     - It seems like we're trying to pursue a 'phenomenal nouemna' -- if things appear to us as objects, why are we hoping we can get at what they 'really are' for us? In what sense are we replicating the problem of the bridge in the phenomenal?
   - Intentionality and constitution -- don't I have to first constitute the object to be intentional of it?
 
+---
 
-
-
-
+## Week 4 Thursday: Truth & Evidence, Self-Constitution (Meditation 3, 4)
+- Being -- you can intend impossibility
+- Lonergan: evil doesn't exist; if evil existed, then God would be responsible for it; so evil qua evil doesn't exist
+  - The horror of evil is its absence -- a lack of intelligibility
+  - Conceiving vs understanding
+- The problem of error - metaphysically, how can you ever be wrong of something? Epistemologically, how can you think of something which is not? It must be for you to be able to think about it
+  - Parmenides
+- Negative judgements -- you cannot refer to that which is not
+- The quality of being results from the way that we intend it (possible being)
+- When I have a hypothesis, I am intending it as possible
+- Marx and Hegel -- "many an innocent flower will be crushed" -- evil isn't really real, it's always in service of the good
+- How does consciousness constitute the object according to modes?
+- Being and non-being as exclusive disjunctions which although have modes exist for the meant (the object).
+  - By contrast, truth and falsity relate to the intentional act, or the *meaning-act* -- (the subject, or the relation between the subject and the object)
+  - Truth and falsity are predicates that refer to the relation between the subject and the object. This seems to make sense -- if you're intending the object correctly, you're in the truth. Fulfillment, adequateness, etc.
+  - There's a question of the being and non-being of the object, but even further the question of how to relate to it
+- Comparison -- to say that you can think of the process of verification/falsification as comparing the object in consciousness with the object 'out there'. To be clear this is a common way to think. In Meno's paradox is an assumption for comaprison -- I see the object in here and does it match what's out there? If I don't have it in here how can I compare to begin with? How do I know what to look for our compare once I've found it?
+- You have never been conscious of the thing which is not in your consciousness
+- If you already know it, what are you comparing it to? You need to know the 'real thing' and then compare your knowledge to it -- if your knowledge is adequate to it then it must be true. But how do you know this 'real thing'? It's a fundamental problem in the history of philosophy -- breaking the idea that generating truth is comparison with the 'real' (the true...)
+- Hegel -- the object emerges from consciousness
+- Knowledge has to be self-validating in a certain sense: it can't be validated with comparison -- the knowing itself has to be self-ratifying. It cannot be validated by some kind of comparison. You 'decide' if something is real
+- Reason is self-ratifying
+- There has to be another way in which knowlwedge qua knowledge emerges in you
+- The World for Husserl is all possible givenances -- and this is an *idea* --in this anticipatory relation here; in cointending the backside, I am really cointending the world. What is it that I am cointending? I don't know yet ... it is intended as the unknown
+  - "You know it when you see it"
+- To break Meno's paradox, you both know and don't know what you are looking for
+- Something changes in you from being told "this is what a circle is" vs. it "appearing to you as true" (e.g. you vary -- and you experience, this is what a circle be -- not a comparison)
+- Truth -- not two objects, acts which get fulfilled, because acts intend something
+- Husserl -- the horizon of infinite possible fulfillments of intention which I already have (Aristotle: yes Plato, all forms are in us already -- but possibly)
+  - Mind and being -- go together
+- How can you know or get to know without knowing?
+- What about the things Ican't anticipate?
+- Acts are in some sense abstractions -- first is the unity
+- Concretely, anticipating a restriction of a larger anticipation of all being, the result of having cultivated certain habitualities
+- You are more than any particular conscious act; the ego is the unity of acts; do you experience the unity of your consciousness as given? When you experience things are you cointending things? 
+- Insofar as we restrict ourselves to the red as meant, we think about red and not being-red. But even so predicates hav ea phenomenological origin -- even if they are bracketed in the epoche, we have to account for them phenomenologically -- how do these predicates appear to us in consciousness? Why do we assign being or existing to some meants and not tohers? How to conclude true and false meaning?
+- Evidence is a universal primal phenomenon of intentional life, vs. other consciousness-of, which is capable of being non-presentive. Evidence is directly given. ego -- not aiming confusedly at something with expectant intention, but it is at being with itself.
+  - Evidence is the givenness of the intended object *as* intended; the fulfillment of the intentional act. 
+  - Some intentional acts are not fulfilled -- cointentions, e.g. future notes in a melody or the backside of the object
+  - Consciousness is aware that that which it intends is itself there vs merely imagined or anticipated
+  - Consciousness is not 'aiming confusedly'
+  - All evidence is experience -- the totality of that which is given in experience is evidence. 
+  - Evidence vs sense-data
+  - passive synthesis and active synthesis. To see dog running, we have to synthesize it -- but this is a passive synthesis. (But synthesizing is acting...) -- it's passive in the sense that you're not acting -- quintessential active synthesis is the act of judgement
+  - Judgement -- fundamentally separating -- krisis, to divide. What is being divided? The subject and its predicate -- and then they are synthesized. In order to make a judgement wiht a subject and a predicate, we have to divide the predicate from the subject and then reattach it. "The dog is running" -- there has to be a passive synthesis of perceiving the dog running, but then the active synthesis of saying "the dog is running" -- to separate running from the dog and then reattaching them.
+  - Passivity is habitual -- no effort involved, you don't experience effort qua effort when you pass by
+  - An active heightening of consciousness when you say, "this is" -- this is the affair complex, which can be given passively or you can make an explicit judgement
 
 
 

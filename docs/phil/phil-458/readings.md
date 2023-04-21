@@ -374,10 +374,54 @@ Questions
 33 -- The full concretion of the Ego as monad and the problem of his self-constitution
 - The ego taken in full concreteness: the monad (Leibniz)
 - As an ego, I have a surrouding world -- 'my world', everything which exists 'for me'
+- Ego taken in full concreteness 
+- That without the ego cannot be concrete
+- The ego has a surrounding world which 'exists for them' -- objects which I have experienced and which I am going to be aquainted with.
+- I ocnstitute the object in its "explicit sense form" -- "something identical having its manifold properties"; the object's "manifold determinations" are "mine"
+- *Objects are anticipated by the formal object-structure*
+- I exist for myself, am given for myself, by experiential evidence
+- How do phenomenologically explicate the monadic ego? Phenomenology as a whole coincides with the concept of self-constitution
 
-page 77
+34 -- A fundamental development of phenomenological method. Transcendental analysis as eidetic. 
+- Ego as the pole of his acts
+- *Genetic phenomenology*
+- The methodological insight which pervades all of the phenomenological method.
+- There is a great multiplicity (excessively so) of discoveries -- *eidetic description* helps us understand the fundamental dimension of empirical descriptions
+- Through my meditations, I am able to intentionally uncover the processes constituting my monad.
+- Types of occurrences in the transcendental ego have "empirical" significance (???)
+- Let us vary our perception of the table: without accepting its being. We shift 'actual perception' into the 'world of non-actuality' (possibility) (why does Husserl think that this is possible?)
+- Perception 'floats in the air' -- pure eidos perception (doubtful...)
+- To find the essence of free variation -- the universal essence
+  - Private note -- is this not what deep learning models do?
+- Eidos is a pure unconditioned universal, and is prior to all concepts; pure concepts must fit the eidos
+  - Again, what??? Asserting a-apodictic priori statements?
+- Each type is elevated into a pure eidetic sphere
+- Freely varying the ego, we become an eidos ego, purely possible ego, pure possibility of my 'de facto ego'.
+- Eidetic pheonmenology allows us to understand the universal A-priori (the constants of perception?)
+- We have to devleop a purely eidetic phenomenology
+- The science of pure possibilities precedes the science of actualities and *makes it possible*
+- Eidetic intuition is fundamental among transcendental methods
+
+35 -- Excursus into eidetic internal psychology
+- Psychology as a positive science needs first a purely intentional psychology
+- I as a pole of my habitualities
+- Eidetic pure psychology -- understanding the eidos psyche
+
+36 -- The transcednental ego as the universe of possible forms of subjective process. The compossibility of subjective processes in coexistence or succession as subject to eidetic laws.
+- We confine ourselves to purely eidetic phenomenology
+- Actually trying to deal with the essential dimensions is very difficult
+- My rational activity changes who "I" am -- man presents itslef in efficient form from my habitualities
+- I constitute myself for myself
+
+37 -- Time as the universal form of all egological genisis
+- All eidetic laws of compossibility are laws of causality
+
+88
 
 65 -- 
+
+Questions
+- Does Husserl's description of the ego allow computers to theoretically become an ego? Is there something which needs to be 'natural' or 'human' about the syntheses which become habitualized into the monad of me?
 
 ---
 
@@ -492,6 +536,17 @@ Up to Transcendental philosophy
 
 ## Office Hours Questions
 
-4/19/23
-- - In what sense does the concept of the object precede evidence of the object? I can only perceive an evidence *of* if I have already established the ideal infinite multitude of the Object which remains expectant to possible actualizations. I might just 'see' the environment 'in general' (although this is itself a good question); but I will never 'turn the apple in my hand and perceive its various sides' without first constituting at least some vague concept of the apple.  
-- 
+- Have a passing interest in Derrida, Lacan, semiotics/post-structuralism. So I'm especially interested in the role that the sign plays in phenomenology
+- The question of evidence -- really clarifying it.
+  - Is evidence always 'evidence of', just like consciousness is always 'consciousness of'?
+  - If so, then the acceptance of the concept of the object necessarily precedes the evidence of it?
+  - Consicousness is always directed -- so I can't just experience the world 'in its entirety'.
+  - Husserl: "Abstaining from acceptance of its being" while doing eidetic variation, where we are shifting our perspective of the table -- don't you already need to have accepted the being of the table, at least for you, in order for you to do eidetic variation to begin with?
+- Reproducing the problem of the bridge just within the phenomenal experiential world. It seems like what Husserl is trying to do is to assert that behind the phenomena of our phenomena (predicative judgements) are the noumena of the phenomena (pre-predicative judgements) which we don't directly experience but can infer somehow.
+  - The sense-form on page 80 in the PDF
+- Linguistic objection to the "I think, therefore I am" -- the extent to which concepts are tracked upon and not independent of the language they are articulated in? If I accept the language system given, then yes "I think, therefore I am" -- but this then isn't apodictic because it is contingent, and I can doubt that the conditions for that contingency.
+  - The indubidability of "I doubt that I am" implies "I am" -- well, why? I can entirely doubt it by not adhering to the symbolic rule that the "I" in "I am" is the "I" in "I doubt". 
+  - Being and thinking -- attached to the subject. I can change the nature of the subject.
+  - To what extent do statements exist independently of their statements?
+- What is the role of freedom and agency in experience? To what extent does the ego create the world that it experiences?
+- What does it even mean to doubt?
