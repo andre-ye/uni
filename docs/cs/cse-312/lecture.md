@@ -210,6 +210,31 @@ $$P(A|B) = \frac{P(A\cap B)}{P(B)}$$
 - Independence of random variables: $$X$$ and $$Y$$ are independent if $$\forall k, l P(X = k, Y = l) = P(X = k) P(Y = l)$$
   - Commas in lieu of $$\cap$$$
 
+---
+
+## Week 4 Friday -- Linear Expectation
+- Random variables are mutually independent iff $$\forall x_1, x_2, \hdots, x_n$$ $$P(X_1 = x_1, X_2 = x_2, \hdots X_n = x_n) = P(X_1 = x_1) P(X_2 = x_2) \hdots P(X_n = x_n)$$
+- You don't need to check all subsets for random variables, but you still need to check all possible values for $$x_1$$
+- Expectation of a random variable: weighted average of values $$X$$ can take on
+- Linearity of expectation: for any two random variables $$X$$ and $$Y$$, $$\mathbb{E} [X + Y] = \mathbb{E}[X] + \mathbb{E}[Y]44
+  - Holds for every random variable $$X$$ and $$Y$$
+  - Also holds for multiple variables
+  - Works even if two variables are dependent on each other
+  - $$E[X + Y] = \sum_\omega P(\omega) (X (\omega) + Y(\omega)) = E[X] + E[Y]$$
+  - Constants are also fine: $$E[aX + bY] = aE[X] + bE[Y]$$
+- Probability of flipping a heads is $$p$$, we want to find the total number of heads flipped when we flip the coin $$n$$ times
+  - Looks like the binomial theorem uwu
+  - $$k \binom{n}{k} = n \binom{n-1}{k-1}$$
+  - $$\mathbb{E}[Y] = np$$
+- Indicator random variable
+  - For an event $$A$$, the indicator random variable $$\mathbf{1}[A]$$ is 1 if $$A$$ occurs and 0 if otherwise. It takes an event and casts it to an integer.
+  - $$\mathbb{E}[\mathbb{1}[A]] = 0 (1 - P(A)) + 1 P(A) = P(A)$$
+- Three steps to solve complicated expectations 
+  1. Decompose: find the right way to decompose random variables into a sum of simple random variables
+  2. Apply linearity of expectations
+  3. Conquer: compute expectation of each random variable, easier usually with indicator variables
+  
+
 
 
 

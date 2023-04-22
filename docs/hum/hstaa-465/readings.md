@@ -542,3 +542,91 @@ Observations on "Classical Anarchism" and Modern Ecology
 - The "soup kitchen of the welfare state"
 - Need to be noble and stand up for injustice internationally rather than cowering over the threat of retaliation (liberating East Germany)
 - "We're spirits -- not animals" -- duty and obligation -- "You and I have a rendezvous with destiny."
+
+### Speech at the University of Michigan, LBJ (1964)
+- The challenge for the future -- enhancing the level and quality of life
+- Build not a rich & powerful society, but a Great Soceity
+- End of poverty and racial injustice
+- Every child finds opportunity; community is restored; man retores his connection with nature
+- Quality over quantity of goods
+- Great Society is a continuallyr enewed challenge
+- Erosion of values leads to loneliness, boredom, apathy, indifference
+- How to make the American city a place to live the good life
+- Great Society in the countryside
+- Beauty and the aesthetic -- an ugly America
+- Improving and modernizing education 
+- The Great Society as a battle
+
+### Presidential Nomination Acceptance Speech, Goldwater (1964)
+- Begins with a fucking long tirade about victory
+- Not to stagnate in a "swamp of collectivism"
+- Freedom and liberty, *order*
+- Before spreading liberty and freedom all over the place, we need to address freedom at home -- Berlin, Bay of Pigs, Laos, Vietnam
+- We have become a nation utterly emasculate
+- A need to keep the streets clean -- the fundamental unit of order
+- Living for yourself
+- Equality -- incorrectly understood, leads to conformity, then despotism
+- Resistance to concentration of power -- power remains in the hands of the people
+- Eisenhower -- kept peace
+- Strength of the nation
+- Attack -- the Vietnam war is purposeless, wasteful
+- Communism as the "principal disturber of peace in the world today"
+- Being united under a "mighty system"
+- Freedom was achieved through centuries; spreading of American freedom 
+- Building a society which allows for both the creative and the productive -- the good is a product of many contributions
+- Creativity -- a nation of men adn women, of families proud of their role, jealous of their responsibilities
+- The government as a durable ally of man
+- Balance, diversity, creativity -- free men, not conformists
+- "Extremism in the defense of liberty is no vice... moderation in the pursuit of justice is no virtue"
+- The goodness of 'our land' -- givenness
+
+### *Brother Outsider: The Life of Bayard Rustin*
+- Bayard was a troublemaker -- often in banal ways
+- Without Bayard Rustin, the Civil Rights wouldn't have won half of the victories it had
+- Why did he remain in the background 
+- "We need in every community a group of angelic troublemaker" -- to make things unworkable
+- The only weapon we have is our bodies
+- 1912, born in West Chester, Pennsylvania
+- Rustin's mother -- Quaker, hated injustice, advocated nonviolent resistance
+- Music major in college -- travelled in a quarter across the country
+- Organized a strike to improve the food, was asked to leave
+- 1937 -- lived with sister Bessie in Harlem; needed to support himself, joined a famous singer (Josh White)'s quartet
+- City college -- met many radicals. Met many radical Communists -- felt that blacks needed to associate with more radical movements
+  - Joined the young communist league in 48; withdrew in 51
+  - Communists quickly abandoned the black cause when war broke out
+- If you don't begin with peace, you won't end with it -- A.J. Musty
+- Bayard never knew his father
+- Racial injustice is violence, and one should attack it wherever it exists
+- Traveling in Tennessee -- sat in the front of the bus; the police came and dragged Byard out of the seat
+- "no fear" "did the bus thing before Rosa Park"
+- The man who believes in nonviolence is prepared to be harmed and to be crushed but he will never crush others
+- Had no shame about being gay
+- War is wrong; break the law of the state for conscription
+- 1943: Rustin acts as chairman of the pacifist movement -- encouraged burning draft cards
+- A Phillip Randolph -- strong influence on Rustin
+- AJ Musty put pressure on Rustin to give up his homosexuality: saw it as a weakness
+- Chain gang discontinued in North Carolina after Rustin writes about it
+- India's independence -- Gandhi, spiritual leader -- passive resistance in nationalism
+- Rustin came to India to visit the first world pacifist conference (but Gandhi had been assassinated by then)
+- "creative conflict"
+- David Platt -- broke up with Bayard Rustin after 4 years
+- 1953 -- arrested for vagrancy as a "lewd pervert" -- 60 days in the county jail in California. Turning point in Rustin's life -- Rustin was basically thrown out of the FOR (Fellowship of Reconciliation), fell into deep depression
+- "Sex must be sublimated if I am to live with myself"
+- Rustin went with MLK to Montgomery to give advice; King had limited ideas about how nonviolence should be carried out
+- Rustin like an 'older brother' -- MLK was very young, didn't have as much experience as Bayard had.
+- Bayard removed himself from the movement, not wanting to jeaopardize it
+- practicing Gandhism in the global struggle against nuclear weapons
+
+0:38:30
+
+
+
+
+
+
+
+
+
+
+
+
