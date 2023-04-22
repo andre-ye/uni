@@ -783,6 +783,76 @@ earth, moon, sun, jupiter
 - Hot Jupiters -- planets of jovian mass closer to stars than the orbit of Mercury. We don't know about how a giant planet can be formed without condensation of water ice.
 - Most exoplanets have large-orbital eccentricity -- not expected for disk foring planets
 
+## Chapter 15: The Sun -- A Garden-Variety Star
+
+### 15.1: The Structure and Composition of the Sun
+- The Sun is a very large ball of very hot, mostly ionized gas
+- 73% of Sun's mass is hydrogen; 25% is helium
+- Sun's outer layer is very different from Earth's crust
+- The Sun has similar compositions to most other stars
+- The Sun is so hot that no matter can survive as liquid or a solid
+- Many atoms in the sun are ionized; hot ionized gas is plasma
+- Corona -- a spectral line due to highly ionized iron, and how we found that the Sun's atmosphere has a temperature of more than a million degrees
+- The Sun has an extremely dense core; nuclear energy is being released
+- Above the core -- radiative zone, high-density region
+- Convective zone -- outermost layer of the interior, transports energy from the radiative zone to the surface with large convection sells
+- Photosphere: the Sun becomes opaque; past it, we cannot see into the sun
+- A cloud look slike it has a sharp surface, but you do not feel it as you fall into it
+- Granulation -- mottled appearance of the photosphere
+- Chromosphere -- part of atmosphere which lies immediately above  the photosphere, composed of hot gasses
+- Corona -- hottest part of the solar atmosphere -- very low in density
+- Solar wind -- the Sun's atmosphere produces a stream of charged particles which fly into the solar system very quickly; gases move so fast they can't be contained by solar gravity
+  - Comet tails blow in the solar breeze
+- Coronal holes -- magnetic field lines stretch away instead of looping back. Solar wind comes mainly from coronal holes
+- Auroras -- conflict between solar wind and the atmosphere
+
+## Chapter 16: The Sun -- A Nuclear Powerhouse
+### 16.1: Sources of Sunshine -- Thermal and Gravitational Energy
+- Energy exists in many different forms
+- Watt: unit of power, joules per second
+- Conservation of energy
+- Gravitational contraction as a source of energy
+  - Sun stays hot as a result of contracting
+  - Contraction cannot be the primary source of energy of the Sun because the Earth is much older than the predicted time period, although contraction does apply otherwhere
+
+### 16.2: Mass, Energy, and the Theory of Relativity
+- Theory of relativity: matter can be a form of energy and converted into energy; energy can be converted into matter.
+- $$E = mc^2$$
+- We regularly convert mass into energy in nuclear arms -- convresion of a small amount of mass results in a massive quantity of energy
+- Conversion of mass into energy is the Sun's heat and lgiht
+- Fundamental elements of atoms: protons, neutron, electron
+- Every particle has an antiparticle which caries an opposite charge
+- Antimatter: annihilates original particles and produces substantial amounts of energy in the form of light
+- Antimatter is created in the core of the sun and other stars
+- Pauli: energy seems to disappear when some types of nuclear reactions take place. Neutrino -- carries away 'missing energy'; neutrinos are particles with zero mass
+- Gravitational energy is released if a star shrinks under the force of gravity -- binding energy of the nucleus when particles come together to form an atomic nucleus
+- Fusion -- joining nuclei into a heavier one; mass is lost and energy is released
+- Fission -- breaking atomic nuclei into lighter ones
+- Tremendous heat speeds up protons enough to overcome electrical forces which keep protons apart; hydrgogen is common in the sun, protons 
+- Steps for solar energy
+  1. Form one helium nucleus from four hydrogen nuclei; positron emerges from the reaction and carries away the positive charge
+  2. Positron collides with a nearby electron; both are annihilated and release gamma-ray photons
+  3. Gamma ray collides with particles of matter and transfers its energy
+  4. By the time this process reaches the surface, photons have given up enough energy to be ordinary light
+  5. Add a proton to the deuterium nucleus to creeate a helium nucleus
+- Step #1 also produces a neutrino
+
+### 16.3: The Solar Interior: Theory
+- Proton fusion can only occur if the Sun has very hot temperature
+- The Sun is a plasma -- all material in it is the form of ionized gas (plasma)
+  - Plasma acts like a hot gas
+- The sun is stable
+  - Neither expanding nor contracting -- in equilibrium
+  - Gravitational attraction between masses of regionsa round the Sun cause collapse of Sun towards the center; but it has managed to resist it for a long time; inside gas pressure resists collapsing. Just from the fact that the Sun is not contracting, we can conclude the temperature internally is high enough for protons to undergo fusion
+- The sun is not cooling down
+
+## Chapter 17:
+
+## Chapter 18:
+
+## Chapter 19
+### 19.2: 
+
 ## Chapter 21: Black Holes and Curved Spacetime
 
 ### 21.3: Tests of General Relativity

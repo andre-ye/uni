@@ -416,12 +416,116 @@ Questions
 37 -- Time as the universal form of all egological genisis
 - All eidetic laws of compossibility are laws of causality
 
-88
-
-65 -- 
 
 Questions
 - Does Husserl's description of the ego allow computers to theoretically become an ego? Is there something which needs to be 'natural' or 'human' about the syntheses which become habitualized into the monad of me?
+
+### Fifth Meditation: Uncovering the Sphere of Transcendental Being as Monadological Intersubjectivity
+
+Page 101 in PDF
+
+42 -- Exposition of the problem of exepriencing someone else, in rejoinder tot he objection that phenomenology entails solipsism
+- Transcendental solipsism seems to be a grave objection
+- Transcendental reduction restricts me to my pure conscious processes, but what about *other* egos?
+- Although the sense that solipsism is wrong is not phenomenological grounded, it is "right in the end" -- looks for a path from the immanency of the ego tot he transcendency of the Other
+- We mustn't rush ahead, though: we first need to do a phenomenological explications, and in what sense the "other ego" becomes "fashioned in me", then becomes existing "in its own manner"
+
+43 -- The nomeatic-ontic mode of givenness of the Other, as transcednental clue for the constitutional theory of the experience of someone else
+- My transcendental clue is the experiecned Other
+- I experience others both as **world Objects** (things *in the world*) as well as **world Subjects** (*subjects for this world* -- experiencing it as I do and experiencing me, too)
+- I experience the world not as a private synthetic formation but as an intersubjective world, *there for everyone*
+- The experienced world exists in itself *overall against all experiencing subjects and their world-phenomena*
+- Whatever is arises from my intentional life and is clarified through constitutive syntheses via harmonious verification, etc. etc. (all already established previously): let's explicate what is the intentionality for which others' beings are made for me
+- What is the thereness of the other ego? A transcendental theory of 'empathy' -- **this leads to the transcendental theory of the Objective world**
+- Existence of the world requires a thereness-for-everyone; we always cointend an other when we speak of objective actuality
+- Objects refer us to subjects, particularly cultural objects -- within the object is a sense of being-for-everyone
+
+44 -- Reduction of transcendental experience to the sphere of ownness
+- In the natural world, I find myself separated; I remain even if I abstract from others (the ego) -- aloneness is experiencable by everyone because it is the property of the Ego.
+- There is an essential structure in which the trasncendental ego lives his life: for me as an ego,  is my intentionality directed to what is other.
+- There is constituted an ego as a mirror of my own ego which is in excess of my monadic ownness -- the 'alter ego'; the other points to me myself
+- How can my ego constitute something other?
+- As Ego, I first identify what is my own in transcendental experience
+- The characteristic of belonging to the surrounding world is *for everyone*
+- When we abstract, we retain the eidos of the phenomenon world and continue an experiencing intuition
+- "Nature" becomes included in my ownness
+- I experience all of Nature, including my own animate organism -- the process "reflexively relates to itself"
+- By reducing my animate organism to inclusion within my ownness, the ownness-essence emerges
+- I reduce other men to what is included in my ownness -- I get bodies included therein; I reduce myself as a man -- I get an "animate organism", a "psyche", a 'personal ego"
+- The psychic life of my Ego is unaffected by screening off the other; within my being is the constittuion of the world for me + a differentiation between the constitution of ownness and other
+- The Ego finds himself as a member in the world it constitutes; it distinguishes itself from the 'external world'
+
+45 -- The transcendental ego, and self-apperception as a psycho-physical man reduced to what is included in my ownness.
+- What is the relationship between I as transcendental ego and what is my own in the world-phenomenon
+- Transcendental ego emerges via parenthesizing of the Objective world: it constitutes what is ever Objective for me
+- *Mundanizing self-apperception* -- everything in my ownness enters my psyche
+- Whatever he constitutes as non-other (his own) is a component of his own concrete essence inseparable from his concrete being. 
+- The constitution fo the Objective world constitutes the 'other in the mode' "alter ego"
+
+46 -- Ownness as the sphere of the actualities of potentialities of the stream of subjective processes
+- "My own" -- own necessitates another ego.
+- Explication: the object given as self-identical, unfolding of pure explication -- concatenation of intuitions and determinations of the object
+- When I reflect upon myself, I am given to myself *perceptually* (phenomenally?) as the ego. I was "already given"
+- Self-perception -- self-explication is always about perceptions -- but largely carried out in acts of consciousness which are not perceptions
+- I have no idea what this meditation is
+
+47 --- The intentional object also belongs to the full monadic concretion of ownness.
+- What is mine is not only the actualities and potentialities of my stream of subjective processes: it is also the constituted unities (only that which is inseparable from the original constitution)
+  - Moreover, my immanent temporalities, my habitualities, etc. become part of the I mysefl as polar Ego, Egopole
+- Transcendent objects (external) -- also belong 'in me'
+- A reduced world
+- Nature constituted as a unity of spatial objects
+- The ego *concretely* (wtf?) has a universe of what is *his own* -- a transcendent world also exists here
+
+48 -- The transcendency of the Objective world as belonging to a level higher than that of primordial transcendency
+- Established: my essence can be contrasted for me with something else, as a thing in the world I constitute
+- Not all of my own modes of consciousness are modes of my consciousness. This is implied.
+- The ego has intentionalities in which he transcends his own being
+- The experience of something which is not I -- i.e. an experience of the Objective world -- is important as an ownness-reduction
+- The constitution of the alien world is still a determining part of my concrete being
+- How does Objective trancendency come about?
+- Experience which only acquires sense and verification in my essence
+- In what sense does the Objective world as 'already existing before me' have any sense?
+
+49 -- Predelineation of the course to be followed by intentional explication of experiencing what is other
+- There are many levels to the constitution of the Objective World as the basis of my primordial world
+  1. Distinguishing my concrete being (primordial ego) from the other ego/s
+  2. Universal superaddition of sense to my primordial world which appears as the Objective world identical for everyone including me
+  3. The first non-Ego is *the* Other Ego and makes possible an Objective Nature to which Other Egos and I belong
+- An Ego-community is constituted, which exists with and for each other.
+- Communalization of constitutive intentionality
+- Transcendental intersubjectivity has an intersubjective sphere of ownness -- the transcendental We
+- The Objective world does not transcend the intersubjective sphere
+- The Objective world is an idea which is intersubjectively communalized
+- Constitution of the world harmonizes monads
+
+50 -- The mediate intentioanlity of experiencing someone else, as appresentation (analogical apperception)
+- How tot ake ourselves to the other ego? What does it mean to experience someone else for the first time?
+- Experience is original consciousness -- nothing of the other Ego is given to us originally. There is a making co-present (appresentation)
+- Appresentation: the front of a physical thing appresents a rear aspect (co-presents)
+- Experiencing someone is not just object appresentation, but moreover the possibility of verifying a fulfilling presentation (I turn the thing, it really is there)
+- Our initial guidance of the world needs an Other Ego
+- Something enters our perception: a body is presented in immanent transcendency. My organism is the only body that can be constituted originally as an animate organism, but I give an apperceptive transfer from my animate organism: analogizing transfer into new cases
+
+51 -- Pairing as an associatively constitutive component of my experience of someone else
+- Analogizing apprehension -- a body, like my own body, is apprehended as an aniamte organism
+- What is appresented by virtue can never attain actual presence
+- Ego and alter ego are always given in an original pairing
+- Pairing: a universal phenomenon of the transcendental sphere. Pairing is the primal form of 'associative' passive synthesis (vs identification). Two data are given intuitionally and are found to have a structural simialrity, constituted as a pair.
+- No appropriated sense can be actualized originarily in my primordial sphere
+
+52 -- Appresentation as a kind of experience with its own style of verification
+- Appreentation which gives us the inaccessible element of the Other combined with his physical presentation gives us a unitary transcending experience
+- Fulfilling of the intention can only continue via new appresentations (HARMONIOUS!
+- Whatever can be presented originally is something I am (it belongs to me); whatever I discover is now part of the other
+- Intentional modification of that Ego of mine -- the Other is phenomenologically a modification of myself
+- The other ego as a modification
+
+89 -- 116
+
+Question
+- Does Husserl merely argue that we can recognize other egos outside of our 'concrete ownness', or further that we need other egos to adopt the natural attitude?
+
 
 ---
 

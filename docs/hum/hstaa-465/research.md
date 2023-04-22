@@ -3,7 +3,7 @@ layout: default
 title: Research Notes
 parent: HSTAA 465
 grand_parent: Humanities
-nav_order: 3
+nav_order: 5
 ---
 
 # Research Notes
