@@ -616,9 +616,44 @@ Observations on "Classical Anarchism" and Modern Ecology
 - Rustin like an 'older brother' -- MLK was very young, didn't have as much experience as Bayard had.
 - Bayard removed himself from the movement, not wanting to jeaopardize it
 - practicing Gandhism in the global struggle against nuclear weapons
-
-0:38:30
-
+- 1959, France declared testing its own nuclear weapon and exploding it in the Algerian sahara
+  - Rustin -- a fairly powerful character
+  - Didn't stop the tests
+  - You have to cry out against injustice even if it continues
+- Bayard -- functioned as A Phillip Randolph's eyes, legs, ears -- was the energy that kept his ideas going
+- LBJ: stop Rustin. Powell -- fed to the press that there were immoral elements in the Civil Rights movement. 
+- Martin terrified by the threat of Rustin's homosexuality
+- Powell produced massive Civil Rights legislation, and MLK went with Powell for tactical reasons
+- Bayard more upset by the personal betrayal than anything
+- Embarrassing the establishment
+- March of Washington
+  - Originally conceived by Randolph as a march for economic issues (Randolph -- black trade unionist, mainly saw progress in economic uplift)
+  - Randolph concieved the first march on Washington in 1941 to give Blacks the option to work in defense industry; but it was called off. Was the first mass protest seriously threatened by Blacks.
+  - Extraordinary political gesture
+  - Newspapers and politicians (Thurmond, Kennedy, etc.) discouraged the march on Washington
+  - Thurmond -- took the senate floor, attacked Bayard as a Communist, draft-evader, homosexual
+- Rustin -- complicated relationship with MLK. Came back together before the march on Washington -- MLK re-integrated Bayard into his group of advisors
+- What was needed was a moderate presentation of the Civil Rights movement -- orchestrated well by Rustin, King puts the icing on the cake with the I Have a Dream speech
+- Woke up America, the President and his administration...
+- Wire tap on Bayard Rustin, November 1963. No longer so invisible -- but things change after this public visibility
+- Bayard saw an opportunity between an alliance with Johnson and the Civil Rights movement.
+- Turn towards political alliances, behaving like serious political people
+- In protests there must never be any compromise; in politics there is always compromise
+- Refraining from criticizing Johnson's war in Vietnam
+- Bayard held back against criticizing the Vietnam War; MLK still opposed it more consciously, made it a matter of conscience; strictly practical, no business trying to deal with the Vietnam War; risked the Civil Rights movement
+- MLK shot and killed in Memphis, Tennessee -- the second return after failed sanitation strike
+- After assassination, Bayard  immediately flew down to Memphis and organized a memorial march
+- H. Rap Brown -- "violence is as American as cherry pie"
+- Huey Newton -- a Black army
+- Bayard reinforces nonviolence after King's death
+- Rustin vs Carmichael -- choosing the lesser of two evils vs. not voting for any man, period.
+- What is 'Black power'? -- the problem is that it is "purely psychological" -- Bayard criticized as the "big gun of white oppression" -- "paid pervert for the racist unions"
+  - Felt that Bayard was weak; Bayard always wanted to negotiate ('sellout')
+- Rustin as an enemy of Nixon
+- Walter Naegle -- meets Bayard Rustin, partner for 10 years
+  - Bayard was 65 at that point
+- Travelled to Israel, Thailand refugee camps, Soveit Jewry -- merely moving to where we started -- belief that we are one human family
+- Died in 1987
 
 
 
