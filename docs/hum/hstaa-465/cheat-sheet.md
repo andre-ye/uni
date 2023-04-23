@@ -69,26 +69,26 @@ that advanced civil rights in America.
 
 | Term | Description|
 | --- | --- |
-| A. Philip Randolph
-| Executive Order 8802
-| The Bracero Program
-| Rosie the Riveter
-| Redlining and Racial covenants
-| Jackie Robinson
-| Black Internationalism
-| Human Rights
-| Brown v. Board of Education
-| SNCC
-| CORE
-| "To Secure These Rights"
-| Pluralism
-| Southern Manifesto
-| Emmett Till
-| Rosa Parks
-| Ella Baker
-| Robert Moses
-| Sit-ins
-| Freedom Rides
+| A. Philip Randolph | In 1941, Randolph conceived of a March on Washington as the US is entering WWII; under Randolph's pressure, Roosevelt had to make important policy concessions. Represented a major push to unify Black Americans. |
+| Executive Order 8802 | 1941 prohibition of discrimination in the defense industries, a result of Randolph's threats. |
+| The Bracero Program | 1942 to 1964. Bracero -- means 'labor / worker' in Spanish. An invitation for Mexicans to come and work in the US until 1964, where there is a large change in immigration policy. A result of large changes in American agriculture. Similarly, many Black people are moving from rural to urban settings, shifting from agricultural to industrial work. Demonstrates changing economic situations and human movement post-WWII, an opening up. |
+| Rosie the Riveter | Rosie the Riveter is white, but black women also served in the same industrial defense jobs during WWII. |
+| Redlining and Racial covenants | Institutional and structural restrictions put on people of color -- where you can live, insurance, real estate, banks, etc. Present even in places like Seattle. Few Black people are able to buy a home, and are unable to use this home as capital. Demonstration of systematic 'on-the-books-off-the-book' systematic discrimination, even post-WWII, which many black people served in. |
+| Jackie Robinson | 1947 -- was a lietenant in the army, but goes on to become an important Civil Rights leader. Was tried for insubordination, and practiced bus sit-ins. Another demonstration of Civil Rights resistance post-WWII. |
+| Black Internationalism | An intellectual movement linking global colonialism to Black disenfranchisement. Alternatively known as pan-Africanism. Asserts the plight of people of African descent, whereever they are. Franz Fanon, Du Bois, Robeson. Highlights colonial relationships and tensions in the US. |
+| Human Rights | Eleanor Roosevelt's 1948 Universal Declaration of Human Rights -- equal in dignity, without distinction of any kind. The irony is that the US will not sign it because of the Southern legacy of Blck oppression -- John Dulles refuses to sign for fear that it will open up international investigation of the "Negro question". Post-WWII, people are becoming very aware of the racial problem, and the US Civil Rights record significantly damages the US' ability to function in the UN. |
+| Brown v. Board of Education | 1954 Kansas ruling -- highly calculated, not spontaneous. The NAACP had been looking for how to argue desegregation in the judicial system in the best place. A focus on Kansas as 'in between North and South' would bring more national attention. Main argument: by forcing Black students to walk much farther to go to segregated schools, it is uneven. Overturning of 'separate but equal' which is not really equal in education. |
+| SNCC | SNCC is a very different institution compared tot he SCLC (which emerges in 1956) -- it doesn't really have a leadership, almost intentionally, and in fact is quite critical of the SCLC's top-heavy nature. Illustrates the diversity of Civil Rights approaches and efforts leading up to the 1960s. |
+| CORE | 1942, Congress of Racial Equality (CORE) -- an important Black Civil Rights organization which will continue to play an important role throughout. Rresponsible later for more militant movement, such as the 1961 freedom rides | 
+| "To Secure These Rights" | 1948, statement released by Truman administration which declared the presence of a serious racial problem in America. Discussed how racism weakened the country because it opened it up to criticsm by the Communist party, and that Racism was an open wound which would bring down the country. However it reads sort of complacently, with a focus on broad structural forces but doesn't really point the finger at anything. Truman later integrates the armed forces and sets up ways for women to have permanent career paths in the military. Part of an effort post-WWII to advance the Civil Rights agenda. |
+| Pluralism | FDR talks a lot about pluralism in wartime -- bringing different lands together. However this is a pluralism which exposes an immanent contradiction -- the US is not living out its pluralist vision. |
+| Southern Manifesto | 1956 document opposing racial integration in public spaces and showing the Southern states acting as one legislative bloc on the subject of racial integration. |
+| Emmett Till | 1955 murder of Emmet Till -- significant because it had resonance within Black communities in the North. |
+| Rosa Parks | Rosa Parks, a longtime member of the NAACP, is a practiced activist, and embarks on her famous bus trips in 1955. |
+| Ella Baker | Involved with SNCC in 1960 -- focuses on organizing young people and knew it would be young people who would be the vanguard of Civil Rights. Was focused on getting away from people like MLK and putting the roles in the hands of the 'every-people' -- a decentralized movement is stronger. |
+| Robert Moses | A Northerner who came down to the South and did the same kind of organizing work among young people |
+| Sit-ins | 1960 sit-ins, mostly student led movements to occupy and violate segregated spaces. Later on, movements would target movement between state lines more than just occupying segregated spaces. Many young black people were killed as they attempted to do wade-ins. |
+| Freedom Rides | 1961, the CORE begins taking long bus rides to further challenge the status quo; a follow-up to sit-ins. At first, CORE is doing bus rides in the upper South and going from state-to-state in Virginia, and this doesn't raise as much publicity. Rather, gets the federal government involved by going across states. Taking buses from New York to Alabama -- the result is much, much more violent. Indicates a shift from stationary to moving demonstrations in the early sixties. |
 
 ---
 
@@ -103,23 +103,22 @@ emergence of economic citizenship.
 
 | Term | Description |
 | --- | --- |
-| Federal Housing Act
-| public-private cooperation
-| Keynesian economics
-| Tupperware
-| Workers' health/consumers' health
-| DDT
-| Silent Spring
-| Baby teeth study, Strontium-90
-| Post-war chemicals
-| GI Bill
-| Suburban space
-| Planned obsolescence
-| Economic citizenship
-| FIFRA
-| Landfills
-| Kennedy's consumer bill of irghts
-| Partial nuclear test ban
+| Federal Housing Act | 1934 restructuring of the mortgage industry -- changes in federal policies would be one of the most significant economic changes to come out of  WWII on housing. After increasing wages after the war, more and more poeple are moving into suburban spaces. |
+| Keynesian economics | Emergence of a consensus around Keynesian economic theory after the war -- if the state could mobilize so well during wartime, why not in peacetime as well? Dind't want to see a massive dip in consumption and production post-war. |
+| Tupperware | Indicates a proliferation of plastics -- although plastics hadn't played much of a role in American life, war research produced a lot of plastics technlology which was now being put into consumer products. Brownie Wise was a leading advocate of Tupperware. A post-war success story. |
+| Workers' health/consumers' health | There is emerging concern about public health given proliferation of chemicals and products. |
+| DDT | DDT is initially used in war but is being deployed as a pesticide. Used to address the large gypspy moth problem in Long Island. Attracts Rachel Carson. Wide use of chemicals in unprecedented ways post-war. |
+| Silent Spring | Rachel Carson, a biologist in Johns Hopkins interested in stories about nature and environmentalism. The 1962 *Silent Spring* was meant to inspire women (targets of consumerism) and also points the finger at the entymologists and other federal agents to produce sterile, insect-free environments. Rising fears of nuclear threats. Silent Spring makes a big splash; Kennedy read it. Strong criticism between the intimacy between the state and the indusrtry. *Silent Spring* is an important book to produce Kennedy's consumer bill of rights. |
+| Baby teeth study, Strontium-90 | 1959 Baby Teeth Experiment shows that strontium-90 is showing up in baby teeth; it rests in human bones and behave like calcium. A discovery of the rapid *unseen* proliferation of chemicals. |
+| Post-war chemicals | |
+| GI Bill | 1944, major change to American life after WW2. Millions of Americans can get zero percent down loan with zero percent interest to build a farm, go to college, buy a house, etc. – many could not do so before, now can do so. However, many of the same racial restrictions are in place -- that is, locally restricted, laws are left ambiguous to local codes which are still racist in the south. |
+| Suburban space | Expanse of suburban living and the single-family home, which radically changes American life. Massive Levitowns emerge, a new kind of rapidly built shoddy griddy American suburban sprawling neighborhood. With increasing wages after the war, more and more people are moving into suburban spaces. Part of this life is about ‘materialism’ – living in new suburban spaces with more consumer products than before – all these new things to put in people’s homes. Moreover, cars are central to navigating this new suburban environment. | 
+| Planned obsolescence | Market thinking and advertisement thinking spreads throughout the economy. Products are designed to become obsolete. Waste is a byproduct of the capitalist system: it increases standards of living and produces commodities, but much waste. An emergence of taste economy, and massive proliferation of landfills -- the excess of civilization. |
+| Economic citizenship | Increasingly, idea of American freedom is being connected to economic citizenship – to be an American citizen is to have a certain standard of living: at least a middle-class existence. Americans increasingly worry less about the political sphere and more about an economic sphere existence. By 1960, this swing has begun to happen. |
+| FIFRA | 1947 -- starts out as an attempt to protect consumers, turns into a snake oil law -- no advertising if it doesn't work. An initial attempt to protect consumers which ends up being weak and needs further bolstering later on, especially going into the sixties. |
+| Landfills | By the 60s and the late 70s, landfills begin to proliferate over America and aren't regulated until they start causing problems. The issue is that landfills leak nasty materials into the water and show up in people's drinking supplies. Staten Island, New York has the largest landfill in the world by 1955. Demonstrates the rapid growth of the consumer economy and production industries leading up to the sixties -- the creation of the consumerist mateiralist economy. |
+| Kennedy's consumer bill of rights | 1962 -- "Consumers, by definition, include us all." A declaration of the consumer as needing government support to live a safe late. Observation of growing pressure on the consumer to play all roles. |
+| Partial nuclear test ban | 1963 -- Kennedy signs the partial nuclear test ban (but does not ban nuclear testing). What was before radical during the McCarthyite era was now common -- middle-class American protesting against atmospheric testing. Kennedy's signing into law demonstrates a greater political and environmental consciousness in relationship to war and commodities. |
 
 ---
 

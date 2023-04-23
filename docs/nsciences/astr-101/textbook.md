@@ -846,11 +846,45 @@ earth, moon, sun, jupiter
   - Gravitational attraction between masses of regionsa round the Sun cause collapse of Sun towards the center; but it has managed to resist it for a long time; inside gas pressure resists collapsing. Just from the fact that the Sun is not contracting, we can conclude the temperature internally is high enough for protons to undergo fusion
 - The sun is not cooling down
 
-## Chapter 17:
+## Chapter 17: Analyzing Starlight
+
+### 17.1: The Brightness of Stars
+- Luminosity: total amount of energy at all wavelengths emitted per second
+- Apparent brightness: amount of a star's energy which reaches a given area each second on Earth
+- Photometry -- measuring the apparent brightness of stars
+- Magnitude -- categories of brightness. Stronomers have other ways to describe brightness but this is also used for some reason.
+
+### 17.2: Colors of Stars
+- Color -- different temperatures and doppler shifts
+- Wien's law -- stellar color linked to stellar temperature -- blue colors dominate visible light for hot stars and cool stars emit most of visible light energy at red wavelengths
+- **Color does not depend on distance**
+- Apparent brightness measured through filters
+- Difference between two magnitudes -- color index
+- B-V index: "blue minus red color"
+- Color index implies temperature -- and this is what astronomers are actually measuring
+
+### 17.3: The Spectra of Stars (and Brown Dwarfs)
+- Spectrograph: measure light in a spectrum
+- Stellar spectra look different because stars have different temperatures
+- Hydrogen is abundant in most stars
+- At sufficiently high temperatures, hydrogen becomes ionized and produces spectra emissions, does not produce absorption lines. At cooler stars, hydrogen atoms still have electrons attached and can produce lines by switching energy levels
+- Hydrogen lines in the visible light part of the spectrum (Balmer lines) are strongest in stars with intermediate temperatures 
+- Spectral classes -- measure of surface temperature: O, B, A, F, G, K, M -- L, T, Y
+- Astronomers call elements heavier than helium metals
+- Objects with low masses cannot become hot enough for hydrogen fusion to happen -- brown dwarfs, faint and cool
+
+### 17.4: Using Spectra to Measure Stellar Radius, Composition, and Motion
+- A star with a low-pressure photosphere shows narrower spefctral lines than a higher-pressure photosphere
+- Metallicity -- fraction of star's mass composed of hydrogen and helium
+- Radial velocity method
+- Proper motion / transverse -- across our line of sight
+- Space velocity -- speed and direct moving thorugh space relative tot he sun
+- Doppler effect can help us measure how fast a star toates
+- 
 
 ## Chapter 18:
 
-## Chapter 19
+## Chapter 19: 
 ### 19.2: 
 
 ## Chapter 21: Black Holes and Curved Spacetime
