@@ -75,6 +75,7 @@ $$2^n = \sum_{i=0}^n \binom{n}{i}$$
 - Inclusion-exclusion principle
 
 $$\vert A \cup B\vert  = \vert A\vert  + \vert B\vert  - \vert A \cap B \vert $$
+
 $$\vert A \cup B \cup C\vert  = \vert A\vert  + \vert B\vert  + \vert C\vert  - \vert A \cap B\vert  - \vert B \cap C\vert  - \vert A \cap C\vert  + \vert A \cap B \cap C\vert $$
 
 ---
@@ -144,7 +145,9 @@ $$P(A) = P(B) P(A\vert B) + P(\bar{B}) P(A\vert \bar{B})$$
 - Law of total probability
   - Consider a partition of a set which is mutually exclusive but wholly covering
   - In general, $$P(E) = \sum_{\forall i} P(E \vert  A_i) P(A_i)$$
-  - $$P(E) = \sum_{\forall i} P(E \cap A_i)$$
+
+$$P(E) = \sum_{\forall i} P(E \cap A_i)$$
+
 - View tests as updating your beliefs, not as revealing the truth
 
 ---
