@@ -415,10 +415,44 @@ Questions
 
 37 -- Time as the universal form of all egological genisis
 - All eidetic laws of compossibility are laws of causality
+- 'Formal regularity pertaining to a universal genesisis
+- Life as a motivated course of constitutive performances which produce the unity of the universal genesis of the ego.
+- A firmly developed habituality acquired by the origin of comformity with eidetic laws
+- There are often problems of the psychological origin of space, time, things, etc. -- for phenomenology these are problems of intentionality. 
+- How do we get at ultimate genesis?
+- Initially, eidetic observation considers 'from the ego': but further one is opened up to a universal eidetic phenomenology -- the ego varies so freely that he just 'has the world'
+
+38 -- Active and passive genesis
+- Works of practical reason -- active genesis. THe Ego is 'pooled in a sociality' and constitute new objects originally as products -- predicating, inferring, etc. (p. 89 in the PDF)
+- The ego continually *habitually* accepts and is given categorical intuition.
+- Irreal objects do not directly belong to the concrete ego an sich, but 'raw material' is different -- the 'ready-made object' is given with the 'it itself' (p 90)
+- "Everything known to us points to an original becoming acquainted" -- there is a structural form to the "object" form, the "spatial thing" form, etc.
+
+39 -- Association as a principle of passive genesis
+- Association is a matter of intentionality under eidetic laws
+- Association is not merely comformity to laws, but a comformity to eidetic laws in the constitution of the pure ego.
+
+40 -- Transition to the question of trasncendental idealism
+- Phenomenology as a transcendental theory of knowledge
+
+41 -- Genuine phenomenological explication of one's own 'ego cogito' as transcendental idealism
+- Transcendency in every form is an imamennt existential characteristic
+- If transcendental subjectivity is the universe, there is no sensical 'outside'
+- Even nonsense is always a mode of sense
+- There are egos who, with their constitutive performances, exist for themselves.
+- There is constittued in me the transcendental ego, but not just my ego but also transcendental intersubjectivity (for I am constituted in others too) (p. 96 in PDF)
+- Progression
+  1. Self-explication in a pregnant sense, the ego constitutes himself wrt his proper essence
+  2. The Ego constitutes in itself something 'other' -- everything gets constituted as non-Ego
+- ' The 'existing' is a 'practical idea'
 
 
 Questions
-- Does Husserl's description of the ego allow computers to theoretically become an ego? Is there something which needs to be 'natural' or 'human' about the syntheses which become habitualized into the monad of me?
+- Does Husserl's understanding of the ego allow computers to theoretically become an ego? Is there something which needs to be 'natural' or 'human' about the syntheses which become habitualized into the monad of me? Peeking a little into the next meditation, we might ask also -- Can I recognize a 'non-human' within my community of egos?
+- On what basis does Husserl justify the ability of the eidetic method to reach the eidos of an object? In what sense is the *eidos* different from the Kantian *noumena*? How similar is Husserl's *eidos* to Plato's theory of forms?
+- On page 75 (87 in the PDF) Husserl talks about life as a motivated course of constitutive performances which produce the unity of the universal genesis of the ego. How do we know what or how to perform prior to the constitution of the ego?
+- Husserl explicates the genesis of the ego. To this, it must be asked to what extent the concept of the ego precedes the ego.
+
 
 ### Fifth Meditation: Uncovering the Sphere of Transcendental Being as Monadological Intersubjectivity
 
@@ -648,6 +682,7 @@ Up to Transcendental philosophy
   - Husserl: "Abstaining from acceptance of its being" while doing eidetic variation, where we are shifting our perspective of the table -- don't you already need to have accepted the being of the table, at least for you, in order for you to do eidetic variation to begin with?
 - Reproducing the problem of the bridge just within the phenomenal experiential world. It seems like what Husserl is trying to do is to assert that behind the phenomena of our phenomena (predicative judgements) are the noumena of the phenomena (pre-predicative judgements) which we don't directly experience but can infer somehow.
   - The sense-form on page 80 in the PDF
+  - Is meditating a scam?
 - Linguistic objection to the "I think, therefore I am" -- the extent to which concepts are tracked upon and not independent of the language they are articulated in? If I accept the language system given, then yes "I think, therefore I am" -- but this then isn't apodictic because it is contingent, and I can doubt that the conditions for that contingency.
   - The indubidability of "I doubt that I am" implies "I am" -- well, why? I can entirely doubt it by not adhering to the symbolic rule that the "I" in "I am" is the "I" in "I doubt". 
   - Being and thinking -- attached to the subject. I can change the nature of the subject.

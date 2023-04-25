@@ -165,7 +165,7 @@ rhetoric by 1963 to a focus on World Peace.
 | Counter-Insurgency | The US puts a lot of effort into training for the war, which sinks them more deeply in Vietnam. |
 | Operation MONGOOSE | A covert plot to kill Castro, worked on heavily by Kennedy and Dulles. This in turn pushed Castro closer tot he Soviets; he knew he was being targeted by the US. However Castro didn't want to be a Soviet satellite. |
 | Green Berets | Green Berets play an important advisoral role in Vietnam by going into the mountains and training tribal people to be armies for the South. By 1963, there were 950 Green Berets in Vietnam. |
-| Assassinations of 1963 | Medgar Evers, Kennedy. A greater use of violence to demonstrate political ends. Later would be the 65 assassination of Malcolm X and the 68 assassination of MLK Jr. Also notable are the deaths of 1963: Sylvia Plath, Aldous Huxley, W.E.B. Du Bois, Patrick Kennedy, CS Lewis, Robert Frost, Thich Quang Duc, Francis Poulenc and Edith Piaf,  |
+| Assassinations of 1963 | Medgar Evers, Kennedy. A greater use of violence to demonstrate political ends. Later would be the 65 assassination of Malcolm X and the 68 assassination of MLK Jr. Also notable are the deaths of 1963: Sylvia Plath, Aldous Huxley, W.E.B. Du Bois, Patrick Kennedy, CS Lewis, Robert Frost, Thich Quang Duc, Francis Poulenc and Edith Piaf... |
 
 ---
 
@@ -178,8 +178,8 @@ well as creating a new pluralist America.
 
 | Term | Description |
 | --- | --- |
-| Birmingham, AL
-| Civil Rights Act
+| Birmingham, AL | After the Civil War, Birmingham is one of thef ew Southern cities where there is an effort to invest a lot of capital by Northern industrialists to create an industrial town. Birmingham is at the center of reconstruction investment. Birmingham becomes an important place to stake a stand; a lot of Black folks have a stake in Civil Rights there; black people still remain second class. Birmingham becomes a centerpiece of Civil RIghts. By 1963, Birmingham had become a very violent place. A lot of strategy was centered here. |
+| Civil Rights Act | The Civil Rights Act of 1964 -- prohibited discrimination in schools *and* privately owned institutions. The South got away previously with discrimination via public/private divide (14thd eosnt apply to private institutions). Included discrimination based on sex, which was an interesting development. Many employers continued to discriminate on the basis of sex because of the biological component there. Moreover, the '64 act did not mention voting, which was a major Civil Rights issue. In general, while the Civil Rights act, bolstered by LBJ passing it through congress, seeing Civil Rights as politically expedient, it left a lot to be wanted. Still it marked progress. |
 | Medgar Evers
 | Fannie Lou Hamer
 | 1964 Presidential Election
