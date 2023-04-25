@@ -446,12 +446,17 @@ Questions
   2. The Ego constitutes in itself something 'other' -- everything gets constituted as non-Ego
 - ' The 'existing' is a 'practical idea'
 
+Main points
+- Husserl is trying to explain what allows for the transcendental ego to be constituted. The ego is firstly existent *for himself* in continuous evidence, in that the ego continuously constitutes themselves as existing through the very evidence of conscious experiencing.
+- There is one form of synthesis which embraces identical objects, but there is another form of synthesis which embraces the multiplicity of *cogitationes* to form the ego as the *substrate of habitualities* -- rather than an 'empty form/pole', the ego emerges as filled by these tendencies and habitualities, performed over time.
+- Genetic phenomenology allows us to understand, through conscious meditation, the processes which constitute the monad of my ego over time. Via the eidetic method, by freely varying my experience of the object, we can grasp the eidos as pure unconditioned universal which precedes all experience.
 
 Questions
 - Does Husserl's understanding of the ego allow computers to theoretically become an ego? Is there something which needs to be 'natural' or 'human' about the syntheses which become habitualized into the monad of me? Peeking a little into the next meditation, we might ask also -- Can I recognize a 'non-human' within my community of egos?
 - On what basis does Husserl justify the ability of the eidetic method to reach the eidos of an object? In what sense is the *eidos* different from the Kantian *noumena*? How similar is Husserl's *eidos* to Plato's theory of forms?
 - On page 75 (87 in the PDF) Husserl talks about life as a motivated course of constitutive performances which produce the unity of the universal genesis of the ego. How do we know what or how to perform prior to the constitution of the ego?
 - Husserl explicates the genesis of the ego. To this, it must be asked to what extent the concept of the ego precedes the ego.
+- What is the tension articulated by Husserl, to use Hegelian terms, between ego as subject and ego as object?
 
 
 ### Fifth Meditation: Uncovering the Sphere of Transcendental Being as Monadological Intersubjectivity
