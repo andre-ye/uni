@@ -248,6 +248,22 @@ $$\mathbb{E}[\mathbb{1}[A]] = 0 (1 - P(A)) + 1 P(A) = P(A)$$
   2. Apply linearity of expectations
   3. Conquer: compute expectation of each random variable, easier usually with indicator variables
   
+---
+
+## Week 5 Monday -- Variance
+- Variance is average square deviation
+- The variance of a random variable $$X$$ is
+
+$$Var(X) = \sum_\omega P(\omega) * (X(\omega) - E[X])^2 = E[(X-E[X])^2] = E[X^2] - E[X]^2$$
+
+- If $$X$$ and $$Y$$ are independent, then $$Var(X+Y) = Var(X) + Var(Y)$$
+- Squaring an indicator random variable doesn't actually do anything to it, useful for calculating variances
+- Expectation and variance aren't everything -- you can have different random variables with the same expectation and variance; you need the PMF or CDF to fully describe a random variable
+
+$$Var(X+c) = Var(X)$$
+
+$$Var(ax) = a^2 Var(x)$$
+
 
 
 

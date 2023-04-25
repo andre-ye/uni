@@ -880,12 +880,93 @@ earth, moon, sun, jupiter
 - Proper motion / transverse -- across our line of sight
 - Space velocity -- speed and direct moving thorugh space relative tot he sun
 - Doppler effect can help us measure how fast a star toates
-- 
 
-## Chapter 18:
+## Chapter 18: The Stars -- A Celestial Census
+### 18.1: A Stellar Census
+- Light-year -- the distance that light travels in 1 year.
+- ONly 3 of the stars in our local neighborhood are significantly more luminous than the sun
+- Stars which appear the brightest are not the closest ones -- they emit so large a quantity of energy that they do not need to be nearby.
+- Selection effect
 
-## Chapter 19: 
-### 19.2: 
+### 18.2: Measuring Stellar Masses
+- Mass is an important property of a star
+- Half of stars are binary stars -- stars that orbit each other
+- First binary star discovered in 1650
+- Castor
+- Visual binary -- visible binary star system on a telescope
+- Another class of binary stars where only one of the stars can be seen directly -- found that dark absorption lines of the birther star's spectrum is double
+- Spectroscopic binary -- a single star when photographed but spectroscopy shows is a double star really
+- MIzar -- good example of how complex binary star systems can be
+- Mizar and Alcor -- an optical double, a pair of stars which appear close but do not orbit each other -- Mizar is a visual binary. Mizar is a quadruple system of stars in reality.
+- Gravity is a mutual attraction
+- Radial velocity curve: velocity of star change over time
+- $$D^3 = (M_1 + M_2) P^2$$ for semimajor axis $$D$$, masses $$M_1, M_2$$, $$P$$ measured in years
+- Many systems are known to be double only by carefully studying their spectra
+- Radial velocity curves allow us to determine the masses of stars in a spectroscopic binary. Measure the speeds of stars from the Doppler effect
+- Stars bigger than the sun are rare -- none of the stars in 30 light years of the sun have a mass greater than 4 times it
+- There are some stars with masses 100x to 250x the Sun's mass; but most have smaller masses
+- A true star can have 1/12 the mass of a sun at the minimum by theoretical calculations.
+- A star is defined here as being hot enough to fuse protons to form helium.
+- Mass-luminosity relation: more massive stars are more luminous generally
+
+### 18.3: Diameters of Stars
+- It is easy to measure the diameter of the sun
+- Angular diameter is 1/2 degree
+- From this and knowing its distance we can calculate its true diameter
+- We can observe the dimming of light that observes when the moon passes in front of a star; we can observe the time required for the star's luminosity to drop to zero as the moon moves around the star's disk; we know the moon's orbit so we can calculate the angular diameter of the star. Method only works for fairly bright stars and the moon can pass directly over them
+- Eclipsing binary star systems -- wen viewed from Earth, stars pass over each other every revolution. 
+- Making a light curve of an eclipsing binary -- plotting how brightness changes over time.
+- Speed times time between first and second contact gives the diameter of the smaller star; speed times time between first and third contact gets the diameter of the larger star
+- Faint stars are generally smaller than more luminous stars
+- There are some supergiant/giant stars
+
+### 18.4: The H-R Diagram
+
+```
+Surface temperature
+1. Determine the color (very rough).
+2. Measure the spectrum and get the spectral type.
+
+Chemical composition
+Determine which lines are present in the spectrum.
+
+Luminosity
+Measure the apparent brightness and compensate for distance.
+
+Radial velocity
+Measure the Doppler shift in the spectrum.
+
+Rotation
+Measure the width of spectral lines.
+
+Mass
+Measure the period and radial velocity curves of spectroscopic binary stars.
+
+Diameter
+1. Measure the way a star’s light is blocked by the Moon.
+2. Measure the light curves and Doppler shifts for eclipsing binary stars.
+```
+
+- Temperature and luminosity are related
+- Hertzsprung-Russell diagram: temperature / spectral class against luminosity. As temperature decreases, luminosity decreases.
+- Red dwarfs -- low temperature, low luminosity
+- White dwarfs -- high temperature, low luminosity
+- Red giatns, low temperature, high luminosity
+- Super giants, even higher luminosity
+- The structure of stars that are in equillibrium and derive all of their energy from nuclear fusion is determined by total mass and composition
+- Largest stars have the most gravity and compress their centers most, so they are hottest inside and they shine with the greatest luminosity and ht ehottest surface temperatures.
+- White dwarf -- Sirius B, binary system with Sirius A. Very high densit; matter does not exist usually b/c it is so dense.
+- White dwarfs are dying stars
+
+## Chapter 19: Celestial Distances
+### 19.2: Surveying the Stars
+- Traingulation
+- Our depth perception fails for objects more than a few tens of meters away; to see the shift of an object much farther away, our eyes need to be spread out a lot further.
+- Parallax -- change in location of a remote object due to a change in vantage point
+- Parallax angles are only a fraction of a second of arc (arcsec is 1/3600 of a degree)
+- The distance of a star in parsecs is the reciprocal of its parallax in arcseconds.
+- Parsec -- the distance at which we have a parallax of one second -- about 3.26 light years.
+- No known star is in 1 parsec of Earth
 
 ## Chapter 21: Black Holes and Curved Spacetime
 

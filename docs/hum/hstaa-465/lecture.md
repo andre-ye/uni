@@ -1433,9 +1433,100 @@ Argument: The Great Society was a response to prosperity. it was a vision of a m
 			- THe NLF build large systems of underground tunnels
 		5. Destroy communist guerillas in the South through decisive action
 			- Guerrillas ate away at American morale by inflicting massive physical and pyschological wounds -- got very good at sniping, ambush, etc. which chipped away at American morale
-	- All fasing real challenges.
+	- All facing real challenges going into the war.
+- The US was engaging in a war knowing that it was going to be very difficult -- throwing their weight behind a revolving door of generals. The South did not trust their government. ARVN, burning rice and villages -- imprisoning suspected Communists. Both hearts and minds and punishing the countryside. (which works against the US). Bombing the North -- main target is morale, bringing the North to the negotiating table. But it just doesn't work. The bombing campaigns don't break the morale. The Ho Chi Minh trail stays open; guerrillas in the South build underground tunnels.
+- PAVN and NLF strategy
+	- Undercut the 'puppet' government in the South -- in the North, strategy is to undermine this government and have pretty much done this by 1967, there is no real legitimacy to the government by then.
+	- Persuade, intimidate, threaten, etc. southerners to join forces or at least to disavow the southern government. Undermining support for the government. This was largely successful already by 1965. The Vietnamese communists had been fighting since the mid-40s
+	- Erode American morale. Americans helped with this -- in essence both sides targeted the other side's morale and both thought they would be capable of doing so.
+	- Demonstrate resolve to maintain foreign support, especially from China (the most significant supporter)
+- Two different sets of strategies. 
+- THe fear for Johnson mainly is China, which is the lynchpin for how they run the war how they do -- if we hit them too hard, China may enter the war like in Korea and we've given ourselves a bigger enemy -- Johnson is thinking about how to punish the north so far they are brought to the negotiating table without briging in China.
+- Operation Rolling Thunder
+	- Beginning of the bombing, went on for quite a long time.
+	- Not just big B-52 bombers unleashing thousands of tons of bombs, but also smaller aircraft and helicopters trying to declare the Ho Chi Minh Trail -- bombed the fuck out of the Ho Chi Minh Trail
+	- Dropped various munitions including napalm, 250 lb bombs ('snake')
+	- Napalm, developed during WWII, mix of jelly and gasoline, when it explodes it throws sticky fire on everything and it burns. Napalm explosions are a common usage
+	- Very controversial -- throughout the war -- done under the idea of graduated escalation. McNamara (sec of defense) on how to get the North to come to the negotiating table. Turn up the bounding to a high volume, then turn the volume down and hope they come down to negotiate. Very optimistic outlook on American technological capabilities. The US generals hated this -- did we tie one hand behind our back, the politicians screwed up the war because they didn't let the US military unleash its full power and beat the enemy in submission, doing the turn up and turn down screwing around. US generals are going apeshit over the McNamara policy.
+	- This policy was followed by the DoD throughout the war. BY 1965 already 180 US aircraft are lost over Vietnam and Laos because they had good anti-aircraft surface-to-air missiles.
+	- 1964, first US pilot shot down, stayed a prisoner of war the entire war
+	- Building up large numbers of American PoWs held in prison camps throughout the war
+- Ho Chi Minh Trail becomes a bombing target
+	- In Laos because they hoped that being in Laos they would avoid some of the bombing, since Johnson promised not expanding the war; but the US drops it anyway. However the North had so many volunteers and civilians that theyw ould re-open the Ho Chi Minh trail overnight, massive numbers of people who worked just on the trail with basic equipment.
+	- For the US, the question about the 'boots on the ground' -- put actual soldiers into Vietnam?
+- Johnson's "War of restraint"
+	- How is Johnson going to keep the Vietnam War politically viable? Says in 1964 that he is aware he doesn't have mothers on his side -- many people not happy about boots on the ground. Many young American men will volunteer early on because they have the patriotic spirit, but Johnson feels that he is walking a very thin line w.r.t. the public. "One of the most restrained military actions in world history" -- of course will drop insane numbers of bombs. Hardly a war on restraint.
+	- Some off-limits targets: main harbor Haiphong Harbor, the US military generals cannot believe the US is not mining the harbor, want to shut off all trade. Also central Hanoi
+- Lesson of WWII in terms of air power: people come out of WWII believing that it worked bc it was so technological sophisticated and that it was so impressive -- massive bombing runs. Analysis by most historians is that air power at best had mixed results. The Germans were bombed heavily, but the Germans are still pumping out a numbe rof important products which let them wage war. Loss of life on the ground, questionable at best. We however still rely on airpower to win the Vietnam War. Unclear why they thought that the air approach would work; it had not shown to be decisive. 
+- 1965: Da Nang is a big city in the Northern part of the Southern part of Vietnam. This is where the US marines are mostly, in I Corps (4 major core operations)
+	- WHen the marines land, they didn't even tell the southern government that they wer coming --- this is the sort of relationship that the US has with the southern government now.
+	- Pretty clear that the US begins taking over major military operations as soon as it gets enough people.
+	- Gen. Maxwell Taylor is the ambassador to South Vietnam, has very Hawkish policy.
+	- New guy in charge of the war: Gen. Wm. Westmoreland. In WWII. Was an impressivec ommanding general. When the film Hearts and Minds is made, his comment in 1974 looking back is "the oriental does not value life as we do", the guy in chargeof running the war. Westmoreland is responsible for misleading the AMericna public beginning from the beginning of the war until 1968, when the bottom falls out of the whole thing. A main agent of telling Americans repeatedly that we are going to win soon, 'light at the end of the tunnel' -- a few more 100k troops and everything will be cleaned up. In 1968 when the Tet Offensive happens, people recoil: we thought the war was over, this is when American support totally bottoms out. Westmoreland set up a lot of this. These people know that what they are saying is not true -- try to maintain morale but ultimately undermining it. Reports which are totally false about the amount of troops on the Northern side that the Americans are killing. Trying to enact a self-fulfilling prophecy. Turns a number of south Vietnamese people against the Americnas. Beginning to see the Americans as French 2.0 in the South, many in the South who begin to question US involvement.
+	- First bombing runs in 1964 after the Gulf of Tonkin institution
+	- Ground troops are being told lies; and they know that these are lies -- people on the ground know that the war is being reported in a misleading way.
+- Boots on the ground
+	- It would take decisive American power to force the North Vietnamese to give up
+	- McNamara has to think about the political ramifications -- 1k deaths a month, 600k troops -- with the strategy of graduated escalation and Johnson's war of restraint. Something which is very hard for the politicians to follow -- a heavy debt to pay. Come up with this idea of body count. We need to be killing more of the enemy than they kill of us. Questions about misalignment between the political and the military leadership. Not fighting to win. Trying to support the Southern government and giving them legitimacy, although this idea is pretty out of the window.
+- 1965, politicians are telling one story behind the scenes and telling the Americna public a different story. Have intense doubts about what is to come, although tey express it in different ways, know that they aren't going to get a lot of support in the South. Know that the Americans will object to the deaths. What they take advantage of in the beginning as that Americans are extremely patriotic and that the generation after WWII will be patriotic and stand behind the government, riding hard that Americans trust their government to do the right thing. It is a level of trust that, when broken, will not be easily put back together.
+- A lot of advisors with few exceptions are advising Kennedy that the only way to be politically viable (and Johnson) is to stay strong in the US.
+- Goldwater known for saying extreme things
 
+Part 2, the War.
+- Early campaigns the US uses -- (corresponds to post-war American consumerism): operation RANCH HAND, involves the spraying of large amounts of herbicides to kill the cover of the forest so they can see enemy movements; it is a triple canopy forest and very hard to see through. Idea is to defoliate as much of the forestry (IN THE SOUTH) as possible.
+- Aerila herbicides
+	- Large areas of III-corps from 1961 to 1971, out there spraying and killing large amounts of tree cover in the southern part of Vietnam.
+	- Go by the names of the colors painted on the outside of the drums, agent Orange, Blue, Pink, ... made by Monsanto, Dow Chemical, etc... contains some of the most toxic stuff there is
+	- Spraying these chemicals over everyone -- US soldiers and Vietnamese civilians develop very serious health issues. Villagers become beginning refugees; farm areas are being sprayed with chemicals, makes the Hearts and Minds campaing even more difficult.
+	- Vietnam goes from being a rice exporter to a rice importer
+- Helicopters and tactics
+	- Major technolgoical innovation which starts in Korea becomes a major workhorse of the American campaign.
+	- Helicopters became necessary for everything because of the terrain -- they needed helicopter airlifts in many places.
+	- Marines used the Sikorsky helicopter
+	- "Huey" helicopters made by Bell Helicopter (did pretty well during the war)
+	- Gave a lot to the ARVN and trained their pilots to use Huey helicopters
+- November 1965, Ia Drang campaign	
+	- Part of a 43-days campaign, really revolves around two significant battles
+	- *We Were Soldiers Once and Young*
+	- Small number of US troops involved, 1k, ferried in by helicopter, ferrying in a small number at a time and dropping them off in these landing zones
+	- Idea is that they locate where a large number of enemy troops are (2500, 3000 troops by a massive mountain), draw out the enemy troops engaging the ground truths, then pound them with artillery and air support. Main thrust of what the US army is doing -- search and destroy missions. First calvary division -- engage in the battle.
+	- 3-day battle of Ia Drang valley, only wayt o survive by constatly calling in air strikes and artillery
+	- Americans are basicallys urrounded -- suffer such surrounded casualities (including napalm accidentally falling on the US soldiers, burning to death) -- calling in 'broken arrow' --- a US outfit is being totally taken out, calls in every airplane to start bombing the enemy to rescue the American troops.
+	- Seen as a tactical victory at X-ray
+	- Are ambushed by another communist group on their way to LZ Albany, 50% casualties -- LZ-Xray 44% casualty rate, extreme in terms of casualty rates
+	- Devastating losses at the IA Drang valley.
+	- Both sides learned lessons.
+		- US: our tactics work. Artillery and air support are so devastating that it works. Find the enmy and beat them with your technological advantages. It's the thing they will keep going.
+		- North: when you fight Americans, you have to draw them by the belt buckle -- you have to get close enough so that they can't just bomb you -- the tactics totally change, settle into tactics of sniping, hit and run missions, booby traps, etc.
+		- After 1965, American soldiers report contact -- engagements last maybe 2 minutes or 15 minutes at most -- get hit, lose a few guys, and disappear -- a major tactic for the Communist forces and a significant eroding of American morale. 
+- US -- 1965, a battle of attrition -- body counts, a problematic objective. In most wars you don't want to start with a war of attrition -- both sides get beat up, just hope you beat the other side worse. Strategy froma ttrition is problematic to begin from the beginning; one can understand it when you consdier the US technological superiority, but it is not a winning strategy.
+	- By 1965, over 200k troops in the counry
+	- PAVN/PLAF strategy of guerilla warfare begins to show more sucess
+- American society at war
+	- American society is gearing up towards war, the beginning of the teach-ins
+	- Tech-ins begin at University of Michigan before spreading to more than 100 campuses, mainly faculty trying to talk about the war and students trying to understand it.
+	- Begin in 1965, reflecting the sit-ins and wade-ins; students come in and listen to faculty speaking about the war
+	- Teach-ins, generlly an anti-war feeling; also start generating counter-protests -- when there is an anti-war protest, there is also a counter-protest
+- The Draft
+	- Beginning of conscription
+	- Conscription has been talked about as the most direct way that the state can coerce you into doing its bidding
+	- The draft is a complicated issue; has been used initially to stimulate volunteering -- if you choose where you go into the military you can choose; otherwise you go where they say. More people volunteer with the announcement of the draft to not end up in the infantry.
+	- 1964, 112k 
+	- Handled by local draft boards working as part of the federal government's draft; you would meet a veteran from WWII or Korea, they would evaluate you for service and you would come out with a designation. 1A -- going into the military. 2S -- student and can have a deferment. 4H -- still in high school. 4F -- mental, physical, or a moral disability which keeps you out of the military.
+	- After 1969, because this is seen s an unfair system, it becomes a lottery ystem based on your birthdate. September 14th, first one drew -- if your birthday was drawn, everyone with that birthday is put into the service.
+	- 1/2 volunteers, 1/2 draftees -- many of the drafted were placed into the infantry, made up of 80% of the casualties
+	- Serious aracual components -- the poor (always do the fighting), the rural, and the Black -- a disrpoportionate number of the drafted and the wounded + infantry
+	- Civil Rights leaders did complain about this and got it worked up, but 11% of the population and 17% of the draftees and 31% of the infantry in 1965.
+	- Middle class puts up a lot of people into the service, about a third of draftees come out of the middle class
+	- By 1967, 467k troops in Vietnam; 11.1k kileld in action
+- Sum up -- getting into a war that leaders did not want introduced a new crisis into an already rapidly changing society. a democratic society already undergoing greater experientation with liberalism begins to question its own government about war.
+- Early on, many patriots volunteering -- trust the government, many volunteering and even the drafted go -- of course later we run into different problems post -68; the amount of drug use and disciplinary problems goes up hugely (fragging), illegal killings, etc. But the early years should not be tainted by how they end.
 
+---
+
+## Lecture 10: The Rise of Black Power
+- Argument: Though not a well-defined or unified movement, Black Power gave voice to many Black Americans who promoted Black pride and connections to Africa, as well as demanded immediate institutional changes.
+- 
 
 
 

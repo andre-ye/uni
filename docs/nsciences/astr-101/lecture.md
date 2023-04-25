@@ -252,7 +252,7 @@ ASTR 101
 
 ---
 
-## Week 4 Wednesday -- Measuring and INterpreting Light
+## Week 4 Wednesday -- Measuring and Interpreting Light
 - Moving into the second act (first act -- here on Earth), leaving our homes behind
 - We can undrstand distant objects,b ut we just need to know more about light
 - We know a lot more aobut how light works
@@ -289,10 +289,45 @@ ASTR 101
 - For most time we've used the human eye -- which is great. But the human eye 'erases' every 0.03 seconds or so -- if we want to see something faint, it has to be bright enough to make an impression in .03 seconds, which restricts you 
 - Mid-1800s, invention of photography: astronomy becomes astrophysics. You can take a picture of what is happening.
 
+---
 
-
-
-
+## Week 5 Monday -- The Sun Amongst the Stars
+- Last week -- basic physics of light, different wavelengths and their ordering, relationship between light and heat.
+- Electrons in particular in atoms and absorb and interact with light at particular wavelengths.
+- We have huge telescopes today -- also in space, so they don't have to deal with atmospheric disturbances
+- How does the sun produce so much light? What does it tell us about light?
+- A basic understanding of the Sun has eluded mankind for almost all of human history
+- 1795, William Herschel -- maybe the Sun was only hot on the outside and it would be cool in its interior. People living on the sun?
+- We figured out how the sun works by letting go of the sun as our sun and thinking of it as a star; we figured out how the sun works by figuring out how other stars worked. A different historical story about how we came to understand the Sun by understanding other stars.
+- How do we study more distant stars?
+- Almost all stars are so far away that they appear as unresolved points of light. What can we measure about these stars which lets us know more about them?
+- We can measure several things: how bright stars look from Earth, what direction they are moving -- side to side, and also forward/backward with Doppler; their color (different wavelengths of light, UV vs Visible vs Radio -- spectral energy distribution); absopriotn/emission lines present in the spectra
+- We want to use these observations to know six interesting physical quantities: luminosity, distance, mass, radius, temperature, age
+- Luminosity: total amount of power radiated by a star into space as measured at some fixed distance from the star's surface. Not how much do we see, but how much is it really putting out (what if I put a bag around the star?)
+- Apparent brightness -- the amount of a star's light which eventually reaches us per unit area here on Earth.    
+  - $$= L / 4\pi d^2$$
+  - Formula which gives both luminosity and distance
+- Measuring the apparent birghtness of a star is 'easy' -- very straightforward. 
+- Given that apparent brightnes is trivially accessible, we can get either the luminosity or the distance and we get the other for free; they are stuck together  by measurement definition.
+- The earth wobbling around the sun is how we can measure distance -- parallax, as the Earth orbits the sun, nearby stars should look like they are moving back and forth compared to background stars. Angle that the star appears to move -- the parallax angle. The star's distance is given by $$\frac{1}{p}$$ if $$p$$ is measured in units of arcseconds
+  - parcsecs: one parallax arcseconds, about 3.26 light years
+- We have lots of parallax and now we have luminosity.
+- Can we know the luminosity of something and then get the distance? Yes -- the standard candle method (a candle out in the distance with certain regularities)
+  - If I assume that a star has the same luminosioty as the sun from assumptions about mass, diameter, etc.
+- Mass of a star can be measured from here on Earth, only by watching it move by gravity -- we have to see it move under gravitational forces and that gives away its mass.
+- We can also figure out the diameter given ecclipsing of a body over a star -- if it's a bigger star, it'll take a longer amount of time to move across. 
+- Most stars have another star in orbit around them -- not rare in any way
+- However this method requires an eclipse, so we can't measure their sizes. Being able to make the eclipsing inbary star measurement is very tricky.
+- We often estimate a star's radius by estimating the radius using basic physics: if you understand how much light is being produced, $$L = 4 \pi R^2 \sigma T^4$$ -- depends on the size of the star and its temperature -- bigger stars put out more light; hotter stars emit more light at all wavelengths
+  - If you want to figrue out radius from temperature and luminosity -- the temperature is very important, taken to the fourth power. Small erors compound. You need to know the temperature very carefully.
+- Temperature -- blue stars are hotter than red stars. But it doesn't put a number on it. But you can get a gauge for temperature, but it svery inaccurate -- plus or minus several hundred degrees Kelvin. Instead, you need to turn to the details of absoruption lines seen in our sun. Absorption lines -- tell us something about the cheimicals in the atmosphere of the star. 
+- Comapring spectra across stars - not all star spectra look like.
+- All stars have basically the same composition. THey are all roughly 75% hydrogen, including M-type stars which don't show Hydrogen absorptiospectrums. 
+- Gaposchkin in fact believed that shew as mistaken that all stars have the same composition. 
+- It depedns on the temperature -- very hot stars can prevent ionization; iron at low temperatures,  can't make the elecrtrons move. 
+- Some planets are so cold that titanium and warera == = can go together uneder cold 
+- OBAFGIG -- quite detailed, patterns of absorption line -- better review temprare's . Can be crazy precise if you measure these 
+- Spectral type really tells you the temperature. O B A F G K M -- oh bitch ass fucking gorilla king man
 
 
 
