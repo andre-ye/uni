@@ -579,7 +579,9 @@ Russian verbs which only exist in the perfective
   - Passivity is habitual -- no effort involved, you don't experience effort qua effort when you pass by
   - An active heightening of consciousness when you say, "this is" -- this is the affair complex, which can be given passively or you can make an explicit judgement
 
+---
 
+## Week 5 Tuesday: Truth and Evidence, Self-Constitution; Meditations 3 and 4
 
 
 

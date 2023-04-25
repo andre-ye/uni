@@ -180,9 +180,9 @@ well as creating a new pluralist America.
 | --- | --- |
 | Birmingham, AL | After the Civil War, Birmingham is one of thef ew Southern cities where there is an effort to invest a lot of capital by Northern industrialists to create an industrial town. Birmingham is at the center of reconstruction investment. Birmingham becomes an important place to stake a stand; a lot of Black folks have a stake in Civil Rights there; black people still remain second class. Birmingham becomes a centerpiece of Civil RIghts. By 1963, Birmingham had become a very violent place. A lot of strategy was centered here. |
 | Civil Rights Act | The Civil Rights Act of 1964 -- prohibited discrimination in schools *and* privately owned institutions. The South got away previously with discrimination via public/private divide (14thd eosnt apply to private institutions). Included discrimination based on sex, which was an interesting development. Many employers continued to discriminate on the basis of sex because of the biological component there. Moreover, the '64 act did not mention voting, which was a major Civil Rights issue. In general, while the Civil Rights act, bolstered by LBJ passing it through congress, seeing Civil Rights as politically expedient, it left a lot to be wanted. Still it marked progress. |
-| Medgar Evers
-| Fannie Lou Hamer
-| 1964 Presidential Election
+| Medgar Evers | The first 'martyr' of the Civil Rights movement; first of Baldwin's "trinity of assassinations" (Evers, Malcolm X, King) -- workedo n many issues in the SOuth, including the Mississippi wade-ins, Emmett Till's murder, the Mississippi NAACP. Killed in his own home by a white supremacist, one of the assassinations which leads to the November '63 JFK assassination. |
+| Fannie Lou Hamer | A local activist in Mississippi who engages in local agitation adn activation; becomes a voice of the struggle in Mississippi at the Democratc Convention. Demonstrates the nationwide focus on specific issues of Civil Rights in the South, and the connectedness of the Civil Rights movements. |
+| 1964 Presidential Election | Democratic Convention in 1964 -- important Civil Rights influences. ... 
 | Voting Rights Act
 | 24th Amendment
 | Barry Goldwater

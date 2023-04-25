@@ -694,3 +694,6 @@ Up to Transcendental philosophy
   - To what extent do statements exist independently of their statements?
 - What is the role of freedom and agency in experience? To what extent does the ego create the world that it experiences?
 - What does it even mean to doubt?
+- Questions on intersubjectivity
+  - The community of egos still lies housed within my ego, correct? Is Husserl asserting something which goes 'beyond' the ego?
+  - Virtual machine analogy
