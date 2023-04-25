@@ -6,7 +6,7 @@ grand_parent: Humanities
 nav_order: 2
 ---
 
-# Lecture Notes
+# Reading Notes
 {: .no_toc }
 
 HSTAA 465

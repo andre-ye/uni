@@ -582,7 +582,35 @@ Russian verbs which only exist in the perfective
 ---
 
 ## Week 5 Tuesday: Truth and Evidence, Self-Constitution; Meditations 3 and 4
-
+- Genesis vs synthesis
+- Derrida -- "The Problem of Genesis in Husserl"
+- Passive synthesis, active synthesis
+- Beyond as transcendent, also transcendence -- the realm beyond this Earthy realm
+- "The religious turn in phenomenology" -- a lot of Husserl's early students were Catholic, then maybe athiests took over like Sartre, but then a rebirth of other Catholics and Protestants -- can you do a phenomenology of the religious experience? -- of that which is intrinsically transcendent experience.
+- Is Husserl a neo-Kantian? Neo-Kantians -- Hegel takes over 1800 - 1850 after Kant, then the neo-Kantians after 1850, Husserl is born into a movement against Hegel, a deeply neo-Kantian strain to Husserl
+- Transcendent: that which is beyond/independent of conscioussness & for the 'world'
+- Transcendental: the universal and necessary conditions of the possibility of something, typically experience and/or experience of an object
+- First usage of the 'transcendental' (prior to the one solidifed by Kant in the modern era) -- by the Scholastics, have a tradition in which transcendentals are the conditions of the possibility of any object in order to exist
+  - Basic transcendentals are truth, being, beauty, goodness, and unity
+  - Most necessary and universal categories
+  - The transcendentals are convertible for the Scholastics
+  - We all exist as unities but God exists as unity *an sich*; so in that sense we only live in God
+  - We have a turn to the subject in Kant: they are categories too, but for *experiencing the object* -- not for the condition of the existence of the object itself.
+- Substance is the unity underlying the qualities of the object -- what is this the thing which unifies the various properties? Substance -- to first experience the thing at all, we must first apply the category of substance in order to experience the object itself -- we can't derive the category of substance from experience.
+- Causality> Hume's critique -- you can never see causality. Kant's claim: in order to see an ordered sequence of events, you have to apply a category of causality to your experience. To experience things happening, you have to in advance apply categories to your experience. 
+- Kant calls these forms -- causality, substance, etc. -- Plato's forms -- we don't know where the transcendental ego but it goes into the mind
+- One of the things Husserl does is to say that you can actually study these 'transcendental forms' whereas for Kant it is kind of outside of consciousness
+- Thing-in-itself interacts with the matter of sensation -- a unity of the matter and the form (back to Aristotle but now the form is in the subject)
+- Kant -- principles of synthesis. Kant only really deals with synthesizing temporality in terms of causality. 
+- Husserl is not really talking about forms, more about intentional acts.
+- Passive synthesis -- in order to see a dog runninng, there needs to be a passive synthesis of protention and retention, you are not deliberately doing it even though you are doing it.
+- Active synthesis -- actually doing it, detatching the blue thermos from the blue thermos and re-attaching it -- from seeing a dog running to really seeing "a dog running"
+- Most active synthesis are acts of judgement
+- als struktur of experience 
+- Consciousness is always consciousness of something as something
+- Can you be conscious of something not as something? This seems to imply prior active synthesis
+- Can we experience the thing not *as something* but *as given*
+- Both yes and no; we can distinguish what we perceive it as vs what we simply perceive
 
 
 
