@@ -131,15 +131,15 @@ searched for alternate forms of expression
 
 | Term | Description |
 | --- | --- |
-| Conformity, Non-Conformity
-| Critiques of Mass Society
-| Allen Ginsburg's "Howl"
-| Expatriates
-| The Beats
-| Hipsters
-| Be-Bop
-| Jazz
-| The Folk Movement
+| Conformity, Non-Conformity | Although American culture undergoes heavy conformist checks in ideology (Cold War, McCarthyism, etc.), in the 1950s and 1960s there is greater discontent being publicly voiced. Comformist boundaries are being violated. |
+| Critiques of Mass Society | Many critiques of mass society emerge such as *The Lonely Crowd* and *The Affluent Society*. The important takeaway here is that people, at least some people, are critically aware of the changes in economics, macro and micro, and how that is changing public and private relationships. |
+| Allen Ginsburg's "Howl" | 1955, a centerpiece of the counterculture which articualtes something which is wrong about the mass proliferation of consumerism. Becomes an intellectual and artistic keystone in understanding the 1950s and 1960s discontent. |
+| Expatriates | James Baldwin, Richard Wright, Arthur Himes -- many writers become expatriates, sometimes for racial reasons (Baldwin felt that he was treated better outside of the US) and others to critique American society 'from the outside'. |
+| The Beats | A group of writers and thinkers who sought to express the 'being beat' of mass conformist culture and articulate novel visions of freedom. |
+| Hipsters | Hipsters were strongly influenced by Black art forms and emerge in the 1950s to 1960s, tied with the beats. There is an intentional wrking class affectation which is key to the hipster aesthetic. What is important is that the hipster is a dimension of the market system -- they go to the fringes of what is acceptable, take from it, and bring it back to the mainstream. Norman Mailer -- "The White Negro" |
+| Be-Bop | A new form of jazz which is fast, loud, experimental, and exploratory. It is abraisive at times. Represents a new music which is less focused on conformism and more on expression. |
+| Jazz | Jazz works alongside the Beats to articulte new forms of freedom in musical form: Miles Davis, Bud Powell, Billie Holiday, etc. Jazz also has an important racial dimension: most Jazz musicians were Black and obviously Jazz has a tradition in African-American culture. Many Jazz musicians could not enter the venues they played at in the front, some were beaten by the police, etc. |
+| The Folk Movement | Founded in individuals like Pete Seeger, travels around and plays a lot of music. Concentration on ‘folk’ – supposed to be the music of the people. Peter Seeger reflecting on the IWW – unionism and togetherness, stirring up the people. Utah Phillips. Bob Dylan comes of age in the 20s; recalls the communist influence of the 1930s labor activism – particularly Woody Guthrie. Reflecting on the 1930s labor activism, critique of the government |
 
 ---
 
@@ -152,20 +152,20 @@ rhetoric by 1963 to a focus on World Peace.
 
 | Term | Description |
 | --- | --- |
-| Cuban Missle Crisis
-| Bay of Pigs Invasion
-| U-2 spy planes
-| Advisors in Vietnam
-| Containment in Vietnam
-| Domino Theory
-| Ngo Dinh Diem
-| Buddhists' Protests
-| Speech at American University
-| Gemini Program
-| Counter-Insurgency
-| Operation MONGOOSE
-| Green Berets
-| Assassinations of 1963
+| Cuban Missle Crisis | 1962 -- Soviet Missiles are found in Cuba, they have IRBMs which can virtually reach anywhere in the US. There is tremendous tension: peole are fearful that this will come to a nuclear conflict. Consequentially, Kennedy and Khushev couldn’t really talk to each other – ambassador to ambassador, department to department. Getting communiques which are supported to be from Khushchev, but maybe not really Khushchev saying these things – communication breakdowns and problems. Importantly, the Cuban Missile Crisis was a turning point in Kennedy's administration, in the Cold War, and in the usage of nuclear weapons in general. It was the sort of postmodern culmination of deterrent energy. |
+| Bay of Pigs Invasion | 1961 -- Kennedy allows expatriates to infiltrate Cuba to overthrow Castro; however, pulls back crucial supplies like air support; seen as indecisive. The overthrow fails, and the US is internationally embarrassed. This may demonstrate Kennedy's indecisiveness as a political leader and importantly plays into his desire to show resolve against communism in the future, which will be important when understanding his relationship with Vietnam. |
+| U-2 spy planes |  The US maintains spy plane initiatives at high altitudes to spy on many places, and the USSR also does with us -- both sides know this. This is a mutual surveillance which is part of the deterrent logic of nuclear weapons. |
+| Advisors in Vietnam | By 1963, 16k advisors are going into operations and getting involved in combat operations in Vietnam. Like in Cuba, the Kennedy administration is committed to 'war of no deaths' -- so mainly training the local resistance in Vietnam to fight. However this will turn into boots on the ground in 1965, just two years later. |
+| Containment in Vietnam | Vietnam takes on an important symbolic role; it is important that the Communist forces are contained in Vietnam. |
+| Domino Theory | The idea that if one Communist movement were to prevail, others would also. Placed increased importance on fighting in Vietnam even though it wasn't that significant to Americans 'objectively. |
+| Ngo Dinh Diem | The US begins to support Ngo Dinh Diem under Eisenhower who rises to power in Southern Vietnam. However he is a despot and assassinated in 1963; after tremendous conflict, a new general Khahn arises, which the US backs. |
+| Buddhists' Protests | Buddhists were often the target of religious laws by a mostly Catholic Southern Vietnamese elite. Some Buddhists participated in high-profile immolation as protest, to which Madame Nhu referred to as "barbecue" |
+| Speech at American University | Towards the end of his presidency, Kennedy begins to demonstrate a focus on world peace and taking a critical view at communism. |
+| Gemini Program | 1961 Space Program to test differetn methods of space travel and mechanics. Part of a broader technological race in the Cold War. |
+| Counter-Insurgency | The US puts a lot of effort into training for the war, which sinks them more deeply in Vietnam. |
+| Operation MONGOOSE | A covert plot to kill Castro, worked on heavily by Kennedy and Dulles. This in turn pushed Castro closer tot he Soviets; he knew he was being targeted by the US. However Castro didn't want to be a Soviet satellite. |
+| Green Berets | Green Berets play an important advisoral role in Vietnam by going into the mountains and training tribal people to be armies for the South. By 1963, there were 950 Green Berets in Vietnam. |
+| Assassinations of 1963 | Medgar Evers, Kennedy. A greater use of violence to demonstrate political ends. Later would be the 65 assassination of Malcolm X and the 68 assassination of MLK Jr. Also notable are the deaths of 1963: Sylvia Plath, Aldous Huxley, W.E.B. Du Bois, Patrick Kennedy, CS Lewis, Robert Frost, Thich Quang Duc, Francis Poulenc and Edith Piaf,  |
 
 ---
 

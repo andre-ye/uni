@@ -499,7 +499,7 @@ Page 101 in PDF
 - The Objective world is an idea which is intersubjectively communalized
 - Constitution of the world harmonizes monads
 
-50 -- The mediate intentioanlity of experiencing someone else, as appresentation (analogical apperception)
+50 -- The mediate intentionality of experiencing someone else, as appresentation (analogical apperception)
 - How tot ake ourselves to the other ego? What does it mean to experience someone else for the first time?
 - Experience is original consciousness -- nothing of the other Ego is given to us originally. There is a making co-present (appresentation)
 - Appresentation: the front of a physical thing appresents a rear aspect (co-presents)
