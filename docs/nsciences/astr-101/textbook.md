@@ -1040,6 +1040,40 @@ Diameter
   - Feeding frenzy of supermassive black holes may be responsible for energetic phenomena in the universe
   - Many observations can only be explained if black holes do exist.
 
+## Chapter 22: Stars from Adolescence to Old Age
+
+### 22.1: Evolution from the Main Sequence to Red Giants
+- HR diagram -- once a star has reached the main-sequence stage of its life, it gets is energy entirely from the conversion of hydrogen into helium via nuclear fusion. Hydrogen is very abundant so this process can go on for a very long time. 
+- Zero-age main sequence -- zero age: the time when a star strops contracting, settles onto the main sequence, and begins to fuse hydrogen
+- As hydrogen depletes and helium increases, the luminosity, temperature, size, interior structure, etc. changes; when luminosity and temperature change, the star on the H-R diagram moves away from the zero-age main sequence
+- Temperature and density slowly increase with accumulated helium. The rate of fusion goes up as temperature to the fourth
+- How long a star remains int he main sequence depends on its mass
+- The most massive main-sequence stars are also the most luminous, but also they burn it so quickly that they have shorter lifespans than less massive stars.
+- G-type star: human beings developed on a planet around a G-type star, but it would be a waste of time to search around O- or B- type stars because they remain stable for so short periods of times
+- When all of the hydrogen in a star's core is used up, the core contains only helium. Energy can no longer be generated. The star's energy is partially supplied by gravitational energy, and the core begins to contract; the star's ocre shrinks and energy is converted into heat
+- Most stars generate more energy each second they are fusing hydrogen in a shell outside of a hleium core than in the center; the star expands and increases in luminosity. Cores are contracting but outside is expanding.
+- The more massive as tar is, the faster it goes through each stage in its life
+
+### 22.2: Star Clusters
+- No star completes its evolution into a red giant quickly enough for us to observe
+- However we can look at a group or cluster of clouds; we can assume that the stars formed at approximately the same time if they orbit the same center.
+- We can find clusters in which massive stars have already finished main-sequence evolution and become red giants while lower-mass bodies are still in the main sequence
+- Globular clusters
+  - Symmetrical, round ssystems of hundreds of thousands of stars
+  - Very dense areas
+- Open clusters
+  - Found in the disk of the Galaxy -- wide range of ages
+  - Stars in an open cluster remain only for a few million years; the speed of some stars may be faster than the escape vcelocity for instance
+- Stellar association
+  - Group of extremely young stars
+  - Associations are found in gas- and dust-rich regions
+  open clusters, stellar associations.
+
+### 22.3: Checking out the Theory
+- At every stage of evolution, massive stars evolve more quickly than lower-mass counterparts
+- Main-sequence turnout, place in the H-R diagram where stars begin to leave the main sequence
+
+
 ---
 
 ## Philosophical Relevance

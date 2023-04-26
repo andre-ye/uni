@@ -611,6 +611,7 @@ Russian verbs which only exist in the perfective
 - Can you be conscious of something not as something? This seems to imply prior active synthesis
 - Can we experience the thing not *as something* but *as given*
 - Both yes and no; we can distinguish what we perceive it as vs what we simply perceive
+- Multiple perceptions synthesized into a unity: the question of genesis is *how does this first occur?* On the basis of what do I generate a perception *as*? It seems like I already need to know what a motorcycle is in order to hear a motorcycle.
 
 
 
