@@ -264,6 +264,41 @@ $$Var(X+c) = Var(X)$$
 
 $$Var(ax) = a^2 Var(x)$$
 
+---
+
+## Week 5 Wednesday -- Discrete RV Zoo
+- $$Var(X + Y) + Var(X) + Var(Y)$$ for independent random variables
+- $$E[X\cdot Y] = E[X] \cdot E[Y]$$ for independent random variables
+- There are some common patterns for experiments
+- Bernoulli
+  - Flip a biased coin once and record whether it is heads or not. 
+  - Distribution which defines a variable -- following a Bernoulli distribution, $$X ~ \text{Ber}(p)$$
+  - $$X$$ follows a Bernoulli distribution with parameter $$p$$
+- Binomial
+  - Flipping repeatedly $$n$$ times and coming up with a probability $$p$$
+  - $$n$$ repeated Bernoulli experiment
+  - Binomial distribution: $$p_X (k) = \binom{n}{k} p^k(1 - p)^{n-k} \text{ for } $$k \in [0, n]$$
+  - Expected value: $$\mathbb{E}[X] = np$$
+  - Variance: $$Var(X) = np(1 - p)$$
+- Geometric
+  - You flip a coin which comes up heads with probability $$p$$ until you get heads. how many flips needed? OR: How many independent triasl needed until the first success?
+  - $$p$$, probability of success; $$X$$, number of trials needed to see the first Success.
+  - PMF: $$p_X(k) = (1 - k)^{k-1}p$$ for $$k \in [1, \infty)$$
+  - CDF: $$1 - (1 - p)^k$$ for $$k \in \mathbb{N}$$
+  - Expectation: $$\mathbb{E}[X] = \frac{1}{p}$$
+  - Variance: $$\frac{1-p}{p^2}$$
+  - Geometric random variables are 'memoryless' -- self-similar problem at different timesteps
+- Uniform
+  - Roll a fair die or draw a random integer form $$[1, n]$$
+  - Equally likely range  
+  - PMF: $$p_X(k) = \frac{1}{b-a+1}$$
+  - CDF: $$F_X(k) = \frac{k - a + 1}{b - a + 1}$  
+- Negative binomial
+  - Generalization up to $$r$$ successes
+  - What is the PMF, expectation and variance?
+  - PMF: $$p_X(k) = \binom{k-1}{r-1}(1 - p)^{k-r}p^r$$
+  - Variance: $$r \cdot \frac{1-p}{p^2}$$
+- No need to rederive the PDF, can simply cite the distributions and take advantage of the PDFs, CDFs, etc.
 
 
 

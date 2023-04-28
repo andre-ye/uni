@@ -655,12 +655,57 @@ Observations on "Classical Anarchism" and Modern Ecology
 - Travelled to Israel, Thailand refugee camps, Soveit Jewry -- merely moving to where we started -- belief that we are one human family
 - Died in 1987
 
+---
 
+## Document Collection #5
 
+### The Black Panther Party Platform (1966)
+- Bill of Rights + Declaration of Independence
+- Created by Huey Newton and Bobby Seale
+- Determine the destiny of the Black people
+- Strong Marxist consciousness -- capitalism as robbery
+- Decent housing and quality of life, full employment
+- Freedom from imprisonment and oppression by the state; justice. Exemption from military service
+- Belief in essentially a UBI
+- Cooperatives, shared work
+- Ending police brutality by self-armment, appeal to the second amendment
+- Revolution is just if the state is oppressive.
 
-
-
-
+### Stokley Carmichael, Black Power Speech (1966)
+- Stokley Carmichael named chairman of SNCC, philosophy of Black Power
+- "intellectual masturbation" on tehq uestion of Black Power
+- "All criticism is an autobiography" -- Bernard Shaw
+- Frantz Fanon, a "pragmatic" black existentialist philosopher -- man cannot condemn himself, for he would have to inflict punishment. Condemnation is a very difficult and twisted idea, intricately intertwined with interests
+- SNCC: white Ameircan cannot condemn itself for criminal acts against black America, so black people most do it
+- The 'drug of integration' -- never fighting for integration, but rather against white supremacy
+- A man is born free -- it is not a question of white people *giving* black people freedom. In fact the onus is on the white man to *stop denying black people their freedom*. (i.e. relocating responsibility from the black man to the white man)
+  - Interesting questions about natural rights
+- All bills have been written for white men: "you need a civil rights bill, not me"
+- Not only internal but also external condemnation
+- Trading the bible for land
+- The West is uncivilized
+  - Coming "into our ghettos" and binding to white society
+  - It's not a question of who works or doesn't work -- but a question of power and legitimacy, legitimation of action
+- Black people must wield their collective group power
+  - Integration individualizes
+- "I am black, therefore I am"
+- Suppression is rationalized
+- Democratic Party -- not representing the needs of black people. White people need to build coalition sof hcange within white communities.
+- White people cannot be working on the black community for 'psychologcial ground' -- black people must be doing and articulating for themselves -- "an antiracist racist"
+- War in Vietnam is illegal and immoral -- but who/what is the higher law for?
+- Peace movement hasn't gotten off the college campuses (everyone is 2S and not scared of being drafted) -- how to move into the white ghettos and articulate a position for the white youth?
+- Those that call SNCC violent are some of the most militant organizations for Vietnam
+- Camus -- to come alive by saying no
+- "American students are perhaps the most politically unsophisticated students in the world."
+- We've moved to morality and love while political threat reigns -- you have to move politically, developing political nuance. You cannot talk morality to political beasts.
+- Black people are in the best position to question the values of society. 
+- Not about being part of the American pie -- this is raping every country, blood money -- but about remaking America.
+- White society has killed nonviolence -- nonviolence needs to be preached to the real violent people. 
+- An individualized narrative of poverty -- poverty is "well-calculated" -- and the very calculators of poverty are administrating the programs of poverty.
+- The white activist needs to develop a program in their own ocmmunity.
+- No one would get scared if it were "Negro power"
+- A psychological battle on the right for black people to self-define and self-oranize
+- 
 
 
 

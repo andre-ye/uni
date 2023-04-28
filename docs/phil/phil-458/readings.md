@@ -564,7 +564,9 @@ Page 101 in PDF
 
 Question
 - Does Husserl merely argue that we can recognize other egos outside of our 'concrete ownness', or further that we need other egos to adopt the natural attitude?
-
+- How 'big' is the ego-community?
+- Virtual machine example
+- 
 
 ---
 

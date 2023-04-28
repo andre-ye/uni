@@ -597,7 +597,7 @@ Russian verbs which only exist in the perfective
   - We all exist as unities but God exists as unity *an sich*; so in that sense we only live in God
   - We have a turn to the subject in Kant: they are categories too, but for *experiencing the object* -- not for the condition of the existence of the object itself.
 - Substance is the unity underlying the qualities of the object -- what is this the thing which unifies the various properties? Substance -- to first experience the thing at all, we must first apply the category of substance in order to experience the object itself -- we can't derive the category of substance from experience.
-- Causality> Hume's critique -- you can never see causality. Kant's claim: in order to see an ordered sequence of events, you have to apply a category of causality to your experience. To experience things happening, you have to in advance apply categories to your experience. 
+- Causality: Hume's critique -- you can never see causality. Kant's claim: in order to see an ordered sequence of events, you have to apply a category of causality to your experience. To experience things happening, you have to in advance apply categories to your experience. 
 - Kant calls these forms -- causality, substance, etc. -- Plato's forms -- we don't know where the transcendental ego but it goes into the mind
 - One of the things Husserl does is to say that you can actually study these 'transcendental forms' whereas for Kant it is kind of outside of consciousness
 - Thing-in-itself interacts with the matter of sensation -- a unity of the matter and the form (back to Aristotle but now the form is in the subject)
@@ -612,11 +612,56 @@ Russian verbs which only exist in the perfective
 - Can we experience the thing not *as something* but *as given*
 - Both yes and no; we can distinguish what we perceive it as vs what we simply perceive
 - Multiple perceptions synthesized into a unity: the question of genesis is *how does this first occur?* On the basis of what do I generate a perception *as*? It seems like I already need to know what a motorcycle is in order to hear a motorcycle.
+- Synthesis begin as active and become passive as the ego's habitualities
 
+---
 
+## Week 5 Thursday -- Meditations Recap
+Final Paper
+- Argumentative paper
+- Identify some notable claim or argument
+- Need to research outside
+- Look specifically at the question and answer its components in detail
 
-
-
-
-
-
+Lecture stuff
+- Once you practice the epoche -- it is *you* which distinguishes between an illusion and something which really exists.
+- Hypotheses are good, you can always contemplate it without affirming or denying it. Its quality of being derives from your subjectivity; it is for you insofar as you posit it as being.
+- Hypothermia -- less heat. Hypothesis -- less posit. 
+- The being sense of something is something you constiute for it.
+- When I say "that is red", what am I referring to? Not merely red that I see, but the being-red; and where does this sense derive from?
+- Natural attitude -- being does not derive from the transcendental subject
+- What it is and that it is is constituted by the transcendental ego
+- The world independent of the ego has already been constituted by the transcendental ego.
+- Hegel -- consciousness forgets what it has done
+  - Facts -- they are not done, just given. Fact -- facere, to make -- it is something which has been made -- factory, artifact -- being as being is something which is made, the sense of being is made by cnosciousness whereas the naive attitude treats it as given without any prior making
+- "Just look at the facts" -- still in the naive attitude, for these facts are made.
+  - But we don't make the world arbitrarily
+- The naivete of the natural attitude: you don't recognize the constitution of being
+- The de facto object cannot be given with perfect object because there is always another side, but the eidetic object kind of can be -- you intuit the totality of the object as pure possibility
+- Eidetic reduction and perfect evidence -- you are not perceiving the object 'itself', but its *eidos*
+- Cointentions which cointend the backside, other tactile experiences, etc.
+- There's a kind of intentionality where the eidos does fulfill completely the intention, you're not co-intending anything, the eidos fully fulfills in the intention. But the de facto object cannot.
+- In the eidos, you intuit what it would mean to have perfect evidence (or the 'origin' / generator of perfect evidence)
+- Verifying experiences
+- When we enter the epoche, objectif becomes pure possibility
+- Initial bracketing of the transcendence of the object
+- There is an initial sense in which, just entering the epoche, you enter all of that which is possible to be, all which is given is possibly being
+- The pure eidos-perception, pure perception-floating
+- Empirical ego -- accessed via the original reduction -- having bracketed the transcendence of the world.
+  - Empirical -- you as retaining your factual history and existence as this person here, it is still transcendental because it's not yet "purified" -- still an ego with particular indiviudal acts; the ego is in some sense the individual.
+  - You as empirical factual thing and you recognizing you constituting it as an infinite horizon -- this is elevated into the pure eidetic sphere; this nexus-horizon (your intentionality, in connection to your intentionality since you constittue the horizon) becomes eidetic.
+  - We find ourself not in a de facto ego but rather an eidos ego -- your de facto ego is finite, you cannot intuit / see the infinite horizon which constitutes the object, but you can enter into an eidos-ego and at one point you see the eidos of the thing
+  - You do free imaginative variation in order to see the eidos of the object
+  - You're not restrictred to this finite ego -- your perception floats above the ego, nexus of purified ego and purified object -- eidos-object
+- Analogizing
+- There's a thing beyond what the empirical ego can perceive and there is an ego corresponding to it
+- The problem of problems in epistemology -- Meno's problem. How do you know that is the eidos of a pen unless you already know what the eidos of a pen is?
+- Reason can lift itself above the merely contingent
+- Science, Aristotle: the universal necessary knowledge of things through their causes -- universal and necessary
+- A pure possible ego can perceive the eidos of any particular pen -- no longer me as my own ego -- a hypotheticalaa ego viewing the true nature of the object. But who is doing this? It floats above your empirical ego.
+- Don't think of form as shape intrinsically
+- Husserl's last words -- phenomenology must start over again
+- Two syntheses
+  - Object: the multiplicites of noemata, cogitata, etc. of intentional acts (cogitationes) constituting a continuous whole -- retented, protended, intended into a whole. You do not experience synthesis an sich, but rather as a whole, as already synthesized. The synthesis is given. The total object is the world, as synthesized. To have a world, there is nothing outside of it -- there may be gaps, but those are just gaps. The extraneous is already synthesized as extraneous. There is for Husserl the world as total object, constant passive synthesis of which there can be other syntheses. Even when something new happens, it's not that you're new -- it can be synthesized in your world (or not!) -- the horizon or horizons is world as such where there is constant ongoing passive synthesis where even what is unexpected can be integrated into this synthesis -- a baby suddenly crying is startling but it is still within your world -- not so radical that you couldn't experience it
+  - Subject: unity of acts and their respective contents as acts of a singular, unified consciousness. One is conscious not only conscious of the intended but of oneself *as* an intending whole. How do I know that when I watch a movie I am not just re-experiencing a movie which someone has already put in my head? But I still experience the unity of the movie, regardless of its source. This is synthesis on the side of the subject, and this is apodictically given. It is given regardless of its source. The ego is the unity of experience as given.
+- Passive synthesis vs active synthesis -- acts of judgement (active), separating of predicate from subject and reuniting them. Forming teams is an active synthesis -- you can talk about nations, teams, etc. and habitualize them. Passive syntheses in some sense presuppose an active synthesis. How do you know that this really is the circle? Where did you get the original idea of a circle from?

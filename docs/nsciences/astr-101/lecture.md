@@ -329,9 +329,63 @@ ASTR 101
 - OBAFGIG -- quite detailed, patterns of absorption line -- better review temprare's . Can be crazy precise if you measure these 
 - Spectral type really tells you the temperature. O B A F G K M -- oh bitch ass fucking gorilla king man
 
+---
 
+## Week 5 Wednesday -- Star Clusters and Stellar Ages
+- Apparent brightness relates luminosity and distance
+- You can measure distance via parallax, you get luminosity for free
+- Knowing luminosity and measuring apparent brightness via standard candle method. Standard candle becomes almost only method when parallax doesn't work
+- Only way to measure mass of a star is by watching it orbit. Stars in orbit around each other
+- There can be very complicated systems -- strs bound under gravity orbiting mutually. Using basic Newtonian gravity you can figure out masses
+- Radius can be measured directly with binaries that eclipse each other w.r.t. Earth
+  - However for the most part we use laws of thermal radiation to estimate the star's size.
+- Temperature -- basic ideas of temperature from color (blue hotter than red)
+  - More importantly, we can measure the spectral type -- looking at the absorption lines we see in their spectrum. Seeing hydrogen asorption lines -- very specific temperatures produce certain absorption lines.
+- Hertzsprung-Russell (HR) diagram: plot out temperature (spectral type or temperature) by brightness (luminosity)
+- Middle sequence -- stripe running from the upper left to the bottom right. 
+  - Over 90% of all stars lie on the main sequence; most stars spend most of their lives generating their luminosity in a similar, temperature-dependent way.
+  - Clear relationship between birghtness and temperature for almost all stars
+- Over half of all stars are M dwarfs; although G type stars appear common, M dwarfs
+- Dwarfs are hard to see -- things are hard to see and we can't understand/appreciate them
+- Proxima Centauri -- spectral type M, we can't see it with our naked eyes: it would have to be in the solar system for us to see it. We don't see almost all of the spectral type M stars. 
+- Why are there so many M dwarfs? 
+- How do stars change over time? Is there a process by which they change which is differential for bright vs dim stars? How do you figure out the age of a star?
+- You have to look at a whole bunch of stars and try to figure out which ones are young and old, then try to piece together a story of stellar evolution. It becomes a demographic problem, studying large groups of things.
+- "Open cluster" (PLeaides), clusters of stars tend to contain hundreds of thousands of stars; there is a lot of open space in between the stars; there is also gas and dust in between stars. Open clustes are different from...
+- Globular clusters, have a pronounced spherical globe-like shape. Round shape rather than open cluster. Highly concentrated, a lot more stars. Very dense. Very little gas or dust between each star. 
+- Both populations are important for two reasons, two simplifications for the study of a star
+  - While clusters are big, about every star in the cluster is approximately the same distance from the Earth, so we can ignore the distance and measure apparent brightnesses, and treat them as if they were luminosities.
+  - Ignoring distance specificity helps -- you don't have to worrk about distance; apparently brighter stars are really more luminous, not just closer to us. This lets us plot a reliable H-R diagram of the cluster.
+  - All of the stars in a cluster formw ithin 100m years of each other, because of the effects of radiation from newly formed stars -- the formation of stars stops more stars from forming -- you have a burst of star formation which stops itself
+  - All tars are basically the same age
+- H-R diagrams are very different between each other. There are no O and B type stars in globular clusters
+- Another trend in the main sequence: relationship between mass and brightness. More massive stars have higher luminosity
+- Mass is a form of energy, just like other forms of energy -- bundled up in particles ith mass
+- If you break apart an atom into other atoms, you will every time change the mass. Breaking apart -- fission. Adding together: fusion. 
+- Did you make the mass more or less? If you make the material heavier, you need to put in energy; if you lose mass, then you generate energy.
+- Stars have sufficient temperatures and pressures to cause four hydrogen to fuse into 1 helium nucleus via proton-proton chain. The Helium nucleus has less mass than the 4h nuclei, and so the lost mass energy is converted into neutrinos that stream away from the sdtar's core.
+- Stars don't blow up because they are so massive -- mitigates and resists the flow of energy in a meaningful way. 
+- How much energy is putting out? This sets the energy of a star. A more massive star has to generate more energy, putting out more energy, and that means that they're bigger -- blow up larger because there's so much energy coming out.
+- Burn trhough hydrogen much faster than smaller mass stars. Turning hydrogne fuel into helium. Bigger stars have more hydrogen
+- Mass-lifetime relationship between stars in the main sequence. A B dwarf goes through fuel only in 32m years, F dwarf lasts 1.8 billion years, G dwarf 10 billion years, M dwarf 56 billion years
+- Whya re there so many M dwarfs? They just have longer lifetimes. The universe is only about 13 billion years old; every M dwarf ever made is still here. 
+- If you know how long stars of different spectral types can stay on the main sequence, you can look at different clusters of stars and figure out how old they are. 
+- On the main sequence, stars on the lower right are older
+- 6k degrees -- about the same temperature as the Sun. Stars which are a little bit bigger than the Sun are still here -- so a cluster needs to be less than 10 billion years old -- between 2 and 10 billion years old. 
+- By comparing stars, we can tell which stars are younger vs older.
 
+---
 
+## Week 5 Thursday Section Notes
+- $$B - V$$: higher is redder (presumably ratio between B and V -- V being read)
+- $$Vm$$ magnitude: higher is dimmer
+- $$Vm$$ correlates with $$B - V$$
+- We can only see as dim ass 6-magnitude
+- H-R diagrams are analogous to color-magnitude diagrams
+- H-R: spectral type against luminosity
+  - Less massive to most massive: bottom right to top left
+  - Smaller to larger: bottom left to top right
+  - 
 
 
 

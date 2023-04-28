@@ -240,7 +240,7 @@ specific place and time.
 | Operation Phoenix
 | Ho Chi Minh trail
 | Arc Light Strikes
-| Battle of La Drang Valley
+| Battle of Ia Drang Valley
 | Strategies
 | Teach-ins
 | Helicopters
