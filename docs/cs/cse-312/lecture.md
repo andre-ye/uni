@@ -300,11 +300,35 @@ $$Var(ax) = a^2 Var(x)$$
   - Variance: $$r \cdot \frac{1-p}{p^2}$$
 - No need to rederive the PDF, can simply cite the distributions and take advantage of the PDFs, CDFs, etc.
 
+---
 
+## Week 5 Friday: Continuous Probability
+- Poisson -- trying to count the number of times something happens over an interval of time, given that we know the expectation of the random variable. We also assume each occurrence is independent of the others. 
+  - Useful there is a large number of potential sources
+  - The poisson distribution is a modeling choice -- we're choosing math which we believe describes something in the real world well
+  - Let $$\lambda$$ be the average number of incidents in a time interval
+  - $$X$$ is the total number of incidents seen in a particular interval
+  - Support for a Poisson is all natural numbers -- 0, 1, 2, etc.
 
+$$p_X(k) = \frac{\lambda^k e^{-\lambda}}{k!}$$
+$$F_x(k) = e^{-\lambda} \sum_{i=0}^k \frac{\lambda^i}{i!}$$
+$$\mathbb{E}[X] = \lambda$$
+$$Var(X) = \lambda$$
 
+- Poisson distribution comes from taking the binomial to the infinite limit
+- Second part of the course -- dealing with probability across uncountable sets
 
+$$\int_{-\infty}^\infty f_X(k) dk = 1$$
 
+- Probability density function, $$f_X(k)$$
+- Probability density function works only for events, since single outcomes don't make sense
+- Uniform PDF between 0 and 1:
+
+$$f_X(k) = 0 \text{ if } k < 0 \vee k > 1; 1 \text{ else}$$
+
+- PDF != PMF
+- For continuous probability spaces, impossible events have probability 0 but some probability 0 events might be possible
+- PDF is a way to compare relative chances of being near a particular value
 
 
 
