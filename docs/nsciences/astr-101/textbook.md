@@ -1117,8 +1117,37 @@ Approaching Death
 ## Chapter 23: The Death of Stars
 
 ### 23.2: Evolution of Massive Stars -- An Explosive Finish
+- Stars beginning with masses at least 8 times the mass of the sum end up as white dwarfs
+- what about 150x $$M_{Sun}$$? 
+- After helium is exhausted, a massive star's outer layers can force the carbon core to contract until it fosues carbon into oxygen, neon, magnesium; then another contraction into silicon, sulfur, calcium, argon; then finally iron; this happens very quickly, in months or even days
+- When nuclear reactions stop, the core is supported by degenerate electrons. 
+- NO energy is generated in the white dwarf core of a star but fusion still occurs in surrounding shells
+- Iron reaches a mass eventually so large that even degenerate electrons cannot support it; electrons are squeezed into the atomic nuclei and form neutrons and neutrinos from protons
+- The core shrinks rapidy; neutrons are squeezed out of the nuclei; the collapsing core becomes a crushed ball mae of neutrons -- **a neutron star**
+- Might collapse into a black hole
+- The core is saved by degenerate neutrons but the rest of the star blows apart; electrons are absorbed into the nuclei, the star rapidly contracts
+- A shock wave travels outwards, which is absorbed by atomic nuclei; protons form with electrons to make neutrons, releasing a neutrino, which carries away nuclear energy -- 
+- Supernova -- resulting explosion
 
-### 23.3:
+Supernova giveth and taketh
+- The fused elements are recycled into space to form new stars and planets
+- Neutrons can be absorbed by iron, where they turn into protons, and can build up to much more massive nuclei.
+- Supernovae importantly provide the galaxyw ith heavier elements which will become the building blocks of life
+- Supernovae probably produce high-energy cosmic ray particles, which may have contributed to mutations in genetic material on earth
+- Lif eofrms near supernovae would perish from high radiation
+
+### 23.3: Supernova Observations
+- Nova -- *new*
+- No supernova explosion has been observable since the invention of the telescope
+- The most luminous supernovae have 10b times the luminosity of the sun and so it might outshine the entire galaxy
+
+Supernova 1987A
+- Supernova which could be seen with the unaided eye 160k light years away
+- The star was a blue supergiant before the explosion
+
+Synthesis of Heavy Elements
+- SN 1987A helped us confirm theories about heavy element production
+- Decay of radioactive nickel and cobalt
 
 ---
 

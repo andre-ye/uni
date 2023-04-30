@@ -705,8 +705,59 @@ Observations on "Classical Anarchism" and Modern Ecology
 - The white activist needs to develop a program in their own ocmmunity.
 - No one would get scared if it were "Negro power"
 - A psychological battle on the right for black people to self-define and self-oranize
-- 
 
+### James Baldwin vs William Buckley, 1965 Debate at Cambridge
+- Has the American Dream been achieved at the expense of the American negro?
 
+Speaker 1: David Heycock -- **For**
+- "There are more negroes in prison with me than there are on the voting rolls" -- MLK, the Selma, Alabama protests
+- The state of the American Dream: great unbounded liberty, but not for one of every nine men
+- American soceity uses the labor and blood of the black people but never to give them a fair deal
 
+Speaker 2: Jeremy Burford -- **Against**
+- Not the purpose to go against Civil Rights, but rather to deny the American Dream's dependence on black suffering, and that this has hindered the American Dream
+- Progress in spite of the treatment of black people, not because of it
+- The American Dream and the respect for civil liberties has been the main factor in improving race relations in America
 
+Speaker 3: James Baldwin -- **For**
+- There are surface-level quarrels with Burford -- yes, the treatment of the Negro has hindered the American dream, other hinderances, etc.
+- A deeper awkwardness -- what is one's point of view and sense of reality: the proposition "is at the expense of" etc. is already loaded and one's reaction shows one's position in the world; assumptions that we deeply hold
+- Systems allow people to attach their identities: whatever people's reactions are reveals a fundamental belief in the right of civilizations to dominate others
+- Leaving aside the 'bloody catalogue', what does this do to the subjugated? -- To destroy his sense of reality. Destroy's his father's authority over him (Freud?). You have not seen a mirror, and you suppose you are white too (Lacan). Psychological beginnings which accelerate -- what you have been through is not just the catalogue of injustices, but that you have begun to see the psychological effects pervade your niece, daughter, son, etc.
+- "Expense" -- The harbors, ports, economy especially of the Southern states could not have been what it is now if they had not had cheap labor.
+- "I built the railroads, *I* picked the cotton, under someone's whip, for nothing"
+  - What does this mean?
+- The Southern oligarchy
+- This 'dream' is at the 'expense' of the American Negro -- but not only in the deep South. 
+- What has happened to white Southerners? "I have fallen far, so far, but at least I am not black" -- what is being done?
+- Why believe that the civil rights bill will be honored now?
+- White people in the South have been morally destroyed, the corruption of American sense of reality
+- The problem with America is that it has been integrated for a very long time -- "put me next to another African and you'll see"
+- Watching America from Europe
+- It is only since WWII that there is a counterimage in the world -- Africa was suddenly on the stage of the world and Africans had to be dealt with in a way they had never been before, and gives the American Negro a sense of himself beyond the savage and the clown
+- What is concerning? We like to think we are civilized in this room so that we can walk out assuming that the measure of our politeness has some effect on the world. "It may not." 
+- Robert Kennedy said that it was conceivable that in 40 years in America we might have a black president. But they laughed bitterly in Harlem.
+- Betrayal by American politicians. But how to deal with people who the white world has so long ignored and who are deeply skeptical of Baldwin and King?
+- It is a terrible thing for white people to believe that 1/9 of their population is beneath them
+- Not an object of missionary charity, but one of the people that built the country. Unless this is acknowledged, there is scarcely hope for the country.
+- "The people who are denied participation in the American Dream, by their very presence, will wreck it. And that is a very grave moment for the West."
+
+Speaker 4: William Buckley -- **Against**
+- Most striking criticism of America -- involves the refusal of the American community to treat him other than a Negro
+- The American community treats Baldwin with a sort of fascination
+- Baldwin must be treated as a white man
+- Charges against America are not so much that civilization has failed Baldwin and his people but rather that America has no ideals -- a superficial coating which justifies oppression, etc.
+- Baldwin has been treated specially because he is Black
+- What to eliminate psychic humiliation? 
+- Not to eliminate statistics in a world which is closely attached to material prosperity
+- Everything comes at the expense of effort going into a system which grants greater material prosperity
+- But what is it that Americans ought to do? Is it time to abandon the American Dream?
+- In the US there is a concern for the Negro problem -- the engines of concern are working, and Baldwin in part reflects this concern.
+- The situation in America is very complex: a) the effort to perpetuate discrimination by individual American citizens as a result of their lack of concern; b) the failure of the Negro community itself to make certain 'exertions' which other minorities (Italian, Jewish) have made. We need to 're-animate' the Negro
+- Reaching out for radical solutions to obscure the two factors. Focusing on the fact of white discrimination and agitating a moral concern, but where to go now?
+- Bayard Rustin -- slipping, ends up less urging the advancement of the Black man and more the regression of the white man
+- The problem in Mississippi is not that too few black people are voting but too many white people are voting
+- "Racial narcissism" 
+- Possibly leading towards war and conflict
+
+Baldwin wins

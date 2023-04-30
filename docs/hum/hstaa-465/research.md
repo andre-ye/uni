@@ -62,6 +62,16 @@ HSTAA 465
 - The problem of political obligation and disobedience (3)
 - Stability and order in constitutional democracies as rules of the game (5)
 - Commitment to postwar vision of consensus (5)
+- **Society for Ethical and Legal Philosphy** (SELF) -- good source to look at
+- *Philosophy and Public Affairs*
+- How to understand black militancy? (4) -- good reference (footnote 7)
+- Liberal philosophers defended stability and guarantees (4)
+- In light of growing civil libertarianism, Rawls rethought the individual as an agent -- disconnecting agency from redistribution. Dissent is in fact not necessarily incompatible with stability (5)
+- **Obligation here was bsaed on the fairness of rules, and if all play the game... each has a duty not to take advantage of the complicance of others" (7)
+- Prioritizing stability does not mean succumbing to conservatism
+- 
+
+page 8
 
 page 6
 
