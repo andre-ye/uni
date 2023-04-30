@@ -1074,6 +1074,52 @@ Diameter
 - Main-sequence turnout, place in the H-R diagram where stars begin to leave the main sequence
 
 
+### 22.4: Further Evolution of Stars
+- Stars begin as a contracting protostar, live most of their life as a main stable-sequence star, then move off it into the red giant region
+- Some star histories diverge
+
+Helium fusion
+- Red giants start out with a helium core where no energy generation happens surrounded by a fusing hydrogen shell. However once the temperature reaches 100m K, helium attoms beginf using into a carbon nucelus (triple-alpha process), which releases a helium flash. Heating, followed by more nuclear reactions, etc. -- runaway generation of energy
+- Stellar evolution is a history of constant struggle against gravitational collapse; it cna do so if it can tap into energy sources
+- Onion structure as different fusion processes take place
+- The fusion of helium nuclei needs temperatures which cannot be reached; so the formation of a carbon-oxygen core is the death of the star
+
+Mass Loss from Red-Giant Stars and the formation of Planetary nebulae
+- Stars turning into red giants have large radii and low escape velocity (so not very massive).
+- Red giants lose a lot of their mass into space; aging stars are surrounded by a fuck ton of expanding shells of gas
+- When nuclear energy is used up, the core shrinks and heats up as it gets compressed; it shrinks and gets very hot; stellar winds and ultraviolet radiation sweep outwards and heat ejected shells, ionizing them, and making them glow, forming planetary nebulae
+- The star continues to lose mass
+- 'Last gasp' of **low-mass** (< 2 sun masses) star evolution
+
+Cosmic recycling
+- Death of stars is important part of cosmic recycling
+
+### 22.5: The Evolution of More Massive Stars
+- Everything starts from the two simplest elements -- hydrogen and helium
+- However, there are many heavier elements -- where did they fuse together? The only place hot enough is inside stars.
+- Massive stars can start additional types of fusion in their cores -- they can compress carbon-oxygen until it starts to fuse carbon nuclei -- forming oxygen, neon, magnesium, silicon, etc. Iron is the most that can be built -- the process requires more energy to fuse than it releases
+- Iron can be built up through nucleosynthesis in the centers of massive red giants
+- We can predict relative abundances in which elements occur in nature; stars that build up elements during nuclear reactions can help explain the differences in elements
+
+Elements in Globular Clusters and Open Clusters Are Not the Same
+- Elements are made in stars over time, which explains differences in globular vs open clusters
+- Abundances of elements heavier than helium are very different
+- Open cluster stars have 1-4% of matter as heavy elements; globular clusters are only 1/10 to 1/100 as much as the sun
+- First stars contain only hydrogen and helium and created heavy elements in their interiors; then they eject matter to create a new generation of stars
+- Globular clusters are much older than open clusters, so they have fewer abundance of elements heavier than hydrogen and heium
+
+Approaching Death
+- The events that characterize the end of stellar evolution happen very quickly; luminosity increases and nuclear fuel gets consumed much faster
+- Hydrogen is exhausted and other fuel sources die out
+
+---
+
+## Chapter 23: The Death of Stars
+
+### 23.2: Evolution of Massive Stars -- An Explosive Finish
+
+### 23.3:
+
 ---
 
 ## Philosophical Relevance
