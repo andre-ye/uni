@@ -330,8 +330,35 @@ $$f_X(k) = 0 \text{ if } k < 0 \vee k > 1; 1 \text{ else}$$
 - For continuous probability spaces, impossible events have probability 0 but some probability 0 events might be possible
 - PDF is a way to compare relative chances of being near a particular value
 
+---
 
+## Week 6 Monday: More Contiunous variables
+- Integrating the PDF from negative infinity to positive infinity should yield 1
+- Evaluating the PDF at a particular point does not give you a particular probability; rather you need to evaluate a density over a range
+- integration of PDF is analogous to summing over the PMF
+- PDF for uniform real number: $$f_X(k) = 0 : k < 0 \vee k > 1; 1 : 0 \le k \le 1$$
+- The PDF is not giving you anything absolute (only PMFs can do that) -- it is giving you how likely a particular variable is to occur relative to other ones -- give you the relative ratio of being near values scaled such that integrating over the whole PDF gives you 1
+- The CDF is the integral of the PDF; the PDF is the derivative of the CMF
 
+$$F_X(k) = \mathbb{P}(X \le k) = \int_{-\infty}^k f_X(z) dz$$
 
+$$\frac{d}{dk} F_X(k) = \frac{d}{dk} (\int_{-\infty}^k f_X(z) dz) = f_X(k)$$
 
+$$\mathbb{E}[X] = \int_{-\infty}^\infty X(z) \cdot f_X(z) dz$$
+
+$$\mathbb{E}[g(X)] = \int_{-\infty}^\infty g(X(z)) \cdot f_X(z) dz$$
+
+$$\mathbb{E}[aX + bY + c] = a\mathbb{E}[X] + b \mathbb{E}[Y] + c$$
+
+$$Var(X) = \kmathbb{E}[X^2] - (\mathbb{E}[X])^2 = \int_{-\infty}^\infty f_X(k)(X(k) - \mathbb{E}[X])^2 dk$$
+
+$$\text{Uniform}(a, b) := f_X(k) = \frac{1}{b - a} \text{ if } k \in [a, b] \text{ else } 0$$
+
+$$\text{Uniform}(a, b) := Var(X) = \frac{(b-a)^2}{12}$$
+
+- Exponential random variable: like a geometric random variable, but use continuous time. How many flips until see heads? But rather looking at continuous time. When waiting doesn't make the event happen any sooner. Geometric is memoryless. $$P(X \ge k + 1 | X \ge 1) = P(Y \ge k)$$
+
+$$X \sim Exp(\lambda): F_Y(t) = P(Y \le t) = 1 - e^{-\lambda t}$$
+
+$$X \sim Exp(\lambda): f_Y(t) = \lambda e^{-\lambda t} : k \ge 0$$
 

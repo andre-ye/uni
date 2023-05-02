@@ -1525,15 +1525,305 @@ Part 2, the War.
 ---
 
 ## Lecture 10: The Rise of Black Power
+
+Rough Draft
+- 4 to 6 pages developing some of the sources for how they are being used
+- Not supposed to be the entire project done
+
+Lecture
 - Argument: Though not a well-defined or unified movement, Black Power gave voice to many Black Americans who promoted Black pride and connections to Africa, as well as demanded immediate institutional changes.
-- 
+- Mainstream Civil Rights movements accomplishes many civil rights legislation -- the other part on changing attitudes and behaviors still needs to be done. Black and white students alike began to work towards those kinds of changes, but met with significant resistance
+- Black Power is not particularly well defined. Not particularly a singular unified movement though.
+- A new kind of pride that comes with the association with the continent of Africa as opposed to a previous sense of embarrassment. 
 
+Origins of Black Power
+- Origins of Black Power from changes towards integration and other attempt sto get voting, civil rights.
+- Malcolm X sees the nonviolent approach as a shameful one -- one that played into the hands of white oppression
+	- Blacks should forcefully resist
+- One origin: seeing the violence done to black folks in America by the police and vigilantes
 
+Black Militancy
+- Early Black militant, forefather of the Black Power/Militancy movement: Robert F. Williams
+- *Negroes with Guns* (1962) -- advocated Blacks arming themselves
+- Engaging with the question of black militancy and power
+- Exiled to Cuba, sets up a radio -- Radio Free Dixie, 1961 to 1965. Is a platform for ideas about Blacks arming themselves, Black militancy, etc. Not just hearing the SNCC or SCLC line of non-violence
 
+Black Militancy
+- Malcolm X -- joins Nation of Islam, important connections to Africa, sees Islam as an important part of this
+- Christianity in America as a white religion; black people who have taken it are getting a white version of this religion and can never really get out from under white control
+- Islam is seen as having a stronger connection to black folks in Africa
+- Talks a lot about ideas of pride and self-discipline that Malcolm felt that many black people were missing
+- Becomes disillusioned with Elijah Muhammad on the idea of setting forwards a black capitol or black state; feels that Muhammad talked a lot about it but it didn't materialize; however this vision for economic independence was a centerpiece
+- A strong critique of integration -- how to integrate and be treated equally is a key concern of King but Malcolm X is strongly critical of it
+- Mainstream Civil Rights movement and Nation of Islam did not see eye to eye
+	- Most people saw the NoI as a radical organization
 
+James Meredith's March Against Fear
+- Decides on his own without organizational support to do a march from Tennessee into Jackson, Mississippi -- the march against fear. As a free man in America, should be able to walk through America
+- Was shot by a white supremacist
+- Leaders of SNCC, SCLC< CORE picked up the march into Jackson, Mississippi, demonstrating that James Meredith's desire to operate as a free man in America would not be silenced
+	- Stokley Carmichael, King, ...
+	- Many people put the origin of the term 'black power' here -- Stokley Carmichael picks it up and uses it in speeches
 
+Rejection of Interracialism
+- Changes going on are beginning to fracture the left, very broadly
+- Rejection of interracialism within the black power movement and organizations dedicated to Civil Rights
+- CORE and SNCC both had mixed whit eand black leadership in them, but organizations are beginning to change around 1967
+- John Lewis ran against Stokely Carmichael to lead one of the SNCC chapters; Lewis is mainstream Civil Rights whereas Carmichael is becomming someone who articulates Black Power. Carmichael wins and brings a new black power significance into SNCC etc. 
+- Begin purging organizations of white leadership as Malcolm X etc. had that suggested that whites in organizations would begin to take over eventually, and that whites couldn't truly understand the conditions that black people were talking about, and that therefore they had nor ole to play in the leadership of these organizations
+- Increasingly organizations became more black-led and less interracial
 
+Black Power
+- Stokley Carmichael becomes one of the voices for the SNCC in 1966
+- lots of criticisms of violence against blacks in America and especially against civil rights demonstators who were attacked
+- Talked a lot about the failure of politicans to address many of the problems which plagued black people in america, including the condition of urban ghettos
+- Becomes the voice for these sorts of organizations
+- Another change -- generational divide which is beginning to emerge.
+- Older folks (e.g. Fannie Lou Hamer, famous in 1964 as part of the Mississippi Freedom Party which treid to get seated at the 1964 Democratic convention) are fading whereas younger folks who are more willing to say radical things openly about oppression and not using more toned-down language become more popular
+- Generational divide emerges (generations of activism)
+- Stokley begins taking trips abroad and find a shock of how worse it is for black people in America as opposed to in Europe. 
+- White liberals are retreating from SNCC
 
+Black Panther Party for Self-Defense
+- 1966, Oakland, California -- the Black Panther party
+- Bobby Seale, Huey P. Newton
+- "Freedom by any means necessary"
+- Expression of Black power. Are thinking in terms of black independence movements, linking this with revolutionary struggles going on in the world, including anti-colonial struggles in southeast asia and africa. See Balck Americans as a kind of legacy of colonialism -- still a group which has been colonized
+- Originaly name is Black Panther Party for Self-defense -- see themselves as defending themselves from white drug dealers, white men coming to look for sex workers, cops coming into neighborhoods and harrassing them, etc.
+- Focus a lot on neighborhoods and programs in these neighborhoods
+- Seattle -- focus on Central District. Once the Black Panther party formed in Seattle, formed a lot of neighborhood programs
+- Free Breakfast Program -- helping people in their neighborhood who needed it
+- Oakland 1966 and Seattle becomes the next place where there is a Black Panther Party
+- A central part of this is guns and militancy -- a lot of the people in the BPP come out of the military, some out of the Vietnam War -- have no qualms holding guns. Houses in the Central District loaded with guns -- were always armed to the teeth, ready for shootouts. Were regularly harrassed by the police
+- Leather jackets, black tams, militant look and stance -- central to what they were about. Self-defense as a central part of what they are doing.
+- Viewed by most white Americans as a dangerous group
+- Seattle
+	- Aaron, Elmer, and Michael Dixon
+	- Aaron Dixon remains politically active and was a candidate for many third parties in Seattle
+	- Many programs are specifically resisting white intrusions into the central district
 
+Black is Beautiful
+- Embracing of blackness which had not been possible in the same way before
+- Angela Davis, Nina Simone, others
+- Begin to embrace Blackness
+- The Afro becomes a major symbol of this -- growing hair long rather than conforming to an ideal of what it should be
+- Angela Davis -- interesting figure, highly educated person who identifies as a c ommunist and does not apologize for political and social views. Becomes a sort of intellectual lightning rod during this time. Will continue to be this way throughout the 1970s and recent times
+	- Brings up intersectionality
+- Nina Simone -- wanted to be the first black woman to play piano at Carnegie Hall as a young woman, but discovered she has a great distinctive voice. late 50s, had to look like a typical vocalist -- dolled up. Goes through a transformation and comes out with a novel persona
+- A lot of this has to do with connections to Africa and celebrations of Black heritage
+
+Black is Marketable
+- True of hippieism and more -- the way in which the capitalist marketplace is very flexible
+- The moment that advertisers begin to catch onto black is beautiful, move to embrace and envelop it to sell products
+- Middle of 1960s, especially after 66 -- obvious sort of play into the black power movement.
+
+Celebrating Blackness and Africanness
+- Certain centers become the most important -- e.g. Harlem in New York, places in Chicago, etc.
+- Jimi Hendrix -- a sort of 'black hippie' -- hippies usually seen as middle class white kids, but Hendrix has this quality of embracing hipppie lifestyle and clothing but fused it with black pride aesthetic as well, moving between these different groups.
+- Dr. Maulana Karenga, started the celebration of Kwanza, a kind of African holiday being celebrated
+- Black Arts Movement (1965), celebrating art forms of Africa
+
+Christianity and Black Power
+- Christianity had been central to black experience for a long time, comes out of a deep past in American evangelicalism and the South. Some continued to double down on this connection with christianity
+- Rev. James Hal Cone writes the 1967 *Black Theology and Black Power*
+- Focuses on the liberating elemenets of Christianity
+- "LIberation theology" 
+- WHat is happening to the Catholic Church in the early part of the sixties? Catholic Church -- Christianity should be used to help the marginaized and poor of the world, to uplift black folks
+- Throughout the sixties, more reliacne on aesthetics
+
+Fred Hampton and the Intelligence State
+- Certain parts of the Black Power movement are extremely frightening to white america
+- You get a backlash, become targets of police organizations, FBI, and CIA, which is not even supposed to be doing stuff within American border
+- Infiltrate organizations and get people to say that they are communists or did drugs, etc. -- building files so that the FBI could prosecute the
+- Classic counterintelligence stuff -- publicze people in a negative light, try to get them ruined in the pulic eye
+- Fred Hampton becomes a central figure, singled out and important. Inspired by communist influences
+- Did a lot of work with youth.
+- FBI sprays the place with sozens of bullets and murder Fred Hampton and Mark ...
+
+In Sum
+- By 1970, Black Power has left its mark on activism, local politics, community action, aesthetics, film, movie, art, and wareness of police violence.
+- Ongoing attempts to achieve these goasl in the following decades.
+
+---
+
+## Lecture 11: New Left, New Right
+Argument: The dissatisfaction with post-war America had both left and right lening criticisms. Whereas the New Left's dedication to liberation meant that it fractured by 1967, the new conservatives found greater coherence and longevity in its critique of the left, which comes to set the tone for what we see in the following decades.
+- This is part of the nature of being on the left
+- Being on the left means there are a number of voices, embraces of diversity of voices and issues and so on, and that the nature of liberation is to begin to break down boundaries
+- Being on the left can mean a sprawl of interests and ideas. 
+- Liberation comes out of the black freedom struggle and inspires many other groups to also push for liberalism, which causes the New Left to become much more atomized than the right, which coheres
+- The Right is just beginning to articulate their main ideas. You see them really come together and put fine points on what makes post-WII conservatism what it is.
+- The New Left -- anyone who wanted to see liberation for themselves as an individual added to the aspect of the New left coming apart -- race, sex and gender, anti-war, class, etc.
+
+The Old Left
+- Inspired by the Communist Party and the Socialist Party, other kinds of fringe leftist parties and movements on the far left
+- IWW, Industrial Workers of the World (1910s)
+- 1930s, Black Americans gravitated towards the Communist Party because it was the only group doing anything about race in the 1930s
+- Often articulated challenges to the capitalist system
+- Employing industrial workers in the early part of the 20th century
+- Compromise is New Deal liberalism -- groups on the left inspire, like the New Deal liberals in the FDR admin who are definitely communist socialist inspired
+
+Folk Movement
+- Often articulated in the folk movement of the 1960sd
+- Woody Guthrie, "This Land is Your Land" -- coming from this sort of socialist inspiration
+
+Decline of the Old left
+- The Cold War and anti-communism after WWII kills off emphasis from the fringe left
+- After groups like HUAC (House on Unamerican Activities Committee) and McCarthyite witch trials forces the left in America to begin to purge connections with communists and socialists
+- Bad examples -- Stalin's repressive regime until 1953 death, 15m to 50m killed; Mao's Great Leap Forward and the worst famine, 20m people killed. Examines of far-left regimes, don't look great. The left begins dumping these connections.
+- Castro in Cuba after the Bay of Pigs invasion
+- Comes from the rise inc ollege students. By 1968, over 7 million students in US -- largest number of college students in the sixties in american history, and it is these students who begins articulating the New Left
+
+The New Left
+- Comments on the problems of the American capitalist society
+- Draw a lot of inspiration, maybe even the most, from SNCC, CORE, etc. Students demand participatory democracy -- not really willing to wait for politicans to do something, want to go out and do it themselves
+- Another target is militarism; becomes a big part of the anti-war movement. 
+- Brings in a variety of different left-leaning politics into the US -- government programs, volunteer programs, etc. Leave behind a lot of the fringe communist conenctions.
+- New Left makes up a lot of different people: mainstream Democratcs, but also real radicals, liberals, activists, scholars, students, people who want to see change
+- Spontaneous and decentralized
+- Activism, not waiting for bureaucratic processes
+- SDS not in control of everything -- anti-racism, anti-war protests often pop up spontaneously
+
+The Origins of the New Left
+- Inspired mainly by what young, Black activists are doing in the South.
+- A lot of activism comes from this origin point.
+- Pointing out how American values do not match American realities. Talk about the long history of abolition and the way in which Americans talk about freedom but stil have a connection to history
+- Drawing upon previous academic work to critique consumer culture and business culture -- does not speak to goals and ideals, want something different
+- Black freedom movement and inter-racialism is an important part of this: people in the New left join into groups like CORE and SNCC, believe in interracial leadership
+- Inspired by the Frankfurt School of social theory, critical theory: discourse on modernism, post-modernism, capitalism, etc. 
+
+University of California, Berkeley
+- Free Speech Movement in UCB 1964-1965
+- The University had shut ddown any sort of political activism and talk around the student body relating to the Vietnam War just as the Gulf of Tonkin resolution had just been passed
+- Students were told they were part of the 'knowledge industry' -- many took offense to this, students in college to figrue out what they wanted to do and be and administrations making them sound like cogs in a machine. 
+- Students at Berkeley turn against this idea that the university is in a way not on their side
+- Free Speech Movement in Berkeley -- "Don't trust anyone over thirty" but also receive help from the faculty who end up breaking the stalemate, teach-ins
+
+Essence of the Sixties
+- A lot of middle class white folks mixed with the most disempowered in American society wh o make the argument that only structural change and direct involvement can improve society
+- Less waiting for Kennedy to announce let's try to change things and more of grassroots movements, political involvement, become ungovernable, people will listen because we have to
+
+Civil Rights and the New Left
+- CR becomes jumping off point for the New Left, which begins to embrace Civil Rights tactics and issues
+
+Being on the Left
+- Sit-in at the U of Michigan, one of the first places
+- Many of these things are happenin gin Michigan due to connection with the UAW -- important inspiration for student activism, important labor-student relation
+- A lto of protests -- workers and students protesting similar problems
+- Connections to the Civil Rights movement, offering critique nad satire of American society and communism
+- Characteristics and behaviors begin to be more common in this group in the new left
+- More libertine, less attached to older notions of sexual propriety, less worry about tradition and clothing and body regulation (biopolitics), part of bieng young and on the old left *in certain areas* on the coasts and in college towns. Not too widespread.
+- Based in academics, interested in reading sociological, critical, political theory
+- Common declarations of isolation and alienation -- American society does not speak to them
+- A lot of middle class youth are an important element here, as well as in hippies
+- Psychologist Kenneth Keniston: sixties youth rebellion "characteritistically consisted in using against the parents the parents' own principles" -- borrowing from and resisting the previous generation. Coming out of liberal families, go out in the streets and raise their voices, a enw activist generation
+
+March on Washington, 1965
+- There had been protests against Dow CHemical which drew very few people
+- 1965 March on Washington drew over 20k people to protest the Vietnam War. 
+- This is stil when most Americans would not have turned towards resistance
+- SDS and Robert Moses, SNCC
+- Repeated concern -- why spending so much time and money in Vietnam given the domestic issues -- a recurring refrain
+
+Changes to the New Left
+- After 65, 66 and 67 are the 'high points' of the sixties
+- 68, the whole world begins coming apart
+- 66 and 67 are high water marks of awareness and activism, hopefulness for change, awareness that we can live different lives
+- SDS begins to change becuase it moves out of the main college campuses and also into other small places
+- Less dedicated to the intellectual foundations they came from and just more radical and interested in disruption, the basis for intellectual foundations isn't as much there
+- Begins going after colleges because colleges provide draft boards with rankings -- if you fall below a certain ranking, you get drafted. SDS started going after the colleges and making a big stink about how the colleges were putting themselves in the middle of the Vietnam War.
+- Leaving behind the universities because of its ties to the interests of corporate and military elite
+	- Universities are complicit in training students to work for corporations, increasingly making this connection to anti-war protests
+- Women in SDS and other parts of the New Left are identifying that what began with Black liberation and now general social liberation still treats women as if they are secondary. Women will move out of SDS and increasingly infuse the Women's Liberation Movement
+
+Anti-war, Anti-imperialism
+- The New Left had begin to change, a growing sense of desperation
+- As early as 65 there are people demanding an immediate end to the war or at least the bombing, and it wasn't happening
+- What began as an anti-war protest became anti-imperialism -- you will see anti-war protests holding signs attributing American war to imperialism
+- Shocking to middle America -- a jarring sort of experience, but here we can see how frustration is growing
+
+Ramparts Magazine
+- A radical publication out of California
+- More calls for overthrowing capitalism
+- Protesters begin to carry Viet Cong flags at anti-war protests, which absolutely enrages middle-Americans, who think of their children being murdered by the Viet Cong
+- Becoming intensely critical; protests are trying to garner attention
+
+The emergence of an Alternate Right
+- More coherent and consistent -- cohering around specific ideas
+- Two basic pillars of what the right coheres around
+	1. The government has no role to play in the market system
+		- The free market syste only works when it is unregulated and when capitalists and corporations are able to function withotu the impositions of government
+		- A direct shot at the New Deal, the Great Soceity, the welfare state, etc.
+	2. Need for a central morality based in traditional religion
+		- Religious ecunemelcualism -- many Jewish intellectuals are part of the formation of the new right -- the fundamentals don't matter; what matters is a breakdown in American morality and a need to return to old-time religious traditions
+
+Post-1945 Conservatism: Economics
+- Milton Friedman -- famous face of the conservative school of thought -- great advances never come from centralized government (1962). 
+- Suggesting that the government needs to be pulled out of regulation
+- Friedrich von Hayek
+- Only a free market allows for a free soceity to exist
+- A sort of linkage being made here which is far-fetched but the beginning of thinking about the left as not that far from what the Nazis did in Europe or what Stalin did in the Soviet Union
+- Sociologist Robert Nisbet -- the state gets in the way of natural divisions between people, which are argued on the other side as social constructions
+- If you can make it natural, then you can begin to entice people on what youa re talking about
+
+Post-1945 Conservatism: Culture
+- *Protestant Catholic Jew* -- a need for a strict moral code in American life
+- 1953, *The Conservative Mind* -- convention are checks on anarchic impulse, lust for power
+- Trying to introduce morality into American life
+- Point to 62-63 when the SC rules that states cannot require prayer in school as part of separation of church and state
+- A sense of embracing fundamentals because they are being lost; liberals are taking down conventional morality
+
+John Birch Society (1958)
+- Intensely anticommunist
+- Important fringe on the right starting in the late 50s
+- Won't grow to have that many members, 100k at its height in 1963, a lot in the south and through the sun belt
+- Far-right-wing group which as at its core intensely anticommunist and deeply evangelical-Christian
+- Promoted some really wild conspiracy theories about America and liberals in particular
+- JBS said that Eisenhower had seriously been a communist and other sorts of far-right ideas
+- Some conservatives worried that JBS was too nutty, but many embraced what JBS was able to do
+- Do a good job nevertheless pushing the tenor of the conversation further to the right by making spurious associations
+- Segregationist, anti-liberal, anti-communist platform
+- Orange County, California -- ~40 chapters of the John Birch society
+- Heavy presence in the sun belt -- California, Arizona, etc.
+
+Popular Conservatives
+- Conservatives feel an anxiety about poor representation in media
+- Jojhn Wayne, *The Alamo* (1960) -- conservatism behind the Alama fighting the liberals (the Mexican Army) -- stand your ground against onslaught
+- Ronald Reagan
+- Pat Roberson, the *700 Club*
+
+William F. Buckley Jr.
+- The *National Review* -- publishing religious ecumenicalism, anticommunism -- articulating a new right position
+- The *Firing Line*
+- Has many folks on, fairly entertaining and interesting -- a time in which civility was respected
+- Earlier in carrier, sticked to a strong segregationist and racist stance, although steps sideways in the late sixties
+	- Blacks should not vote b/c not 'as far up the civilization as whites'
+- Universal suffrage is a liberal trick
+- Naturalizing ideas about race -- God, nature, etc.
+
+Young Americans for Freedom
+- Support Goldwater in 1964
+- Supporters of William Buckley and Ronald Reagan
+- Believe in the idea of the free market and its connections to persaonl freedom, limited government
+- Become a kind of insurgency in the Republican Party, moving it in the way that they want it to go -- departing from the Eisenhower tradition. Getting more politically active.
+- By 1962, 175 chapters and 20k members, enough to shape policies in some places
+
+Origins of the current conservative/liberal divide
+- Irving Kristol, Daniel Bell (important), Daniel Patrick Moynihan
+- All guys who were part of the left but now in the 1960s in the time of prosperity, feel that the government should recede into the background and become the neocon intellectuals.
+- *The real cold war has begun* -- Irving Kristol
+- "Cultural wars"
+- Liberals identified as a main threat to the world
+- A number of gains in 1966 -- won many seats in conference after Johnson had done pretty well in 64 and 65 in Great Society Legislation, but is very difficult later on
+- Reagan is governor of California and moves UC system from taxes towards tuition based college system
+- The right saw the left as much more unified than it was
+- Formation of a coagulating coherent whole
+- Many future influential conservatives get their start in this cohering conservative ideology.
+
+Sum Up
+
+The New Left and the emergent right helped to redefine politics for the 
+coming decades though as the New Left fractured into many liberation 
+movements, the Right cohered around key issues and tactics.
 
 

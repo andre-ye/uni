@@ -69,22 +69,78 @@ HSTAA 465
 - In light of growing civil libertarianism, Rawls rethought the individual as an agent -- disconnecting agency from redistribution. Dissent is in fact not necessarily incompatible with stability (5)
 - **Obligation here was bsaed on the fairness of rules, and if all play the game... each has a duty not to take advantage of the complicance of others" (7)
 - Prioritizing stability does not mean succumbing to conservatism
-- 
+- Rawls rises to the challenge to find why disobedience is necessary not only because of conscience alone: fair play can bge the basis of a theory of obligation
+- Segregation in the South: Blacks as being denied human rights vs not recieving fair benefits
 
-page 8
+> Blacks were not receiving the benefits of participating in a practice as whites did, and so, like other minority groups  disadvantaged by laws (religious groups were another example), they were released from duties of fair play and the obligation to obey unjust laws.  p. 9
 
-page 6
+- Society as a cooperative practice
+- Civil Rights did not feature centrally in Rawls' account of obligation
+- Rawls initially set forth a very high bar for legitimate protest
 
+Attack on liberalism in the 1960s
+- Gramsci: appearance of consensus is a function of ruling-class hegemony
+- Radical ideas and turns away from liberalism
+    - Civil disobedience as a way for citizens to educate each other on obligations
+    - Rejection of consensus theory and liberal view of obligation and consent
+    - Few people give actual consent needed to ground obedience to law. Sever obligation from consent
+    - Setting forth limitations on what philosophy can do (Pitkin)
+    - Anathema to liberals -- Rawls aims to redeem philosophy in a certain sense
 
+The Draft
+- December 1966, Rawls wants to condemn 2S deferments for students
+- Conscription needs to be distributed fairly; the risks of war should not be inequitably shouldered by the less privileged.
+- Rawls advocated equal subjection to universal conscription
+- Looking beyond distributive concerns to the legitimacy of civil disobedience
+- Conscientious objectors -- reformulation of conscience in secular terms
+- Civil libertarian approach to civil disobedience: Civil disobedience should only be taken if there is no legal option
 
+Michael Walzer
+- New approach to obligation which straddles legal and philosophical debates
+- "Harvard School style" use of history and psychology in making normative arguments, reflects postwar emphasis on psychology
+- Critique of the old left, commitment to group life
+- Looked at consent -- "with its impersonal administration, its equality before the law, citizens are nameless aliens for whom self-government was more fiction than reality" (p. 16)
+- For Walzer, consent theory is dead; Rawls instead tied obligation to state benefits, but these are negative duties, i.e. do not do this or nthat, not active obligations
+- Walzer: it is consent which makes the government justice
+- Consent theory is Walzer's way of allocating agency -- consent as comitment to other people, principles, parties. Obligations are owed to citizens and small groups of social life.
+- Modern citizens do not give full consent to the state they are alienated from and therefore are not obligated to serve
+- Rawls' "interpersonal, pluralist life" -- p. 17
+- Virginia Held -- civil disobedience as a highly individual form of action
+- theorizing resistance beyond the traditional factory strike
+- Walzer: the police are not entitled to act against men who violate the laws of the state solely to challenge the authority of the corporation
+- Walzer: an undemocratic state cannot command obedience
+- Debate about dissent took a conservative turn after the violent turn in the mid to late 60s: civil disobedience as the destroyer of democracy
 
+> The moment when political theorists tried to justify a broad range of dissent did not last long. As the democratic, pluralist, and New Left visions of dissent came under attack from the right, liberal philosophers introduced their own account of civil disobedience. p 21
 
+A New Liberal View and the Conservative Turn
+- 1969 -- SELF, begin to look at justice theory to replace natural law
+- Crystallization of legal perspectives in philosophy from Rawls -- translation from philosophical/political to legal problems
+- 'Justice' can be adopted to address political problems and replace intuitionism
+- Is there a legally protected right to civil disobedience?
+- 1960s, civil rights proesters often defined civil obedience in a convenient way
+- Civil Disobedience as a duty of citizenship, improving the state, testing unjust laws
+- The importance of being willing to 'pay the penalty' -- a constriction of the definition of civil disobedience
+- A conservative turn: Nixon's law and order campaign.
+    - CD as a threat to stability
+    - Acceptance of constitutional system as fundamewntal to citizenship
+- The left rejected 'pay the penalty'
+- Finer delineation of theories of obligation by moral and political philosophers -- departing from fair play model of rule breaking to experiment with more principles and find a middle ground
+- 1969 -- Rawls publishes account of civil disobedience; injustice of laws is not enough to justify obedience; it must be justified by moral principles which define a conception of civil society and the public good. Accepting democratic society means being compelled to follow some unjust laws.
+    - *Civil disobedience seeks ot restore what really matters -- stability of the basic structure*
+- Rawls shifts from fair play argument to 'natural duties'
+- Civil disobedience had to be nonviolent and an appeal rather than a threat. Coercive disobedience as terrorism. 
+- Racial liberalism
+    - Aim of black freedom struggle is reconfirmation of the American creed
+    - (Rawls & William Buckley in Buckley v. Baldwin?)
+    - "Participants in the civil rights movement merely demanded a chance to be included in a game that was nearly fair" p. 29
+- A giving up of economic justice -- lawbreaking in the name of redistribution is not justifiable
+- Rawls' "romantic vision of civil rights"
+- Transformation of Rawls' thought in the sixties: more constitutionalist and civil-libertarian view of state power
+- Still grasping at the hope for consensus
+- Rawls: philosophically cementing firm, legal boundaries, cautiously policed.
 
-
-
-
-
-
+Lots of good stuff on Rawls' thought on political action and the broader liberal tradition in the last few pages of this chapter
 
 
 

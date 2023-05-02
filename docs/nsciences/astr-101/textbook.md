@@ -1116,6 +1116,31 @@ Approaching Death
 
 ## Chapter 23: The Death of Stars
 
+### 23.1: The Death of Low-Mass Stars
+- Stars whose final mass is less than 1.4 $$M_{Sun}$$ -- most stars in the universe are like this
+
+A Star in Crisis
+- The core of a star undergoes an energy crisis in which helium is exhausted and there is no source of pressure to counterbalance gravity
+- Star mass is low and it cannot push its core temperature high enough to begin fusion. The core continues to shrink; at extreme density, the star takes on new behavior and achieves final equilibrium as a white dwarf
+- White dwarfs are very very dense. Gravity is very strong and shrinks the star further, but electrons resist being pushed closer together.
+- No two electrons can be in the same place at the same time doing the same thing
+- When a star's core contracts, it becomes so dense that it would require two or more electrons to violate the Pauli exclusion principle
+- Electrons in a degenerate gtas resists further crowding
+- Degenerate electrons do not require an input of heat to maintain the pressure they exert; it can last essentially forever
+- The dying star has atomic nuclei; nuclei must be squeezed to much higher densities. So nuclei do not exhibit degeneracy pressure.
+
+White Dwarfs
+- White dwarfs are stable, compact objects with electron-degenerate cores which cannot contract further
+- White dwarfs are the likely end state of low-mass stars
+- The radius of a white dwarf shrinks as mass increases; a white dwarf with a mass of 1.4 the sun has a radius of zero; even the force of degenerate electrons cannot stop the collapse of such a star. 1.4 times the mass of the Sun is the Chandrasekhar limit.
+
+The Ultimate Fate of White Dwarfs
+- The birth of a mains-equence star is defined by the onset of fusion reactions
+- End of fusion reactions is the time of a star's death
+- White dwarf -- ceasing of nuclear fusion in its interior
+- A stable white dwarf's only energy source is the motions of atomic nuclei in its interior, and it slowly radiates all of its heat into space.
+- It eventually becomes a black dwarf -- a "cold stellar corpse"
+
 ### 23.2: Evolution of Massive Stars -- An Explosive Finish
 - Stars beginning with masses at least 8 times the mass of the sum end up as white dwarfs
 - what about 150x $$M_{Sun}$$? 
@@ -1149,6 +1174,33 @@ Synthesis of Heavy Elements
 - SN 1987A helped us confirm theories about heavy element production
 - Decay of radioactive nickel and cobalt
 
+### 23.4: Pulsars and the Discovery of Neutron Stars
+- After a type 2 supernova explosion, all that is left behind is a neutron star or a black hole
+- Neutron stars are the densest objects in the universe
+  - Interior: 95% neutrons
+  - A neutron star is a giant atomic nucleus 
+- Diameter of a neutron star is the size of a small town
+- Neutrons make their presence clear even across large areas of sapce
+- 1967 discovery of reglar pulses of radio radiation 
+- Pulsars: pulsating radio sources
+
+A Spinning Lighthouse Model
+- Pulsars are spinning neutron stars -- you see a pulse of light every time the beam points in your direction; radiation sweeps across space
+- Neutron stars can turn very rapidly due to conservation of angular momentum
+- Neutron stars can complete a full spin in a fraction of a second
+- A magnetic field becomes highly compressed
+- MIsalignment of rotational axis with the magnetic axis
+- Crab Nebula pulsar is gradually slwoling down
+
+The evolution of pulsars
+- One new pulsar is born in the galaxy every 25-100 years
+- Lifetime of a pulsar is 10m years
+- Pulsar beams might miss us
+
+### 23.5: The Evolution of Binary Star Systems
+
+### 23.6: 
+
 ---
 
 ## Philosophical Relevance
@@ -1163,3 +1215,4 @@ Personal notes
 - Lunar eclipse: anyone who can see the moon can watch it be eclipsed by the ground they stand upon
 - In the discovery of Pluto, initially it was thought that a mysterious body must have been influencing Neptune because of reported anomalies in Neptune's path. However later it was shown that Pluto could not have influenced Neptune and that these recording anomalies were likely false. This is a sort of negation of proposition which in turn renders a positive result.
 - Sublimation -- from solid to gas. 
+- Recursive composition, fusing, etc. in the growth of a star

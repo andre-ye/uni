@@ -566,7 +566,114 @@ Question
 - Does Husserl merely argue that we can recognize other egos outside of our 'concrete ownness', or further that we need other egos to adopt the natural attitude?
 - How 'big' is the ego-community?
 - Virtual machine example
-- 
+
+---
+
+## *Max Scheler: A Concise Introduction*, Manfred Frings
+[Internet Archive Link](https://archive.org/details/maxschelerconcis0000frin/page/n11/mode/2up){:target="_blank"}
+
+### Chapter 3: Emotional Spheres
+pg. 49 in book, pg. 48 in Internet Archive book
+
+Feeling and Feeling States
+- Scheler criticizes Kant's *a priori* -- connection with the formal
+- The whole of spiritual life has pure acts independent of physical existence
+- Ethics must reveal the a priori of spiritual life which is not logical / rational at least in becoming known
+- Logical principles are not emotional acts
+- Kant excluded feelings from ethical investigation
+- Reason vs sensibility -- a division which comes from Greek thinking, but Scheler rebels against this
+- Are there at bottom "alogical autonomous acts" of pure intuition
+- A-priori-ty of the emotional
+- What are the spheres of the emotional?
+  - English vs German -- different complications
+  - Feeling -- can be a state of feeling (illness, health, weakness) or a feeling of a state of feeling
+  - Feeling can be understood, but feeling-states can only be stated
+  - There are many individually different feeling-states, which are connected to the 'lower strata' (elementary dimensions) of the ego
+  - Feelings break out of such elementary dimensions and make for satisfaction when their intentions are fulfilled.
+- Two techniques to understand one's response to suffering: to feel suffering such that it lessons (exterior fight, typical of western civilization, resitance); vs. suspending suffering with ultimate patience (Eastern and Russian)
+  - External heroic vs inner-psychic
+  - Different medicinal techniques
+  - Feeling a feeling-state is a socially and historically situated action. 
+  - Feeling-states *are*
+- Four strata of feeling-states
+  - Physical -- are local on the body and are never a function or act, fully located in the temporality of the body
+  - Body or vital -- not so changeable, but still fundamentally organic, all animals have these, deeper than physical feeling-states. **This is the level of feeling others, of reproduced feeling**
+  - Psychic -- removed from willful control -- direct qualities of the ego, related to objects of the environment; are shareable, not only within the subject itself, can be re-felt and participated in (sympathy)
+  - Spiritual -- no willful control -- directly from a person's cure ("pangs of conscious"), absolute. Not dependent of willful intentions at all.
+- Inter-emotional experience:
+  1. Community of feeling
+  2. Fellow-feeling
+  3. Psychic contagion
+  4. Emotional identification
+- Physical feeling-states reveal themselves as dead states, but virtal feeling-states have an intentional character
+
+Reality and the Types of Inter-Emotional Experience
+- To be a human person implies an essential relation to the other
+- Man is both being-self and being-with: individual and social
+- thou is given prior to the I -- no ego without we; experiencing thou is an experience of a reality
+- Four spheres of reality, not reducible to each other:
+  1. Sphere of the absolute nad holy, givenness prior to direct immediate reality
+  2. *Mitwelt*, with-world: togetherness with others, thou-I and we-experience; we-experience is prior to the ego who only knows itself within the we. "Thou-ness is the most fundamental existential category."
+  3. Experiencing of external and internal reality; external precedes internal; resistance and suffering of exterior reality
+  4. Sphere of external dead bodies
+- Man's spiritual development reflected: a child's world is a live object, and dead objects are experienced as alive objects by children
+- Primitive man has an organistic world
+- Aristotelian view of nature precedes a view of nature determined by scientific concepts of theoretical physics
+- thou-I gives rise to sympathy and emotional relations to the other
+- Feeling-in-common vs causally-related-feeling
+  - A community of feeling of sorrow cannot be reduced to individual feelings
+  - Parents grieving a dead child become a unified subject of sorrow
+  - Fellow-feeling: intentional towards the sorry of the parents; not feeling-with, but feeling-feeling; others' feelings as an object of understanding
+- Psychic contagion -- no intentionality towards someone and no active participation in someone else's feelings. We do not know what we are emotional about -- a curious infection takes place which combined into a self-generating psychic atmosphere; dissolved / undistinguished intended object. Mobs of mass-emotion; disappearance of personal responsibility, decrease of intelligence, readiness for submission
+- Emotional identification between one's ego and another's ego -- the ego dissolves into the other (heteropathic) or takes the other into its own (idiopathic), and no individual consciousness. Or for sex: a connectedness, a stream of instinct
+- Civilized man looses his capacity for identification
+- Some knowledge can only be acquired through emotional identification
+- Modern man has lost the sense of the supernatural and replaced it with faith through emotional identification
+- Advance of intellectual capability implies a decline in emotional power or capacity of identification -- civilization is both progress and decay
+- The future for Scheler: increasing integration of rational and emotional spheres
+- Fellow-feeling implies intentional reference to feeling-state and cannot have relation to physical or virtal states but rather spiritual and psychic ones
+- Psychic contagion takes origin already in physical feeling-states
+- Emotional identification takes origin in the vital sphere. 
+- Some feeling-states are "dead" in that they cannot be felt in and by someone else
+- Psychic contagion is related to all feeling states and is the strongest inter-human emotional phenomenon
+- pathos -- suffering
+
+### Chapter 6: Nonformal Ethics of Values
+p. 102
+
+The Historical Place of Ethics of Values
+- Scheler is basically not mentioned at all in American ethics, for inexplicable reasons. English translation of Scheler's ethics is highly overdue.
+- Insufficient stress of language requirements at the universities
+- 1913 -- milestone in European contemporary philosophy
+- Phenomenological method applied to values
+- Great respect for Kant but a desire to go beyond Kant
+- Main presuppositions
+  1. Reason is of constant organization thruoghout changing history
+  2. The a priori does not pertain to experience
+  3. The a priori only pertains to the formal
+  4. The equilization of the material with the sensible and the a priori with thought of reason
+  5. Moral acts of love and hatred lead to deviations into empiricism and the sensible
+  6. The a priori rests on a synthetic activity of subjectivistic nature
+  7. All non-formal ethics are necessarily ethics of goods and purposes and therefore of a posteriori validity
+  8. All non-formal ethics is hedonism
+  9. All non-formal ethics is heteronomous; only formal ethics autonomous
+  10. Only formal ethics can give the foundation of the dignity of a person
+  11. All non-formal ethics must place the foundation of all valuations into the egoism of human nature as a natural drive. Only formal ethics can establish a formal universal moral law independent of man's being.
+- Kant's alternative is overcome by a nonformal but absolute ethics of values
+- Moral judgements rely on: moral acts are always in relation to other persons' interests
+- Different moralities all have an unconditional claim for moral validity, but this is only an expression of the particularity of a moral attitude
+- Ethics: has the task of discovering the a priori insight which universally obliges
+- Moralities are historically situated; there is a higher unity of ethics -- not about recommending particular morals but rather to understand universal rules
+- Three questions of 'straight' ethics
+  - The highest good? It seems like rational deliberation has not gotten us far here.
+  - Morally correct acting? There are also differences but the goal of determining the answer is basically the same; reveal intuitive cognition of values; values are immutalbe ideal objects realizable by people. Utilitarianism: men strive towards and by their natural disposition towards ertain tyeps of happiness. etc. etc.
+  - Free will?
+- Ethical systems have different points of departure but the ultimate objective of ethics perhaps remains constant
+  - A lot of disagreemetn comes fundametnally from a poor distinctionb etween ethics as *study of morality* and a morality
+- Non-formal ethics deals with ideas across history and their associated phenomena milieu -- the whole of man is object, part of a philosophical anthropology
+- Scheler -- all questions of philosophy ultimately reduce themselves tot he question of what man is.
+
+Phenomenological Givenness in Intentional Feeling
 
 ---
 

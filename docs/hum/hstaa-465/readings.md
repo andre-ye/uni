@@ -761,3 +761,43 @@ Speaker 4: William Buckley -- **Against**
 - Possibly leading towards war and conflict
 
 Baldwin wins
+
+---
+
+## Document Collection #6
+
+### "Fine American Boys" to Antidemonstrate
+- "American" -- reaffirmation of identity
+- Usage of Bible, classic philosophy, etc.
+- "Noncontroversial" stand
+- Moderatism, faith in free speech as a means of deliberating and changing
+- Possibly condescending neutrality
+
+### Report of the National Advisory Council on Civil Disorders, 1968
+- Lyndon Johnson's 11-person commission on civil disorders to understand riots and policie sfor controlling them
+
+- July 1967 -- chain reaction (domino theory?) in neighboring communities
+- Nation moving towards two separate societies, black and white -- "separate but unequal"
+- Racial division was not inevitable; there is a choice to be made
+- Point is not to smother the cries of the oppressed, but a new commitment to the *nation*
+- Violence cannot build a better soceity, violence must be ended
+- Most white Americans are not aware of the black ghetto and their involvement in it: "White institutions created it, white institutions maintain it, and white society condones it"
+
+### The National Organization of Women, 1966 Statement of Purpose
+Written by Betty Friedan
+
+- True equality for women, full equal partnership -- revolutionary language for equality
+- Movement beyond mere abstract debate towards concrete action
+- Technology has played a large part in 'liberating' the woman, and it is in fact now when women must participate in these fields of soceity opened up by technology
+- Working women are becoming more concentrated at the bottom of the job ladder. Few women get degrees. Women occupy few jobs of importance to society.
+- Commissions only have power to advise; they should be involved in enforcing them. 
+- Black women are victims of 'double discrimination'
+- Civil Rights movements do not speak for womens' cause
+- Believe in the power of the American law and effective application
+- Intersectional perspective
+- Do not accept 'token appointment' -- demonstrative positioning
+- Possibility to innovate new *social institutions* -- America in fact lags behind the rest of the Western World in Europe (interesting play towards nationalist zeal).
+- Education as a important ground for equality
+- Man must not carry the sole burden of supporting himself, etc. -- there needs to be a partnership between the sexes.
+- Independence from a political party
+- Women must speak out on behalf of their own equality and dignity, not for special priviledge but rather to dismantle the significance of sex altogether into a partnership.

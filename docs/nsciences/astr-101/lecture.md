@@ -385,22 +385,45 @@ ASTR 101
 - H-R: spectral type against luminosity
   - Less massive to most massive: bottom right to top left
   - Smaller to larger: bottom left to top right
-  - 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Week 6 Monday -- Dwarfs, Giants, and Gold
+- How do we know how th sun works? By studying other stars, lookingat the main sequence -- explain relationship between temperature and brightness
+- Internally, all stars are turning hydrogen into energy such that mass correlates with luminosity
+- Properties of the main sequence
+  - Why are there bounds on the stars?
+  - Light coming out of some stars are so intense that you can't make them bigger: so bright that they are basically falling apart, they lose mass instead of gaining it because they're too bright -- they fall apart, self-limiting. Have more gravity but the excess of light overcomes this.
+  - At the low mass end, collapsing protostars are not massive enough to generate core pressure needed for fusion.
+  - 8% of the Sun's mass or less -- not enough gravity to make fusion happen.
+  - Brown Dwarfs
+  - Main sequence stars stay the size they have because fusion pushes back gravity. If brown dwarfs don't have fusion, how do they resist gravity? Why don't they collapse?
+  - Degeneracy pressure
+    - So far, talked about gravity, radiation pressure of light, thermal pressure of heat
+    - Degeneray pressure only comes out in specific situations, tied to subatomic properties of particles. For many types of particles
+    - Electrons need their own 'chair'; you can't stack them in the same space at the same time
+    - Gravity crushes the brown dwarf until electrons start 'running out of chairs' and start moving faster, having higher energies than the temperature would suggest. Electrons are forced into higher energy states. When degeneracy pressure comes in, things begin moving beyond temperature. These particles insisting on having their unique space creates another source of energy
+    - Pressure
+    - Stars end up freezing to death in spaces and emptyiness
+  - At a very high temperature, you can fuse Helium into carbon, which is slightly more massive and releases some energy -- $$10^8$$  k degreeses needed
+- Once the core starts fusing carbon, it stops collapisng because the core stablizies -- there's new information 
+- Core stops shrinking
+- horizontal branch in the top left -- turning helium into carbon in their cores. More decidedly 
+- Helyium into carbon, hydroge  ijnto helum*. This is where we reach a major inlecition point'. How massive was the staros tarts are less
+- Dont have anything to dow tih planets
+- While the star is losing its atmosphere out into space, the carbon core continues to shrink under the voice of gravity until finally electron degeneracy pressure -- the same thing that holds up brown dwarfs comes into play -- the carbon-rich core becomes held up by electron degeneracy ppressure. 
+- What aboutt he O type stars whicha re bigger than 8 x star mass?
+- Gravitational paper on carbon-rich core allows for the fusion of higher eleemnts
+- Becuase of all this external emergy, outer atmospheres cool off, etc. -- go through red giant phase, except they are so bright that we call the supergiant stars.
+- THe sun could lose a lot of its energy mass -- stars look a 10t o 90 percent of their ttoal mass to avoid it fro the very hot inside'- Stability continuous. Fution inside the core is working with more complicated elements. Iron consumes energy, it doesn't produce energy. Iron makes it harder for fusion to happen -- it consumes energy.
+- The core begins to build up a very distinct onion shell where deep in its shell you have  more and more complex astrmonomy -- an iron core with nowhere to go
+- $$p^+ + e^- \to n + v$$
+- iron core begins to shrink on itself and reaches mind boggling conditions.
+- Stops being iron, turns into neutrons, which releases a lot of neutrinos (energy in the form of neutrinos)
+- Core stops shrinking when the neutrons get so tightly packed together that degeneracy applies to them. However it still drops a lot of heat; the collapse superheats the neutron-rich core . Blows apart in the process of a few hours -- supernova
+- So energetic and violent that many bizarre fusion processes happen.
+- Produces a bunch of radioactive nickel which decays into gamma rays; produces a lot of radioactive light; produces large amounts of elements
+- We didn't know where the elements came from -- all of the elements come from the explosion
 
 
 
