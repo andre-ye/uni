@@ -665,3 +665,63 @@ Lecture stuff
   - Object: the multiplicites of noemata, cogitata, etc. of intentional acts (cogitationes) constituting a continuous whole -- retented, protended, intended into a whole. You do not experience synthesis an sich, but rather as a whole, as already synthesized. The synthesis is given. The total object is the world, as synthesized. To have a world, there is nothing outside of it -- there may be gaps, but those are just gaps. The extraneous is already synthesized as extraneous. There is for Husserl the world as total object, constant passive synthesis of which there can be other syntheses. Even when something new happens, it's not that you're new -- it can be synthesized in your world (or not!) -- the horizon or horizons is world as such where there is constant ongoing passive synthesis where even what is unexpected can be integrated into this synthesis -- a baby suddenly crying is startling but it is still within your world -- not so radical that you couldn't experience it
   - Subject: unity of acts and their respective contents as acts of a singular, unified consciousness. One is conscious not only conscious of the intended but of oneself *as* an intending whole. How do I know that when I watch a movie I am not just re-experiencing a movie which someone has already put in my head? But I still experience the unity of the movie, regardless of its source. This is synthesis on the side of the subject, and this is apodictically given. It is given regardless of its source. The ego is the unity of experience as given.
 - Passive synthesis vs active synthesis -- acts of judgement (active), separating of predicate from subject and reuniting them. Forming teams is an active synthesis -- you can talk about nations, teams, etc. and habitualize them. Passive syntheses in some sense presuppose an active synthesis. How do you know that this really is the circle? Where did you get the original idea of a circle from?
+
+---
+
+## Week 6 Tuesday -- More Cartesian Meditations, 4 and 5
+- Is intending constituting?
+- Analysis -- resolution into more constitutive parts
+- Phenomenological description & analysis -- distinguish things, but concretely are different aspects of the same thing in experience
+- Any object which is intended is constituted through that intention, but intentionality is not exactly the constitutive dimension of the act. 
+- Longeran: consciousness vs intentional -- you can distinguish between conscious and intentional
+- Part of what Husserl is indicating when he has ego-cogito-cogitatum. Cogito is the intentional act, but ego is the consciousness of the act implicit in the act. 
+- Ego-cogito-cogitatum as known in act, one reality -- phenomenology is the new method by which you can distinguish between elements in the act which are experienced as one.
+- Not only are the cogitatum given in experience, but also the acts 
+- Acts are happening all the time, but we're not paying attention to them -- we're paying attention to the object
+- Are we actively synthesizing different parts? Are there separate consciousnesses for each of these acts? Experience of a unitary phenomenon of one consciousness
+- You've constituted not only the object but also subject
+  - You experience yourself different when you understand a question and when you are understood
+  - Beyond merely understanding, we can ask questions about truth -- the seeking of verification
+  - The feeling of confirmation makes you anew
+- There's not just 'the consciousness of the object' -- you're conscious of it as merely seen, as understood, as questioned, etc. -- consciousness itself always takes on a certain quality, a certain feeling, even flavor. 
+- It's the same object that you see that you then understand -- this object is a unity that you intend throughout a succession of acts.
+- "Conscious acts are not so much disparate acts of knowing, but coalesce into a single knowing" -- approx. Lonergan
+- Consciousness is much more of the unity of diverse acts than of diverse acts itself; the consciousness of diverse acts comes through analysis
+- You perceive trhough your acts
+- The unity of consciousness -- a spontaneous unity to the acts as given *in experience*
+- If it wasn't given in experience, it would have to be postulated -- to explain how we could be conscious of unitary objects, we need to postulate a Kantian unity outside of consciousness. But for Husserl, part of the reduction is you realize that you are the projector in the sense that you intend the object consciously in experience
+- Husserl vs Kant -- you don't have to postulate the unity of consciousness, *it is given in experience*
+- How do you really hear a melody, constitute from unitary experience a unitary object?
+- You don't have to have this Cartesian anxeity -- I hear the music, is there really a band out there?
+- Evidence is experience in a maximally broad sense; all that which is given in experience is evidence.
+- Synthesis has an objective and subjective pole  
+  - All constitution is synthesis
+  - Husserl -- you can come to understand how you link two things together as cause and effect -- a synthetic and a unitary experience
+  - On the side of the object, percieving both what is given and what is cointended -- infinity of harmoniously combinable experiences
+  - Correlative synthesis in the ego / subject -- quality of being of one consciousness, one ego -- no neeed to 'belatedly' unify -- already unified
+- Actuve genesis: Active genesis, the ego is productively constitutive, when you first constitute an object 
+- Synthesis and genesis -- kind of used interchangeably by Husserl, generating the melody in your experience
+  - Synthesis is the generative thing, and in that sense it is a genesis
+- Eidetic reduction
+  - We raise the eidos of pure object up to pure possibility
+  - Husserl is fixated on eidetic reduction -- it's tied into Husserl's traditional view of what science is -- of the universal and the necessary
+  - Phenomenological epoche reduction -- all of those natural sciences contend to be universal and neccessary (since Aristotle) becuase in some sense this is true in the qualified sense
+  - Scientific revolutions -- what we thought was universal turns out not to be so universal -- contingent as opposed to necessary, we don't have as high expectations. But we cannot develop a scientific conception of the contingent as contingent
+  - Husserl -- we've bracketed what natural science has -- we can now see the true universal and necessary dimensions
+  - The eidos-ego: Husserl is stuck b/c he wants to retain a traditional view of the sciences but doesn't know where to find it except through this process of eidetic reduction because it cannot be given through the natural sciences. 
+    - e.g. Newton's laws are not necessary and universal.
+  - Preoccupation with eidos which goes back to the greek conception of the form
+  - This process of the eidso, learning to precede -- begins with an initial bracketing of the natural attitude. In suspending judgement, we relate to all objects as just possible in some sense
+  - Eidetic reduction -- you can intuit an eidos itself
+  - The eidos-ego correlative to the eidos-object -- we are the same consciousness in some sense when we contemplate a circle
+  - Fundamental ambiguity for Husserl -- object as infinite horizon vs object as flash of insight
+- Phenomenology is a highly purified empiricism "and it did not take long for it to tip over into an existentialism" -- Lonergan
+- What do we actually experience? Sartre and Scheler talk about *facticity* -- what do we experience, and do phenomenologies of this
+- Husserl's last-ditch attempt to save universality, pure ego seeing pure object -- but what does this have to do with our lived experience?
+- Husserl seems to run into a dead end, but there is still so much for us to take on.
+
+5th meditation
+- You experience yourself as an ego with a body -- these are given to you in experience; you can experience it whether or not your mind really interacts with your body
+- You experience yourself as governing your actions whether or not you 'actually author your bodily movements'
+- All you are given directly in experience is the body of the other -- just as ego is to body, the other ego must be to the other body. 
+- You simultaneously eperience the other ego as unexperiencable, and the primary sense of other ego; and from there all senses of the other derive.

@@ -638,6 +638,14 @@ Reality and the Types of Inter-Emotional Experience
 - Psychic contagion is related to all feeling states and is the strongest inter-human emotional phenomenon
 - pathos -- suffering
 
+Main Points
+- Scheler criticizes Kant's *a priori*, a formalistic account of spiritual life and feeling; instead, Scheler adopts a nonformal approach, in which the whole of spiritual life is independent of the 'worldly' embodiment of man.
+
+Questions
+- If to be 'nonformal' is to be 'material', then in what sense is Scheler really being nonformal?
+- On what basis does Scheler ground his categorizations? How 'real' are they?
+- Scheler says that the "thou" or "we" precedes the "I". Is this in departure from or in agreement with Husserl's ideas on intersubjectivity?
+
 ### Chapter 6: Nonformal Ethics of Values
 p. 102
 
@@ -674,6 +682,26 @@ The Historical Place of Ethics of Values
 - Scheler -- all questions of philosophy ultimately reduce themselves tot he question of what man is.
 
 Phenomenological Givenness in Intentional Feeling
+- A priori of the emotional -- intentional obbjects of feeling, values
+- *Values are given to intentional feeling immediately*
+- Values can be clear even when the object referred to it by it is obscure
+- Values always antecede -- the apriorism if value-feeling is independent of the object-world
+- Value sare not qualities of things -- values cannot be reduced to common properties
+- Values always exhibit a specific content; emotive a priori is non-formal (material)
+- Values are indepedent of being, even though being is in a sense prior to values
+- Assault on all ethical relativism which reduces values to historically changing life conditions
+- Values can be either positive or negative
+- Each group must find its own relative system of goods and norms -- there is no universal form of ethos
+
+Emotive Axiology: The Graded Realm of Values
+- A priori order among values in non-formal ethics
+  1. Sensible values -- agreeable to disagreeable, sensible feeling with enjoyment and suffering, pleasure and pain. Agreeable preferred over the disagreeable by their essences. Rejection of an evolutionary theory. Symbolic values
+  2. Values of life -- virtal values. Noble, vulgar -- good, bad. Relating to well being
+  3. Spiritual values -- vital values ought to be sacrificed for spiritual ones. Love, preferring, hatred.Phenomenologically different from vital functions. Irreducible to biologicality. More: beauty, uglyliness, right, wrong. Truth is not a value. 
+  4. Holy and unholy -- only for objects pertaining to the absolute. 
+- A value is enduring when it has an essential 'ability to exist through time' -- temporal invariability
+ 
+p. 100 in PDF
 
 ---
 

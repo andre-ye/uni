@@ -1198,8 +1198,57 @@ The evolution of pulsars
 - Pulsar beams might miss us
 
 ### 23.5: The Evolution of Binary Star Systems
+- 'Single star chauvinism'
+- At least half of stars develop in binary systems
+- The presence of an orbiting star can have a large influence on evolution
+- Stars can exchange material, especially during swelling -- mass transfer can be dramatic
 
-### 23.6: 
+White Dwarf Explosions: The Mild Kind
+- Fresh hydrogen accumulates on the surface of a hot white dwarf from a star system; the new layer reaches a demperature which cuases fusion and blasts the material away
+- White dwarf becomes very bright
+- White dense dwarf is itself quite unaffectde by the explosions *on its surface*
+
+White Dwarf Explosions: The Violet Kind
+- If a white dwarf accumululates mass from a c ompanion star much more quickly, it can get pushed over the Chandrasekhar limit; nuclear reactions begin in the degenerate core; a bunch of fusion happens at once and there is a huge explosion; the white dwarf is gone
+- This explosion coutns as a supernova -- produces a lot of energy in a very short time. 
+- There is no remnant unlike explosions of high-mass stars -- these are type 1a supernovae
+- Type II supernovae originate from the death of massive stars
+- a means strong silicon absorption lines -- silicon results from carbon and oxygen and means there was a sudden fusion of carbon and oxygen
+- How else can 1a supernovae emerge? Carbon and oxygen meat absence of hydrogen in the spectrum
+
+Neutron Stars with Companions
+- A binary system can survive the explosion of one its members as a type II supernova, in which case an ordinary star shares a system with a neutron star
+- The radius of a neutron star decreases as more mass is added
+- Milisecond pulsars can form from material being transferred to the neutron star
+- Some binary systems have two neutron stars and alter each other's orbit
+
+Summary
+- Core mass less than 1.4 $$M_{Sun}$$ end up as white dwarfs
+- Core mass between 1.4 and 3 $$M_{Sun}$$ become neutron stars
+- Core mass greater than 3 $$M_{Sun}$$ become...
+
+
+### 23.6: The Mystery of Gamma-Ray Bursts
+- Gamma rays -- most energetic form of electromagnetic waves
+- Gamma rays are distributed isotropically.
+- Where do bursts come from?
+
+The First Afterglows
+- Our instruemtns cannot pinpoint the exact place where gamma ray bursts are happening -- not enouhgh resolution
+- Gamma ray bursts really are very energetic objects from far away in distant galaxies. 
+
+To Beam or Not to Beam
+- In order to produce as much energy so quickly so far away
+- Some radiation is concentrated in one or two directions
+
+Long-Duration Gamma-Ray Bursts: Exploding Stars
+- Gamma ray bursts -- short and long
+- Extra energy is the collapse of the star's core from spinning
+- Sudden collapse is complex and produces a lot of radiation very quickly into a narrow beam.
+- Merger of two complact stellar corpos. 
+- Kilonova
+
+Short-Duration Gamma-Ray Bursts: COlliding Stellar Corpses
 
 ---
 

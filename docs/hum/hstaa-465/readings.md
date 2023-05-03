@@ -801,3 +801,49 @@ Written by Betty Friedan
 - Man must not carry the sole burden of supporting himself, etc. -- there needs to be a partnership between the sexes.
 - Independence from a political party
 - Women must speak out on behalf of their own equality and dignity, not for special priviledge but rather to dismantle the significance of sex altogether into a partnership.
+
+### *Slouching Towards Bethlehem*, Joan Didion, 1967
+- "The center was not holding" -- a sense of despair, absence, *cold*
+- US in the spring of 67 -- 'social hemorrhaging' -- missing children and hippies
+- Triumph over 'donts', doing don'ts
+- the fuck is a "middle-class Freudian hang-up"?
+- Runawaways -- children reclaiming authorities
+- Major problems from the police's perspective: juveniles and narcotic
+- "California is the beginning of the end"
+- Flowing in and out, the meaning of life -- real metaphysical angst
+- Golden Gate Park
+- Riot in the street, unless
+
+page 11
+
+## "Why I am Opposed to the War in Vietnam", 1967
+- America to hear the truth about the war
+- One cannot maintain neutrality in a time of moral crisis
+- There comes a time where silence is betrayal
+- The apathy of conformism
+- Conscience and the reading of history: a moving to a higher plane of diffense
+- A difficulty: some seek to equate dissent with disloyalty
+- Connecting Vietnam and the Civil Rights war
+- An emerging hope for the black and white poor destroyed by drawing into the Vietnam War
+- $500k to kill each enemy soldier; $53 for each poor person
+- War as an enemy of the poor
+- Guaranteeing liberties in Southeast Asia which they have not been granted in America
+- Using violence to solve its problems
+- King knows that he must speak against the violence of the government before the violence of the oppressed
+- Applause of the public media -- applaud on the Freedom Rides, at the sit-ins, so noble in its praise. The press is deeply wrong -- be non-violent towards Bull Conner, but not the Vietnamese
+- Christianity -- the best step to know the people and their cries in southeast Asia and Cuba
+- Supporting General Khahn -- fought with the French against the Vietnamese and praised Hitler.
+- Shifting from thing-oriented to person-oriented
+- Racism, militariam, economic exploitation
+- True compassion is not merely charity, but a revolution of values
+- Globalist capitalism
+- Western arrogance and paternalism
+- Spiritual death
+- The Western world has become the anti-revolutionaries
+- Recapturing of the revolutionary spirit
+- Eternal hostility to poverty, racism, and militarism
+- Ecumenical rather than sectional values
+- Loyalty to global mankind to preserve the best of individual societies
+- Dismissed by the Nietzsches of the world
+- "I oppose the war in Vietnam because I love America"
+- God stands before nations with judgement

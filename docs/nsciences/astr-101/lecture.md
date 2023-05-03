@@ -425,20 +425,55 @@ ASTR 101
 - Produces a bunch of radioactive nickel which decays into gamma rays; produces a lot of radioactive light; produces large amounts of elements
 - We didn't know where the elements came from -- all of the elements come from the explosion
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Week 6 Wednesday -- The Compact Corpses of Stars
+- What happens when a star leaves the main sequence and hydrogen in the core runs out?
+- Low-mass stars end their lives with a carbon-rich core and blow their stuff out into space in a planetary nebula -- it blows itself apart very gracefully over 1 million years
+- Higher-mass stars blow up in a day -- a huge explosion, very violent, such that very heavy elements are fused during the explosion itself. Most of the periodic table is made during these very rare and violent explosive events.
+- What happens after the explosions, after the planetary nebula phase?
+- Cores of stars -- what is left?
+- Brown Dwarfs: not main sequence stars. Supported from its inside by degeneracy pressure, the need for electrons to occupy their own space. This keeps gravity from crushing brown dwarfs into a black hole
+- What is the difference between a really small brown dwarf and a really large planet?
+- Degeneracy pressure doesn't go away -- an object held up by degeneracy pressure is basically always stable
+- The core which is left behind is held up by degeneracy pressure -- it is what supports the cores b/c there's no more fusion going on. 
+- Low-mass stars: the core stops collapsing hwen degeneracy pressure takes over and the carbon core is stable; this is a white dwarf. It has a very hot temperature, basically the exposed core of a star -- very hot
+- The escape velocity is the same as the free-fall velocity when you hit the surface
+- Sirius A and B -- A is a type-A main sequence star but b is a white dwarf, much brighter than A in X-rays
+- Globular clusters are older then open-type clusters
+- Globular clusters have many white stars -- the high-mass stars have died and some of the low-mass stars have died and turned into whie dwarfs
+- Whenever any object is held up by degeneacy pressure, it bgegins to obbey nonstandard physical laws. More massive such objects are, the smaller they are. 
+- How small can you make a white dwarf be? Once you get to 1.4 solar masses (Chandrasehkar Limit), the electrons are so small that extra velocity associated with pressure move at the speed of light and begin to behave in bizarre ways, and the degeneracy pressure becomes unstable and breaks down. 
+- In binary star systems a white dwarf can accrete matter from a red giant star. Material gets stripped away from the red giant
+  - Hydrogen building up on the surface can get so hot that it causes fusion, except it's happening on the surface of the white dwarf and not the input. It denotates across all of the white dwarf's surface in a few moemnts
+  - The white dwarf becomes temorarily much brighter -- *nova*
+  - Repeating nova occurrences -- small amount of mass, doesn't disupr the system itself, but gets very bright for a handful of days
+  - What isf a white dwarf was close to the Chandrasekhar limit and absorbed enough matter from a binary star to pull it in?
+  - At the Chandrasekhar limit, degeneracy pressure fails, it shrinks, the temperatue rises significantly
+  - 600 miillion degrees: fuse iron into other places. Hydrogen fuses into more complex aras. 
+  - What dwarf detones, leaving tothing behind, because it sblows up -- it shrinks, heats up, and goes off as a bomb
+- So bright that the hriewdraft look slike no='- White dwarf - 
+- Are type A1a supernovas we see simple or complex? Do they grow slowly or quickly
+ - 1.4 solar masses worth of carbon fuses and beats itseif up -- the smae thing repeats everyt ime.
+ - There is a physical similarity between all the commonality vs black and white
+ - Finding the distance to one supernova helps to know th
+- White dwarf supernova are as bright as th o-=overall type of pretty much at work
+- You can know theyir idd==distnace if you can ssee 
+- Neuron stars
+  - Type II supernova
+  - Deep inside a set of store 
+  - Forms during a supernova explosions -- a neutral star
+  - Held up by neutron degenercy pesssure.
+  - Very high in radiation output
+  - Neutrons can be very fast because they emerge very really violent explosions -- if they are slightly tiled, they get shot out to one side
+  - One way for life to be destroyed -- a neutron comes barrelling into the solar system
+  - Neutrons are very small  with a lot of mass piled on top of them -- 7 miles and 2.9 solar masses
+  - You can only hold up so much mass with neutron degeneracy pressure; the mass can only be 2.9 solar masses
+  - We don't see neutron stars at this limit. 
+  - What happens in a high mass star is that degeneracy pressure is not enough and gets collapsed into a ball of neutrons. Nature makes neutron stars at 1.4 sollar masses.
+  - Very dense -- 2/3 the speed of light to get away from a neutron star
+  - We don't know what the inside of a neutron star is
+- Pulsars
 
 
 
