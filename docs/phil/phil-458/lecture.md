@@ -725,3 +725,80 @@ Lecture stuff
 - You experience yourself as governing your actions whether or not you 'actually author your bodily movements'
 - All you are given directly in experience is the body of the other -- just as ego is to body, the other ego must be to the other body. 
 - You simultaneously eperience the other ego as unexperiencable, and the primary sense of other ego; and from there all senses of the other derive.
+
+---
+
+## Week 6 Thursday -- 5th Cartesian Meditation and Phenomenology of Affectivity
+- Other people are given in experience as 'other' and as 'persons'
+- We're still in epoche, we don't care if they really are out there or not]
+- How do we experience the verifying of others as others?
+- We've supposedly bracketed otherness by entering the epoche -- so how do we go about constituting an immanent other -- a 'real' other
+- Is all other consciousness ultimately immanent?
+- How do we go about constituting otherness as a matter of phenomenological fact?
+- What is the status of this otherness that we have constituted in our consciousness? Maybe even the ontological status?
+- Husserl as how to get out of the epoche, the ontological category of other; vs strict phenomenology (how do we constitute otherness)
+- Arguably the fifth meditation fails -- intersubjectivity doesn't get us convincingly out of the epoche
+- Givenness in experience
+- Transcendental clue: a synthesized object points towards a synthesizing and an ego to do the synthesis
+- We constitute the other ego as constituting outself
+  - Is this a failure or is this just what happens?
+  - We have given up the world in the sense of the natural attitude, so who cares what the natural attitude really thinks being is?
+  - Being is this thing that we constitute.
+- What is the transcendental ego? Is it everyone's ego all at once. 
+- Critique -- this is a chauvanist project where Husserl says otherness is what I constitute as other, so not open to the 'truly other'
+  - The Western male gaze -- subsuming *the World* as its project
+  - What Husserl is saying is that if you're staying in the natural attitude and you want to get out, maybe you are not doing justice to the phenomenological conception of being
+- Appresentation is immanent, or is it?
+- What is the meaning of your being other than me?
+- Are we trying to discover an other which doesn't need to be constituted?
+- Critique of Marx -- Marx 'immanetizes' the eschaton -- Communist utopia in this world
+- Husserl restricts his analysis to the realm of immanence and restricts himself to immanence transcendence.
+- How does the other appear irrespective of if they really are other. Is the transcendental clue a product of the naive attitude?
+  - Is bracketing a problematic notion -- studying other as other as they appear to me?
+  - Materialism
+  - In what sense can experience be 'false'? If a Jew appears as a greedy capitalist, in what sense is this false?
+- Where does property emerge from?
+- Eigen -- also gets translated as property, something which you own but maybe also which is a property of you, or which is proper to you
+- How do I go from a primordial sense of ownness to an economic sense of ownership / property?
+- Libertarian: ownership is absolute, no need for other's consent to do what I want with what I own
+- Property -- presupposes a social contract, it is yours insofar as you constitute an other to recognize it
+- A natural attitude conception of phenomenology merely as 'there' -- but phenomenologically it is constituted by a cointention of others' consent which was forgotten.
+- Materia prima is the analog of the primordial sphere of ownness -- you can't really say much about it, it is -- verifiable indirectly, perhaps
+- Spheres: primordial (nature 1), scientific (nature 2, nature for the natural attitude), kultur/culture
+  - Corresponds to: ego, possible other egos, intended actual egos
+  - Experience of a natural objective world requires the positing of possible other egos
+
+Scheler
+- Feelings as intentional responses to values
+- It's only in feelings that values are given
+- You can't experience beauty without elation
+- The feeling of drunkenness is not an intentional response to an object -- values are only revealed as intentional responses. The feelings are the intentionality.
+- Indignation is the means by which you experience injustice as a disvalue
+- Maybe a very important development in the history of ethics -- going beyond Kant, analytic ethics, Hedonism, etc. -- we need to understand feelings as that is the mode through which we access values.
+- Values are hierarchal -- sensible, vital, spiritual, holy/absolute
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
