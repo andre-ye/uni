@@ -813,8 +813,36 @@ Written by Betty Friedan
 - Flowing in and out, the meaning of life -- real metaphysical angst
 - Golden Gate Park
 - Riot in the street, unless
+- The Beat generation
+- Rape and drugs in children on Haight street -- "MInds and bodies are being maimed as we watch, a scale model of Vietnam"
+- A sort of naivete
+- "God died last year"
+- No worries
+- "Woman's trip" -- the role of women in the movement of Hedonist self-love: who gets to self-love?
+- Caution and the law -- a game, avoiding law enforcement
+- Symbolism, spiritualism, self-absorbment
+- Hare Krishna
+- "Ectasy" -- "mundane ectasy" -- the banality of ecstasy?
+- "make getting up in the morning a beautiful thing"
+- Coping, existing, living
+- "You can get high on a mantra, but I'm holy on acid"
+- "Anyone who thinks this is all about drugs has his head in a bag. It's a social movement, quintessentially romantic, the kind fthat recurs in times of real social crisis. The themes are always the same."
+- The Diggers, guerrilla tallent
+- "militant trip"
+- The attempt of "pathetically unequipped children" to create a community in a "social vacuum" -- we can no longer overlook this vacuum. It is not some general cross-generation rebellion.
+- The rules of the game -- who believes in it? What is rebellion?
+- the power of words to express ideas and to live out these expressions
+  - "waiting to be given the words"
+- Reproduction of power in a language context
+- Mime Troupe in blackface
+- Racial conflicts: racial integration, legal and extralegal
+- Street demonstrations, performative art, and simulacrum
+- Bizarre performative activism (?)
+- Street theater -- "maybe it's some John Birch thing" -- political incoherence / messiness
+- 5 year olds on acid
 
-page 11
+This essay reads like an acid trip.
+
 
 ## "Why I am Opposed to the War in Vietnam", 1967
 - America to hear the truth about the war
