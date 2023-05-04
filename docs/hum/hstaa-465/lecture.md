@@ -1826,4 +1826,368 @@ The New Left and the emergent right helped to redefine politics for the
 coming decades though as the New Left fractured into many liberation 
 movements, the Right cohered around key issues and tactics.
 
+---
 
+## Lecture 12: Counterculture, Subculutre, and Dropping Out
+The counterculture: if it can be talked about in the singular, had shifted from critique of the mass society to expressions of personal liberation. By breaking through the limits of American society, young people especially explored alternative lifestyles and limits of their own personal freedom.
+
+- Very atomized, many differences in what was considered the counterculture
+- Counterculture vs subculture
+- Less of an emphasis on political change aside from the war and more about personal liberation in addition to group liberation
+
+Youth in the 1960s
+- Importance of youth culture, young people making themselves visible and belonging to groups shaping society and the marketplace in different ways
+- Movement of breaking down different barriers
+- 1960s -- a lot more of youth engagement due to the different types of liberation
+- What does liberation really mean?
+- Many social borders being broken, yet seldom does anyone think about what new boundaries will be erected later. Just about knocking down boundaries. The notion of what happens after or later becomes really important -- the sixties can't go on forever.
+- There is no society of people with no social boundaries; there are always social boundaries. If these boundaries get broken, what will the new boundaries be?
+- "The revolution is about our lives"
+- Hippie-ism: could be political (anti-war and other social and political movements) or hanging out and smoking pot, enjoying free love, then having enough of it and going home afterwards.
+- Lots of overlap with gender and race activism, as well as a sort of Hedonism and having a good time
+
+Ken Kesey and the Merry Pranksters
+- Ken Kesey, *One Flew Over the Cuckoo's Nest*
+- Really wanted to wake people up and challenge traditionalism and conformity in American life
+- The Merry Pranksters -- ride around in a psychedelic schoolbus and shake people up
+- Joan Didion -- a guerilla theater episode where the performers are being performatively evocative
+- Acid tests -- spiking kool-aid with LSD
+- Experiencing new things in their minds that they wouldn't have otherwise
+- Intentional shocking into a new way of seeing the world
+
+Drugs
+- Drugs are a centerpiece of this behavior
+- LSD and Marijuana
+- Young people often looked at JFK as the 'altered statesman'
+	- Max Jacobsen "Dr. Feelgood" would give shots laced with methamphetamines
+- Timothy Leary, seeing what LSD does to people's behavior. 
+
+1966, LSD Outlawed
+- Leary is pushing the envelope and LSD is outlawed
+- Drugs caused panic and temporary insanity, hyper-panic around acid and LSD and what it was going to do to Young people
+- Timothy Leary sees drugs as the right of people to control their own consciousness
+- LSD moving from a research-religious focus of finding new consciousness and spirituality towards self-discovery and party time
+
+Marijuana
+- Allen Gisnburg, "Pot is fun"
+- Campaign to legalize marijuana and the broader use of it
+- Not something which was regulated until 1930s
+- *Reefer Madness*, 1936
+- Federally criminalized, 1937
+- Pot-smoking for fun and realaxation in the sixties -- Marijuana becomes central to youth culture -- music, film, art, etc.
+- 1970s: appearance of medical marijuana (New Mexico first state)
+
+Haight Ashbury
+- Neighborhood in San Francisco -- Haight Ashbury, becomes the center of 'hippie' culture, 1965
+- People will be reading about it for a long time -- a new youth culture and people called hippies
+- Described mainly by what they look like -- the aesthetics stand out a lot. Long-haired men, flowers in hair, bellbottom jeans, certain types of clothing, smoking pot, music, etc.
+
+Guerrilla Theater, 1965 - 1969 avant-garde non-traditional theater
+- Non-traditional theater in non-traditional places
+- Often political or social
+- Included mime troupes
+- Massive puppets acting out certain scenes on the streeet
+- The Diggers -- "the Death of Money, Birth of the Haight"
+	- In the Haight, people work on exchange, give things away, no capitalist economy, capitalism keeps you down
+	- Diggers do a lot of sleep theater
+
+The Diggers
+- Group in San Francisco trying to live differently
+- Live outside the capitalist economy in a communal style with free exchange of goods and services
+- When people come to SF, there is some detritous on the road -- people can't buy food or are hooked on drugs, etc. 
+- Diggers involved trying to get people on their feet and fed
+- A lot of protests against authority
+- A lot of guerilla theater is against authorities
+- Ideas about race, etc.
+- Don't have connections to direct protest, not like SNCC or CORE -- much more decentralized and localized
+
+Human Be-In, 1967
+- Golden Gate Park, the Human Be-In
+- "Sit-in" or "Wade-in" or "Teach-in" -- you're just going to go and be
+- Timothy Leary, Allen Ginsberg, Santana, etc.
+- "a new nation had grown inside the robot flesh of the old"
+- Love, peace, compassion, unity of mankind
+- Massive festivals -- smoke pot, peace love and understanding, etc.
+- Crowning time for hippieism
+
+Grateful Dead
+- One of the centerpieces of music are the Grateful Dead
+- Start a new tradition in American music
+- In SF, from SF, played a lot of free concerts -- the soul of a lot of this
+- Grateful Dead lived a hippie ethos about being good to one another
+- Another concert comes up later which puts a stamp on the end of the 60s -- Altamont Raceway, a bookend to the decade; things go off-the-rails bad, Grateful Dead leaves
+
+Hippies and the Summer of Love
+- 1967 summer of love
+- Promoting all of these ideas about hippieism; taking care of each other; peace love and understanding
+- People go just to have meaningless fun, in addition to meaningful critique
+- Some hippies come out of this period and carry these values together
+- Others will come out of this period as conservatives for the rest of their lives
+
+Hair, the Musical, 1967
+- By 1967, the period of the hippie is coming to an end; it is being commercialized
+- 1964, writing starts; 1967, on Broadway -- a musical which celebrates hippieness
+- Celebrating hippie life and the draft, interracial relationships, scenes performed in the nude, etc. -- many elements of hippie life
+- The moment in which hippieism was getting commercialized -- buyable in the marketplace
+
+Death of Hippie, Son of Mass Media
+- Diggers have a mock funeral for the hippie -- by October 1967, the Hippie is done.
+- Anyone afterwards becomes a refugee, leftover of the moment of 18 months
+
+Dark Side of Hippie LIfe
+- People who can't or don't escape hippie life -- not just fun all the time
+- Haight-Ashbury neighborhood -- "capital of forever", becomes a major tourist center, lots of tourists come
+- Don't like tourists
+- Harder drugs begin to appear -- LSD and marijuana are lighter, meth and heroin are harder
+- "Lost kids" -- left their parents behind
+- These effects coming down as part of a libertine society -- you knock down the boundaries, where are the new boundaries
+- Sexual predation -- men reading about hippie girls who will have sex with everyone, liberation -- guys go to SF to hook up with hippie women
+- Not caring so much about the consequences -- pregnancies, STDs, STIs
+- Charles Manson
+	- Manson family
+	- Makes it ripe for Manson to emerge and the Manson family murders
+- Not just a comfortable ride of everyone
+
+1967 Protests and Pranks
+- New York diggers, become the Yippies (Youth International Party)
+- Hoffman, Rubin -- begin a group focused on pranks -- want a lot of media attention -- not completely disinterested in politics, but the main goal is not necessarily to change any specific law but just to prank people -- show people how square they are and how dedicated they are to the capitalist system
+- Throwing money on the NY stock exchange
+- Anti-war movement
+- 75k people outside the Pentagon in 1967, going to levitate the Pentagon
+- Part of the anti-war movement, engaging in various prankery
+- Going to Chicago for the 1968 Democratic National Convention
+
+Leaving the Politics Behind
+- Abbie Hoffman, Jerry Rubin
+- How to live like a digger
+- What ends up happening is a giant 1968 DNC battle with the police in Chicago
+- "TUne in, turn on, and drop out"
+- Sometimes political action is useless, people are not willing tom ove off their stance, so you turn your backs on it and say Fuck it.
+- CHeck out, disassociate from society
+- Herbert Marcuse -- capitalism absorbs all forms of rebellions, the best thing is just to drop out
+- Hoffman, *Revolution for the Hell of It* (1968)
+- A different kind of commentary than actively trying to change the war
+- Development across America of thousands of communes -- maybe roughly 2k. Sometimes they are so small that we don't know about them
+- Communes are wildly diverse but have a common shared pushback on individual society. A commentary on consumerism
+
+Communes and Communitarian Idealism
+- Many communes had some kind of religious foundation -- Christian or some other religious foundation
+- Many communes are social experimentations -- in America being part of a commune at all is a form of social experimentation.
+- Getting away from the technocratic society that we've developed -- Galbraith's American on the hamster wheel
+- Focus on the space race, nuclear war, etc. 
+- Have a lot of experimentation
+- Greater gender equality
+- Experiments in collectivism
+- Intentional communities
+- Could be urban places like Greenwich Village or Haight-Ashbury, but many places were rural 
+- Drop City, 1965 -- Trinidad, Colorado
+	- Openness, no one wanted this area of Colorado -- not the easiest place to live
+	- Build domes based on architecture designs
+	- Are part of artistic styling, communal living 
+	- Droppers engage in ideas about anarchism, pacifism, sexual freedom, voluntary poverty, drugs, art, etc.
+	- Don't work, consider themselves to be free from employment and live out there
+	- Not in a mental state of poverty
+	- What is poverty, really?
+	- Are out there experimenting
+	- What happened at Drop City -- Californians show up, people can come in and join Drop City. But too many people come in and it can't be supported
+	- Festival of Joy -- lots of hippies come (66-67) and they don't want to leave, but this puts too much pressure on the community. It falls apart in 1970.
+	- Not an uncommon ending to communes. A fascinating social experiment
+
+The Jesus People
+- Lots of experimental religious stuff going on in the sixties
+- The Jesus People / movement -- "Jesus freaks"
+- Founded in evangelical protestant CHristianity
+- Very widespread across America, many people formed the Jesus movement
+- Thought of themselves as preaching the words of Christ, foucsin gon the figure of Jesus
+- Were trying to find a sort of personal authenticity -- didn't want to get lost in an impersonal church, wanted to find what was true about evangelical Christianity to them
+- Created their own Bible -- not called the Holy Bible, but The Way
+- Not uncommon on college campuses and in inner cities
+- Have a lot of influences on communes
+- Created a number of businesses that attempt to promote ideas about evangelical Christainity
+- A lot of people who go into the hippie thing will see themselves as lost in the world and find their way through the Jesus movement
+- Try to focus on aspects of the Bible emphasized by Jesus: love, compassion, clean living, etc.
+- People on the outside have greater criticism -- generally lack of sex and gender equality 
+- The love family in Seattle
+	- Love Israel
+	- Queen Anne neighborhood in Seattle, 1968 - 1986
+	- Attracted many people to his movement
+	- Some of the children's names: Logic Israel, Serious Israel, Meekness Israel, etc.
+	- Bought many houses in the Queen Anne Neighborhood
+	- Moved into Snohomish County
+	- At one point over 300 members
+
+Oriigns of Liberation Theology
+- Important changes in the Catholic churh
+- Emphasis of liberation theology in the 1960s in the Catholic church
+- Second Vatican Council called by the Pope at the time: 1962 - 1965, making the Catholic Church more applicable to the kind of increasingly secular lives being lived in the post-WWII period
+- HOw could the Catholic Church continue to be appealing and keep members?
+- The Catholic church is one of the most powerful organizations throughout the history of the world.
+- Trying to reorder some parts of the church to appeal to people
+- Priests, nuns, and lay-Catholics brought social justice movements in the Catholic church -- stopping the Vietnam War, Civil Rights, etc.
+- Latin America, the Catholic Church refocused attention on rural peasants and economic inequality
+- The Catholic Church was trying to appreciate the cold-war problems of communism and capitalism and peasants being caught in the middle
+- Retraining priests to think about the problems of the people in South Americans
+- Mass had been delivered in latin but was being refocused in English and Spanish
+- There is of course a conservative reaction / traditional reaction to liberation theology
+
+Explorations of Alternate Theologies
+- Exploring alternatives and different life styles, breaking free from social expectations
+- George Harrison of the Beatles goes to India and gets interested in Hinduism and Indian music
+- Hare Krishnas -- Hinduist religious sect believing in karma and reincarnation
+- Zen Buddhism -- looking towards the East for alternative spirtiualities
+- Sufism -- mystical religion steeped in passion for God and celebration of love
+- Taoism
+- Scientology
+- EST -- Erhard Seminars Training, less religion, more self-help -- how to live one's life? 
+
+To Sum Up
+- Personal liberation as compared to specifically political causes or group liberation
+- Finding the limits of power and freedom
+
+---
+
+## Lecture 13: Vietnam War -- 1966 - 1967
+as the criticism of the war expanded across US society and government, the political and military leaders misled the American people and deepened US involvement in the war. However the militarya nd government were superficially dedicated to the war, the ways that they prosecuted the war undercut soldiers' morale and civilian support
+
+- The way that they are talking about the end of the war undercuts how they manage the war -- Americans aren't seeing the results
+- Antiwar protests go up
+- By 1967 there are massive anti-war protests instead of the smaller ones which came earlier
+
+The Jungle
+- The idea of a jungle is so central to the narrative dimension of the Vietnam War 
+- "Fighting in a Jungle"
+- Environmental history
+- A jungle is not a real palce -- there is no biophysical characteristic in which a 'jungle' exists
+- A jungle is in your mind -- it's an idea which was created about certain types of forests
+- A forest is a biophysical place -- dominated by trees
+- Idea comes from the moment where UEropeans come to the tropical places of the world -- Africa, Southeast Asia, and the Americas
+- Alexander von Humboldt -- popularizes what's going on in the tropics to Europeans
+- Europeans are fascinated by plants from other places -- 
+- Considerations on the agriculture of the 'torrid zone' (tropics) -- land cleared $$\to$$ the progress of society
+- Fertility of the natural world allows for 'lack of civility' -- connection between fertile places int he world with lots of heat and rain that grow lots of stuff produce backwards, lazy civilizations
+- The jungle is where these places are at -- a way of racializing space -- the 'torrid zone', hot and humid
+	- Full of difficulties -- tribulation, dangerous animals, insects, diseases, etc.
+	- This place is the jungle
+	- What is 'overgrown'? The idea of an overgrown place is the contstruct of the European fantasy -- a forest which confuses and frightens Europeans -- not an 'actual' space
+	- An 'urban jungle', 'jungle fever', 'jungle story'
+	- The Vietnam War was fought in jungles
+- Tropicality
+	- Dual vision of the tropics that supports imperialism and racism
+	- Lush, overgrown, productive environments produce lazy, unproductive peoples
+
+Fighting the Ground War 
+- Enemy contact in point-blank range -- emphasizes the danger of the place, can't see very hard -- a difficult environment to fight in
+- Nguyen Cao Ky -- US ally in 1966, but also a man who said that what Vietnam needed was five Hitlers. Had strong opinions about what Vietnam should look like.
+- General Nguyen Van Thieu -- trying to fight with Ky. US got right in the middle of it -- tired of the rotating wheel of generals  -- Ky becoms the vice president and Thieu the president
+- Ongoing problems in South Vietnam -- many student protests, Budhists not achieving civil rights they had hoped for
+- protests against the US presence (1965 boots on the ground arrival)
+- South Vietnamese, many not happy about these -- US taking over ground operations on their own and leaving the ARVN behind 
+- Many protests in SV against the US presence
+- In Saigon, air attacks would be unleashed on their own people 
+- American soldiers are thinking about what they are doing in Vietnam
+
+MACV-USAID -- Pacification
+- Strateigc hamlet program was not working in general
+- Pacification -- trying to get rural people on their side is not generally working, too many communists in the south
+- Too many abuses by the SV government -- southern peasants and farmers are neutral or say yes to whoever shows up, stuck in a middle situation
+- Villagers are caught in the middle -- emergence of 'free fire zones', places where you can legally kill anyone 
+- Villages or a certain area of mountains or the forests have been designated so dangerous that anyone out there must be the enemy
+- A lot of tactics are undermining the government's attempt to prosecute the war
+
+Rolling Thunder
+- Bombing continues -- B-52 bombing
+- Time to time Johnson will call it off and try to negotiate or the criticism reaches a pitch, but bombing resumes
+- McNumara is getting more information that this is not helping
+- Many countries are criticizing the US, although the US says publicly that they are winning the war
+- New attacks on oil fields; the NV build underground tanks and get new oil shipments from China, USSR
+- Generals are saying let's mine the harbor and LBJ does not allow mining of the harbor
+
+Arc Light Attacks
+- Central feature of the war
+- Arc light strike -- big B-52 bombers (can fly 6 to 7 miles above the earth -- no one on the earth can see or hear them) get called in when there is a military unit in trouble
+- Dropped 4x as many bombs in the south as in the north
+- Not much data on what the effects are but after the war we know that NV soldiers would report that for them the Arc light attacks were the most terrifying part of the war -- see nothing, and then the ground would just open up
+
+Prisoners of War
+- There are many prisoners of war; many are airmen -- aircrew in planes
+- There might be a 10-person crew; when they are shotdown, they become prisoners of war
+- Famous PoW camp in hanoi, where PoWs and political prisoners were being held
+- known as the 'Hanoi Hilton' -- sprawling PoW camp
+- Many PoW camps
+- Show up on TV from time to time
+- Exhibitions where PoWs are taken out of the camps and paraded through the streets, images would be put onf ilm and distributed globally
+- Sometimes forced under torture to make claims against the US
+- A high-ranking official makes a statement against the war -- blinks eyes such that it spells out 'torture'
+- North Vietnamese using PoW as propaganda tools to shame the US
+- John McCain, Senator from Arizona -- shot down and in a PoW camp, was filmed as well
+
+US Troops
+- 450k troops in Vietnam by 1967
+- A small portion are in combat -- 20%
+- The rest are support troops -- air crew, mechanics, embassy, etc.
+- The army functioned with a well-established racial hierarchy which became very clear in the Vietnam War
+- Many jobs in the 'rear' -- often went to white folks. Black folks ended up in the infantry or in a forward position.
+- When rear jobs opened up, people would put in for it -- but those jobs often went to white folks and became another part of the war that people at home were criticizing
+- By 1967, 800 deaths per month, increasing from what it had been. Greater focus on the DMZ -- 17th parallel between North and South
+- More artillery attacks coming from the DMZ -- shelling American marines
+- Gave Gen. Westmoreland the idea that there would be attacks and that the NV might overrun the marine posts, became Westmoreland's focus in 1967
+- Up to WWI in every war more people die from disease than combat 
+
+Tactics
+- US is still dedicated to search and destroy -- still trying to find the enemy
+- Vietnamese are using hit and run tactics, not holding up to territory -- not a traditional war in the way that the US is used to it
+- Over and over, marine patrols go into the DMZ, fight for some place, and then abandon it, then come fight for it again
+- Hills -- the US spends a lot of time taking a hill, and then just abandon it
+- From a military strategist perspective this might make sense, but this does not make sense for the soldiers -- increasing dissatisfaction 
+- As the war goes on, there is less and less support in the South for a long war
+
+What kind of a war?
+- By 1967 -- what is the US really doing?
+- VC tactics are pretty successful -- eroding American morale
+- Hit-and run tactics, very short battles lastling less than a few minutes
+- Really starts to damage morale in the military
+- 1966, Army artillery are doing bizarre things
+	- H&I: harrassment and interdiction, throwing out artillery fire at places where the enemy might be
+	- 1967 estimates: 350k H&I shells killed about 100 enemy soldiers
+	- The average soldier is questioning the authority of their leadership
+- The Vietnamese guerillas -- not all bombs explode, some are duds (2-3%); they take unexploded ammunitions and rewire them as booby traps and put them in the place where tanks are being used
+- Jan-July 1967, 539 Americans KIA, 5.5k wounded, many by booby traps
+
+Tunnel Systems
+- Very elaborate tunnel systems, including underneath some of the US military bases
+	- 25th Infantry Division base camp had an elaborate tunnel system underneath it
+- Snipers disappearing down through the tunnels
+- Hill 1338 -- one of the worst defeats for American defeats -- lost many people and killed a few enemies, could not figure out how it could be
+- The Vietnamese had a great intelligence network, very useful intelligence systems
+- Tet Offensive -- a code system set up on the radio. Know when certain things are supposed to happen
+
+PBR -- River/Coast Patrol Boat
+- Brownwater navy, patrol boats patrolling the Meikong delta, moving through the delta nad the rivers and dstopping anyone moving guns or large amounts of food
+- navy maintained a blockade on the ocean 
+
+The War of Restraint
+- Idea of a 'war of restraint' that the US had certain lines it was not going to cross
+- LBj continued to push this idea, but the military continued to fight LBJ and McNumara on this point
+- Westmoreland begins talking about the 'crossover point' -- the point where Westmoreland says we are beginning to see light at the end of the tunnel; war of attrition is beginning to favor us, we are killing more of us then they can put back into the field
+	- However all of this is incorrect -- either willfully or not
+
+Fulbright hearings, 1966-1971
+- Very early in the war, there are questions being asked in the government about the conduct of the war, how we got into it, whether we should be there
+- Started by a long-time ally of LBJ, William Fulbright 
+- A senator who becmae very concerned about the war and organized the Fulbright Hearings
+- Hearings put on network TV -- experts and diplomats testifying on the Vietnam War
+- The Presdient is furious at Fulbright and the news stations -- that the Vietnam War was being questioned
+- Johnson would go on TV and say we're doing well, they're on the run, etc.
+
+A History of Anti-War Sentiment
+- Understanding a history of anti-war sentiment in the country
+- You can look throughout history -- in America there is always some faction which is against the war
+	- Loyalists in the revolution
+	- Whigs in the war of 1812
+	- The Seminole Wars
+	- Anti-imperialist league in the Spanish American War (Andrew Carnegie, Mark Twain)
+	- Isolationists in WWI & II
+- What does it mean for a democratic nation to go to war?
+- Espionage and Sedition acts in WWI, II -- wartime national governance
+- "Better dead than red"
+- "My country, right or wrong"
