@@ -699,9 +699,99 @@ Emotive Axiology: The Graded Realm of Values
   2. Values of life -- virtal values. Noble, vulgar -- good, bad. Relating to well being
   3. Spiritual values -- vital values ought to be sacrificed for spiritual ones. Love, preferring, hatred.Phenomenologically different from vital functions. Irreducible to biologicality. More: beauty, uglyliness, right, wrong. Truth is not a value. 
   4. Holy and unholy -- only for objects pertaining to the absolute. 
-- A value is enduring when it has an essential 'ability to exist through time' -- temporal invariability
- 
-p. 100 in PDF
+- Four properties of values
+  - **A value is enduring when it has an essential 'ability to exist through time' -- temporal invariability**
+  - **Values are higher the less they are disvisible**
+    - Value of material goods -- half of bread is half the value of a whole one (really?)
+    - Value of the beautiful or the holy is not divisible
+    - The value of the divine is most immediate
+    - Well, what is value really?
+  - **Values are higher if they are less dependent on other values**
+    - Value of utility is dependent on the value of the agreeable -- useful means a means to achieve the agreeable.
+    - Spiritual value sare not relative to life
+  - **Yields satisfaction or inner fulfillment as in the peaceful possession of a good or value**
+    - Erfassen (comprehension) of a value yields deeper satisfaction for higher values
+
+Relative, Absolute, and Moral Values. The Ought and the Ideal Models of the Person
+- Ranks of values are determined by their relativity; not given by preference feeling or consideration, but rather in immediate feeling independent from judgement.
+- Relative does not mean subjective
+
+| thing-body / korperding | relative | not subjective |
+| hallucinated feeling | relative | subjective |
+| real feeling | not relative | subjective |
+
+- Values exist as relating to corresponding acts and functions
+  - A being without sensible feeling does not have the value of being agreeable
+- Absolute values are values independent of the essence of sensibility and essence of life; i.e. exist only independently
+- Nietzsche, Kant: values are posited by man. Scheler: man is only the ontic bearer of moral values, which reveal their absoluteness phenomenologically via *detachment from the feeling of life and sensible states*
+- What is the relativity of the experienced?
+- The importance of a value is how not-relative it is wrt absolute value
+- Three orders of relativities
+  1. The first comes to be immediatlely felt / known a priori: Values and Values
+  2. The second comes to be known through acts of reasoning: Values and Goods (representing themselves in values)
+  3. Relationships between goods and things which form (representing themselves in goods)
+- The content of values are the axiological condition for the existence of this second relativity
+- The directionality of ethics: Aristotle's upwards ethics of purpose, Nietzsche's downwards ethics, Kant's non-relational universal obligation by categorical imperative: Scheler has a relational horizontality
+- The height of a value lies in its essence
+- Rules for preference change throughout time
+- Ranks of values are given in concrete ethical experience as immediate intuition (why?)
+- Value relations are *autonomous* -- an *objectivistic* understanding of values -- the emotive a priori of the givenness of values do not follow social-historical factors
+
+> "Scheler's Non-Formal Ethics, then, is an emotive, transcendental objectivism."
+
+- Moral values are directed towards non-moral values and manifest through realizing non-moral values
+- A person is a movement of a concrete unity of all possible acts, so they are not a thing -- personal moral acts are different from those of 'objects'
+- Moral oughtness can only be posited after understanding values which need to be realized
+- Two kinds of oughtness
+  - Ideal ought to be: possible real being
+  - Moral ought-to-do: realizing willing.
+- Moral ought-to-do rests on the ideal ought-to-be -- regardless of different formulations, there is universal agreement that the ought is a function of that which ought to be/done.
+- **Non-formal ethics denies that moral acts can be based in moral authority -- only in personal act.**
+  - No command or obedience can bring about genuine moral acts
+  - The ought must come from the person itself
+- Ideal models of persons are historically forming factors -- there is no norm of obligation without someone who posits it
+- Free following, pure example
+- Is there a large variety and mutlitude of models of people
+- Scheler: yes, there are universal types of model/ideal persons, but that the greatness of man is guided by these a priori universal models of person / ideas of values
+- Ideal model persons constitute basic values constant throughout history
+- Five models of person
+  - Saint
+  - Genius
+  - Hero
+  - Leading spirit of civilization
+  - Master of enjoyment
+- Values of the holy are the highest 
+  - The highest good msut be personal
+  - Love is the purest act of a person
+- God as the person of persons
+- (!!!) **Every intellectual comprehension of an object presupposes an emotional experience of value related to the object**
+
+---
+
+## *Being and Nothingness*, Jean-Paul Sartre
+
+### Part One: The Problem of Nothingness
+Page 64 in [this PDF](https://antilogicalism.com/wp-content/uploads/2017/07/being-and-nothingness.pdf){:target="_blank"}
+
+The Question
+- The Cartesian question of the soul and the body
+- Laporte and Husserl: abstraction -- something whichc annot exist in isolation when thought of as an isolated state
+  - Red is an abstraction, b/c color cannot exist without form
+  - A spatial-temporal thing is concrete
+  - Consciousness is an abstraction which conceals in itself the source for it in itself; the phenomenon is an abstraction which appears to it.
+- Still, we have not really restored the concrete in any sense.
+- The methodology: not limitation to single patterns, but rather to penetrate the true relation of man in the world
+  - An objectively considerable question: a human attitude is filled with meaning, what does this attitude reveal? Is there a method by which we can reveal man's existence in the world?
+- Every question presupposes two beings: a questioner and a questioned
+  - A question is an expectation: I expect a reply from the questioned
+  - What distinguishes a question from affirmation or negation? 
+  - Some questions *seem like they do not apply negativity* -- but we can always reply in teh negative, Nothing / Nobody / Never
+- We can respond to the previous question: "No, it does not exist". And so here we are presented with the transdcendent force of non-existence.
+- Does non-being exist objectively?
+
+page 67 in PDF
+
+
 
 ---
 

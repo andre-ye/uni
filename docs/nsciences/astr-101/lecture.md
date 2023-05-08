@@ -427,7 +427,7 @@ ASTR 101
 
 ---
 
-### Week 6 Wednesday -- The Compact Corpses of Stars
+## Week 6 Wednesday -- The Compact Corpses of Stars
 - What happens when a star leaves the main sequence and hydrogen in the core runs out?
 - Low-mass stars end their lives with a carbon-rich core and blow their stuff out into space in a planetary nebula -- it blows itself apart very gracefully over 1 million years
 - Higher-mass stars blow up in a day -- a huge explosion, very violent, such that very heavy elements are fused during the explosion itself. Most of the periodic table is made during these very rare and violent explosive events.
@@ -475,9 +475,49 @@ ASTR 101
   - We don't know what the inside of a neutron star is
 - Pulsars
 
+---
 
-
-
+## Week 7 Monday -- Black Holes
+- The mass of a star determines what is left behind when the mains equence star leaves the main sequence and loses its atmosphere
+- Neutron stars and white dwarfs are held up by neutron and electron degeneracy pressure
+- If you allow gravity to overcome degenercy pressure, it explodes into a white dwarf supernova, which requires mass transfer from a binary star
+- Idea of binary systems transferring matter happens with neutron stars too -- neutron stars can acquire material from binary companions and we see that an accretion disk forms around a neutron star.
+- A white dwarf orbiting a neutron star -- ripping apart the white dwarf -- a white dwarf's escape velocity is 2% the speed of light, but the neutron star pulls it completely apart
+- If we start shrinking a white dwarf, the carbon inside starts fusing, so it blows up
+- What happens if a neutron star shrinks? The neutrons don't fuse into anything. 
+- The surface gravity increases and the escape velocity increases. What happens when the escape velocity goes past the speed of light? 
+- A very dark / dense object is actually a very old idea -- 1783, John Michell and Pierre Simon-Laplace -- took Newtonian relationships to derive the relationship between mass and size
+- Radius of an object with a velocity equal to the speed of light is 3 km for every solar mass
+- 1780s: changing conception in history from light as a particle to a wave
+- Could gravity affect light anyway if it was just a wave, if light doesn't have a mass?
+- Bike and light -- if I ride a bike at an observer with a flashlight at speed $$v$$, does the observer see light with velocity $$c$$ or $$v + c$$.
+  - Einstein's answer: all observers see light moving at the same speed regardless of relative position
+  - Girl and the spacecraft -- viewing from outside the laser travels farther
+  - Measuring time and distance differently
+  - Time and distance are measured differently for objects which are in motion wrt each other
+  - Time passes slower for objects in motion 
+  - Time is not some uniform constant thing for everyone everywhere -- it is different
+- Gravity introduced via general relativity
+  - Equivalence principle: you would feel exactly as though you were standing on Earth if you were in a ship boosting at 9.8 meters per second-squared
+  - There is no experiment you could do inside the spaceship which could tell you if you are sitting on Earth or in the spaceshift
+  - The curved path of photons in the accelerating rockets must also be seen if the rocket is just sitting in a gravitational field on Earth -- light itself is affected by gravity; gravity affects light even though it has no mass
+  - Gravity isn't some sort of force-beam -- it is what happens to space and time itself in the presence of mass. Everything moves through space and time -- gravity warps spacetime like in a trampoline
+- Stars produce very strong distortions in spacetime
+- We see light being bent by neutron stars, whit edwarfs
+- You can get light 'orbiting' and never leave, get trapped in a part of spacetime -- from a distance, it looks dark because no light is leaving that area. 
+- Black hole -- any object which can warp space and time so much that light gets trapped
+- Mass compressed into an infinitely dense point -- the singularity. Event horizon -- the boundary around the singularity within which no light can possibly escape. 
+  - Schawrzschildradius -- radius of event horizon.
+- We don't know what's happening in a black hole -- we can't get information from it. 
+- You have to get really close to black holes before they get real; otherwise it's just like any other body you can orbit
+- All our planets would continue to orbit the sun if it became a black hole with no change -- black holes don't suck unless you get within 3 times the size of the event horizon. 
+- You see moving clocks as running slower than your own clocks
+- Clocks near the top of the tower run faster than the clocks on the bottom of the tower -- all that matters is how close you are to the center of Earth, meaning how deep are you in this pit of stuff
+- GPS timing -- correct for quantum computation
+- Time travel -- you just have to get close to the event horizon
+-  Hawking radiation -- right near the event horizon, it is possible for quantum mechanical properties to prdocue radiation at the event horizon itself
+- We're not ereally sure what's going on -- it's possible that the event horizon is full fo searing ultraviolet radiation and youa re turned into pure energy which stays on the vent horizon
+- 
 
 
 

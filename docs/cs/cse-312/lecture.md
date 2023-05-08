@@ -362,3 +362,39 @@ $$X \sim Exp(\lambda): F_Y(t) = P(Y \le t) = 1 - e^{-\lambda t}$$
 
 $$X \sim Exp(\lambda): f_Y(t) = \lambda e^{-\lambda t} : k \ge 0$$
 
+---
+
+## Week 6 Friday: Continuous RV Zoo
+- Exponential vs poisson distributtion
+- Take a Poisson ranodm variable and ask, what's the time until the next event? You get an exponential distribution.
+  - Let $$Y \sim \text{Exp}(\lambda)$$ be the time until the first event when we see an average of $$\lambda$$ events per time unit
+  - What is $$P(Y > t)$$? 
+  - Let $$X \sim \text{Poi}(\lambda t)$$.
+  - We know that $$P(Y > t) = P(X = 0)$$
+  - We know that $$P(X = 0) = e^{-\lambda t}$$
+  - CDF for exponential is $$F_Y(t) = P(Y \le t) = 1 -e ^{-\lambda t}$$
+  - $$X$$: how many events happened?
+  - $$Y$$: how long did I wait for the first event
+
+$$f_Y(t) = \frac{d}{dt} (1 - e^{-\lambda t}) = \lambda e^{-\lambda t}$$
+
+- Memorylessness: $$P(X \ge s + t | X \ge s) = P(X \ge t)$$
+- In continuous RVs, we can switch out $$\le$$ and <
+- Expectation of an exponential random variable is $$\frac{1}{\lambda}$$
+- Variance is $$\frac{1}{\lambda^2}$$ otherwise
+- Normal or Gaussian random variable
+- Central Limit THeorem -- many real-world processes are well-approximated by a normal random variable
+- $$X$$ is a normal random variable with mean $$\mU$$ and variance $$\sigma^2$$ or $$X \sim (N \mu, \sigma^2)$$ if it has the density
+  - $$f_X(x) = \frac{1}{\sigma \sqrt{2\pi}}$$ is a normalization constant
+
+
+$$f_X(x) = \frac{1}{\sigma \sqrt{2\pi}}e^{-\frac{(x - \mu)^2}{2\sigma^2}}$$
+
+- Density is symmetric around $$\mu$$
+- Never goes to zero; will be nonzero for any finite $$x$$
+- Scaling normals -- we get a normal random variable back. If $$X \in N(\mu, \sigma^2)$$:
+
+$$Y = aX + b \implies Y \in N(a \mu + b, a^2 \sigma^2)$$
+
+- We will need to standardize Gaussian random variables -- if I have a RV with mean $$\mu$$ and variance $$\sigma^2$$ and instead I want to get $$Y \in N(0, 1)$$, just set $$Y = \frac{X - \mu}{\mu}$$
+- We want to use the CDF of a normal but it is really fucking ugly for the normal distribution
