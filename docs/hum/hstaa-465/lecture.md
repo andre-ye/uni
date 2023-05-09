@@ -2044,6 +2044,14 @@ To Sum Up
 - Personal liberation as compared to specifically political causes or group liberation
 - Finding the limits of power and freedom
 
+Additional
+- The hippie comes to the end as a unique social phenomenon -- the identification of the hippie begins to disappear, but what comes after are all the ways in which hippies have blown apart social expectations
+- It's not that the hippie had really died itself
+- How do alternative behaviors become normalized?
+- Aesthetics and other behaviors just become part of the culture
+- The hippie ends as an identifiable weird fringe element which then affects society
+- Breaking open historical boxes
+
 ---
 
 ## Lecture 13: Vietnam War -- 1966 - 1967
@@ -2191,3 +2199,314 @@ A History of Anti-War Sentiment
 - Espionage and Sedition acts in WWI, II -- wartime national governance
 - "Better dead than red"
 - "My country, right or wrong"
+- Confronting what it means for a democratic nation to go to war -- it is significant that these are the WWII children, a time where the US is relatively unified in terms of the war; this fracturing does not look positive; protestors are trouble-causers and disrespecting the military and service-people, not follwoing the government; this looks chaotic and self-indulgent. A lot of criticism of the anti-war protests at the time. When we get to '68 and hear Wallace and Nixon using law and order language, they are referring to this sort of behavior
+- From the poitn of view of the protestors, it is exactly patriotic to voice against a war which is unjust and violen.
+- What is the role of "the people" in a democracy?
+
+Urban, Racial Unrest
+- Summer of 1867, growing unrest and dissatisfaction with the falling off of the war on poverty, the way in which things post-65 in urban ghettos aren't getting better, a lot of discrimination in housing and jobs, rampant poverty
+- The "Long Hot Summer" -- very large number of riots which often start with a motorist being pulled over by the police and other police confrontations
+- Detroit, MI: Massive police presence -- Michigan National Guard, US Army -- putting down unrest, 43 dead and 1.1k wounded
+- Newark, NJ: Black man stopped and shot by the police, 26 people dead
+- Americans are seeing this on TV -- on one hand, anti-war protestors and on the other, urban unrest -- beginning to equate urban unrest with the anti-war protestors and seeing both as enemies of the country and people who are out of hand, stirring up trouble
+
+Battles of 1967
+- Beginning by the communists of a large offensive
+- DMZ -- the communists cross the DMZ all the time
+- Khe Sanh -- the furthest west military marine corps instillation
+- Fear around American military leaders that the communists were setting the US for a repeat of Dien Bien Phu, where the French were defeated in a far-Western place
+- Johnson famously said "I don't want no Dien Bien Phu" -- a massive American defeat preoccupied American military thinkers
+- Came up with the belief that Khe Sanh could not be lost, needed to be protected at all cost
+- All the amrine bases were shelled with artilery, hit by mortars -- marines are getting pounded
+- Patrols go into the DMZ to find artillery and people shooting and they lose a lot of Americans -- 100 a week, 200 a week, etc. in terms of death
+- Hill 1338 -- one of the worst defeats for the US in the entire Vietnam War, several soldiers just get ambushed on a ridgeline and are almost wiped out -- 76 ot 133 US KIA. US response is to inflate number of enemies killed from 10 to 475 soldiers. This is how the war is being fought -- body count is everything for the administration, the single metric of progress. Need to hit this metric
+- Many examples of civilians being shot -- being less than discriminatory about what you are firing at
+- From the perspective of the policy people, there is not an accurate story being told here
+- MacNumara ran the war like a business (was president of Ford motor company) -- the DoD calculated and quantified everything -- bombs, bullets, gallons of gas, etc. They produced so much data that they put out thousands of pages of data. Ran as if numbers were going to run the war
+	- (False) Story: 1968, fed all of the data into the DoD computers and ask it when will we win in Vietnam; the computers crank away and there is one card in the output tray and it says we won in 1965. 
+	- The enemy gets a vote; it has its own plan and program
+- Battle of Dak To and the "border battles" near the DMZ -- tended to indicate to US military leaders that the communists were leading an offensive. Wnated to soften up the military area, a focus on the border.
+	- Dak To goes up for 20 days, 360+ killed, 1.4k wounded, dozens of helicopters shot down
+	- Hill 875 -- canisters of napalm hitting large numbers of US troops
+	- A large amount of negative press coming home
+- Moral is everything here -- bombing campaigns are meant to destroy Vietnamese morale; guerrilla attacks meant to destroy American morale
+
+MLK Against the Vietnam War
+- MLK contributres his voice to the anti-war movement
+- Dr. Benjamin Spock -- leading US pediatrician who wrote a famous book on raising children
+- Spock who wrote for *Ramparts*, MLK, etc. begin to add new voices to the anti-war movement
+- NYC, 500k people march
+- CIA CHAOS and FBI COINTELPRO are infiltrating the movement
+- Some people believe anti-war is a communist plot or promoted by the communists; trying to figure out how to destroy the movement
+- Another side -- there are counterprotests. 67 and later, whenever you have protests, you also have counterprotests
+- A question of resolve -- do we have enough resolve to stick it out in Vietnam and win
+- From the view of the anti-war perspective, we've already lost, let's get out
+- Different ideas about what is going on -- 'better dead than red', 'our country right or wrong'
+
+Private Doubts, Public LIes
+- As we get deep into 1967, McNamara begins to change on his position in the war
+- A limit beyond which the US should not go
+- McNamara resigns -- his approach isn't working, he will resign
+- "A tiny backward nation"
+- Continuing promotion of this idea that the US is winning, we will win the war in Vietnam
+
+By End of 1967
+- Pres. Nguyen Van Thieu secures a hold on the SV government; he and Ky are dictatorial figures
+- Westmoreland continues to promote optimism -- wants to be fed more troops. But increasing calls from the media to be more pessimistic -- the line you're hearing isn't treu.
+- By 67, US forces are basically in total command of the ARVN
+- Anti-war protests reach a mainstream; once colleges opened up the amount of people who were in coolllege began to join the atni-war movement just out of self-interest. 
+
+Marines at Khe Sanh
+- The siege of Khe Sanh
+- Are shelled daily -- people mostly hunker down and hope not to get hit by an artillery shell -- the TVs are runing this
+- The siege just becomes a televised event -- journalists would report on what washappening. Americans from their dinnertables are watching this seemingly unending war 
+
+Anti-War Sentiment in 1967
+- Greater US deaths in Veitnam
+- No clear metrics for vectory: McNamara estimating we spent $10 to deestroy $1 in the NV
+- Americans don't really care too mcuha bout Vietnam; eroding support for the war
+- Beginning of the global economics slowdown, people ar einteresting against future commitment to the war
+- Vietnam malaise -- "no more Vietnmas" 
+- New set of metrics fror going to war in late 60s
+- A omovmenet of moving out 
+- By 1967, the US was in a war that it did not want and could not win.
+- LBJs political career was in jeopardy
+- American militwry employed many successes and practiced some effective techqnues, but failed to understand respect their army.
+
+Sum Up
+- 
+
+---
+
+## Lecture 14: 1968, Part 1 -- things Fall Apart
+Argument: the Tet Offensive and the Vietnam War most genearally as well as the assassinations of 1968 made in the nation's path forward appear fraught with fear, danger, and chaos.
+
+- Robert Kennedy quotes this "flalling apart"
+
+Aisgnificant part of what happens globally -- tehe importance of yougn people. 
+
+Gen. William Westmoreland
+- Ongoing otpimism, over 530k troosp in the US by the middle of 1968
+- Speeches tot he press - peopeele in VS wer eprotected, etc.
+- Ecnrouage US troosp, victory is in hand if you reach ir
+- Breaking the will fo the enemy
+
+Moral as the Central Objective of the War
+- Reporting different stories than the official line. Would see what is going on and would talk about it, put it on the newd
+- Not as much censorship as in other wars
+- Americans are seeingm ore of the war
+- Civil protest is spreading through 67
+
+Marines at Khe Sanh, 77 day siege 1967 to 1968
+- January of 1968, LBJ and Westmoreland feel convinced that there is an offensive which is trying to overwhelm Khe Sanh and are foucused on rptoecting it
+- From the perspective of the communists, have been planning for months but Khe Sanh is a distraction, planning simultaneous attacks throughout SV, beyond anything they had attempted before, would take advantage of the Tet holiday ceasefire, hitting over 200 targets at the same time, about 80k troops to this operation
+
+Tet Offensive -- January 31, 1968 3AM
+- Smuggling lots of guerrilla forces into the south
+- Taking a lot of civilian clothing and blending in, taking jobs, working with farmers, etc.
+- Belnding into cities, bases, airbases, etc.
+- Targets -- cities, towns, military bases
+- About 80k people were part of the attack
+- General offensive or uprising
+- Well-carried suprise attacks; but in general the US and ARVN forces held; none of the attacks were successful, they were all failures
+- The north vietnamese weren't too in touch either: the Communists had told themself the story that if they had attacked, the Southern peasantry population would support them and that the ARVN would defect or put down their weapons. None of thesea re true
+	- Peasantry tried to stay out of it
+	- ARVN did not defect
+- NV government dreams did not come true
+- Tet Offensive is a set of massive tacitcal defeats for the communists
+
+Marines in Hue City, 1968
+- Marines in Hue are re-taking the city after it was almost entirely captured by communist forces
+- Hue is one of the most attractive cities in the southern part of the country, had a lot of French architecture and local architecture, etc. -- a medium-size attractive city
+- The city is nearly levelled by the end of the fighting -- the Communists don't want to leave but get themselve trapped when Americans take the city back -- marines go house-by-house, rooting out all of the communists
+- Intense house-by-house fighting, many marines are getting killed and wounded
+- Heavy destruction of the city; of 135k residents, 110k end up homeless
+- Communsits spent months infiltrating Hue and getting operators in the city. These are secretive forces in different conditions, getting ready to attack Hue.
+- From the Communist perspective, they needed to kill off people who knew -- executed 2.8k civilians on the way out and burying them in a shallow grave
+
+Fighting in Saigon
+- Main city in the South, fighting goes on for a long time
+- A shock to many people -- a lot of people felt that Saigon was a safe place, but now there was fighitng in the streets and bombs going off, attacks on the US embassy, attacking the airports, etc.
+
+TV Coverage of Tet
+- Really covered all of the shock
+- Photo: Viet Cong guerrilla is brought before an ARVN officer and the officer shoots the guerrilla right in the street.
+- One of these scenes which is so disturbing that they can't help but feel engatively about what is going on in the war.
+- After years of the optimism and light at the end of the tunnell, Americans have to think about what is really happening -- this is where the last peice of the American morale is going to die, with the Tet offensive. 
+- A terminal effect on US morale
+- The media don't focus on the enormous communist losses, but the media focus on the surprise and the how could this happen narrative
+
+Tet Offensive and American Morale
+- A democratic country at wartime: public opinion matters. Different in a centralized government.
+- Media has a profound legacy in the war -- a lot of blame to go around after the war.
+- The media has a strong piece of complicity int he war  -- they tell certain stories and narratives. 
+- Walter Cronkite's news broadcast -- gives an assessment of the Tet Offensive and what it means -- we are in a stalemate and probably can't win the war. A surprising thing to see from CBS news, to hear that the war probably cannot be won
+
+Outcomes of TET
+- PAVN/PLAF lost approx 58k troops. A massive defeat yet when it's over they plan 3 more offensives in the next 12-14 months in 1968 and early 69. Not defeated by this, will continue to pushes
+- American morale is beginning to feel the pressure. 
+- 1000 a month for American losses by the middle by the Tet offensive
+- Westmoreland reads this as the last gasp, requests additional 200k troops
+- MOre negotiations die down, more US deaths
+- 1968 -- over 2k deaths just in that month
+- 1968, 25k US dead, hundreds of thousands of Laotians, Cambodians, and Vietnamese
+- For the Communists, a series of tactical defeats lead to major strategic victory
+- American morale is about to be finished off.
+- Johnson grants Westmoreland 13k troops and fires Westmoreland
+
+No faith at the Top
+- No sense of what to do at the top -- can't just win and pull out, not sure waht to do
+- McNamara is so defeated that he resigns in Feb. 1968
+- Replaced by Clark Clifford as Sec. of Defense
+- Comes in as a war hawk; takes him a few months until he realizes it's not meant to be and turns against staying in the war also
+- By the end of spring, Clifford is urging johnson to end the war
+
+1968 Presidential Election
+- LBJ, the public is framing LBJ as a pro-war candidate, right or wrong
+- Eugene Mccarthy gets in the rac efirst as an anti-war candidate
+- Robert kennedy said he wouldn't run but gets in latrer, which irritates mccarthy because he is also the anti-war cnadidate but the one with more public support, fires up people of color, young people, becomes by summer of 68 a leading candidate. Beats McCarthy i mamny of the primaries
+
+The Kerner Report
+- A striking report -- from inside the government, leader is the governor of Ohio. 
+- Not a very radical document, but it really doesn't hold back -- *To Secure These Rights* doesn't point fingers, the Kerner Report points fingers
+- "White soceity is deeply implicated in the ghetto. White institutions created it, white institutions maintain it, and whit esoceity condones it."
+- A lot of the conflict is caused by poorly trained police and national guard units who are harsh with black people
+- Belief that the riots showed ungoverned anger by Black people, but the report suggests that instead it is fear of police burtality and the national guard
+- Recommends ghetto enrichment and integration outside of the ghetto -- more Great Society, more War on Poverty -- the type of stuff which is being slashed to pay for the war in Vietnam
+- This report comes too late, at the wrong time -- the report is ignored by Johnson. It is an election year, what the report said is not something which is political viable. 
+
+Johnson in 1968
+- Tries to use Tet as another sense that the US would win the war
+- behind the scenes, reading between the lines, we see what's happening: Johnson gives the military 13.5k more troops, brings Westmoreland home and replaces with Gen. Creighton Abrams. Westmoreland becomes Chief of Staff
+- Bombing gets reduced in faovr of negotiation
+- Johnson goes on March 31 to declare he will not run for president again, which surprised everyone -- this is very rare for a US president
+	- Said that should focus on Vietnam War and not on campaigning
+
+MLK in Memphis
+- MLK is in Memphis, where MLK goes in support of the sanitation workers who are going to strike
+- Memphis is a place where the sanitation workers are basically segregated; goes to support the strike
+- Famous "I am a man" posters came after the mayor of Memphis declared that he would never recognize a union among sanitation workers
+- MLK preached non-violence; while this was happening, there were also others turning out to riot; a clash in Memphis between nonviolent and nonviolent protest
+- "I've been to the mountaintop" speech -- continues to talk about unity and nonviolence, but was confessing privately that he doubted the future of nonviolence -- that the countryw ould have to go through a spasm of violence -- this is what king was saying
+- Memphis, TN in April 4th -- assassination
+- Set off protests, property destruction, and violence in over 100 US cities
+- Carmichael: "Now that they've taken Dr. King off, it's time to end this non-violence bullshit"
+- Robert Kennedy showed up and simply announced to the crowd that King had been killed instead of giving his speech; a shock to many Americans
+- 1968: unrest following King's assassination in many American cities -- fires, lootings, etc. -- similar to summer of 67
+- Urbsan unrest -- came very close to the White House
+- 1k buildings burned in Washington DC, 27 million in damages
+- Baltimore: $13.5 million in damages
+- Chicago: anyone doing rioting should be shot on sight, had a no-tolerance policy against urban unrest
+- Lots of arrests and presence of national guard, army being called out
+- After MLK is killed, students begin sit-ins at Columbia University
+	- Columbia is not far from Harlem, a famous Black area of NYC
+	- Columbia as an Ivy League school is full of white middle/upper-class students, begin occupying the university, shut down many buildings, not allowing the normal work of the school go -- occupy for 8 buildings, not allowing other administration or faculty to come and go
+	- In general, upset about the Vietnam War and the assassination of MLK
+	- The school had been planning to build a gym over a park near Harlem which none of the residents could not use
+	- Other specific requests
+	- Finally after 8 days the police forcefully evicted the students
+	- The police pulled people out, fights ensued not jsut with the police but also class-based fights on the street also
+	- You get counter-protestors: many working-class police facing off against "spoiled" Ivy Leaguers who didn't respect the country and the police, and needed to have thier asses kicekd -- evolving in a sort of class-based way
+
+Civil Rights Act of 68
+- A brewing need for invigorating the Civil Rights act
+- Assassination of MLK helped push this trhough
+- Hate Crimes Law -- federal felony if you are injuring on the basis of race, color, religion, national origin 
+- Fair Housing Act -- prevents discrimination in housing, renting, maintaining. Finished off an older law which didn't fill in issues on discrimination in housing.
+- Anti-riot act (H. Rap Brown law), illegal to travel state lines to 'begin a riot' -- this is what the Chicago 8 are prosecuted with, crossing state lines to start a riot
+- Finishes off some of the old loopholes in the law
+
+Robert F. Kennedy
+- Becomes very popular 
+- many people are not completely sold, remember his unsavory elements, e.g. getting rid of Castro, union-busting etc.
+- People of color especially became one of his main bases of support, as well as college students -- moved by ideas on finishing off the war on poverty
+- Got all the support and was doing well, had won most of the primaries except in Oregon to Eugene McCarthy
+- Of course he is assassinated in June 1968 at a hotel where he had won the California primary and was giving a speech
+- Very crowded, security nightmare, had finished talking and was in the kitchen area; 4 people were shot and he was shot in the head, did not survive. Died.
+- Another mysterious se t of circumstances; many people reported seeing people running; witnessed people come out and say "we killed Kennedy", reports on more shots than could come from one revolver, lots of conflicting witness information. A Palestinian immigrant was convicted who seemed to be deranged and had no real interest in Kennedy?
+
+Sum Up 1968 -- from January to June
+- The consequences of the Tet Offensive, underfunding of the War on poverty and Urban Unrest
+- Assassinations showed a world out of control
+- A time of crisis for the nation
+
+---
+
+## Lecture 15: 1968, Part 2 -- Global & National Changes
+A year of global protest became a commentary on personal liberation, imperialism, racism, and authoritarianism. Little was resolved, but new social... [fill in later]
+
+Global protests
+- A very global year in many respects
+- Europe has a series of movements for greater liberation and Freedom -- Paris, Prague (Czechoslovakia), Mexico City
+- Anti-war protests in Tokyo, Munich, London, and Rome
+- ireland
+- The same convulsion going on  -- turnout of young people, workers, too many authoritarian people  in power
+
+Paris, France
+- May 1968 -- students and workers in solidarity
+- Talking about French occupation of Algeria
+- Workers go on a general strike and make common cause with the students -- basically shut down the city
+- De Gaulle's government flees
+- Occupation of buldings, protests, general strike
+- After increased attention to social rights and improved workers pay
+- Reflects what is happening in other places
+
+Prague Spring, Soviet Invasion -- Jan to Aug, 1968
+- Reflecting movements for Slovakian nationalism and independence; reaction by the Communist government which was lax and allowed this movement to build
+- More and more students turn out to protest, using tactics which come from the US -- marching in the streets,e tc. Really beginning to raise their voices.
+- Not a place with free speech -- Soviet Union enforced area, but people are demanding reforms in the government if not a new government
+- Many of these new voices are coming out of Prague
+- The Soviets step in and send tanks rolling through the streets, put down and crush this democratic movement among students and workers
+- Some changes -- created in peoples' minds the possibility of the future, what they would like to see in the future
+- When the Soviets are drained after the war in Afghanistan, in Poland there is a democratic movement and the Soviets do nothing; then other places have movements for independence, waiting for their moment to seize power
+- Defining moment -- the self-immolation of Jan Palach, takes up the mode of the Buddhists and sets himself on fire
+- Shapes Johnson's appraoch to the Soviet Union -- they look a little weak now, Khushchev is gone
+- Johnson even considered re-entering the race, could help push this collapse later
+
+DNC in Chicago, August 1968
+- Conventions pick the candidates who will run for president, in different cities each time
+- Large numbers of young protestors who are yippies, hippies, SDS, etc. turn out and protest against the war. Want a candidate which reflects their interests.
+- Do not want Hubert Humphrey, LBJ's vice president. See Humphrey as a pro-war status quo candidate. Want to see McCarthy (as Kennedy is dead); George McGovern also added.
+- What they meet when they get to Chicago is a massive resistance from mayor Richard Daley who told the media that looters should be summarily shot in the Long Hot Summer
+- Prepares more than 10k police, calls in the Illinois national guard and gets the US army to police the Black nieghborhoods lest it turn into another moment of urban unrest
+- The protestors had registered for permits many times (freedom of petition in America), the mayor refused to grant them permits
+- Protestors show up with now legal space. Sets up a violent showdown between these two groups
+- Main figures at DNC
+	- Eugene McCarthy, anti-war and further left
+	- Hubert Humphrey, Johnson's heir
+	- Edmund Muskie from Maine, promotres environmentalism
+	- George McGovern, a stand-in for Kennedy
+- Anti-war protest by the National Mobilization Committee (Mobe)
+- Yippies led by Abbie Hoffman and Jerry Rubeman, made ridiculous threats, talked about releasing greased pigs, nominating a porcupine for the nomination, putting LSD in the water supply, etc.
+- Daley lacks any sense of sumor and prepares for a fight
+- Inside the convention, a fuck ton of disorder -- anti-war folks would take over the proceedings, wave stop the war signs, sing protest songs, and shut down the proceedings several times as they went through the proceedings
+- Daley organized police, national guard, garbage workers, and mnuicipal workers to corralle the protestors. Publicly promised absolute control of the inside and outside of the DNC
+- Chicago Police Riot at the DNC, 1968
+	- Turned into an orgiastic violent demonstration
+	- Many shots of police openly beating people with clubs
+	- People bleeding, complete mayhem of violence
+	- Arrest hundreds of people and put them into police wagons, people begin chanting "the whole world is watching"
+- Sen. Ribicoff talks about what is happening in the streets as "Gestapo tactics" -- constant reference to the Nazis; Daley shouts a racial epithet at him to get off the stage. This type of thing hadn't happened before. Inside and outside, coming apart.
+- Outcomes
+	- Americans, 59m saw this on TV
+	- Response was divided
+	- Many Americans at this point have a very poor view of the anti-war protestors
+	- Many other people see it the opposite way -- unnecessary violence
+	- Ultimately deemed to be a police riot by the courts -- the police used more force than was necessary
+	- CBS news received thousands of letters; 90% criticized the coverage as favoring the demonstrators and being too critical of the police
+	- A large fracturing of the democratic party
+	- Can see huge divisions forming in American society
+	- George Wallace introduces all the good ideas and Nixon takes them; gets lots of mileage from criticizing the Democratic Party
+	- CBS journalist Dan Rather is on the floor of the convention getting beat up -- people trying to throw him out of the convention
+	- 
+
+
+
+
+
+
+
+
+
+
+

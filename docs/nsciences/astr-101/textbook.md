@@ -1298,7 +1298,47 @@ Direct Observations
 - LIGO stations: if Einstein is correct, waves will affect local spacetime and affect the distance laser light travels between mirrors
 - New field of gravitational wave astronomy
 - Neutron star mergers are a significant source of heavy elements.
-- 
+
+## Chapter 25: The Milky Way Galaxy
+
+### 25.1: The Architecture of the Galaxy
+- 1785, William Herschel -- stars lay in a flattened structure encircling the sky -- Herschel concluded that the Sun belongs to a disk or wheel
+- The galaxy is a 100k light year diameter disk
+- Youngest stars are found within 100 light years of the plane of the milky way galaxy
+- Stars, gas, and dust are not spread evenly -- concentrated into a central bar and spiral arms
+- Central bar: mostly old yellow-red stars
+- Barred spirals -- bar-shaped concentrations of stars in central galaxies
+- Stars form a central bulge close to the galactic center
+- Embedded in a spherical halo of old, faint stars
+- Mass in the Milk Way extends further -- dark matter, does not emit any light. Detectable via gravitational effects on orbits of distant star clusters
+
+### 25.2: Spiral Structure
+- The galaxy has two main spiral arms
+- Shorter arm -- Orion Spur, 10k light years long
+  - It's hard to see farther b/c of galactic dust
+- The Galaxy does not rotate like a CD
+- Objects rotate like the solar system  -- differential galactic rotation
+- Differential rotation explains the spiral arms -- differential rotation of the galaxy stretches any original distribution into spirals.
+- How do other galaxies evolve?
+  - Begin as clumpy star forming regions
+  - After a few billion years, galaxies settle down and become spirals with a central bulge
+  - Multi-armed structures appear later
+
+### 25.3: The Mass of the Galaxy
+
+Kepler helps weigh the galaxy
+- The sun orbits the center of the milky way.
+- It takes us about 225 million years to go once around the center of the galaxy -- this is a galactic year. 
+  - Earth is 20 galactic years old
+- We can calculate the sum of masses of the Galaxy and the Sun using Kepler's third law. 
+
+A galaxy of mostly invisible matter
+- A lot of invisible matter exists far from the galactic center
+- The Galaxy needs to have a lot more gravity than is supplied only by luminous matter -- the source of extra gravity has to extend much beyond the Sun's orbit.
+- The total mass of the Galaxy is 2 times 10 to the 12 solar masses; dark matter extends 200k light years from the center of the galaxy
+- What is dark matter made of? Nothing that we know -- exotic subatomic particles. 
+- Which galaxies 'orbit too fast for their own good'
+- Maybe as much as 95% of the mass int eh galaxy is invisible and we don't know what it is about.
 
 ---
 

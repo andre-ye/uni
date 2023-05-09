@@ -766,6 +766,12 @@ Relative, Absolute, and Moral Values. The Ought and the Ideal Models of the Pers
 - God as the person of persons
 - (!!!) **Every intellectual comprehension of an object presupposes an emotional experience of value related to the object**
 
+Questions
+- What is the ontological status of the 'values' to which emotions point towards? Are they like the Aristotelian *materia prima*? Upon what basis do these 'values' have any ethical significance?
+- In which ways does Scheler depart from Husserl's method of analysis? Are Scheler's arguments apodictic? What role does speculation or arbitrary positing play in Scheler's arguments? On what basis does Scheler assert, for instance, the four strata of feeling-states, and on what basis can we validate them under the phenomenological frame?
+- How does Scheler make the bridge from the phenomenological to the ethical? Civilization may alienate ourselves from our emotional capacity for identification, but in what sense is this 'untrue' or 'wrong' if we stick with the phenomenological method? 
+- What the fuck does Scheler mean by an emotive transcendental objectivism?
+
 ---
 
 ## *Being and Nothingness*, Jean-Paul Sartre

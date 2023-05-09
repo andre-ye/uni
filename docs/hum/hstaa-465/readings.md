@@ -875,3 +875,54 @@ This essay reads like an acid trip.
 - Dismissed by the Nietzsches of the world
 - "I oppose the war in Vietnam because I love America"
 - God stands before nations with judgement
+
+---
+
+## Document Collection #8
+
+### "Trip Without a Ticket"
+- "Nembutals" vs "Normal"
+- Advertising; manufacturing of attention
+- "How many TV specials would it take to establish one Guatemalan revolution?" radical equivalences of the commodity, a certain dirty air -- the critical power of advertising and automated circuits -- the nuclear button
+- Somnambulist -- sleep walking -- the living dead, the undead
+- **Theater is territory** -- existing outside of the established boundaries of conduct and activity
+- Gueririlla theater brings audiences to liberated territory -- "a cast of freed beings"
+
+Free store / property of the possessed
+- Human beings are the means of exchange; everything is free.
+- "If someone asks to see the manager, tell him he's the manager"
+- What would you have?
+- The radical concept of a free store
+
+Street event -- birth of haight / funeral for $ now
+- "Pop art mirrored the social skin"
+- People, cultures, mixing, events, life, an excess of reality -- cofnrontation of free beings
+
+Who paid for your trip?
+- Industrialization in 19th century ecology
+- "Wars against ecology are suicidal"
+- "The US standard of living is a bourgeois baby blanket for executives who scream in their sleep"
+- Computers incorporate the principles of wage labor -- technology will free us -- "turn the factors over to the androids"
+- "Give up jobs so computers can do them!"
+- Other revolutions are humanistic industrialization
+- Chaos, joy, laughter, a sort of postmodern Deleuzian body without organs going on.
+- "Theater is fact/action"
+- Defend against property
+
+### Woodall Letter, 1968
+- Letter from Sergeant Phillip Woodall
+- Memphis looks bad to the rest of the nation
+- Black platoon leader from New York was killed
+- No gain that can be seen -- an exchange of lives, a war of attrituion
+- Not mourning for MLK -- moruning for the "real sacrifice" like Scott
+- As the nation mourns, they mourn a bourgeois mourning. 
+- "This war is all wrong"
+- A lot of complex tensions throughout here. Maybe a sent of resentment and bitterness? A sense of fragility and death? A sense of patriotism still infused here, even if it is a totally formal and empty patriotism?
+
+
+
+
+
+
+
+

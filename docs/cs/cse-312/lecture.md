@@ -398,3 +398,23 @@ $$Y = aX + b \implies Y \in N(a \mu + b, a^2 \sigma^2)$$
 
 - We will need to standardize Gaussian random variables -- if I have a RV with mean $$\mu$$ and variance $$\sigma^2$$ and instead I want to get $$Y \in N(0, 1)$$, just set $$Y = \frac{X - \mu}{\mu}$$
 - We want to use the CDF of a normal but it is really fucking ugly for the normal distribution
+
+---
+
+## Week 7 Monday: Central Limit Theorem
+
+Let $$X_1, X_2, ..., X_n$$ be i.i.d random variables with mean $$\mu$$ and variable $$\sigma^2$$. Let
+
+$$Y_n = \frac{\sum X_i - n \mu}{\sigma \sqrt{n}}$$
+
+Summing together the random variables and then standardizing them. The expectation of $$\mathbb{Y_n}$$ is 0 and the variance is 1. Then, as $$n \to \infty$$, the CDF of $$Y_n$$ converges to the CDF of $$N(0, 1)$$.
+
+- iid: independent and identically distributed, e.g. all bernoulli distributions
+- Moment of a distribution: think about raising a random variable to some integer power and take the expectation of this
+- Even if it looks fairly strange, we converge to a normal distribution
+- A lot of real-world bell curves can be explained as: a random variable comes from a combination of independent factors; CLT says that the distribution will become like a bell curve. 
+- Using CLT -- find $$Y_n$$ and pretend that the desired condition operations on the domain of the normal via $$X$$
+- Computational trick: $$\Phi(-a) = 1 - \Phi(a)$$ due to the symmetricness of the normal distribution
+- When using CLT to find the probability that $$X = 950$$ -- CLT is continuous but $$X$$ is discrete. How to make sense of this? What should we do?
+- Continuity correction: the binomial distribution is discrete but the normal is continuous. Before we switch from binomial to normal, we see what values of a continuous random variable round to a particular event.
+- 
