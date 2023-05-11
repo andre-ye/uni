@@ -1340,6 +1340,45 @@ A galaxy of mostly invisible matter
 - Which galaxies 'orbit too fast for their own good'
 - Maybe as much as 95% of the mass int eh galaxy is invisible and we don't know what it is about.
 
+### 25.4: The Center of the Galaxy
+- Core of the galaxy contains a large concentration of mass
+- Supermassive black holes -- mass they contain is much larger than that of a typical black hole
+- Other wavelengths flow unimpeded past dust particles without any dimming
+
+A Journy toward the Center
+- Radio emissions from hot gas heated by clusters of hot stars or supernova blast waves
+- Sagttarius A -- supermassive black hole. A lot of dust and molecular gas revolves around the black hole
+
+Finding the Source
+- Where deos the galactic black hole come from
+- Maybe a large cloud of gas near the center of the milky way collapsed
+- A black hole can grow by devouring nearby stars and gas clouds, and merging with other black holes
+- The black hole is continuing to eat matter -- gas and dust falls in at 1 solar mass every 1k years.
+
+### 25.5: Stellar Populations in the Galaxy
+- Halo stars -- Baade could examine other galaxies
+- Population I stars -- found in the disk, follow circular orbits around the galactic center
+- Population II stars -- no correlation with the location of the spiral arms, found throughout the galaxy; 
+- Population II is older than population I, and has lower abundances of heavy elements
+- Stars are born over time with larger supplies of heavy elements
+
+The Real World
+- There is no sharp boundary for what the disk counts as. Older stars define a 2k light year thick disk, but the new young stars have 200 light years thick.
+- Highest density of stars is found in the central bulge; star formation formed very rapidly after the formation of the milky Way. 
+- Small megallanic cloud -- very crowded, star formation happens slowly, lower heavy elements
+
+### 25.6: The Formation of the Galaxy
+
+The protogalactic Cloud and the monolithic collapse model
+- Oldest stars are distributed in a sphere around the galaxy -- perhaps a protogalactic cloud was spherical; then, like in star formation, it collapsed and formed a rotating disk
+- Gravitational forces cause the gas to fragment into clouds, which fragment to form stars
+
+Collision Victims and the multiple Merger Model
+- Sagittarius galaxy is much smaller than Milky Way 
+- When a small galaxy comes too close, our galaxy tugs on the near side harder, which pulls on the orbit of the small galaxy
+- The Milky Way will get swallowed by the Andromeda galaxy also into a merged galaxy
+
+
 ---
 
 ## Philosophical Relevance

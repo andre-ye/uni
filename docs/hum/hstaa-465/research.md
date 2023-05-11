@@ -142,5 +142,9 @@ A New Liberal View and the Conservative Turn
 
 Lots of good stuff on Rawls' thought on political action and the broader liberal tradition in the last few pages of this chapter
 
+## Chapter 3: The War as Moral Crisis
+- 
 
+## Chapter 5: Going Global
+- Rals anticipates objections to cross-country differences, p. 9: applying principles of justice globally is psychologcially implausible.
 

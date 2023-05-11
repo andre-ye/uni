@@ -517,9 +517,56 @@ ASTR 101
 - Time travel -- you just have to get close to the event horizon
 -  Hawking radiation -- right near the event horizon, it is possible for quantum mechanical properties to prdocue radiation at the event horizon itself
 - We're not ereally sure what's going on -- it's possible that the event horizon is full fo searing ultraviolet radiation and youa re turned into pure energy which stays on the vent horizon
-- 
 
+---
 
+## Week 7 Wednesday -- Galaxy
+- If the black hole forms from something which is rotating, then the blak hole must rotate
+- The planets wouldn't change their orbits if the sun turned into a black hole
+- How do we observe black holes? Black holes are very small even though they are massive; less than the size of the Earth's moon -- small objects. We need to look at things near the black hole
+- Material falling into an object heats up the black hole; particles spinning around the black hole reach the speed of light; there are many X-rays getting away from the black hole 
+- We can look at a binary system and figure out the mass that an orbiter has to have. It must align with how much light we observe. If it has really high mass but low light then it is a black hole. 
+- We look at X-ray binary systems: invisible companion in a system producing a lot of radioactive energy.
+- We have figured out how the milky ways in the last 100 years -- a new thing
+- Three parts of the solar system
+  - Disk -- 1k light-years thick (more like a few thousand thick though). Sun is in the disk, 28k light years from the center. Disk is very thin. Few hundred billion stars int hed isk of the milky way. Very large -- not a solar system, a totally different beast. Disk merges with a bulge in the middle
+  - Central Bulge or Spheroidal Region -- 7k light years in radius, roughlhy spherical but more oblong
+  - Halo -- Disk and Central Bulge are embedded in this. The Halo is very large, 1m or more light years away. 
+- Differences between sub-regions
+  - Distribution of Inter-Stellar Medium (ISM). Empty space between stars is not empty -- thre is thin grey and black dust, found between the disk and the bulge region of the milky way galaxy.
+- Radiation put out by the ISM determiens what radiation it gives out -- e.g., gas leaving a Red Giant star  - On the inside of the supernovae are high-speed gasses and intense radiation, carvivng out bubbles of hot classs
+- The ISM is so thick that the bubbles stop expanding and the gas in
+- When hydrogen cools further to 10k - 30k, it forms molecular hydrogen, which can give rise t o H2O, CO, NH3, etc. Where Carbon and Hydrogen can interact with each otehr!
+- Not very much energy to resist gravity -- coler regions are more susceptible to gravitational pull nad stars are formed
+- if you want to form stars, you need cold gas to start with so it will
+- "Pillars of creations" -- denses cores are able to resist wave of radiation passing them. At the tip of each of the pillars is a new star.
+- Star formatino only happens significantly in the disk and bulge, because that's where the ISM is concentrated. There is little cool ISM in the halo
+  - Stars are forming in the disk in the bulge of the galaxy and not in the halo.
+- Another distinction between the disk and bulge and halo: different compositions.
+  - Because stars are still formingi n the diska nd the bulge, there are old and young stars. High-mass stars cause some fraction of heavy elements to populate the area.
+  - More iron in the disk and the bulge
+- How do the stars move in the diffeent regions? Stellar orbits in the galaxy
+  - Bulge and halo are similar: the stars in the bulge and the halo are both randomly distributed in orientations, eccentricity, etc. When you take orbits from different angles, you end up with a largely round strucuture, roughly spherical.
+  - Both are roundish because the objects that mov ein them have no preferred plane; prefer orbiting aorund the milk way
+  - Stars in the disk have a prferred galatic plane
+  - Pull of different stars -- in general just move around itn he middle of the galaxy./
+  - Sun has orbited about 19 galactic-years
+  - Stars don't run into each other, pass by
+  - The Sun eventually gets up above the rest of the stars, at which point the gravity of the whole disk pulls the sun right back down; there is this sort of bobbing and weaving motion of the sun; this sort of bobbing is why the disk has a thickness - fluctuation up and down.
+- Stars orbit the center of mass of the entire milky way, not a central object in the middle of the milk way which is pushing everything around. 
+  - We are not orbitign some highly concentrated mass per se
+- While most of the Milky Way's mass is not piled up in teh center, we can see towards Sagittarius and the galactic center. If we do not llook through visible lgiht, in the thickest part of the area, but rather look through infrared, we can see what is hapepning at infrared wavelengths, we can see more
+  - We are orbiting something at the location of the center of the galaxy -- mutliple stars are orbiting around it
+  - We observe that some stars are traveling very very quickly
+  - How much mass do we need?
+  - Supermassive black hole lying in the center of the solar system
+  - Totally different from regular black holes
+  - Andromeda galaxy -- also a supermassive black hole there, too, probably
+  - We see these supermassive black holes in basically every galaxy.
+  - Supermassive black holes are so big that we can take pictures of them. Event horizon is larger than our solar system
+  - How do supermassive black holes form? We don't really know what's going on. 
+  - We can also measure the shaking of space and time -- gravity waves. As objects move around each other on the trampoline of spacetime, we can measure the waves which carry away energy and make them merge over time -- literally space and time shaking as objects merge. Intermediate-mass range black holes
+  - Supermassive black hole is not closed yet. 
 
 
 

@@ -776,16 +776,122 @@ Scheler
 - Indignation is the means by which you experience injustice as a disvalue
 - Maybe a very important development in the history of ethics -- going beyond Kant, analytic ethics, Hedonism, etc. -- we need to understand feelings as that is the mode through which we access values.
 - Values are hierarchal -- sensible, vital, spiritual, holy/absolute
-- 
 
+---
 
+## Week 7 Tuesday -- Scheler's Emotional Phenomenology
+- Feelings -- some are not intentional. Getting drunk is not intentional. But the feeling of injustice is directed towards a value. Values do not exist outside of their emotions -- if you aren't feeling indignation, you aren't feeling justice
+- Scheler mentions spiritual feeling-states include blissfulness and despair. 
+- Physical feeling state -- can be released via external means
+- Something like Sorrow -- do we really have a drug for that? 
+- Distincition between that which is subject to narcosis vs not-narcosis
+- What Scheler wants to say -- what you call blissfulness or feelings in general, these are fundamentally different realities. We start out by observing qualitatively different realities
+- Psychic vs physical feeling states -- psychic feeling-states include sorry, joy, sadness. But these are fundamentally different from physical feeling-states of blissfulness and despair. 
+  - Despair vs sorrow
+  - Scheler wants to avoid the suggestion that higher feeling-states are merely accumulations (quantiative) of lower feeling-states, e.g. despair is an accumulation of sorrow
+  - Pain you feel at any moment is different from the vital feeling of weakness.
+  - Can we do what Scheler is saying which is to assert fundamentally different feeling states? Sorrow vs. despair
+  - Despair is about everything, sorrow is over something
+- Nietzsche, *The Birth of Tragedy* -- Dionysius, a birth tragedy on the Dionysian (god of drunkenness) vs the Apollonian () -- demonology of Satan as a goat with satyrs -- one of Dionysius' satyrs, terrible wisdom: King Midas, Midas is looking for Dionysius and finds the satyr, demands that the satyr give up the wisdom of Dionysius; satyr is asked What is best for man? Responds: Never to have been born first, second to die quickly. From this despair, gives rise to the Olympian vision of Zeus and Apollo, gives us things like tragedy as a work of art
+  - Works of art are underlied by a deeper despair
+  - Scheler's semi-Christian view: below all pagan cult with drunken plays and great joy is a more fundamental despair -- this is nice, but it would have been better never to have been born
+  - Despair vs blessedness -- fully reconciled with reality. Regardless of joy or sorrow, your blessedness cannot be disrupted, regardless of how much sorry you feel. A distinction between the psychic feeling state of joy and sorrow vs the spiritual feeling state of blessedness vs despair. 
+    - Being high on heroin is *lexically different* from higher forms of feeling
+- Scheler has different means for demonstrating the distinctness of the different feeling-states. Arguments / grounds for distinguishing relative independence of different feeling states
+  - Pain vs sorrow is not subject to narcosis -- if you take heroin, are you really going to feel bliss?
+  - Phenomenological evidence of their distinctness. On what level Scheler is arguing that the qualitative distinctness between sorrow and despair is given in experience.
+  - Search for evidence in experience. Can you differentiate bodily feeling states (pleasure) from the expansion of life, seeing life growing in you, greater vitality
+  - Spatial and temporal statuses of feeling-states
+    - pain has a spatial and temporal quality as opposed to drunkenness, which you feel throughout your entire being as a vital feeling state, or wakefulness -- not restricted temporally or spatially in the same way.
+    - Blessedness can persist temporally (endure) through all kinds of pain and pleasure, joy and sorrow. Not located in the body, but the person.
+  - We can't use one word ('feeling') for what are qualitatively different experiences. 
+  - Some values are spatial and temporal; others aren't
+  - Breaking bread in half -- bread half is worth half as much as another
+  - The reality of a symphony does not decrease if we both enjoy it, but my enjoying of bread does decrease if you take my fucking bread
+  - Communicability of emotion -- we can share the same symphony as an intentional object -- relationality is also brought in here. In what sense are these different feeling states communicable above and beyond their mere phenomenological distinctness
+- Is there a mind/body dualism here?
+  - Can someone feel enormous pain and not sorrow?
+  - Are sorrow and pain fundamentally distinct; can you imagine a situation in which someone is in great pain but not in sorrow
+  - You can't separate your pain from your sorrow, they are all in you. And there is no absolute independence. But the question is -- there are still fundamental differences.
+- In any concrete embodeid personality, acts themselves occur in a certain psychic or spiritual feeling-state. You can be perceiving a symphony and also having a really bad ingrown toenail -- a quality of your whole experience. A feeling-state is not an object you intend to; it is a state. you don't get high by thinking about heroin and you don't feel pain  about thinking about a knife or the pain; the pain can persist as a background state which is a quality but which is not independent of your actual acts. 
+- Feeling states are a quality of the ego, and it shapes the entire world for you
+- Feeling states are like noetic states in the broadeest sense -- are given in conscious not as objects, but as a quality of awareness. I am aware of you as elated.
+- The value of beauty in the tree is an object that you can't actually be conscious of unless you experience that beauty
+- "The eye of love" -- they see more because they lov  e. 
+- Fellow feeling (watching the marriage being officiated) vs feeling with someone (community of feeling, marriage)
+- Community of feeling (together in feeling) vs psychic contagion
+  - The feeling itself is that which is shared, not the response to an object with respect to a 'thing'
+  - Totalitarianism, Nazism -- falls more into psychic contagion, but there is also a dissolution of the individual, a communal feeling
+- Psychic contagion -- laughing? Mobs?
+  - "it differs from community of feeling in that there is no active participation in someone else’s feelings"
+  - Ah! The humanity of it all. -- community of feeling, you put yourself in the group; psychic contagion, you lose yourself in the group.
+  - Identity plays a large role in this -- self-identification
 
+---
 
-
-
-
-
-
+## Week 7 Thursday -- Scheler, Emotive Ethics
+- Formal vs non-formal ethics
+  - Formal ethics: Kantian ethics, as far as Scheler is referring.
+  - Ethics of goods -- utilitarian ethic 
+  - Scheler's non-formal ethics of value
+- Scale of values
+  - Holy / unholy, or absolute value
+  - Spiritual value
+  - Vital values
+  - Sensible values
+- Utilitarianism doesn't distinguish between any of these values -- everything is reduced to sensible values. Vital values are a quantitative accumulation of sensible values. But are they qualitatively distinct, phenomenologically and 'in themselves'?
+  - Is there just pleasure or pain disembodied?
+  - If this is all true, whya re we not all hooked onto dopamine hits all day and just sit consuming chemicals
+  - Most dystopias are utilitarian ones -- why do we recoil? Because we perceive values which transcend the sensible
+- Utilitarianism is ethics of good; kantian ethics is formal ethics
+- Scheler: utilitarians don't really understand values as values
+- Form vs. content
+  - Formal ethics: a priori -- Kant -- a priori cannot possibly be the basis of our ethic, find what people prefer and then maximize this -- totally open to relativism and horrors of any kind. This cannot possibly be a rational method. We must find out what we must do first. Formal, in the sense of rules or forms of reason which dictate what we must do prior to and irrespective of any experience that we might have. e.g. always tell the truth.
+  - Utilitarian ethics: a posteriori -- consequentialist, wait until who are we as beings. 
+  - Scheler's critique: the forms are empty. Kant doesn't tell you what to do in any particular situation. The form is abstract, abstract rules. Form -- universal and necessary. Always tell the truth, but also always help the innocent. What do you do when you're hiding Jews in your basement and the Nazis come knocking on the door? Abstract forms don't tell you what to do, you need for the concrete situation to emerge first before the rule can emerge itself.
+  - Can we get absolute ethics in a different way through values, from Scheler?
+- Scheler: agrees with Kant's criticism of utilitarianism, we need these universal rules which apply regardless of what our preferences are. There are problems in formal ethics. Scheler is saying that Kant's ethic is phenomenologically inadequate -- it doesn't account for the full complexity of our ethical lives on a phenomenological level.
+- Phenomenological critique of the libertarian account of property -- a kind of overlooking of the co-positing of an other as co-constituting property as such. The libertarian is phenomenologically forgetful of the origin of property in your experience.
+  - Is wealth distribution theft then? No, it's not -- because it was never 'yours' to begin with
+  - Can also do a phenomenological critique of utilitarianism. How does utilitarianism reduce all values to sensible values?
+- Scheler: the scale of holy/unholy, spirital, virtal, sensible is itself absolute. Well, is this actually given in my experience? 
+  - Utilitarians feast upon the rotting flesh of the holy -- at root everything is a sensible value relative to you. 
+  - Bentham: the idea that people have rights independent of absolute rights independent of our pleasure and pain is a fantasy on stilts -- our masters are pleasure and pain
+  - Scheler says: no, this is phenomenologically false. How can we disitnguish the hierarchy of values given phenomenologically?
+- A priori but still ethics of value
+- Feeling-states -- in a Husserlian sense, qualities of the ego as flowing, in the flow of time, temporal consciousness
+- Feelings as intentional responses to objects, aka. values; emotive transcendental objectivism, pheonmenological objects given in consciousness, but they are objective too
+- CS Lewis as a phenomenologist
+  - Alternative thesis: "this is sublime!" -- we are not commenting about the object, but really something about our own feelings. 
+  - Lewis: sublimity is a value, we reach sublimity through the feeling of veneration
+  - Theory of the sublime in aesthetics -- the sublime is terrifying, overwhelming, but also holy, seeing God and having your face melt. It's not necessarily pleasurable; but to the extent that it is pleasurable, it is beyond any conception of a 'material' pleasure (transcending)
+  - We have access to the sublime through feelings (e.g. the feeling of veneration)
+  - We cannot reduce everything reflexibly to the person: "You are contemptible" really means "I feel (you are) contemptible"
+- Holy/Unholy -- another way to speak of the sublime. The value of the sublime is that we have access to it, but only in our feelings.
+  - if you truly experience the holy as the holy, you experience it as preferable to all of the lower three values. 
+  - Contrast with Kant -- our feelings can only lead us astray. Scheler is 'material' because it's not just a law, but it is given in our experience.
+- Scheler just insists the hierarchy is absolute and true, in a certain sense that it is intersubjective
+- Nietzsche -- also a critique of utilitarianism, says htat virtal values are really the highest, and the holy is subordinated under that. 
+- Feeling-states are not intentional responses to objects as such; they can be the result of an accumulation -- you can feel sublime and then have a feeling of the risen; but this is not the same phenomenologically as actual response to an object via feeling.
+- The waterfall is a bearer of the value; there's the waterfall and the value, and both are objects. Scheler would say just attend to your expeirence -- it's not just that the thing given is the object, the waterfall as bearing the value of sublimity, and you respond on the level of your senses and feelings. Both are intentional responses. There's actual seeing and then there's feeling. Both are intentional acts. A synthetic unity of a total object which is the sublime waterfall.
+  - If you couldn't feel veneration you can't perceive sublimity, but it doesn't mean that 'objectively' sublimity isn't any 'less real' than veneration
+- What is the relativity of values? To waht extent do they require the beings to perceive them? Just as color is relative to vision?
+- Scheler emphasizes that objects have the objectivity of being the directed-to of intentional responses
+- As opposed to values as illusions -- subjective projections 
+  - Feelings are not subjective projections onto objects -- phenomenologically it doesn't work, values are objects of these feelings
+- Absolute values are not dependence on the essence of life and sensibility -- exist only in independent pure acts of love
+- Nietzsche and Kant -- man posits values; Scheler -- man is only an ontic bearer of values
+  - Scheler: hierarchy and ranking is absolute; the values cannot be given outside of feelings, the feelings are determinations of us. They are dependent on humans existing. But insofar as man exists, the values he experiences are true too.
+  - The less relative to others, the higher the value.
+  - Distinct meanings of relativity -- relative to the relativity of being, but also relative to each other: and as they tend higher they tend towards less relativity
+- Values walk silently ahead of the objects to which they refer
+- Nietzsche's critique of Christianity: slave morality
+  - Vital values: vigor, strength, political domination, life as growing and expanding (Nietzsche's wet dream)
+- Kill yourself to live forever
+- Every value has a disvalue: as opposed to vigor, there is weakness; domination, meekness; health, sickness; political power, poverty
+- Nietzsche says that Christianity inverts vital values
+  - Story: the Jews of ancient Palestine are under Roman rule. The Jews, though, never lost their sense of self-worth: they were the children of God, but couldn't express that. Romans crucified people (apian way) -- expressing their vigor, strength, political power. Jews were subject to this for centuries and claimed their status as Holy, forced into a state of servitude by the Romans. So, according to Nietzsche, thy said -- to be weak is to be strong. Paul: there is strength in weakness. Nietzsche says that Christian morality is the product of Jewish revenge on Greco-Roman conquerers by inverting the values, *making them feel guilty* (Is Nietzsche an anti-Seitic conspiracist? Maybe not) Christianity is the single greatest guilt-trip of all time. 
+  - Patience is a virtue -- guilt-trip someone
 
 
 

@@ -2498,13 +2498,238 @@ DNC in Chicago, August 1968
 	- Can see huge divisions forming in American society
 	- George Wallace introduces all the good ideas and Nixon takes them; gets lots of mileage from criticizing the Democratic Party
 	- CBS journalist Dan Rather is on the floor of the convention getting beat up -- people trying to throw him out of the convention
-	- 
+- What was going on was completely changing the party
+- The Democrats become deeply fractured; Republicans shift away from the center and move right, and won't go back to moderatism ever again
+- 68 election -- a moment where things are beginning to harden for the future. 
 
+Protest at the Olympics
+- Athletes in the spotlight taking part in the protest on a globla stage. A significant moment for black protest in specific -- Tommie Smith and John Carlos -- protesting ongoing civil rights problems in the world
+- Olympic Projects for Human Rights -- Smith and Carlos bring a pair of gloves and bring other items which symbolize more specific protest
+- Roundly criticized by mainstream media for using the mainstream stage to protest -- people doing things they shouldn't be doing -- run your race and win your medal
 
+Tlatelolko Massacre
+- Protests of 68 in Mexico City which had gone on by workers the poor and students -- changes to economic policies, authroitarianism, etc.
+- using the olympic games to get some international coverage
+- Government got out planes, snipers, and military squads -- arrested hundreds of protestors (many of whom remain missing), several were killed in the square; about 40 people have been killed, but recent estimations suggest 400 were killed
 
+The Beginning of the Troubles
+- Conflict between the Catholic minority and the Protestant majority in NOrthern Island
+- Catholics demanding greater rights
+- Goes back a long ways in the colonization of Ireland by England -- comes from protest into violence which erupts in Ireland and lasts throughout the 1970s well into the 1980s, and not until the early 90s when there are the Good Friday accords which quell this violence
 
+The Resurgence of Richard Nixon
+- Nixon had lost the race running for governor of California in 1962 to Pat Brown
+- Comes back at the Republican Convention in Miami. Nelson Rockefeller is the leader in most of the country -- fairly well liked even by the Democratic Party. Had finally turned to the perspective that the war should end. Found a way to cultivate a broad following
+- Odd things happened
+	- Rockefeller made a few gaffs in the media -- said he wasn't running for president in an interview
+	- Only other person in the convention is Reagan, who became the butt of jokes for his age and his 'mental weakness' -- asked questions on Meet the Press and would forget his policis, taking the perspective off of Nixon
+	- Rockefeller fell out of favor, Reagan wasn't going to get it; Nixon got the more fa-rright folks
+- Running on law and order campaign (from Wallace) and the silent majority
+- The Forgotten American, the Silent Majority -- in a few years the same group will elect Donald Trump -- 
 
+Presidential Election
+- Nixon, Humphrey and Wallace (third party candidate) -- law and order idea comes into focus
+- Law and order is very coded -- a crackdown especially on black people who are breaking the law
+- Vietnam War is important
+	- Humphrey -- little deviation from the status quo
+	- Nixon -- "I have a secret plan". Cult of personality
+	- Wallace: demadning supporting the troops but no mention of foreign policy
+- TV plays an important role
+- Beginning of major decline in voter turnout.  Won't see as much of a percentage voter trunout as in previous decades
+- Nixon wins with 43.2% of the vote
 
+Nixon Undermining the Election
+- Nixon's dirty tricks, dirty-trick Nixon -- stuff which will become wiretapping, etc.
+- Secret plan: undermine the election by sending HR Haldeman and Anna Chennault to talk to the president of South Vietnam and convince him to walk away from the Paris Peace talks -- get a much better deal from Nixon when LBJ pulls out. 
+- Nixon thought it OK to undermine the possibility of war so that he could get elected
+- It looked terrible for Humphrey when Thieu walke daway from the negotiating table
+
+Sum Up: 1968
+- A year of turmoi, change, protest, violence, and breakage
+- A year where many people engage in large-scale demonstrations and protests for liberation, but how much of it really materailized?
+- So much more fracturing of American society
+- With so much breaking apart, the reformation of society was hard for anyone to imagine. 
+
+---
+
+## Lecture 16: The Sexual Revolution
+Argument: Drawing on the broader counterculture of liberation and protest, women's rights as well as gay and lesiban rights activists took sexuality from the status of private and repressive to public and liberated.
+
+- People who are experiencing oppression or marginalization privately/domestically. Intimate relationships which were now being brought into the public sphere
+- Borrowing a lot of tactics and terms from the counterculture, form groups that use these sorts of tactics to completely shift how they live and how American society expects others to behave in American society. 
+
+**Part I: Women's Liberation**
+
+Women and Infractions in Law and Custom
+- State or local / corporate laws, not federal
+- Fired for wearing slacks
+- Turned away from restaurants, clubs without a male escort
+- Graduate schools not admitting women based on future family concerns -- drop out when they get married and have kids
+- The 'casting couch' in Hollywood and other industries
+- Perform domestic services and maintain sexual relations on demand in marriage (state law) -- womenn do what their husbands tell them to do
+	- No rape within marriage
+- Anti-abortion laws
+- 1968 -- the Pope bars Catholics from using any type of contraception
+
+Sexual Liberation
+- Helen Gurley Brown, *Sex and the Single Girl* (1962)
+	- About not taking the boundary on sex after marriage so much
+	- About enjoying yourself 
+	- "Good girls go to heaven. Bad girls go everywhere"
+	- Financial independen
+- Brown claimed to be a devout feminist, but she was criticized for enforcing more traditional ideas about being attractive and using sexual power to be a successful woman
+- Not really putting a critical light on what roles women were supposed to do -- Brown would say that this is still empowering women.
+
+Betty Friedan and *The Feminine Mystique*
+- Second-wave feminism
+	- First-wave feminism: about some forms of inclusion, mainly focusing on suffrage 
+	- This is different: has some Marxism to critique the society, has some critical theory, has other forms of objections
+- Middle-class discontent -- goals are not good enough for women. Women have voluntarily enslaved themselves
+- Women's pay, working conditions
+
+New Laws
+- Early in the sixties, there are new laws which change, but these are easily filable under basic tokenism
+- Equal Pay Act, 1963 -- didn't expand to many industries, mainly about the federal government
+	- Gets beefed up later
+- Civil Rights Act of 64
+	- EEOC -- Equal Employment Opportunity Commission
+	- Focused on the racial aspect, did not really think about the sex and gender part. Takes more laws and legislation to close some of these loopholes
+
+National Organization for Women
+- New political organization begins to work on these issues, examining some of these major issues which made women into second-class citizens
+- Not just an organization for women -- included men
+- Not just full inclusion, but full equality, setting forward what felt like a lot of radical demands -- culturally, ideologically, politically
+- Might clash with someon elike Helen Gurley Brown
+
+Kathrine Switzer at the 1967 Boston Marathon
+- 20 year old Kathrine Switzer from Germany, German immigrant
+- Going to college
+- Wanted to run the 1967 Boston marathon
+- Nothing in the rules saying women could not run it, so she did
+- The race manager is trying to rip her tag numbers off so she could no longer be an official participant in the marathon
+- Had already knocked down her trainer and it wasn't until other runners came to her help
+- Manager attacked her many times
+
+Gender Roles
+- Looking at popular print literature at the time
+- Playboy (founded 1953) and Cosmopolitan
+- Playboy: celebration of a particular single male bachelor lifestyle. Lots of drinking, smoking, and sex
+- Cosmopolitan -- started as a family magazinee way early, claimed feminism but reinfroced older ideas of gender norms -- similar Helen Gurley Brown type stuff
+- Major challenges to sex and gender are coming from the fringe and not really appearing in these sorts of mainstream publications, are coming from radicals
+
+New York Radical Women
+- Leaders for developing new techniques and thinking outside hte box of any kind of past feminism and developing new ways of pushing their agendas forward, creating new ideas in society
+- Weekly "rap" sessions -- women hanging out and talking about expeirences -- important because these experiences are being had between closed doors, in private. From their perspectives, they are not really aware that there are many patterns between these experiences.
+- Rap sessions become a centerpiece of radical activism -- just the act of sitting in a room telling your story of abortion, abuse, rape, etc. ;; become central to understanding that any one person's experience is really part of a collective
+- No More Miss America (1968)
+	- Atlanta City, New Jersey 1968
+	- Became the objective for these kinds of demonstrations to show how women were being objectified
+	- Brought out the Freedom Trash Can, throwing away repressive commodities and instruments
+	- Miss Black America
+		- Black activists took this a different direction
+		- Created their own pageant at the same time
+- Community building -- turns into a particular technique which becomes a centerpiece of radical and then central activism: consciousness raising
+	- Borrowed directly from people like Timothy Leary and LSD + consciousness expansion
+	- Consciousness expansion -- just thinking of more things. Consciousness raising -- about eelvating your thinking, a more open, moral, and ethical form of thinking
+	- Included women coming together in ways they couldn't otherwise, talking about their experiences
+	- Beginning to find a kind of collective experience, creating social groups out of experiences they all had but couldn't really say
+	- Moving from the individual to the social, a kind of group awareness that is central to any kind of future activism
+- "The personal is political" -- a dramatic experience for many women
+	- Becomes a motto or slogan of consciousness-raising
+	- Goes back to the idea of what counts as political behavior
+- Consciousness raising -- influenced by Civil Rights, the Chinese Revolution, the New Left, the Anti-War movement
+- "Speaking pains to recall pains" -- comes straight out of Maoist Communist literature, an embrace of Marxism, Communism, other ideas coming out of the Chinese revolution
+	- Focused not so much on policy, but more about changign peoples' minds
+	- Many women write literature and begin to affect other peoples' minds -- change the thinking before you change policy
+
+Second Wave Feminism
+- Strong critiques of society in general
+- Robin Morgan, Susan Brownmiller, Gloria Steinem
+- Getting at root causes -- the thing which bothers radical folks is that the mainstream does not address the root problems in favor of suppressing symptoms
+- Idea of the patriarchy -- not tokenism, about saying -- the whole system is set in patriarchy, if we need to change anything we need to change the system.
+- A fundamental oppression from which all other oppressions come from 
+- Robin Morgan -- "Sexism is the root oppression, the one which, until and unless we uproot it, will continue to put forth the branches of racism, class hatred, ageism, competition, ecological disaster, and economic exploitation" -- Robin Morgan
+- Many people don't want to be assocaited with the critique of capital, of America as itself, etc. 
+
+Further Fracturing
+- Criticisms of CR as 'group therapy' or 'bitch sessions' -- men on the New Left looking at CR as not activism but people sitting around talking, "hen party"
+- Divides within the radical women
+	- Redstockings: keeping the consciousness raising and printing manuals
+	- WITCH (Women's International Terrorist Conspiracy from Hell) -- Robin Morgan and Yippie like tactics, guerrilla theater. Dressing up as witches on the steps of the NYSE. Robin Morgan walks away from this later.
+
+Rape and Abortion Laws
+- Redstockings began to protest rape and abortion laws
+- Nelson Rockefeller in favor of overturning these items
+- Invited 14 men and 1 Catholic nun to be witnesses
+- Redstocking faction of New York radical women held their own hearing of about 300, pushed their way into the building
+
+The Impact of CR
+- Women began to come out of the woodwork and egnage in CR type techniques
+- As the women's movement became more mainstream, the radicalness of CR became more diluted
+- New York Radical Women advertised successfuly in *Ladies Home Journal*, very mainstream
+- Adopted by NOW in 1972, turns into something which devolves into 'bitch sessions' -- talking and talking and talking
+- Robin Morgan: CR tends to lead to more CR
+
+Contraception 
+- One of the hot topics for women at the time
+- Margaret Sanger, early 20th century: leading advocates fro women having control of their own reproduction. 
+- Katherine McCormack works with physicians (Gregory Pincus and John Rock) to develop hormonal birth control pills
+- John Rock: a devout Catholic and also a physician who sees the dangers of reproduction for whom having children is physically dangerous
+- Are successful in producing a pill, introduced in 1960, by 1962, there are 1.2 million users, by 164 there are 6.5 million
+- Leftover effect of the Comstock Laws -- you can't send pornographic mateirals over federal mail. State-level laws: can be stretched more to contraceptives. 
+- Estelle Griswold and Cronelia Dickerman Johncke
+- Beginn working on a case which went to the Supreme Court: *Griswold v. Connecticut* (1965), law went against the 14th Amednemtn, went against the "right of marital privacy" -- federal government should not be stepping in when a married couple wants to plan their reproduction
+- Only for married couples, now we need more court cases...
+- Opens up the path towards future contraceptives
+
+Ms.
+- More mainstream forms of feminism
+- Ms. Magazine: mainstream magazine run by, written by, for women
+- By the early seventies, second-wave feminism is making its way into mainstream American culture. 
+- continues to have difficult problems for lesbians, women of color, rural women
+- Tended to be for the mainstream middle America women in the sixties-seventies
+
+Ongoing Sexual Revolution
+- Title IX, 1972 -- laws on the books which said that schools and colleges needed to have equality in higher education, athletics and such
+- Laws are often very specific to sections of American life
+- Equal Credit Opportunity Act -- married women can apply for loans in their own names
+
+**Part 2: Gay and Lesbian Liberation**
+
+Origins of Gay and Lesbian Rights
+- Cold War -- being gay or lesbian becomes criminalized, easy to be sent out of employment and out of the military
+- Association of homosexuality with communism -- **look more into this**
+- Homophile Movement
+- Calfironia -- a number of ;'secret societies' which gave voice to gay and lesbian people, especially in the form of literature
+	- Mattachine Society in 1950, LA, drew on Communist origins and began publishing the *Mattachine Review in 1955 - 1967, believed that thisw as the nly wayt o get people out
+	- One, Inc. 1953 - 1967: created an institute for developing homophile studies
+	- Daughters of Bilitis in 1955 in San Francisco, published *The Ladder* 56-72 nationally.
+- A lot of this has to do with support -- for poeple, getting ideas out there, not too dissimilar from the consciousness raising idea. What kinds of ideas and opportunities are out there?
+
+Stonewall Uprising
+- Defining event for gay and lesbian activism in the 1960s
+- Something which went on commonly in American societies -- police using gay and lesbian hangouts as places to harrass people 
+- A history of police brutality behind what kicked off Stonwall
+- The Stonewall Inn had been raided many times in Greenwich Village
+- In particular, 1969, people began to fight the police for 4-5 days, fighting against police harrassment and brutality
+- Kicks off what was referred to as the Gay Liberation Front -- using this with full reference to the National Liberation Front (NLF) in the NV
+- moving from the private into the public, moving this more public
+
+Coming Out Of, To
+- Idea of the closet -- an aspect of the individualistic and competitive culture -- out of the closet means community for gays and lesbians
+- Recognizing a community, building a community
+- A number of communal living methods 
+- People that they knew -- idea of community which becomes very central to people at that time.
+- Public demonstrations, hip expressions, drawing on broader counterculture
+- *Out of the Closets: Voices of Gay Liberation*, 1972, edited essays
+
+Gay Pride, Into the 1970s
+- Whereever you get a lot of repression, you tend to get a lot of activism
+- Seventies, more activism
+- Activism was grassroots and homegrown and won the argument in places like San Francisco, Los Angeles, New York, Seattle
+
+Sum Up
+- Some foundational notions in American life during the early Cold War [finish this...]
 
 
 

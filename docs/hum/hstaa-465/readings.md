@@ -919,10 +919,52 @@ Who paid for your trip?
 - "This war is all wrong"
 - A lot of complex tensions throughout here. Maybe a sent of resentment and bitterness? A sense of fragility and death? A sense of patriotism still infused here, even if it is a totally formal and empty patriotism?
 
+### No More Miss America!
+- Women from all different movements encouraged to jion the movement -- protesting the image of Miss America, "an image that oppresses women in every area in which it purports to represent us"
+- Boycott of demeaning commercial products
+- Reject male authority, male policemen, male reporters
+- "We will reclaim ourselves for ourselves"
+- Ten points
+  - Protest the "boob-girlie", body-materialism
+  - "Racism with Roses" -- whiteness. Never a true Miss America (American Indian)
+  - Miss America functions as a military death mascot, the lady back home from which the nostalgia for returning home from war brings
+  - A consumer shill
+  - Win or you're worthless -- beauty meritocracy, commodification of people
+  - Woman as pop culture -- young, juicy
+  - Madonna-Whore
+  - Woman as mediocrity
+  - Miss America as a false dream for women
+  - Miss America as Big Sister
 
+### "We are Living in a State of Anarchy": Radical Assessments and Agendas in the Year 1968
 
+Hayden Exhibit No. 2 at HUAC
+- American society is being destroyed by an unrepresentative government; out of touch state; democracy is in a false state
+- In 1960, Americans supported peace in Vietnam and social reform domestically
+- 1968, a virtual race war
+- Resolution of Vietnam and racism. "Our country's future peace and honor depend on a successful resolution of these two problems" (! could be important for essay)
+- Political parties fail to peacefully address social problems. The Democratic Party is not so clean and exempt.
+- A useless structure of petty politics;  rise of giant bureaucracies
+- What is the future for the Democratic Party?
+- A populist appeal / stick with the people
+- Take initiative in laying the foundation for a new radical force -- the Democratic party must go with the anti-war and Black movements
+- The "mockery of democracy"
+- Events
+  1. Apr 21 - 30; spring days. Expose structural contradictions of the Democratic party. 
+  2. Summer: period of intense organizing and demonstration
+  3. End of summer: demonstrations, disruptions, marches
+- Distancing from LBJ
+- Machinery is needed to clarify demands
+- When there is no democratic machinery, young people need to resist it.
+- Legality is dubious
+- Draft board -- in fact this is a state of anarchy facing the individual
+- A calculating movement, not merely romantic or existential
 
-
-
+### "The Iron Butterfly"
+- "Sex and the Single Girl"
+- What do women want ("want")? How to give it to them?
+- Ana ggressively subjective and autobiographical approach
+- Female advertising: sexuality and liberation. To what extent did capitalism play an important role in helping to liberate woman?
+- Work and the gbirth of the girl-boss?
 
 

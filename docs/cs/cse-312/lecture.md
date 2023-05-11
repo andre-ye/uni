@@ -417,4 +417,54 @@ Summing together the random variables and then standardizing them. The expectati
 - Computational trick: $$\Phi(-a) = 1 - \Phi(a)$$ due to the symmetricness of the normal distribution
 - When using CLT to find the probability that $$X = 950$$ -- CLT is continuous but $$X$$ is discrete. How to make sense of this? What should we do?
 - Continuity correction: the binomial distribution is discrete but the normal is continuous. Before we switch from binomial to normal, we see what values of a continuous random variable round to a particular event.
-- 
+
+---
+
+## Week 7 Wednesday: Joint Distributions
+- How to deal with non-independent random variables
+- What to do when your random variables depend on each other?
+- Joint PMF:
+
+$$p_{X, Y} = \mathbb{P}(X = x \cap Y = y)$$
+
+- If $$X, Y$$ are independent then
+
+$$P_{X, Y}(x, y) = p_X(x) p_Y(y)$$
+
+$$P(X = k) = \sum_{\text{partition} \{ E_i \}} \mathbb{P}(X = k | E_i) \mathbb{P}(E_i)$$
+
+- $$p_X(k)$$ from a joint distribution: called a marginal distribution because we have marginalized other variables, emphasizes this dimension. 
+- Expected value of joint function
+
+$$\mathbb{E}[g(X, Y)] = \sum_{x \in \Omega_X} \sum_{y \in \Omega_Y} g(x, y) \cdot p_{XY}(x, y)$$
+
+- Conditioning creates a new probability space with all laws holding
+
+$$\mathbb{E}[X | E] = \sum_{x \in \Omega} x \cdot \mathbb{P}(X = x | E)$$
+$$\mathbb{E}[X | Y = y] = \sum_{x \in \Omega} x \cdot \mathbb{P}(X = x | Y=y)$$
+
+- Linearity fo expectation holds in conditional expectations
+
+$$\mathbb{E}[(aX + bY + c) | E] = a \]mathbb{E}[X | E] + b \mathbb{E}[Y | E] + c$$
+
+- Law of total expectation; for partitions $$A_i$$:
+
+$$\mathbb{E}[X] = \sum_{i = 1}^n \mathbb{E}[X | A_i] \mathbb{P}(A_i)$$
+$$\mathbb{E}[X] = \sum_{y \in \Omega_y} \mathbb{E}[X | Y = y] \mathbb{P}(Y = y)$$
+
+- Covariance: we wnat to  measure how intertwined $$X$$ and $$Y$$ are. Covariance is a very common way to see how things work out. Covariance tries to see: If $$X$$ is bigger than its expectation, what happens to $$Y$$? Do you expect it to be bigger or less than its expectation? Do they varry together or opposite?
+
+$$\text{Cov}(X, Y) = \mathbb{E}[(X - \mathbb{E}[X])(Y - \mathbb{E}[Y])] = \mathbb{E}[XY] - \mathbb{E}[X] \mathbb{E}[Y]$$
+
+$$\text{Cov}(X, X) = \mathbb{E}[X^2] - \mathbb{E}[X]^2 = \text{Var}(X)$$
+
+$$\text{Var}(X + Y) = \text{Var}(X) + \text{Var}(Y) + 2 \cdot \text{Cov}(X,  Y)$$
+
+- If $$X$$ and $$Y$$ are independence, then their covariance must be zero, such that $$\text{Var}(X + Y) = \text{Var}(X) + \text{Var}(Y)$$
+- When covariance is positive, $$X$$ being more than its expectation means $$Y$$ is also more than its expectation. When covariance is negative, $$X$$ being big should make $$Y$$ be small.
+- Covariance is symmetrically permutable about its arguments
+
+
+
+
+
