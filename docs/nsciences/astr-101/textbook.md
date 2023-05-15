@@ -1378,6 +1378,93 @@ Collision Victims and the multiple Merger Model
 - When a small galaxy comes too close, our galaxy tugs on the near side harder, which pulls on the orbit of the small galaxy
 - The Milky Way will get swallowed by the Andromeda galaxy also into a merged galaxy
 
+---
+
+## Chapter 30: Life in the Universe
+
+### 30.1: The Cosmic Context for Life
+- The universe was born in the Big Bang ~ 14b years ago
+- Processes in stars created other elements besides hydrogen and helium -- carbon oxygen, and nitrogen
+- Life on Earth is based on the presence of the organic molecule, which contains carbon molecules
+
+What Made Earth Hospital to life?
+- 5 billion year ago, a cloud of gas and dust in this cosmic neighborhood began to collapse under its own weight
+- Atoms in your body are 'in loan' from the 'library of atoms'
+- Cosmic evolution -- our descent from the stars
+
+The Copernican Principle
+- Formation of planets is a natrual consequence of the formation of stars.
+- Earth-like planets occur frequently, such that there are billions of exo-Earths in our Milky Way Galaxy. 
+- The Copernican principle -- the idea that threre is nothing special about
+- Are we lucky or are we unexceptional?
+
+So Where Are They?
+- Intelligence seems like it might be very common
+- Fermi paradox
+
+### 30.2: Astrobiology
+The Building Blocks of Life
+- Amino acids
+- Proteins
+- Organic molecules are present in the places where interstellar dusdt is most abundant.
+- Miller-Urey experiments
+- Even the simplest molecules of genes contain millions of molecule units in a precise sequence. 
+- Life uses DNA and RNA
+- Complex sequene of chemical reatctions in phoro
+- Stromalites -- fossils of oxygen-producing photosynthetic bacteria in rocks. 
+- Photosynthesis begins producing more 'free oxygen' into our atmosphere -- interaction of sunlight with oxygen can produce ozone which protects us from ultraviolet radiation
+
+Habital Environments
+- What conditions make for a habitable environemtn, one which is capable of hosting life?
+- Life requires a solvent -- a liquid which chemicals can dissolve -- to construct biomolecules and life.
+- Biochemistry is based on carbon, hydrogne, nitrogne, oxygen, phosphorus , and sulfur: CHNOPS
+- Maintaining biochemical machinery takes energy 
+- One energy production method: combine hydrogne with carbon to make methane
+
+Life in Extreme Conditions
+- Chemically -- life is many types of molecules coming together to carry out the processes of life.
+- Your own biochemistry is highly tuned and contingent
+- Extremophile -- organism which tolerates at minimum a 'hostile' world
+  - Themophiles
+  - Could slows down metabolism and cna cause physical damages
+
+### 30.3: Searching for Life Beyond Earth
+- Two searchers for life
+  - Direct searches
+  - Looking for biomarkers
+
+Life on Mars
+- Water might have flowed on Mars
+- No evidence of biological activity in the soil
+- Mars does not have a magnetic field and ozone layer
+- Habitable -- liquid water + other enviornmental conditions like protection from solar radiation
+- Mudstone 
+
+Life in the Outer Solar System
+- So little sunilght
+- Europa -- ocean for most of its history
+
+Biomarkers
+- More than 40% of stars have at least one exoplanet orbiting in a habital zone
+- Plants and microorganisms affect the color of light -- we look greener
+- Biosignatures
+
+### 30.4: The Search for Extraterrestrial Intelligence
+
+Interstellar Travel
+- What is the cost of interstellar space travel? -- to travel round trip to the nearest star at 70% speed of light is several hundred thousand years worht of total US electrical energy consumption
+- UFOs into NFOs and IFOs
+- People have difficulty accepting human accomplishments
+
+Communicating with the Stars
+- Light travels through space the fastest -- reaches the nearest stars in only 4 years
+- Radio waves are best for communciating -- no interference with interstellar dust and gas
+
+The Cosmic Haystack
+- SETI -- search for extraterrestrial intelligence
+- Earth sents out a flood of adio signals
+- Ultra-short laser pulses can carry messages
+- Who speaks for planet earth?
 
 ---
 

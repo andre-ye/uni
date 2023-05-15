@@ -464,7 +464,19 @@ $$\text{Var}(X + Y) = \text{Var}(X) + \text{Var}(Y) + 2 \cdot \text{Cov}(X,  Y)$
 - When covariance is positive, $$X$$ being more than its expectation means $$Y$$ is also more than its expectation. When covariance is negative, $$X$$ being big should make $$Y$$ be small.
 - Covariance is symmetrically permutable about its arguments
 
+---
 
-
-
+## Week 7 Friday -- Polling
+- We can approximate some discrete phenomena as a continuous distribution
+- CLT steps
+  1. Write event interested in as a sum of random variables
+  2. Apply continuity correction if RVs are discrete
+  3. Normalize RV with 0 mean and 1 std
+  4. Replace RV with a unit normal distribution
+  5. Write event in terms of $$\phi$$
+  6. Look up CDF result in table
+- How many people needed to poll to determine accurately how people will vote
+- How to sample? Random sampling vs sample without replacement
+- Accuracy of a poll is dependent on the number of people you choose, not the size of the population -- given polling idealization of with replacement
+- Margin of error -- if you do many polls, 95% of the time, the value ou get will between the true value minus and plus the margin of error
 

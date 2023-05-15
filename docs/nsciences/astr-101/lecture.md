@@ -566,28 +566,62 @@ ASTR 101
   - Supermassive black holes are so big that we can take pictures of them. Event horizon is larger than our solar system
   - How do supermassive black holes form? We don't really know what's going on. 
   - We can also measure the shaking of space and time -- gravity waves. As objects move around each other on the trampoline of spacetime, we can measure the waves which carry away energy and make them merge over time -- literally space and time shaking as objects merge. Intermediate-mass range black holes
-  - Supermassive black hole is not closed yet. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - Supermassive black hole is not closed yet.
 
 - "Habitabele zoon" -- 'goldilacokcszoom- We see the planets in histb=p on
 - Proama -- nearest solar sysren near to aaaa
+
+---
+
+## Week 8 Monday -- Life in Our Galaxy
+- Functionally defining intelligence as astronomer -- understanding the cosmos
+- Frank Drake -- mathematical formalism for the number of laien species in the galaxy capable of communicating ieth Earth
+  - Routinely criticized because differences in how we think about the terms gives wide variation in the predicted quantity
+  - Not supposed to give you an answer, but rather to break a hard question into simpler questions
+- Four factors
+  - How wmany habitable planets are there in our galaxy? -- capable of having life on their surface
+  - What fraction of those planets ever had life?
+  - What fraction of those planets ever had intelligent life capable of communicating with us?
+  - What fraction of all of those civilizations currently exist?
+- We know about how many stars there are and how many of htem are habitable. There are hundreds of billions of main sequence stars. But not all of them are suitable for life.
+- Most stars aren't high mass -- live a longer time than the sun does. Still plenty of mains equence stars out there.
+- Munes of Jupyter -- oceladus and other -- have oeans, maybe thes=on\
+- Pretty much all starss have planets -- 90% or higher have planets aroound 10 billkon aticipated habitable workl in SEPPPPPPPPPPP
+- We only know of our life in all ofr-...
+- Arew we 10m
+- Life appears tos how up everywehre on the earth -- simplel eaf seesm s very robust
+- We n find the NDA between ours and neothanderals -- many atrophysicists think that life probably 
+- Untula  few uhnde=red yearoth that gives us ufuntinoalitu=88ee;
+- We hve a very popular e' us8ccessufleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+- questinon is not when will intelligent lifeaooear but this is the wrgina;If it happens then it hapens
+- How long to ciivilizaion ls ast
+- Fermi paradox
+- SETI has searched most of our galaxy but we have found nothing
+- How dow e resolve Fermi's paradox?
+- How muc intelligent life is there? Maybe intelligent life is exceedingly rare
+- How contingent is intelligent life? - Possibly no necesary need to explore the stars
+- However there just are too many stars -- most astronomers don't believe the Earth is th eonly intelligent speciess
+- Possible answers
+  - Prime directive -- aliens are keeping an eye on us
+  - Alien civilizations are unable to traverse interstellar space so quickly -- has a lot of engineering support
+  - Optimistic and pessimistic -- life is common, but intelligent life is much more rare. THere are aliens but many die off, and only a few can ponder space travel. Space travel is possible but very difficult. No one has figured out how to do it yet
+- Alcubierre drive -- gravity warp in front, anti-gravity warp behind
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

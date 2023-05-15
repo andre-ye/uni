@@ -791,7 +791,7 @@ The Question
 - Every question presupposes two beings: a questioner and a questioned
   - A question is an expectation: I expect a reply from the questioned
   - What distinguishes a question from affirmation or negation? 
-  - Some questions *seem like they do not apply negativity* -- but we can always reply in teh negative, Nothing / Nobody / Never
+  - Some questions *seem like they do not apply to/with negativity* -- but we can always reply in the negative, Nothing / Nobody / Never
 - We can respond to the previous question: "No, it does not exist". And so here we are presented with the transdcendent force of non-existence.
 - Does non-being exist objectively?
 

@@ -967,4 +967,43 @@ Hayden Exhibit No. 2 at HUAC
 - Female advertising: sexuality and liberation. To what extent did capitalism play an important role in helping to liberate woman?
 - Work and the gbirth of the girl-boss?
 
+### Co-ed Disciplined by College Becomes a Dropout at Barnard
+- Linda LeClair -- lives with her boyfriend off campus
+- Lied to college about address; disciplined for doing so
+- 'Bewilderment' and 'embitterment' of control
+- Do not believe in marriage
+- Communal farms
+- "The city is a dying thing. We're killing ourselves off slowly here with smoke, noise, anger, guns, everything."
+
+### Father Despairs of Barnard Daughter
+- Paul LeClair -- father
+- Influencing others to follow immoral paths -- wrong
+- A great 'individualist'
+- A lot of support for "strict disciplinary action"
+
+### Richard J. Ford III Recounts the War and Racism
+- The libertine attitude towards weapons
+- "When we got to Vietnam there were no athiest"
+- A sense of immortality
+- Nha Trang -- like a "resort"
+- Don't take it serious
+- Racial conflcit domestically
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
