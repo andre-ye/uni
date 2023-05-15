@@ -356,7 +356,7 @@ $$\text{Uniform}(a, b) := f_X(k) = \frac{1}{b - a} \text{ if } k \in [a, b] \tex
 
 $$\text{Uniform}(a, b) := Var(X) = \frac{(b-a)^2}{12}$$
 
-- Exponential random variable: like a geometric random variable, but use continuous time. How many flips until see heads? But rather looking at continuous time. When waiting doesn't make the event happen any sooner. Geometric is memoryless. $$P(X \ge k + 1 | X \ge 1) = P(Y \ge k)$$
+- Exponential random variable: like a geometric random variable, but use continuous time. How many flips until see heads? But rather looking at continuous time. When waiting doesn't make the event happen any sooner. Geometric is memoryless. $$P(X \ge k + 1 \vert X \ge 1) = P(Y \ge k)$$
 
 $$X \sim Exp(\lambda): F_Y(t) = P(Y \le t) = 1 - e^{-\lambda t}$$
 
@@ -378,7 +378,7 @@ $$X \sim Exp(\lambda): f_Y(t) = \lambda e^{-\lambda t} : k \ge 0$$
 
 $$f_Y(t) = \frac{d}{dt} (1 - e^{-\lambda t}) = \lambda e^{-\lambda t}$$
 
-- Memorylessness: $$P(X \ge s + t | X \ge s) = P(X \ge t)$$
+- Memorylessness: $$P(X \ge s + t \vert X \ge s) = P(X \ge t)$$
 - In continuous RVs, we can switch out $$\le$$ and <
 - Expectation of an exponential random variable is $$\frac{1}{\lambda}$$
 - Variance is $$\frac{1}{\lambda^2}$$ otherwise
@@ -431,7 +431,7 @@ $$p_{X, Y} = \mathbb{P}(X = x \cap Y = y)$$
 
 $$P_{X, Y}(x, y) = p_X(x) p_Y(y)$$
 
-$$P(X = k) = \sum_{\text{partition} \{ E_i \}} \mathbb{P}(X = k | E_i) \mathbb{P}(E_i)$$
+$$P(X = k) = \sum_{\text{partition} \{ E_i \}} \mathbb{P}(X = k \vert E_i) \mathbb{P}(E_i)$$
 
 - $$p_X(k)$$ from a joint distribution: called a marginal distribution because we have marginalized other variables, emphasizes this dimension. 
 - Expected value of joint function
@@ -440,17 +440,17 @@ $$\mathbb{E}[g(X, Y)] = \sum_{x \in \Omega_X} \sum_{y \in \Omega_Y} g(x, y) \cdo
 
 - Conditioning creates a new probability space with all laws holding
 
-$$\mathbb{E}[X | E] = \sum_{x \in \Omega} x \cdot \mathbb{P}(X = x | E)$$
-$$\mathbb{E}[X | Y = y] = \sum_{x \in \Omega} x \cdot \mathbb{P}(X = x | Y=y)$$
+$$\mathbb{E}[X \vert E] = \sum_{x \in \Omega} x \cdot \mathbb{P}(X = x \vert E)$$
+$$\mathbb{E}[X \vert Y = y] = \sum_{x \in \Omega} x \cdot \mathbb{P}(X = x \vert Y=y)$$
 
 - Linearity fo expectation holds in conditional expectations
 
-$$\mathbb{E}[(aX + bY + c) | E] = a \]mathbb{E}[X | E] + b \mathbb{E}[Y | E] + c$$
+$$\mathbb{E}[(aX + bY + c) \vert E] = a \]mathbb{E}[X \vert E] + b \mathbb{E}[Y \vert E] + c$$
 
 - Law of total expectation; for partitions $$A_i$$:
 
-$$\mathbb{E}[X] = \sum_{i = 1}^n \mathbb{E}[X | A_i] \mathbb{P}(A_i)$$
-$$\mathbb{E}[X] = \sum_{y \in \Omega_y} \mathbb{E}[X | Y = y] \mathbb{P}(Y = y)$$
+$$\mathbb{E}[X] = \sum_{i = 1}^n \mathbb{E}[X \vert A_i] \mathbb{P}(A_i)$$
+$$\mathbb{E}[X] = \sum_{y \in \Omega_y} \mathbb{E}[X \vert Y = y] \mathbb{P}(Y = y)$$
 
 - Covariance: we wnat to  measure how intertwined $$X$$ and $$Y$$ are. Covariance is a very common way to see how things work out. Covariance tries to see: If $$X$$ is bigger than its expectation, what happens to $$Y$$? Do you expect it to be bigger or less than its expectation? Do they varry together or opposite?
 
@@ -479,4 +479,40 @@ $$\text{Var}(X + Y) = \text{Var}(X) + \text{Var}(Y) + 2 \cdot \text{Cov}(X,  Y)$
 - How to sample? Random sampling vs sample without replacement
 - Accuracy of a poll is dependent on the number of people you choose, not the size of the population -- given polling idealization of with replacement
 - Margin of error -- if you do many polls, 95% of the time, the value ou get will between the true value minus and plus the margin of error
+
+---
+
+## Week 8 Monday -- Tail Bounds
+- Make clear that the substitution recommended by CLT, it is an approximation, need to do approx equal. 
+- Handle similar scenarios in ways which give us airtight guarantees
+- Tail bound -- most of the probability is near the center -- the probability concentrates near its expectation
+- We don't wnat to do an exact computation but we are going to have an inequality -- probability is at least some value and at most some value
+- Markov's inequality: Let $$X$$ be a random variable supported only on non-negative numbers. For any $$t > 0$$, or for any $$k > 0$$,
+
+$$\mathbb{P}(X \ge t) \le \frac{\mathbb{E}[X]}{t}$$
+
+$$\mathbb{P}(X \ge k \mathbb{E}[X]) \le \frac{1}{k}$$
+
+- Markov's inequality is not often a tight bound, but it's one that we can find pretty easily. 
+- Sometimes Markov's inequality gives you useless results, that is if your bound is less than the expectation
+- Markov's inequality -- you can't be hugely more than your expectation. If you're inside your expectation, then so be it, it doesn't really matter or help that much
+- We are trying to bound the tails of the distribution; the variance tells you about the tails. 
+- Chebyshev's inequality: Let $$X$$ be a random variable. For any $$t > 0$$ or $$k > 0$$,
+
+$$ \mathbb{P}(\vert X - \mathbb{E}[X] \vert \ge t) \le \frac{\text{Var}(X)}{t^2}$$
+$$ \mathbb{P}\left( \vert X - \mathbb{E}[X] \vert \ge k \sqrt{\text{Var}(X)} \right) \le \frac{1}{k^2}$$
+
+- Cute proof of Chebyshev, with $$Z = X - \mathbb{E}[X]$$. Uses Markov's inequality
+
+$$\mathbb{P}(\vert Z \vert \ge t) = \mathbb{P}(Z^2 \ge t^2) \le \frac{\mathbb{E}[Z^2]}{t^2} = \frac{\mathbb{E}[Z^2] - \mathbb{E}[Z]^2}{t^2} = \frac{\text{Var}(Z)}{t^2} = \frac{\text{Var}(X)}{x^2}$$
+
+- Chebyshev doesn't assume non-negative values. Chebyshev -- considring boht right and left tails, sometimes yo uhave a factor 2x number because you are accounting for both t ails.
+- Markov tends to be used for one-tail bounds even though Chebyshev has access to the variance
+
+
+
+
+
+
+
 
