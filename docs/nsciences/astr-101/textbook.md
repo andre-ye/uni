@@ -1380,6 +1380,154 @@ Collision Victims and the multiple Merger Model
 
 ---
 
+## Chapter 26: Galaxies
+
+### 26.1: The Discovery of Galaxies
+- 1920s -- astronomers believed the Milky Way encompassed all that exists in the universe
+- Kant -- suggested that some nebulae might be distant systems of stars
+
+Other Galaxies
+- Some nebulae have been correctly identified as star clusters; others incorrectly as gaseous nebulae
+- Edwin hubble -- discovered variable stars 
+- Measured the Andromeda galaxy as 900k light years away
+- Extragalactic astronomy. 
+
+### 26.2: Types of Galaxies
+- Hubble -- observe other galaxies more closely -- noting shapes, properties, contents
+- Describing new objects
+
+Spiral Galaxies
+- Our Galaxy and the Andromeda galaxy -- spiral galaxies with a central bulge, halo, disk, and spiral arms
+- ISM spread through disks
+- Most spiral galaxies form a bar at some point during evolution
+
+Elliptical Galaxies
+- Consist basically all of old stars and have spheroid or ellipsoid shapes, with no trace of spiral arms
+- Mainly older reddish stars
+- Ellipticals don't appear to rotate in a systematic way
+- Dwarf ellipticals
+
+Irregular Galaxies
+- Irregular galaxies hav elower masses and luminosities than spiral galaxies
+- Look very disorganized
+- Large Magellanic Cloud, Small Magellanic Cloud
+
+Galaxy Evolution
+- Astronomers hoped to find a scheme to understand the evolutionary stages of life of galaxies, like the H-R diagram
+- No simple scheme for galaxy evolving
+- Active field of research
+
+### 26.3: Properties of Galaxies
+
+Masses of Galaxies
+- Astronomers can measure the rotation speed in spiral galaxies by measuring wavelength changes
+- Elliptical galaxies do not rotate in a systematic way; we cannot determine rotational velocity
+- How much mass should a galaxy contain to hold stars?
+- Broadening -- stars provide both redshifts and bleushifts, which broadens the range of speeds at which stars move w.r.t. the cneter of the galaxy
+
+Mass to Light Ratio
+- Most stars are smaller and less luminous than the Sun
+- Most material in the universe cannot be observed directly via the electromagnetic spectrum
+
+---
+
+## Chapter 27: Active Galaxies, Quasars, and Supermassive Black Holes
+
+### 27.1: Quasars
+- Quasar -- quasi-stellar radio sources
+- Sky is full of radio waves
+
+Redshifts -- Key to Quasers
+- Spectra of blue radio stars have unknown emission lines
+- Star is receding from us at a speed of 45km per second -- so there is a massive doppler shift
+- Radio stars are not stars in our own galaxy -- these objects only look like stars because theya re compact and very far away
+- Quasi-stellar objects
+- All spectra show redshifts and no blueshifts
+
+Quasars Obey the Hubble Law
+- Quasars found at the cores of spiral and elliptical galaxies 
+- Quasar host galaxies are often involved in a collision with another galaxy
+
+Size of the Energy Source
+- Quasars are very far away, and have to be very luminous to be visible to us
+- Quasars emit energy at X-ray adn ultraviolet wavelengths and some radio sources
+- Quasars have massive luminosities
+- Irregular variation in luminosity
+- Part of a quasar which varies must be smalelr than the distance light travels in the time it takes for this variation to occur.
+
+Earlier Evidence
+- Heber Curtis -- photographs a jet coming from the nucleus of the galaxy
+- Astronomers identified a zoo of active galaxies or active galactic nuclei
+
+### 27.2: Supermassive Black Holes -- What Quasars Really Are
+- Quasars are hugely powerful
+- Quasars are tiny
+- Quasars shoot out jets at close as the speed of light
+- Quasars can't be powered by nuclear fusion
+- milky Way has a black hole in its center; energy emits from a small region
+- A black hole with a bunch of mass can produce a lot of energy
+
+Observational Evidence for Black Holes
+- Energy emitted by quasars also produced by a hot accretion disk
+- X-ray band: quasars vary rapidly, light travel
+- Onlya  black hole can explain the large amount of mass in a small amount of space
+- There is a mass of at least 3.5b solar masses in the center of M87
+
+Energy Production around a Balck Hole
+- Central black hole attracts matter in dense nucelar regions -- forms an accretion disk
+- Matter gets very hot and radiates a lot of energy as it falls into the black hole.
+- Dropping things from far away into strong gravity produces a lot of energy -- releases a lot of electromagnetic radiation
+- Gas falls in streams into a black hole, reaches 10% c or more
+- Quasars are much mroe efficient than a hydrogen bomb
+- Many black holes don't show quasar emission -- quiescent.
+- But can be woken up with fresh gas. The gas has to take time to swirl around the star.
+
+Radio Jets
+- Material escaping from the neighborhood of a black hole can do so easily perpednicular to the disk
+
+### 27.3: Quasars as probes of Evolution in the Universe
+- Quasars tend to be far away, and so we are seeing them as they are long ago.
+
+The Evolution of Quasars
+- Quasars -- suggest that we live in an evolving universe.
+- Significant drop-off in the number of quasars over time.
+- Accretion disks around black holes peak early and then fade
+- Drop-off in quasars can be explained if there is more material avaialble to be accreted earlier on
+- Collisions were more common earlier than they are now
+
+Codependence of Black Holes and Galaxies
+- It seems thatt he mass of a central black hole depends on the mass of the galaxy
+
+How a Galaxy Can Influence a Black Hole in its Center
+- Without a lot of material to ingest, black holes glow only weakly, as there is not that much material swirling around to emit energy from
+- Galaxies begin with a lot of interstellar gas and dust
+- Both elliptical galaxies and nuclear bulges of spiral galaxies have little material left for black holes. So black holes are pretty quiet.
+- A star can be pulled apaert if it gets to close to a black hole
+- Collisions are less freuqent today; most galaxies the size of the Milky Way are merging iwth dwarf galaxies
+- Merging of supermassive black hole emits a burst of gravitational waves
+
+How does the black hole influence the formation ofs tars in the galaxy?
+- Jets
+- Winds of particles streamed away from the accretion disk
+- Radiation from the accredition disk
+
+The Brith of Black Holes and Galaxies
+- Puzzle -- how did supermassive black holes in the galaxy get started?
+- Seed black holes must have been present near the formation of the solar system
+- Possible -- stars form from angular momentum of gas; supernovae create black holes which merge into rich gas supplies.
+
+---
+
+## Chapter 28: The Evolution and Distribution of Galaxies
+
+### 28.1: Observations of Distant Galaxies
+- 
+
+### 28.2: Galaxy Mergers and Active Galactic Nuclei
+- 
+
+---
+
 ## Chapter 30: Life in the Universe
 
 ### 30.1: The Cosmic Context for Life

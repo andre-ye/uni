@@ -893,8 +893,90 @@ Scheler
   - Story: the Jews of ancient Palestine are under Roman rule. The Jews, though, never lost their sense of self-worth: they were the children of God, but couldn't express that. Romans crucified people (apian way) -- expressing their vigor, strength, political power. Jews were subject to this for centuries and claimed their status as Holy, forced into a state of servitude by the Romans. So, according to Nietzsche, thy said -- to be weak is to be strong. Paul: there is strength in weakness. Nietzsche says that Christian morality is the product of Jewish revenge on Greco-Roman conquerers by inverting the values, *making them feel guilty* (Is Nietzsche an anti-Seitic conspiracist? Maybe not) Christianity is the single greatest guilt-trip of all time. 
   - Patience is a virtue -- guilt-trip someone
 
+---
 
+## Week 8 Tuesday -- Scheler and Sartre
+Wrapping up Scheler
+- Scheler's analysis of the human feeling complex is incredibly complex and nuanced -- bringing apart all which is masked under the single signifier of "feeling"
+- Feeling-states vs feelings as intentional responses to values
+- Discussion about cognition - intentionalities can be extract and not connected to concrete experience; feeling-states as an abstraction and feelings as given in experience
+- Feeling-states
+  - Physical feelings -- pleasure and pain, agreeable, disagreeable
+  - Vital feelings -- growth, life developing, decline, sickness, anxiety
+  - Psychic / cultural -- despair
+  - Holy / absolute -- 
+- Scheler remains committed to a tradition of necessity and universality, searching for the a priori -- structures which are invariant across experience
+- Against a utilitarian conception of feelings -- aggregate of pain does not give you sorrow -- there is a lexical/qualitative difference
+- Hume and empricist skepticism -- where do we get transcendental truths from? How to get this from empirical truths?
+- Are there things in things? Or are there different exclusive modes of reality that we need to suspend?
+- Values
+  - Sensible
+  - Vital
+  - Cultural/spiritual
+  - Holy / absolute
+- Certain feelings are not merely feeling-states but intentional responses to objects, and these responses are values, and it is only through these feelings that we experience values. There is no other way to phenomenologically access values except through theri feelings
+  - Cannot have sublimity given in your experience without the feeling of awe
+- Feeling-states have causes, feelings have objects
+  - The experience of a beautiful work of art is qualitatively different from taking ectasy
+  - Objects (values) are not restricted in place and time, but the causes of feeling-states are existent here
+- How much of this is language games / intersubjectivity? -- if I feel anxious, how much of the anxiety of anxiety is mapped under the signifier "anxiety" -- intersubjectively through language?
+- Pain is not spatial -- it is not somewhere, it is in you.
+- Consciousness and knowledge -- the Greeks may have been conscious of their seeing but not to know it; we can be conscious of our anxiety but not to know it
+- This separation between physical and vital -- how can we make the claim so quickly?
+- A triad -- is there a difference in the feeling of questioning vs. understanding vs. sensing
+  - Sensing -- Object
+  - Questioning -- Object
+  - Understand -- Object
+- What happens to phenomenology when the natural attitude is inextricable from phenomenological experience?
+- To what extent is Scheler playing a sophist language play game, where every type of feeling-state can be justified tautologically on the basis that if you phenomenologically reject to the existence of the feeling-state, you haven't felt it yet -- and so I could posit any number of distinct feeling-states which may be in themselves significant but which in their existence are not grounded.
 
+Elements and Stages of Ressentiment
+- Not all slavery results in a slave revolt in morality
+- Some people constitute themselves as slaves -- as much as you are constituted as a slave, there is a sense in which you must constitute yourself as a slave to be in slavery
+- The priest of the people of Palestine had a staggering self-esteem, but they became vassels of a greco-roman culture which dominated them
+- Stages
+  1. Self-esteem: those who eventually experience ressentiment have sufficinetly high level of self-esteem
+  2. Domination: an experience of being dominated, subordinated, or exploited
+  3. An initial affective response: humiliation, aggrievement, envy, snese of being wronged
+  4. Impotence: a feeling that resistance is futile due to the overpowering power of the oppressor
+    - You've tried to revolt and overcome, you're too weak
+    - The Romans are the "worst roommates" -- oppression in close quarters
+  5. The Spirit of Revenge: because we retain a conviction of our own worth, we experience the violence and domination as an injustice -- it is fundamentally wrong and irrational, and leads towards the seeking of vengeance
+    - It is irrational if the chosen people of God are vassels under dirty Romans
+  6. Retreat into Imagination: Because one has by historical experience learned by the futility of resistance, one builds memory and imagination leading to brooding over and constantly re-feeling
+    - Slaves are crucified often
+    - Roads lined with crucified bodies
+    - Can't actively take revenge, retreat into fantasy
+  7. "Genius stroke" -- psychic tension released. You give your oppressors a conscience. You subvert their values
+- Culmination of ressentiment
+  - One becomes the master of the master by claiming guilt
+  - One elevates a slave value (humility from humiliation) into golden value
+  - Sour grapes
+- At any turn in the stages of ressentiment, you can turn into yourself
+- We see ressentiment everywhere, Nietzsche says, because we are all secretly Christians...
+- Envy -- not jealousy (I want what they have), but that you are upset that they have it
+  - envitere -- to look a scance at, to give the evil eye
+  - Jealousy is about the object, envy is looking at the person who has it and hating them for having it
+  - Envy is hatred for other's good
+- The basis for Nietzsche's worldview of power and domination
+- The word 'evil' didn't exist prior to Christianity: there was the good and the bad
+- Nietzsche was a philologist first
+- Christian morality as the 'most delicate flower of ressentiment' -- Christianity inverts Greco-Roman values
+  - Aristotle: pride as a virtue. Christianity: pride as a vice.
+  - Lying is power; but now it is evil
+  - Who forgives? The slave forgives because they have no other way. The Christian God is a product of slave morality
+  - Lust and sexual indulgence: Roman male citizens could have sex all the time, now we have chastity and sexual continence
+- Semen -- ancient word for urine, woman's body as a recepticle
+  - Why do we find it shocking?
+  - Because of 'slave revolt in morality'
+- 'Morality' proper comes into existence
+- The master gets a conscience, revenge is complete
+- Marqius de Sade
+  - "The religion of that wily little sneak Jesus... Christianity sanctioned these laughable fraternal lies"
+  - Crucifixtion is a public spectable, taking pleasure in others' pains
+  - Sade -- this is the natural way of being
+- What Nietzsche is saying is that in fact the vital should be the height, but in fact got put most primitive, and the sensible got elevated -- avoidance of pain directly
+- Are there feeling-complexes which constitute values? Difference from the feeling of revenge, envy, versus spontaneous joy at another good? Is that another feeling? To be happy when someone does something well? And experiencing their value as a good for you too?
 
 
 

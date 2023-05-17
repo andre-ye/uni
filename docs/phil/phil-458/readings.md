@@ -776,6 +776,44 @@ Questions
 
 ## *Being and Nothingness*, Jean-Paul Sartre
 
+### Introduction
+
+I: ...
+- Phenomenology has done away with many dualisms. But it has mapped them to infinite/finite -- we can access the transcendental infinite from a finite phenomenological experience / appearance.
+
+II: The Phenomenon of Being and the Being of Phenomenon
+- Appearance -- not supported by some other, it has its own being.
+- First being we encounter is the being of appearance
+- Husserl presents the eidetic reduction -- we can always surpass concrete pheonmenon towards essence
+- Object to essence: "object-essence", essence is not inside object, but rather the object's meaning -- the "principle of the series of appearances which disclose it"
+- what is the relation of being to an object?
+  - Being is present both in an object's presence and in its absence.
+  - We can only say that the object bes in that it is
+  - The existent is phenomenal -- being is the condition of an object's disclosure
+- Can we resolve the *being of phenomena* into the *phenomenon of being*?
+- Phenomenon of being requires a transphenomenal foundation 
+- The being of phenomenon must escape its pure phenomenality in the phemomenological sense
+
+III: The Prereflective *Cogito* and the being of the *percipere*
+- The phenomenon *is* as it appears. Is the being of an appearance its appearing?
+- An attempt to reduce being to epistemic accessibility must first account for the being of epistemic accessibility. 
+- *Percipi* refers to a being that transcends pheonmenality but maintains transphenomenal being
+- Percipi $$\to$$ percipiens
+- Consciousness is the subject's dimension of transphenomenal being
+- Husserl shows us that consciousness is intentional
+  - Consciousness has no content
+  - Interesting interpretation of Husserlian intentionality
+- Consciousness must be conscious of itself as being this knowledge to be knowledge of its object
+- Spinoza, *idea ideae*
+- Reflection -- knowledge of consciousness, self-reflexivity -- reflective consciousness reflects itslef
+  - To count, one must be conscious of counting
+  - Circular? Consciousness exists in a circle.
+  - Being is fundamental
+- Being of consciousness: consciousness is not possible before beeing, but also consciousness exists through itslef.
+- Conscious is prior to nothingness, and derives from being
+- What is the existence of bquestions
+- Ontological error of Carteisna rationalism: define absolute as existence over essence, so we cannot conceive of it as substance.
+
 ### Part One: The Problem of Nothingness
 Page 64 in [this PDF](https://antilogicalism.com/wp-content/uploads/2017/07/being-and-nothingness.pdf){:target="_blank"}
 

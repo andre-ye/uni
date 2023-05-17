@@ -988,10 +988,68 @@ Hayden Exhibit No. 2 at HUAC
 - Nha Trang -- like a "resort"
 - Don't take it serious
 - Racial conflcit domestically
-- 
 
 
+---
 
+## Document Collection #9
+
+### "Gay is Good", Martha Shelley (1970)
+- Disruption, blaspheming -- a sense of pleasure in disrupting normality (particularly institutionalizations of normality) and disgusting the mainstream morality
+- Distaste with moderatism which claims to disregard homosexuality but which does not really accept it
+  - Reminiscent of MLK's War on Vietnam Speech -- disavowal of the 'white moderate'
+
+> "We want... something more than the tolerance you never gave us"
+
+- Really playing into 'personal is political' -- attacking even an internalized liberal moderate sense of superiority to the deviants of society
+- Possibly still playing into a binary system of gender ("We are women adn men who...")
+- Possibly an essentialism of sexuality -- resistance "from the time of our earliest memories", maybe not the same sense of sexual fluidity which has been developed recently.
+- Physical violence is sparing; but the real violence is *epistemic*
+- *What is the truth of sexuality*?
+- Very confrontational and even militant tone -- against liberal unease
+
+> "But the really important part about being gay is that you are froced to notice how much sex role differentiation is pure artifice, is nothing but a game"
+
+- A sense of breaking through the thin veils/appearances of traditional soceity
+- Strong sense of separation, attack 
+- "Homosexual bodies" -- we should bring Foucault in here, this is an interesting idea
+
+> "I tell you, the function of a homosexual is to make you uneasy"
+
+> "We will never go straight until you go gay"
+
+> "We are one with you"
+
+- A sense of conflicting messages -- more than anything, a sense of bitterness but also optimistic revolt. And even while the direction of revolt is kind of confused, there is a very clear exposition of the attack.
+
+### "You Don't Need a Weatherman to Know Which Way the Wind Blows", SDS Meeting (1969)
+
+International Revolution
+- Contradiction pointing towards the pathway of liberation
+- Where do you stand in relation to the US as an oppressor nation?
+- Solving contradictions
+- Reclaiming the wealth of the oppressed people who have created this very wealth
+- The US exploits the Third World
+- World communism as the goal of the destruction of US imperialism
+- Internal struggle will be necessary but the revolution must be global. Socialism is a fraud.
+- Imperialism needs brute force and authoritarianism to hold together a decaying social fabric; it is youth rebellion which will kill it off once and for good
+- Gender and race
+
+The RYM and the Pigs
+- The pigs tie together struggle around the state as the enemy (!!!) -- unified in opposition 
+- "Pigs really are the issue"
+- A standard liberal understanding, or a more structural understanding?
+- Creation of a mass revolutionary movement willing to participate in violent struggle. 
+- String inspiration from Mao and China -- an authentic people's revolution, against centralized revolution
+
+> Long live the victory of people's war!
+
+
+### Occpation of Alcatraz, Indians of All Tribes (1969)
+- the "Great White Father" -- some sort of Freudian paternity?
+- Ironic play with history -- reversal of power
+- Dripping with sarcasm
+- Buildings for memorial, education, ecology
 
 
 

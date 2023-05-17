@@ -2731,6 +2731,180 @@ Gay Pride, Into the 1970s
 Sum Up
 - Some foundational notions in American life during the early Cold War [finish this...]
 
+---
+
+## Lecture 17: They're Selling Hippie Wigs in Woolworth's, Man
+Argument -- The inability to find consensus on the Vietnam War pervaded American life, and increasingly there was no consensus to be found on the topics of morality, decency, loyalty, and much else. The promises of liberation and also the turmoil of rebellion highlighted the end of the decade.
+
+- 69 and moving into the seventies
+- Vietnam plays an outsized role
+- Nixon comes in here -- a Rpeublican adminsitration with all new people leading the military cmapaingn
+- McNamara had an outsized influence on the war, now it is Kissinger and Nixon
+- Roosevelt, Truman, Eisenhower, Kennedy, LBJ, Nixon
+- Sixties come to a massive flaming halt -- this sense of promise and grabbing the future -- this exuberance comes mostly to an end at the end of the decade
+- 1969: Apollo 11. Michael Collins -- seeing the planet from a distance. The Earth surrounding by nothingness, by a void.
+	- Seeing war at the height of nuclear war
+	- A tenuous little home surrounded by nothing
+	- A great thought about the end of the decade and what will happen
+
+Woodstock
+- Upstate New York
+- Attracts as many as 500k people to these farms in New York
+- Young peoplpe come to listen and play to bands and musicians
+- Stands out as a crowning moment when all of these elements come together - pot, free love, hippies, etc.; youtfhul liberation comes to be embodied by the 500k people are Woodstock
+- Revolution preaches a moral set of values: surprising ease and sense of autrhoity.
+- "the children of plety have voiced an intention to live by a different ethical standard than their parents accepted. the pleasure principle has been elevated over the Puritan ethic of work"
+- Three days of peace and music -- Jimi Hendrix, Santana
+- A music festival -- people are having fun. Part of being young and being a hippie is having fun.
+- On the other hand there is also anti-war protest, an element of peace protest
+- Jimi hendrix, plays a deconstructed star spangled banner which is very mucuh poliitcally motivated
+- Abbie Hoffman tries to get on stage and musician bumps him off -- don't want to get co-opted into protest song singers. Others are singing explicitly about the Vietnam War
+
+Nixon and Kissinger Go to War
+- Political administration is changing
+- Nixon is looking to end the war with honor -- runs on a platform of ending the war
+- Get out of the Vietnam War honorably, we don't fail in our pledge to help the people in south Vietnam
+- Nixon's strategy -- 'Vietnamization', rely on the same idea that the French had tried
+- Training up the ARVN, supporting the govrnment, etc. -- not a new plan. It doesn't work. 
+- Kissinger and nixon don't really care -- want to get American trips out, have an election to think about in 72
+- Withdraw troosp and increase bombing campaigns
+- Real Politik -- "politics of the real world", ideas about morality and ethics have no place in politics, it's only about power, unconcerned with moral implications. 
+- Kissinger does not believe that NV has no breaking point, fully intends to find the breaking point
+- Relies heavily ont eh madman theory of Nixon -- you don't want to mess with Nixon, he had so much anit-communist zeal 
+- This is how Nixon pulls off going to China -- by his anti-communist fervor, he is sort of untouchable.
+- Operation DUCK HOOK -- merciless bombing of Hanoi, mining and bombing of Haifong Harbor, proposed use of nucelar weapons. See how other government leaders would react. Leaked it to a few senators. But most people in congress would not go along with it. Never took hold.
+- Kissinger wanted to find NV's brekaing point -- little "backward nation" could not stand up to anything
+
+Hamburger Hill
+- A 'place of no strategic value'
+- Americans battle and battle to take a hill under enormous frie and death and then give it up
+- This doesn't make any sense for guys on the ground
+- After the Tet Offensive morale steadily declines
+
+My Lai Massacre, 1969
+- 1968, Was covered up and didn't hit the press until 1969
+- American units, under their pressure and circumstances, deeply discontent, loose any sense of discipline, and massacre hundreds of Vietnamese villagers, frustrated about the difficulty of finding out who the enemy really is.
+- Many American soldiers didn't take part in this -- other units watching it happen from helicopters 
+- Lots of rape and killing of children and babies
+- In 1969 after everything which has happened, this hits the press
+- One officer is held responsible -- Lieutenant William Calley Jr., Nixon is pretty much on his side though and there is basically no accountability for what happened in My Lai
+- My Lai was spontaneous, not from the high command down, although it does involve some lieutenants
+- Frustration and lack of discipline among American troops
+- Was My Lai isoated or a pattern? This is still intensely debated -- some people say that this thing happened somewhat frequently.
+	- some people say every troop had its own My Lai
+- Communists did this too -- burying people alive, shooting people after exiting Hui -- a great argument against war
+
+Free Fire Zones outside Saigon
+- Anyone who runs is a VC and anyone who stands still is a well-disciplined VC
+- US and ARVN having a difficult time figuring out how to get this to happen
+
+Operation Menu, 1969
+- Nixon promised to end the war and pull out Ameircan troops
+- Totally secret operation -- actually expanding the war by unleashing massive bombing campaigns on Cambodia
+- Were able to do this because the leader of Cambodai was out of the country when deposed with a coup led by an anti-communist leader, the US saw an opportunity to start bombing anti-Communist camps
+- Army troops will also be sent in in favor of ARVN troops
+
+The Weathermen -- Crisis Within SDS
+- Crisis in the war and at home are totally linked
+- SDS might have had over 100k members but are facing a massive crisis on what they are going to do moving froward.
+- Weathermen -- most unified and usbstantiail portion of SDS to break away
+- In favor of violent revolt -- wearing helmets and goggles to protests, ready to engage in active violent resistance
+- Rest of SDS begins to splinter into other groups
+- Weathermen attract many peoples' attention
+- Mark Rudd and Bernadine Dohrn
+- Belief in armed, violent revolution -- complete overthrow of the system
+- What Marx wrote about in late-stage capitalism: a worldwide revolt realizing the real enemy are the capitalists
+- Begin bomb-building -- didn't kill anyone. The only people to die from the Weathermen were three Weathermen who deid from building their bomss
+- Fizzle out by 1975.
+
+Morale in the Service
+- Morale is suffering badly after the Tet Offensive
+- No one wants to be the last person to die in a war -- we are going to pull out bubt it hasn't happened yet -- soldiers want to go home, are fairly aware the US isn't planning to win the war
+- Racism becomes a real problem int he barracks -- not just systemic, but physcial -- blakc power has made its way into the barracks
+- Drug use -- using heroin
+- Illegal killings in My Lai massacre
+- 'Fragging' -- intentionally shoot your lieutenant who is all gung-ho and wants to win a medal
+- Soldiers began writing UUUU -- Unwilling led by the Unqualifeid to do the Unnecessary for the Ungrateful
+- At least 900 recorded incidents of fragging
+- 69-71, a real uptick in the army and the marines, instances of fragging
+- In 69, people are still being sent in with an idea of doing their duty -- but the soldiers they are commanding are often bitter and done, not much time left before going home
+- Illegal killings, hundreds of these cases -- at least 300 verified and 500 more not verified
+- By autumn 1970, 2 deaths per day from heroin overdose
+	- Substantial drug trade going on
+
+Moratorium Campaign, 1969
+- The Moratorium Committee, a restatement of ending the war, saying no to the war, bringing as many voices to bear as possible
+- About 1m people tkaing part int he moratorium campaigns nationally
+- 500k people show up at the moratorium march on Washington
+- The largest show of dissent in US history -- largest show of dissent in US wartime history
+- Starts as a small movement on the left in the left, built slowly on college campuses, and ends up being embraced by more and more people seeing the war brought to an end
+- Vietnam Vets against the war -- famous moment, they go to the capital building and throwing their medals over the wall
+- Trying to somehow purgue this experience
+- A comparison to WWII -- significant because of the generations.
+- Most of these guys that by 69 have turned against the war were patriots, proud to serve, did not join necessarily with trepidation -- that is the tragedy when they speak publicly at these marches, the tragedy that happened to them.
+- Feel utterly betrayed at what they were sent into
+- By 69, 70 -- startign to get some pushback from the American people. Increasingly many Americans turn against veterans and say viscious things to them -- exemplifeis the many fractures in American life
+
+The Silent Majority
+- Nixon siezes on this opportunity to capture the 'silent majority'
+- If the TV is filled with racial and antiwar protest, trying to speak to all the people out there who are not involved in this
+- The 'good Americans' 
+- The minority is loud and raising a huge ruckus, trying to get the silent majority on his side.
+- A good political tactic -- puts the protesters in the light of troublemakers
+- Helps rally the 'silent majority'
+- Resounding support for Nixon, gets wide public support against the protests.
+- There is no consensus on the war
+
+August 1969 Tate-LaBianca Murders
+- Nightly news becomes very important, other events which capture the American imagination
+- Murders from the Manson family
+- 68, Manson founds a home among hippie groups in San Francisco
+- Inserted himself into the music business and Hollywood
+- Began to recruit young women from these hippie groups in California and put together the Manson family
+- Convinced them that there was an end of the world coming, what was happening in California was to be criticzed and torn down
+- August of 1969, went tot he home of Sharon Tate, married to the filmmaker Roman Polanski; was 8 months pregnant
+- Manson family murdered five people present
+- Randomly killed the LaBiancas
+
+The Manson Family
+- Tex Watson -- thought to do most of the killings
+- Went to prison for the rest of his life
+- Liberation of the hippies and all of this freedom to the cultivation of weird ideas and cultism
+- Manson still remains an iconic figure
+- Media representation vs more mass murders -- seems to kick off serial killers, mass murderers, etc. -- other figures 
+
+Zodiac Killings
+- San Francisco Bay area, 1968-1969 and the 1970s
+- Killings seemed random
+- Taunting police and newspapers, sending coding messages and leaving clues
+- Absolutely terrified the San Francisco Bay Area
+- Couldn't catch the Zodiac killer
+- Galvanize Americans' attention
+
+Easy Rider (1969)
+- The film which brings the 1960s to a close
+- Peter Fonda and Dennis Hopper
+- peter Fonda as Captain America
+- They're between beats and hippies, free lives nad living the beat lifestyle
+- Reflecting back on the 
+
+To be completed soon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
