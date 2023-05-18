@@ -1051,6 +1051,42 @@ The RYM and the Pigs
 - Dripping with sarcasm
 - Buildings for memorial, education, ecology
 
+### "What's Wrong with Equal Rights for Women?", Phyllis Schlafly (1972)
+- The American woman is more privileged -- most rights and rewards yet fewest dutiees
+- Woman bears the sex act, so man must bear other responsibilities
+- Biological essentialism
+- Most important right of a woman: to be a parent
+- Tying woman to her child -- an investment which provides security
+- Christianity has endowed woman with inherent respect
+- Chivalry is good for woman
+- Capitalism is good for women -- it frees them from the burdens of domestic work
+- The victimization of American women is the 'fraud of the century"
+- Women would become subject to the draft
+- Abolish woman's right to child support and alimony
+- "Lowering themselves" to equal rights
+- Women's liberation -- dangerous radicals
+- Most women want to be wife
+- A 'loveless' home
+- Attack on family and motherhood
+- They do not speak for us -- the mass woman
+
+### Soy Chicana Primero!, Enriqueta Longeaux Vasquez
+- The Chicana is trapped between the white women's liberation movement and the echoes of the Chicano movement
+- If you are a radical Chicana, do you lsoe some of your feminity?
+- Femininity and radicalism are not necessarily exclusive -- in fact the most feminine act might be a radical one
+- A strong spirited woman -- "she comes from good clay"
+- What does it mean?
+- How to relate the Chicana to the women's liberation movement
+- Identifying the women's movement as particularly the *white* women's movement
+- Whiteness as materialistic and competitive -- incongruent with Chicana values
+- Elevation of male and female
+- A colonized people -- we cannot blame men on oppression of women: it is rather the colonial structure
+- More complex interplay with race and gender
+
+> We can not allow negative attitudes in regard to our physical capacities
+
+- Woman can work
+- Woman must be a Chicana first (but of course Chicana is already imbured with a feminine sense) -- not just the standard 'race/colonization over gender'
 
 
 

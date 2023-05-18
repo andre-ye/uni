@@ -509,7 +509,18 @@ $$\mathbb{P}(\vert Z \vert \ge t) = \mathbb{P}(Z^2 \ge t^2) \le \frac{\mathbb{E}
 - Chebyshev doesn't assume non-negative values. Chebyshev -- considring boht right and left tails, sometimes yo uhave a factor 2x number because you are accounting for both t ails.
 - Markov tends to be used for one-tail bounds even though Chebyshev has access to the variance
 
+---
 
+## Week 8 Wednesday -- Chernoff's Inequality
+- Repeating experiments gives you a better experiment from Chebyshev -- the variance goes down and Chebyshev gets you a better bound -- it gets more powerful as the variance shrinks
+- The more we know about a variable, the stronger a statement we can make
+- Chernoff bound: Let $$X_1, X_2, ... X_n$$ be independent Bernoulli random variables. Let $$X = \sum X_i$$ and $$\mu = \mathbb{E}[X]$$. Then, for any $$0 \le \delta \le 1$$:
+
+$$\mathbb{P}(X \ge (1 + \delta)\mu) \le e^{-\frac{\delta^2 \mu}{3}}$$
+$$\mathbb{P}(X \le (1 - \delta)\mu) \le e^{-\frac{\delta^2 \mu}{2}}$$
+
+- Many different things are called the Chernoff bound
+- Multiplicative bound is most common, but there are also other versions -- additive biggness, etc.
 
 
 

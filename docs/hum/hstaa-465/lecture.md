@@ -2890,14 +2890,270 @@ Easy Rider (1969)
 
 To be completed soon
 
+---
 
+## Lecture 18:A New Environmentalism
+Arugment: What began in 1970 as a grassroots effort involved in local issues evolved into a government-focused issuew here lobbyists dominate and environmental stewardship is always disadvantaged.
 
+- What do people experience as an environmental issue? ALways localized.
+- Environmentalism as a grassroots effort which becomes a very DC-centered policy debate. So by the middle of the seventies it becomes lawyers fighting against lawyers and moves outside of this setting
+- The environment is not out there, it is in you; you are in it. 
+- Relations between people are often of power, but I have material relations 
+- We always interact witht he material world through certain cultural practices
 
+Earlier Concerns, late 50s and early 60s
+- *Man and Nature* -- farmland being destroyed
+- Post-war technological developments are so enormous
+- Proliferation of consumer products - through the same technological lends of elimination and productivity
+- Scale -- the essential category for change. 
+- Very out of hand scale of pollution
+- It is possible to live away from pollution in the US, pollution is being understood in a different way. 
 
+Land Ethics
+- Aldo Leopold
+- Not new in the sixties, people have been talking about the right relationship with the natural world
+- Right and wrong ways of interacting with the world.
 
+A New Environemntalism
+- "We have met the enemy and he is us"
+- Land use isues begin to form
+- We might lose all of our natural patrimony
+- Ongoing critiques 
+- Argument: What has made Amerida, prese
+- In the middleo f the sixthn massive etinction event
 
+Environmental Disasters: Pollution
+- People are seeing these events more and more -- similar events everywhere
+- Lake Erie fish kills, Santa Barbara oil spill, 1969
+- Santa Barbara spill -- 4.2m gallons of crude oil
+- "Get Oil Out" campaign
+- Great Lakes took on a massively new significant -- it was becoming clear that future global conflicts might have to do with freshwater conflicts
+- Space photos allow us to see some of these pattr
 
+The 1968 Lake Erie Sudsing
+- Detergents, oil, new consumer products pushed on homeowners
+- Detergents -- don't break down very well, come out with suds. Erie coastline 'mobbed' with sudslines.
+- Lake Erie -- no regulation, slaughterhouses dumping blood rivers into the lake, sewage, etc. Basically used as a giant wastestream
+- Lake Erie -- having massive environmental events. 
 
+Lake Erie Algal Bloom
+- Synthetic dergents are going in
+- Agricultural run-off; phosphates are good for algal blooms
+- Algal blooms such oxygen out of the water and killed fish -- hypothesized might become dead sea
+
+Cuyahoga River Fire
+- Fifties did way more damage
+- 69 fire stil attracted more national attention
+- Rivers on fire due to population
+
+Population Growth and Suburban Spaces
+- Puget Sound being overwhelmed
+- Lake Washington and other waterways getting really disgusting
+- West Point Water Treatment Plant, and Treatment Plants in general attempt to deal with single family homes, more people, etc.
+- A lot of suburban houses use septic tanks, which can leak out and pose problems
+
+Industrial Growth and Pollution
+- Intalco (aluminum) and Boeing -- manifestations of 'Pugetopolis'. 
+- Concerns over industrialization
+- A sense of time running out, the fall
+
+1969 Oil Pipeline
+- Proposed to run under puget sound from Alaska and Canada
+- Fought by Sen. Warren Magnuson and native tribes
+- Did not pass
+
+Urban Landfills
+- Open landfills
+- Americans tend not to know with what to do with water and land mixed together -- seen as unuseable, dumping of things right next to waterways
+- Waterways often seen as sewers -- put it in, it flows somewhere else
+- People begin to clean up these areas
+
+Willamette River Pollution
+- Lots of boat building, gnarly waste
+- Tom McCall, Oregon Governor -- became a national leader on environmentalism
+- Referred to the Willamette River as an open sewer
+- McCall passed a bunch of laws -- amended Oregon constitution to "thou shalt not pollute"
+- A lot of environemntal regulations
+- Department of Environmental Quality, 1969
+- Precedent for the federal advisory on environemntal affairs
+- First state to outlaw pull-tab cans and non-returnable bottles
+
+1970s Recycling
+- Landfills get so expensive to license that people don't want to open them and turn to recycling centers
+- Recycling is a problematic activity -- takes a lot of responsibility away from the producers
+- Recycling takes away from the producers and puts on us to recycle
+- A lot of material doesn't end up being recycled
+- Recycling requires a market for recyclables
+- Addressing a problem through consumption and behavior -- but we're not really alleviating it
+
+RCRA
+- Resource Conservation and Control Act (1976)
+- Solid and hazardous waste leaks into groundwater
+- Makes landfills much more expensive
+- Landfills get moved into very rural areas
+
+Back to the Land Movement
+- Part of this reaction is an interest in returning ot th eland
+- Connected to hippieism and connections to the land
+- Wendell Berry. One of the founding academics on returning to the world. Moving away from rampant commercialism
+- Some people find this to be a more satisfying way to live
+- A somewhat-criticism of capitalism
+- *The Mother Earth News*, the *Whole Earth Catalog*, etc.
+
+Fear of Losing Wild Places
+- McDonalds on Mountaintops
+- 1964 National Wilderness Preservation Act
+	- Senator Frank Church from Idaho, 57-81
+	- Written into law an area "untrammeled by man, where man himself is a visitor who does not remain"
+	- A specific idea of protecting these areas to not be in an urban setting 
+- 1968 Wild and Scenic Rivers Act
+- 1968 National Trails Act
+	- Establishes Appalachian Trail as a national trail
+	- Policies for protecting a wilderness experience -- we don't want a society where you have nothing other than humans and human artifacts.
+- "The Problem of Wilderness"
+- Suggesting a natural division between human and non-human
+- Possibly a colonial epistemic framework
+
+Stewart Udall
+- Secretary of the Interior 61-69
+- Goes back a while -- giving out of public land
+- Udall helped push through ideas under Kennedy adn then Johnson about expanding trail systems, national monuments, national park system, etc.
+- Last major one will be under Carter in which much of Alaska gets pushed into national park and protected space
+
+Glen Canyon Dam and Lake Powell
+- Large amounts o fpressure to expand dam building in the American West
+- Dam-building begins in the 30s
+- Colorado river has 16 different dams built into it, turning it into resevoirs
+- Came about because of a different damn that was supported to be built, the echo dam
+- Dave Foreman -- helped protest the dam, but the Glen Canyon Dam instead was built
+- Dammed up a Canyon that was thought to be almost as beautiful as the Grand Canyon
+- *Desert Solitaire*, Edward Abbey: a polemic against the dam and other manipulations. A lyricist of the desrt, writing polemically about dam building, etc.
+- *The Monkey Wrench Gang*, 1975. Destroy earth moving equipment. Find bulldozers and fill transmissions with sand and rocks; spike trees; etc. Main goal is to go to the Glen Canyon Dam and breach it
+- Some labeled Abbey an environmentalist, but then also was bizarre - danced between libertarianism and environmentalism
+	- advised Americans to shoot their televisions
+- Gets some sort of cult following -- defending environmentalism against capitalism
+
+Eco-Protest
+- Earth First, GreenPeace, etc. -- more active societies, see themselves as defenders, actively engage in vairous activities.
+- Earth First! chaining themselves to trees, burning down saw mills, etc.
+- Dave Foreman, 1980 -- in the news a lot
+- Comes from the idea of 'deep ecology' -- belief that humans are not special, that we are one creature among many and we have no special rights or privileges. We share the Earth
+- Coming out of a tradition of radicalism, anti-war protest, etc.
+- A lot of these people are straight out of SDS
+
+Media and the Sea
+- The "Flipper" TV show -- focused on a family's relationship with a dolphin
+- Beginning of the career of Jacques Cousteau, a French oceanographer -- would show people what happens in the sea
+- People's interest in the ocean begins to accelerate
+
+Mcrioplastics
+- Noticed in long island sound in the seventies
+- A problem of a much larger scale
+- Big problem with micro-plastics: hover in the top 8-10 feet where not a lot of light penetrates and doesn't break down -- are eaten up 
+- Table salt probably has plastic in it; you have plastic in your body
+
+Earth Day, 1970
+- Sen. Gaylord Nelson, Wisconsin -- 1969
+- Talk about a national day for the environment
+- Firing up the youth
+- A grassroots effort to clean up local places -- picking up trash to dealing with more serious problems
+- Starts in college campuses with teach-ins
+- Millions of people are involved with Earth Day
+- Doesn't look  like much but it also raises people's awareness about more serious issues
+
+Nixon's Legislation
+- 1970
+- Overwhelming Democratic majority in Congress, work with Nixon to pass shit
+- Nixon is politically savvy and part of getting new offices was also Nixon's way of keeping it in house -- 
+- National Environment Policy Act (NEPA) -- if a new thing is being built, decisions are made behind closed doors
+- Public gets a say
+- NEPA (1970)
+	- Livable environment is an entitlement
+	- President's Council for Environmental Quality 
+	- EIS -- Environmental Impact Statement
+		- Assessing environmental impact and having forums where people voice their opinion on the proposed project
+		- Elwha river
+		- A lot of people wanted to see the dam breached so the salmon runs could come back
+		- Two dams are very old
+		- Other peoplel have grown up fishing on the lakes behind the dam -- local people
+		- Unforseen effects -- activists figured out that you can use the EIS almost infinitely to put off a project if you do it right
+	- Consider externalities and alternatives to federal actions- 
+	- Proliferation of experts -- more need for engineers to be the experts to weigh in on these issues
+
+Environmental Protection Agency (EPA)
+- Helps with things like the proliferation of chemicals
+- Is too mcuh at the beginning -- EPA had to study ~60k individual chemical compounds
+- The EPA doesn't go out and study things -- an industry comes to it to study compounds
+- Burden of proof is all on the EPA -- to prove something is dangerous. This is difficult to do though 
+- Competing science -- it's very hard to prove that certain chemical compounds can be dangeorus
+- US band on DDT, 1972
+
+Regulatory laws 1970s
+- Large numbers of environmental regulatory laws passed during the Nixon years
+- Eagle as the mascot of the DDT ban campaign
+- Clean Air Act, 1970
+- Clean Water Act, 1972
+- endangered Species Act, 1973
+
+Ameiricans joining environmental organizations
+- About 500k American members to 2.5m by 1985
+- Becomes part of a movement of local concern to national politics
+- Hire lobbyists which try to get legislative accomplishments
+
+Federal Authority: Regulatory Powers
+- Focus on environmental organizations moves the conversation into Washington, DC -- we sort of expect this now -- someone else is loooking out for public safety, etc.
+- Federal focused system
+- Principle of acceptable risk vs precautionary principle -- system works around the former. Below a certain threshold, we tend to be OK with it
+
+Pollution: Identifying Problems and Solutions
+- Identification of problems
+- The way a person or institution goes about evaluating problems, it matters a lot how you end up with solutions. The way you approach problems influences how you come up with solutions
+- We often see pollution as a technical problem and not so much a social cultural one
+- Mechanical, technological, scientific solutions -- rather than critiques of consumerism or capitalism
+- Clean Air Act (1970) -- tried to combat acid rain by installing air quality standards and monitoring devices in different places around polluters and try to create standards based on on our understandings of risk. 
+	- Grandfather clauses often used to protest old polluters.
+	- Censoring sensors
+- Clean Water Act (1972); no grandfather clauses
+	- No regulation of hog farms
+
+Murray Bookchin and Alternative Ideas
+- *Ecology and Revolutionary Thought*, 1968
+- Pollution as a social problem -- social ecology
+
+Reemergence of the Environmental Justice Movement, 1970s
+- Focused in Love Canal, where Lois Gibbs lives
+- Environmental justice:
+	1. People of color and the poor are more likely to live in polluted areas and suffer effects of enviornmental degradation
+	2. Some environmental policies worsten social injustices, e.g. by moving polluters overseas
+- Love Canal, in New York State
+	- Central part is the school
+	- A chemical plant and a plastics plant existed and dumped all of its hazardous waste in Love Canal
+	- When the industry closed, it covered the area with dirt and sold it to the state
+	- Housing development and as chool were built around it
+	- By the seventies, it was clear that people in Love Canal were living with increasing illnesses, especially autoimmune issues
+	- 43m lb hazardous waste remained in the spot
+- Outcry against New York
+- People who live in Love Canal -- high proportion of not wealthy and single mothers
+- State keeps putting them off, finally gets the media's attention
+- Sending EPA officers to investigate what is going on
+- Toxic sludge everywhere
+- Lois Gibbs becomes the media face -- not an activist or journalist, a working woman. Becomes the face of the protests.
+	- Very critical of mainstream environemntal organizations funneling money into Washington
+	- This is instead a moral issue -- is it national or local / moral?
+- Started a series of mothers groups on the issues of reproductive health and of children
+- Particularly damaging effects on hormones 
+- Use tactics of civil rights protests
+- Holding EPA agents 'hostage' for a while to get media attention
+- Warren County, North Carolina
+	- Rural county, mainly Black people
+	- New landfill put out in Warren County
+	- Dumping of PCBs, polychlorinated biphenyls
+	- Were being targeted because of political unempowerment
+	- Used tactics like protesting and laying down in the roads before the state chose a different set of tactics - People calling attention 
+- CERCLA (1980)
+	- Superfund act: areas which are so toxic that they are covered by the law
+	- Polluters have to pay some of the liability to help clean up some of these areas
+	- Lots of heavily toxic superfund areas 
 
 
 

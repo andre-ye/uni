@@ -607,14 +607,54 @@ ASTR 101
   - Optimistic and pessimistic -- life is common, but intelligent life is much more rare. THere are aliens but many die off, and only a few can ponder space travel. Space travel is possible but very difficult. No one has figured out how to do it yet
 - Alcubierre drive -- gravity warp in front, anti-gravity warp behind
 
+---
 
-
-
-
-
-
-
-
+### Week 8 Wednesday: Galaxies
+- There are a lot of planets out there
+- Water is not rare in the universe 
+- How common is simple life? We don't know
+- 1920s, capturing things we know now are galaxies
+- Shapley: what we are seeing is a solar nebula, and there is an accretion disk forming inside the disk. Saw they saw stars forming
+- Ohters suggested that there was instead galaxies -- island universes, like the milk way but outside
+- Star inside the milky way or a different thing to begin with?
+- It is a question of distance -- stars must be closer to us if they are stars forming than if they are outside
+- Cannot measure well with parallax
+- All they knew was that none of the stuff was really close to the earth
+- Standard Candles -- apparent brightness, luminosity, and distance are related; if you can know the luminosity of an object, you can easily find its distance. 
+- However standard candles don't work either. But there was a better approach: Cepheid variable.
+  - Stars which have left the mian sequence, going up the red giant branch
+  - While these stars are red-gianting, they go through a phase of pulsing: get bigger and smllaer by a 
+  - Complicated about why it pulses
+  - henriettra Leavitt -- pulsing.
+  - How long does it take to pulse? The oners that take a long time are also golder
+  - You can easily get distance via luminosity
+  - You can see Cepheid variables
+  - Based on tru the appaee os jpweve veua
+  - Giq siwa rgw ayrwj ewaponsq hwn 
+  -Almostr eceryone we sat there i
+  - in sppirold al areas, cold material is May have additionl structu
+- Elliptircal galxiez tend tobem j=much rderdddddddddd Indeed, ass=ming you couldgetinto 
+- What do they have in common? Ireggularity areas are very blue aslo -- er]wwwwwwwf
+- Large and small magellanic clouds -- dwarf irregular galaxies and satellites of the Milky War get you easily visible to tehe naked eye
+- Galaxies are not typically isolated from each other -- maps galaxies have loose groups with dozens of galaxies. 
+- Local galactic group -- 40 or so galaxies are all in the local galactic group of galaxies. The galaxies are gravitationally stuck together, orbiting the milky way and the andromeda galaxy, which are the two largest galaxies and about the same size
+- Other groups of galaxies -- Sculptor Group, Canes I Group, M81, etc.
+- Virgo Galaxy Cluster -- most galaxies congregate into very large collections which form a cluster -- instead of100 or so galaxies, you have 1ks or 100ks of galaxies, stuck together and meaningfully together. Difference is size: groups are small, clusters are large and have a large number of galaxies in them
+- Big galaxies tend to be elliiptical, redder-type galaxies
+- Elliptical, appear redder
+- How do galaxies form and evolve? Why are there differences? How do they form and change over time?
+- Easy trick to find old galaxy vs young galaxy. When you look at any galaxy, you can see clearly that all galaxies have old stars which are 12-13.5b years old. No stars older than that. All galaxies in the universe started forming approximately at the same time
+- When you're looking at a distant galaxy, you are looking back in time. They are 13 billion years old; if I am seeing light from 10 billion years ago, I am seeing a 3 billion year old thing.
+- To see young galaxies, look far; to see old galaxies, look close.
+- At some point in the universe's history, galaxies formed from pure hydrogen and helium gas
+- Top-down approach to galaxy formation. Gas clouds collapse and form globular clusters as the gas collapses and lfattens into a disk (like in a solar nebula) which ends up with something like spiral galaxies
+- Elliptical galaxies: maybe formed by a protogalactic cloud with less angular momentum and just doesn't collapse, or it is very high density and it makes all of its stars before it has time to flatten out into a disk. 
+- How do supermassive black holes form? All of these galaxies have supermassive black holes
+- Important idea -- collissions between galaxies. Galaxies are packed pretty close together relative to their sides. Galaxies run into each other in a way that stars in galaxies don't, because stars are small relative to the space between them.
+- You get giant irregular galaxies -- probably formed through multiple mergers with other galaxies. 
+- The big galaxies tend to be elliptical -- you can see separate subcores even in some of these elliiptical galaxies
+- Milky Way and Andromeda galaxy will collide one day
+- How does your position in the univers eaffect your scientific understanding?
 
 
 

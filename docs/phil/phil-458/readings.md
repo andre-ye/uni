@@ -813,6 +813,71 @@ III: The Prereflective *Cogito* and the being of the *percipere*
 - Conscious is prior to nothingness, and derives from being
 - What is the existence of bquestions
 - Ontological error of Carteisna rationalism: define absolute as existence over essence, so we cannot conceive of it as substance.
+  - All this doubting really leads us to the problem of being. 
+  - Absolute: the subject of concrete experience. It is not relative to experience because it is experience.
+
+The Being of the Percipi
+- Appearances call for another conception of being.
+- The bein gof the percipiens is given to us in consciousness
+- We need a first being to whom all other appearances appear.
+- Not the subject, but rather subjectivity an sich. Escape idealism -- we have a being which is fundamental
+- A Husserlian-phenomenological move
+- There is the being of the perceived thing: there is the being of the table -- we need to recognize the being of the object even if we try to de-synthesize and phenomenologize it.
+- I still need to exist to be able to support something
+- The creation of an object as created -- a sort of Husserlian "egological" genesis.
+  - False transcendence
+  - The purported independence of the object
+- *esse est percipi* -- requires for consciousness to bestoy transcendent nothingness while preserving the nothingness of its being -- and this is absurd (pg. 88 in PDF)
+  - We cannot say *esse* from the object itself
+  - *esse* of the phenomenon cannot be its *percipi*
+
+> We can see the phenomenalists’ mistake: having correctly reduced the object to the series of its combined appearances, they thought they had reduced its being to the succession of its ways of being.  (89)
+
+The Ontological Proof
+> We have not given being its due
+
+- Transphenomenality of consciousness requires the transphenomenality of phenomenon's being. 
+- All consciousness is intentional
+  - This cannot mean that consciousness constitutes the being of object, 
+  - Subjectivity cannot step outside itself to posit a transcendental object
+  - The object distinguishes itself fro consciousness not through presence but rather absence (nothingness). 
+- *hyle*, ahyletic core
+- Object-intentions are entirely empty: aim beyond mere appearance at a higher infinite totality of appearances.
+- Non-being as the foundation of being
+- Each profile already is a transcendent being -- a mode of being
+- We will never get objectivity out of the subjective or transcendence out of immanence
+- Subjectivity is consciousness of consciousness - a redoubling
+- The intentionality of consciousness is **really to say that** it must constiute itself as the "revealed revelation of a being that is not, and which is given as already existing when it is revealed" (92)
+- Arrived at the fullness of being from pure appearance
+- Existence posits essence, for consciousness
+
+> Consciousness is a being for whom in its being there is a question of its being, insofar as this being implies a being other than itself.
+
+- A radical re-understanding of being from a pheonmenological perspective
+
+Being an sich
+- Consciousness is a revealed revelation of existents
+- Being does not disclose itself to the person in consciousness
+- Being is the foundation of existence 
+- Consciousness is ontico-ontological in the sense that it transcends the ontic to the ontological
+- Any judgement about being already implies being -- a supposedly viscious circle. But in fact the meaning of being is the same for any being, including its own being (resolving the recursive loop)
+
+> There is one ontological proof which applies to the whole domain of consciousness
+
+- Two regions of being
+  - Being of the prereflective cogito
+  - Being of the phenomenon
+- Creationism: God gave being to the world. But creation ex nihilo cannot explain how being arises, because being remains intersubjective if conceived within a (divine) subjectivity
+- Being-in-itself cannot be explained by creation
+- Being is itself, neither passively not actively -- but rather human
+- Being is the "noema within the noesis" -- not immanence, but it bes itself, it is in itself.
+- Being-in-itself has no inside opposed to an outside
+- Being is the being of becoming -- beyond merely becoming
+- Being is not possible nor necessary nor impossible, but merely *is* -- in its own way. Underivable from anything.
+- Three features -- what is different about these?
+  - Being is
+  - Being is itself
+  - Being is what it is
 
 ### Part One: The Problem of Nothingness
 Page 64 in [this PDF](https://antilogicalism.com/wp-content/uploads/2017/07/being-and-nothingness.pdf){:target="_blank"}
