@@ -895,7 +895,7 @@ Scheler
 
 ---
 
-## Week 8 Tuesday -- Scheler and Sartre
+## Week 8 Tuesday -- Scheler and Nietzsche: The Feeling of the Ethical
 Wrapping up Scheler
 - Scheler's analysis of the human feeling complex is incredibly complex and nuanced -- bringing apart all which is masked under the single signifier of "feeling"
 - Feeling-states vs feelings as intentional responses to values
@@ -978,15 +978,111 @@ Elements and Stages of Ressentiment
 - What Nietzsche is saying is that in fact the vital should be the height, but in fact got put most primitive, and the sensible got elevated -- avoidance of pain directly
 - Are there feeling-complexes which constitute values? Difference from the feeling of revenge, envy, versus spontaneous joy at another good? Is that another feeling? To be happy when someone does something well? And experiencing their value as a good for you too?
 
+---
 
+## Week 8 Thursday -- Sartre
+- Eichmann - instead of dealing with garbage and papers, he disposed of bodies
+- Argentina, Brazil, Chile -- towns which speak only German
+- Eichmann: "We were just being good Kantians" -- Kant's emphasis on duty
 
+Wrapping up Scheler and ressentiment
+- A point which hss to do with value
+- Scheler: slalvishness in morality is not necessarily the effect of Christianity -- anyone can fall into a slave morality
+- Fox and the sour grapes -- those who get the grapes are evil and sweetness is bad. But it's a kind of rationalization of one's failure to obtain certain values
+- Pushing a phenomenolgoical critique of utilitarianism
+- It is that you lack vitality that you disvalue it
+- Values/disvalues on the level of the vital: the noble and the vulgar. 
+- The martial values -- honor, valor, victory, glory -- as opposed to defeat, those who are not willing to endure suffering as an expression of life. The flight from suffering is a kind of revolt.
+- We have had an unprecedneted amount of access to pleasure. But we're also in decline, it feels like: that our vitality is in decline, and it is our scrambling for pleasures which is the sign of the inversion -- vulgarity is now a value
+- Psychic/cultural: beauty/ugly, truth/ignorance.
+  - A university is an instantiation of such a value
+- *The Republic* -- tripartite:
+  - Rational -- philosopher-kings
+  - Spirited -- guardians
+  - Appetites -- workers
+- There can actually be ressentiment directed towards the psychic/cultural
+- Eggheads -- easy to smash their heads in the ground like eggs
+  - "Everytime I hear the word culture, I reach for my gun"
+  - Trying to reinstantiate noble values of the old order, Greco-Roman values
+  - Began as making Germany great again, but basing this off of Rome and Italy: all reading Nietzsche
+  - Why persecuting Jews? Blamed the Jews for Christianity. It was the Christians who took over Rome with their slave morality.
+  - Mussolini's march on Rome
+  - St. Paul ("the jew paul") -- worried that a new Paul would show up
+  - Paul -- there is no jew or greek, no man or woman, no slave or free: all are one in Christ Jesus.
+  - Nazis: no it's not. Jew and Greek are different, Jew and German are different, slave and free are different -- what we've done here is unnatural. Didn't think that they were doing something bad.
+  - Resenting the superiority of a culturew hich cannot be obtained
+  - Hitler famously couldn't make beauty (art) -- couldn't reach the pyschic/culture -- but these spiritual-psychic values are really subordinate under vital values
+- Utilitarianism: a bunch of eggheads, making us into bugeaters
+  - We have healthcare and hospitals
+  - The symbol of the crucifix by hospitals
+  - Who was crucified? Slaves who dared to challenge Roman power, were made an example of
+  - The crucifix is not an instrument of health, but of torture -- why does it show up on hospitals?
+  - When was the first hospital built? By Christians -- neither Jew nor Greek, but also neither sick nor healthy 
+  - Nietzsche: no, caring for the sick reveals a sickliness of spirit. Slaves can't tolerate pain
+  - Last 30 years, fifth vital movement: need to make pain a fifth vital sign, can't be tolerated (elevation of a sensible value into a vital one)
+  - A fully utilitarian view: you care for the sick because you're worried you might be sick and you don't want to feel bad, rather than realizing that it is the natural order of things to dispose of the sick
+  - Spartans: if the babies didn't look right, throw them out. Hospitals would look for garbage babies.
+  - Why do we look down on infanticide? It was normal, and in fact it still is done all overt he world.
+  - Jesus gave even infants values which they never had before
+- Why should I take on the viewpoint of someone else? Some slave?
+  - You can't argue with absolute power
+  - The world is a will to power, and everything that we do is a permutation of this will -- this can be done authentically or inauthentically
+- We can go up to Nietzsche: the Christians won, they gave the Romans a conscience. Hitler is saying that the problem is that we have a conscience. No law other than the will to power -- justice, truth, etc. are not valued. 
+  - Justice is a lie the weak tell to preserve themselves against the strong.
+  - The order of nature, the order of justice
+- Nietzsche hated Darwin
+- What does Mill say to justify utilitarianism: Why respect Christians' rights? Not any inherent value, but if you had just waited and let them have their thing, they'll set up hospitals and now we are living a pleasuralbe life
+- Eve inherits the agony of childbearing for giving Adam the apple
+- The Darwinian view reduces things to pleasure/pain level, Nietzsche says, rather than the recklessness of vital values: you can't take account of consequences in your pursuit of power.
+- Agape -- you love out of a plentitude and it overflows. 
+  - Erotic love: moving towards something you love
+  - Scheler says the care for the sick/weak isn't because of the sick indulgence in the sickly itself and out of a fear of protecting oneself in that they are already in the lowly, but it is the overflowing of a new value. 
+  - A different kind of love which takes risks and cares for the weak not out of fear but out of fearlessness.
+- Anything can devolve into ressentiment -- you can be guilty of it at any point
+- Ressentiment as a sort of fundamental value error
+- Foucault and Scheler as inverted in the relation between history and ethics
+- Hegel and the master-slave dialectic
+- Ethics as a sham for Nietzsche?
+- Maybe for Nietzsche also like Foucault, values are constrained in a historical horizon?
 
-
-
-
-
-
-
-
-
+Sartre
+- Three positings:
+  - Being is -- 
+  - Being is itself
+  - Being is what it is
+- The contingency of being-in-itself.
+- The Being for itself is *not in itself* because it is pure possibility.
+- In-itself: en soi; for itself: pour soi
+- Pour soi is pure possibility 
+  - The for-itself (which is human consciousness ultimately) is pure possibility
+  - being is in itself so it has no possibility which characterizes it: being bes
+- Where does possibility come from? Where is it? Does imagination exist? If so how is it existing? Does it be?
+  - **What is the possible?** 
+  - What is the ground of possibility?
+  - Heidegger: being exists within possibility. Possibility is nothingness: it's not anything. The thing Heidegger wants us to believe that Being is a thin film that floats on nothingness. (Sartre rejects this.) And the nothingness is always threatening to take over, to appear. If you think about being as presence: it's not meaty. 
+  - Heidegger: possibility is higher than actuality
+- Act, form, potency
+  - Actus imperfecti and actus perfecti as the origin of the difference between types of acts, where the term and the act can be one
+  - Act ultimately points towards pure act, which is God -- thereis potency in God, God is pure act
+  - Heidegger: actually possibility is higher than God
+  - Sartre: what determines what is possible other than what is? Located possibility somewhere else other than some metaphysical ocean upon which being floats: Sartre, possibility is *no thing* -- *nothing*.
+  - Aristotle: the soul is potentially all things
+- The thing for Sartre is that we can make the mistake that we are something, that we can start to confuse ourselves as the in-itself, that we can relate to ourselves as merely being rather than...
+  - To think of yourself as a slave is an instance of bad faith (de Beauvoir disagrees)
+  - The for-itself: you have responsibility for yourself. 
+- Wherever you are, you are there because you chose it: because human consciousness at any instant is pure possibility -- you can leave at any time. Even up to the slave. Confusing the for-itself as the in-itself is an instance of bad faith
+<!-- - It would seem like possibility always is in relation to that which is, Heidegger says that [the ground of possibility is the nothing which precedes being] -->
+- Heidegger: Why is there anything at all instead of nothing?
+  - Leibniz asked this before
+  - God in some sense is pure possibility
+  - Heidegger says that when you actually really ask that question, and you have to sit with it -- you realize that possibility is higher than actuality, because there could be nothing instead of something. (But can there *be*, *nothing*?)
+  - Is all of this smoke? Are we sitting on an ocean of nothingness?
+  - Why? vs How? 
+- When you ask why you are asking one or more of four questions, Aristotle:
+  - What brought being out of nothingness?
+  - Why was something brought uot of nothingness?
+  - ...
+- Heidegger says that things can just be; Heidegger says you just have to vibe with that there just is no Why sometimes
+- Do things exist because they are possible?
+- Sartre vs Heidegger on possibility vs being
 

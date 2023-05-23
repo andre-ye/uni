@@ -522,8 +522,43 @@ $$\mathbb{P}(X \le (1 - \delta)\mu) \le e^{-\frac{\delta^2 \mu}{2}}$$
 - Many different things are called the Chernoff bound
 - Multiplicative bound is most common, but there are also other versions -- additive biggness, etc.
 
+---
 
+## Week 8 Friday -- Applications of Tail Bounds
+- The Union Bound: for any events $$E$$ and $$F$$,
 
+$$\mathbb{P}(E \cup F) \le \mathbb{P}(E) + \mathbb{P}(F)$$
 
+- Common usage: What are all the things that can go wrong, use a concentration inequality on each of these, and then union bound
+- Tail bounds takeaways
+  - Useful when the experiment is complicated and you need ht eprobability to be small but don't carea bout the exact value
+  - Designing probabilistic algorithms -- needing some sort of guarantee
+  - Learning more about the situation helps you get more accurate bounds.
+- Doing better with randomness: polling how many people cheat on their partners
+- Hoeffding's Inequality
 
+---
 
+## Week 9 Monday -- Maximum Likelihood Estimation
+- Idea: we have results; high probability events happen more often than low probability events
+- Guess the rules that maximize the probability of the events we saw, relative to other choices of the rules
+- We are trying to estimate a parameter of an experiment. The likelihood of an event $$E$$ given a parameter $$\theta$$ is $$\mathcal{L}(E; \theta)$$, or $$\mathbb{P}(E)$$ when the experiment is run with $$\theta$$
+- Not really a probability -- you can't tell the probability unless you tell me the parameter, so it is a likelihood
+- Different from conditioning, which says ehre is the part of the sample space; the semicolon `;` means "you couldn't do this calculation before but now you can"
+- We need to find the maximum likelihood estimator of the parameter $$\theta$$
+
+$$\hat{\theta} = \text{argmax}_\theta \mathcal{L}(E; \theta)$$
+
+- $$\hat{\theta}$$ -- a formula or a number to estimate $$\theta$$; $$\theta$$ is a variable; also we can use $$\hat{\theta}_{MLE}$$ to emphasize the MLE method
+- Notation Differences:
+  - $$\mathbb{P}(X|Y)$$ -- probability of $$X$$ conditioned on event $$Y$$; I could have had all the information to run the experiment at the beginning; update my probability of $$X$$. 
+  - $$\mathbb{P}(X; \theta)$$ -- looking fro a probability, but you need to tell me what $$\theta$$ is. $$\theta$$ isn't ane vent, so this is not conditioning. 
+  - $$\mathcal{L}(X; \theta)$$ -- when $$\theta$$ is changing, we will use this notation. There are some rules with probabilities that we expect, but this isn't true for $$\theta$$ per se. Other feelings like taking the complement don't apply here. We can't construe $$\theta$$ as an event.
+- Closed interval: set derivative equalt o zero and solve, evalauate likelihooda t endpoints for critical points; maximum value must be maixmum on that interval
+- Uncluosed interval: set derivative equal to 0 and solve; take second derivative, if negative everywhere, the critical point is the maximizer.
+- Function products are not very fun -- $$\ln(a \cdot b) = \ln a + \ln b$$. 
+
+$$\text{argmax}_\theta  \ln \left(\mathcal{L}(E; \theta)\right) = \text{argmax}_\theta \mathcal{L}(E; \theta)
+
+- Log-likelihood function -- easy trick to compute logarithms
+- Also: $$\ln a^b = b \ln a$$

@@ -1088,15 +1088,73 @@ The RYM and the Pigs
 - Woman can work
 - Woman must be a Chicana first (but of course Chicana is already imbured with a feminine sense) -- not just the standard 'race/colonization over gender'
 
+### "In Retrospect", Robert McNamara
+- Communist aggression during the cold war was "real and substantial", even if it was exaggerated -- **its own power**
+- The South Vietnamese "were incapable of defending themselves" -- dynamics of responsibility
+- Should have withdrawn from South Vietnam in late 63 after Diem's assassination
+- Elvent causes for the disaster in Vietnam
+  - Misjudged the North Vietnamese
+  - Misjudged the South Vietnamese
+  - Underestimated the power of nationalism
+  - Ignorance of local history, cutlure, politics
+  - Failed to recognize limits of modern, high-tech military equipment
+  - Failed to be honest with the American people before the war
+  - Failed to be honest with the American people during the war
+  - Put too much power into leaders
+  - Ignored the internaitonal community
+  - Wanted to fix every problem which exhisted
+  - Failure to organize the executive branch effectively
 
+> "We do not have the God-given write to shape every nation in our own image or as we choose."
 
+> "These were our major failures, in their essence. Though set forth separately, they are all in some way linked: failure in one area contributed to or compounded failure in another. Each became a turn in a terrible knot."
 
+### Westmoreland, the US Could Have Won (1976)
+- Took issue with graduated response, halts, ceasefires
+- Political considerations will never allow total independence
+- A commander must live with difficulties
+- The possibility of resigning did not seriously enter his mind except once, in 1968
+- In the end, the US abandoned South Vietnam
+- Failed to react to "gross violations" of the North Vietnamese or to match/quell/address the larger Communist powers
+- Kennedy: "Now we have a problem in making our power credible, and Vietnam looks like the place." (1961)
+- Graduated response is no way to win, a 'handicap'
+- War could have been ended with the Tet Offensive in 68 -- but the press and television "created an aura not of victory but of defeat", timid officials collapsed.
+  - Television made the war
+- Policy of blanket educational draft deferments which created a working man's war
+- Strong control of the conduct of War -- comes out of the Bay of Pigs invasion in 61
+  - "demonstrates the perils of decentralization
+  - Succesful ahdnling of the Cuban missile crisis -- centralized command is needed
+  - Westmoreland's wet dream is central hierarchal command with no bureaucracy
+- Paranoid fear of confronting the Soviet Union and the Chinese -- tried to be too cautious, wanted to have their cake and eat it.
+- Johnson's **guns and butter**
+- Contributed to a credibility gap
+- Johnson relied too much on the Gulf of Tonkin resolution for domestic political assurance
+- A long undeclared war will become a political issue
+- Johnson didn't manage the public's opinion well enough, and didn't present the right image of himself
 
+> "it was perhaps a situation beyond the mastery of any man"
 
+### "Vietnam Veterans against the War", John Kerry (1971)
+- Raping of Vietnam -- the ravaging of war, the community of feeling
+- What has the country made them do? -- responsibility
+- Winter Soldier Investigation
+- What threatens America is not Communism but the crimes which are committed in the name of defeating it
+- South Vietnam is insignificant
+- Most people want to work in rice paddies without war -- sided with whatever military force was present
+- American taxes going to corrupt dictatorship
+- Pride and arrogance
+- Someone has to die so Nixon won't be "the first President to lsoe a war"
+- How do you ask a man to be the last man to die for a mistake?
+- Racism, hypocrisy
+- Changing with Vietnam means
 
-
-
-
+### Roe v. Wade (1973)
+- Deep convictions about abortion
+- Jane Roe: unmarried and pregnant, wished o terminate pregnancy by abortion; Texas statues are unconstitutionally vague; abridge right of personal privacy
+- Abortion up to recognizable movement was generally acceptable but was greatly restricted up to the fifties
+- Right to personal privacy includes aobrtion and should be considered
+- Texas cannot override the rights of the pregnant woman
+- The State can regulate abortion after the first trimester
 
 
 

@@ -897,6 +897,36 @@ The Question
   - Some questions *seem like they do not apply to/with negativity* -- but we can always reply in the negative, Nothing / Nobody / Never
 - We can respond to the previous question: "No, it does not exist". And so here we are presented with the transdcendent force of non-existence.
 - Does non-being exist objectively?
+- What is the man-world relation?
+
+> Is there a mode of behavior that can reveal man's relation with the world?
+
+- This question can be considered objectively.
+- If you destroy the reality of the negation, you destroy the reality of the answer. **Being discloses its negation to me.**
+- Questions posit three non-beings: the non-being of knowledge, the non-being of knowledge in man, the possibility of non-being in transcendent being, and the non-being of limitation.
+- We have found ourselves surrounded by nothingness. 
+
+> Being is that and, apart from that, nothing.
+
+Negations
+- The negation is subjective -- a product of the judgement, what the questioner anticipates in an answer.
+- Nothingness establishes a transcendental unity of all negative judgements: X is not...
+- Being in itself has no negation; negative judgements become wholly affirmative
+- Negation is incapable of existing by itself -- what is negation's being?
+- Negation is not merely a quality of judgement, but a prejudicative mode of behavior. I can question something in my attitude towards it.
+- What I expect in an interrogative gesture is a disclosure of being -- my question includes a prejudcative understadning of non-being
+- Man is the only being through which destructino can be brought about. After the storm there is no less, but only something else; but it is humans who can live nihilation and nothing.
+- Fragility is the possibility of non-being.
+- Pierre is not at the cafe at 4:00 like we agreed. Pierre's absence is an intuition of nothing. Nothingness cuts like a void across all of the being of the cafe.
+  - Connections to Husserl's conception of disharmonious experience. 
+  - Nothingness pervades all of being and becomes the foundation of my judgement
+  - Pierre haunts this cafe
+  - Purely abstract absences do not have a similar sense of absence and nothingness
+- Negation is a refusal of existence
+- Negation must be an abrupt break in continuity
+
+The Dialectical Conception of Nothingness
+- 
 
 page 67 in PDF
 

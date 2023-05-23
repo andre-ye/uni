@@ -2888,8 +2888,99 @@ Easy Rider (1969)
 - They're between beats and hippies, free lives nad living the beat lifestyle
 - Reflecting back on the 
 
-To be completed soon
+American Indian Movement
+- Shows the collective needs of American Indians
+- Occupy and take over places
+- Alcatraz in 1969 -- old federal prison, turning back into Indian land, taking back pieces of native land
+- 1973, occupation of Wounded Knee
+- Different movements in Washington also, reclaiming fishing rights which had been taken away
+- Seattle, occupation of discovery park
+- Occupation of Bureau of Bureau of Indian Affairs in 1972: Trail of Broken Treaties, all the treaties which had not been fulfilled, almost uniformly included anuity payments to tribes
+- Begins pressure on Nixon to change, and it will change under Nixon -- self-determination policy under Nixon, puts sovereignty back in the hands of Native people.
+- Native people could fom tribal governments, instiuttions, etc.
 
+Altamont: Free Concert in California
+- December 6, 1969 -- "west coast woodstock"
+- Many top listers
+- Problem with Altamont was the planning
+- Switched venue very suddenly -- rushed to get the planning done in a couple of weeks
+- 300k people attended
+- Rolling Stones hired Hell's Angel Bike Gang as security, paid in beer
+- Got more and more drunk
+- 4 people died -- 1 stabbing, 3 accidents
+- People kept on coming on stage, Hell's Angels would knock them off stage
+- Some people knocked over some bikes, then begin pulling out pool cues and using chains as weapons 
+
+### Invasion of Cambodia
+- 1970, as US troops begin to come home
+- April to July, 1970: Nixon anounces a public campaign to bomb Cambodia
+- ARVN and US troops cross the Cambodia and also Laos later
+- Massive bombing campaigns
+- Were not told that we were bombing Cambodia and that there were massive campaigns
+- For Americans, still very shocking -- how is it that the war is getting bigger as the war is ending?
+
+### Kent State, 1970
+- Ohio national guard turned out to quell student protest
+- Given live ammunition to police unarmed peace protesters
+- National guard and students squared off, backed off, etc. 
+- Something happened, someone fired, etc. -- national guard shoots into the crowd and kills four protesters at Kent State, including some who were not protesting
+- Increased number of protests, ROTC buildings burned
+- Flying apart 
+
+### Jackson State Shootings
+- Students also turned out to protest the war
+- Mississippi police opened up on Black protesters
+- 2 killed, 12 wounded
+- 400 rounds fired at unarmed students
+- Nixon's message to middle America was still effective: protesters are troublemakers and we have to keep things under wraps
+- Less covered as a mainly Black area
+- Beginning of law and order campaign
+
+### Pentagon Papers, 1971
+- To further open up the dissolution of society, Daniel Ellsberg came upon the reports that McNamara had commissioned to be done in 67 when he was becoming disillusioned with the Vietnam War
+- Looking through papers and DoD papers and compile an understanding of how the US got involved in the Vietnam War
+- 7k page document detailing Kennedy, Johnson, how they got involvedin the Vietnam War
+- Daniel Ellsberg came across this in the Pentagon and released it, known as the Pentagon Papers
+- Showed that multiple presidents going back to Truman had misled the American public about policy on Vietnam -- each is complicit in what had happened to US
+- Cambodia bombings
+- Nixon's "dirty tricks" campaign -- send the pulmbers (burglers) into Ellsberg's psychiatrist's office to blackmail Daniel
+- Nixon ordered chief of staff to break into the Brookings institution and to raid their safe (wasn't done though)
+- More and more suspicion of dirty tricks
+
+### Vietnam Vets Against the War
+- John Kerry, naval officer in Vietnam
+- Leads Vietnam Vets Against the War
+- 1971
+- What Kerry says about feeling betrayed, about the terrible things being done in Vietnam
+- A variety of responses to Kerry and VVAW -- who is to blame for what happened?
+- POWs being celebrated by Nixon for being brave patriots
+- POWs will often make speeches of patriotism and loyalty -- really different takes
+
+### Operation Linebacker (1972)
+- Nixon expanding the war more
+- Linebacker: massive expansion of the war and bombing campaign
+- Released massive bombing campaigns on the North -- trying to find the breaking point of the North
+- Tet Offensive is a massive build-up which failed
+- NV launched 3 more offensives from 68 to 72, all failures
+- Didn't seem to be any resolve breaking on the part of the Northern Commies
+
+1972 Election
+- Nixon was popular -- supporting a lot of great society type legislation being passed, like his campaign against the protestors
+- Is bringing troops home, the war does seem to be winding down
+- George McGovern is totally defeated -- endorsed by the Yippies and makes him look like a fringe lefty weirdo
+- Electoral map: Nixon tkes all tates except one
+- A kind of symbolic feat of the countercultural rebellion
+- By 71 72, protests fall off -- economy is plummeting. The war is coming to an end, not as much protest
+- Some of these ideas and behaviors are overshadowed by the reality of the times coming to a close -- symbolically, nightime is coming.
+
+Sum Up
+- As the decade came to an end and the seventies began, the Vietnam War highlighted a divided nation
+- The promises of countercultural ideas, attitudes, and behaviors were overshadowed by the reality that not everyone understood counterculture in the same way.
+- Kissinger is a very divisive figure in American life
+	- Possibly should be held for war crimes
+	- Chile
+	- War crimes
+	
 ---
 
 ## Lecture 18:A New Environmentalism
@@ -3155,9 +3246,223 @@ Reemergence of the Environmental Justice Movement, 1970s
 	- Polluters have to pay some of the liability to help clean up some of these areas
 	- Lots of heavily toxic superfund areas 
 
+---
 
+## Lecture 19: Out of the Quagmire
+Argument: In some ways the 11960s continued into the 1970s, but the Vietnam War, Watergate, and the economic outlook marked an end to the hopefulness of a decade prior.
 
+- Much of this decade is about young people -- the importance of youth is not to be underestimated
 
+Nixon and the Expansion fo Government
+- Nixon is a sort of interim Republicna/conservative president between Eisenhower and Reagan
+- Politically savvy, is continuing on a number of Great Society policies because they were popular.
+- Under Reagan, clear shrinking of the government
+- Office of Minority Business Enterprise (1969) -- trying to attract non-white voters
+- OSHA (1971) --govern workplaces and weigh in
+- National Transportation Safety Board (1971)
+
+Welfare
+- Expansion of welfare and the use of welfare
+- Daniel Patrick Moynihan -- an old New Dealer, liberal Democrat who is going to slowly move his way into the conservative side of politics.
+- Recommends policies like the family assistance plan and the negative income tax
+- If you are poor enough, you should not be paying taxes but getting some sort of benefit
+- Minimum income for all Americans, a basic universal income for all Americans. Unpopular across the board
+- Increaes in welfare enrollment during the 1960s -- strong conservative response, laziness, indiviudal responsibility, etc.
+
+Nixon and Politics First
+- Second term, not running after anyway
+- Trying to toy with the idea of affirmative action
+- In the 1964 Civil Rights Act, picking up on Johnson 
+- Johnson had included in hiring policies the principle of affirmative action -- there needs to be color-blind hiring. If a candidate could prove they had been discriminated upon by race, there was a legalized section for sueing
+- Nixon -- a certian number of jobs need to be set aside and put for people of color
+- An experiment to see what the experiments will be
+- Pitted Black workers against the trade unions (mostly white) to fight inflation
+- Nixon wanted to undermine the trade unions so that he could fight inflation as the pay went dowon. Pits these groups againsdt each other to see the political outcome
+- 1970, NYC Hard Hat riots -- trade unionists turn out against antiwar protests, gets violent
+- Ends up siding with the trade unions over anything having to do with Affirmative Action, goes out of the iwndow to side with blue-color folks
+
+1973 Rehabilitation Act
+- Direct outcome of the Civil Rights act
+- Eventually leads to the 1990 ADA 
+- Forgotten Americans -- certainly the disabled.
+- Civil Rights -- think in terms of class, race, gender, but also one privilege we live with all the time are being able-bodied
+- Stage protests of their own, getting politicians to pay attention to them
+
+The Burger Court
+- Supreme Court goes through a significnat change when Earl Warren retires in 1969
+- Warren Earl Burger -- arch-conservative appellate judge -- gets in as Chief Justice
+- Leadership is quite interesting, goes left and right sometimes
+- You have a 7-2 conservative majority
+- Solve school integration problem using busses -- American neighborhoods ar e segregated, so we should bus kids fro mone place to another
+- Caused a great deal of anger and resentment, massive protestsan d resnemtentrs over this idea
+- Court case -- can we take the property taxes from one place in the city and proposing less well-funded areas? SC
+- Supreme Court -- cnaonot force the suburbs to take federald
+- Rove v. Wade
+
+Busing, Segregation, and a Divided Nation
+- Italians against lack kids being bussed in
+- Fights over governance overreach, this isn'vern
+- What is trhe nature of the probl
+- All of these problems who ha 
+
+Roe v. Wade (1973)
+- Whole language is premised on rights; this is whatbot-== 
+- My irght to ...
+- Right comes ou o= sx'
+- Overturning O;
+
+Nixon and Detente
+- Madman theory of Nixon
+- Nixon sees an opportunity with the passing of Khushchev to have a differetn relationship with the Soviet Union
+- Brezhnev and Nixon are both leaders of nations coming into the seventies
+- Economic times are changing in the US, an endless arms race is not finacnailly viable
+- Get together and agree on a few policies, like the SALT (Strategic Arms Limitation Talks) and ABM (Anti-Ballistic Missile Treaty), saying we will have this much of that kind of missile. Both sides agreeing on a balance sheet for the nuclear arms they are going to have so they don't break the bank outrunning each other
+- Both nations looking at anti-ballistic missiles to shoot down missiles, and it undermines the threats of massive retaliation; if one side has effective anti-ballistic systems, they can shoot down the other person's missiles, not developing these anti-ballistic missile systems to develop a peaceful coexistence. 
+- Nixon's 1972 trip to China, only Nixon can go to China -- the US and China began a lot more vigorous trade than was possible before
+- Americans were often pretty poor at understanding different kinds of communism throughout the world, China is differetn from USSR
+
+End of the Draft (1973)
+- MOvement to end the draft
+- All volunteer army or military
+- Many reasons; a draft army has many disciplinary problems, massively unpopular
+- Nixon is doing well with his policies, has popular domestic policies, bringing the troops home, support is looking quite good
+- One issue was the economic downturn, but ending the draft helped distract from changes to the overall economy.
+- For the US military, the US military now as an all-volunteer force invited both women and people of color, had more opportunities to join because of lower enlistments
+
+Congress Taking Control
+- After the Pentagon Papers had come out and what the Presidents had happened, Congress becomes very involved in the Vientam War in ways it hadn't before
+- Ending the draft (1973) and the War Powers Act (1973) -- Congress has to give approval of troop deployments
+- Budget and impoundment act (1974), weakens the president's control of federal spending -- at the end of the Vietnam War, one of the contingent things tht happens, Nixon promises president of SV that Americans will withdraw but will come back if the NV launch a major offensive again. This is not possible for Nixon to do that. Nixon resigns, Ford comes in, and when the Communists do attack and overwhelm SV, Ford's hands are totally tied. Americans simply pull out.
+
+Threats Outside of Vietnam
+- A war like Vietnam or Afghanistan -- totally ties up diplomatic resources, if you're bogged down in a war, it becomes impossible to address things in other places
+- Cubans sending guerillas over the Angola, the US had limited ability to do anything about that
+- The Soviets influenced revolutions in Africa and Middle East, dumping millions fo dollars worth of arms into East Africa
+- Afghanistan -- the "Soviets' Vietnam"
+- Vietnam cost the US other oppoprtunities it might have engaged with
+
+CIA and Covert Operations
+- Nixon administration doing all kinds of shady stuff
+- These are now part of the Nixon legacy
+- School of the Americas -- long been used to train right-wing militaries to fight against leftists in latin America, training assassins and such
+- Henry Kissinger and the state deparmtent, 1973 in Chile: help overthrwo the democratically elected socialist Salvador Allende (who wanted to nationalize resources and kick out the US-linked company ITT in charge of telecommunications) and replaced with Augusto Pinochet
+- Pinochet kills thousands of his own people for being leftists
+- Under Nixon and Kissinger, the US is completely upending democratic societies around the world
+
+Economic Stagnation, 1973 - 1975
+- Economic downturn of the time, stagflation (no economic growth, yet prices going up), i.e. income is not rising at the same rate that prices are rising
+- Oil embargo going on, energy crisis
+- Gas is hard to come by; America becomes built around the car and gas-to-heat homes
+- Long lines of cars at gas stations, no gas
+- Large changes in the economic sector; Americans import 1/3 of oil
+
+Global Economic Recovery Post-WWII
+- Car industry is fundamental to Ameircan manufacturing; essential to cars going into different parts of the world
+- Other countries rebuilding after WWII are competing -- more efficient with Gas
+- Americans are still building massive gas-guzzling cars, and these smaller cars are emerging from Japan and Germany
+- Moving manufacturing overseas -- South Korea and Taiwan/ROC begint o do a lot more manufacturing
+- Global economic changesa re really affeting the US
+- 1971, US is in a trade deficit: exporting less than importing, status as a global leader is changing
+- Nixon put the US no longeer on the gold standard; the US dollar is now floating against other currencies in the world, which introduces more instability into the world
+
+OPEC -- Organization of Petroleum Exporting Countries, 1973
+- The need for oil to run the massive American economy -- all need oil. Americna consumer system gobbles up oil
+- 1973, as a response fror the US supporting Israel as a stand against Arabic nations, OPEC forms
+- OPEC now sets the price of oil. OPEC says we will not sell oil to certain people altogether. Held the United States really in their hadns
+
+Oil Embargo
+- The United States enters in an oil embargo
+- Resources in Alaska become important
+- Alaska seen as a great American reserve for places tog et oil and alleviate problems
+- Big open spaces like Wyoming and such, lots of carbon-based extraction
+- Begins to cripple poeple's ability to move around
+
+The Rust Belt ("Making Ameirca Great")
+- Jobs are being automated and moving away
+- Area which becomes important for the election of Donald Trump
+- Many people who see themselves as the Forgotten American here
+- A lot of old unionists and good manufacturing jobs
+
+Stafglation in the 1970s
+- Early 1970s, stagflation -- for Ford and Carter in 1975, this will be difficult
+- Unenviable positions of dealing with this problem of stagflation
+
+Resignations and Abuses of Power
+- Spiro Agnew, Nixon's vice president, had a shady background. Agnew had been the face of the fight against the anti-war protesters, putting own protestsa s communist sympathizers.
+- Agnew had been accepting bribesa s the Governor of Maryland and has to resign as president
+- COINTELPRO and FBI spying programs come to light
+- Activities of the CIA in places like Chile and Angola
+- A lot of news coming out on top of issues like the Viernam War
+
+US Politics in Crisis
+- VP Agnew resigns for tax evasion and accepting bribes
+- Washington Post reporters working ont he Watergate scandal 
+- *All the President's Men*
+- Just one episode in a long laundry list of Nixon's dirty tricks
+- White House chief of staff had hired plumbers (burglers) to break into Democratic National Headquarters and to install listening devices so they could spy on the Democratic party and win
+- Nixon saw the writing on the wall and resigned
+- Ford took over in 1974 and in an unenviable position
+- Part of a political administration with dirt all over it, would not be very politically successful ever
+- Circumstances are getting worse; the Communists are on the move, the North Vietnamese Communists on the move, believing they can take over the country byt he end of 1976. Keep on testing if the Americans will come back. The SV are screaming to Ford that Nixon would promise aid; Ford came before Congress; Congress says no. This finishes off the American withdrawal
+- Ford was a representative in Congress (speaker) before he was president
+
+Fall of Saigon (1975)
+- Fall of SV into the Communists
+- Good documentrary: *Last Days in Vietam*
+	- Graham Martin, Cold Warrior, lost only kid to combat in Vietnam, ambassador to Vietnam at the time
+	- Martin believed that any discussion of an evacuation would cause panic 
+	- The US would not provide aid
+	- The military, sapce department, all of the Americans left in South Vietnam could do nothing without Graham Martin saying it's time to do something. 
+	- People could see the writing on the wall. Army personnel, CIA people, etc. could all see what was happening but Martin refused to do anything about it
+- US had four options for evacuation
+	- Take big commercial ships up the river and load people on it; US had at least 200k-500k people who worked with the US and would likely be killed when the Communists took over
+	- Lift people from the airport using fixed-wing aircraft -- airliens would fly people out
+	- Use military fixed wing aircraft
+	- Helicopter airlift
+- Communists were not advancing so quickly by April of 1975 that Americans were pulling out and the Communists began shelling the airport
+- Fixed-wing aircraft is impossible
+- Martin gave the go-ahead to evacuate
+- Some Americnas had already been secretly evacuating 
+- Came back down to the helicopter airlift -- throng of people trying to get out of South Vietnam; ships in the ocean, people getting in boats trying to meet up
+- Some ARVN pilots loaded people in helicopters and flew out
+
+Getting Out
+- The US has its people pulled out, a lot of these guys stay in Vietnam for years, guys left there in the end have families with Vietnamese women and such.
+- Some increased bombing campaigns to cover the Americna retreat
+- Cambodia falls into the Khmer Rouge, which culminates in the killing fields where they kill millions of anti-Communists
+
+In Total
+- US drops 7 million tons of bombs, 3x as many bombs as all nations dropped in WWI
+- More than 28k US troops killed, 315k wounded, 1.6k missing
+- $800 billion (adjusted) dollars spent on the war
+- 3m Vietnamese killed, 500k civilians -- 33 million people at the beginning of the war, so substantial population is dead
+- Vietnam War begets a very problematic legacy -- the Vietnam Syndrome, a general malaise with the economic problems of the seventies, lingering sense of hsames and trying to find the guilty parties, Veterans coming home and feeling as if they had been spat on even if they weren't
+- Veterans would begin to not talk about the war,  not keep their war memorabilia out, hide their experiences
+- 26m men cam eof draft age during the Vietnam War
+- 2.15m went to Vietnam, 1.6m in combat
+- Disproportionately a poor, uneducated, Black mens' war
+- A high school dropout had a 70% chance of going to Vietnam -- high proportion of dishonorable discharges and such, uneducated
+- 60% who died in Vietnam were young, between 17-21 years old
+- A young man's war: average service age is 19
+
+Legacy of the Vietnam War
+- Very long lasting legacy of the Vietnam War
+- A damaged US credibility -- we need to be sure our methods don't damage our credibility, but it did...
+- Increase in suspicion of government, politicians, and institutions; decisions made by Johnson, Nixon, etc.
+- Vietnam Veterans -- remain in the shadows, hid, didn't want to be known as Vietnam Veterans, wanted to forget and get away from it
+- Some psychological, neurological effects -- some are wounded and deal with the VA (spotty institution)
+- Lots of Vietnamese refugees leaving their homeland and finding a new home somewhere else
+- 1970s, a lot of general malaise. 
+- Difficulty in finding good jobs which had existed before
+
+Sum Up
+- By the mid-1970s, the promise of the sixties was over and a new period marked by economic recession, Cold War negotiations,a dn a divided society was beginning.
+- Yougn people going through this period of liberation and youth, yet this promise of the sixties in terms of the fallout of the Vietnam War had come to an end by this point.
+
+Then...
+- 1980s, Top Gun is made, and everyone loves the military again
+- Film was a strong way in which the country reconciled with itself in the Vietnam War
+- Immigrants begin to fill up the US military in new ways.
 
 
 

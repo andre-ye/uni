@@ -1429,6 +1429,13 @@ Mass to Light Ratio
 - Most stars are smaller and less luminous than the Sun
 - Most material in the universe cannot be observed directly via the electromagnetic spectrum
 
+### 26.4: The Extragalatic Distance Scale
+- We need to know how far away a galaxy is before we compute other important properties
+- Cepheids -- intrinsically luminous variable stars
+- Stars are not standard bulbs -- it is not true that brighter stars must be farther away. Type 1a supernovas are easily visible and reach the same luminosity at maximum light.
+- The luminosity of a spiral galaxy is realted to its rotational velocity
+
+
 ---
 
 ## Chapter 27: Active Galaxies, Quasars, and Supermassive Black Holes
@@ -1521,10 +1528,64 @@ The Brith of Black Holes and Galaxies
 ## Chapter 28: The Evolution and Distribution of Galaxies
 
 ### 28.1: Observations of Distant Galaxies
+- Distance from galaxy is derived from redshift
 - 
 
 ### 28.2: Galaxy Mergers and Active Galactic Nuclei
-- 
+
+### 28.3: The Distribution of Galaxies Through Space
+- Hubble finds that the number of galaxies visible in each area of the sky is about the same
+- Hubble discovers that the universe is isotropic and homogenous -- looks the same in all directions; any section looks the same as any other
+- Cosmological principle -- the universe is the same everywhere
+- Inductive assumption essential to making claims about the universe
+
+Local Group
+- We are discovering new galaxies all the time
+
+Neighboring Groups and Clusters
+- Virgo Cluster -- has the elliptical galaxy M87
+- Coma Cluster
+- Ellipticals are 'highly social', found in groups and hang out with other ellipticals
+- Spirals are 'shy'; found in poor clusters or on the edges of rich clusters
+
+Superclusters and Voids
+- Large superclusters -- giant arcs of inkblots
+- Local Group is part of the Virgo Supercluster
+- Voids: separating the sheets of the supercluster. Empty bubbles within large galaxies
+- 90% of galaxies occupy 10% of space
+
+### 28.4: The Challenge of Dark Matter
+- Galaxies contain large amounts of dark matter
+- The epistemic properties of dark matter are not foreign
+- Astronomers can routinely determine the location and amount of dark matter by measuring gravitional effects
+- No more than half of the mass in the region near the sun can be dark matter
+- About 90% of the mass of the galaxy is in the form of a halo of dark matter
+- Galaxies in clusters orbit a cluster's center of mass; so how much mass is needed to maintain cluster consistency?
+- Gravitational lensing: general relativity tells us that mass bends spacetime, so dark matter can also reveal its presence by bending light
+- X-ray: galaxies have gas distributed between stars; gas heats up and shines; compare X-rays with visible matter
+- Mass-to-ligth ratio: amount of matter in galaxies
+- Dark matter apparently makes up most of the total mass of the universe
+- MACHOs: MAssive Compact Halo Objects. But MACHOs cannot account for all of dark matter
+- Hot dark matter -- dark matter particles moved faster compared to ordinary matter. Cold dark matter -- colder. 
+- Dark energy -- some mysterious energy which pushes spacetime apart, taking galaxies with it
+- Science always in progress
+
+### 28.5: The Formation and Evolution of Galaxies and Structure in the Universe
+- How did the universe get this way? Dark matter, gravity, and time.
+- Galaxy mergers play an important role in the evolution of galaxies
+- The larger a galaxy, the larger its central black holes
+- Elliptical galaxies formed in a single collapse -- top down.
+- Ellipticals are formed through mergers of smaller galaxies -- bottom-up.
+- Spiral galaxies -- bottom up.
+- Tiny dark matter seeds grew into larger structures as cosmic time passes. 5% normal attom, 27% cold dark matter, 68% dark energy
+- Big picture
+  - Distribution fo matter is pretty much smooth and uniform
+  - Each lump expands; regions of higher density acquire more mass
+  - Universe built-itself fromt he bottom up, through mergers
+  - Some galaxy collisions trigger massive star formation and black hole formation
+  - Black holes found a lot of food and grew quickly
+  - Massive black holes trigger quasars which shut off star formation
+
 
 ---
 

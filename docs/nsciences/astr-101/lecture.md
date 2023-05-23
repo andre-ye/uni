@@ -656,6 +656,50 @@ ASTR 101
 - Milky Way and Andromeda galaxy will collide one day
 - How does your position in the univers eaffect your scientific understanding?
 
+---
+
+## Week 8 Monday -- Dark Matter and Large-Scale Structure
+- By studying galaxies at varying differences, you can sample galaxies of different ages
+- Groups -- smaller, less dense groups of galaxies; clusters -- larger, denser groups of galaxies
+- Collisions -- galaxies change over time by colliding and 'interacting'/'encountering' with each other in ways which planets just don't
+- Collisions are driven by gravity; we need to know the masses of galaxies -- how do you weigh a galaxy?
+  - You need masses and distances per Kepler to understand gravity
+- Good way to figure out mass -- watch how it moves under gravity
+- You can calculate a mass needed to Push the Mass around every so many years.
+- Rotation curve -- distance from center of milky way against orbital speed
+- Orbital speeds stay very high after an initial climb
+- Why is this a little weird? -- orbital velocity by semi-major axis: 
+- The Su m is basically all o f mass i 
+- Spiral galaxies -- need to be tilted towareds you, so yo can b uild BEsl
+- All the stars and thre gas and matter are in the first fifty distance from the center -- at's wheere the matrttr and stuff is.
+- You can't see the mass beyoboooooooooooooooddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddxb     
+- How much mass is in the univereal in totla? 
+- Quiz question: 3 different ways that one can measure the mass of glusters'
+  - You watch thing love (?)
+    - Clustrers form thousands of stars
+    - A few undred datrapoints give youa 4un for their money
+    - d
+  - Look at X-ray imafges o f a nearby 
+    - hot gas is trapped there by gravity, some of it has to dow ith the temperature of the gas itself; wans to leave the clusrer, requires energy
+    - Want to leave the cluste rbut can't; are heavilyc onstrained
+    - Escape velocity / temperature is correlate with mass
+  - Einstein's Theory of Relativity: some light finds itself bent by the presence of masses; we can measure how much the degree is juw53e
+  If you look ata a cluste orf galaxies and you ust cound hot many things there are, you end up with 80 percent of thr e
+    - MACHOs move between each other -- looks like a very temporary brightening of one star which happens once
+- Dark matters are likely composed of new subatomic particles -- they interact only very weakly and with normal matter and with radiation, also nonzero mass, and a measurable gravitaional influence
+  - Weakly Interacting Massive Particles (WIMPs)
+- A lot of research in dark matter happens now in computer simulations? How do initial seeds lead towards different conditions?
+- So hwo do you make a map of the universe? How do you get distance?
+- You can't use parallax or main-sequence fitting or Cepheid variables, becuase we can't see things farther away enough
+- New method of distance measurement: there is a relationship between how far away a galaxy is and how high its velocity is. Hubble's Law. Relies on linear relationship by Hubble's constant.
+  - Just measure velocity for galaxies to calculate distances
+  - Measure Doppler velocities, use Hubble relationship
+  - How do you measure the distance some other way to make sure the line really is a line?
+  - Use a brighter candle beyond Cepheids -- White Dwarf Supernovae. Very bright standard candles. Can be observed billions of light years away
+  - Hubble's Lw remains a straight line even for very large distances
+  - Hubble's line is real
+
+
 
 
 
