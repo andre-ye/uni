@@ -699,8 +699,56 @@ ASTR 101
   - Hubble's Lw remains a straight line even for very large distances
   - Hubble's line is real
 
+---
 
-
+## Week 9 Wednesday: An Expanding Universe
+- Most of the mass of the galaxy lies far out in the halo, not tightly concentrated in the center in the same way that luminous matter -- somehow distributed meaningfully throughout the halo
+- For some reason this matter isn't settling down and settling in the middle of the galaxy, it's staying out. Gravity wants to keep things together
+- What we are seeing in dark matter is that it doesn't even interact with itself, don't even bounce with each other and lose energy and settle down. Just stray in these halos
+- Amount of dark matter is very large, 80=90% of the gravitating material in the universe. 
+- We see lots of independent lines of eivdence pointing towards black matter -- we don't know what most of the stuff in the universe is.
+- Appears to be some sort of a Weakly Interacting Massive Particle. 
+- Maybe the issue is also that we don't understand gravity on galactic scales and there isn't dark matter.
+- Different simulations for how galaxies are believed to have formed
+- Large maps are made with Hubble's law, which ties a galaxy's redshift to its distnace.
+- We can confirm Hubble's Law with white dwarf supernovae as standard candles
+- Hubble's law really is a line, although there are interesting changes in distances
+- On very large scales, there doesn't appear to be super-clusters -- just gets very weirdly smooth. The early universe is less structured than it is now -- it was more homogenous in the distant past.
+- Outside of the local group of galaxies, all galaxies are moving away from us. The farther away galaxies are from us, the faster they're moving. 
+- Not that surprising to people in the 20s, becuase of the development of general relativity -- space and time are not stratic and uniform, but distortable. 
+- Einstein was deeply concerned that all of the matter in the universe would eventually contract into a giant black hole and pull everything into it; gravity is always pulling on you and it will eventually pull everything into one spot.
+- Einstein sticks in an anti-gravity term to prevent things from contracting together over time "cosmological constant"
+- Greatly relieved by the expansion of the universe; the univerese is expanding, no need to protect it form itself
+- The galaxies aren't really moving; it's the space and time between the galaxies which is expanding; spacetime stretches apart the empty expanses between galaxies and affects the wavelenght and freuqency of light passing through it
+- Light looks redder when it gets stretched out through spacetime
+- Gravity can overcome the expansion of the universe in some local regions -- gravity is strong enough to keep space from expanding. 
+- Expansion of spacetime isn't keeping Andromeda from running towards us. Expansion of the universe isn't happening in our local galactic group.
+- Gravity is always working to bring things together; trying to pull things together now
+- The possibility that the entire universe might have enough stuff in it that gravity pulls on that in some distant future it might recollapse upon itself (big crunch) -- the universe might collapse on itself
+- All about the tension between expansion and collapse from gravity
+- Four models for the future of the universe
+  - Recollapsing universe, expansion will someday halt and reverse, the big curnch
+  - Critical universe: universe doesn't have enough to collapse, but will have enough to approach a stop in the infinite future; stops expanding, slows in the infinite future until no more expansion
+  - Coasting universe: the universe will expand forever at the current rate or with little slowdown.
+  - Accelerating universe: the expansion will not only continue, but actuallya ccelerate with time. 
+- Will the past tell us how things will change over time?
+- These models predict not onlys omething about the future but also about the future
+- Recollapsing model seems like it's not plausible because it predicts too young an age fro the universe; also the critical expansion method; so really it is the accelerating universe hypothesis which is true. 
+- For galaxies to pick up speed, we need some sort of anti-gravitational force, but we don't know about any such force. 
+- Expansion of the universe used to be slow and is now faster than it used to be; it has gotten faster over time. 
+- Why would the univere be accelerating?
+- Dark energy -- shot-out to dark matter as things which are mysterious that we don't understanda bout the universe.
+- What might be causing the expansion of the universe?
+  - Einstein suggests that the universe has a constant force pushing against gravity -- we have put the cosmological constant back. Also just a constant, pretty easy to keep up with. 
+  - May be a fifth force out there -- an anti-gravitational force which is very weak and we don't observe it, but it takes over in the empty spaces between mass, and it is what takes over: quintessence. Aristotle, the magical fifth element that things are made of -- now a possibility for dark energy
+  - You might be able to come up with a force that explains dark energy and dark matter
+  - Maybe dark energy gets so strong that electrons are pulled off of neutrons and you don't have atoms; nuclei themselves are pulled apart, the Big Rip -- everything is so stretched out that you can't have atomic structure anymore
+  - Or maybe it gets negative and lumps in with gravity, collapses and cruches on itself
+- We can only look into the past to look at the future; where did you come from to know where you will be going.
+- The sky is dark at night -- this is actually very profound. Kepler points out that this shows us that the universe  cannot be infinite. There would be an infinite number of stars in the background, and everywhere you look you should see a star; and so everything should be lit up everywhere
+  - Kepler: Olber's paradox, the number of stars are small, and only located close to the Earth, like a small forest -- the universe might just be the milky way
+  - Edgar Allen Poe proposes a more accurate solution -- if the universe were finite in age, it would be finite in its observable size. Light from very distnat stars simply would not have had time to reach us since the univrse began.  So actually the universe could be infinitely large, but not infinitely old. The universe must be finite in its age.
+- From this simple observation, the universe must have had a beginning. There was a time before galaxies, stars, etc. -- what was it like?
 
 
 
