@@ -1086,3 +1086,82 @@ Sartre
 - Do things exist because they are possible?
 - Sartre vs Heidegger on possibility vs being
 
+---
+
+## Week 9 Monday -- Sartre
+- Is romantic love a quasi-Christian invention? Elevation of eros with agape beyond material eros
+- The nothing that is
+- Between the potency and the existence falls the shaddow -- for Sartre, the nothing
+- Eclipse, apocalypse
+- *The Slaughterhouse Five*
+- The phenomenology of absence -- nothingness is the nothingness of hereness
+- Death -- your absence is present everywhere
+- Sartre's challenge to determinism, the past determines the future: Sartre talks about the causal chain between past and future, succession of events.
+- If there is a causal chain, what needs to happen for there to be freedom? You have to self-negate as part of the chain.
+- Buridan's ass -- he can have hay on other side, they're exactly the same. He's equidistant from both hay. What makes you decide to go one way or the other? What is the reaon? It's not really determined that he would go one direction or another. What is the source of the decision?
+- You can make choices, even if they are habitualized
+- If your choice was depedent upon some prior condition such that you wouldn't make the choice if the condition wasn't there, then you are... free
+- What if at the core of our being, there is a nothing from which we can act?
+- Sartre -- the point is that in some sense ate very moment you're in an equivllibrium wrt the totality of your options
+- Freedom: acting from the nothing
+- Freedom is itself a radical negation of the causal chain between past and future -- the ability to change course. But it can't be anything, b/c it would be subject to external condiitions; it rather must be somethin g which is
+- How do we experience our freedom? Through anguish.
+  - Why do we experience vertigo? Not that we're afraid we could fall, but we're afraid we could jump
+  - Why don't we jump?
+  - The very value we place on our loves derives from our own lives
+  - Fear -- I place myself as an object in the causal chain.
+- In-itself vs the for-itself: being is in-itself, for this consciousness, it is for-itself
+  - In itself: the world of things and ojbjects with determinate chaaracteristics; realm of neccessity
+  - Essence precedes exiistence: I can no the circlness  without ever seeing a circle. You can see a plan irrespective of the existence of anh ny plan. 
+- For the for-itself, existence precedes person
+  - Essence to be consiedee a
+  - There must b esomething prior oto the essene if we are really free
+  - The for-itself is pure possibility, literally no-thing
+  - Never fixed, always opent o a new future
+  - Possibility and negation are two sides of the same coin -- Being is just in-itself. Being as Being is not the ground of possibility
+  - Possibility doesn't exist in being -- being just is. Possibility is something which isn't but could be.
+- For possibility to emerge there must be a negation of being at the heart of being -- doesn't come from outside being like the Heideggarian life of non-being where life rests asa t hin film on an occean of nothingness.
+  - Heidegger: One of the main ways in which we experience the nothingness which underlies being is broedom. When you're bored, you confront the mere facticity of existence and being, no particular reason -- u=ju there.
+  - Heidegger: raising the question of mbeing, in the very activity of asking "Why is there anything at all instead of hting", you are slipping outside of being, you achieve a distance from it. 
+  - Consciousness' ability to negate the mere beingness of the world; emergence of possibility is consciousness' ability to negate being
+  - You don't have cohices in front of you all the time -- for freedom to be at this time, there must be a nothing from which one acts, because otherise, where is the freedom coming for?
+  - Acting from nothing. 
+  - Somehow you experience a nothingness of pure possibility within you as anxiety
+  - We posti nothingness, although 
+- Freedom and responsibility go together, and thtat causes us anguish, but the ground of thirs all is nothingnesss, 
+- At every moment we constituted. -- don't act as if your past decides your fuutre, white mask -- defurments, than letting the hard-wrokin  (WWII)
+- Essence - what it was. But essence becomes part of the in-itself. You can fall into bath faith by idenifying that which you have been to wht
+- Sartre in prison under the Germans during war, escaped
+- All these Germans are saying -- we are just doing our duty, fulfilling a role that we identify with, as if we couldn't do otherwise.
+- Sartre: this is bad faith, you were free at every instant not to do this. But this goes the other way, too: so is the person which is being oppressed. To identify as a slave is also bad faith and closes off a future which is actually open. 
+- The ground has to be pure possibility at some point.
+- A fundamental response to the disappearance of personality and personal responsibility in the Nazi movement -- also ties in with Scheler and the community of feeling
+- For Sartre, this comes with a fundamental burden: freedom isn't fun.
+- God is Being: Fullness. So how does anything less than God exist? So God would have to create nothing. But there's no lack in God; God is Pure Act, you move up the chain from Potency towards Pure Act. How do you create potency from pure act.
+- Does God make himself less so that he can make something less than God?
+- Where does possibility come from?
+- Lack only exists in hindsight?
+- What is the solution to the everythingness of God?
+- Is Fullness always increasing over time?
+- Being as Becoming?
+- Are we putting the devil in God? Devil as lack of God
+- It's growing into the void...
+- What is above the Pure Act of God? -- Possibility, Pure Possibility.
+- Nothing -- No Thing.
+- How do we find nothing?
+- Possility is not, but could be -- in order for there to be possibility, there must be some sort of negation of being.
+- Possibility is nothing, prior to essence -- therefore we have that existence exists prior to essence, but this sort of existence as existence just is possibility.
+- Does there need to be something which doesn't just exist in itself but also for itself?
+- How can there be anything that is which is not God? Spinoza: there is nothing except for God. But then everything is necessary.
+- Is there something which is more nothing than possibility? -- Is something equivalent to possibility equivalent to nothing? 
+- The pure possibility which is human consciousness flees from its own responsibility  -- this is bad faith. Various examples of bad faith -- the waiter who is a little bit too eager and solicitious to help, and in so doing reveals that they are in flight from their own freedom and take it on as their own destiny. They do not take responsibility for the fact taht they have chosen to be a waiter.  
+- Scheler: a value hierarchy can be experienced. But for Sartre, all value hierarchies are totally contingent.
+- When you hear the alarm clock, you hear a command. But that command is in you. Or you can fight wars over paper. Why do we have values? We are responsible for this, all of it. But we would rather not experience it that way. We would rather experience it as given.
+- Totemism -- when a group identifies with a part of the in-itself, like an animal or a sacred object -- a quintessential instance of bad faith.
+- Sartre on dating: the man places his hand on hers; she doesn't do anything -- in doing so she allows herself to become an in-itself, to avoid taking responsibility.
+- Is Sartre talking about nothing as such?
+- Sartre and the other -- the other's gaze causes us shame -- because they fix us as an in-itself in their world. 
+- Is it possible for a populist leader to be an authentic for-itself?
+
+
+

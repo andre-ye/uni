@@ -1156,6 +1156,43 @@ The RYM and the Pigs
 - Texas cannot override the rights of the pregnant woman
 - The State can regulate abortion after the first trimester
 
+### "The Forgotten American", Peter Schrag (1969)
+- Lower middle class, the blank, no good way to describe him -- the forgotten man, the most alienated person in America. No one really fits exactly
+- Elitism
+- White employed male: a working American. 
+- Heavy statistical description -- the majority
+- The malaise lacks a language
+- A counter-revolt: people who aren't compalining and consider themselves well-off even though they don't have much
+- Stability and conservatism matters -- a Roosevelt's man
+- Wealth is invisible, and so, now is poverty.
+- Places and attitudes
+- University seminars and policyd ebates become conditions of trauma for the great middle
+- White kids can't get a job; blacks are hired first
 
+Somebody has to say no
+- liberal wisdom has little place for the working man -- hard work, order, authority, self-reliance
+- Don't all of us discriminate? Why eliminate discrimination -- a false hope
+- You can proclaim black power but can't protest as aw hite man without being called a bigot
+- What does it take to fight a good American?
 
+> This is a sick society, a racist soceity, we are fighting an immoral war
 
+- Some of the poorest people in America are white
+- What upset the police at the 68 DNC was the affront to middle-class people -- people who fart around in the streets and don't work
+
+> "the cop is the new n*\*\*\*\*"
+
+Can the Common Man Come Back?
+- Institutions which are supposed to assist in social amelioration are in fact staying very problematic and suspect
+- Robert Kennedy was killed, so working-class people shifted to Wallace
+
+> A	man	who	can	change from a	progressive	democrat into	a	bigot	overnight	deserves attention
+
+### Clinton, "Letter to the Draftboard" (1969)
+- Thank you fro savying me from the draft
+- Opposing the war due to racism in America 
+- The draft system itself is illegitimate -- no government rooted in democracy can force its citizens to fight and kill in a war they oppose
+- Draft justified in WWII due to collective lives at stake; but Vietnam and Korea are both not such cases
+- In sympathy with draft resisters
+- Decision to not resist to maintain political viability within the system
+- What is service and disservice?
