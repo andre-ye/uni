@@ -551,14 +551,60 @@ $$\hat{\theta} = \text{argmax}_\theta \mathcal{L}(E; \theta)$$
 
 - $$\hat{\theta}$$ -- a formula or a number to estimate $$\theta$$; $$\theta$$ is a variable; also we can use $$\hat{\theta}_{MLE}$$ to emphasize the MLE method
 - Notation Differences:
-  - $$\mathbb{P}(X|Y)$$ -- probability of $$X$$ conditioned on event $$Y$$; I could have had all the information to run the experiment at the beginning; update my probability of $$X$$. 
+  - $$\mathbb{P}(X\vertY)$$ -- probability of $$X$$ conditioned on event $$Y$$; I could have had all the information to run the experiment at the beginning; update my probability of $$X$$. 
   - $$\mathbb{P}(X; \theta)$$ -- looking fro a probability, but you need to tell me what $$\theta$$ is. $$\theta$$ isn't ane vent, so this is not conditioning. 
   - $$\mathcal{L}(X; \theta)$$ -- when $$\theta$$ is changing, we will use this notation. There are some rules with probabilities that we expect, but this isn't true for $$\theta$$ per se. Other feelings like taking the complement don't apply here. We can't construe $$\theta$$ as an event.
 - Closed interval: set derivative equalt o zero and solve, evalauate likelihooda t endpoints for critical points; maximum value must be maixmum on that interval
 - Uncluosed interval: set derivative equal to 0 and solve; take second derivative, if negative everywhere, the critical point is the maximizer.
 - Function products are not very fun -- $$\ln(a \cdot b) = \ln a + \ln b$$. 
 
-$$\text{argmax}_\theta  \ln \left(\mathcal{L}(E; \theta)\right) = \text{argmax}_\theta \mathcal{L}(E; \theta)
+$$\text{argmax}_\theta  \ln \left(\mathcal{L}(E; \theta)\right) = \text{argmax}_\theta \mathcal{L}(E; \theta)**
 
 - Log-likelihood function -- easy trick to compute logarithms
 - Also: $$\ln a^b = b \ln a$$
+
+---
+
+## Week 9 Wednesday -- More MLEs
+- Compute the likelihood (usually a probability computation), take a log, then take the derivative, and confirm the maximum 
+- For continuous random variables, the probability of any event is zero, but we have to work with density. Instead of looking for the maximum probability, we look for the maximum density; we take $$n$$ draws and multiply them together; the maximum likelihood I got get does reflect what is most probable. Densities are doing what I should have
+
+$$\mathcal{L}(x_1, x_2, ..., x_n; \theta) = \Pi f_X(x_i)$$
+
+- Suppose you get $$x_1, x_2, ..., x_n$$ samples from $$\mathcal{N}(\mu, 1)$$
+
+$$\mathcal{L}(x_i; \mu) = \Pi_{i=1}^n \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2} (x_i - \mu)^2} $$
+
+- Now we need to find $$\mu$$ which maximizes $$\mathcal{L}(x_i; \mu)$$
+- You could use the product rule, but instead we can first take a log so that we can deal with sums instead. 
+
+$$\ln \mathcal{L}(x_i; \mu) = \sum_{i=1}^n \left( \ln\left (\frac{1}{\sqrt{2\pi}}\right) - \frac{1}{2} (x_i - \mu)^2 \right)
+
+$$\frac{d}{d\mu} \ln (\mathcal{L}) = \sum_{i=1}^n (x_i - \mu)$$
+
+$$\hat{\mu} = \frac{1}{n} \sum_{i=1}^n x_i$$
+
+- The average of the points is the solution of the likelihood maximization 
+- Make sure to check with the second derivative test
+
+$$\frac{d^2}{d \mu^2} \ln \mathcal{L} = -n$$
+
+- General process
+  1. Find likelihood $$\mathcal{L}(E; \theta)$$
+  2. Maximize the likelihood
+    1. Take the log
+    2. Set the deirvative to 0 and solve
+    3. Use second derivative tes to confirm you have a maximizer and not another critical point
+- What if I need to figure out both the standard deviation and the mean?
+
+$$\mathcal{L}(x_1, ..., x_n; \theta_\mu, \theta_{\sigma^2}) = \Pi_{i=1}^n \frac{1}{\sqrt{\theta_{\sigma^2} 2\pi }} e^{-\frac{1}{2} \cdot \frac{(x_i - \theta_\mu)^2}{\theta_{\sigma^2}}}$$
+
+- With multiple parameters, take partial derivatives to find the maxima
+- The mean remains unchanged
+
+$$\ln \mathcal{L} = \sum_{i=1}^n \left( \ln \left( \frac{1}{\sqrt{\theta_{\sigma^2} 2\pi}} \right) - \frac{1}{2} \cdot \frac{(x_i - \theta_\mu)^2}{\theta_{\sigma^2}}\right)$$
+
+
+
+
+
