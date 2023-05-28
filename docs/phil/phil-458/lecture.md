@@ -1088,7 +1088,7 @@ Sartre
 
 ---
 
-## Week 9 Monday -- Sartre
+## Week 9 Tuesday -- Sartre
 - Is romantic love a quasi-Christian invention? Elevation of eros with agape beyond material eros
 - The nothing that is
 - Between the potency and the existence falls the shaddow -- for Sartre, the nothing
@@ -1162,6 +1162,91 @@ Sartre
 - Is Sartre talking about nothing as such?
 - Sartre and the other -- the other's gaze causes us shame -- because they fix us as an in-itself in their world. 
 - Is it possible for a populist leader to be an authentic for-itself?
+
+---
+
+## Week 9 Thursday -- Sartre and Lonergan
+- The Lady or the Tiger: What would make the man choosing between the lady and the tiger freer? To know or not to know?
+- It's not the ability to choose which makes you free, but the ability to choose well
+- Are you liberated by knowledge? KNowledge of the good?Or is the freer choice pure spontinaeity?
+- Can I even choose not to know?
+- If you don't know what you don't know, are you free to choose it?
+- Choosing in a state of ignorance isn't free; it's just like a reflex, a heart attack.
+- Does freedom have conditions? Does actual freedom make it that you can't choose anything else?
+- Freedom in some sense is knowledge of the good 
+- In what does freedom lie? If freedom requires knowledge of the good, then once you know the good, it seems like you would be incapable of knowing anything about that.
+- Sartre: we become god, it is only good insofar as we choose it to become good. Once we know the ultimate good, we lose our choice.
+- Divine command theory: are things good because God commands them, or does God command them because they're good. Either the good is arbitrary or God is immortal.
+- Is not our greatest moment of freedom when we know the Good and we decide against it, because we extricate ourselves from either God or the transcendent good?
+- Arts and sciences used to be liberal arts, that is liberation -- you come to school because you are ignorant, you need to be liberated. Libertarian view, which Sartre pulls towards, is that I start out radically free at every instant. 
+- Hart -- in coming to know, you metaphysically change almost, to become a freer thing, because you have liberated from a state of ignorance. Freedom isn't just choice, but choosing for a reason which you know to be good. But who said that this is good? Did you choose it because it is good or is it good because you chose it?
+- Sartre says 'bad faith', but doesn't want to impart a moral judgement, not that you're being bad, but that you're not being true to who you are, which is pure possibility, and you are identifying with your given role. You're lying to yourself. So if everything is purely arbitrary choice, why would bad faith be bad. So Sartre too struggles with the criterion of what makes a choice good. If we give things value, why?
+- Lonergan -- you anticipate the good or true whenever you ask a question of the moral -- you are dynamically anticipating the answer, never in a state of pure neutrality. You anticipate an answer -- Meno's paradox, how can I look for the good if I don't know what it is?
+- Immanent criterion vs external criterion
+- Lonergan -- the desire for knowledge and the good contains a criterion within itself for distinguishing. You never start in a place of pure neutrality.
+- Heidegger's inauthenticity vs Sartre's bad faith -- for Heidegger, inauthenticity is flight from responsibility for our end; for Sartre, bad faith is flight from freedom
+- Sartre -- we're condemned to be free; not choosing is a choice; we must choose, **intend**, at all times. Husserl: always consciousness of, Sartre: always a decision to
+- Bentley Hart -- what are the radical stakes for a Sartrean radical freedom? At the apex of freedom is knowledge of the good which in some sense eliminates choice, because you have no reason to choose otherwise. So the Christian account of salvation and damnation can't be true; everyone has to be saved, becuase you can't be held accountable if you didn't know -- if you didn't know God, you can't get to God, and so you won't believe in God; those who are in hell can't be fully responsible for their choices, because if you truly knew God you would never not choose God (universalism).
+- Nietzsche: hell is essential to the Christian story, oe of the early theologins -- one of the sweetest pleasures of heaven is watching the pain of the damned. The masters are thrown down by God, ressentment -- breathing in the smoke of their burning flesh is the light
+- Annihilationism -- the damned person doesn't go to hell but just disappears, in that you must exist only insofar as you accept God
+- "The truth will set you free" -- Heidegger, the essence of truth is freedom
+- Kierkegaard, the concept of anxiety -- Adam and Eve experience the first moment of anxiety/anguish, the tree of knowledge, they didn't know what they were choosing yet
+- Zizek: we may be responsible for that which we do not know
+- "If you really knew, you would believe"
+- Is my freedom my ultimate reservation of the right not to believe?
+- Temptation can only occur in ignorance? Culpable ignorance... Augustin: it's not that they willingly choose, but that they refuse to know.
+- Do libertarians appeal to a universal conception of the good?
+- An escape of disolving the for-itself into the in-itself: we betray our bad-faith. The overly solicitous waiter, overly invested in their role, something is being hidden. 
+- Origin of shame -- when I feel myself constituted as an in-itself by the Other.
+  - Shame is the original feeling of having my Being outside in another Being, without any defense, totally naked
+  - Pure shame -- of being an objective, of feeling dependent, frozen, on another being -- an original fall. Merely by virtue of having fallen into the world, someone else's world
+  - Body symbolizes defenseless objecthood.
+  - To get dressed is to discard one's objecthood, to be a pure subject. Adam and Eve know that they are naked and wear clothing. The reason why we put on clothes is to reclaim our pure subjectivity and to hide our objectivity, to reclaim our seeing without being seen.
+  - Why is shame such a problem? Why is being constituted through another's gaze as an in-itself a problem? HUman reality is prue for-itself, pure possibility. In experiencing ht eother's gaze you feel yourself constituted as mere in-itself which lacks possibility.
+  - Why is this a problem vs other forms of restriction, like for instance "I cannot fly"?
+  - Freedom and Facticity (p. 629, part 4, chapter 1, section II). The argument brought by good sense against freedom is a reminder of our powerlessness; we are unable to change ourselves; I am not free to escape the destiny of my personness, state, nation... life is a story of failure, experienced as restriction. Man makes himself more than he is made. 
+  - Determinists: the adversity of things cannot determine us. Adversity is posited by us, such as a rock which I cannot push but can stand upon to view the world. Something impedes you only insofar as you constitute your project with it in your path. Restrictions on your freedom only manifest themselves in your freedom insofar as you've chosen an end.
+  - Maybe this is a sort of ressentement. 
+  - Culminating moments of Satan's final fall, all is lost, evil by thou my good. If I can't get to God, I will make evil my good. Fundamental ressentement against the good.
+- The big Sartrean thing: hell is other people, they fix you as an in-itself.
+  - Sartre is a Cartesian: a self-enclosed ego, pure for-itself
+  - Scheler: values are in a community of feeling
+- My tentative conception of the good -- When we face a choice and we do not know what to do, what I experience is not the anguish of freedom, but rather the anguish of not being able to possess the conditions for freedom. My radical moment of freedom is that I may know the Good in a Foucauldian historicist sense and reserve the right to negate it. So I should strive to know the universality and to identify its particularity. And I should embrace my objectness, my objectness feels quite good.
+  - How to reconcile Sartre with Foucault?
+
+Lonergan
+- What is the phenomenology of a smile?
+- Smiles occur in a wide variation of angles, vision; smiles are a gestalt, not missed, recognized as a whole -- the meaning of a smile and the act of a smile are natural. Something irreducible about the smile
+- The smile as mendacious vs as true -- the meaning of a smile is global, the meaning of a fact, not a proposition.
+- The meaning of a smile is intersubjective.
+- The revelation is immediate
+- Can a smile assert a falsehood?
+- How to we come to know anything? A fundamental epistemological question
+- Lonergan isn't starting, though, from epistemology (vs metaphysics vs ethics)
+- Decartes, Locke, Hume, Kant -- a shift from metaphysics to epistemology. Being is first. But Decartes says, how do I know it's not all a dream, how can I trust that I know being? First philosophy moves from metaphysics to epistemology. But Lonergan says you need to go further back, towards a phenomenology of knowing
+- Phenomenology of knowing -- what am I doing when I am knowing? Epistemology -- How can I be certain that I know (being/objectively)?
+- Decartes' quest for absolute certainty
+- Before we try to achieve transcendent knowledge, we need to first figure out what knowledge is (how does knoweldge be, what does it be)?
+- Meno assumes that knowledge is a kind of comparison between the thing knowledge and the object, so either I have it and I know it, in which case I can't come to learn it, or I don't have the thing, so how do I know what i am looking for? This is Decartres' problem too: How can I be sure that my ideas sare similar to that which is out there behind them? If I peek back behind the curtain, all I see are more of my own ideas.
+- Hegel -- what did Decartes and Kant find when they went behind the veil to see the thing in themself? They found (more of) themselves
+- Objective of phenomenology of knowing / cognitional theory / gnoseology (what is knowing, what am I doing when I am knowing?)
+- We can avoid "how do you know that you know?" because what phenomenology of knowing says is that you can just say "do you do these things that I am describing"
+- Why is doing that knowing? Are these things given in your experience?
+- Knowing is like looking -- that to know something is to see it and see everything that is to be seen about it, which is -- Husserl doesn't overcome this, because his motion of eidso is every possible look of something. Whereas for Lonergan, knowing is something completely different, a structure of operations trhat you do, not an infinite look.
+- Phenomenology of knowing -- Husserl got us to phenomenology, breaking the immediate assumptions about the question of knowledge as getting out of subjective impressions, but misses what was actually happening, so couldn't get us to the question of Why is doing that knowing?
+  - And of course Husserl retains his own naive set of assumptions.
+- "The polymorphism of consciousness is the one and only key of philosophy" -- Lonergan. But also Hegel's argument in *The Phenomenology of Spirit*.
+
+
+
+
+
+
+
+
+
+
+
 
 
 

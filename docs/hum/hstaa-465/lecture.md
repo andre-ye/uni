@@ -3464,9 +3464,105 @@ Then...
 - Film was a strong way in which the country reconciled with itself in the Vietnam War
 - Immigrants begin to fill up the US military in new ways.
 
+---
 
+## Lecture 20: Pop Culture -- Visual Art and Film
+- Modernism is being challenged in significnant ways
+- Modernity -- a condition of society which comes about when certain milestones are met -- you see that modernity emerges
+- Modernism -- usually a movement of some kind, but there is a modrn program beginning in the 18th century, part of a much larger modern movement -- like from empires to nations, from previous forms of economies to capitalism and communism, etc. -- development of a political society or entity
+- Develop of a new kind of order, an entirely new worldivew about how politics, society, etc. should be ordered so they work in the most efficient way, produce the most liberty, justice, capital, etc.
+- A process of creating the modern, always a process of replacing things that are old, replacing the premodern. 
+- Fordism: economic movement within capitalism when Henry Ford begins a new style of production that is not just about making money but also about designing a new type of society. Henry Ford was very much a modern thinker.
+	- Teaching people how to live in US-centric ways
+	- Henry Ford goes down to Brazil and makes Fordlandia, tries to make a perfect working town. 
+- At the core of modernism is universality
+- Whole schools of academics begin to introduce postmodernism as a response, the modern has introduced as many problems as it has solved
+- The modern conundrum -- identified a problem, so create a solution; but you're created another problem in your solution
+- Postmodernism is not a new worldview, but a critique of modernism, not a replacement. We see the way in which postmodernism is coming out in film and visual culture. A lot of it is experimental and pushing back against the film of an earlier period.
+- Narrative -- modernism suggests an orderly story, a narrative arc. Postmodernism throws this out of the window. Pushing out of linear thinking
+- Seventies, emergence of the big filmmakers, commercially successful and acclaimed by critics as smart, good films. Many of such films in the seventies
 
+Pop Art
+- Pop art movement is a critique of art itself, because art has operated in a modernist framework for so long
+- Andy Warhol -- critiquing what counts as art
+- Movement to take very common everyday objects and turn them into art pieces
+- Making objects into art -- if a big gallery wown't take it, show it somewhere else
+- Roy Lichtenstein --*Drowning Girl*, 1963
+- Abusrdist, surrealist, whimsical, poking fun at art
+- When the artist tells you that you're looking at something
+- Advertisers often no longer try to separate the advertiser and the person looking at the advertisement -- self-awareness of the material bieng produced and the material given
 
+Andy Warhol
+- Absurdist art projects and everything
+- Campbell soup cans
+- Screen printings of Marilyn Monroe and Elvis Presley
+- Cow wallpaper
+- Making a critiqu eof visual art
+
+Stan Brakhage
+- Midwestern
+- Begins doing experimental film in the middle of the 1950s; later Warhol does experimental film too
+- Setting limits, looking for the limits of what people can dow ith film, trying to find what these limits are
+- Maybe you're getting it the wrong way if you're irritated
+- Not meant to be rewatchable
+- Influences other filmmakers who become interested in
+- Calling back to silent film
+- Sleep, 1963 -- watching someone sleep
+- Blow-Job, 1963
+- Empire, 1964
+
+John Cassavetes
+- Trying to do experimental new things, moving towards what an altered Hollywood film looks like
+- Trying new techniques and stuff
+- Breaking down the artifice of consumerism in a post-consumierist economy
+- Gritty people, street-level film
+- Becomes Cassavetes' signature
+- Jarring stories -- fifties and sixties, beginning to stretch
+- Alfred Hitchock, Psycho -- not only a shocking story  
+- The Twighlight Zone, actually very er=arly;Movv
+- 
+The French new Wave
+- Watching Cassavetres, 
+- HOw can  glas s alls be problematic? Uter transparency
+- Playtime
+- Fishbowl living
+- Playing with humanity and space
+- Why do we sit down and turn on the TV
+
+Once Upon a Time in the West
+- Spaghetti westerns -- westerns very popular in the United States
+- A ltot of them are shot in Italy and had the same director, Sergio Leone, and an Italian to do the music
+- A true Western epic -- what experience is hte reader supposed to have?
+
+*The Wild Bunch*
+- Significance -- infleunce on Quentin Tarentino
+- What is being done with slow-motion adn speeding-up, as well as very brutal violence which hasn't shown up until here
+- Newly released level of gratuitous violence
+- Influenced so much in terms of war films
+
+The Youth Insurgency
+- Youth culture was also beginning to make an insurgency into Hollywood film as well
+- *The Graduate* -- not a very radical story, but very instructive. The young folks have made up their mind and run away; use a crucifix to lock in the people in the church. Commentary on youth culutre, breaking away -- when you liberate yourself, what comes next?
+- *Bonny & Clyde* -- a much more radical and electrifying and divisive film. Like the Wild Bunch, a lot of violence and sex. Final scene -- get absolutely gunned down and filled with dozens of holes. Effectiveness of Bonny and Clyde -- really identified with them, telling older people we don't care what you think. But Bonny and Clyde were murderers and bank robbers, anyways celebrated as libertines. Resurgence of Bonnie twenties type clothing
+- *Easy Rider* -- "A man went looking for America. And couldn't find it anywhere..." -- spurred movies to have gratuitous drug scenes, hard to watch -- really capture the essence of an unpleasant drug trip. Almost an excruiciating scene -- the actors doing weird things, but the camera too
+- *Midnight Cowboy* -- a naive young guy goes to the big city because he thinks he's going to make a splash in New York, assumes that life is gonna go his way; can't find anything in NYC, ends up becoming a hustler in the Broadway district. A very dark look at the problems of modern society and of young people and so on.
+
+Race and Film
+- Race in film -- a period in which Americna pop culture is only just coming out of blackface performances
+- Blackface ends in the 40s and 50s
+- Mickey Rooney, well-known actor: for *Breakfast at Tiffany's* (Sex and the Single Girl type actor). One of the few female lead characters in any film of the sixties. Rooney gets cast at Mr. Yonioshi.
+- Natalie Wood in West Side Story
+- Not too much ressistanc eto cross-racial portrayal
+- Black auteurs and authors -- written work is just being produced
+- Lorraine Hansberry -- dies very young of cancer, *a raisin int he sun*
+	- Black woman breaking into art but also a lesbian
+	- Inspired Nina Simone to write "to be young, gifted, and black"
+- Sidney Portier -- the black face of American film -- *No Way Out* and *The Defiant Ones*
+- *No Way Out*, 1950 -- figuring out the racist puzzle
+- *The Defiant Ones*, 1958 -- two handcuffed convicts try to live with each other
+
+In the Heat of the Night, 1967
+- 
 
 
 

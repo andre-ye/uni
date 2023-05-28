@@ -604,7 +604,25 @@ $$\mathcal{L}(x_1, ..., x_n; \theta_\mu, \theta_{\sigma^2}) = \Pi_{i=1}^n \frac{
 
 $$\ln \mathcal{L} = \sum_{i=1}^n \left( \ln \left( \frac{1}{\sqrt{\theta_{\sigma^2} 2\pi}} \right) - \frac{1}{2} \cdot \frac{(x_i - \theta_\mu)^2}{\theta_{\sigma^2}}\right)$$
 
+$$\hat{\theta_{\sigma^2}} = \frac{1}{n} \sum_{i=1}^n (x_i - \hat{\theta_\mu})^2$$
 
+- We want an esimator to be unbiased. An estimator is unbiased if $$\mathbb{E}[\hat{\theta}] = \theta$$
+- The set of possible $$\hat{\theta}$$ approaches the true value over time. We're not consistently overestimating or underestimating.
 
+---
+
+## Week 9 Friday: MLE Wrapup, Randomized Algorithms
+- An estimator is unbiased if its expectation over samples is the true sample
+- An estimator is consistrent if the limit as the number of samples you take is the true value
+- It turns out that an MLE is always consistent, but can be biased or unbiased.
+- $$n-1$$: find the estimator for the variance, it's consistently too small, so have it hit the expectation.
+- Degrees of freedom
+- t-test, know that the  data is approximately normal, but don't know the variance
+- Maximum a posteriori probability estimation: pick the maximum value of $$\mathbb{P}(\theta | E)$$ starting from a known prior over possible values of $$\theta$$.
+- Random algorithms
+  - Las Vegas Alrotihm: always tell s you the right answer, but takes a varying amount of time
+  - Monte Carlo Algorithm: usually tells you the right answer, sometimes the wrong one.
+- Las Vegas algorithm example: quick sort.
+- With probability at least $$1 - \frac{1}{n}$$,quicksort runs in time $$O(n \cdot \text{log } n)$$
 
 

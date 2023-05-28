@@ -930,7 +930,137 @@ The Dialectical Conception of Nothingness
 
 page 67 in PDF
 
+---
 
+## "Cognitional Structure", Bernard Lonergan
+
+1 | Dynamic Structure
+- Whole has parts. And parts are related to other parts and the whole.
+- When one thinks of a whole they might think about some conventional quantity of parts, but also products of nature or arts can also be wholes
+- A whole is a structure
+- The parts of the whole might be dynamic and form a dyanmic structure
+
+2 | Human Knowing as Dynamic Structure
+- No one individual activity of human knowing can be called human knowing -- e.g. mere vision without grasping is still mere vision
+- Human knowing is a materially dynamic structure, but also formally dynamic
+- Human knowing puts itself together -- self-assembling and self-constituting
+- Knowing in general vs knowing in a strict sense
+- Human knowing is not some unique single operation, but a whole whose parts are cognitional activities
+- Parts of a structure are related to each other by function
+
+3 | Consciousness and Self-knowledge
+- Knowing knowing must be a reduplication of the structure
+- To know knowing, one must
+  - experience experience, understanding, and judging
+  - understand experience, understanding, and judging
+  - judge experience, understanding, and judging
+- All cognitional activities may be conscious, yet none can be known. Different cognitional activities are not equally accessible
+- Insight -- one must be in the process of learning or reenact previous processes of learning
+- Human knowing is a structure of different activities
+- The experience of human knowing is qualitatively differentiated because human knowing is a structure of different activities
+- When one is seeing, one is experiencing one's own sensitivity; when one inquires, one is experiencing one's own intelligence.
+- Experience is divided into external and internal, but what is the spatiality of external experience? Material presence of a statue; or intentional presence, where knowing is involved.
+  - Objects are present by being attended to
+  - Subjects are present as subjects **by attending**
+- The reader cannot simply uncover his own subjectivity, because what one finds is not subject as subject but subject as object.
+- A many-leveled subject -- can subjects be empirically, intellectually, rationally, morally conscious? Levels of consciousness
+- One does not introspect but raises the level of one's activity
+
+4 | Epistemological Theorem
+- Why should knowing result from experiencing, understanding, judging?
+
+> Knowledge in the proper sense is knowledge of reality or, more fully, that knowledge is intrinsically objective, that objectivity is the intrinsic relation of knowing to being, and that being and reality are identical.
+
+- Intentionality is the intrinsic objectivity of human cognitional activity.
+- Human intelligence greets every experience with perplexity, wonder, drive, intentionality.
+- Thought is greeted by all sorts of reflective exigencies; the dynamic structure of human knowing intends being.
+- Being is identical with reality, in that apart from being there is nothing, so apart from reality there is nothing. Being embraces concrete totality of everything, like reality.
+- Human knowing goes beyond; it adds and unites the sensed into an object of thought
+- Answers are to a question; the answer and the question have the same object. Likewise human knowing passes from the subject to the object, in that they share the intention of being
+- Neither knowledge nor ignorance of essence and existence, but an intending of both; they are questions, but raising them setttles what answers must be about, and thus the intended-object-being is set forth.
+- *intentio intendens* - not knowing but merely intending (objectivity in potency). *intentio intenta* - not mere intending but in structured activities of knowing (objectivity in act).
+- People have tried to find the ground of objectivity in experience (empiricists), necessity (rationality), coherence (idealists); but the objectivity of human knowing is triple, with both experiential, normative, and absolute
+- The objectivity of human knowing is *unrestrcited* and *unconditioned*; the asking of the questions reveals an attention to an intended object.
+- I answer a question of existence only by affirming or denying the real existence; true answers are unconditioned; human knowledge reaches such an unconditioned and transcends itself. Unconditioned as unconditioned cannot be qualified or limited
+- Possibility of human knowing intends the transcendent and self-transcends to reach it. 
+- Grasping dynamic structure is essential to grasping the objectivity of our knowing; what is being which is neither affirmation nor idea; we need a structure to place the three different elements of objectivity together
+
+5 | Counterpositions Criticized
+- Alternative to distinguishing: confusion. Lonergan has distinguished human knowing into its different components.
+- Intellectual activity must be like seeing if it is to be objective. Even if introspection deos not discover such a seeing-method, we must have a seeing-like activity, otherwise intellectual activity would be purely immanent
+- Objective knowing is like seeing.
+  - We see our knowing.
+- Critical realist: rather than considering the picture world, we can consider the universe of being 
+  - In a picture world, the original relationship is the look
+- There exists a forgetfullness of being
+- Critical realism: sense does not so quickly no appearances -- we need to judge if an object is apparent; sense does not know appearances, because sense does not possess the full objectivity of human knowing (p. 10)
+- Let us first understand the world we are thinking in. 
+- Let us change our picture-world
+
+6 | Knowing and Living 
+- Forgetfulness of being: subjectivity was once a pejorative term but now comes to represent an enlightenment agianst misconceived objectivity
+- Misconceived, objectivity is transcending. The problem of the bridge from in here to out there
+- Correctly conceived, objectivity is not rejected. The main point is that of human living: one must move beyond empirical, intellectual, rational consciousness to rational self-consciousness. Subjects constitute themselves and make their world. Men are responsible fro the lives they lead and the world that leads them. (11)
+- The collective subject needs communication as its precondition
+- The subject is always making himself what he is
+- We need to distinguish different senses of subjectivity -- praise of subjectivity might seem to be a condemnatio nof objectivity
+- Objective knowing is not yet authentic human living, but it is still integral to it. 
+- THe usbject communicates not by saying what he knows but by showing what he is
+- Concern for subjectivity promotes a lot of objective knowing
+- We are members of a universal church; we need more objective knowing.
+
+Conclusion
+- Dynamic structure
+- HUman knowing is a dynamic structure
+- Consciousness vs self-knowledge: different levels
+- Objectivity of human knowing is a triad of properties in distinct operations
+- To depart objectivity from picture thinking
+- Relations between dynamic structure of objective knowing and larger dynamic structure of human living.
+
+---
+
+## "Phenomenology: Nature, Significance, Limitations", Lonergan
+
+1 | The Nature of Phenomenology
+- Phenomenology is an account of data structured by insight.
+- Phenomenology is 'of' data, i.e. 'consciousness of' -- data as what is given and appears, both inner and external 
+- Phenomenology does not exclude anything from consideration -- not concerned with classifications of data and its quality in various ways, etc.
+- Phenomenology is not merely data but data structured by insight; it is selective in some way; seeks basic universal structures, an eidos , eidetic intuition.
+- We can intuit the essence of a circle: among a mutlipicity of data, we see different causal parts.
+- To identify the structure of data requires *scrutiny* (effort and time)
+- **Phenomenology is not concerned with insight as such**, which is very diffifuclt to grasp. Can a phenomenologist grasp *insight itself*?
+- Phenomenology continually discovers new investigations: it grasps not towards synthesis but towards unification
+- Not focusing on a multiplicity of concepts (really), but rather the singularity of the givenness.
+  - Distinction between phenomenology structured by proper insights and phenomenological exposition of data as structured by insight
+- A "terrific emphasis" on the pre-predicative, before the conceptualization
+- Phenomenon and the legein (logos): to read off the phenomena
+
+2 | The Significance of Phenomenology
+- Phenomenology provides a method of exploring many areas which have been neglected previously
+- Psychology's 'scientificiism' favors outer data
+- Phenomenology opens up new ways of seeing the world; phenomenology not only breaks with but also reconciles with the scientific tendency of psychology
+- An attempt to pin down what the 'somethings' really *actually* mean, e.g. William James and the pragmatists
+- Study of emotions -- 'metaphysical psychology'
+- Merleau-Ponty: existentialist movement; high praise from Lonergan. Attacks Sartre's distinction between the pour-soi and the en-soi; the body is both at the same time
+- Incarnation -- not merely observing or idealist subject, but an *incarnate* subject
+- For Heidegger, man is the source of meaning; Dasein eliminates subject-object oppositions
+- Heidegger's existentialism is parallel to phenomenological analysis
+- Binswanger's new interpretation of the dream; not modernist Freudian interpretation, but phenomenologically oriented
+
+3 | The Limitations of Phenomenology
+- Because phenomenology is pre-predicative, it is preconceptual/prerational
+- Phenomenology itself is a challenge to the Scholastics
+- The phenomenologist deludes himself that he can grasp the pre-predicative *truly*; but the phenomenologist has not really explained rationality itself. It is concerned with the evident... but what is more?
+- For phenomenology, the manifest is the criterion of the true. Negation has its basis in what is not (nothing); and so Sartre insists on nothing.
+- You have to account for the manifestness of nothingness
+- Husserlian epoche: withdraw interest from the real -- just attend to the intending subject
+- A radical difference between the spontaneous orientation of the really real and that which is posited absolutely in judgement
+- You cannot turn rationality off when you want -- critiqu eof the epoche's ambiguity
+- There is nor eturn from the epoche: if I suspedn what is real, then what intentional act will return the really real; no amount of meaning gives you back the noumenal
+- Eugen Fink: no possibility of phenomenological treatment of speculative issues. Being is what appears, and nothing else. Phenomenology does not contain within itself the implements to handle speculative questions.
+- Phenomenology is an "inadequate method"
+- The question of truth is at the heart of phenomenology
+- Fundamental limitation of phenomenology: it has no reflective account of judgmeent until it gets it. It is not a basis upon which we cna show the existence of God or do a dogmatic theology -- a different plane, different modes of being.
 
 ---
 
