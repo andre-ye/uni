@@ -3562,7 +3562,250 @@ Race and Film
 - *The Defiant Ones*, 1958 -- two handcuffed convicts try to live with each other
 
 In the Heat of the Night, 1967
-- 
+- ----
 
+## Lecture 16: The Fallout from the 1960s
+Argument: The end of consensus that many sholars have noted came from the Civil Rights Period, the Vietnam War, and a newfound distrust of elected officials. Ultimately, this has exposed the limits of American exceptionalism
 
+The Breakdown of Consensus
+- Four narratives: it is American exceptionalism which gets broken
+	- The Kennedy assassination, the Vietnam War, Watergate -- destroy of trust
+	- Fear of nuclear war, fallout, pollution, critique of mainstream culture -- destroy of progressivism
+	- Civil Rights movement ended general consensus of white racial superiority and male dominance
+	- Vietnam War: America acts justly and wins
+- American exceptionalism: America is bound on a different trajectory,t hat is what gets broken int he 1960s: imperialism does change, America can be seen as having a history of empire and imperialism which wasn't part of popular culture or academia. 
+- Redefining of liberalism
+- Materialist argument of environment and economy
+- Not only are we undercutting our own economic base, but this permanent high of an economic golden age is still died to the same booms and busts as the American economy has always been.
+- Promises of the 1960s -- breaking down
 
+American Politics
+- 1970s, presidents are in unenviable positions.
+- Ford has no support because of Spiro Agney and Nixon; this party has been soiled that Ford struggles to get anything done; couldn't get any additional money to get Vietnam, and wasn't going to get re-elected.
+- Republican Party was tarnished
+- Congress remained dominated by the Democratic Party
+- Late 1970s, Republicans in Congress were saying we may never hold the majority again
+- Vision had been restructured after Watergte
+- This is the mileau in which Newt Gingrich steps in; advances the culture wars 
+- When Gingrich comes into Congress in the late 1970s and sees this opportunity; the Republican Party believes they're down and are facing defeat for the foreseeable future; Gingricnh see sthis as an opportuity
+- Carter comes in 1976, Democratic presidency: a great deal of idealism, looked out at the word and hoped to encounter the coldw ar to economics to world peace with idealism: restructure our relationships with USSR and the military to get us out of the problems of Vietnam, USSR, etc.
+- 1975, bottom of the barrel economically: a time of extreme economic malaise, big inflation issues
+- Carter's position was pretty untenable, couldn't use the military in flexible ways to solve problems in other parts of the world which ended up being a problem
+- A fresh political perspective, he didn't really have the time to put this through
+- By 1980, Carter loses in a substantial margin to Ronald Reagan
+
+Ronald Reagan (1980s)
+- Comes in at a time in which the US is struggling economically
+- Very high unemployment
+- Reagan is successfuly in giving the country a greater sense of optimism and American pride
+- Getting over Vietnam Syndrome which went through the seventies
+- Using the US military to prop up American patriotism
+- Swelling the military budgets for better pay, etc.
+- Domestic confidence buoys American spirit among many people.
+- Stuck to very intense anticommunism abroad
+- Nicaragua -- lefts fighting for freedom against right-wing revolutions -- Sandanistas -- Carter said that he wanted to invite the Sandanistas into the White House
+- Reagan says he's going to send the Sandanistas to hell: very different views on communism
+- A lot of money to build up the military and try to defend all theaters simultaneously
+- Will be a major budget issue; social programs will be done
+- School lunches, ketchup should count as a vegetable -- trying to underfund social programs 
+
+Military Assistance
+- Iran Contra scandal at the end of his presidency
+- Dick Cheney, etc. wanted to find right-wing contras fighting the sandainistas in Nicaragua, but couldn't -- because Congress had put a stop to this, so it was illegal
+- Instead, engaged in illegal arms sales to Iran using Israel as a conflict while Israel and Iraq were in conflict so we could take the money from the arms sales and funnel it to the Contras in Nicaragua
+- When people found out, this was one of the major stories
+- 1980: Carter trying to get US hostages from Iran (1979 revolution) -- Reagan, do the deal with me
+- Funding of the weapons with the Mujahedeen fighting the Soviets in Afghanistan
+- Fighting communism in Reagan's administration
+
+Economics / Reagonomics / Supply-side Economics / Trickle-down economics
+- Cutting taxes on the wealthy allows them to reinvest in the economy
+- To mvoe the US away from keynesian economic theory, a lot of deregulation, the US should get out of regulating Wall Street, corporations, etc. Govvernment regulation holds the economy down
+- Really promots a belief in individualism and that the government should hav ea limtied role in the economy
+
+Defense Spending
+- B1 bomber program is very expensive; Carter cut this from the federal budget, Reagan brought it back. Speaks to jobs and patriotism through military, massive peacetime investments in the military
+- Eisenhower and before: the idea is that peacetime is not the time to be sepnding massive amounts of money in the military. This matches most of what American history has been like; in crisis, there can be a massive buildup; but in peacetime, the military should be scaled back
+
+Military Profiteering
+- Eisenhower, the Military-Industrial Complex
+- War is a profitable industry
+- Contractors have large federal government contracts to build new facilities
+- Large companies wouldn't be the same without government contracts; have major violations but have so much money that they keep on paying the fines and continue
+- The MIC is cemented in American life; nothing will curb is anytime soon
+- Contractors who build bases, supply food to bases, etc.
+- One of the biggest contractors provides health insurance to all people in the US military 
+- Government buoying a lot of these companies
+- Overcharging, waste, fraud, abuse, etc.
+- A variety of publications on how much waste and fraud was part of the MIC -- DOD accounting systems, paying $430 for a hammer, overcharges and poor accounting practices, billions of dollars of waste
+
+Fight over budgets
+- Major budget cuts to Great Society anti-povetty programs
+- Medicare, Medicaid, and Social Security remain, however
+- Militarization of the US culture
+- 1980s, Reagan administration was putting forth SDI, Strategic Defense INitiative, "Star Wars" -- using satellites and land-based infrared to shoot down missiles in space; great profit for high-tech companies that build this stuff but they do nothing; didn't really add anything to the defense capabilities
+
+Iran-Contra Affair (1987)
+- End of Reagan's administration
+- Lt. Col. Oliver North, took the fall for all of this in order to protect the higher-ups
+- This is the period in which Americans no longer trust their government
+- Truman: the buck stops here, I'm always to blame for eveyrthing
+- Reagan: he couldn't remember
+
+Sagebrush Rebellion
+- Part of a broader conservative pushback
+- Sagebrush rebellion, still going on today if you pay attention to the news
+- Idaho: movement to create greater Idaho to have an ideological state for conservatives
+- The claim that the federal government has too big of a presence in the American West
+- Conservative movement to free up these spaces so they can be owned by individuals
+- One of the targets here is the end of tribes special status
+- Rebellion in the American West
+
+The Culture Wars, 1990s -- the origins of division
+- Articulation of culture wars is at its height
+- New Gingrich is very good at putting an organization to these culture wars, articualting what is going on
+- Gingrich dentified very early on in 1959 in which he identified this growing divide in America and that he had a role to play, to be on the conservative side, growing conservative movement
+- 1970s, gets involved in Georgia (not from Georgia) and entered the House of Representatives
+- Decided that defeatism in the Republican Party was not the way to go
+- End of civility: our job is to be the nastiest kinds of policymakers that we can be
+- American politics begins entering into a space where agreement is not tolerated, bipartisanship not tolerated; job is to stick fingers in the Democrats' eyes; we get Mitch McConnell et al.; don't make friends with the other side, this makes you weak
+- Gingrich came out sand said openly, this is what is going to give gridlock a good name; slow government down, this is the new conservative playbook going on
+- Beginnning of a new day in politics where we've moved a full generation 
+- Gingrich's ideas of turning politics nasty totally anticipates Donald Trump
+- Democratic Party didn't help anything: introduced noeliberalism to America, more deregulation, more power to the wealthy
+- NAFTA: great for big companies and crap for little companies in Latin America
+- Options aren't great here
+- Economic policy of the Clintons looked somewhat like Reagan's
+- Let the economy run itself; this is where the greatest opportunity will exist
+
+Faith in Elected Officials
+- Seeds have already been sown; Americans don't trust th eprocess; 'government doesn't work'
+- American people overall have less faith in officials
+- Money in politics: tribalism in America, we can't even talk to each other about certain topics
+- Different problems leading up to tribalism, hard to have much interaction
+
+Identity Politics and Trialism
+- Part of our politics
+- By the 2000 presidential eelction, the politicla divide really solidifies
+- The political positions are actually quite hard to see: neoliberalism vs Reaganism
+- If you were watching the debates, they would often say, if you want to know the different between our plans, it's this [small difference].
+- Options for Americans ground down to a very limited range
+- A general American idistinterest
+- More people watched Nixon and Kennedy debate than watched Bush debatee Gore
+
+Gore v. Bush, 2000
+- Really poor turnout -- 60 or less percent turnout of potential voters
+- Ended up in the US Supreme Court, gave George Bush the presidency
+- Americans have started to find that their sense of satisfaction and happiness has sort of slipped underneath themselves
+- Why are Ameircan populations so unhappy? Drug use, gun violence, social media
+- Misery index -- it hasn't mattered too much if it's Republican or Democratic -- Americans' sense of happiness has been slipping, getting ufcked
+- Americnas have this sense now of dissatisfaction in life because things aren't working out as epxected. 
+- All of these issues in American life 
+
+The Breakdown of Consensus
+- We break down in this breakdown of consensus with no recourse to understand what's good for the nation
+- Chess metaphor: if the left and right are playing a game, the left is still figruing out how do I win the game, the right has upended the board
+- If a global pandemic can't bring American consensus together but becomes a wedge to drive us further apart, we have serious problems
+- A very broken nation 
+- Social media further divides society -- media steps awayf rom its moral position as an informative body towards corporations doing really well with rating and such by driving more emotion
+
+Materialism: A Consumer's Republic
+- Linkage between being a free independne tcizien and buying products
+- A Consumer's Republic: the cizen has become the consumr
+- The global north consumes most of the world's resources, Americans understanding of a good life is based heavily in consumerism
+
+A hostile takeover of our moral centeer
+- We allow a sort of takeover of our moral center
+- Consumerism since WWII has been replacing older modes of behaivor and ethics with beahviors of the consumer marketplace that pervade soceity and are normalized
+- Prior to WWII, the cultural influence of Christianity pervaded many things -- the ideas and idioms coming out of the Bible and Christianity
+- 20th century: consumerism especially after WWII, replaced by science and technology, growth of the mass market
+- Consumerism is now the greatest American value in culture, and has overtaken national unity and patriotism too
+- Influences all of us in our lives inways we're probably not awar of -- we've allowed the lexicon of the marketplace to infiltrate non-market behavior, like personal relations, and have allowed the morality of the marketplace to serve as a common morality of America
+- The morality of the markeptlace is self-satisfaction, which is almost certainly anti-social
+- Language and behaviors:
+	- Customs and consumers for patients and students in health care and education
+	- 'incentivize', 'rebrand', 'shopping' -- economization of the world
+	- "I buy that argument"
+	- Shopping for the right therapist
+	- Online dating and swiping -- commodification of people, the same behavior. A kind of consumerist framework to enter into our personal relations
+	- "I liked it" or "I didn't like it", liking comments -- am I satisfied or not satisfied
+	- Not can I analyze it, can I understnad it; but did I like it or not like it; and this ia  limited way of looking at much of the world
+	- Reviewing products online, reviewing experiences, reviewing service s-- what stands in as a form of civic responsibility
+	- Very consumerist: the customer is always right, your opinion matters. We need to invest into things, we need to do our part.
+	- Sixties journalism had a greater sense of journalistic objectivity
+- Keep track of where consumerism enters your life and how you reflect/refract this into your life
+- Take some time to put a break on consumer society
+
+Globalization and its Discontents
+- Seattle 1999, showdown between WTO (symbol of globalism and global capitalism) decided to meet in Seattle
+- Protests shut it down for several days, kept many delegates from meeting in certain buildings, battled with the SPD on the streets of Seattle, put out a mjoar feeling that globalization was putting out major discontent
+- Many people see globalization as the enemy for the environment
+- Becomes the one example of how Marx's theorization of late-stage capitalism, as discontent and alienation, similar domination of the wealthiest capitalism, enlightnement of the Proletariat
+
+Expectations of Perosnal Liberation -- Expressions of personal liberty
+- out of the 1960s we definitely get new disucussions about what liberation in our society looks like, what counts as liberation. But when you break down boundaries, where do the new boundaries come from?
+- Ameircans see personal liberation as really kindo f a right -- what begins as marginalized groups saying we demand greater liberation has become a really individualized experience -- but these are different
+- No society in which there are no boundaries, we should ask ourselves where should these boundaries in society be
+
+Americans and Personal Liberty
+- We have really different guns about our personal responsibility with guns
+- For some people, nor estirctions because of the second amendment; for others, one of the greatest theats to our society
+- What are you personally responsible to do, and what is the government's responsibility?
+- We don't know what to do
+- We argue what counts as offensive, what is dangerous or hateful, what is free expression?
+
+Is the individual bound to any social expectations, standards? Do these ideas about persona lliberation overlap with Ameircan expectations ofr material success? Whose fault is it? Where does the responsibility lie for that? What is my responsibility as a person? What is the government's responsibility?
+- Are we bound to any social expectations?: manners, common courtesy? Is there anything tha seems reasonable binding you to social expectations, or are these all forms of oppression for certain groups?
+- Not easy to answer, but we see a lot of disagreement on these issues.
+- Should any individual be without restrictions? What is liberation?
+- The tensions of conservatism: we need a state and a society, but also I am an individual
+- AIDS pandemic: gay men shouldn't have a lot of free sex, emerging from sexual liberation in the sixties
+
+Law and Order
+- Ideas about liberation around what groups liberation can apply to is changing
+- Law and order campaing from the late 1960s -- so important for blacks, latinos, and others in American society who get caught up in law and order campaign
+- Nixon administration turned anti-war protests into anti-Americans
+- Used this as a cudgel: certain groups become targeted by these campaigns
+- Selective crackdown on certain types of drugs, changes to enforcement and the court systems
+
+The War on Crime
+- Post WWII, war is the metaphor for eveyrthing, Ameircans like war as a metaphor
+- Very much about targeting psecific books, sepcifically in terms of television and film, portraying people of color as very dangerous and caught up in drugs in a very tricky way, especially blackness as a danger
+- COPS TV -- late 80s, early 90s; they are just showing young blakck men being chased over repeatedly by white cops and police dogs, associations of blackness and criminality
+- Mass media really picks up on this -- really great for TV -- until you realie your particiaption
+- Crack cocaine vs powdered cocaine in the 1980s: crack cocaine is in the inner cities, zero tolerance; powdered cocaine is used among the middle and upper class, but much less enforcement
+- selective enforcement around diffferent drugs
+- We look at Nixon and such, war ond rugs presdients: but a lot of the Clinton administration took te war on drus to another level, especially with the 3 strikes laws and mandatory minimums -- Congress would state what the mandatory minimum sentence would beif someone was cauhgt wiht a few ounces of cocaine
+- The judge has the authority to reduce sentneces; but now the states and Congress put on minimum sentences -- you go in, it is 3 years
+- Incarceration rates skyrocket
+
+Legacy of the War on Drugs
+- Late 80s, early 90s laws: turn America's jail systems into a jail-industrial complex
+- Contractors making enormous amounts of money to build new prison facilities
+- We're supposed to be the freest country on earth but we incarcerate more people per capita than any other country in the world -- including many more repressive regimes
+- 13th amendment bans slavery except for punishment as a crime
+- Prisons changed over the private: someone is makigng profit.
+
+Fighting for the ERA
+- A lot of thigns chage out of the 1960s that people would suggest are good changes
+- ERA, equal rights amendment
+- 1972, put on the legislative docket and wiaiting to be ratified, never ratified
+- Abortion issue -- always being discussed in terms of rights (language which comes out of the sixties) -- right to life, right to choose, etc. What is the superior right?
+- Fight over access to clinics; post Roe v. Wade, lots of pushback by the right, becomes a centerpiece of the Republican platform, control the courts and overcome Roe v. Wade
+
+Second-Wave Feminism
+- Now, a third wave
+- Exposing the flaws in both liberalism and radicalism
+- Both radicalism and liberalism were totally set in a male world; liberation
+- A male public world, 'the worker', 'the citizen', 'the people'
+- Important: 'the personal is political', totally reshaped the Left; blending of private and public
+
+Feminism
+- Intersectionality
+- A lot more academic work int he 1980s, more public writing about intersectionality, multifaceted elements of identity
+- Criticism from third-wave feminists:
+	- younger women in the 1990s looking back at second-wave feminism, too rigid on their ideas
+	- White-dominated
+	- Male-female binaries being restatred, whereas in fact there is a greater spectrum
+	- Belief that makeup and perfume are inherently bad, questionable
+	- Creation of opening up the home to showing the problem of domestic violence, 

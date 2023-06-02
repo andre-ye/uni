@@ -1586,7 +1586,6 @@ Superclusters and Voids
   - Black holes found a lot of food and grew quickly
   - Massive black holes trigger quasars which shut off star formation
 
-
 ---
 
 ## Chapter 30: Life in the Universe

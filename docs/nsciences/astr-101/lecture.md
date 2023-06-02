@@ -750,6 +750,49 @@ ASTR 101
   - Edgar Allen Poe proposes a more accurate solution -- if the universe were finite in age, it would be finite in its observable size. Light from very distnat stars simply would not have had time to reach us since the univrse began.  So actually the universe could be infinitely large, but not infinitely old. The universe must be finite in its age.
 - From this simple observation, the universe must have had a beginning. There was a time before galaxies, stars, etc. -- what was it like?
 
+---
+
+## Week 10 Wednesday: The Deep History of the Universe
+- Hubble's law really does hold
+- Expansion for like 13 billionyears; by running the film backwards, we can conclude that the rate of expansion is accelerating. 
+- There does not appear to be enough gravitating matter to eventually halt or rverse expansion even on a universal scale
+- Many independent measurements suggest that expansion is accelerating.
+- We really don't know -- predictions into the far future are unclear
+- The future is not accessible to us; we cannoot see the future.
+- What was the time before galaxies and stars?
+- Georges Lemaitre -- a primieval atom as the precursor of the universe; how long would this take? About 13.5 billion years. Lemaitre: if things get smaller, it gets hotter; so the universe must have been really hot. 
+- Hadron collider: temporarily creating very high temperatures and densities, temperatures which will basically take us to a few hundred trillion degrees, simulating the universe in its first nanosecond.
+- Particle creation: gamma-ray photons form an electron and an antielectron
+- Particle annihilation: electron meets antielectron and forms gamma-ray photons.
+- You reach an equilibrium with equaal matte rand antimatter. But only under extreme condiiton
+- Asthee universe expans=ds, it cools off; when i reaches a millisecond of waves, there isn't enough temperature for grmmma-rays to be there, not sufficient to make new products
+- Theoretically, particles and antiparticles should have annihilated each otehr completely
+- Someohow one parts per billion fo matter sticks around -- we didn't make equal amounts of anti-matter and matter. This tiny sliver went on to become everything, including dark matter. All of this is the one little piece which is left over.
+- Evidence for this having happened -- why do we think the big bang?
+- Not observational support, but why is there slightly more matter than antimatter? WHere is not a lot of antimatter in the universe;antimate rna dmatter produce high radiation, but we can't see that much of it whne we looka round
+- before,hydrogen is merfging and complexity.
+
+- QR534    GOUNEINT, NO5 N32 RU5ION, GU5 W5ILL EL
+- Radiation from the cloud surface detectable through many different mechanisms -- a better way toe xperience dark microwave radiation
+- Noise from the radio is the cosmic background rdadiation, coming at you from all directions and coming to tickle your antannae from crossing the lnegth of the observable universe
+- Radiation touches every galaxy in the universe right now. 
+- Cosmic microwave background is interestingly homogenous
+- The universe was red, but now it is microwave in color.
+- The universe has been losing energy as it has expanded, so it has been redshifted; originally red visible light but redshifted way past infrared towards microwaves.
+- Era of nuclei to era of atoms
+- Universe continues to expand but the temperature is still very high temperature -- but you can't make stars from gas which is that hot
+- We have to let the univers ecool off quite a bit before we get stars and galaxies -- we have a few hundred million years as the gas cools for stars to form. But we see this -- the 'Dark Age' before stars lighted things up in a big way is also observed. 
+- Four major events which should have happened
+  - Formation of light elements
+  - Release of the cosmic microwave background
+  - Dark ages before the formation of the first stars and galaxies
+  - Recession of distant galaxies as the Universe continues to expand
+- Earlier nuclear formation produced very hot matter which was very hot and opaque until it was a few thousand degrees and became transparent, a cloud forms in all directions
+- This still hot gas cooling should make stars, but we have dark ages before then. 
+- In the modern day, we should still see things expanding apart
+- The evidence is overwhelming.
+- Trying to make radiation look like how i tis observed is difficult unless everything was once in a much smaller volume. 
+- No other cosmological model describes the availalbe evidence remotely as well as the big bang model does.
 
 
 

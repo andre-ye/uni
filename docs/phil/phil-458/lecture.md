@@ -1237,6 +1237,208 @@ Lonergan
   - And of course Husserl retains his own naive set of assumptions.
 - "The polymorphism of consciousness is the one and only key of philosophy" -- Lonergan. But also Hegel's argument in *The Phenomenology of Spirit*.
 
+---
+
+## Week 10 Tuesday: Lonergan
+- Piajay -- you can't master an operation until you reverse it
+- For children, space is not reversible
+- Generaliing the operation: positive, negative, *negative* -- a negative operation is formed
+- *Raum* -- room, space -- a prescientific conception of the space in which objects move; the walls are the basic point of reference, things move in space but space is moving
+- Einstein: from what vantage point do we assert the absoluteness of space? 
+- Newton tried to show absoluteness of space
+- Einstein: you can't presume you are at rest: you are moving with the 'room' of space
+- Why can't I go backwards? Negate? Undo? Reverse?
+- Watch yourself moving things around -- but that's your intelligence penetrating your sensibility, intelligence using sense as a mere instrument as it anticiaptes the intelligible; then there is the moment of intelligibility, ah, there is the answer
+- There is no answer without the question. 4 gallons -- the asnwer to what? 
+- Your intelligence sets up a criterion which knows when it is satisfied, because you phenomenologically feel different
+- There are questions fro understanding, specifically "what is it"? But even the way we ask questions evolves
+- Aristotle: points out that what questions are why questions and why questions are what questions -- pointing towards the cause
+- What is a circle?
+- Insight: on circleness, the definition of points equidistant to a center
+- Why is the circle perfectly round?
+- Formal cause
+- The drive of understanding: to understand what something is, the driver being towards what is intelligible.
+- Intelligere -- understnading -- intelligible (all in form)
+- A second question -- is it so? This si the moment of verii=fication
+- Not about is it true enough -- it's about, do you grasp these principles?
+- At the moment of insight, something happens
+- Immanent, spontaneous -- no on e can teach you how to learn, you need toknow hw=w to learn without being taught how to learn
+- Setting up the comparison here -- people over and over again fall into the pattern of thinking knowledge as two people
+  - The form is in the mind for Plato, it i s the immanent mind itself. otherwise we are stuck in compariosn where we already know the object cubt on't know or understand it.
+- There must be an immanent normativity in consciousness itselq
+- Acquinus? meas (mind), measure; a idminf o
+- It's not the measuring of a comparison, but the immanent measuring when you get an insight. There's a new object which you weren't aware of before -- a circle now. Not the same as its prephenomenologal experience
+- Is it in uour world?
+- Why don't we just gape? We don't stop at mere gaping. If knowing is just seeing, why do we askq eustions at all?
+- Most of your world you cannot 
+- Hommer
+- Have to wait for memory / consciousness to review or reveal its spontaneous self-organization
+- In somse sense, so what if intelligencec onstructs it own object? This only causes problems if being constructs objects here and now, but questions can be probed ande xpapanded rider
+- Abstraction is enriching vs impoverishing
+- Intelligible objects are a diminished reality -- a pale version
+- Kant and friends: abstraction, the working of intelligence is impoverishing
+- Lonergan: there is a focusing which happens in intelligence, but something additive which isn't there on the level of sensation , and therefore eliminating uniqueness and complexity and plurality, actually adding intelligibility to mere sensation
+- Can we access the sensible world as sensible? Lonergan is not worried about if we've actively constructe dsomething on top, is it mediated, etc. -- stripping away sense from what intellignece has added to sense via insight. Everything we see has a sense, a moment of grasping.
+- Lonergan, experience as experience. A particular definition of experience, we experience all of this, we experience the act of interpreting; of adding intelligibility, meaning-sense to that which is sensed. 
+- Differentiating that which is merely sensed from what happens when intelligence operates upon it. 
+- Nominal definitions -- it's like that thing which that thing does, a descriptive but not an explanatory definition
+- Intelligence is mediating from the very beginning, always -- you can arguably still distinguish from a sensible level and an actually intelligible object which cannot be seen.
+- Lonergan: a whole has parts; the whole is related to each of the parts, interpart relations
+- Hermeneutic Circle
+  - Hamlet: the King is more than kin, but less than kind
+  - kin initially means very close to me; but also later saying more
+  - kind initially means not so nice to me; but also a different species
+  - The part is in the whole, and the whole is in the parts; so how do you understand any of the parts unless you understand the parts
+  - This is the hermeneutic circle
+  - Heidegger: the challenge is not to get out of the hermeneutic circle, but to get into it the right way
+  - Menos' paradox kind of again: what's the right criterion?
+  - Aristotle: you already are potentially the whole, because if you weren't you couldn't understand anything -- how could you understand the whole if not the parts? We don't know but we also do know as we are readingg.
+- Not every whole is a structure
+- A gallon of milk is a whole, but there is no whole -- the milk is an aggregate, a coincidental manifold or arrangement of parts
+- Removing any part of the whole destroys the whole, because their intelligibility is related to the whole
+- Materially vs formally dynamic; materially dynamic, the parts move and relate to the whole, but it doesn't assemble itself; the parts are the matter.  Matter is always relative to some form that structures it. There are materially dynamic structures like engines and computers. But formally dynamic, the form itself comes into being and is itself forming. Lonergan claims thaet human knowing is a dynamic structure in which it sets the condition for its own emergence; you don't have to wait; you can go ask questions. You are setting the conditions for acts of understanding.
+- Animals are formally dynamic structures; they make nests and go eat and play, and this sets conditions for their own emergence
+- When you go eat something, you are making conditions for you to become.
+- Human knowing is a formally dynamic structure on the level of intelligence, Lonergan says.
+- Insight accumulates and becomes the condition for judgements of the truth or falsity of any given insight. But that's you, constructing yourself as a knower, giving yourself the form of a knower. 
+- parts can be material objects and also physical movements or sounds and so on, like the parts of a symphony or a dance, but they can also be operations; so what really is knowing? It is itself a pattern of experienced understanding and judgement which is mediated by uqestions
+- Both recurrent and cumulative. 
+- We're asking questions -- what happened? Experience, Judgement, Knowing -- a recurrent structure which goes forth over time, self-constituting: you don't have to wait for someone to have your insight for you, you don't have to wait for someone to tell you you have sufficient evidence to affirm what you experience or know
+- We often see that different philosophies will identify knowing with just one of these -- they'll do all of the steps but think they're squishing everything into experience: so they think being is what appears, so to account for negative judgements you have to say that the nothingness approves (Sartre); but Lonergan says no, negative judgements are up here in judgements, you don't need for the nothing to appear.
+- Hegel is trapped in understanding, in order to understand anything, you have to understand everything. But there can be partial increments of knowledge. 
+- The Hermenetuic circle is real: how can you understand anything without understanding everyone? 
+- Where do you locate the absolute / unconditioned? For phenomenologists, absolute is in the immediately appearing; fro the idealists in teh intelligible itself (understanding); or, we anticipate the whole but can have partial knoweldge
+- We can affirm partial truths absolutely; becuase otherwise how could we say that this is what knowing is absolutely?
+
+---
+
+### Week 10 Thursday: Lonergan and Course Wrap-Up
+- Knowing is a formally dynamic structure of intentional operations
+- The Lonerganian triad
+  - Judgement
+  - Understanding
+  - Experience -- consciousness. Different from phenomenology as perception, which Husserl is limited by from a Lonerganian perspective
+- Husserl: all consciousness is consciousness of, Husserl is saying that consciousness is perception of an object, but Lonergan differentiates between intentionality and consciousness
+- There are states and trends in which you are conscious, but you are not concscious of an object
+- The big Husserlian moment is that discovery that all consciousness is intentional
+- A fundamental critique / way of reading Decartes in which "the Cartesian ego is a worldless I" -- an I which is not correlated to any world (any kind of objects, content, noema), as if you could just be conscious and not conscious of something.
+- One one level this is just a phenomenological / philosophical clarification of the issue, because this might just be overlooked
+- To the extent that you think of the ego as a worldless I, then you run into the problem of the bridge; if we're assuming the I as I is a self-contaiend unit / monad that can exist in a worldless space, then the fundamental epistemological question is then how does the ego get out of itself towards something different
+- Husserl -- this is phenomenologically naive. 
+- But there is even a naive way to read Husserl -- we don't have to worry about the epistemological problem at all because we are restored via our perceptions, the foundation shifts to hold the burden of the noumena. Opening up something which is missed. Discovery of a new continent; it takes time over the history of development throuhg the history of philosophy to get to the point where we can have a method by which we can deal with intentional acts as acts
+- Phenomenology on one level is a fundamental critique of faculty psychology. You can go towards Aristotle: sensitive faculty, the intellectual faculty, and a subdivision of reason and intellect as sub-faculties of the intellectual faculties, the practical faculty
+- Hegel saw the problem of faculty psychology -- there's something in Husserl which is not in Hegel, and vice versa: Hegel doesn't penetrate yet. But he is keenly aware of the criticism of faculty psychology, which is still in Kant, and not even that different.
+  - Kant: the intellectual faculty as pure reason
+- First, they don't have a word for these acts; from a Hegelian perspective, human spirit developed, and developed a rudimentary capacity for self-reflection
+- In greek, there is no word for 'will' . Desire or want, but not will. Paul: I do that which I hate (sin). For the classical tradition up to Plato and Aristotle, to know the good is to do the good, and practical reason only figures out the means; it is automatic, there is no hesitancy.
+  - Kierkegaard, sartre -- anguish, anxiety, the frozenness, do I or don't I?
+- There is no will as such for classic philosophers: to know the good is to do the good. Knowledge is virtue, and virtue is knowledge.
+- Augustin discovered the world as something autonomous and above; you know the good, but you can't will it. Whereas for Sartre, this doesn't really make sense.
+- The greeks had a will, but not a science for it, so when do we see an indirect indication of a will/ Achilles runs towards Agamemnon and he doesn't choose to stop and have the moment of anguish; Athena pulls him by the hair and pulls him back, and you retroactively get the sense of talking about will but they don't really know how.
+- The Gods -- Eros is a God, you're not doing anything, really, it's the Gods which inhabit you and make you do things.
+- Enthusiastic -- theos -- theology -- the god is in you
+- There is now a self, not just aggregations of forces pulling your hair and forming you, etc. 
+- Reduced faculties from the objects that were experienced; insofar as we have an experienced object, there must be a faculty which makes it possible, but there is no really science of these operations, which is what you get all the way up to Kant.
+- Faculty -- potency, a potentiality, you hav epotencies that become actualized when they encounter an object, a relation of intentionality, not causality; the objects cause the potency to become actualized; but we don't experience anything in potency; we always take what is given to us, even though no one experiences faculty as such.
+- Phenomenology as a movement further from mere faculty psychology
+  - Homeric, pre-classical Greek
+  - More advanced classical Greek, development of writing (Bruno Schnell)
+  - Sapho: discovering desire, but it is through frustration that she discovers it. A new kind of concept of the self
+  - No science of internal realities, then we get a science but it is phenomenologically inadequate becuase it deals with causal relations
+- For Husserl, the relation between subject and object is not causal but intending; it can't be taken for granted. 
+- Cartesian moment: how can I trust that the thing causes the faculty? Doesn't give up the faculty, says you can trust it because God wouldn't do that to me -- but something is afoot.
+- Husserl: you have to have this Cartesian moment of radical doubt.
+- Decartes thought he had found a worldless I but thought he found a fundament for knowledge. The Archimedian point: use it as the basis for proving the world. 
+- Husserlian moment. Decartes' own account of the I ends up re-inserting all these faculties back into the I as thinking substance, a metaphysical rather than a phenomenological category. Show me substance as it appears! (You can't.)
+- Lonergan is saying that we have intentional operations, and that knowing is a formally dynamic structure of theee intentional operations, all mediated by questions. What and why is it?
+- If knowing is a merely a question of seeing, why do children ask questirons?
+- If you're studying a philosophy and they don't have a thorough, consistent, ongoing investigation of questions, they're not doing it right.
+- You can go through history fo philosophy -- Platos' got it (knowledge is question and answer), Aristotle has it too, then it kind of disappears; we had only Aristotle's "logical" works for a long time and it seems like he didn't have questions; for long stretches of history, logic was thoguht to be the basic structure of knowing, deducing things from premises, rather than thinking of logic as embedded within, merely an instrument in, a larger structure which is driven dynamically by questions. You get a traste of this in Heidegger, Heidegger relalizes this is somrthing different. Part of being is recovering the question of being. Reams of philosophy which don't mention the question.
+  - Quine, the archetypical analytic philosopher -- wrote so much, so he rearranged his typewriter to eliminate certain keys, eliminated the question mark. (maybe true or not true, but th epoint is made)
+  - Questions are needed for an epistemology
+  - Not just any old questions: a structural process, not just random questions. 
+  - Is this worthwhile? Scheler and value
+  - These questions involve the notion of being
+- Lonergan is saying: what is being? It can't be defined directly, but being is what you intend with the totality of your questions. You know being at the end of a question, not at the beginnig. You don't immediately confront being as being. In fact you confront being as true judgement, truth is convertible with being, but only that -- we don't have knowledge of bieng other than that
+- Questions mediate between levels, you constitue objects as questions, and if they are answered, then you constitute them as understood, but you also ask "is it true"? Is it so?
+- Isnsight -- the act of understanding. 
+- Triad
+  - Evidence: What is it? Why is it?
+  - Understanding: Is it so?
+  - Judgement: Is it worthwhile?
+- Have you ever understood anything?
+- Lonergan: the history of philosophy is the history of the oversight of insight.
+- Your whole world is a tissue of insights, but we don't pay attention to it; the insight itself is overlook
+- The inside of a bag is not reallyt here, but that is where we get the being of it. Being is not snesibl eor material, but being: being as being
+- Intellectual conversion: move away from what you thought were real -- It's a turning, you turn around and you will get an isght, e.g. being is good.
+- Lonergan: nah, we want to stay attached
+- Plato discovered the object of insight, which is ideas, eidoses; Socratic moment, there are things beyond what we can really sense, so where are these things really?
+- Plato -- is there a noetic heaven? etc.
+- No insight: no account of the act, 
+- But you always feel the tension of inquiry and its release and further captions, why can't you get the child to shut up?
+- Formally dynamic structure: you as a knower provide the conditions for your own emergence as a knower, in anticipation of becoming something further. You are in the process of a formal dynamism, you as a thing are coming
+- Plants develop root systems to become what they are, and then those thigns help with the root system
+- Newtonian synthesis: unification of a set of insightrs, starting with Capernicus, Galileo, Kepler, major insight, planets move in an ellipse which is not a perfect circle as the Ptolemaic model, Galilean insight about free fall; Newton, why do we assume that sublunar movement is different from celestial movement? Why do we assume that the same laws don't apply? Newtonian synthesis: the same laws apply -- new synthesis that unifies all these different insights, but now you have a synthetic munity -- you can explain every body in the universe
+- Lonergan: what you are doing is participating in this formally dynamic structure, dynamic -- undergoing change
+- Materially dynamic structure, like computers and such, as opposed to removing the part of a gallon of milk, you don't destroy the milk; you might diminish the milk but you can't keep the car by taking out the piston; the parts don't assemble themselves; yet knowing does
+- How is this different from the Socratic dialectic of knowing?
+- Thomas Khuhn, the structure of scientific revolutions?
+- Problem of conscious and distinguishing acts as conscious and acts as intentional
+- Sartre is clear about th eproblem: what is thi sconsicousness of consciousness? We are willing to turn it into knowledge of knowledge. To know is to know that one knows. He defines reflection, or positional consciousness of consciousness, or knowledge of consciousness, to be understood as an act of consciousness, directed at something it is not -- **reflected consciousness**
+- If consciousness is always intentional and always has an object, then in order to be conscious of consciousness, you need to reflect upon that very act, but then consciousness as intentional would seem to always be escaping consciousness as consciousness.
+  - Infinite regress: it seems like we can never really know consciousness or be conscious of our own consciousness -- it must always be an object, but there is also the consciousness of oneself as conscious of the object -- differentiating between consciousness and intentionality
+  - Consciousness does not intend always
+  - If we don't fundamentally distinguish consciousness and intentionality, we run into the problme of infinite regress
+  - If intentionality is objectifying and we cna only be conscious of things as objects, then we cannot really recognize our consciousness as conscious
+  - What about Husserl's theory fo intersubjectivity though? I can be conscious of subjects insofar as I constitue them though?
+- Is every attempt at self knowledge a denaturing?
+- Consciousness as a sense of awareness immanent in intentional acts
+- Reduction of consciousness to knoweldge imports the subject-object duality. Knowing known (the third necessary term) must be interpreted. Sartre is talking about infinite regress here, which is absurd.
+- Consciousness of self is not a dyad -- not a consciousness of an object. It must be an immediate and noncognitive relationship of self to self. Reflective consciousness posits the reflected conscious as its object; I am driected outwards, towards the world. Spontaneous perception of the world is a nonpositional consciousness of itself. Lonergan differentiates this from intentionality.
+- We have to differentiate the intentionality and the consciousness in the act; consciousness as consciousness is not perception; it is self-present; all consciousness is self-presence. Not conscious of itself as an object. 
+- Scheler: there are conscious states in which I am not always intending an object, like fatigue and drunkenness, anxiety about *nothing* in particular, but about *nothing* (in particular)
+- Husserl got us intentionality but didn't differentiate it.
+- So how do you come to understand yourself? YOu can't just reflect on it, so you have to rias eht elvel of your activity; distinguish between meerely questioning and understanding. As you raise your level of operation, you care conscious of knot only the thing you are questioning but of your questioning. Now I am conscious differently when I understand; the t hing you are doing a phenomenology of is no waht you are conscious of but rather the consciousness itself.
+- Breaking Meno's paradox: how do I know an inch is an inch? Measured vs measuring. Rulers are not self-measuring, but consciousness is. It provides its own immanent criterion, immanent in questions. Getting out of the epoche or transcending, we cna't fall back into the naive attitude, naive realism -- why do we fall into it? It is developmental -- the reality si that we develop as animasl prior to our development of knowing. We develop animal psychology.  The word perception literally means, "to grab with" -- we develop an anticipation of being as that which is spatiallyd istinct from us. Actus perfecti -- there is all this other stuff going on you're not ready to deal with, it's not spatiallyd istinct from your perception. I think that being is over there, and our words / language actually express that... it gives rise to this thinking of consciousness as perception. And you have to overcome this naivete.
+- Why do we fall into naivete at all? 
+- Lonergan: we don't know our knowing, we develop as animals prior to knowing as knowers, and we already develop an orientation towards 'being', an animal relation. Reference to Santayana, "Animal Faith"
+- Is there an immanent soruce of transcendence?
+  - Decartes, no -- but there is a transcendent source of transcendence, God's veracity?
+  - Kant condemns us to the phenomena
+  - Husserl tries to find the absolute in the eidosa s the infinite horizon, but unconvincing
+  - Sartre and nothingness
+- What is it, why is it?
+- Inverse insight: when you understand that there is nothing to be understood
+- Much of science emerges as an inverse insight
+- Newtonian physics: movement is qualitatively indistinguishable from rest.
+- You can see why the arrow starts, but why does it keep on going?
+- The fact that you're in space in one location and not another is irrelvant; nothing significant about point A and point B as such.
+- You can do experiments which confirm or disconfirm on different sides of the planet.
+- Lonergan: Husserlian phenomenology comes after insight and gets data structured by insight, so it gets the product
+- Husserl is aware of insight, especially in the fifth meditation; Husserl knows about insight just as Plato did, but he doesn't have a clear phenomenology of it, but he knows it's happening; primal instituting.
+  - Apperception -- perception of a form or eidos that is the accompanying cointention of the form
+  - Apperception is not an inference: you don't conclude to the eidos, you can just describe it. 
+  - Every apperception in which you apprehend at a glance and noticingly grasp objects given beforehand
+  - Every apperception points back towards a primal instituting in hwich an object wiht a similar sense got constituted for the first time
+  - Doesn't want to talka bout this because now we're back into empiricsm, the natural attitude: it's your concrete empirical self which does this, you don't need the transcendental, it's *you*
+- Lonergan: reaching of the virtual unconditioned, there are no more questions to be asked
+- In order for something to occur period metaphysically, a set of conditions must be set and met; there are conditions that make it possible. No finite cause can produce the existence of its effect because we don't create the conditions of ourselves to act. Lonergan: there are also conditions which, upon fulfillment, can be affirmed as true -- that which satisfies the immanent desire for reason and sufficient evidence.
+- Where do we go without an immanent criterion?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
