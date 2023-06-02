@@ -794,7 +794,23 @@ ASTR 101
 - Trying to make radiation look like how i tis observed is difficult unless everything was once in a much smaller volume. 
 - No other cosmological model describes the availalbe evidence remotely as well as the big bang model does.
 
+---
 
+## Week 10 Friday: Looking Back and Looking Forward
+- Current expansion of the universe suggests that the universe was very dense and hot
+- Big Bang model -- what would the universe have been like if it was really hot and dense? What would have happened in a hot and dense expanding universe? And we see evidence corroborating this theory
+- If it were really hot and dense, fusion would have happened everywhere and produced heavier elements from the very simplest elements. As the universe expands, it naturally cools off and neutralizes; gone from plasma to a neutral gas through which light can pas; this time in which it goe't see through it to can see through it should be visible, these glowing microwaves (CMB)
+- It is still expanding now and you can see this is happening
+- Dstribution of clouds, expansion of galaxies -- alle vidence matches the model
+- But where did the initial energy input to start the universe's expansion come from? What was 'before time'?
+- Where does it all come from? Maybe it is a cycle: big bang followed by big crunch
+- A lot of ideas in modrn cosmology are strikingly similar to very cold ideas
+- There is no beginning of time, there is no moment before time
+- Big bounce model eliminates a moment before time, it has always been there
+- Universe starts at some singularity and then expands on itself, dark energy flattens, heat death dies, dark energy rips the universe apart, takes it down to nothing everywhere; but in this completely empty universe, quantum fluctuations continue to produce something; so an infinitely empty universe with an infinite amount of time will eventually get a quantum level fluctuation which is big enough to make a new universe
+- Multiverse / membrane theory: our brane coexists with other branes; our universe collides with another universe in this multidimensional structure
+  - No proferred time -- this collision could happen at any time
+- Nietzsche and the devil
 
 
 
