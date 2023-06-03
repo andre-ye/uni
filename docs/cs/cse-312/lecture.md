@@ -625,4 +625,22 @@ $$\hat{\theta_{\sigma^2}} = \frac{1}{n} \sum_{i=1}^n (x_i - \hat{\theta_\mu})^2$
 - Las Vegas algorithm example: quick sort.
 - With probability at least $$1 - \frac{1}{n}$$,quicksort runs in time $$O(n \cdot \text{log } n)$$
 
+---
 
+## Week 10 Wednesday -- Hodgepodge
+- With probability at least $$1 - \frac{1}{n}$$,quicksort runs in time $$O(n \cdot \text{log } n)$$ (assuming a unifrom random pivot)
+- Monte Carlo algorithm: usually tells you the right answer but sometimes also tells you the wrong answer
+- Why would we accept a probaiblity of failure?
+- If your algorithm succeeds with probability $$\frac{1}{n}$$, this is a decent algorithm: if you can verify between different answers which one is better
+- We can compute how many iterations are needed to get the right answer with a high chance of success
+
+$$\left(1 - \frac{1}{n})^{k \cdot n} \le e^{-k}$$
+
+- $$n \cdot \ln n$$ independent runs gives you the right answer with high probability, using $$k \approx \ln n$$
+- A rnadom vector $$X$$ is a vector where each entry is a random variable. $$|mathbb{E}[X]$$ is a vector, where each entry is the expectation of that entry.
+- Covariance: a way to numerically describe codependence between variables. To talk about covariance between entries, we define the covariance matrix $$\sum$$, where the $$i, j$$ element is given by $$\text{Cov}(X_i, X_j)$$ where $$X_k$$ is the $$k$$th entry of $$X$$.
+- 
+
+---
+
+## Week 10 Friday -- Victory Lap
