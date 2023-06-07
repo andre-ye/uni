@@ -639,8 +639,3 @@ $$\left(1 - \frac{1}{n})^{k \cdot n} \le e^{-k}$$
 - $$n \cdot \ln n$$ independent runs gives you the right answer with high probability, using $$k \approx \ln n$$
 - A rnadom vector $$X$$ is a vector where each entry is a random variable. $$|mathbb{E}[X]$$ is a vector, where each entry is the expectation of that entry.
 - Covariance: a way to numerically describe codependence between variables. To talk about covariance between entries, we define the covariance matrix $$\sum$$, where the $$i, j$$ element is given by $$\text{Cov}(X_i, X_j)$$ where $$X_k$$ is the $$k$$th entry of $$X$$.
-- 
-
----
-
-## Week 10 Friday -- Victory Lap
