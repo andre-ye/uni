@@ -230,28 +230,308 @@ specific place and time.
 
 | Term | Description |
 | --- | --- |
-| "hearts and minds"
-| Strategic Hamlet concept
-| Pacification
-| Gulf of Tonkin incident
-| War aims
-| Operation Rolling Thunder
-| Operation Ranch Hand
-| Operation Phoenix
-| Ho Chi Minh trail
-| Arc Light Strikes
-| Battle of Ia Drang Valley
-| Strategies
-| Teach-ins
-| Helicopters
-| Tactics
-| War of Restraint
+| "hearts and minds" | A critical part of the narrative play of the Vietnam War -- we needed to iwn the hearts and minds of the people. It becomes a very thing to do in the war. Later, a film with the same name is made, exposing the contradictions and violence of the American leadership in the war. |
+| Strategic Hamlet concept | Started by the French, then carried over by the Americans. Goal: to identify little Hamlets (villages) which had been targets of the communists and physically fortify them as well as supporting the people in them. Part of the hearts and minds campaign. |
+| Pacification | The Strategic Hamlet program was not really working in general. MACV-USAID program to help the South Vietnamese government to pacify the countryside. The idea was to get the South Vietnamese government to take over the pacification program. |
+| Gulf of Tonkin incident | 1964. The Maddox and the Turner Joy ships were in the Gulf of Tonkin when a torpedo was shot at them by a NOrth Vietnamese ship; the attack never comes, but the situation is escalated. The Gulf of Tonkin Resolution is sent to Congress, and it is almost unanimously voted for. The Gulf of Tonkin incident demonstrates how on edge everyone was about the conflict and how quickly the state was willing to mobilize resources for the war. |
+| War aims | The war aims of the United States in a 1965 memorandom of purpose were as follows: 70% to maintain US reputation (containment), 20% to check the Chinese, and 10% to make life better for people in South Vietnam. Ironically, the United States wanted to emerge from the crisis without unacceptable taint from the methods they used. The War Aims demonstrate the extent to which the Vietnam War was fought for images and relations; Vietnam was reduced to a substrate of the symbolic. |
+| Operation Rolling Thunder | Extensive bombing, went off for a long time. Large and small aircraft together bombing the fuck out of the Ho Chi Minh trail. Very controversial, done under the idea of graduated escalation. McNamara wanted to turn up the bombing to a very high volume, then turn it down and hope the North came back to negotiate. Later, the US would attack the oil fields and bomb other infrastructure. |
+| Operation Ranch Hand | Spraying large amounts of herbicides to kill the cover of the forest so they could see enemy movements. Vietnam had a triple canopy forest, and was very hard to see through. Spraying these chemicals over everyone made US soldiers and Vietnamese civilians develop severe health issues. Vietnam goes from being a rice exporter to a rice importer during this period. | 
+| Operation Phoenix | PHOENIX program from 1965 to 1972 engaged in subversive work -- assassinations, intimidation, identifying who in a village needs to die to get the influence of the village. Also, training ARVN to engage in the same kinds of tactics -- investigations, killings, kidnappings, torture, etc. |
+| Ho Chi Minh trail | A road system which runs from the North, goes through Laos, and then goes into the South. Is a target of enormous bombing campaigns, but the US is unsuccessful in attempting to stop the flow of supplies. Demonstrates the inability to just pound people into submission with technological might, and also the expansion of the Vietnam War outside of the geographical borders of Vietnam. |
+| Arc Light Strikes | A central feature of the war. Big B-52 bombers get called in whenver a military unit is in trouble. Dropped 4x as many bombs in the South as in the North. Not much data on waht the aftereffects are, but North Vietnamese soldiers would report that for them, the Arc light attacks are the most terrifying part of the war -- there is nothing, and then suddenly the ground opens up. |
+| Battle of Ia Drang Valley | 3-day battle during the Ia Drang campaign in November of 1965. The only way to survive was to constantly call in air strikes and artillery. The Americans were basically surrounded. Seen as a tactical victory, but devastating losses at Ia Drang valley. Both sides learned lessons: the US learned that technological brute force could work. The North learned that you have to fight Americans in close distance, close enough where they can't just bomb you -- and the tactics totally change. Represents a solidifying of strategies. |
+| Strategies | See above |
+| Teach-ins | American society is at war. Begin at the University of Michigan before spreading on to more than 100 campuses. Faculty talk about the war in public venues; students try to understand it. Beginning in 1965, reflecting the sit-ins and wade-ins, students would come and listen to faculty speaking about the war. Teach-ins generally expressed an anti-war sentiment. |
+| Helicopters | Helicopters were especially important to the war; a major technological innovation which starts in Korea and becomes a major workhorse of the American campaign. Helicopters become necessary for everything because of the difficult terrain of Vietnam -- the Americans needed helicopter airlifts in many places. "Huey" helicopters made by Bell Helicopter -- a company which did pretty well during the war. |
+| Tactics | The US is still dedicated to search and destroy, trying to find the enemy. The Vietnamese are using hit and run tactics, and not holding on to territory. This is therefore not a traditional war in the way that the US is used to it. As the war goes on, there is less and less support in the South for a long war. VC tactics are quite successful at eroding American morale. |
+| War of Restraint | The idea of a war of restraint -- the US had certain lines that it was not going to cross. LBJ and McNamara continued to push this point, as they fought against the more gung-ho military. |
 
+---
 
+## Lecture 10: The Rise of Black Power
+Though not a well-defined or unified movement, 
+Black Power gave voice to many Black Americans who 
+promoted Black pride and connections to Africa, as well as 
+demanded immediate institutional changes.
 
+| Term | Description |
+| --- | --- |
+| Radio Free Dixie | Robber F. Williams, an early Black militant, is exiled to Cuba. Sets up a radio -- Radio Free Dixie, from 1961 to 1965. Radio waves can be received in the American SOuth. A platform for ideas about Blacks arming themselves, Black militancy, etc Not just hearing the SNCC and SCLC line of non-violent progress. |
+| Black Power | Originates from changes towards integration and other attempts to get Blacks to vote. Malcolm X sees the nonviolent approach as a shameful one -- one that plays into the hands of white oppression. A sharper and less acquiescent formulation of the Black identity by really seeing the violence done to Blacks in America by the police and vigilantes. |
+| Nation of Islam | Introduction of Islam as offering a more authentically Black spirituality than Christianity (or  Hedonist capitalist athiesm). |
+| Bobby Seale & Huey Newton | Leaders of the Black Panther Party -- 1966, Oakland, California. "Freedom by any means necessary". See Black Americans as a legacy of colonialism, and linking the Black struggle with toher anti-colonial struggles in Southeast Asia and Africa. Focused a lot on neighborhoods and programs in these neighborhoods -- defense and sustenance. |
+| CORE, SNCC | CORE and SNCC both had mixed white and black leadership in them, but these organizations begin to change around 1967. Carmichael wins in his race against John Lewis to lead one of the SNCC chapters; represents a more radical and sharp view of the Black project. Can whites really understand the conditions that blacks are talking about? What role do they play in the leadership of such organizations? Increasingly, organizations become more black-led and less interracial. |
+| March Against Fear | James Meredith's March Against Fear. Decides on his own without organizational support to do a march from Tennessee into Jackson, Mississippi. A free man should be able to walk through America without violence. He was shot by a white supreamcist. Leaders of SNCC, SCLC, CORE picked up on the march in Jackson, demonstrating that Meredith would not be silenced. Many people put the origin of the term black power here. |
+| Black Panther Party | See above. |
+| Marketing Blackness | Blackness and the Black 'aesthetic' became partially incorporated into capitalist-consumerist culture. Advertisers catch onto Black is Beautiful and move to embrace and envelop it to sell products. |
+| Black is Beautiful | Embracing of a blackness which was not possible in the same way before. The Afro becomes a major symbol of this -- growing hair long rather than conforming to an ideal of what it should be (a white ideal). Angela Davis, Nina Simone. |
+| Angela Davis | Highly educated person who identifies as a communist and does not apologize for her political and social views. Becomes a political lightning rod during this time through the seventies and recent times. |
+| Stokely Carmichael |
+| Fred Hampton | Fred Hampton becomes singled out by the Intelligence State as inspired by communist influences. FBI kills Fred Hampton. |
+| COINTELPRO | CIA CHAOS and FBI COINTELPRO are infiltrating these movements. These spying programs will later come to light under Nixon and expose the extent of abuse of power which occurred under his presidency. |
 
+---
 
+## Lecture 11: New Left, New Right
 
+The dissatisfaction with 
+post-war America had both left and 
+right-leaning criticisms. But, whereas 
+the New Left’s dedication to liberation 
+meant that it fractured by 1967, the new 
+conservatives found greater coherence 
+and longevity in its critique of the Left
 
+| Term | Description |
+| --- | --- |
+| The Old Left |
+| New Left |
+| Free Speech Movement (64) |
+| SDS |
+| March on Washington (65) |
+| John Birch Society |
+| William F. Buckley, Jr. |
+| YAF |
+| The Welfare State |
+| Religious ecumenicalism |
+| New Conservatism: Economics and Culture |
 
+---
 
+## Lecture 12: Counterculture and Dropping Out
+
+The counterculture, if it can be talked about 
+in the singular, had shifted from critique of the mass 
+society to expressions of personal liberation. By 
+breaking through the limits of American society, young 
+people especially explored alternate lifestyles and limits 
+of their own personal freedom.
+
+| Term | Description |
+| --- | --- |
+| Ken Kesey and the Merry Pranksters |
+| LSD |
+| Marijuana |
+| Haight-Ashbury |
+| The Human Be-In |
+| Hippies |
+| Yippies |
+| Diggers |
+| communes |
+| liberation theology |
+| Guerilla Theater |
+| Drop City |
+| Jesus People |
+| Hair, the Musical |
+
+---
+
+## Lecture 13: The Vietnam War -- 1966 to 1967
+
+As the criticism of the war expanded across 
+U.S. society and government, the political and military 
+leaders misled the American people and deepened U.S. 
+involvement in the war. However the military and 
+government were superficially dedicated to the war, the 
+ways that they prosecuted the war undercut soldiers’ 
+morale and civilian support. 
+
+| Term | Description |
+| --- | --- |
+| 'jungle' | 
+| General Thieu |
+| General Ky |
+| Fulbright Hearings |
+| Rolling Thunder |
+| Crossover point |
+| POWs |
+| The Long Hot Summer |
+| Battle of Hill 1338 |
+| Battle of Hill 875 |
+| Anti-War Demonstrations and Counterdemonstrations |
+| Khe Sanh |
+| MLK Speech Against the Vietnam War (67) |
+
+---
+
+## Lecture 14: 1968, Part 1 -- Things Fall Apart...
+
+The Tet Offensive, and the 
+Vietnam War more generally, as well as the 
+assassinations of 1968 made the nation’s 
+path forward appear fraught with fear, 
+danger, and chaos.
+
+| Term | Description |
+| --- | --- |
+| Tet Offensive |
+| The Battle of Hue |
+| Kerner Report |
+| Eugene McCarthy |
+| MLK |
+| RFK |
+| Occupation of Columbia |
+| Civil Rights Act of 68 |
+
+---
+
+## Lecture 15: 1968, Part 2 -- Global and National Changes
+
+A year of global 
+protest became a commentary 
+on personal liberation, 
+imperialism, racism, and 
+authoritarianism. Little was 
+resolved, but new social and 
+political lines were drawn giving 
+shape to the future of both civil 
+and military conflict.
+
+| Term | Description |
+| --- | --- |
+| Mexico City |
+| Tommie Smith, John Carlos |
+| Paris |
+| Prague |
+| The Troubles (in Ireland) |
+| Election of 68 |
+| The Chennault Affair |
+| The DNC in Chicago |
+
+---
+
+## Lecture 16: Sexual Revolution
+
+Drawing on the broader counterculture 
+of liberation and protest, women’s rights as well as 
+gay and lesbian rights activists took sexuality from 
+the status of private and repressive to public and 
+liberated. 
+
+| Term | Description |
+| --- | --- |
+| Helen Gurley Brown |
+| Sex and the Single Girl | 
+| The Feminine Mystique |
+| Civil Rights Act of 64 |
+| N. O. W. |
+| New York Radical Women |
+| Second Wave Feminism |
+| The Personal is Political |
+| Consciousness Raising |
+| Contraception |
+| No More Miss America |
+| Miss Black America |
+| The Pill |
+| Griswold v Connecticut |
+| Title IX |
+| The Ladder |
+| The Stonewall Uprising |
+
+---
+
+## Lecture 17: "They're Selling Hippie Wigs in Woolworth's Man"
+
+The inability to find consensus on the Vietnam War 
+pervaded American life, and increasingly there was no 
+consensus to be found on the topics of morality, decency, 
+loyalty, and much else. The promises of liberation and also 
+the turmoil of rebellion highlighted the end of the decade
+
+| Term | Description |
+| --- | --- |
+| Hamburger Hill |
+| My Lai Massacre |
+| Free fire zones |
+| Operation MENU |
+| Woodstock |
+| AIM |
+| The Moratorium |
+| The Weathermen |
+| Kent State |
+| Jackson State |
+| Pentagon Papers |
+| Vietnam Vets Against the War |
+| The Silent Majority |
+| Manson Family |
+| Zodiac |
+| Altamont |
+| Operation LINEBACKER |
+
+---
+
+## Lecture 18: A New Environmentalism
+
+What began in 1970 as a grassroots effort involved in local 
+issues evolved into a government-focused issue where 
+lobbyists dominate and environmental stewardship is 
+always disadvantaged.
+
+| Term | Description |
+| --- | --- |
+| Materiality |
+| Lake Erie |
+| back to the land |
+| fear of losing wild places |
+| Tom McCall |
+| 64 Wilderness Act |
+| Glen Canyon Dam |
+| Edward Abbey |
+| Deep Ecology |
+| Earth Day 1970 |
+| NEPA and EIS |
+| Seattle METRO |
+| Earth First |
+| Environmental Justice |
+| Love Canal |
+
+---
+
+## Lecture 19: Out of the Quagmire
+
+In some ways the 1960s continued into the 1970s, 
+but the Vietnam War, Watergate, and the economic 
+outlook marked an end to the hopefulness of a 
+decade prior.
+
+| Term | Description |
+| --- | --- |
+| Affirmative Action |
+| busing |
+| Roe v Wade |
+| welfare |
+| detente |
+| Congress in control of the Vietnam War |
+| The Oil Crisis |
+| deindustrialization |
+| end of the Vietnam War |
+| stagflation |
+| Chile |
+| Watergate Scandal |
+
+---
+
+## Lecture 20: The Fallout from the 1960s
+
+The end of consensus that many scholars have noted came 
+from the civil rights period, the Vietnam War, and a newfound distrust of elected officials. Ultimately, this has 
+exposed the limits of American exceptionalism.
+
+| Term | Description |
+| --- | --- |
+| Civil Rights |
+| No More Vietnams |
+| Vietnam Syndrome |
+| Reagonomics |
+| general malaise |
+| neoconservatives |
+| Newt Gingrich |
+| neoliberalism |
+| Lawrence v Texas |
+| Sagebrush Rebellion |
+| War on Drugs |
+| Gore v Bush |
+| Law and Order |
+| Intersectionality |
+| Queer Society |
