@@ -16,6 +16,34 @@ Excised notes and rantings for my final essay.
 
 ---
 
+The epoche is stubborn here. “By my living, by my experiencing, thinking, valuing, and acting,” Husserl writes, “I can enter no world other than the one that gets its sense and acceptance or status in and from me, myself.”  It seems that I have no claim to judge the Nazi experience as false beyond that fickle falsity which is constituted by me; when I cease to posit the Nazi experience as false, it indeed ceases to be false, because ‘false’ has only the meaning I constituted it as. The epoche, then, puts all experiences on equal footing, and neuters the capacity of one experience to claim itself to be truer or more right than another experience.
+
+Husserl’s epoché, then, is thoroughly coated in normative doubt… but he denies this. What is the ethical hazard here? Lonergan can help us conceptually understand what is happening.
+	Implications
+ doubtful question remains, “[why] should the meditating ego engage in the epoché?” Husserl’s  
+	Bernard Lonergan: you cannot play so fast and loose with truth. Phenomenology is fundamentally data structured by insight, insight as ‘getting the point’, as a general structure of inquiry. It cannot reach backwards and grasp an unstructured data, because there is always the meditating ego there to make judgements.
+	We can conceptualize this immanence within a more general claim that Bernard Lonergan makes…
+
+	First, we must establish the normative claim of the epoche. Which is that the epoche is itself good, it reconciles disagreement. Therefore, ethical experience imbues every touch in the epoche. 
+	Lonergan: but he doesn’t really do this! He cannot account within himself for the truth of the epoche. Animal faith – but he leaves it untouched. 
+	So what are some concrete results of this?
+	How can we get out of the epoche? Well, it is unclear at the moment. But it must do an ethical self reflection. So in fact we cannot ever escape doubt, the principle mode of normativity. For when I come across something in which the normativity expresses itself, I doubt it. Any practice of the epoche can never merely accept what is given to it in experience. It must always continue to doubt by any ways necessary, to confront the normativity which is immanent to its every experience.
+	Max Scheler and the intuition of the ethical under the epoche: mere feeling. But the problem with this is that it still adheres to the problem of reproducing naivete within itself. And we need to be able to get out of it.
+
+	The normative claim of the epoche
+In every way
+	What is the normative claim of the epoche? 
+
+
+Is it so?
+What is the epoche? An attempt to account for everything.
+The ethical claim precedes the ontological. Every being which we experience is firstly experienced as a normative question. There is no mere “How does this appear to me” without the question of “Should it appear to me”. What is the normative criterion? The epoche remains itself naïve because it can’t account for its own ground.
+At every moment in which I confront the being which is given to me in experience, I am confronted with the normative force of why shall I do it? The epoche is a claim to truth. Husserl is suggesting that by turning inwards towards the things themselves we can really access things as they are. Therefore, there is a sort of normative claim in the epoche: that it leads towards the good, that it directs us away from misdirection, trivial disagreement, falsity. And in fact this normative claim imbues every experience under the epoche. But what is the ethical reality of this epoche? And how or why does that matter?
+The residual naivete of the epoche: it cannot account for its own normative claim, and this is a claim which is the prerequisite for the ontological claim to begin with. 
+Is there a kind of ethical abandonment in going into the epoche, consigning yourself to this state of immanence in which you can never fully get back to knowing the other, looking at the other as other, a shutting out of the other by entering the epoche, which makes you unresponsive in any sort of intelligible way, a reversion back to the natural attitude, but not as a philosophical grounded ethical position?
+In what sense does the ethical precede the ontological? 
+Immanent normativity of being as anticipating the good, which is going to be operative in even doing the epoche. Can’t shut off knowledge and such, and really push it. Kind of puts it in ethically scolding terms, cutting yourself from otherness, do you know why you are doing this, and is it worthwhile? What is the ethical purpose of this? Can it be done ethically? Maybe it needs to be modified to be made more expansive, to include the normativity which is behind the doing of it in the first place? Can you do an epoche / critical phenomenology which accounts for the desire to do the phenomenology in the first place, which is inescapably ethical, even if it is not of practical significance immediately, it has a larger ethical horizon in which it is located? Exploit Lonergan’s insistence on two things – naïve animal faith, which maybe you can successfully differentiate, from an ethic of responsibility. Why do the epoche? Is it worthwhile? Is it an ethical act to do this? Whatever we want to call it, epoche or not, it needs to be able to account for the norms in which it is undertaken in the first place. Phenomenology should account for everything that appears, including the appearance of the normative criterion set up in doing the epoche. Yeah – we are looking to account for the full range of phenomena which include the ethical immanent criterion which are present in taking the epoche, so perhaps the epoche is not enough for us to do phenomenology with, as presented by Husserl – ultimately ethical normativity and ethical self-transcendence, affirming the worthwhileness of the other as other. The epoche remains itself naïve because it can’t account for its own ground. STAY FOCUSED! Just stick with Husserl and his demand that he answer your question, and bring in Lonergan’s point. Playing fast and loose, not accounting for being ethically irresponsible, furthermore, not doing the proper phenomenology, failing to account for all the phenomena. 
+
 Ethical Chaos Under Husserlian Heaven: The Sartrean Break
 
 “Everything under heaven is in utter chaos; the situation is excellent.” 
