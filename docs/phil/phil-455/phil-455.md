@@ -1,21 +1,21 @@
 ---
 layout: default
-title: PHIL 407
+title: PHIL 455
 parent: Philosophy
-nav_order: 407
-permalink: /docs/phil/phil-407
+nav_order: 455
+permalink: /docs/phil/phil-455
 has_children: true
 ---
 
-# PHIL 407
+# PHIL 455
 
-International Justice
+Nature of Race and Racism
 {: .fs-6 .fw-300 }
 
 Jose Jorge Mendoza
 {: .label }
 
-Summer 2023
+Fall 2023
 {: .label .label-green }
 
 5 Credits

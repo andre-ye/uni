@@ -1,21 +1,21 @@
 ---
 layout: default
-title: PHIL 407
+title: PHIL 406
 parent: Philosophy
-nav_order: 407
-permalink: /docs/phil/phil-407
+nav_order: 406
+permalink: /docs/phil/phil-406
 has_children: true
 ---
 
-# PHIL 407
+# PHIL 406
 
-International Justice
+Philosophy of Feminism
 {: .fs-6 .fw-300 }
 
-Jose Jorge Mendoza
+Fourie
 {: .label }
 
-Summer 2023
+Fall 2023
 {: .label .label-green }
 
 5 Credits

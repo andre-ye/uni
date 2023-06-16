@@ -1,21 +1,21 @@
 ---
 layout: default
-title: PHIL 407
+title: PHIL 430
 parent: Philosophy
-nav_order: 407
-permalink: /docs/phil/phil-407
+nav_order: 430
+permalink: /docs/phil/phil-430
 has_children: true
 ---
 
-# PHIL 407
+# PHIL 430
 
-International Justice
+Hellenistic Philosophy
 {: .fs-6 .fw-300 }
 
-Jose Jorge Mendoza
+?
 {: .label }
 
-Summer 2023
+Fall 2023
 {: .label .label-green }
 
 5 Credits
