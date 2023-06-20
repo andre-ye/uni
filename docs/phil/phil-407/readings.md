@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading Notes
-parent: PHIL 458
+parent: PHIL 407
 grand_parent: Philosophy
 nav_order: 2
 ---
