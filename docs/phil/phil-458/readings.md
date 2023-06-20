@@ -6,7 +6,7 @@ grand_parent: Philosophy
 nav_order: 2
 ---
 
-# Lecture Notes
+# Reading Notes
 {: .no_toc }
 
 PHIL 458
