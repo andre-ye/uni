@@ -25,7 +25,7 @@ PHIL 407
 
 ---
 
-## Week 1 Tuesday: What is Justice?
+## Lecture 1: What is Justice?
 - We are reading from a very particular tradition of Western political philsophy, for good or for ill
 - At least potentially a difference between moral and political justice; doing what is moral and what is politically right; can come into tension
 - Is justice real? What does it mean to say that justice is real? Or is justice a convention, what we came together to decide what is real or not?
@@ -224,13 +224,113 @@ David Hume, 1711 - 1776
 - Hume's political aim: quell political factionalism (Torys, divien right; Whigs, parliamentarians)
 - Social contract theory has no basis in historical fact; governments are based on conquest, why would we believe that political legitimacy is based on universal reason. 
 
+---
 
+## Lecture 2: Deontology vs Consequentialism
 
+Immanuel Kant, 1724 - 1804
+- The hero of deontology
+- Kant: one major failing of all previous moral theories is that they are grounded on something external to the will -- e.g. happiness, divine perfection, instincts, etc.
+    - These are all heteronomy -- you are not the author of your own moral law
+- Autonomy -- favored by Kant, opposite of heteronomy
+- What we want is a moral theory where we give the laws to ourselves; consequences ofactions are irrelevant to morality
+- Morality is concerned only with the shining diamond, a good will
+- On Hume's account, people are driven to act solely by heteronomyous impulses (sentiments and tradition) -- Hume says that weare driven by our emotions, and reason is a slave to the passions; reason is just calculation
+- How do I best get to these things? Reason becomes a slave to the passions. -- Hume
+- Kant, something has gone wrong. This would make morality and justice impossible. You cannot have these things if youa re driven by your sentiment.
+- **For Kant, morality and justice are only possible if individuals are free to act in accordance with principles of reason and not driven to action by heteronymous impulses.** You have to be free to have done otherwise.
+- *pace* -- 'peace be with', in contradiction with
+- In order to have morality and justice, persons must be both rational and free.
+- Kant is concerned with cause and effect. Hume denies the rational justification of causality. 
+- In the phenomenal world, causality reigns; in the noumenal, where things are themselves, we don't know -- but this is where freedom exists.
+- Can you hold someone morally responsible if they could not have done otherwise.
+- We have to find morality in freedom.
+- Three propositions of morality
+    - In order for an action to have moral worth it must be done from duty
+        - Just having acted in the correct manner is not enough to call an action a moral act.
+    - An action from duty has its moral worth not in the purpose to be attained by it but in the maxim in accordance with which the action is decided upon: morality of action is based on the principle and not the effects it has. 
+        - Stealing is wrong because it is wrong and not because it has bad effects
+    - ...
+- Human will -- has ends, it has intentions -- not merely reactive.
+- Problems: there are no unquestionable examples of people who act strictly out of duty
+- Imperatives: commands of the will.  Imperatives are either hypothetical or categorical. 
+    - Hypothetical imperatives: means to an ends. If you want to get to the store, you must take the bus.
+    - Categorical imperatives: commands of reason, not of the will. You must not steal. They are done for themselves. Comes from the thing itself. The lifeguard ought to save drowning children, because that is part of being a lifeguard itself.
+- Moral imperatives must be categorical imperatives.; morality is based on categorical imperatives
+- First formulation of the categorical imperative: "act only ina ccordance with that maxim through which you can at the same time will that it become a universal law." Ask yourself, could that maxim become universal law? Must be applicable to all rational beings and not in contradiction with itself.
+- Question -- how are these duties different from something like Aristotelian virtue ethics.
+- Two kinds of ends: subjective (ends of hypothetical imperatives, conditional) and objective (ends of categorical imperatives, unconditional and absolute)
+- Second formulation: "act that you use humanity, whether in your own person or in the person of any other, always at the same time as an end, never merely as a means"
+- Rational nature is distinguihsed from the rest of nature by the fact that we set ends for ourselves.
+- Hypothetical imperative: Do not torture animals because you will go on to torture humans / be a bad person.
+- Kant is one of the founders of race -- race can justify slavery, different rationalities.
+- The end-in-itself is rational nature; an ability to set ends for itself
+- Respect for dignity is epitomized in a 'kingdom of ends'
+- Kant is starting to think that it's not just our family members, mebmers of our nation, etc. -- but all humans have dignity.
+    - Kingdom of ends -- a limitation of each person's freedom so that it is compatible with the freedom of everyone, insofar as this is possible in accord with a universal law. 
+    - Reason, freedom, and moral accountability are intimately related.
+    - To rule in a way in which a parent controls this child is despotism. 
+- Coming to the age of reason -- Enlightenment is man's emergence from his self-imposed immaturity. Immaturity is the inability to use one's understanding without guidance from another. This immaturity is self-imposed when its cause lies not in lack of understanding, but in lack of resolve and courage to use it without guidance from another."
+- Third formulation: act in accordance with maxims that can at the same time have as their object themselves as universal laws of nature. Acting in accordance with the moral law is not acting from an external standard, but in acting in accordance with a law we legislate to ourselves (autonomy) -- rational nature. 
+- When you give a law to yourself, it comes from without autonomy: you no longer have a parent imposing paternal law on you.
 
+The Story
+- SOical contract theorists: subjects are bound to respect a regime's authority when they consent to it in return for improvement over the state of nature
+- Hume's objection: social contract theory is a dangerous fiction, vicious circular reasoning. People start revolutions. 
+- Kant's reply: stop thinking about the social contract with this metaphysical baggage, but with reason: the social contract is a heuristic deivce, similar to the categorical imperative, whose function is to reveal to us our political rights and duties.
+    - Armchair theoriizing: we can see the obligations entailed from it as dictates of reason
+    - Ends up looking a lot like Rousseau
 
+Two ways of reading Kant
+- Utilitarian and commutarian
 
+Hellenistic Philosophy
+- Aristotle and St. Thoomas Aquinas
+- Epicureans: pleasure is the greatest good. 
+- Stoics: overcome your emotions. Pursue self-control. Kant is kind of a stoic. Utilitarianism is a revolt of the epicureans.
 
+Utilitarianism
+- Most influential moral doctrine in the English speaking world until about 1970.
+- Until 1971, when John Rawls decimates it (althouguh it's back now)
+- Presents itself as being objective, in the sense that we can all see the results and judge them.
+- It is a doctrine that appeals to us as we are and therefore can influence our actions
+- Utility-based, not rights-based
+- Value of something -- measurable utility (marginal utility)
 
+Return to Hume
+- Utilitarian objection to Kant: the notion of autonomy. Rises out of Humean skepticism towards most moral and political principles.
+- Hume's skpeticism: humans are creatures of habit, not reason; reason is the slave of the passions.
+- Humans are moved to act out of emotion and custom, not reason. 
+- Differences in thinking about autonomy: Kantian, you did not respect peoples' autonomy. You acted like a parent. You punish and you reward, treating people like children. Humean reply: But do people even have autonomy? Nah.
+- Utilitarian: we are all about consequences and figuring out what gets people to do the thing which needs to be done. 
+- Knowledge and rationality -- certain fetishism by Kant. Don't go to Kant if you want to be a social activist. Kant tells you what the morally right thing to do -- you'll have to do things which are inconsistent with autonomy.
 
+Jeremy Bentham (1748-1832)
+- Natural rights are nonsense upon stilts
+- Greatest happiness principle: act so that you can produce the greatest aggregate happiness for all sentient beings
 
+John Stuart Mill (1806-1873)
+- Unhappy with Hedonistic calculus: introduces lexically ordered goods
+- Mill does not dismiss notion of rights -- rights (rules) are based upon promotion of utility
+- Mill is Bentham's godson -- Bentham is "utterly mean and gorveling as a doctrine worthy only of swine"
+- The problem with utilitarian -- how to measure and classify
+- Mill's harm principle: the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant.
+
+Karl Marx (1818 - 1883)
+- Problems with capitalism: capitalism deforms and exploits workers; distorts reality; is becoming obselte
+- With Katn and the utilitarians, their political philosophy is based on their morality -- morality si what you grounds your politics
+- Marx: morality is a bourgeois concept -- it's very Rousseauan and Thrasymachian, always there to maintain the mode of production. Here to maintain the lord-serf relationship. 
+- Marx thinks he's being very scientific, and is making a host of moral claims which lie untouched. 
+- Marx expands Rousseau's inisght about unnatural inequalities
+- Kant and the utilitarians are very individualistic -- Marx is not so much communitarian as he is a structuralist: not only how structures have different outcomes -- you can't just put really good people into the ruling class; there will be certain outputs. Structures make you what you are. 
+- Realm of freedom -- what is freedom? Freedom begins only where labor determined by necessity and external expediency ends -- humans have been laboring just to survive. Moments of actual freedom are when we are not doing it for survival; these are the few moments of real freedom. Society should strive to have maximum freedom (leisure?)
+
+Marxist Criticism of Kant
+- Marx and Kant are in agreement that freedom requires a rational society and that in such a society people will be treated as ends in themselves. 
+- For Marx, people are not born fully formed, rational individuals -- they must begin so by freeing them from capitalist society. Communities shape individuals.
+- For Marx, societies based on exploitation and alienation inevitably produce deformed individuals -- individuals who cannot act in accordance with reason.
+- geist (Hegel): comes to know itself
+- A rational society must come first (a socialist society). For Marx, no socialism means no kingdom of ends.
+
+From Marx and Mills to Rawls
 
