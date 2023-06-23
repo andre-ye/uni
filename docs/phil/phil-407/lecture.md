@@ -332,5 +332,121 @@ Marxist Criticism of Kant
 - geist (Hegel): comes to know itself
 - A rational society must come first (a socialist society). For Marx, no socialism means no kingdom of ends.
 
+Peter Singer (1946)
+- We do not have to be superheroes in order to do a lot of good in the world
+- Doing a tremendous amount of good does not require that we put ourselves in jeopardy but we live in the right ways. 
+- Singer is going back to appealing to our moral intuitions to tell us how the political should look like
+- We have obligationss to folks who aren't part of our society
+- Singer is very individualistic -- you make donations, you do these things, etc.
+- You don't need to change the entire structure in the way Marx is talking about to do a lot of good.
+- We can talk about who is to blame, but even if you think you are not to blame, you still have moral duties to do things?
+- It should not matter how close I am to the person, and also it does not matter if there are many other people who can help me. 
+- Proximity -- if you think being based on proximity is wrong, then this is very tricky; you commit yourself to a lot of things. 
+- The problem of the commons -- am I less obliged to help if there are many other people who can help? Should I judge how much I should contribute given my cost?
+- Singer: you must do good, regardless of your intentions -- where do you put the moral weight -- being effective or wanting to do the right thing?
+- Singer is suspicious of structural accounts, not because he thinks they're worng, but because you get a cop out when you appeal to the structure. Each one of us can do a little bit of good. Very mcuh focusing on the individual.
+- 
+
 From Marx and Mills to Rawls
+
+---
+
+## Lecture 3: Peter Singer
+- 1946, Australian philosopher
+- Is a utilitarian, believes in effective altriusm
+- Individuals can do a lot of good in a global context, we just choose not to.
+- Trolley problem:
+    - On a trolley, if you pull a lever, the train switches tracks and kills one person instead of five. Do you pull the lever?
+    - Is inaction an action?
+    - Put the trolley problem together with the doctor's problem: you have five patients who need organ transplants, and you have a healthy patient who comes in for a checkup. Do you kill the healthy patient to save the five? Hippocratic oath and Kantian ethics say no. Is consent necessary?
+- Singer hates these setups, (as every good philosopher should)
+- No patience for trolley problems -- misunderstands what utilitarianism is about.
+- Trolley problem is posed as an objection against utilitarianism -- sacrifice someone if it maximizes the good. Phillipa Foot comes up with this: give you the trolley problem and it's supposed to be an easy one to illustrate what utilitarianism is so intuitively appealing. (Funny how it's become this sort of moral dilemma.) Singer: these things are bizarre. Utilitarians are saying you can sacrifice a little bit to go a long way. With global justice, you can do a tremendous amount of good.
+- We distinguish between duty and charity. For Kant you have obligations out of duty and of charity (beneficence -- makes you a good person, but you're not morally obligated to do so)
+- Impartiality by proximity and the size of others -- you can't use partiality as a means for not helping other folks. 
+- Duty vs charity
+- One objection: it implies that we morally ought to work full time to increase the balance of happiness over misery. But Singer says that we must retain enough capital for self-reproduction. 
+- Marx thinks he is giving you an economic system: capitalism, communism. Altogugh all political organizatinos have an economic base. It would be hard but possible to have a monarchy with a capitalist base. There are many folks who care about distributive justice -- how to you distribute the goods of society. Marx thinks that the outcome will have nice distributive justice but is focused at the level of production. Wat is important is that you make the working class a central figure. Peter Singer has a world that looks very Marxist but his point of emphasis will be closer towards consumption -- how you spend your money.
+    - Singer is trying to be a certain kind of realist
+    - Singer might say that he is not ideological -- able to choose any political interface, a sort of pragmatist
+- St. Augustine -- natural right for redistribution
+- Thinking globally vs thinking systemically. Other folks might point more locally. 
+- Free rider problem: we cannot have free riders vs. free riders are the 'cost of doing business' -- individual vs systemic viewws
+- What do we owe to all peolple?
+- If you don't pull the child out of the pond, you're not uncharitable, but a moral monster
+
+John Rawls, 1921 -- 2002
+- Easily oen of the most influential philosophers of the 20th century
+    - Maybe also Wittgenstein and Heidegger
+- After John Staurt Mill, utilitarianism took over, political philosophy took over, and most people were doing ethics
+- 1971 *A Theory of Justice*, response to utilitarianism. Already a backlash, but gives a political philosophy view
+- Three principles
+    - Take seriously the idea that political legitimacy depends on the consent of those ruled
+    - Respect basic liberties of individuals
+    - Account for excessive inequality and radicalism
+- The synthesis
+    - Hobbes and Hume are right: We ought to minimize risk. This is the central insight of Hobbes and Hume. 
+    - Locke is right: certain basic liberties are non-negotiable
+    - Marx is right: Gross inequality is a threat to both liberty and security
+    - Kant is right: the social contract is a heuristic device which reveals political rights and duties
+- Reflective equilibrium:
+    - Our principles should be based on principles, which coincide with our intuitions.
+    - We have an intuition that racism is wrong. If a law condones racism, then we need to see if it is because our laws are inconsistent with our principles. Otherwise, we need to either change our pirnciples or change our intuitions. 
+    - A difficult balance between principles and intuitions. It's a negotiation.
+    - Principles come out of your intuitions and kind of check your principles. 
+    - This is really how we operate: we have intuitions and principles that we like, and it's nice when they cohere. 
+    - Kind of a Kantian fetishism of reason which allows for principles to detach themselves from intuition
+    - We should constantly participate in the reflective equilibirum because it helps provide a check on our dogmatism
+    - Rawls is not talking about justice among your friends; he's talking about what the basic structure of society should look like
+- Basic structure: the way in which major social institutions distribute fundamental rights and duties and determine the division of advantages from social cooperation. How do we allocate advantages to particular people? So how should we set it up?
+- The Original Position is Rawls' state of nature -- no metaphysical baggage, no lions and tigers and shit; trying to generate the idea of fairness -- what rules you choose for the game before you start playing. You can't **retroactively write the rules of the game you're in once you play it.**
+- Criticism -- Rawls assumes that most of us are risk averse. You don't want to set up society so that 1% of people have 99% of the wealth. You wouldn't want that because it's irrational. (We can borrow from utilitarian game theory for this.) Some folks are super risk-averse, but we are ignoring those.
+- Two principles (first has priority over the second):
+    - Liberty principle: everyone should have the same basic and non-negotiable liberties: freedom of religion, association, speech, the right to vote, hold public office, etc. All the things Lockeans put forth. You don't know if you are or aren't religious. In a sense, it is very anti-utilitarian and pro-civil rights. About individuals and minimum protections
+    - Difference principle: responding to the problem of inequality raised by Rousseau and Marx. Not a principle of redress. Can have the function of redressing past injustices, bu t it is not a principle of reparations. Expresses a conception of mutual reciprocity. Focused on distribution, not production. We have the stuff, how do we distribute it. We can't have perfect equality. But we have to make the least well off better off.
+        - Reaganite trickle-down economics?
+        - It's not that inequalities themselves are the issues, but that it keeps certain people below a threshold.
+        - Kind of nodding his head at Rousseau and Marx, but not really.
+        - Whatever inequalities which exist need to benefit the worst off -- also nodding to Locke, certain people are born with natural endowments which make them better off. 
+        - What worries Nozick is that what an effort towards equality becomes a sort of brutish leveling
+        - Natural endowments are not earned. Rawls' brother died from a respiratory illness Rawls gave to him, he just had a better immune system. Even things like natural endowments are arbitrary from a moral point of view. This is why somethig like the difference principle is the best compromise. Folks have natural endowments -- keep them from dominating other folks in society. The difference principle gives you the best of both worlds, between the Marxist and the libertarian view.
+        - How much obligation do we have to develop natural endowments?
+- A criticism of the move of the veil: what kind of episteme do you need to even start out with the veil? 
+- The ghost of the subject remains in the original position. You can't get rid of the subject.
+- In deciding that we must write the rules of the game before we play the game (i.e. to rid ourselves of subjectivity), Rawls has already written the rules of a different game after he has started playing that game. He has laready valued a certain kind of disemobided view from nowhere. 
+
+Charles Beitz (1949)
+- Rawls is talking about social justice, which is mainly domestic justice
+- Charles Beitz, comes along and is moved by Rawls, but what does this say about international justice?
+- By the time Rawls ends *A Theory of Justice*, ...
+- Rawls is very smart but trying to find principles of justice and feel she has to set the boundary somewhere to do theorizing. What do we do for global justice, though?
+- Rawls: one can extend the interpretation of the original position and think of the parties as different nations who need to choose the fundamental principles to adjudicate conflicting claims among states. Rawls: you'd have similar stuff, basic minimal ideas the same for countries as in the original position between individuals in a state.
+- Some issues: Rawls assumes that nation-states are self-sufficient, which neglects issues of natural resources. Very ideal theory. With ideal theory you can critique it on its own grounds, or you can go the nonideal route. 
+- Even if we stick with ideal theory, different nation-states have different natural resources. These look a lot like natural talents; you have them, but you didn't really earn them, so you need to factor them into the difference principle. 
+- Rawls is resistant to a global difference principle. Rawls does not think we should have a global distributive system. Because stratres are self-sufficient. When things are self-sufficient, you don't have a scheme of cooperation. On the other hand people within a nation need cooperation. All the advantages that arise in societies are not schemes of mutual cooperation. Different countries need resources even for domestic justice.
+- From a nonideal perspective, nation-states are not self-sufficient: they have different international relations. 
+- Big question -- what is unique about global justice and relations?
+- Contractarian principles usually rest on the relations in which people stand in a national community united by common acceptance of a conception of justice. It is not obvious that these contractarian principles (the Contract) holds up across different nations.
+- Is the current global system interdependent? If so, can we apply Rawls' two principles of domestic society? This is a very radical ideal.
+- Under the international veil of ignorance:
+    - We want freedom of movement. I should be able to move. Or should I? Cultural appropriation, etc.
+- Rawls doesn't like this: don't use the original position for the globe.
+- What causes people to move. 
+- Hobbes is laughing: there is no centralized authority in the international system. 
+- Are soceities autarkic (self-contained) in which international justice is a non-issue? Can we even have international justice? We're very good at developing domestic justice, but we don't have a good way in the international realm to develop a conception of justice.
+- Is it really true that there is no centralized authority internationally vs domestically, if not formally politically but latently?
+- When Rawls eventually does talk about international justice, he talks about peoples, not states.
+- Do the utilitarians end up winning? Singer didn't even talk about states. Beitz wants to say -- there's a sense in which we still have states, but the relationships / structures that create inequality now go beyond states. We have multinational actors going beyond states. Less pragmatic and wants to see if we could use something like the global original position not because we're going to get practical solutions but that we could at least get principles of justice so we could say what would a just world look like? Liberty principle: protect human rights, protect and fulfill human rights of those in your territory. Difference principle: structures of trade which benefit the states that are thre least well off. 
+- Some loosening of the liberty principle, but you can extend the original principle to the international level, and in doing so you get principles of justice, but they don't necessarily map out how to get global justice.
+- Beitz engages in some sort of ideal world: before you try to fix the world, ask what fixed means
+- Formal colonization is over, but are we living in a more just world?
+    - How are the advantages distributed?
+    - Are the people who pulled out the rare earth metals to make our phones better or worse off? Beitz thinks they're worse off.
+- Singer might say this is why we shouldn't purchase computers and iphones, etc. Beitz wants to figrue out how we make inequalities benefit the least worse off. Less programmatic, which can be somewhat problematic. 
+
+
+
+
+
+
 

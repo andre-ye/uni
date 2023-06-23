@@ -71,4 +71,76 @@ Reasoning
 - It is ok to reason forward from a precondition and backwards from a postcondition
 - Forward reasoning can fail if applied blindly. You need to consider that values can be changed. Can use subscripts to represent different values.
 
+---
+
+## Lecture 2: Reasoning about loops
+- Hoare and Floyd: how do I tell if my code is running correctly? You can use a Hoare triple, I can tell you if your code is correct given this specification.
+- Forward reasoning: start with given precondition, fill in strongest postcondition
+    - Need to enforce simplifications
+- Backward reasoning: start with required postcondition, fill in weakest precondition
+    - Only use subsitutions
+
+| Forward | given precondition | strongest postcondition |
+| Backward | given postcondition | weakest precondition |
+
+- To enforce validity:
+    - Forward, show the strongest postcondition implies the given postcondition
+    - Backward, show the precondition implies the weakest precondition
+    - Make sure top implies bottom
+- Conditionals
+    - Inside both branches, consider $$P \wedge \text{cond}$$
+    - We need to show that whichever branch we go towards satisfies the postcondition.
+    - Backwards reasoning, though: cond and Q1 or cond and Q2.
+- All code can be written with assignment, conditionsl, and loops
+- It's not possible to do loop reasoning with = and if because of Rice's theorem: chcecking any non-trivial semantic property about programs is undecidable. We need more help -- we need a loop invariant to reason about this.
+    - Correctness is a nontrivial semantic property of programs
+- Loop invariants can help us reason -- an assertion that holds whenever the loop condition is evaluated
+    - Holds when we first get to the loop
+    - Holds each time we execute the loop body and come back to the top
+
+```
+{{ Inv }}
+while (cond) {
+    {{ Inv and cond }}
+    S1
+    {{ ... }}
+    S2
+    {{ Inv and ... }}
+}
+{{ Inv and not cond}}
+```
+
+```
+{{ }}
+s = 0;
+i = 0;
+{{ Inv: s = b[0] + ... + b[i-1]}}
+while (i != n) {
+    s = s + b[i];
+    i = i + 1;
+}
+{{ s = b[0] + ... + b[n-1] }}
+```
+
+Three checks
+```
+(s = 0 and i = 0) implies I
+{{ I and i != n }} S {{ I }}
+{{ I and i = n }} implies Q
+```
+
+- We haven't argued that the code terminates
+- You can combine forward and backward reasoning as long as you check top implies bottom when two directions meet.
+- Loop invariants are crucial infromation, they represent the geist of the loop -- need to be provided before mechanical reasoning.
+- With a good loop invariant, code is easy to write.
+
+
+
+
+
+
+
+
+
+
 
