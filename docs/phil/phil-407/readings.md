@@ -86,8 +86,101 @@ II: Natural Resources
 III
 - So far, assumed that nations are self-sufficient cooperative schemes, but this is empirically untrue.
 
+IV
+
+
 AI Provided Summary
 - Section I: The author introduces the question of global justice and criticizes Rawls’ theory of justice for neglecting it. He argues that Rawls’ two principles of justice, which apply to domestic societies, do not adequately address the issues of international justice, such as the distribution of natural resources and the effects of economic interdependence. He suggests that Rawls’ brief remarks on the law of nations, which are based on a hypothetical international original position, are incomplete and unrealistic. He proposes to extend and modify Rawls’ theory to account for the moral implications of global social cooperation.
 - Section II: The author reviews Rawls’ discussion of international justice and shows that it makes sense only on the empirical assumption that nation-states are self-sufficient. He then challenges this assumption and shows that it neglects certain problems about natural resources. He claims that the natural distribution of resources is morally arbitrary and requires redistribution under a resource redistribution principle. He compares this principle to the difference principle and the just savings principle in domestic societies.
 - Section III: The author questions the empirical foundation of the self-sufficiency assumption and sketches the consequences for Rawlsian ideal theory of abandoning it. He argues that evidence of global economic and political interdependence shows the existence of a global scheme of social cooperation, which requires global principles of justice. He suggests that Rawls’ own two principles, suitably reinterpreted, could themselves be applied globally. He explains how the original position would be modified to reflect the global scope of social cooperation.
 - Section IV: The author explores the relation of an ideal theory of international justice to some representative problems of politics in the nonideal world. He discusses how global principles would apply to cases involving unjust wars, human rights violations, foreign aid, and resource conservation. He acknowledges some difficulties and limitations of his approach and calls for further inquiry into the question of global justice.
+
+---
+
+## "Humanity and Justice in Global Perspective", Brian Barry (1982)
+
+Three theses
+- Considerations of humanity require rich countries to give aid to poor ones
+- Considerations of justice require transfers from rich countries to poor ones
+- Aid vs transfer: obligations imposed by humanity and justice are different, although not incompatible.
+
+Humanity
+- What would it mean to act in a humane way? A human act is beneficient.
+- humanity -- the relief of distress.
+- Three questions:
+  1. Is it morally obligatory to behave humanely, or simply laudable?
+  2. What implications does moral obligations have for the distribution of resources?
+  3. On what criterion do we determine how much rich countries should give to poor ones?
+- Indeed, there are duties of humanity (e.g. save the drowning child).
+- Does the drowning child extent to international aid? Yes
+  - Countries are responsible for their economic problems. But this does not mean that we should not help them, even if it is true, which it is likely not. 
+  - SInger: neither proximity nor number of rescuers matters. Some objections: well proximity is just infeasible. But we should not contract the sphere of opertion because we can't do anything. Or maybe presence of other rescuers does matter. But if the child dorwns because none of the potential rescuers save it, all of them are morally responsible.
+  - Argument of bureaucratic inefficiency: there will be a lot of waste. But what is left over will help a non-negliglbe amount. 
+  - Neo-Malthusian argument: only effect is to lead to population increase and more suffering. But empriically this is not true.
+  - Ideological and political dogmas can change, and we should not be under the illusion that they cannot (and hide behind it to withhold giving aid).
+- How much aid is required?
+  - One is obliged to help up to a point in which one sacrifices somehting of "comparable moral importance" -- maximizing consequentialism.
+  - But do we really have an obligation to maximize the total amount of good in the universe?
+  - There is no firm criterion for how much sacrifice is required. But there is a greater obligation the more severe the distress.
+  - Kind of 'you know when you see it' answer as far as I estimate
+
+Justice
+- We should not expect to get a blueprint for a good society from a conception of justice.
+- Obligation is not derived from justice
+- Justice is a set of reasons why people may have duties to one another and institutions
+- Justice as reciprocity
+  - Justice as fidelity: keeping faith
+  - Justice as requital: fair return / exchange
+  - Jusitce as fair play: one should not be a free rider by taking the benefits. One can use the principle of fair play to rescue the drowning child without commiting oneself to a universal obligation of rescue. 
+- Drowning child case is overdetermined when duty of fair play underwrites rescue: reinfrocement between humanity, fidelity and fiar play. 
+  - Obligations to humanity do not depend on consdierations of reciprocity
+- This is the Rawlsian entrance: society is a scheme of social cooperation from which we get the concepts of justice; but it only generates whatever its cooperative practices justice. Rawls can only say that a society suffers from collective irrationality but cannot cannot show a society is unjust.
+- Charles Beitz argues for the global difference principle.
+  - One cannot use a cooperative scheme to argue that it is unfair not to have more cooperation
+  - The whole world does not constitute necessarily a single cooperative partnership
+  - International redistribution does not necessarily help both rich and poor countries.
+- Does trade constitute a cooperative scheme? Trade does not give rise to the duties of fair play per se -- it must be that public goods are collectively enjoyed. But there is no sort of shared unitization from trade.
+  - Trade is, however, the rudimentary organs of international cooperation
+  - Is there mutual beneficiality? Redistribution on the insurance principle has little appeal for rich countries
+- Justice as Equal Rights
+  - HLA Hart: are there any natural rights? Speical rights must presuppose general rights
+  - Just as reciprocity needs rights to be assigned already.
+  - The question is the initial injustice of rights.
+  - The 'pre-predicative' distribution of rights is equal.
+- The equality principle can be exploited by first-world countries to take third world countries'resources
+- International institutions
+  - Perfect Humean equilibrium: existence of redistributive institutions, beliefs on the legitimacy of redistribution -- organize each other.
+  - The public sets the very terms of the conversation. (hmm... what is he really saying here?)
+- International Taxation (24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
