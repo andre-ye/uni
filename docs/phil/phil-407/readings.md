@@ -85,9 +85,27 @@ II: Natural Resources
 
 III
 - So far, assumed that nations are self-sufficient cooperative schemes, but this is empirically untrue.
+- Capital surpluses are reinvested in conditiosn which promise the highest yield. Value created in one part of the world benefits a richer part of the world.
+- Poor countries lose political economy
+- Economic interdependence involves largely nonvoluntary relationships
+- National boundaries are not the outer limits of social cooperation -- this is empirically true.
+- So do national boundaries have any fundametnal moral significance?
+- National societies can no longer be viewed as ultimate
+- Objections to Rawls applied at the global level seem not to hold up.
+- Relations between nations appear more voluntary than relations between citizens in a state.
 
 IV
+- Rawls' derivation of principles of justice for the law of nations is incomplete -- neglected resource redistribution
+- The self-sufficiency assumption is empricially unsupported.
+- A state-centered image of the world loses its normative relevance in a globally economically interdependent world.
+- What relevance do social ideals have for politics in the real world?
+- Rawls: the natural duty of justice
+- Ideal theory gives us criteria for formualting strategies of political action in the nonideal world
+- In the nonideal world, the natural duty of justice may conflict with other duties
+- Nonintervention vs commitment to protection of civil rights
+- The contract doctrine can help us more from statist to global understandings of international justice
 
+> For purposes of moral choice, we must, instead, regard the world from the perspective of an original position from which matters of national citizenship are excluded by an extended veil of ignorance
 
 AI Provided Summary
 - Section I: The author introduces the question of global justice and criticizes Rawls’ theory of justice for neglecting it. He argues that Rawls’ two principles of justice, which apply to domestic societies, do not adequately address the issues of international justice, such as the distribution of natural resources and the effects of economic interdependence. He suggests that Rawls’ brief remarks on the law of nations, which are based on a hypothetical international original position, are incomplete and unrealistic. He proposes to extend and modify Rawls’ theory to account for the moral implications of global social cooperation.
@@ -152,13 +170,34 @@ Justice
   - Perfect Humean equilibrium: existence of redistributive institutions, beliefs on the legitimacy of redistribution -- organize each other.
   - The public sets the very terms of the conversation. (hmm... what is he really saying here?)
 - International Taxation (24)
+  - Two alternative approaches to a taxation scheme:
+    - base taxes on both humanitarian and justice grounds
+    - have comprehensive taxes and distribute proceeds among poor countries
+  - Tax governments of rich countries and distribute to poor countries
+  - GNP reflects use of irreplacable natural resources
+  - Taxes not related to some aspect of justice should be rejected -- it's too arbitrary. This money should go straight to poor countries
 
-
-
-
-
-
-
+The Relations Between Humanity and Justice
+- Both humanity and justice require a substantial expansion in the scale of economic transfers
+- Rationales are different, and so are practical implications.
+- Rights and goals. Obligations of humanity are goal-based (aggregative); obligations of justice are rights-based (distributive)
+- Humanity directs us to relieve suffering where it occurs -- concerned with well-being and fulfillment.
+- Justice is concerned with the good and the bad states, and what responsibilities we have towards the former.
+  - Subject matter: distribution of control over material resources
+- Humanity is a question of doing good; justice is a question of power
+- What is the difference between distribution of *stuff* against *welfare*?
+- Justice is concerned with materials which support the material means of well-being.
+  - Is justice then concerned with the goal of well-being? Is justice a derivative principle?
+  - Two questions: What is the deployment of resources to promote happiness and reduce misery? What is the ethically defensible basis for allocating control over resources?
+- Rich countries concede a humanitarian obligation to assist poor countries.
+- Even with humanitarian aid, there is a division between donor countries free to spend 'their' incomes; donee countries must be 'responsible'
+- Justice consideration transfers: reduce the resources of one set of countries, and add it to another set. So it is more about redistribution than anything -- about the power to even decide what humanitarian goals even mean for that country.
+- If resources are justly owed to a country, then they are that country's, period.
+- A world with an international authority which allows countries to keep income which is justly distributed internally rejects principles of national autonomy.
+- The price of autonomy is the permission of waste.
+- However we cannot have autonomy for some and Marxist supervision for tohers -- that would not be just.
+- We cannot talk about humanity unless we have a baseline set by justice.  
+- The need for humanitarian aid is reduced in a world which has a basically just international distribtuion.
 
 
 
