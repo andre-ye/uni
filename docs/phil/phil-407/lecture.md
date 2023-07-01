@@ -444,9 +444,268 @@ Charles Beitz (1949)
     - Are the people who pulled out the rare earth metals to make our phones better or worse off? Beitz thinks they're worse off.
 - Singer might say this is why we shouldn't purchase computers and iphones, etc. Beitz wants to figrue out how we make inequalities benefit the least worse off. Less programmatic, which can be somewhat problematic. 
 
+---
+
+## Lecture 4: Brian Barry
+- Brian Barry (1936-2009), professor at Columbia University and London School of Economics
+- Brian Barry could have been Rawls
+- Merging political science with analytic political philosophy
+- The three questions
+    - Is it morally obligatory to behave humanely, or simply laudable?
+    - If it is morally obligatory, what implications does it have, if any, for the obligations of rich countries to aid poor ones?
+    - On what criterion can we determine how much sacrifice the rich countries should be prepared to make?
+- Humanity: some duties of humanity exist. If you don't have to do much, there is some sort of an obligation. You are morally obligated to have done that
+- Why might the drowning child not apply to international aid?
+    - The child is not responsible for their plight, but it seems countries are responsible for their problems. 
+    - Maybe we should bite the bullet. What if the child is just an idiot? Do you get what you deserve?
+    - Mayb eI have a narrow bound, I only need to rescue people in a narrow reach -- otherwise it becomes too demanding and we don't do anything.
+    - Response: well surely we should still do seomthing
+- Barry: in general we are always seeking for ways to not to our moral duty.
+- Barry's move: you agree ith th edrowning child? Yeah? Can you maek the analogy to the international level? Yes (although here are three objections
+- The rich have some obligation on humanitarian grounds -- how much sacrifice is required? Problem of the obligation of humanity in general, not just particular to the international context. Although we don't know exactly, you may suffer a fair amount of inconvenience.
+
+C. D. Broad
+- It is impossible to determine the exact change in threshold, but we can state upper and lower limits which are not too far apart.
+
+John Passmore
+- At this point, we have a principle of humanity but not talk ed about justice.
+- Bracketed justice so far but now talking about justice
+- Philosophy of language
+- Are we not trying to pack too much into the concept of justice and the correlative concept of rights? Is it wrong to act in certain ways is not the same question as whether it is unjust so to act.
+- We need to be very precise about what justice is so that it keeps its force. We can't just use everything and call it an injustice.
+- not paying back a parking ticket of rparking in a disabled spot is an example of justice but not humanitarianism 
+- We'll leave it as two separate spheres: humanitarianism and justice
+- Everyone has someone to say about Rawls -- they claim they are not Rawlsians, but they are Rawlsian
+- Analytic philosophers, kill the master -- they're all Rawlsians but they all go after that guy
+- Rawls views justice as reciprocity    
+    - Justice as fidelity: honoring contracts -- conservative view of reciprocity, you're supposed to do what is expected of you. I break certain norms, I put a gun to your head and force you to do shit
+    - Justice as requital: far return, beyond contracts. Not cheating anybody. Are you being fair in your pricing.
+    - Justice as fair play (Barry likes): If one benefits from some cooperative practice, one should not take benefits while failing to do their part.
+- Those who benefit the most from society are the real free riders, 
+- Rawls has oneo f the better systems of justice: not justice as fidelity or requital necessarily, but just meeting the bar of justice as fidelity isn't really enough. Doing what's expected of you perpetuates domination. Justice as requital -- give people market price. Justice as fair play: everyone has to do their part in the scheme. 
+- Can we understand the drowning child case as a case of justice and not mere humanitarianism?Maybe we have an unarticulated assumption that the child belongs to our community; maybe 
+- Rawls: we should think of justice as fairness. At first it seems obvious, but what Rawls wants to have is a notion of justice in which competing notions of the Good can fit. We often conflate justice as our conception of the Good, but justice is broader. Overlapping consensus.
+- Hume tries to give you a moral psychology
+- Reciprocity in the proper sense is justice.
+- Fidelity, requital, fair play -- each one backs off the next one, maybe even a sort of Hegelian sequence?
+- Fair play interpretation: how do you explain the drowning child? there are unarticulated contextual assumptions and norms in that community calling for low-cast rescue if we ever find ourselves in need of rescue.
+- Beitz extends the difference principle because the network of international trade is extensive enough to draw all countries into a cooperative scheme. 
+- Beitz: we have a community, a scheme, etc.
+- Barry's revolt (even though he is more left-wing than Beitz) -- trade does not constitute a cooperative scheme of the relevant kind
+- A society is a scheme of social cooperation, we can generate principles of justice.
+- Beitz is saying we should redo the scheme, but that doesn't make it unjust -- you can't make the scheme more extensive. 
+- Barry: the world doesn't constitute a single cooperative partnership in the required sense.
+- Reparations justice?
+- Colonialism: not that people are entering a scheme, but that you are taking your stuff: justice is not justice as fair play, but as restorative justice.
+- Weaponization of the scheme
+- The scheme has norms baked into it but because the powerful use fidelity or requital to benefit themselves, not fair play, etc. 
+- This is why Rawls says we can't take the DP global: is there is a scheme?
+- Schemes are quasi-insurance schemes
+- Barry -- there are relations between schemes, but these relations do not constitute a scheme. 
+- We are not concerned with improving the benefits of rich countries per se
+
+Justice as Equal Rights
+- General rights are anterior to special rights.
+- General rights are human rights
+- Special rights are products of special schemes
+- We came up with a little scheme
+- General rights come before special rights -- lexical priority matters
+- Justice as reciprocity needs a prior assignment of rights before it can get off the ground -- even if it failed, we can fall back upon this idea of justiceas equal rights.
+- Natural resources fit requirements for being the subjects of general rights, not special rights, so everyone has an equal right to enjoy these benefits. This is a very old idea, even Lockean. 
+- However, treating natural resources as collective international property seems like a reintroduction of colonialism.
+- If third world countries control their own resources, let them. Here is where we can get the idea of restorative justice.
+- Someone must have done something to get a special right.
+- Libertarians leave Barry here: just becuase you inherit something odesn't mean that you don't have it anymore
+- Questions of property: at some point claims of inheritance become part of common heritage
+- What is the sort of theory of property being espoused here?
+- Hume's moral psychology: if someone kills your brother, you don't forget it -- people kill people and that sticks with them, resentment lingers -- if you're used to following authority and it works fine, then it works fine and follow it.
+- For Barry, it's not about getting everything back to its right place, but what reason to we have to radically redistribute. 
+- International INstitutions, INternational Taxation -- we need to create the scheme to make decisions and carry them out.
+- Reformist-progressive, not radical; redistribute proceeds among poor countries
+
+- We started with the humanitarians, now starting on justice: justice as fair play isn't going to get us the smame kind of redistributino as with singer, but if we have justice as equal rights, that would justify a lot of redistribution..
+- The tax has to be progressive, not regressive.
+- Treat international distribution as charity but domestic justice as duty
 
 
+----
 
+## Lecture 5: Brian Barry and Goodwin
+- Brian Berry, essay comes after questions on how to take justice -- everyone is a Rawlsian; Barry is an egalitarian liberal, many problems we face are a problem of not having equal opportunity
+- Prof Wirts: if it's morally obligatory, you're talking about justice.
+- Barry comes out of tradition of philosophy of language where we want to be very clear and if there is a distinction to be made, then let's make it
+- I don't need such a heavy duty weapon as justice to pull the drowning child out of the pond.
+- Passmore: a thin notion of justice, let's not pack too much into the concept of justice. We can say some things are wrong without saying that they are necessarily injustices.
+- Justice as fidelity (follow contracts), justice as requital (contract has to be fair), justice as fair play (it's ok to require more from people, depending on the distribution of goods)
+- Recast the drowning child problem -- but now it looks very weird. You pull the child out of the pond because we have an expectation that I could drown and someone wants to pull me out. It doesn't seem to work.
+- Cooperative schemes don't need to be extensive -- you owe some things, but not as many things; the world does not constitute a single cooperative partnership; a scheme of international redistribution cannot plausibly be advantageous to rich countries.
+- Justice as equal rights. General rights are prior to speical rights -- justice as reciprocity needs a prior assignment of rights before it can get off the ground.
+- Natural resources fit all the requirements for being subjects of a general right, and everyone has an equal right to enjoy their benefits. 
+- Inheritance is used to justify lineage of resource property. But also, with time, **inheritance becomes part of common heritage**; claims to inheritance **attenuate**
+- For Barry, justice is about symbolism and power, truth and reconciliation -- you have to recognize what happened was bad -- power of control
+- Consequentialism + humanitarianism; Kantian + Rawlsian + liberals + rights-based.
+- Humanity is a question of doing good; justice is a question of power, power as in control, autonomy, self-determination. I am the author of my own destiny.
+- Power -- allows for differing natures of the good
+- Paternalism
+- Who decides what promoting happiness and reducing misery is? What is the concept of the good? The downside of paternalism is that you can't use parental authority to control your child. Justice requires you to take your hands off.
+- Humanitarian view: donor countries
+- International vs domestic institution funding -- should there by a difference by justice?
+- International institutions
+- To talk about what I ought to do with what is mind makes no sense until we've established what is mine in the first place.
+- We cannot talk about humanity unless we have a baseline set by justice.
+- Roger Nett (1921 - 2011)
+    - "The Civil Right We Are Not Ready Fo: The Right of Free Movement of People on the Face of the Earth", 1971
+    - Part of a basic debate about what are human rights, basic rights, civil rights?
+    - The right to free movement is a civil right
+- What is the aim of morality's scope?
+    - Universalism: everyone and everything should be captured under our moral scope. Kant is a moral universalist. 
+        - Liberalism tends towards universalism
+        - General duties -- we have a broad, possibly infinite set of duties. It just keeps on growing.
+    - Particularism: our unbounded community
+        - Limit the scope to a bounded community. There ways in which universalists and particularists can extend rights to the same set of people. 
+        - Special duties: we owe some things to certain people that we do not owe to everyone.
+        - Communitarians tend to be particularists.
+        - Global communitarianism? Singer
+    - The question is if the movement was out (universalist) or inwards (particularist)
+    - General duties tend to trump special duties
+    - Special duties, for liberals, tend to come out of contracts.
+    - Maybe there is someone specific who is supposed to save the child. 
+    - Universalists tend to promote impartiality
+    - Hume -- all morality is based in sentiment. Partiality is the source of this -- it's descriptive, this is what motivates you to do the good thing.
+    - Particularism has different positive or negative sources.
+    - Maybe a defense of particularism: we are always particualr, standpoint epistemology, so it's actually in bad fatih to pretend to be universalist.
+- Michael Walzer, communitarian response to Rawls: all liberals care about distributive justice, but -- how is that group constituted?
+- Hannah Arendt: the rights to have rights
+- What we do with regard to membership structures all our other distributive choices: it determines with whom we make those choices, from whom we require obedience and collect taxes, to whom we allocate goods and services. 
+- If you demand things from people, you have to give them other things
+- Global libertarianism -- anarchy; global socialism -- one world government. Without those two, distributive justice presupposes a bounded world in which distributions take place.
+- A group of people committed to dividing, exchanging, and sharing soical goods, avoiding sharing power with anyone else.
+- Admission and exclusion are at the core of communal independence; that is what the meaning of self-determination is.
+- Seattle doesn't have an independence from Washington D. C.
+- Walzer, we do have an obligation to mutual aid, but not for justice
+- Joseph Carens, 84 ish but gets published in 87
+    - Borders have guards and guards have guns
+    - When someone points a gun at you and tells you to go away, that's coercion.
+    - What justifies the use of people against ordinary and peaceful people?
+    - On what moral grounds can liberals keep people out?
+    - You can be a libertarian liberal, a Kantian-Rawlsian egalitarian liberal, or utilitarian liberal -- all part of the liberal family and tend to universalize.
+    - What do libertarians say about open borders? You cannot violate liberty of association.
+    - We have to go global, what do Rawlsians say? We don't know about place of birth or membership in one particular society rather than another.
+    - State sovereignty is morally constrained by principles of justice
+    - Rawls is already mad: principle principle doesn't apply globally. Carens says stfu.
+    - Under the original position, freedom of movement is a basic liberty which people should have
+    - Utilitarian -- "aliens" have to count too. So a utilitarian cannot be in favor of closed borders.
+- Objections
+    - Liberal theories cannot deal with non-citizens. Roger Nett: let's historicize this.
+    - Only illustrates the inadequacy of liberal theory -- should we all become particularist communitarians?
+- Robert E. Goodin, 1950
+    - A liberal who thinks that the it is wrong to give priority claims to our compatriots.
+    - But boundaries matter
+    - We have special responsibilities for and should give priority to compatriots as the best way of discharging general duties.
 
+---
 
+## Lecture 6: Robert E. Goodin
+- Utilitarians and Kantians agree that moral principles and moral agents should be universalized; everyone should be treated the same.
+- Polymarchian view is bad
+- The issue is that we ordinarily acknowledge various special duties
+- Randomness can be fair
+- When reflecting upon the case of compatriots, most people think that sometimes we're supposed to be more scrupulous in our treatment of nonnationals than in our treatment of known compatriots
+    - We cannot take away foreign property.
+    - We cannot dam or divert rivers flowing across international boudnaries... etc.
+- Standard explanations for this phenomenon
+    - Special relationships magnify preexisting moral duties
+        - It is wrong to let people starve, but it is especially wrong to let our kin and compatriots starve
+        - Magnification must be symmetrical in positive and negative directions
+        - But in examples, we don't see the same kind of magnification w.r.t. negative duties.
+        - However magnification isn't really carried out wholly
+        - If anything, our negative duties towards nonnationals (rather than compatriots) are magnified.
+    - Special relationships multiply preexisting moral duties
+        - Contracts come in: you have no rigtht o inhabit a room in my house, but I am duty-bound if we sign a lease
+        - Multiplication produces more new duties in each new direction
+        - Reduction of negative duties
+        - Special relationships tend to have a tendency to strengthen positive duties while weakening negative ones. (!!!)
+    - Speical reltionships are the product of a mutual-benefit soceity, which strengthen and weaken preexisting moral duties
+        - This view is a competitor -- it can eactually explain what is happening pretty well.
+        - It is permissible to impose hardships if some positive good comes of doing so
+        - You give up some of your freedoms for a collective good
+        - Those outside of our mutual benefit society do not bear any of our burdens but also do not have claim to the benefits we produced for ourselves
+        - A version of this Rawlsian view of a cooperative scheme for mutual benefit
+        - Mutual-benefit soceity logic requires that people's benefits from society be proportional to the contributions they have made to the production of those benefits.
+        - So who is inside the club and who is outside it?
+        - Insurance schemes
+        - Resident aliens are often net contributors to society, but are denied its full benefits.
+        - There are people which you want to exclude but the logic says you should, but there are people who you want to include but the logic says you shouldn't
+- Assigned Responsibility model
+    - Brings together the universalist and the particularist
+    - Special duties are merely devices whereby general duties get assigned to particular agents
+    - General duties are pursued more effectively if they are subdivided and particular people are assgiend special responsibility for particular parts of the general duty
+    - Families are essentially social operations
+    - National boundaries perform the same function: statesa re assigned for special responsibility and for protecting and promoting the interests of their citizens
+    - States are like lifeguards, a doctor that has been assigned to you, what they are supposed to be
+- The useless and the helpless: states have to deal with them, regardless of whether they are a net benefit or not
+- Boundaries and the distribution of resources -- special responsibilities are a mere administrative device, should be asigned to agents capable of discharging them effectively; sufficient resources should be given so each state agent can effectively discharge those responsibilities
+- Does a commitment to respecting state sovereignty require one to be a particularist?
+- Is it possible to say that we do not have special duties to our conationals without falling into an open borders position? i.e. can we be universalists without being cosmopolitans?
+- Miller -- one of the smartest nationalists in Mendoza's opinion
+- Pogge -- the arch-cosmipolitan
+- If ywe just stick with negative duties, rich countries owe a huge amount to the Global South
+- Universalists tend to be cosmipolitans and particularists tend to be nationalists. 
 
+---
+
+## Lecture 7: David Miller
+- Kantian universalist obligations vs particularism, special duties
+- Robert Goodin -- you can have general duties and particular duties, we assign responsibility to particular people for specific duties
+- The nation-state is like a lifeguard -- distribution/instrumentalization of the general order
+- A "liberal-nationalist" -- you can only actualize liberalism within a bounded community
+- Metaphyiscally nationalist
+- Miller presents a good, honest case for nationalism.
+- Miller and Goodin's political worlds look similar, but their reasoning is different.
+- Goodin doesn't think that national boundaries are morally significant, but that they are instruments for general principles. 
+- Miller: what we owe to our compatriots may be more extensive than the duties we owe to strangers, simply because they are compatriots.
+- Goodin tries to go from the universal to the particular, and Miller goes from the particular to the universal
+- You can have a particularist view of immigration: immigrants help our society. A lot of folks assume a particularist view and say immigrants bring crime and harm the economy, opposition is that in fact they do... but in a universalist view where everyone has freedom of movement. 
+- Most people have some sort of a particularist view -- make the country stronger, etc. 
+- Under the most prominent ethical theories
+- A universalist believes that deeper significance to boundaries is a sort of moral error -- an intrusion of irrational emotional attachments and Humean fervor into an arena which ought to be governed by reason.
+- The moral subject is seen as the abstract individual (the unencumbered self), possessed of the general powers and capacities but not fundamentally committed to particularities (particular people, groups, practices, etc.) 
+    - e.g. under the Rawlsian veil, various particular features become abstracted, you end up with an unencumbered self
+- This is *unattractive* -- starting political theorizing from an unencumbered self is unattractive -- loses touch with how we actually think about such issues. 
+    - Miller shows that we are naturally encumbered.
+- Most philosophers end up being universalists, you messed up at the beginning -- Rawls is the biggest culprit here. Pretend you detach yourself from all of these different areas, you become a void of an individual
+- If an ethical theory remove the subjective view, what claims can it make on the subject? 
+    - Ethical theory must relate to the actual experience of agency.
+    - Impartial reason dictates I should perform this action, that action -- but why does that give me a reason to perform it?
+    - Neo-Humean (?)
+- Consider a second view of ethical agency in which the subject is already deeply embedded in social relationships. The subject is partly defined by these relationships. To divest oneself from these commitments would be to change one's identity. 
+- Sometimes we value things *because* we didn't choose them, even more than those which we cannot choose -- there are things which are handed down to me
+- A radical break -- the things which make you you tend to be things you inehrit, and the things you pick tend to be things you have to change.
+- For the ethical particularist, we should replace the abstract individual with the embedded individual.
+- Pride of place, among constitutive attachments to those not voluntarily acquired.
+- You can't be neutral on a moving train -- if you've stayed neutral, you've made a "moral truth"
+- Something about having compatriots yields special duties which arise becuase you are a member of this group.
+- Do I have a higher moral obligation to something that I didn't choose?
+- It's not a normative as much a descriptive account. What motivates people is their commitment to particular groups.
+- Universalism can generate surrogates for national attachments but not the genuine article of nationalism
+    - Can't we thinka bout it as a mutual benefit society? This targets states but not nations. When we think about particularist groups, a lot of people don't really reflect on the group. Goodin isn't actually getting at the nation. In the mutual benefit society, you have a boundded community which can look like a nation -- an insurance scheme.
+    - In the assigned responsibility model, you don't need a nation to have a lifeguard. Nationality has no place in this picture.
+- Is the nation salvagable?
+- What are nations? -- nationalism in the 20th century has been bad. National boundaries are different from state borders. Although the nation-state parallel arises later. Nation is language, race, religion, etc. which come to form nationhood. A state can include more than one national grouping, so people sharing a national identity can live under two or more state.
+- Nationality is essentially a subjective phenomenon, constituted by the shared beliefs of a set of people. A shared belief that each belongs with the rest, and that the association is not merely transitory nor instrumental but comes from a long history of living together. Part of a national history
+- Whether a nation exists depends on whether its members have aprpopriate beliefs, it doesn't matter if those beliefs are true. 
+- Set of beliefs, what is our story?
+- "This isn't who we are" -- well, who are we? What does it mean to be American. 
+- There's a vagueness to all these things
+- Each member recognizing a loyalty to the community, expressed in a willingness to sacrifice personal gain to advance its interests.
+- Can you exit a nation? Not that it's not doing as much good for me, but it's doing deep harm for me. 
+- The nation is something you enter and exit with high difficutly -- you can't just enter and exit as you wish.
+- Benedict Anderon, *Imagined Communities: Reflectingo on the Origin andt he Spread of Nationalism"  --- Nations are myths, it's mostly just vry pernicious
+- Miller -- what if all of your rational beliefs turn out to be false? Even the storyw e tell ourself about ho the nation came about is false,
+- Background is essential in the building of a nation
+- Can we separate nationality from ethnicityw ithout collapsing the former into mere adherence to a set of political institutions?
+- The national story doesn't necessarily need to be a positive story. It is still part of the story. 
+- Miller is a borderline socialist
+- Can someone be nationless?
+- The nation as the object of allegiance is not necessarily in worse shape than other possible objects.
+- 

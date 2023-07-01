@@ -134,6 +134,137 @@ Three checks
 - Loop invariants are crucial infromation, they represent the geist of the loop -- need to be provided before mechanical reasoning.
 - With a good loop invariant, code is easy to write.
 
+---
+
+## Lecture 3: Specification
+- Prefer while loops over for loops
+- Reasoning over loopsi s impossible without a loop invariant
+- Loop invariant: add some documentation describing what the loop invariant is -- how ought the loop to work?
+- Invariants hold in multiple places. 
+
+```
+{{ P }}
+{{ Inv: I }}
+while (cond)
+    S
+{{ Q }}
+```
+
+- Invariant needs to be true at the top and bottom of the loop
+- If our invariant is a weakening of the postcondition, this is not hard, because the invariant implies the postcondition
+- A triple is valid iff
+    - The invariant holds initially
+    - The invariant holds each time we execute S
+    - Q holds when I holds and cond is false
+- When does the loop invariant satisfy the postcondition? It gives you the loop condition
+- Loop invariant gives you the initialization code
+- Invariant update gives you the loop body
+- You can use loop invariants to generate code for a problem. 
+- The algorithm idea -- loop invariant. Should generally be a weakning of the postcondition. 
+- Invariant and progress step is the essence of the algorithm idea -- an important idea
+- An invariant is a personal choice -- there are different ways to solve the same problem. An invariant is basically a way of going from `P` to `Q`
+- Dutch National Flag
+    - Given an array of red, white,a nd blue pebbles, sort the array so all red objects are at the beginning, then white objects, then blue pebbles
+    - Pre: list of colors; post: sorted
+    - Number of ilines of code doesn't matter
+- Checking correctness can be mechanical
+- Large codebases tend to also have loop invariants for non-trivial code
+- If your loop uses for-each loops, you probably don't need a loop invariant, but even a little bit more complex you should write your loop invariant.
+- Correctness is the chief concern of high-quality software
+
+---
+
+## Lecture 4: Specifications
+- To check correctness, we need a specification and we can apply reasoning
+- We want our code to be correct, easy to change, easy to understand, and easy to scale
+- A specification is a contract, a set of requirements agreed to by the user and the manufactorer of the product
+- Facilitates simplicity via two-way isolation (modularity)
+    - As long as the client meets the precondition, they get the postcondition
+- Specification sare essential to correctness, but also changeability, understandability, and modularity
+- ISn't the interface enough? Defines method signifiers for what an object which wants to be called a [...] should have
+    - However, interfaces don't guarantee behavior.
+- Code gives you more information than what the client needs
+- Code is ambiguous and concrete -- what parts of the code are essential vs incidental?
+- Implementer needs to know which features the client needs and which can be changed
+- Comments are important, but they can be vague and ambiguous. How can you reduce ambiguity?
+- Need to do a more careful approach which accounts for caveats
+- Better to simplify than to describe complexity.
+- Javadoc: start with `/**`, each new line starts with `*`, end with `*/`
+    - Add Javadoc comments
+    - `@param` describes what gets passed in
+    - `@return` describes what gets returned
+    - `@throws` describes what gets thrown
+- Additional specifications
+    - `@requires` describes what needs to be true before the method is called (precondition)
+    - `@modifies` describes what gets modified -- objects which may be changed, any object not listed is guaranteed not to be touched (postcondition)
+    - `@effects` give sugarantees on the final state of modified objects (postcondition)
+- Should the required clause be checked? If the client calls a method without meeting the precondition, the code can do whatever, including passing corrupted data, but to be nice you should identify the error and fail fast
+- Rule of thumb: check if it is cheap to do so
+- Satisfaction of a specification: M is an implementation, and S is a specification. M satisfies S if for every input allowed by the precondition, M produces an output allowed by the spec postcondition
+- Stronger and weaker specifications:
+    - An implementation satisfying a stronger satisfaction can be used anywhere a weaker specification is required
+    - Specification S2 is stronger than S1 iff the precondition of S2 is weaker than that of S1 and the postcondition of S2 is stronger than that of S1
+- Strengthen a spec by promising more or by asking less of the client.
+
+---
+
+## Lecture 5: ADTs
+- Backwards and forward reasoning for assignment, if statements, and while loops. 
+- In order to reason with function calls and higher-order statements
+
+```java
+static int f(int a, int b) {
+    @requires P(a, b)
+    @return   R(a, b, c)
+}
+```
+
+Forward reasoning:
+```
+{{ A }}
+f(a, b);
+{{ A & R(a, b, c) }}
+```
+
+Backwards reasoning (if `R(a, b, c)` $$\to$$ `Q(a, b, c)`):
+```
+{{ B and P(a, b) }}
+c = f(a, b);
+{{ B and Q(a, b, c) }}
+```
+
+- Manipulating and managing data is very important
+- An abstract data typedefines a class of abstract objects which is completely characterized by the operations available upon / over it
+- Procedural abstraction: abstract from implementation details of procedures (functions), specification is the abstraction, satisfy the specification with an implementation
+    - Basically a function
+- Data bastraction: abstract from details about data representation, ways of thinking about programs and designs
+- People often wrote very procedural code
+- Abstract Data Type, Barbara Liskov in 1970s -- reduced data abstraction to procedural abstraction
+- Object-oriented programming really is sucha n important idea
+- Fields private, methods public
+- An ADT abstracts from the organization to the meaning of data -- hide details of data structures
+- Abstraction barrier -- a good thing to have and not cross / violate -- prevents clients from depending onimplementation details
+- A barrier between higher-level work done by clients and the implementation. Implementer can cross the barrier because the implementers are the ones writing the specification, so focus on the translation.
+- If clients are forced to respect data abstractions, they can change how data is stored, can change algorithms, can delay decisions on how the ADT is implementation.
+- Your initial implementation only needs to be correct, you can change it later
+- you can use a creator or a producer
+- Immutable things are less memory efficient -- we end up having a lot of duplicates, although it's not that much of a concern.
+- Reasoning about mutators is difficult, so actually it's nice theoretically to work with immutable objects.
+- A constructor doesn't return anything or modify, but it has the side effect of creating a new object, a `new Poly = 0`.
+- For constructors, parameter types are fine, but return types are not.
+- Observers -- never modify the bastract state.
+- Producers -- creates other objects of the same type, give a new object which is a variant
+- We want to verify information via observers, they only have returns, 
+- Mutators: `modifies // effects`, have to actually modify the abstract state of the object
+- Mutators shouldn't return anything -- they should either be a producer or be a mutator or something, "do one thing and do it well"
+- Different types of methods -- creators, observers, producers, mutators
+- Specifications are a lot of work -- described in terms of how they change the fundamental abstract state.
+- Two tools to reason over DTs: representation invariant and abstraction function
+- Representation invariant: maps an object to a boolean
+    - Clients think in terms of abstractions, implementers think in terms of implementation -- clients should never have to go from the abstract to the concrete
+    - Abstraction function: a relationship between an ADT specification and an implementation
+    - Representation invariant (RI): relationship between implementation fields, an assertion about something in the program, asserts something about the representation we just got.
+    - No object should ever violate the representation invariant -- an object should always look something like
 
 
 

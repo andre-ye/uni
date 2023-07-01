@@ -79,7 +79,109 @@ $$f(n) \in \mathcal{O}(g(n))  \equiv \exists_{c \in \mathbb{R}_{>0, n_0 \in \mat
 - Technically, $$\log n \in \mathcal{O}(n)$$ is correct. But we want a tighter bound: $$\log n \in \mathcal{O}(\log n)$$
 - We want to remain invariant to differences in scaling, so we have a $$c$$.
 
+---
 
+## Lecture 3: Algorithmic Analysis II, Amortization
+- Counting code constructs
+- How to show that $$f(n) \in \mathcal{O}(f(n))$$? Pick $$c$$ to account for constant factors and $$n_0$$ to cover lower-order terms
+- Informal way to understnd big O is in terms of droppable terms which characterize class (invariant to scaling)
+- Big omega -- same as Big-Oh, but with $$f(n) \ge c \cdot g_n$$. Therefore $$f(n)  \in \Omega (g(n))$$ iff $$f(n)$$ eventually constitutes a lower bound.
+- Tight bound $$\Theta$$
 
+$$f(n) \in \Theta(g(n)) \equiv f(n) \in \mathcal{O}(g(n)) \wedge f(n) \in \Omega(g(n))$$
+
+- Little oh and omega: no 'equals to'
+- Big Theta -- a function is in $$\Theta(g(n))$$ if there is a tight bound, it is being squeezed between big oh and big omega.
+- Worst and best -- all about case / scenario
+- Assuming a particular scenario, what happens as $$n \to \infty$$?
+- Big-Oh: what's the worst growth rate this algorithm could have?
+- Big-Omega: what's the best growth this algorithm could have?
+- Although these two are technically incorrect.
+- Usually concerned with worst and amortized for tight or upper asymptotic analysis
+- Mtovation: the worst case is too pessimistic. 
+- Amortization: max total # steps an algorithm takes on $$M$$ most challenging consecutive inputs of size $$n$$ divided by $$m$$: averages the running times of operations in a worst-case sequence over that sequence
+
+---
+
+## Lecture 4: Priority Queues
+- "Highest priority, first out"
+- Operations:
+  - `insert` (adds item at the end, enqueue equivalent)
+  - `deleteMin` (finds, returns, and removes minimum element in priority queue, dequeue equivalent)
+    - Break ties arbitrarily
+- Implemented by a heap
+- Holds comparable data, in the sense that every element has a priority
+
+| | `insert` | `deleteMin`
+| unsorted array | `O(1)` | `O(n)` |
+| unsorted linked list | `O(1)` | `O(n)` |
+| sorted circular array | `O(n)` | `O(1)` |
+| sorted linked list | `O(n)` | `O(1)` |
+| binary search tree | `O(n)` | `O(n)` |
+| binary min heap | `O(log n)` | `O(log n)` |
+
+- We pay for functionality needed
+  - Don't want to scan all the items, but we also maintain a full sorted list
+  - Visualize heap as a tree
+- Height: count arrows from node to deepest descendent
+- Depth: count the arrows from root to node
+- Binary tree: every node has at most 2 children
+- n-ary tree: every node has at most $$n$$ children
+- Complete tree: every row is completely full except for the bottom row, bottom row is filled left to right
+- Perfect tree: every row is completely full
+- Height is $$\mathcal{P}(\log n)$$
+
+$$n = \sum_{i = 0}^h 2^i = 2^{h+1} - 1$$
+
+$$\log n = \log 2^{h+1} - 1$$
+
+- Binary min heaps
+  - Smallest element is at the root
+  - A complete binary tree
+  - Heap order priority: every non-root node has a priority value greater than or equal to its parent
+- Strategy for every operation:
+  - Preserve complete tree structure property
+  - May break heap order property
+  - Percolate to restore heap order property
+- Percolate up: swap with the parent until you reach the root or the heap order property is fulfilled
+- Deletion:
+  - Grab minimum element (root) and delete it
+  - Only option is to move the bottom-rightmost element as the root
+  - This probably breaks heap order quality, so percolate down to restore heap order property
+  - When percolating down, swap with the *smallest child*
+
+- Array representation of heap
+  - Root at index 1, children at $$2i$$ and $$2i + 1$$ for any $$i$$
+  - Parent is given by `i / 2` (integer division) 
+- Array implementation:
+  - Minimal wasted space -- using tree node objects requires pointers, which are expensive
+  - Fast lookups: index is very nice
+  - Resizing is an issue, but not by that much.
+- Increase and decrease priority operations: change index value and then percolate up or down
+  - Can conceive of deleting any particular keep as decreasing key by infinity and then percolating to top, and then delete min.
+
+## Lecture 5: `buildHeap` and Recurrences
+- Scenario: $$n$$ elements into a blank heap. Calling insert $$n$$ times gives $$n \log n$$.
+- We can do better with Floyd's `buildHeap` (linear time)
+  1. Put $$n$$ elements in the array, any order is OK
+  2. Percolate down, starting from the lowest non-leaf  node not in the last row, and working up to the root. (Leaves are already in the correct ordering.)
+- Runtime efficiency calculations
+  - Given completeness, the total loop iterations is $$\frac{n}{2}$$
+  - For half of its iterations (bottom full row), percolate at most 1 step; $$\frac{1}{2}$$ cost
+  - For a quarter of its iterations (second to bottom full row), percolate at most 2 steps, $$\frac{2}{4}$$ cost
+  - Summed cost: $$\frac{1}{2} + \frac{2}{4} + \frac{3}{8} + ...) = 2$$
+  - $$2 \cdot \frac{n}{2} \in \mathcal{O}(n)$$
+- Intuition for correctness: build a hierarchy of nodes that we promise are going to be correct.
+
+Couhnting recursive code
+- Analogy: performing computation recursively on a list of size $$n$$
+- Each recursive call performs some non-recursive work $$w(n)$$ and then calls the method on a smaller resource $$T(n - 1)$$
+- We reach a base case with work $$b(n)$$
+- Total work is given by $$T(n) = w(n) + T(n-1)$$, $$T(1) = b(n)$$
+- Recurrence function / relation: piecewise function which mathematical models the runtime of a recursive algorithm
+- Unrolling method
+  - Expand via substitution
+  - Find the closed form -- find when the base case occurs and get to the base case.
+  
 
 

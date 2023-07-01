@@ -199,6 +199,60 @@ The Relations Between Humanity and Justice
 - We cannot talk about humanity unless we have a baseline set by justice.  
 - The need for humanitarian aid is reduced in a world which has a basically just international distribtuion.
 
+---
+
+## "What Is So Special about Our Fellow Countrymen?" -- Robert E. Goodin (1988)
+- We have some duties towards people because they are people, and special duties to those in particular relation with us
+- Sometimes we have stronger duties to those outside our nation than those within it.
+- What morally matters is not nationality per se
+
+The Particularist's Challenge
+- Modern moral philosophy has been very universalistic, even if it has varied applications
+- Corollary of universality is impartiality
+- Utilitarians and Kantians unite!
+- Perhaps universalism is a feature of morality itself.
+- Perhaps there are special duties to some people that we don't have to others
+  - Maybe it is an addition to moral law.
+  - Maybe it is extramoral.
+  - Maybe it is derivative to universalism.
+- Do we owe compatriots a special sort of treatment? Common-sense morality largely consists of such obligations.
+- What is the true nature of special duties?
+
+The Case of Compatriots
+- It is usually assumed that we owe more to our fellow compatriots than to foreigners
+- We can, through public officials, take the property of our fellow citizens for public purposes, but not the same for a foreigner
+- We can conscript citizens for service but not foreigners
+- We can tax citizens but not foreigners residing abroad on income earned abroad
+- Basically we can fuck over people in our vicinity because they are within our power, but we have to be more careful with foreigners.
+- But also citizens are allowed to vote, we should treat them better, etc.
+- The situation is very mixed indeed
+
+Special Duties as Magnifiers and Multipliers
+p. 10 in PDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
