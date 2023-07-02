@@ -18,6 +18,7 @@ Try out some important/interesting classes:
 [PHIL 401C](https://andre-ye.github.io/uni/docs/phil/phil-401c){: .btn .btn-red100 }
 [PHIL 440](https://andre-ye.github.io/uni/docs/phil/phil-440){: .btn .btn-red200 }
 [PHIL 458](https://andre-ye.github.io/uni/docs/phil/phil-458){: .btn .btn-red000 }
+[PHIL 484](https://andre-ye.github.io/uni/docs/phil/phil-484){: .btn .btn-red000 }
 [CHEM 142](https://andre-ye.github.io/uni/docs/nsciences/chem-142){: .btn .btn-red100 }
 [CSE 143](https://andre-ye.github.io/uni/uni/docs/cs/cse-143){: .btn .btn-red200 }
 [CSE 351](https://andre-ye.github.io/uni/docs/cs/cse-351){: .btn .btn-red000 }
@@ -45,7 +46,7 @@ Interesting pages I think are worth checking out.
 - [MATH 125 Questions and Answers](https://andre-ye.github.io/uni/docs/math/math-125/questions/)
 - [ENGL 308 Lecture Notes](https://andre-ye.github.io/uni/docs/eng/engl-308/lecture/)
 - [HSTAA 465 Lecture Notes](https://andre-ye.github.io/uni/docs/hum/hstaa-465/lecture/)
-- [PHIL 458 Lecture Notes]()
+- [PHIL 458 Lecture Notes](https://andre-ye.github.io/uni/docs/phil/phil-458/lecture/)
 
 ---
 
