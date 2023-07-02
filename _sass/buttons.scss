@@ -109,6 +109,18 @@
   @include btn-color($white, $purple-100);
 }
 
+.btn-red000 {
+  @include btn-color($white, $red-000);
+}
+
+.btn-red100 {
+  @include btn-color($white, $red-100);
+}
+
+.btn-red200 {
+  @include btn-color($white, $red-200);
+}
+
 .btn-blue {
   @include btn-color($white, $blue-000);
 }

@@ -299,6 +299,8 @@ Does this article account for justice?
 ---
 
 ## "The Ethical Significance of Nationality" -- David Miller (1988)
+
+I: Introduction, exposition of argument, definition of nation / nationality
 - Objective: defend the view that national boundaries are ethically significant
 - We behave as if this were true, e.g. for welfare measures
 - Prominent thrust of ethical theories towards universalism, independent of local connections
@@ -309,6 +311,17 @@ Does this article account for justice?
   - "You know it when you see it"
   - There is no objective criterion which demarcates nations
   - "Nationality is essentially a subjective phenomenon, constituted by the sahred beliefs of a set of people: a belief that each belongs together with the rest; that this association is neither transitory nor merely instrumental but stems from a long history of living together"
+  - Some level of political autonomy and poltiical aspiration
+  - It does not matter if the beliefs that members hold in a nation are necessary true.
+  - Can moraly accomodate those who hold false beliefs?
+
+II. 
+- Surely ethics must be definition deriv efrom universal and rationally grounded principles
+- The issue is that the moral subject is treated as an abstract individual possessed with capacities of human beings but not fundamentally committed to any particualr particularities.
+- Particular duties, responsibilities, and rights are never regarded fundamentally (always derived from the rational and the universal)
+- On the other hand, consider another perspective in which the subject is already seen as deeply embedded in social relationships already with (partial) commitments. The agent can aspire to rationality, but it is not abstract rationality, rather reflecting on existing commitments.
+- Examinations
+  - Maybe my group does not really exist as a group
 
 ---
 

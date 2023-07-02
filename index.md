@@ -14,19 +14,19 @@ Open-sourced notes material from courses at the University of Washington
 
 Try out some important/interesting classes:
 
-[PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120){: .btn .btn-blue }
-[PHIL 401C](https://andre-ye.github.io/uni/docs/phil/phil-401c){: .btn .btn-green }
-[PHIL 440](https://andre-ye.github.io/uni/docs/phil/phil-440){: .btn .btn-purple }
-[PHIL 458](https://andre-ye.github.io/uni/docs/phil/phil-458){: .btn .btn-blue }
-[CHEM 142](https://andre-ye.github.io/uni/docs/nsciences/chem-142){: .btn .btn-green }
-[CSE 143](https://andre-ye.github.io/uni/uni/docs/cs/cse-143){: .btn .btn-purple }
-[CSE 351](https://andre-ye.github.io/uni/docs/cs/cse-351){: .btn .btn-blue }
-[MATH 125](https://andre-ye.github.io/uni/docs/math/math-125){: .btn .btn-green }
-[MATH 208](https://andre-ye.github.io/uni/docs/math/math-208){: .btn .btn-purple }
-[ENGL 308](https://andre-ye.github.io/uni/docs/eng/engl-308){: .btn .btn-blue }
-[ECON 200](https://andre-ye.github.io/uni/docs/business/econ-200){: .btn .btn-green }
-[CHID 395](https://andre-ye.github.io/uni/docs/hum/chid-395){: .btn .btn-purple }
-[HSTAA 465](https://andre-ye.github.io/uni/docs/hum/hstaa-465){: .btn .btn-blue }
+[PHIL 120](https://andre-ye.github.io/uni/docs/phil/phil-120){: .btn .btn-red000 }
+[PHIL 401C](https://andre-ye.github.io/uni/docs/phil/phil-401c){: .btn .btn-red100 }
+[PHIL 440](https://andre-ye.github.io/uni/docs/phil/phil-440){: .btn .btn-red200 }
+[PHIL 458](https://andre-ye.github.io/uni/docs/phil/phil-458){: .btn .btn-red000 }
+[CHEM 142](https://andre-ye.github.io/uni/docs/nsciences/chem-142){: .btn .btn-red100 }
+[CSE 143](https://andre-ye.github.io/uni/uni/docs/cs/cse-143){: .btn .btn-red200 }
+[CSE 351](https://andre-ye.github.io/uni/docs/cs/cse-351){: .btn .btn-red000 }
+[MATH 125](https://andre-ye.github.io/uni/docs/math/math-125){: .btn .btn-red100 }
+[MATH 208](https://andre-ye.github.io/uni/docs/math/math-208){: .btn .btn-red200 }
+[ENGL 308](https://andre-ye.github.io/uni/docs/eng/engl-308){: .btn .btn-red000 }
+[ECON 200](https://andre-ye.github.io/uni/docs/business/econ-200){: .btn .btn-red100 }
+[CHID 395](https://andre-ye.github.io/uni/docs/hum/chid-395){: .btn .btn-red200 }
+[HSTAA 465](https://andre-ye.github.io/uni/docs/hum/hstaa-465){: .btn .btn-red000 }
 
 [🡠 Explore More](){: .btn }
 
@@ -41,7 +41,7 @@ I’m [Andre](https://andre-ye.github.io){:target="_blank"}, a sophomore at the 
 ## Recent Commits
 View recent updates to this repository.
 
-[Commit History](https://github.com/andre-ye/uni/commits/master){:target="_blank" .btn .btn-purple } 
+[Commit History](https://github.com/andre-ye/uni/commits/master){:target="_blank" .btn .btn-red200 } 
 
 <!-- <center>
     <iframe id="commitHistory"
