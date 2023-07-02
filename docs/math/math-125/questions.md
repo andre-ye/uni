@@ -43,7 +43,7 @@ Across the course, I had a lot of questions about generalizations and expansions
 
 **Q**: The integral of a function $$f(x) = x^a$$ is $$\frac{x^{a+1}}{a+1} (+C)$$, were $$a \neq -1$$. When $$a = -1$$, the integral is $$\ln(x)$$. However, when one plots out the graph of $$\frac{x^{a+1}}{a+1}$$ as $$a44 gets very close to $$-1$$, the shape of the graph doesn't 'approach' or look anything like $$\ln(x)$$ as $$a \to -1$$ even though at $$a = -1$$ the integral is $$\ln (x)$$. It's like there is this continuous function morphing for all values of $$a$$, except at this point $$x = -1$$ it is $$\ln x$$. This discontinuity is a bit jarring for me. I understand from a technical perspective that $$\frac{d}{dx} \ln x = \frac{1}{x}$$ and so $$\int \frac{1}{x} = \ln \vert x\vert  + C$$, but in the scope of generalizing to the $$x^n$4 family it seems a bit out of place. Is there an intuitive explanation or solace that can be provided here?
 
-**A**: You have chosen your antiderivative of $$x^n$$ to be $$\frac{x^{a+1}}{a+1} since it passes through the origin for $$a >=1$$, but actually thi sis not a very natural choice for $$a < -1$$ since there is a discontinuity at $$x = 0$$. Instead, you should take the antiderivative that passes through the point $$(0, 1)$$ where there are no continuity isseus for any $$a$$. This gives
+**A**: You have chosen your antiderivative of $$x^n$$ to be $$\frac{x^{a+1}}{a+1}$$ since it passes through the origin for $$a >=1$$, but actually this is not a very natural choice for $$a < -1$$ since there is a discontinuity at $$x = 0$$. Instead, you should take the antiderivative that passes through the point $$(0, 1)$$ where there are no continuity isseus for any $$a$$. This gives
 
 $$\frac{x^{a+1} - 1}{a+1}$$
 
