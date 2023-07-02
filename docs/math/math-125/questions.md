@@ -41,7 +41,7 @@ Across the course, I had a lot of questions about generalizations and expansions
 
 ---
 
-**Q**: The integral of a function $$f(x) = x^a$$ is $$\frac{x^{a+1}}{a+1} (+C)$$, were $$a \neq -1$$. When $$a = -1$$, the integral is $$\ln(x)$$. However, when one plots out the graph of $$\frac{x^{a+1}}{a+1}$$ as $$a44 gets very close to $$-1$$, the shape of the graph doesn't 'approach' or look anything like $$\ln(x)$$ as $$a \to -1$$ even though at $$a = -1$$ the integral is $$\ln (x)$$. It's like there is this continuous function morphing for all values of $$a$$, except at this point $$x = -1$$ it is $$\ln x$$. This discontinuity is a bit jarring for me. I understand from a technical perspective that $$\frac{d}{dx} \ln x = \frac{1}{x}$$ and so $$\int \frac{1}{x} = \ln |x| + C$$, but in the scope of generalizing to the $$x^n$4 family it seems a bit out of place. Is there an intuitive explanation or solace that can be provided here?
+**Q**: The integral of a function $$f(x) = x^a$$ is $$\frac{x^{a+1}}{a+1} (+C)$$, were $$a \neq -1$$. When $$a = -1$$, the integral is $$\ln(x)$$. However, when one plots out the graph of $$\frac{x^{a+1}}{a+1}$$ as $$a44 gets very close to $$-1$$, the shape of the graph doesn't 'approach' or look anything like $$\ln(x)$$ as $$a \to -1$$ even though at $$a = -1$$ the integral is $$\ln (x)$$. It's like there is this continuous function morphing for all values of $$a$$, except at this point $$x = -1$$ it is $$\ln x$$. This discontinuity is a bit jarring for me. I understand from a technical perspective that $$\frac{d}{dx} \ln x = \frac{1}{x}$$ and so $$\int \frac{1}{x} = \ln \vert x\vert  + C$$, but in the scope of generalizing to the $$x^n$4 family it seems a bit out of place. Is there an intuitive explanation or solace that can be provided here?
 
 **A**: You have chosen your antiderivative of $$x^n$$ to be $$\frac{x^{a+1}}{a+1} since it passes through the origin for $$a >=1$$, but actually thi sis not a very natural choice for $$a < -1$$ since there is a discontinuity at $$x = 0$$. Instead, you should take the antiderivative that passes through the point $$(0, 1)$$ where there are no continuity isseus for any $$a$$. This gives
 
@@ -53,7 +53,7 @@ $$\lim_{a\to -1} \frac{x^{a+1} -1}}{a+1} = \ln x .$$
 
 ---
 
-**Q**: I was intrigued by the arc length lecture and was requesting Wolfram Alpha to compute some interesting arc lengths. Particularly, I am interested in the function $$y = \sin (\frac{1}{x})$$, which has an infinitely oscillating pattern as $$x\to 0$$. There is expectedly no finite arclength of the function across $$[-1, 1]$$. I tried the modified function $$y = x \sin (\frac{1}{x})$$, with hopes that for $$|x| < 1$$ there would be a diminishing effect. However, the result still does not converge. I tried $$y = x^2 \sin (\frac{1}{x})$$, which yields no solution - but $$y = x^3 \sin (\frac{1}{x})$$ does yield a solution, about 2.848673. I assume that there is some value $$a$4 in $$y = x^a \sin (\frac{1}{x})$$ where there is some discrete jump between being computable and not being computable. I am wondering - firstly, is the significance here between computability and uncomputability mainly determined by Wolfram Alpha and not 'pure math' (maybe something to do with precision/computer representation)? Secondly, I am wondering how to understand and think about these discrete jumps (if they exist) in a world that I am so familiar to thinking of as continuous.
+**Q**: I was intrigued by the arc length lecture and was requesting Wolfram Alpha to compute some interesting arc lengths. Particularly, I am interested in the function $$y = \sin (\frac{1}{x})$$, which has an infinitely oscillating pattern as $$x\to 0$$. There is expectedly no finite arclength of the function across $$[-1, 1]$$. I tried the modified function $$y = x \sin (\frac{1}{x})$$, with hopes that for $$\vert x\vert  < 1$$ there would be a diminishing effect. However, the result still does not converge. I tried $$y = x^2 \sin (\frac{1}{x})$$, which yields no solution - but $$y = x^3 \sin (\frac{1}{x})$$ does yield a solution, about 2.848673. I assume that there is some value $$a$4 in $$y = x^a \sin (\frac{1}{x})$$ where there is some discrete jump between being computable and not being computable. I am wondering - firstly, is the significance here between computability and uncomputability mainly determined by Wolfram Alpha and not 'pure math' (maybe something to do with precision/computer representation)? Secondly, I am wondering how to understand and think about these discrete jumps (if they exist) in a world that I am so familiar to thinking of as continuous.
 
 **A**: This is a limitation of WolframAlpha: the curve $$f(x) = x^a \sin (\frac{1}{x})$$ from $$[0, 1]$$ has finite arc length for $$a > 1$$. (I will restrict to positive xx just to avoid any issues with taking fractional powers of negative numbers, which usually requires complex numbers.) To see this, we compute its derivative as
 
@@ -61,11 +61,11 @@ $$f'(x) = ax^{a-1} \sin (\frac{1}{x}) - x^{a - 2} \cos (\frac{1}{x}$$
 
 This has absolute value at most
 
-$$|ax^{a-1}| + |x^{a-2}| = (ax + 1) \cdot x^{a-2} \le Cx^{a-2}$$
+$$\vert ax^{a-1}\vert  + \vert x^{a-2}\vert  = (ax + 1) \cdot x^{a-2} \le Cx^{a-2}$$
 
 (where $$C = a+1$$.) IN particular, we can then bound the arc length by
 
-$$\int_0^1 \sqrt{1 + f'(x)^2} dx < C' \int_0^1 |f'(x)| dx < C^n \int_0^1 x^{n-2} dx$$
+$$\int_0^1 \sqrt{1 + f'(x)^2} dx < C' \int_0^1 \vert f'(x)\vert  dx < C^n \int_0^1 x^{n-2} dx$$
 
 for some constants $$C'$$ and $$C''$$. One can then show by direct computation that this integral converges whenever $$a - 2 > -1$$, which holds for $$a > 1$$. A similar argument shows that the arc length is infinite for $$a \le 1$$. Likely the reason WolframAlpha has trouble computing these arc lengths in cases when they are finite is that it is using an approximation method whose speed of convergence is dependent on how "wiggly" the function being integrated is. For small $$a>1$$, its approximation method probably does not converge fast enough to give a satisfactory answer in the time allotted for the computation. In general, issues of convergence and divergence can be very subtle. We will not touch upon it much in this course, but Math 126 does cover some of these issues in the form of sequences and series.
 

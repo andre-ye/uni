@@ -38,6 +38,13 @@ I’m [Andre](https://andre-ye.github.io){:target="_blank"}, a sophomore at the 
 
 ---
 
+## Highlights
+Interesting pages I think are worth checking out.
+- [CSE 143 Final Exam data](https://andre-ye.github.io/uni/docs/cs/cse-143/data/)
+- [MATH 125 Questions and Answers](https://andre-ye.github.io/uni/docs/math/math-125/questions/)
+
+---
+
 ## Recent Commits
 View recent updates to this repository.
 
