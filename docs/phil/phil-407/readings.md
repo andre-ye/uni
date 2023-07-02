@@ -228,15 +228,93 @@ The Case of Compatriots
 - The situation is very mixed indeed
 
 Special Duties as Magnifiers and Multipliers
-p. 10 in PDF
+- Commonsense morality tends to employ two basic models, magnifiers and multipliers
+- Magnifiers
+  - Imperfect duties are transformed into perfect duties
+  - No one should starve, but it is especially wrong that our compatriots should starve.
+  - But if we want to magnify duties, then positive duties should be stronger, but also so should negative duties.
+  - Certainly, positive duties become stronger.
+  - But negative duties do not become stronger. In fact non-nationals have stronger negative duties than nationals.
+- Multipliers: special relationships multiply existing duties, i.e. creating new special duties other than the general ones *de novo* from contracts.
+  - Does this apply for negative duties? In fact, special relationships require *sacrificing* negative duties in favor of positive ones.
+  - Multiplication produces more duties, but we find less (negative) ones.
+- A relationship remains a two-way affair, and special duties follow from this contract.
+- Each one of us suffers from additional duties which impose an extra burden of us, which is the weakning of negative duties.
+  - This imposition is legitimate because there are special contracts.
+  - This is the standard social contract position, in the state of nature there are no duties
+  - People welcome special relationships because strengthening positive duties comes with a weakning of negative duties.
+  - However, magnifier and multiplieir models have been reduced to "mutual benefit socieities" -- but this is not the case.
 
+The Mutual Benefit Society Model
+- We have a strong obligation to leave foreigners as we found them, according to conventional wisdom.
+- Nation-states are conceptualized as mutual-benefit societies. It is permissible to impose sacrifices so they may benefit in the future.
+- Basically, under this model, if you are in, then we focus on improving your condition (possibly via short-term harms). But if you are not, then we focus on not harming you (at the expense of development).
+- Suppose national boundaries circumscribe mutual benefit societies. 
+- The issue is determining who is inside the club and who is outside the club
+- Who is a citizen? What is not? Who gets to be a member of the club?
+- Counterexamples
+  - Resident aliens: net contributors to society, but denied full benefits.
+  - Natural born citizens: may be net drains on society, but given full benefits.
+- Mutual benefit soceity requires that people's benefits from society are proportional to the sacrifices they have made towards that production.
+  - We only have special duties to those whose cooperation benefits us.
+- Maybe border lines are mere formalistic devices for identifying possible members of contribution to the mutual benefit society.
+- Many societies exploit "guest workers" -- using mutual benefit society logic, this is blatantly wrong.
 
+The Assigned Responsibility Model
+- Special duties are mere distributed general duties.
 
+> Special duties are in my view merely devices by which the moral community's general duties get assigned to particular agents. For this reason, I call mine an "assigned responsibility" model.
 
+- Special duties are merely derivative from general duties
+- Special duties are susceptible to being overriden and have no special independent force.
+- Our fellow countrymen are not so special after all
+- Drowning swimmer on the beach: no one is naturally picked out as the appropriate person to help, if everyone helped they woudl get in each other's way, so socially we have a lifeguard.
+- States have special duties to their citizens, but not in any 'specially special' way. They are merely general duties which everyone has to everyone worldwide.
+- There are certainly reasons why nationality might have psychological force, but these are not moral reasons. They influence the redrawing of boundaries *in service of* special responsibilities.
+- No state has a claim against other states for positive assistance in promoting its own citizens' interest (that is its own responsibility)
+- We are obliged to leave foreigners as we have found them because they have been assigned to another state.
+- Mutual benefit society says that those who do not contribute to society should be cast out. But the state is responsible to them and discharges general rights.
+- Everyone must be assigned an advocate or protector.
+- In mutual-benefit logic, boundaries circumscribe groups of people who produce benefits for each other; by the assigned responsibility model, states should be assigned to be able to care for their citizens.
 
+Conclusion
+- Boundaries matter, but it is boundaries around *people* which matter.
+- We shouldn't fetishize boundaries. They are useful boundareis.
+- Citizenship is a device for fixign speical responsibility.
 
+> In the present world system, it is often-perhaps ordinarily-wrong to give priority to the claims of our compatriots.
 
+(Why so?)
 
+Notes -- it seems this model is convincing, and has good normative recommendations. But it does not seem to address the much more pressing questions of how these normative recommendations square with the state of the world.
+For instance, some nation-states may argue that they cannot serve their own citizens' interests because historically they have been exploited by other nation-states. Therefore they demand reparations, and even commit terrorism, etc. What is to be done here?
+It seems this model does not have a good account of conflict, or of secession and annexation.
+What about colonialism?
+If the quality of life improves for people, then is it right?
+Does consent factor here?
+What does this have to say about immigration?
+We should accept as much until we cannot serve our own population.
+Does this article account for justice?
+
+---
+
+## "The Ethical Significance of Nationality" -- David Miller (1988)
+- Objective: defend the view that national boundaries are ethically significant
+- We behave as if this were true, e.g. for welfare measures
+- Prominent thrust of ethical theories towards universalism, independent of local connections
+- An argument directed against naive internationalism with inadequate ethical development
+- Realist tones underlying the introduction
+- National boundaries are not the same as borders between states
+  - National identities may be shared across states
+  - "You know it when you see it"
+  - There is no objective criterion which demarcates nations
+  - "Nationality is essentially a subjective phenomenon, constituted by the sahred beliefs of a set of people: a belief that each belongs together with the rest; that this association is neither transitory nor merely instrumental but stems from a long history of living together"
+
+---
+
+## "Cosmopolitanism and Sovereignty" -- Pogge (1992)
+
+---
 
 
 
