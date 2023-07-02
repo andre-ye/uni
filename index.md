@@ -40,8 +40,12 @@ I’m [Andre](https://andre-ye.github.io){:target="_blank"}, a sophomore at the 
 
 ## Highlights
 Interesting pages I think are worth checking out.
-- [CSE 143 Final Exam data](https://andre-ye.github.io/uni/docs/cs/cse-143/data/)
+- [CHEM 142 Experiment Videos (26)](https://andre-ye.github.io/uni/docs/nsciences/chem-142/experiments)
+- [CSE 143 Final Exam Data](https://andre-ye.github.io/uni/docs/cs/cse-143/data/)
 - [MATH 125 Questions and Answers](https://andre-ye.github.io/uni/docs/math/math-125/questions/)
+- [ENGL 308 Lecture Notes](https://andre-ye.github.io/uni/docs/eng/engl-308/lecture/)
+- [HSTAA 465 Lecture Notes](https://andre-ye.github.io/uni/docs/hum/hstaa-465/lecture/)
+- [PHIL 458 Lecture Notes]()
 
 ---
 

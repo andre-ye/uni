@@ -1,21 +1,21 @@
 ---
 layout: default
-title: PHIL 407
+title: PHIL 458
 parent: Philosophy
-nav_order: 407
-permalink: /docs/phil/phil-407
+nav_order: 458
+permalink: /docs/phil/phil-458
 has_children: true
 ---
 
-# PHIL 407
+# PHIL 458
 
-International Justice
+Phenomenology
 {: .fs-6 .fw-300 }
 
-Jose Jorge Mendoza
+Matthew Peters
 {: .label }
 
-Summer 2023
+Spring 2023
 {: .label .label-green }
 
 5 Credits
