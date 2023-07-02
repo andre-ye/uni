@@ -87,7 +87,7 @@ $$\lim_{t\to\infty} \int_{-t}^t f(x) dx,$$
 
 but you should actually be thinking of it as 
 
-$$\lim_{s\to-\infty}_{t\to\infty} \int_s^t f(x) dx.$$
+$$\lim_{s\to -\infty}_{t\to\infty} \int_s^t f(x) dx$$
 
 That is, the two end points should be allowed to go to $$\pm \infty$$ independently. It is done this way because we want $$\int_{-\infty}^\infty f(x) dx$$ to be a good approximation for $$\int_a^b f(x) dx$$ for any sufficienlty large interval $$[a, b]$$, not just the ones of the form $$[-b, b]$$ that happen to be symmetric about 0.
 
