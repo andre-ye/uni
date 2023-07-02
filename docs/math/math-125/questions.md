@@ -49,7 +49,7 @@ $$\frac{x^{a+1} - 1}{a+1}$$
 
 which satisfies
 
-$$\lim_{a\to -1} \frac{x^{a+1} -1}}{a+1} = \ln x .$$
+$$\lim_{a\to -1} \frac{x^{a+1} -1}{a+1} = \ln x$$
 
 ---
 
