@@ -266,12 +266,49 @@ c = f(a, b);
     - Representation invariant (RI): relationship between implementation fields, an assertion about something in the program, asserts something about the representation we just got.
     - No object should ever violate the representation invariant -- an object should always look something like
 
+---
 
+## Lecture 6: Representation Invariant
+- ADTs abstract from the organization to the meaning of data
+- The details of the data structures are hidden from the client
+- We can delay decisions about data structures
+- We first write specficiations for what we want functions to do, and then we write code according to that
+- Representation invariant which maps an object to a boolean which defines a set of valid concrete values; no object should ever violate the representation invariant, as such object has no useful meaning.
+- Basically outlines the proper domain of the object
+- A representation invariant holds directly before and after an instance call
+- We should check a representation invariant if it's inexpensive
+- It's hard to justify turning the safety checks off -- maybe if it makes code run faster and makes the code easier to understand
+- Things might change the producer method or whatever, so it's important to call the checker function basicallye verywhere. 
+- Defensive programming -- Will you make mistakes? You will. But can you catch mistakes before users do?
+- Check the rep invariant on entry of mutators, check rep invariant on exit of mutators and creators, check preconditions, and check postconditions
+- Defensive programming guards against subtle bugs; these can occasionally cause problems and sneak out, and you want to be defensive against these
+- Don't expose your representation to the client -- don't give them a list they can modify which will break our representation
+- Avoiding representation exposure
+    - Understand what it is
+    - Design ADTs so it doesn't happen
+    - Treat rep exposure as a bug
+    - Test for it with adversairal clients -- pass values to methods and then mutate them
+- `private` is not enough: making it private does not suffice; the issue is the aliasing of mutable data outside the abstraction. `private` is a hint to you.
+- Easy way to do this -- make copies of all data that cross the abstraction barrier -- copy in parameters that become part of the implementation, copy out results that are part of the implementation
+- In Java, strings are immutable
+- Collections unmodifiable list -- throws an exception for all of the underlying methods -- if a user is trying to set an element, it will be violated
 
+```java
+Collections.unmodifiableList(elts);
+```
 
-
-
-
-
+- We can restrict our user to only using mutator functions
+- You can also give an immutable version of yourself to the client
+- `unmodifiableList` is a wrapper around the old `List` which only allows certain types of access
+- Has a slightly different specification.
+- Different from copy-out, which is a snapshot, whereas a wrapper stays up to date.
+- Different types of operations
+- Representation invariant -- just really for implementers, a client never really sees that
+- Abstraction function -- maps an object to an abstract state
+- A representation invariant only tells us what is true about our fields, but not how to interpret it.
+- The abstraction function tells us the representation, how to interpret the representation
+- Abstraction function is purely conceptual, not a Java function -- lets us check correctness
+- Consider int deque: a list that allows only insert/remove at the ends. 
+- One possibility is that the list only allows insert/remove at the ends
 
 

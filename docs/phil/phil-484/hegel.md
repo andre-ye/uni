@@ -186,8 +186,76 @@ Results obtained with respect to the notion of the History of Philosophy
 
 ---
 
-
 ## *Phenomenology of the Spirit*
+
+### Preface: On Scientific Cognition
+1
+- The preface is false as a historical statement
+- The preface is not the way to expound philosophical truth
+- Philosophy moves towards the universal
+- Right now, we do not yet have the subject(-matter)
+
+2
+- Defining how a philosophical work fits into a philosophical lineage is "extraneou" and misses what is really important for cognizing the truth.
+- One gets fixated on the truth or falsity of a proposition.
+- Philosophy is seen as a system of disagreements, rather than a progressive unfolding of truth
+- The plant/seed represents an organic unity even though it displaces itself.
+
+3
+- Demanding and supplying superfciail explanations for disagreement and such -- creates the impression of hard work without actually doing anything.
+- The real issue is not addressed by stating it as an objective, but by doing it; the result is not the whole but the result with the result.
+- The aim itself is "lifeless universal"; the aim is a mere drive without actuality
+- Differentiating and passing judgement is easy to do
+- This sort of work never really gets to the actual issue 
+- It remains preoccupied with it.
+- To judge a thing with substance is easy, to comprehend it is much harder
+
+4
+- Culture emerges from the "immediacy" of "substantial" life and must work up to the general conception of the real issue
+- Culture must inscribe within itself the genuinness of life.
+
+5
+- Truth can only exist in a scientific system of truth
+- Now is the time for philosophy to be raised to the status of a science.
+
+6.
+- Truth has only the Notion as the element of its existence -- what does this mean?
+- If the True exists in intuition, then what is required is the *opposite* of the Notion, because if we could just intuit then we could immediately know/have it.
+
+7
+- Spirit has overcome the immediacy of faith and substantialism
+- In fact it has gone all the way to unsubstantialism
+- It becomes conscious of its loss and its finitude
+- Philosophy must meet the need of Spirit to understand itself.
+- ...but has improperly done so by restoring the feeling of essential being -- providing edification rather than insight.
+
+8 
+- A frenzied effrot to tear individuals from their sensuous being to look at the divine and the absolute
+- Attention has been put towards "experience"
+- The Spirit is parched for some feeling of the divine
+
+9
+> Philosophy must beware of the wish to be edifying.
+
+10
+- A false claim that "rapturous haziness is superior to Science"
+- A defense of idealism essentially: against the disdain at determinateness
+- The objection is totally superficial
+- Non-conceptual, substantial knowledge hides the truth from itself -- it surrenders itself to its own contingency, it is totally uncontrolled. They imagine that they can draw a veil over elf-consciousness.
+- They receive in their sleep not the wisdom of God but dreams (Freud?)
+- Veil of ignorance -- literally Rawls
+
+11
+- 
+p. 42 in PDF
+
+
+
+
+
+
+
+
 
 
 

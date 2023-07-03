@@ -315,17 +315,126 @@ I: Introduction, exposition of argument, definition of nation / nationality
   - It does not matter if the beliefs that members hold in a nation are necessary true.
   - Can moraly accomodate those who hold false beliefs?
 
-II. 
+II. Particularism vs universalism
 - Surely ethics must be definition deriv efrom universal and rationally grounded principles
 - The issue is that the moral subject is treated as an abstract individual possessed with capacities of human beings but not fundamentally committed to any particualr particularities.
 - Particular duties, responsibilities, and rights are never regarded fundamentally (always derived from the rational and the universal)
 - On the other hand, consider another perspective in which the subject is already seen as deeply embedded in social relationships already with (partial) commitments. The agent can aspire to rationality, but it is not abstract rationality, rather reflecting on existing commitments.
 - Examinations
-  - Maybe my group does not really exist as a group
+  - Maybe my group does not really exist as a group, my commitment is based on false assumptions
+  - Are my existing commitments coherent? Maybe there is a contradiction in my commitments and I cannot be both kinds of people, and I need to decide which commitment is more fundamental
+- Ethical particularism is not a simply irrationalist outlook which elevates existing prejudices to objective truths.
+- Miller's defense is that it is practical to have these ambitions.
+
+III. Existing universalist approaches do not consider nationality to be significant
+- "Universalism can generate surrogates for national attachments but not the genuine article"
+- We can interpret the significance of social boundaries in contractual Kantian terms. "Mutual benefit societies".
+  - Problems that Goodin raises
+  - But also: obligations are tied to existing practices. Yet in the absence of practice I have no obligation to contribute. So basically these contract theories apply more to states than nations.
+  - Nationality is not a cooperative practice as much as it is a grouunding for such a practice -- it is a preexisting attachment.
+  - The ethical significance of nationality might remain even if states do not eist to capture them.
+- Goodin's approach: interpret boundaries as a convenient way to allocate responsibilities that derive from general duties.
+  - How utilitarians approach the boundaries issue -- a solution to a coordination / distribution problem.
+  - Issues
+  - Boundaries enclose people with very different levels of living. Whya re we putting the badly off in charge of the badly off and the well off in charge of the well off? 
+  - Again, applies to states and not really to nationality.
+- Most accounts of special duties ignore nationality altogether.
+- But Miller wants to take nationality seriously.
+
+IV: Articulating the critique of the nation
+- Particularists use specific attachments to make their point *under the expectation that they will carry particular weight*
+- 20th century nationalism has left a distaste in liberals' and Leftists' mouths. Perhaps the nation itself is a suspect category.
+- Nations are "imagined communities" -- bounds are fictitious, national allegiances cannot withstand rational reflection
+- In one sense, nations cannot be genuine communities. But there are also broader concepts of communities, e.g. "The Jewish community"
+- Nations are not formed from ethnic self-definition but the "exigencies of power" -- antionality is a manufactured item. It is a work of invention built on shared history. Creating an "ideological myth of origins and descent"
+- Does the mythic origin history at the center of a nation make national loyalties incapable of withstanding rational reflection?
+- Distinction:
+  - Beliefs which constitutive social relationships 
+  - Beliefs in the background which support constitutive beliefs
+    - Genetic relationships are a support to the actual lovingness and mutual supports which make a family a family
+    - The family remains intact even if there is a false belief.
+- The mythical origin story of a nation counts as a backgroundr ather than as a constitutive belief. The story is told for self-definition, and the relationships which form out of that persist even as the scaffold falls away.
+- Suppposedly it is constitutive of national identity that members of a nation have shared characteristics which justify political aggregation. Criticism: nationalities are heterogeneous populations masquerading as ethnic groups
+- Can there be a public culture shared among people with differing private cultures?
+- Nationality is going to inevitably trespass some on ethnicity and require curtailing of ethnic identity
+
+V: Responding to critiques of the nation
+- Two strategies to respond to the critique of nationality
+- Remain in the particularist framework, defend national identities from within -- defend the nation as an object of attachment
+  - Using the nation as the "object of allegiance' is not necessarily worse than other possible objects. Is ethnicity a more genuine form of allegiance than nationality? Ethnic identities are plastic too. Everything is plastic, socially fictitious. Nationality is rather self-sufficient and subject to rational control. The nation has political autonomy whereas other institutions do not. So it is better as a system for organizing political life.
+- Accept universalist terms and show on impartialist criteria that it is a good thing for people to have national attachments. (of course this is weak for particularists.)
+
+VI: A universalist commentary -- the dog crumbs
+- "Government house utilitarianism" -- only a select minority can guide ethical behavior by universalist criteria. Therefore the universal stands in for the partciular.
+- Philip Pettit: a consequentialist case for acknowledging different specific loyalties
+- Does the universalist standard have practical force?
+- Michael Walzer: distributive justice presupposes a bounded world in which distribution takes place. But what is the scope of this bounded world? Nothing strictly incoherent in seeking to extend the range to cover the entire globe, but this is widely implausible.
+- Universalist case for nationality creates communities with the widest feasible membership
+- Acton: multinational state
+- Hayek: anxiety that liberalism is being corrupted by socialism and nationalism (inseparable), trible sentiments like the Great Society
+- Is our ethical concern a commodity in limited supply?
+- If we beign from a universalist criteria, we will not end up with nationality as the optimal basis for special obligations, still.
 
 ---
 
 ## "Cosmopolitanism and Sovereignty" -- Pogge (1992)
+- The human future seems open
+- Fukuyamist vision of the end of history -- mutual pacifism of capitalist democracies
+- Borders become redrawn
+- Gradual global institutional reform
+- Pogge is something of a conventional liberal? Maybe?
+
+Institutional Cosmopolitanism based on Human Rights
+- All cosmopolitan positions share three elements:
+  - Individiualism: ultimate units of concern are human beings rather than states or other collectives
+  - Universalism: concern for individuals is truly across all individualisms
+  - Generality: there is global force, persons are units of concern for everyone, not only compatriots, fellow religionists, etc.
+- **Distinction**: Legal vs moral cosmopolitanism
+  - Legal cosmopolitanism: concrete political ideal of a global order where all persons have equivalent legal rights and duties
+  - Moral cosmopolitanism: all persons stand in certain moral relations to one another
+  - Pogge is concerned with moral cosmopolitanism
+  - Central idea: every human being has global stature as an ultimate unit of moral concern
+- **Distinction**: institutional vs interactional conceptions
+  - Institutional conception: postulates fundamental principles of justice which apply to institutional schemes
+  - Interactional conception: postulates fundamental principles of ethics which are first-order in applying to persons and groups
+  - Interactional cosmopolitanism assigns direct rersponsibility to other agents, whereas institutional cosmopolitanism assigns it to institutional schemes (persons' responsibilities are indirect)
+  - Pogge foucuses on institutional cosmopolitanism
+- Two limitations of institutional conception.
+  - Contingent applicability (emergence of social institutions)
+  - Global moral force of human rights activated only via global scheme of social institutions.
+  - These do not violate generality
+- Institutional approach goes beyond simple libertarianism without falling into a utilitarianism of rights which disregards our causal relation to harms.
+- Under the institutional view, third parties may be implicated more directly in human rights violations, whereas third parties can be neutral under the interactional view.
+  - Institutional view broadens those who can be responsible without having to affirm positive duties
+- Negative duties may generate positive oglibations.
+- Interactional $$\to$$ institutional prevents First World citizens from viewing themselves as morally disconnected from less fortune citizens of the Third World.
+- We share a collective responsibility for the justice of the existing global order
+- Is our global institutional scheme causallyr esponsible for current deprivations?
+- Focus on explanations: macroexplanation, microexplanation, etc. -- do global differences indicate local explanations?
+- What is the 'practical' moral importance of shared responsibility for justice in a global institutional scheme?
+- One counterargument: an institutional scheme has highly limited bounds of responsibility. Implausible!
+  - Irrational to assess social institutions without looking at effects
+  - Social institutions are human artifacts
+  - Incidental effects are normally taken into account in debates
+- A **consequentialist** account of social institutions
+- Michael Walzer: Distributive justice presupposes a bounded world, a community within which distributions take place.
+  - Attacked by Robert Nozick: there is no central distribution, no group entitled to control all the resources
+- Institutional approach involves a conception of distirubtive justice different from Walzer's
+  - About how to choose and design economic ground rules which regulate property, cooperation, and exchange
+  - This conditions production and distribution without requiring an already existing pool of resources
+  - Does not presuppose the existence of a community of persons committed to share with each other (contract theory). 
+  - Rather, we face a choice of economic ground rules which are partially open, not fixed.
+  - It is in fact morally wrong for affluent participants to perpetuate an unjust economic scheme., regardless of any communal bond
+- **Institutional cosmopolitanism does not entail crisp practical conclusions.** It is consequentialist, and therefore mediated by empirical conclusions.
+  - Takes seriously a moral question of engendering consequences
+  - A **strict implication** from the ground rules of an institutional scheme ("basic structure"?) to the effects
+- How is this different from Rawls? -- **question**
+- On what basis do we posit the metaphysical existence of human rights? -- **question**
+- Inference -- Singer is, by Pogge's model, an interactional cosmopolitan.
+
+The Idea of State Sovereignty
+- 
+
 
 ---
 

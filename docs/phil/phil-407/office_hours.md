@@ -28,7 +28,9 @@ PHIL 407
 ## July 5th
 - Getting clear on Goodin
     - Goodin says "In the present world system, it is often-perhaps ordinarily-wrong to give priority to the claims of our compatriots." In what sense does this comport with his argument?
-    - 
+- Foucault and Marx -- Where do they fall here? How to square off continental and analytic philosophy?
+    - Pogge: To what extent does this square off with what Marx is saying?
+- How do Hegel and Marx fit into the matrix we've set up throughout class?
 
 
 
