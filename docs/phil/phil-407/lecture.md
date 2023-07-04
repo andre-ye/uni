@@ -708,4 +708,60 @@ Justice as Equal Rights
 - Miller is a borderline socialist
 - Can someone be nationless?
 - The nation as the object of allegiance is not necessarily in worse shape than other possible objects.
-- 
+
+---
+
+## Lecture 8: Cosmopolitanism and Sovereignty
+
+Thomas Pogge (1953)
+- Becomes kind of problematic - should you teach the work of sexual harrassers?
+- Pogge is writing in a post cold war context -- this is the Peace of Nichius -- we can start reshaping the world in different ways. People in the early 90s are very excited, bring in Clinton from Reagan and Bush 
+- Feasible to think about global institutions
+- Persons should be citizens of political units, without any single political unit being dominant and occupying the traditional role of state.
+- Anti-Westphalian view: Westphalia, the state is the highest position.
+- If you are a cosmopolitan, you are committed to
+    - Individualism -- the individual is the fundamental unit of concern, social groups are composed of individuals. You don't, say, owe something special to your family just because it is a family; families are comprised of individuals. Being able to exit relationships is good. 
+    - Universalism -- the status of ultimate unit of concern attaches to every living human being equally -- not merely to some subset.
+    - Generality -- you are of equal concern, but you should also hold me in equal concern. 
+- Pogge resists the cosmopolitan concept of the "global citizen"
+- Two distinctions: legal vs moral cosmopolitanism (we are moral cosmopolitans), institutional vs interactional conception
+- Miller even considers himself a moral cosmopolitan.
+- Almost everyone takes an institutional conception of justice.
+- On an interactional view, one opposes slavery on the basis that they have a positive dutiy to protect or rescueothers from enslavement.
+- For an institutional view, the right constrains legala and economic institutions; you are perpetuating a negative state of affair
+- The institutional view: you should not harm folks,  you're not giving charity. Institutional ways of thinking ends up giving you more responsibility, not less.
+- Are you *morally responsible*? Institutions can be set up in tricky ways -- it's really easy to find bad people, but actually you might be responsible even if you don't know.
+- Provides ideal theory which seems to be able to be applied to non-ideal contexts
+- We do have an international scheme.
+- Pogge is, like Singer, a consequentialist.
+- Institutional view boradens the circle of those who share responsibility for certain deprivations and abuses
+- Marx and morality -- the moral follows from the political
+- The problem with a purely institutional view is that human rights seem to exist only when and where there are already schemes of global cooperation
+- Our negative duties trigger obligations
+- Does our shared responsibility for justice extend beyond our national institutional scheme?
+- Relativist/local objection to extending responsibility for justice. 
+    - "exporting democracy" / colonialism / cultural relativism / can we do anything about this
+- Pogge: we have populated international dynamics with human artifacts, they are predictable, and there are externalities proliferating in global circulation.
+- For cosmopolitan morality, concentration of sovereignty at one level is not defensible anymore.
+- Objection: we should focus on domestic schemes. Pogge: it might be harder -- we shouldn't make a fetish of state sovereignty.
+- *Not proposing a world state*, but rather governmental authority/sovereingty dispersed vertically, not just among states, but neighborhoods, towns, counties, provinces, states, regions, etc.
+    - Objection: Hobbesian, you presuppose a sovereign. Pogge: this is nonsense. The US does not have a top-down sovereignty, there are multiple checks on each other and we still have sovereignty. Why not disperse it vertically?
+    - Objection: There are certain vertically indivisible governmental functions, e.g. immigration whichform the core of sovereignty. Any political unit exercising these *core functions* is already dominant. What is the ride to exclude or admit? 
+- Pogge wants a stronger global structure. 
+- Why disperse sovereignty?
+    - Peace and security.  You can't eliminate elimination of weapons of mass destruction voluntarily
+    - Reducing oppression. Many states use their sovereigtny in obscene ways.
+    - Global economic justice. There's no other way to do this. States have too much power which just has to be checked. How are you going to force states to get goods?
+    - Ecology
+- The authority to make decisions should rest with a democratic political process in a unit which is
+    - as small as possible
+    - includes all legitimately affected people
+    - balances first and second considerations
+- Principles which ought to govern geographical separation of political units
+    - Inhabitants of any contiguous territroy can join an existing political unit if their population is willing to accept them as members
+    - Inhabitants of any contiguous territory of reasonable shape can form thesmelves
+- Borders are malleable, they can be redrawn -- they serve to reflect organizations of sovereignty.
+- A minimal anarchist tendency here.
+- Borders aren't irrelevant, but they aren't fixed either.
+
+

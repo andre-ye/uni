@@ -183,5 +183,56 @@ Couhnting recursive code
   - Expand via substitution
   - Find the closed form -- find when the base case occurs and get to the base case.
   
+---
+
+## Lecture 6: Tree Recurrence Method, Dictionary ADT
+Last time -- algorithmic analysis of recursive code
+  1. Write recurrences
+  2. Solve recurrences
+  3. Perform asymptotic analysis or find big-theta.
+- Unrolling method: keep on substituting until a pattern emerges. 
+- Closed form: get to the very base case and then rewrite it in terms of some $$n$$.
+- 'Binary sum' recurrent relation:
+
+$$T(n) = \begin{cases} c_0, & \text{ for} n=1 \\ c_1 + 2 T\left(\frac{n}{2} \right), & \text{ otherwise} \end{cases}$$
+
+- Be careful: if you have something like `return 2 * binarySum(arr, lo, mid)` -- the resulting recursive relation is not `2 \cdot T\left(\frac{n}{2})`, because `2` is just a constant factor: it is actually just `T\left(\frac{n}{2})` because we are only doing the computation once.
+- Tree method: you want to find the general formula and then the closed form.
+- General formula
+  1. Intiailize table
+  2. Draw actual tree
+  3. Add miscellaneous details -- recrsive calls, # nodes, sum work, etc.
+  4. Find the base case
+  5. Do work calculation
+- The sum work is the number of nodes at each recursive level multiplied by the amount of work at each node
+
+$$\sum_{i=0}^m x_i = \frac{1 - x^{m+1}}{1 - x}$$
+
+Common recurrences
+
+| Common recurrence relation | Order of growth | Example |
+| --- | --- | --- |
+| $$T(n) = T(n/2) + c$$ | $$\log n$$ | binary search |
+| $$T(n) = 2T(n/2) + n$$ | $$n \log n$$ | merge sort |
+| $$T(n) = T(n/2) + n$$ | $$n$$ | |
+| $$T(n) = 2 T(n/2) + c$$ | $$n$$ | recursive binary sum |
+| $$T(n) = T(n-1) + c$$ | $$n$$ | recursive sum |
+| $$T(n) = T(n - 1) + n$$ | $$n^2$$ | |
+| $$T(n) = 2T(n-1) + c$$ | $$2^n$$ | |
+
+Dictionary ADTs
+- ADTs so far: stack, queue, priority queue
+- Dictionary/map: one of the most important ADTs
+- A set of unique key-value pairs -- the keyset must be unique
+- A set ADT is similar to a dictionary ADT without any values
+- A set: does a key exist or not? (no duplicates)
+
+Dictionary runtimes with primitive data structures
+
+| | insert | find | delete |
+| unsorted linked list | $$\mathcal{O}(n)$$ | $$\mathcal{O}(n)$$ | $$\mathcal{O}(n)$$ |
+| unsorted array | $$\mathcal{O}(n)$$ | $$\mathcal{O}(n)$$ | $$\mathcal{O}(n)$$ |
+| sorted linked list | $$\mathcal{O}(n)$$ | $$\mathcal{O}(n)$$ | $$\mathcal{O}(n)$$ |
+| sorted array | $$\mathcal{O}(n)$$ | $$\mathcal{O}(\log n)$$ | $$\mathcal{O}(n)$$ |
 
 
