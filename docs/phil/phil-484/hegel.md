@@ -246,16 +246,81 @@ Results obtained with respect to the notion of the History of Philosophy
 - Veil of ignorance -- literally Rawls
 
 11
-- 
-p. 42 in PDF
+- Our current times are one of a new birth
+- Spirit has separated itself from the world it was born from
+- The world is crumbling, etc. etc.
 
+12.
+- The new world is not more 'actual' nor 'complete' than a newborn. It begins in its Notion.
+- More references to nature and such
+- Science is not complete in its beginnings
+- Actuality of the Notion of the whole manifests itself in various forms, which are its *moments*
 
+13.
+- Science appears to lack universal intelligibility due to its clouded complexity
+- Yet the intelligible form of Science is accessible to all.
+- Consciousness approaches Science and demands it be open to ordinary understanding
 
+14
+- Science is vulnerable to criticism in its early stages.
+- But this criticism should not quell growth and further development.
+- A tension in scientific culture between material understanding and rationality & divinity
 
+15
+- Everything is subject to the absolute Idea; the Idea appears in everything
+- This proliferation of the Idea comes about through "shapeless repetition of the same formula" -- which is tedious and uninteresting
+- The Idea is more than this -- not merely applying a **monochromatic formalism to external material without an internal development**, which does not suffice for genuine knowledge.
+- Hegel is critiquing a superficial approach to scientifi cknowledge focusing on external application of formulas
 
+16.
+- Formalisms maintain that **abstract universality of the monotonous form** are the Absolute
+- We have been dancing around the true universal Idea in non-actual form
+- In the Absolute everything is the same -- and in the night all cows are black, naively vacuous cognition of stupid scientific formalisms
 
+17.
+- Everything turns on grasping and expressing the True as both Substance and Subject
+- Substance embraces the universal, or immediacy of knowledge itself, and immediacy for knowledge.
+- Is God the one Substance? Self-consciousness is submerged but not preserved.
+- The question of intuition
 
+18.
+- Living Substance is truly Subject
+- Substance is, as subject, simple negativity
+- The True is not given immediately, sensuously
+- The fucking bizarre circle
 
+19.
+- In-itself: Life is one of untroubled equality and unity with itself (abstract universality)
+- Divine essence is not merely essence, but also form -- only then can it be conceived in actuality
+
+20
+- The Truth is the whole
+
+> But the whole is nothing other than the essence consummating itself through its development.
+
+- The Absolute is essentially a result
+- This seems like a contradiction
+- Initially, the principle / Absolute is only the universal.
+- But they provide an immediate intuition of something greater
+- Mediation, becoming-other
+- Truth unfolds through the process of mediation
+
+21
+- Mediation is self-moving selfsameness
+- The "I" is immediacy in the process of becoming
+- Reflection makes the True a result, but also overcomes the antithesis between process and result
+- The embryo is in itself a human being, but not a human for itself; reason makes itself in itself.
+
+22.
+- Reason is purposive activity. 
+- The form of purpose has been discredited by materialism/Naturalism.
+- Aristotle, though, defines Nature as a purposive activity; purpose is unmoving and self-moving (Subject); power to move is being-for-itself, pure negativity.
+- Maybe the beginning is the purpose -- the actual is Notion because the immediate (purpose) contains pure actuality within itself.
+
+23.
+- So we hav ea need to represent the Absolute as Subject: God is eternal, moral world-order, etc.
+- The True is posited *immediately* as Subject, rather than through mediation.
+- Subject gets posited as an inert point, whereas in actuality it is self-movement.
 
 
 
