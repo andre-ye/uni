@@ -764,4 +764,102 @@ Thomas Pogge (1953)
 - A minimal anarchist tendency here.
 - Borders aren't irrelevant, but they aren't fixed either.
 
+---
+
+## Lecture 9: Law of Peoples
+- Pogge, what does it take to be a cosmopolitan? Individualism, universalism, etc.
+- Joseph Carens, Charles Beitz, etc. -- took John Rawls and applied it to the global scale.
+- Under the original Position, individuals are primary agents; wealth states are required to redistribute some of their wealth by an international difference principle
+- Rawls says: you guys are all wrong.
+- Two basic principles of justice are designed for the basic structure of society
+    - Some people tried to applyt ehv eil of ignorance to personal conduct, etc. -- how I should act
+    - Rawls designed the original psoition to define the basic structure of society
+    - Not the governance of private associations, not for relations between states -- against Pogge, Beitz, Carens
+- The *Law of Peoples*, 1999. There is a kind-of international basic structure. It is international but not cosmopolitan.
+    - International = relationships between nation-states
+    - Cosmopolitanism is focused on individuals.
+- Peoples vs state -- Rawls prefers the word 'peoples'
+- You have representatives who serve as agents of international justice
+- Committed to a view of pluralism -- Plato's Cave is very nice when only one person leaves the cave. What if 5-6 people escape and they see the Good and come back to the cave? And they all say different things which are right but different? There are different, competing, and equally valid views of the Good. You don't have a God's-eye view of things -- we have no epistemic access to the Good as such.
+- The views of all well-ordered societies need to be respected in an international original position
+- Rawls is suspicious of a world government, it'll lean towards despotism and endless fighting by groups seeking independence.
+- Demanding 'global' liberalism (which most cosmopolitans aim for) is too intolerant, it doesn't respect pluralism.
+    - Interesting statement: societies do not need to be liberal to be 'well-ordered'
+    - Liberalism can be overly imbued with Western values -- it sounds so good to us because ... we saw the Sun, etc.
+    - Illiberal societies are not going to disappear anytime soon. 
+    - Pogge dodges the world government suspicion but demands global liberalism
+- Peoples: Are comprised of individuals ruled by a common government, bound together by common sympathies, firmly attached to a common conception of right and justice.
+    - Trying really hard not to say nations, because that's Miller, he's not a nationalist
+    - It sounds like a nation, but it's not
+    - People differ from states because peope do not necessarily have traditional sovereign state powers but strive towards them.
+    - e.g. indigenous communities in the US
+    - e.g. Palestinians in the West Bank
+    - The details aren't as important as what Rawls is trying to make us see -- peoples will try to become states
+    - Trying to make sure that some people don't get left out in the global position
+- Well-ordered societies
+    - Society vs state
+    - We are supposed to respect well-ordered societies
+    - Maintain morally acceptable relations with outside societies -- not expansionist or prone to welfare
+    - Maintain minimally decent political institutions -- respect human rights
+- Outlaw soceities -- threat to peace and can be confronteda s a matter of self-defense
+- Burdened societies -- want to be well-ordered but don't have the resources to build institutions to do so
+- Decent peoples are not liberal but well-ordered
+    - Kazanistan: An Islamic state where only Muslims can hold the high office
+- Outlaw -- an outlaw to whom or what? What is the Law? We have a moral obligation to go in and fix it. When it gets to genocide, you are now an outlaw state and you need to do something to stop genocide. 
+
+Elizabeth Anderson
+- What is wrong with inequality?
+- it is unjust when it is accidental, caused by morally arbitrary factors
+- Nozick pushes back against this
+- Relational egalitarians claim that inequality is unjust when it disadvantages people, when it reflects, embodies, or causes inequality of authroity, status, or standing
+- Camps disagree on how to conceive of equality
+    - Equal distribution of non-relational goods among individuals (cosmopolitans -- luck egalitarianism)
+    - A kind of social relationships between people -- authority, status, standing (Rawls -- relational egalitarian)
+- Different families 
+- Going behind the veil of ignorance -- who substitutes for what parties?
+- Different conceptions of the good -- tolerance?
+- There is no international difference principle, you can't have that because that would be trying to turn everyone into Family C
+- Difference principle: arbitrary differences sohould not be allowed to determine distribution unless the inequality maximally benefits the least advantaged members of society
+- The difference principle has to applyto cooperative schemes, it's not a cooperative scheme in the same way that domestic societies are.
+
+The international veil of ignorance
+- You are a peoples' representative; you know the reasonably favorable conditions which make democracy possible, but you do not know your natural resources, level of economic development, etc.
+- Principles of the international basic structure
+    - You can't ask for a difference principle
+    - Peoples are free and independent, and this is to be respected by other peoples
+    - Peoples are to observe treaties and undertakings -- i.e. hold up to your contracts
+    - Peoples are equal and are parties to the agreements that bind them
+    - Peoples are to honor human rights
+    - Peoples are to observe the duty of nonintervention
+    - Peoples are to honor human rights
+    - Peoples are to observe the duty of nonintervention, except in extreme cases -- you can't intervene whenever something you don't like happens.
+    - Peoples have a right to self-defensive, but not to instigate war for other reasons
+    - Peoples must observe specified restrictions in the conduct of war
+    - Peoples have a duty to assist other peoples living under unfavorable conditions that prevent their having a just or decent political and social regime -- you need to get burdened societies to a minimally decent level
+- Private note -- liberalism holds within itself a self-negating gesture, which is that under liberalism one must tolerate anti-liberalism / illiberalism.
+- What counts as intervention?
+- Does Rawls offer a geneological type explanation for how things *came to be*?
+- Is liberalism superior to illiberalism?
+- Is pluralism incompatible with liberalism?
+- Core human rights
+    - Right to subsistence, security, property, formal equality before the law.
+    - Peoples cannot engage in acts like slavery, genocide, religious persecution, starvation, or mass murder -- you become an outlaw state when you do this
+    - There are limits on international toleration.
+- Rawls: if you're an illiberal state, we don't like you, but we can tolerate you -- but if you become an outlaw state, we need to change you
+- No one likes the *Law of Peoples* -- everyone hates it, but for Rawls: if everyone is attacking me, I'm in the right spot.
+- Inequalities in the international scheme are due to internal rather than external reasons -- a lto of emphasis is put on the peoples themselves.
+
+Is *Law of Peoples* a betrayal of liberalism?
+- Seems to give legitimacy towards inegalitarian regimes
+- Decent societies might deprive wome nof education -- it's not good, but you need to tolerate it under liberalism.
+- In the international original position, peoples are represented by the dominant group and dissenting voices seem to be out from the start.
+- It seems to me like Rawls has no balls
+
+
+
+
+
+
+
+
 
