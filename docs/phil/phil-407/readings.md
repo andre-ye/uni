@@ -433,10 +433,67 @@ Institutional Cosmopolitanism based on Human Rights
 - Inference -- Singer is, by Pogge's model, an interactional cosmopolitan.
 
 The Idea of State Sovereignty
-- 
+- A is sovreign over B iff
+  1. A is a governmental body
+  2. B are persons
+  3. A has unsupervised and irrevocable authority over B
+- Moreover this sovereignty is absolute iff A is sovereign over B and no other agency has authority over A or over B which is not under A.
+- Modern political thought: the autonomous territorial state has become the preeminient form of political organization
+- Sovereignty is heavily concentrated at the single level. i.e. every individual owes obligations to one nation/state.
+- Cosmopolitan morality condemns concentration of sovereignty at one level
+- Vertical dispersal of governmental authority -- centralization and decentralization.
+- Individuals should govern themselves without dominance of one political unit over the other.
 
+> "People should be politically at home in all of them."
+
+- Objection 1: Sovereignty cannot be divided.
+  - Hobbesian and Kantian dogmatism on absolute sovereignty
+  - Juridical states must have total control over agency
+  - But we can have different branches checking each other and still ahve sovereignty.
+  - It is nonsense that sovereignty in a multilayered scheme must be concentrated on one level exclusively. Federalism
+- Objection 2: Vertical dispersal of sovereignty does not work for certain functions which are core to sovereingty, e.g. immigration (Walzer).
+  - Walzer: insisting on openness to avoid a thousand petty fortresses asks too much of neighborhoods
+  - A moral objection to states controlling immigraiton
+  - Walzer is right that state control is better than none.
+  - But state should have a say to admit neighborhoods willing to accept them. But neighborhoods can also keep them out to keep their culture.
+
+Some main reasons for a vertical dispersal of sovereignty
+1. Peace/security: interstate rivalries are currentlys ettled via military competition. National governments do anything they want within their borders. We need a centrally enforced reduction in the dominance of state sovereignty.
+2. Reducing oppression -- state sovereignty is used as a cover for domestic oppression, to handle 'their' populations when people are not the property principlally of any one state.
+3. Glboal economic justice -- global sovereignty supports redistribution and encourages conservation. Global economic justice is an end in its own right which requires a redistribution of politicla authority.
+4. Ecology -- modern processes of production and consumption generate ecologically negative externalities which are often the product of prisoner's dilemmas set up via equivalent sovereign authority of nation-states. The degredation of the environment affects us all.
+- A multilayered state provides checks on oppression. Not calling for a world state. Cultural and social diversity too may be better protected at lower-level political units.
+- Democracy: people have a right to an institutional order under which those who are affected by a political decision should have equal opportunity to influence its making. Local autonomy
+- Objection to a human right to political participation/inclusion: what matters about political decisions is that they are correct, not necessarily their formation process. However, most poltiical choices are not morally closed. And there is a question of responsibility too.
+- Three sets of considerations
+  - Decentralization -- minimize decision-making burdens on individuals. 
+  - Centralization -- necessary to avoid excluding affected persons from being involved in the decision. Kant -- we cannot avoid affecting each other.
+  - Correction / balance -- a democratic political process of a unit as small as possible but including all affected persons. What emerges as the best vertical distribution from this balancing?
+- Weighting in correction/balance, two notes
+  - The oppressed should be given more weight.
+  - Commonalities of language, religion, ethnicity, and hisotry are irrelevant. They do not give people a claim to be part of each other's political lives. (China & Taiwan?) 
+- Democracy can take many forms. There is no one specific orientation recommended.
+
+The Shaping and Reshaping of Political Units
+- A multilayer scheme is a feasible end of progressive gradualism -- requires moderate centralizing and decentralizing wherever appropriate
+- Two procedural principles to govern geographical separation of political units *at any level*
+  - Inhabitants of any contiguous territory may decide to join a willing and existing political unit.
+  - Inhabitants of any contiguous derritory may decide to form a new political unit.
+- Conflicts over borders lose much of their intensity. Such conflicts often have morally inappropriate motivations. We often fight over borders because of the centralization of sovereignty at the national level.
+- Two amendments
+  - Burden of proof rests with advocates of change
+  - Require supermajoritarian process
+- The question fo paternalism
+- Pogge's cosmopolitanism is "committed to the freedom of individual persons and therefore envisions a pluralist global institutional scheme."
+- Criteria are partial functions left open to concretization
+- Issues with denying that the individual is the fundamental unit of moral concern
+- Others accept this premise but formulate the right of persons with essential reference to the state/nation to which they belong. (e.g. Walzer.)
+  - Rebuttal: how is the derivation supposed to work?
+- Perhaps Pogge is a brutal idealist.
 
 ---
+
+## "Distributive Justice, State Coercion, and Autonomy" -- Michael Blake (2006)
 
 
 

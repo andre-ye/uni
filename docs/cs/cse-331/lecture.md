@@ -311,4 +311,64 @@ Collections.unmodifiableList(elts);
 - Consider int deque: a list that allows only insert/remove at the ends. 
 - One possibility is that the list only allows insert/remove at the ends
 
+---
+
+## Lecture 7: Abstraction Functions and Testing
+- Representation exposure -- copy in/out, immutable, unmodifiable, etc.
+    - Wrappers can be used to enforce wrappability
+- Specifying an ADT -- `creators`, `observers`, `producers`, `mutators` -- acts as an abstraction barrier
+- Abstraction function provides an interpretation from a concrete state to an abstract representation
+- How to ensure correctness?
+    - Tools
+    - Inspection
+    - Testing, usually 40-50% of the work
+- Edsgar Dijkstra -- testing can only be used to show the presence of bugs, but never their absence
+- Only reasoning can prove that there are no bugs
+- Donald Knuth -- beware of bugs: I have only proved this code correct, not tried it
+- You will be expected to test your own code
+- Quality/assurance, test teams -- but now nonexistent
+- Easier to update products after shipping, but also lowers quality expectations
+- It's hard to test your own code
+    - Confirmation bias
+    - Operant condtioning
+- You can get around confirmation bias by writing most of your tests before the code.
+- Testing is about writing test cases -- units of code which decide whether or not the functions have performed the exepcted behavior
+- A test case for the function consists of test inputs and a test oracle
+- We want to check if `f(a, b) == c`
+- Different types of testing
+    - Unit vs integration vs system/end-to-end
+    - Clear box vs opaque-box/black-box
+    - Specification vs. implementation
+- Unit test -- focuses on one class / module, could write a single test for a single method
+- Integration test -- modules fit together properly
+- System test -- runs on the entire system. Useful to help catch bigger problems -- preconditions don't match postcondition, etc.
+- We want to test many things but find as mall number of tests which cover a large space
+- partitino the input sapce into subdivisions / partitions, identify sets with the same behavior (actual and expected), and test at least one input from each set (the subdomain)
+- Two problems: notions of same behavior si subtle
+    - Naive approach: execution equivalence.
+        - Assumes that the code itself can be correct
+        - You can't just picks ome element, yu need to pick outhers
+    - Better approach: revealing subdomains
+        - A more precise definition
+        - A subdomain sia  subset of possible inputs
+        - A subdomain is revealing for error E if either
+            - every input in that subdomain triggers error E or
+            - no input in that subdomain triggers error E
+        - Needs test at least one input from a revealing subdomain to find bug
+        - Guess revealing subdomains for the errors present
+- Discovering all sets requires perfect knowledge -- if we had it, we wouldn't need to test. So we should use different heuristics.
+- Testing is heuristics
+    - Testing is essential
+- A good heuristic gives
+    - for all erorrs in some class of errors E, high probability that the subdomain is revealing
+    - but is also not absurdly large
+- Opaque-box approach: visible specification, internals hidden
+    - Not influenced byt he impelemtnation at all -- you can write specification tests without writing any code
+- Clear-box testing
+    - Focus on features not described by specification, like control-flow details, performance optimiztions, etc.
+    - Clear-box testing can catch subdomains that opaque-box testing does not, i.e. in cacheing situations
+    - Finds an important class of boundaries
+- Common off-by-one error heuristics: boundary cases, include examples on each side of the boundary
+- Don't confuse volume with quality -- we want tests in every revealing subdomain, not just a torrent of tests
+- 
 
