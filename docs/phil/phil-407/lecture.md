@@ -855,11 +855,75 @@ Is *Law of Peoples* a betrayal of liberalism?
 - In the international original position, peoples are represented by the dominant group and dissenting voices seem to be out from the start.
 - It seems to me like Rawls has no balls
 
+---
 
+## Lecture 10: Distributive Justice, State Coercion, and Autonomy
+- Rawls should have probably gone another direction
+- Universalism: impartiality (general duties, cosmopolitanism, liberals tend to be universalists), particularism: partiality (special duties, we owe some things to certain people that we do not owe to everyone, e.g., nationalism; communitarians tend to be particularists)
+- Can and how do liberals justify partiality?
+- Miller is a liberal nationalist -- you hav eto have the nation first
+- A second attempt
 
+Michael Blake
+- We can defend principles of sufficiency abroad and principles of distributive equality at home because these principles can be understood as distinct implications of impartial principles in distinct institutional contexts.
+- There's no real tension here between being impartial and being partial; different contexts require different things.
+- Coercion rather than cooperation is the sine qua non of distributive justice
+- Sine qua non -- the thing without which there is nothing, the essential thing.
+- The mere fact of material inequality globally greater than what is allowed byt ehd ifferece pirnciple is morally equivalent to denying the right to vote
+- Liberal equality does not allow for those who don't share the state to be affected by their qualities -- even more so when citizenship is the result of morally arbitrary features.
+- State borders are not morally irrelevant.
+- There is no coercion or cooperation at the global level which is as significant as in states.
+- Rawls' problem is that he thought the issue was a cooperative scheme from distributing benefits of a cooperative position
+- That's not why we need to have an original position, but because of the coercive element.
+- Blake is marginally famous, not like Beitz and Pogge, why we should have this cooperative scheme
+- The domestic original position -- if you read Rawls, he should have been concerned with coercion, how do you justify coercion? Liberals are concerned about autonomy principally -- all this stuff about equality is important insofar as it respects autonomy.
+- The more coercion you have, the more soceity demands equality.
+- At that point, if you said borders of the state were arbitrary, you go full Carens, open borders... but Blake says that even if they are arbitrary, they are morally relevant via coercion. 
+- Relative vs absolute deprivation (compare with luck and relational egalitarianis) -- there is a threshold to decent human functioning, beneath which the possibility of atuonomous human agency is removed. In a certain sense death is the ultimate result.
+- You cannot appeal to the holdings of others -- you all are required to act; it doesn't matter what you have.
+- Relative deprivation (maps more onto relational egalitarian view) -- the moral gravity of the case might increase as the gap between resource holders and resource lackers grows
+- Liberalism concerns itself with absolute deprivation abroad and restricts concern for relative deprivation locally.
+- You need to help out absolute deprivation
+- Coercion matters if it challenges autonomy.
+- Is exploitation a form of coercion? Is exploitation coercive? Reframing: Is exploitation an invasion of autonomy?
+- If someone is in absolute deprivation, it is coercive if I do not unconditionally help them to get out of absolute deprivation.
+- Shared citizenship gives rise to a concern with relative deprivation which is absent in the international realm. What looks like partiality is actually an implication of an impartial principle
+- Goes to Aristotle's Neomachean ethics: a wrestler milo eats a lot; what is good for MIlo might not be good for a smaller guy. What appears to be giving each individual partially, it is rather an impartial principle for giving each what is owed.
+- Noninstitutional and Institutional Theory
+    - Noninstitutional Theory: abstracts away which institutions we currently have -- what do we want if we start from scratch?
+    - Institutional Theory (Conservatism): Don't ask how we should have developed the world, but what the various institutions we have now must do for their powers to be justifiable.
+    - We should at least try to justify institutions
+- Teh fundamental principle: All individuals should have access to goods and circumstance swhere they can live as rationally, autonomous agents, and can pursue plans of life in accordance with individual conceptions of the good. 
+- Crippling social norms like caste systems are violations of autonomy. 
+- Coercive practices and institutions should be justified or eliminated
+- Coersion at the domestic vs stat elevel -- you need a justification at the national level which you aren't finding in the internationa llevel
+- This is what motivates the original position -- you can take Bezos and redistribute to other people because they are under a coercive scheme. Something about state coercion is different.
 
-
-
-
-
-
+Joseph Raz's Conditions of Autonomy
+- Everyone thinks Raz has autonomy correct
+- Person has appropriate mental capacities tof rormulate personal rpojectrs and pursue them
+- Enjoy an independent range of options
+- Indpeendent, subject to the anti-will of another throgh control 
+- WHat happens when someone coercively removes options / denies mya bilityto live my own life fromt he inside,t to build myself in the world
+- What sorts of consideraitons could justify partiality / an impermissible violation of autonomy?
+- For someone like Blake, in order for a random person to coerce you, they have to give a good story why. Paternalism is ok if it's allread
+- There is no international coercion in the ame wy that states have power -- the very ability to pursue our plan sappears impossible na deq=
+- International legal institutions do not engage in cooperative pra;felse, etc.
+- A strate is inherently ocncerisv
+- For Blake, this is a question -- the cops execute the coersion. 
+- Rawls principles of justice hold within a set of individuals who share coercive political institutions, since those institutions stand in need of justification through th euse of public reason.
+- Laws of the Poeple is where Rawls goes wrong -- coercion is very intertwined, but you see the difference really when you get to the international level. Rawls kept talking about cooperation. 
+- Two Autarkic States -- Borduria and Syldavia. Borduria is well off, Syldavians are not well off -- but purely becuase of morally irrelevant factors, and they are entirely isolated from one another.
+    - Syldavnians are less well-off than Bordurians; Bordurians may give their wealth to Syldavians more out of supererogation than of obligation.
+    - A luck egalitarian rejects this, but a relational egalitarian accepts this.
+    - Beitz and Pogge -- Yes, but this changes once trade and iplomacy begin to take place. These links then comprise a cooeprative scheme for mutual benefit. 
+    - Imagine now that after lotrs of trading, the Syldavians improve slightly and the Bordurians improve a lot more. Can we condemn trade and diplomacy for allowing this degree of material inequality?
+    - Barry's intuition -- within states, we have gngoing coercion in a way in which you don't have without -- trade is a matter of offers rather than of threats
+- Blake is trying to show you that we can have a cooperative scheme for mutual benefit, and it doesn't feel like the justice principle requires that we share across nations. 
+- Justice and fairness: the just thing is to act on climate change because it acts against our autonomy. But when we come together, there is a question of fairness -- who can do what, and how should we do it. 
+- Distributive justice requires for there to be coercion in the scheme.
+- For Blake, the folks he is arguing against are Beitz and Pogge who think that cooperation itself creates a demand for the difference principle to operate at the global level.
+- Respecting people's autonomy. Are there ways in which one nation can invade the other's autonomy even if it isn't strictly coercive? 
+- If you coerce another body, you need to provide justification.
+- We are under no obligation to maximzie the world's welfare, but we are under an obligation to avoid denying the conditions of autonomy to all human beings. We are non-utilitarian.
+- 

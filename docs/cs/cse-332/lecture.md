@@ -236,3 +236,117 @@ Dictionary runtimes with primitive data structures
 | sorted array | $$\mathcal{O}(n)$$ | $$\mathcal{O}(\log n)$$ | $$\mathcal{O}(n)$$ |
 
 
+---
+
+## Lecture 7: Binary Search Trees
+- Dictionary ADT: set of unique key-value pairs.
+- Lazy deletion -- instead of deleting the physical element in the array, include an extra bit in each field indicating whether the element is deleted or not.
+  - Advantages: simpler, can remove in batches, just unmark if re-added
+  - Disadvantages: extra space, wastes space, $$\log m$$ time where $$m \ge n$$
+- Height is noramlly $$\log n$$, but we need guaranteed balancing of search trees to present worst case linear time.
+- Trees offer speedups because of branching factors
+- We can improve worst-case to $$\log n$$ for all operations (search, add, delete) by using a binary search tree
+- We need a data structure which uses a binary search mechanism
+- Binary tree is either a root, a left subtree, or a right subtree. It is data with a left pointer and a right poitner. For a dictionary, the data will be a key-value pair.
+- For a binary tree of height $$h$$,
+  - the maximum number of leaves is $$2^h$$
+  - maximum number of nodes is $$2^{h+1} - 1$$
+  - minimum number of leaves is $$1$$
+  - minimum number of nodes is $$h + 1$$
+- Height: distance from root to the furthest leaf -- recursive code to check left and right child
+- Pre-order, in-order, post-order
+  - Pre-order: root, left, right
+  - In-order: left, root, right
+  - Post-order: left, right, root
+- Recursing through left subtree, root, right subtree
+- A lot of code with trees is done through recursion
+- Structure (each node has 2 or less children) and order (all keys in the left subtree are less than the node's key, and all keys in the right subtree are larger)
+  - Keys must be comparable
+  - No duplicates are allowed
+  - No less than or equals to
+- `find` method: recursive. If key is less than root key, return find for left subtree. If key is greater than root key, return find for right subtree. If key is equal to root key, return root.
+  - Minimum node: keep on going left until you hit a null node
+  - Maximum node: keep on going right until you hit a null node
+- `insert`: each insert is inserting a leaf node. Call `find`, and then create a new leaf node.
+- `delete`: 3 cases. Important thing is to keep the ordering property met.
+  1. Node is a leaf node: just delete it
+  2. Node has one child: replace node with child
+  3. Node has two children: replace node with successor (minimum of right subtree) or predecessor (maximum of left subtree)
+- Balancing conditions which both don't work because you can carry on with linked-list problem
+  - Left and right subtree of just the root have the same number of nodes
+  - Left and right subtree of just root have the same height
+- Balancing conditions -- every node has the same number of nodes or every node has the same height, this is TOO STRONG -- because it requires only perfect trees. Certain numbers of elements don't even work.
+- Instead, we meet in the middle. Left and right tree heights differ by at most one for every node.
+
+AVL balance property:
+$$\left| \text{height of left subtree} - \text{height of right subtree} \right| \le 1$$
+
+- Always ensures that the root height is $$\log n$$, and is efficient to maintain -- $$\Theta(1)$$ rotations.
+- AVL Tree stands for Adelson-Velskii and Landis
+- AVL tree is a BST which is balanced
+- With an AVL Tree node, we also add a height field into our node so we can keep our field value.
+
+---
+
+## Lecture 8: AVL Trees
+- Use B-Trees and Quicksort sorting presented in class
+- AVL Tree is a BST which is balanced
+- P is the problme node where an imbalance occurs. There are four cases.
+  - Left-left: left child of left subtree
+  - Left-right: right child of left subtree
+  - Right-right: right child of right subtree
+  - Right-left: left child of right subtree
+- Cases 1 and 3 are solved by a single rotation; cases 2 and 4 are solved by a double rotation
+- When going back up, use backtracking and rebalance the deepest imbalanced node
+- Single-rotation (left left and right right):
+  1. Move the child of p to the position of p
+  2. p becomes the 'other' child
+  3. Other subtrees move based on what BST allows
+
+Left-left:
+```
+    p          A
+   / \        / \
+  A   Z  ->  X   p
+ / \            / \
+X   Y          Y   Z
+```
+Right-right:
+```
+  p              A
+ / \            / \
+Z   A    ->    p   X
+   / \        / \
+  Y   X      Z   Y
+```
+
+- Double rotation (left-right and right-left)
+  - Rotate p's child and grandchild
+  - Rotate p and p's new child
+
+```
+  p       p
+   \       \          X
+    A  ->   X   ->   / \
+   /         \      p   A
+  X           A
+```
+
+- AVL efficiency:
+  - find is in $$\mathcal{O}(\log n)$$
+  - insert is in $$\mathcal{O}(\log n)$$
+    - rotation is in $$\mathcal{O}(1)$$
+    - Deepest descendant is in $$\mathcal{O}(\log n)$$
+  - buildTree is in $$\mathcal{O}(\log n)$$
+  - Lazy and nonlazy deletion are both in $$\mathcal{O}(\log n)$$
+- DSA is all about maintaining invariants / assumptions
+- Pros of AVL Trees:
+  - All operations are worst-case because trees are always balanced
+  - height balancing adds no more than a constant factor
+- Cons of AVL Trees:
+  - Difficult to program and debug
+  - MOre space needed for the height field
+  - Asymptotically faster, but rebalancing does take time
+  - Mot large searches are done in data-base systems, where the data is stored on disk. Disk access is slow, so we want to minimize the number of disk accesses. AVL trees are not good for this because they are not cache-friendly.
+- B-trees try to exploit the fact that disk access is slow with high branching and use block sizes (accessing contiguous chunks of memory at a time)
+

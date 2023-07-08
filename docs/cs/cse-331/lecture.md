@@ -370,5 +370,31 @@ Collections.unmodifiableList(elts);
     - Finds an important class of boundaries
 - Common off-by-one error heuristics: boundary cases, include examples on each side of the boundary
 - Don't confuse volume with quality -- we want tests in every revealing subdomain, not just a torrent of tests
-- 
 
+---
+
+## Lecture 8: Testing
+- Kinds of testing  -- all fall along a single dimension, want to test certain kinds
+- Dimensions: scope, information about the code itself, how the actual code should function
+- Consider `find(int[] a, int value) throws MissingException`. What do we need to test?
+    - Throwing `MissingException` if `value` $$\notin$$ `a`
+    - Test with other arrays
+- Clear-box testing heuristic
+- Heuristic: boundary cases -- test on each side of the boundary
+    - A point is on the boundary if there exists an adjacent point in a different subdomain or if there is no adjacent point in some direction
+    - You need a notion of adjacent inputs.
+    - Identify basic operations on input points; two points are adjacent if they are one basic operation apart.
+    - An empty data structure is usually a boundary case
+- Heuristic: special cases.
+    - null objects
+    - Same object passed as multiple arguments
+    - Try `Integer.MIN_VALUE` and `Integer.MAX_VALUE` for integers
+    - Actually `Math.abs` cannot give you the true absolute value of `Integer.MIN_VALUE`
+    - Your precondition should include "your inputs should not be null"
+- Regression testing
+- Common goal is to achieve high code coverage -- make sure that most of the behavior is tested.
+- You can have high code coverage and still be shitty.
+- Branch coverage -- make sure that every branch is taken
+- Mutation testing -- make small changes to the code and see if the tests catch it
+- Path coverage is not enough
+- 

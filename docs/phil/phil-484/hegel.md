@@ -322,5 +322,64 @@ Results obtained with respect to the notion of the History of Philosophy
 - The True is posited *immediately* as Subject, rather than through mediation.
 - Subject gets posited as an inert point, whereas in actuality it is self-movement.
 
+### Introduction
 
+73
+- Before we deal with what cognition truly is, we must first understand what it is. What is its relation to the Absolute?
+- Can we understand cognition through cognition?
+- Why should we use cognition as a *means* if the Absolute is already somehow congealed in it?
+- Maybe we can understand how the instrument works and remove the artifact introduced by the instrument. But this is a superfluous effort which leaves us as we were before.
+- Provided analysis: It is a natural idea that before engaging in philosophical inquiry one should first examine the instrument or medium of such  knowledge (Locke, Kant). Perhaps it is a good or a bad instrument, perhaps no good at all for knowledge of what absolutely is, since it modifies or distorts its object. It is quite vain, however, to try to eliminate the refracting and transforming powers of the instrument and so arrive at the intrinsic notion of the thing. For if what absolutely is cannot be reached by our faculty of knowledge, with all its refracting and transforming power, there is no sense in supposing that it can be reached by dispensing with or discounting the work of this faculty and the course it has to take. Remove the way truth affects us and nothing at all remains. 
 
+74
+- Is there a difference between ourselves and cognition?
+- It is the problem of the bridge again: the Absolute on one side (noumenality) and cognition on the other (phenomenality).
+- Maybe we mistrust Science because of fear of error --- why should be not mistrust the results of Science? But this is the error itself. It presupposes there is some cognition which is outside of the Absolute to begin with, which is itself the error
+- Fear of error reveals itself as fear of truth
+- Why not doubt the doubt, etc.? We exclude the posibility of knowledge.
+
+75
+- The Absolute alone is true; the truth alone is absolute.
+- Is there a truth which is not Absolute? No one has really given the idea of a non-absolute truth any real clear meaning.
+
+76
+- We should not trouble ourselves with the "useless idea" about cognition as an instrument for getting hold of the Absolute
+- Such ideas are arbitrary and to be rejected -- "absolute", "cognition", "objective", "subjective", etc. are *deception*!
+- This is an attempt to avoid the main problem and pretend that the Notion is comprehended.
+- Science is treated itself an appearance -- but Science must liberate itself from this idea. 
+- Science cannot appeal to itself in a mdoe which is without truth; that is an inferior form of its being.
+- Science cannot merely claim to be better; it must be truly for itself.
+- Confused conceptions which make true knowledge impossible should be dismissed.
+
+77
+- The path of natural consciousness pressed forward to true knowledge...
+- ... and right now the path of true knowledge is meandering through phenomenal knowledge.
+
+78 
+- Natural consciousness is the only Notion of knowledge
+- Fundamental ideas are always being shaken down
+- The road to self-knowledge is full of doubt, not merely the kind of doubt which restores what was before when the fog clears.
+
+> this path is the conscious insight into the untruth ofphenomenal knowledge, for which the suprem"e reality is what is in truth only the unrealized Notion. 
+
+- This is the education of consciousness itself -- self-doubting, criticism
+- Just to turn an authoritatively given thought and to make it yours does not necessarily make it true. 
+- But skepticism which is directed towards the whole range of phenomenal consciousness allows Spirit to competently examine the truth.
+
+79
+- The exposition of the untrue consciousness in its untruth is not merely negative.
+- Natural consciousness has only one side of the truth
+- Skepticism always arrives at a positive result, i.e.a  determinate nothingness
+- **Need a walkthrough of this passage with concrete terms**
+- **Sartre, Husserl, Decartes**
+- Seems similar to Sartre -- nothingness is a mode of being, and moreover every being has nothing congealed within itself, so it is self-negating
+
+80
+- The goal of development is fixed towards self-knowledge: knowledge no longer needs to go beyond itself to find the Absolute, because it has coincidede with itself in the Absolute.
+- Consciousness is explicitly the Notion of itself -- its obejct is itself. It goes beyond its own limits, etc. -- self-cognition, recursion, etc.
+- Consciousness suffers under its own violence
+- **Consciousness is unsettled not striving for greater self-knowledge.**
+- page 542 in PDF, Findlay: "The goal of knowledge is a situation where there is no longer an apparent element to be discounted and transcended, but where Notion and object are mutually adequate. Consciousness by its very nature presses on to this goal, though it sometimes retreats in terror from this endless ~elf-transcendence, and affects to regard all positions of thought as vain and empty, or as good in their own kind, thereby increasing its own vain self-importance."
+  - Nihilism and pluralism?
+  - Empirically would Hegel be wrong if philosophy had succumbed to these forces?
+_ 
