@@ -494,33 +494,154 @@ The Shaping and Reshaping of Political Units
 ---
 
 ## "Distributive Justice, State Coercion, and Autonomy" -- Michael Blake (2006)
+- How can liberalism reconcile with state borders? 
+- Liberals are committed to moral equality. Humanity can motivate a demand for equal concern. But liberalism traditionally applies only in a state.
+- Distributive justice: boundaries divide rich from poor
+- Allowing boundaries seems to put feudalism back into liberalism
+- Maybe liberalism is too particularistic.
+- **Argument**: globally impartial liberalism not incompatible with nationally specific distributive justice principles
+  - Not because we care more about fellow countrymen, but because shared institutions create a special relationship
+  - Concern for *relative economic shares* OK when applied to individuals sharing liability in a coercive network of state governance
+  - Principles demand differently depending on their context.
+  - Oweing different things is not *partiality*, but rather nuancing what 'impartiality' means.
+- Abroad: defend principles of sufficiency
+- Home: defend principles of distributive equality
 
+Three Distinctions
 
+| Relative vs Absolute Deprivation | International poverty in general should be condemned in terms of absolute deprivation. That other individuals have more is not essential to part of the claim. However, differences between haves and have-nots are often the target of moral condemnation itself. Moral gravity increases as inequality increases. **We should condemn absolute deprivation for threatening autonomous agency, and relative deprivation when we share more than a common humanity.** |
+| Partial and Impartial Justificatory Strategies | Two ways to justify deviation from impartial *treatment*: partiality (more common in intl poverty lit., how legitimate is it to prefer one's own? familial relaitonships) and demands of equality (explain apparent inequality as a valid implication of impartial principle, e.g. equity -- Aristotle's wrestler; Hegelian interpretation? Equality passes into inequality, and then into a more complex unity). |
+| Institutional and Noninstitutional Theory | Noninstitutional -- abstract from current institutions and ask what we endorse starting tabula rasa. Institutional -- examines the existing world. This article will be very institutional. Is institutional theory conservative? Blake -- not necessarily. |
 
+> "What looks like partiality is in fact the implication of an impartial principle under a different set of circumstances."
 
+- The force of coercion requires us to have moral concern for relative deprivation.
+- No institution comaprable to the state exists in the international arena.
+- Only via citizenship can concern for relative equality be justified.
+- Principled division between citizen and stranger.
+- Argument structure
+  1. Implications of the principle of autonomy
+  2. Forms of justification that might legitimate violations of autonomy
+  3. Only justifies relative inequality concern domestically
+  4. Story time
 
+Liberalism and Autonomy
+- Popular among the Kantians -- liberlaism committed to the global protection of individual autonomy.
+- All humans have a moral entitlement to exist as autonomous agents
+- Joseph Raz's autonomy: agents are the (part-)authors of their own lives. Preconditions:
+  - appropriate mental abilities and rationality
+    - mental skills to act as an agent
+    - mental skills to *see oneself as* an agent
+  - set of options must truly be free
+  - incompatible with existence of corcion
+- Coercion is forbidden by a liberal principle of autonomy.
+- Important aspects of autonomy
+  - Kantian respect for individual agency: pluralistic / individualistic. A matter of respect for developing specific plans,a ttachments, etc.
+  - Autonomy cannot be satisfied merely by practical reason -- not just a Sartrean existence of choice. Must be a *social* existence of choice. Creating value via creative engagement with the world. This value can be destroyed or respected by world institutions. Not cheap parchment rights
+  - Autonomy does not demand maximization of number of available options (cheap 'freedom'). We do not necessarily gain autonomy past a certain level. **This fact leads to the conclusion about not needing to concern relative deprivation in the international arena.**
+  - Changing which options we have available is morally relevant, though. Has someone tried to subsume my will under theirs?
+- Rawls' conception of rational autonomy -- form, revise, and pursue a conception of the good
+- Two moral powers:
+  - Power to act in accordance with a conception of justice
+  - Power to form and pursue a conception of the good
+- Interpreting Rawls as a theory in which the coercive force of the state is justified to free and equal people.
+- Coercion
+  - People can be denied autonomy by being starved, impoverished, etc.
+  - Coercion is not just (limiting) the number of optionsa vailable, but the reasons
+  - Coercion is intentional and expresses a relationship of domination
+  - State punishment: coercion via criminal penalties.
+- **Justification emerges**
+  - What is the nature of justification?
+  - Where is the "justice" in "justification"? In some sense justification is the strongest force of them all.
 
+Justification and Coercion, One -- The Criminal Law
+- Some forms of coercion seem appropriate.
+- When can we justify an otherwise impermissible violation of autonomy?
+- A state must first be controllable by human agency before it can be condemned by a liberal principle of autonomy.
+- If I consent to it, then the moral harm of coercion no longer exists.
+- Justiification is not what is current but ex ante
+- Punishment for criminals -- retributivism, the criminal as a rational agent has willed it hypothetically.
+- Scanlon's notion of reasonable rejection, i.e. consent is not being able to possibly reject
+- Punishment is always an evil, even if it is a necessary evil.
+- Focus on state administering criminal law
 
+Justification and Coercion, Two -- The Civil law
+- Coercion is most stark in criminal punishment
+- Private law / contract law is full of coercion as well, though. You are compelled to obey
+- Proeprty law - commitment to force against people if they exert control over particular goods (in my property)
+- Taxation law - implicit threats of coercive state action.
+- Weber -- state is the monopoly of the legitimate use of force
+- Such practices need to be justified too.
+- Coercion is present in fact in *all legal rules*
+- Private law needs as much justification as the practice of state punishmnet. 
+- WHen is implicit state violence legitimate?
+- Law is a legal *system*
+- *A Theory of Justice* identifies the legal system with the basic structure.
+- Is there no equivalent to a corcive network of law at the international level? Coercion occurs, certainly, but the state holds a special relationship to individuals which is formally coercive which we do not have at the international level.
+- **Possible objection:** hegemonic nations coerce oppressed nations, which in turn coerce their own citizens.
+- How to distinguish legitimate coercion from illegitimate coercion?
+- Private law is directed at protecting private property; public law is directed at the body politic
+- Laws create a system of entitlements and property networks.
+- Consent is based on how we allocate and protect entitlements.
+- Individuals sharing a legal system share liability to a coercive legal system.
+- The content of the legal system can be justified through hypothetical consent of all that live within the system. (???)
+- **Question** -- to what extent is this standard social contract theory stuff?
+- Coercive laws apply not simply to an individual but to a society. Justification is owed to every individual.
 
+> the liberal principle of autonomy is concerned equally with all the autonomy of all human beings, so that a coercive scheme enmeshing a wide set of individuals must be justified to each and every one of those so coerced
 
+- **Question** -- to what extent does his focus on legality mean he overlooks forms of economic domination and coercion?
+- How can we prevent justifying principles which benefit some but are reasonably rejected by others in society? The Original Position. Abstract away morally arbitrary aspects of people.
+- Analysis of the original position allows us to see the "true purpose" of the difference principle: to justify coercion to all those coerced. We will offer you material egalitarianism in the difference principle, so you should accept our coercive scheme. 
+- The conditions of consent in the arena are considerations of relative deprviation and material equality.
+- Liberalism is not committed to equality of mateiral shares in the global arena, therefore -- only certain forms of *legal* coercion .
+- Those sharing liability to a coercive government must have relatively equal abilities to influence that government's policies.
+- Liberal principle of autonomy applied across a body of individuals yields something like egalitarianism.
+- Impartial liberalism can consistently differentiate what is owed to fellow citizens and to human beings as such.
 
+Rawls and Coercion
+- Goal: Rawls applies here.
+- Disagree with Rawls on the implications of his theory on the international arena.
+- "Political power is always coercive power backed by the government's use of sanctions, for government alone has the authority to use force in upholding its laws."
+- Rawls begins from the fact of state coercion and tries to find when it might be justifiable -- iff it is a use of power by wihch citizens democratically coerce themselves.
+- Laws of society must be justifiable via public reason
+- Rawls intends principles of justice to hold for individuals sharing coercive political institutions, since they need to be justified via public reason.
+- Rawls: the state offers disaprate guarantees because it is doing different things to some, which stand in need of justification. 
 
+> To insiders, the state says: Yes, we coerce you, but we do so in accordance with principles you could not reasonably reject. To outsiders, it says: We do not coerce you, and therefore do not apply our principles of liberal justice to you-although you do have an entitlement to the preconditions of autonomous functioning, and we will ensure that these are provided to you if you do not have them now.
 
+- Rawls: my theory does not apply to any sort of distribution of goods, like a university or a church
+  - Libertarianism has no place for a basic structure because there is no public coercive law
+- Blake explains why Rawls maintains this focus
 
+> "Coercion implicates the ability of indiviudal agents to live their lives according to their own plans."
 
+(Certainly many people *outside our borders* are more coerced than many people *inside our borders*.)
 
+- Maybe Rawls' focus on cooperation is problematic because it excises non-productive members of society
+- **Membership before justification.** (Why? This does not make sense...)
+- Society is not merely a cooperative venture for mutual advantage
 
+> Coercion, not cooperation, is the sine qua non of distributive justice, making relevant principles of relative deprivation.
 
+IV -- A tale of Two States, Borduria and Syldavia
+- Defense against the cosmopolitan critic
+- Borduria -- advanced, Syldavia -- developing due to poor resources, yet still adequate.
+- Are Bordurians bound by the logic of liberalism to accept a resource re-allocation scheme by the Syldavians? No -- Bordurian are concrned with the protection of autonomy, so they are concerned with the relative material inequality of those coerced through Bordurian private law.
+- Charles Beitz and Thomas Pogge -- mutual benefit across nations, using Rawlsian methods.
+- The original position cannot be used whenever there is a division of good, but to demonstrate what justification must be given for certain forms of coercion by representing all possible circumstances in which consent might be judged.
+- Brian Barry: no degree of economic interaction can form the moral equivlanet of the relational web between citizens of a modern state.
+- No obligation to maximzie the world's welfare, but are under the obligation to avoid denying conditions of autonomy for all human beings.
+- Is Blake endorsing laissez-faire global economic relationships?
 
+Conclusions
+- Inconsistency between apparent inequality and impartial principles is illusory
+- To deny American vote to an American citizen is worse than to deny American vote to a French citizen.
 
+> The mere fact of material inequality greater than that allowed by the difference principle, I think, has now been shown to be morally equivalent to the denial of the vote: between people who share a state it is morally prohibited, but it is not a valid implication of liberal equality for those who do not-a conclusion that holds true even if one's citizenship is the result of facts that are, in themselves, morally arbitrary. 
 
-
-
-
-
-
-
-
+- Borders of the state may be arbitrary but not irrelevant.
+- Let's not put feudalism back into liberalism. Instead, we need to be more nuanced about what we mean by 'impartial'.
 
 
 
