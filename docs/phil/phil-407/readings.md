@@ -643,8 +643,112 @@ Conclusions
 - Borders of the state may be arbitrary but not irrelevant.
 - Let's not put feudalism back into liberalism. Instead, we need to be more nuanced about what we mean by 'impartial'.
 
+---
+
+## "Rawls' Law of Peoples: Rules for a Vanished Westphalian World" -- Allen Buchanan (2000)
+
+The Law of Peoples
+- Rawls extends his theory of justice beyond the individual state. The following principles are chosen:
+  - Peoples are free and independent, and their freedom and independence are to be respected by other peoples.
+  - Peoples are to observe treaties and undertakings.
+  - Peoples are equal and are parties to the agreements that bind them.
+  - Peoples are to observe a duty of nonintervention.
+  - Peoples have the right of self-defense but no right to instigate war for reasons other than self-defense.
+  - Peoples are to honor human rights.
+  - Peoples are to observe certain specified restrictions on the conduct of war (or "just war principles").
+  - Peoples have a duty to assist other peoples living under unfavorable conditions that prevent their having a just or decent political and social regime.
+- Criticism: Rawls' Law of Peoples is in fact a betrayal of liberalism because it legitimizes very illiberal states.
+- Target: Original Position based on representatives rather than peoples.
+- Buchanan is in sympathy with this assumption. But it is not only this, but also that individuals move across borders, individuals are independent from particular societies.
+- What does Rawls mean by 'peoples'? Peoples vs states
+  - Peoples are groups united by common sympathies
+  - Interchanges 'societies' with 'peoples'
+  - Peoples are groups with their own states
+  - Peoples do not have the powers of sovereignty that states have
+  - States do not have the moral character of peoples
+  - Peoples' political organization constitutes some sort of statehood
+  - Principles in Rawls' Law of Peoples are interstate/inter'nation'al
+- Ambiguity about the word 'peoples' -- Rawls really means state-organized peoples, although he can be read as very radical, advocating self-determination to thousands of 'peoples without states'
+- States no longer are thought to have unlimited sovereignty; international law regulates that. 
+- Grainting Rawls' critics the point that individuals should be the parties under the Original Veil, we still do need principels for determining relations between peoples organized into states
+- We can look at Rawls' principles as rather methods for deriving principles for *interstate* relations.
+- However, Buchanan argues that having representatives choose principles actually yields results different from what Rawls thinks if you respect two facts:
+  - There is a global basic structure
+  - Populations of states are not Rawlsian peoples but rather conflicting collections of peoples
+    - People only become Rawlsian peoples with massive coercion
+- Rawls' failure to recognize these two facts leads him to not have any pricniples for international distributive justice
+- Rawls' laws of people deasl with a 'vanished Westphalian' world and has limited utility.
+
+The Westphalian World
+- International legal system growing out of the Peace of Westphalia in 1648
+- Two fundamental features
+  - States are conceived of as economically autarkic units. They can provide for their populations' material needs. States are also distributionally autonomous -- they alone determine how wealth is distributed within its borders.
+    - Dependency theory: governments have to choose between economic self-sufficiency and distributional autonomy.
+      - The Westphalian world was one in which sgtates were both more economically self-sufficient and more distributionally autonomous than they are today.
+      - Therefore, the system of resulting relations were more militaristic than economic.
+  - States are conceived of as politically homogenous actors without internal political differentiation
+    - Westphalia also declared that the head of the state determines the religion of the people -- *cujus regio, ejus religio*
+    - Prohibition of intervention against sovereign states
+    - Denies existence to disitinct 'peoples'
+
+The Global Basic Structure
+- Both Westphalian assumptions are essential to Rawls' moral theory of international law.
+- "Well-ordered socieites can get on with very little; their wealth lies elsewhere; in their political and cultural traditions, ..."
+- If there is such a thing as a global basic structure, then being well-governed does not guarantee economic self-sufficiency OR distributional autonomy.
+- In *A Theory of Justice*, Rawls says the basic structure is: "the way in which the major social institutions distribute fundamental rights and duties and determine the division of advantages from social cooperation."
+  - It is the primary subject of justice because of its distributional effects. 
+- There in fact is a global basic structure.
+- One cannot ignore the global basic structure: this is unjustifiable.
+- Rawls perpetuates a (false) thoroughly Westphalian view of international economic relations.
+- The question becomes now -- what to choose for the global basic structure?
+- Why should parties who represent peoples choose principels of justice for the global basic structure?
+  - Each party wants to ensure that the distributional effects do not impede their society's capacity t achieve its conception of the good.
+  - Will choose principles ensuring fundamental equality
+- Representatives of illiberal societies are as concerned about global distributive justice as liberal societies.
+- Rawls' argument against including global distributive justice principles confuses egalitarian and inegalitarian principles (within peoples).
+- Rawls seems to propose a charity-like duty rather than a duty of justic eto support less well-off nations.
+- Recognizing the global basics tructure, we have three principles of global distributive justice
+  - Principel of global equality of opportunity
+  - Principle of democratic particiaption in global governance institutions
+  - Principle designed to limit inequalities of wealth among societies
+- **Random thought**: Rawls and friends (or enemies) are not Hegelian enough. They think that absolute wealth and inequality are independent axes. But perhaps if we think about it through a framework of contingency and necessity, in fact a series of great inequality is needed to even conceive of the difference between absolute and relative disparity.
+- Global governance institutions sare hardly democratic.
+  - Abolishing UN security council veto.
+- Will there be a global difference principle? It is less clear. Rawls says that representatives of inegalitarian societies still choose for equality across peoples.
+- Two claims for including principles of global distributive justice
+  - there is a global basic structure
+  - principles in the domestic basic structures also require principles for the global basic structure
+- Infeasibility objection: there is no global state to enforce changes to the global basic structure. Wrongly assumes that principles of justice have no use prior to actualization.
+- Lack of consensus objection: Sufficient consensus among peoples on the content of the principles is lacking. Not convincing -- parties ensure equality of peoples. It is not a question of real-world individuals, but rather parties in an ideal contract
+
+The Reality of Intrastate Political Divisions
+- Rawls does not reference intrastate conflicts.
+- Again, assumes the Westphalian paradigm. -- the 'people' are unified by a single political culture.
+- How should international legal institutions respond to intrastate conflicts?
+- Why does Rawls not include this?
+  1. Ideal theory assumes away divisions in the state
+  2. Feels constrained to omit principels infringing on each people to determine its own internal affairs.
+- Populations in states are not Rawlsian peoples.
+- The assumption fo political unity *does not even allow for many important issues to be raised.*
+- Ideal theory rules out international legal support for various autonomy regimes
+
+Conclusions
+- Rawls does not and can not provide guidance for important issues: global disrributive justice and intrastate conflict.
+- Work is founde don a denial of two basic features of the world
+- A Westphalian nostalgia permeats Rawls' work.
 
 
+---
+
+## "Responsibility and Global Justice: A Social Connection Model" -- Iris Marion Young (2006)
+
+---
+
+## "Associative Duties, Global Justice, and the Colonies" -- Ypi, Goodin, Barry (2009)
+
+---
+
+## "Relational Equality and Immigration" -- Daniel Sharp (2009)
 
 
 
