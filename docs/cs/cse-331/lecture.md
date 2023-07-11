@@ -397,4 +397,75 @@ Collections.unmodifiableList(elts);
 - Branch coverage -- make sure that every branch is taken
 - Mutation testing -- make small changes to the code and see if the tests catch it
 - Path coverage is not enough
-- 
+
+---
+
+## Lecture 9: Modular Design
+- You can't build arbitrarily large physical structures so quickly
+- What prevents arbitrarily large software?
+- People are the limitation -- no individual or AI can look at 2 million lines of code and understanding what it does
+- Force of friction in software: interdependence. How can you understand one part of the code without understanding all of it?
+- Using modularity
+- Many goals of modular software
+    - Decomposable
+    - Composable
+    - Understandable
+    - Continuity
+    - Isolation
+- Important design issues
+    - Coupling -- how much dependency is there between components?
+    - Cohesion -- how well do parts of the component fit and work together?
+- Decrease coupling, increase cohesion
+- Separation of concerns
+    - A module should represent a single concept
+    - All the methods which have one concern in one method; others for another
+- Coupling -- how are modules dependent on one another?
+- Coupling leads to spaghetti code -- changing one component may require changes to another
+- Recommendation -- throw away your code and restart
+- Throw away your code if it's too coupled!
+- Regression testing -- if you make a change to your code, you want to implement changes
+- After refactoring your code, change it
+- Coupling is the path to the dark side
+- God class: hoards most of the data or the functionality of a system
+    - Depends on and is depended on by every other module
+    - Instance of an anti-pattern: a bad way of doing things. 
+- Class design ideals
+    - Completeness -- every class should present a complete interface
+    - Consistency -- in names, parameters/returns, etc.
+- Avoid unnecessary work, have consistency in behavior, anems, etc.
+- Methods should do one thing well:
+    - compute a value but let client decide waht to do with it
+    - Don't print as a side effect
+    - observe or mutate, dont' do both
+    - etc.
+- A client might come to rely on particular principles
+- Flag variables are often a symptom of poor method cohesino
+- Effective Java: design method signatures carefully
+    - avoid long parameter lists
+- Use overloading judiciously; it can be useful with the same number of parameters
+- Constructor design -- constructors should have all the arguments needed to initialize the object's state, no more and no mless
+- You shouldn't need to call other methods to 'finish' the initialization
+    - You can do complex initializations with a 'builder' pattern
+- A variable shold be made into a field iff the value retains meaning throughout the object's life
+- Rule: favor `int` and `long` for most numeric computations
+    - Avoid `float / double`
+    - Don't keep numbers inside strings
+- `enums` -- a type-safe way to represent a fixed set of constants
+- Style guides exist
+- Use comments
+- Bad names -- understand what it is about
+- it's important to read nice software to write good software
+- Break into paragraphs
+
+
+
+
+
+
+
+
+
+
+
+
+

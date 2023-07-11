@@ -34,7 +34,9 @@ PHIL 407
 - Blake talks about membership before justification: firstly, we restrict ourselves to citizens, and then we justify why the coercive state applies to them. But why not the other way around, first stage is seeing who needs to be justified to via coercive action, and then second stage is seeing who is a member as such?
 - For the story of the Bordurians and the Syldavians, are the Bordurians then obligates to accept a Syldvian as a citizen if they are willing to be coerced?
 - So what do histories of colonialization mean and do?
-
+- The rebuttals put out by Beitz, O'Neill, Young, etc. are pretty strong. How would miller respond?
+- Is Young's conception of structural injustice *consequentialist*?
+- Young's reasoning is different, but it seems that in the end you get something like Singer?
 
 ## July 5th
 - Getting clear on Goodin

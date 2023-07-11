@@ -742,6 +742,74 @@ Conclusions
 
 ## "Responsibility and Global Justice: A Social Connection Model" -- Iris Marion Young (2006)
 
+Introduction
+- Goal: clarify the status of global (in)justice claims
+- Most work in political philosophy assumes that justice obligations only hold for those in a common political community
+- Argument: Justice obligations between persons come from social processes. Political institutions are built on top of these processes. Therefore, we have global justice obligations due to structural social processes.
+- Second goal: theorize about responsibilities moral agents have to global social processes.
+- "Social connection model" -- all agents contributing to structural processes which produce injustice are responsible for working to remedy injustices
+
+Global Connections and Obligations of Justice
+- Widely accepted view -- scope of justice obligations is conditioned on membership to a common political community
+- Of course there are some moral obligations to other son the basis of humanity
+- *Law of Peoples* -- broader and thinnert han justice as fairness
+- David Miller: principles of justice have limited scope towaerds the nation-state. Globalizing the world makes state sovereignty more porous
+- Social justice itself may be a historical idea whose time has passed.
+- This position holds that justice obligations presuppose shared political institutions, and as such a "pre-institutional" view of justice is totally incoherent.
+- Cosmopolitan utilitarian -- particularist relations are irrelevant to assessing the nature, depth, and scope of obligations
+  - Peter Singer, Peter Unger
+- Young is critical of both accounts. There are obligations of justice which require more than common humanity.
+  - Yet it is still right that nation-state membership is arbitrary as a source of obligation.
+  - There is no sense in which morality should be connected to power.
+  - The cosmopolitan-utilitarian view cannot just claim others are human, it needs to ground claims that we have justice to one another.
+- Social connection precedes political institutions ontologically and morally (even if not necessarily historically) -- this is what social contract theory tells us.
+  - Social connections can exist even if there is no political institution to govern them.
+- Charles Beitz -- challenges Rawls' argument that justice only applies domestically: there isa n international society, even if there is no institution to mark it.
+  - Need for political institutions follows from the pre-existing 'state' relations
+- Onora O'Neill -- An agent's moral obligation extends to everyone in the frame of the action. Globalized markets and such extend social relations past nation-state borders.
+  - We have practical moral commitments to others because our actions assume them as a condition for our own actions
+- Beitz and O'Neill + Pogge describe transnational social structures which give rise to / generate structural injustices.
+  - Buchanan: a global basic structure 
+
+Example of Global Injustice: Sweatshops
+- Pressed claims on many agents to take responsibilities for sweatshop conditions
+- Anti-sweatshop activists make claims against institutions which purchase clothing in bulk
+- Who is to blame, really? Maybe not consumers but rather the producers.
+- To understand why people seem to agree with the sweatshop activists, we need to conceive of responsibility differently from blame/laibility.
+- Sweatshops violate human rights, irregardless of local culture and industrial development.
+- Workers in sweatshops are coerced
+- Wage levels of workers are far below the legal minimum wage, even if they vary with local cost of living
+- Housework -- complicated racial and gendered dimensions
+  - Back to the feudal piecemeal system...
+- The global apparel industry diffuses responsibility for sweatshop conditions -- it's all lost in a complex chain of production.
+- Position between employee and employer is blurred. -- 'self-employment', uberization, entrepreneurship of hte self
+- Earn <6% of the wages from the retail price of the item
+
+Structural INjustice
+- Rawls: the subject of jusitce is the basic structure of society.
+- Structures: confluence of institutional rules and interactive routines
+- Social structures constrain and shape the field of agent actions
+- Peter Blau: a social structure is a space of differentiated social positions that a population is distributed along.
+- Spatial metaphor for understanding what a 'structure' is -- Pierre Bourdieu
+- However, we should not reify the metaphor of the structure by thinking of it as separate from agents or merely being the alnd that they walk on. Social structure is not a state but a *process*.
+  - Anthony Giddens: 'structuration'
+- The apparel industry presumes certain fashion knowledge -- people act with rules and expectations, we 'need' new clothes, we need to follow trends, we need to have different seasons
+  - Fashion behaves as if it were a "natural force"
+- Social structure: includes the conditions under which actors act -- a collective outcome of action.
+  - Sartre: practico-inert
+- People act under socio-historical conditions, the products of previous actions
+- A social structure is the horizon of consequences that collective interactions in a social sphere have -- Sartre, "counter-finalities"
+- Structural injustice: social processes put large cateogries of people under systematic threat of domination
+  - A moral wrong distinct from an individualized ethical wrong
+  - All persons are involved in that they are part of the process.
+- Injustice is a specific *systemic* way that the social structure constrains and enables individuals' opportunities
+- Suffering is not merely misofrtune but *socially caused* -- everyone involved in producing these structures is implicated.
+  - How do we conceptualize responsibility for structural injustice?
+- Conventional models of responsibility aren't helpful here.
+
+Two Models of Responsibility: Liability and Social Connection
+- page 14
+
 ---
 
 ## "Associative Duties, Global Justice, and the Colonies" -- Ypi, Goodin, Barry (2009)

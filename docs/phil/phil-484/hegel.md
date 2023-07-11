@@ -382,4 +382,3 @@ Results obtained with respect to the notion of the History of Philosophy
 - page 542 in PDF, Findlay: "The goal of knowledge is a situation where there is no longer an apparent element to be discounted and transcended, but where Notion and object are mutually adequate. Consciousness by its very nature presses on to this goal, though it sometimes retreats in terror from this endless ~elf-transcendence, and affects to regard all positions of thought as vain and empty, or as good in their own kind, thereby increasing its own vain self-importance."
   - Nihilism and pluralism?
   - Empirically would Hegel be wrong if philosophy had succumbed to these forces?
-_ 
