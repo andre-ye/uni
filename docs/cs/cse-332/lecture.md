@@ -350,3 +350,26 @@ Z   A    ->    p   X
   - Mot large searches are done in data-base systems, where the data is stored on disk. Disk access is slow, so we want to minimize the number of disk accesses. AVL trees are not good for this because they are not cache-friendly.
 - B-trees try to exploit the fact that disk access is slow with high branching and use block sizes (accessing contiguous chunks of memory at a time)
 
+---
+
+## Lecture 9: B-Trees
+- Disk accesses are expensive, how can we minimize disk accesses?
+- Moving data up the memory hierarchy is slow because of latency
+- Nearby memory is sent because it's easy and will be asked for soon, esp in the context of arrays
+- Temporal locality -- lcoaity in time
+- Spatial locality -- locality in sapce
+- Arrays vs linked list, which can better take advantage of the spatial locality?
+
+
+
+
+
+
+
+
+
+
+
+
+
+

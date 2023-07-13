@@ -382,3 +382,183 @@ Results obtained with respect to the notion of the History of Philosophy
 - page 542 in PDF, Findlay: "The goal of knowledge is a situation where there is no longer an apparent element to be discounted and transcended, but where Notion and object are mutually adequate. Consciousness by its very nature presses on to this goal, though it sometimes retreats in terror from this endless ~elf-transcendence, and affects to regard all positions of thought as vain and empty, or as good in their own kind, thereby increasing its own vain self-importance."
   - Nihilism and pluralism?
   - Empirically would Hegel be wrong if philosophy had succumbed to these forces?
+- Pluralism 
+
+81
+- Relating Science to phenomenal knowledge requires an underlying criterion (comparison theory of meaning/truth).
+- Without something like Science and the Scientific criterion, seemingly we cannot examine it.
+
+82
+- Consciousness distinguishes itself from something, and also relates itself to it (*for* consciousness)
+- The *determinate* part of this relating is *knowing* (I see the tree in my head -- the tree is in my head)
+- Being-in-itself (that which extends beyond the relating) is truth. 
+
+83
+- We seem to be asking what knowledge is in itself, but it is necessarily knowledge for-us. 
+- The essence/criterion lies *within ourselves*. But our criterion must satisfy other criteria, etc.
+
+84
+- Consciousness provides its own criterion from within itself. Consciousness compares with itself; it distinguishes itself.
+- The moment of Truth: the other is not merely for it (us), but also exists in-itself (as posited by us)
+- The **in-itself is the standard by which consciousness measures what it knows.**
+- Notion is the knowledge, the True is the essence (the object): then examination is seeing whether Notion corresponds to object.
+- Notion is the essence, Notion is the object (for another): seeing whether object corresponds to Notion.
+- Both are the same.
+- But these two moments fall within knowledge.
+- **We do not need to import criteria from outside of knowledge.**
+- I am trying to understand the complexity of this prescription. Surely Hegel is not saying as a general normative claim for philosophy that we can simply turn inwards towards what seems like intuition (the criteria which is already within ourselves)? Rather the criterion immanent within consciousness which we can turn inwards and find all along is itself the process of a historical development, in which previous thinkers needed to "make use of [their own bright ideas and thoughts during the course of the inquiry"; that is, one could not make this Hegelian self-realizing move (consciousness recognizing itself) until after modern skepticism had alienated it from itself. So the 'intuition' / 'immanent criterion' Hegel appeals to is not the same sort of history-less 'intuition' which is employed in analytic ethics, but rather the product of a historical process. Is this interpretation reasonable?
+
+85
+- This contribution by us is 'superfluous' (gee thanks Hegel), since Notion and object are all present within consciousness. We are not really testing them -- we merely look.
+- Consciousness is consciousness of the object (Truth) and consciousness of itself (knowledge of Truth), both of which are for consciousness
+- Consciousness cannot get "behind" the object
+- Distinction between the in-itself and knowledge: already within the knowing of the object by consciousness
+- As knowledge changes, so does the object
+- What was in-itself becomes in-itself *for consciousness*, and thus the object collapses its testedness
+
+86
+- A new, true object comes from here in a *dialectical movement* where consciousness exercises on itself and this self-reasoning shapes the entire world (knowledge and its object): this movemen tis *experience*.
+- Ambiguity of truth: tension between two objects, th ein-itself and the being-for-consciousness of this in-itself.
+- The True changes: the essence of consciousness becomes reflexive
+- *This new object contains the nothingness of the first*
+
+87
+- Knowledge of the first object, being-for-consciousness of the initial in-itself, in fact *becomes the second object*
+- The new object comes about through a reversal of consciousness 
+
+88
+- The way to Science itself is already Science, and the Science of the experience of consciousness
+- This is the difficulty with science.
+
+89
+- Consciousness' experience of itself can comprehend nothing less than the *entire system of consciousness*
+- Consciousness eventually arrives at a point which gets rid of the idea of an alien noumenal, and appearance collides with essence -- because we recognize that we have posited the noumenal.
+- When consciousness grasps its own essence, it will then have done the move of absolute knowledge.
+
+### 1: Sense-Certainty, or the 'this' and 'meaning'
+
+90
+- Immediate knowledge cannot be anything other than immediate receptive knowledge, purely as the object presents itself.
+
+> In apprehending it, we must refrain from trying to comprehend it.
+
+91
+- Sense-certainty is the richest kind of knowledge
+- Sense-certainty appears to be the truest knowledge. **But this certainty is itself a terribly abstract and in fact poor truth.**
+- The truth of the object brought about in sense-certainty is merely that its being, its is-ness.
+- Consciousness is only a pure 'I', and I am in it a pure 'This', and the object in it is the pure 'This' -- i.e. a very clear subject-object relation. 
+- The thing is merely because i t is, and this is the key point of sense-knowledge. Immediacy constitutes its truth. **Question -- so is this what Husserl is returning us towards?**
+
+92
+- There is much which is complicated in our examination of pure being.
+- Actual sense-certainty is not pure immediacy, but merely an instance of it
+- We have two "Thises" (subjects): object as subject and subject as subject. Neither is immediately present, but each is mediated, in that I have certainty through something else
+- The object *is* -- truth, essence, etc.
+
+94
+- Does the object really have the kin dof essence that the texture of sense-certainty claims it has?
+- What might the object be *in truth* and not merely in *sense-certainty*?
+- **Question -- to what extent is this begging the question? What are we looking for exactly?**
+  - Does sense-certainty really even have any claim to being?
+
+95
+- "This" of sense-certainty has two forms: "Now" and "Here"
+- "Now" is always changing temporally
+- A truth cannot lose anything by being written down (hmm... really?)
+- We can refer to general abstract ideas, like being-in-the-moment
+
+96
+- The "now" of sense-certainty is *universal*
+- "The concrete reality behind changing appearances" -- what is meant by this really?
+- **It is the universal that is in fact the true content of sense-certainty.** -- can we push back on this? Maybe the 'gravity' of its universality isn't really that interesting.
+
+97
+- Demonstrative words attempt, as it were, to express something individual, but we end up expressing a universal truth.
+- When we say "This", we mean Being-in-general.
+- **How much of this is a empty linguistic concept?**
+- Language is more truthful -- we refute what we mean to say. Well now this gets into the question of meaning. How can we refute what we mean to say?
+
+98
+- "here" always changes its application -- it is pure universality
+- We can only pin down individuality, *in general*
+- **Question** -- is this a sort of cheap "the only constant is change"?
+- "Here" is the tree, I turn around, it is not "here": "here"ness persists. Similar to Husserl's 
+
+99
+- The universality of pure being involves abstraction -- but not "real abstraction from rich contents"
+- Rather, i tis "abstraction from the mere meaning/claim to have rich contents"
+- Pure being is the essence of sense-certainty. 
+- **Comparison to Husserl and Sartre here?**
+- Pure beingi s not immediacy -- rather, it emerges trhough negation and mediation (dialectical movement)
+- Meaning is "left over in face of this empty or indifferent Now and Here" (?? what does this mean??)
+
+100
+- The object was supposed to be the essential element in sense-certainty, but now it is the *universal which th eobject has come to be*.
+- Certainty is found in knowing the unessential element.
+- The truth of the object is as my object, b/c I know it
+- Sense-certainty is expelled from the object but driven back into me, the I.
+- The phenomenological emphasis is on the subject
+- A Cartesian move? Findlay's interjection
+
+101
+- The force of the truth lies in the "I" -- my experiencing
+- The single Now and Here vanish. We fill Now and Here with meaning for us.
+- Aha, but then what about different Is for which "here" and "now" my be different?
+- "One truth vanishes in the other..." -- ominous
+
+102
+- The universal "I" does not disappear here
+- "I" is merely universal
+- When I say "this here", I am saying all "Thises". ((what??))
+- Science is faced with the demand that it should construct "this thing" -- we want to press out what this "means", but it cannot "mean" anything.
+- Every man is an experient, irreducible to others -- the other subject is unpenetrable.
+
+103
+- Sense certainty comes to know by experience that its ssence is in neither the object nor the subject
+- The 'immediacy' of sense-certainty is in the interplay
+- What i mean is unessential (?)
+- Only sense-certainty as a system stands within itself
+
+104
+- Pure immediacy no longer has concern for the otherness of the "here"
+- Truth is preserved in a self-identical relation -- un/essential collapses.
+- I become a pure actor of intuiting -- Now is day, Here is tree.
+
+105
+- This certainty recedes when Now is night
+- We must point to our immediate reality
+
+106
+- The NOw is pointed towards, this Now
+- The universal force of Now has ceased once it has been pointed towards ('actualized')
+- The Now is pointed out is the Now which was, it does not have the truth of being / existing (even as it has been)
+
+107
+1. I point out the Now as truth, but it becomes something which has been; I set this aside.
+2. I assert a second truth that it *has been* (i.e. abandoning my attempt to express the present case).
+3. What has been *is not*, so I set aside the second truth. Negating the negation of the Now, we return to the assertion that the Now *is*.
+- Need some help on the significance of this.
+- When the thing gets refelected back into itself, it is not so much immediate but has a plurality of itself. -- and Now acquires a truly universal force.
+- **How is this different from eidetic variation to reach the eidos, the thing of all forms?**
+
+108
+- The pointed-out Here is a *this Here*
+- What is pointed out is a negative This -- other Heres supercede themselves.
+- What is pointed out is not immediate knowing (Husserl?), but a movement from the Here, a simple plurality
+
+109
+- The dialectic of sense-certainty is a history of its movement and its experience, it is this history
+- Natural consciousness is alays reaching this result of self-movement -- but it is equally forgetting it and repeating it.
+- It is astonishing how much philosophy has set out sense-objects and Thises as an absolute truth for consciousness
+- Every consciousness supercedes a truth.
+- Sensuousness and sensuality
+- Sense-certainty thinks it defines particulars.
+- The sensuous This cannot be reached by language, it belongs to consciousness
+  - So what would Hegel say about something like Sapir-Whorf?
+  - **So what, sensuality is not present in language?**
+- Language outlines a category/range of sense-certainty, but it is not the truth of sense-certainty.
+- Language has the "divine nature" of directly reversing what was said.
+- How instrumental is language to Hegel's project here? i.e. "could it have preceded without the ontological -metaphysical properties of language"?
+- Knowledge and the object!
+
+

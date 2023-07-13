@@ -926,4 +926,109 @@ Joseph Raz's Conditions of Autonomy
 - Respecting people's autonomy. Are there ways in which one nation can invade the other's autonomy even if it isn't strictly coercive? 
 - If you coerce another body, you need to provide justification.
 - We are under no obligation to maximzie the world's welfare, but we are under an obligation to avoid denying the conditions of autonomy to all human beings. We are non-utilitarian.
-- 
+
+---
+
+## Lecture 11:
+
+---
+
+## Lecture 12: Responsibility and Global Justice, a Social Connection Model
+- To what extent is Marion Young saying something different than Pogge, Beitz, and other cosmopolitans? Young thinks she's saying something very different
+- Young died very young fora philosopher
+- Political institutions are a response to obligations of justice rather than their basis. 
+- Comparison with Blake: political institutions coerce us, so they generate obligations to those of us with shared liability.
+- Obligations of justice arise by virtue of 'social processes' wihch connect people
+    - Menodza prefers 'relationships'
+- Some systemic social processes connect people across the world without regards to political boundaries
+    - vs. institutional social processes, which is what Beitz, Pogge, etc. focus on
+- Connection occupies spaces across political boundaries
+- A social connection model is different from a liability model
+- It's harder to blame people when you move away from a liability model. But you want to be abl eot blame people. Seems like you're letting people off the hook.
+- Young want sto have it both ways on structural and agent-based views
+    - Singer looks at agents specifically, despite institutions, you as an individual can save a life if you can put aside 50 bucks a year, etc.
+- Should philosophy be published in this way?
+- Do you engage the literature? -- yes, you need to do a good literature review.
+- There are connections which arise from our relations with others.
+- Nation-State/Westphalian view: ultimately, you are somehow responsible because of your connection with others
+    - Arbitrary where you draw these obligations
+    - People stand in relationships with others *outside* political communities.
+- Cosmopolitan-Utilitarian model:
+    - Moral agents have identical obligations to all human beings; a very homogenizing view. Simply on the fact that we are all sentient beings and we have an obligation to minimize suffering. 
+    - Obligations should be based ons omething more than just common humanity
+    - Locke is the first of the social contract theories to suggest that there are social connections prior to political institutions.
+    - Hobbes thinks of us as not in relation at all in the state of nature, but Locke says -- even before we have politics, we have social connections to each other, we trade, etc.
+    - Maybe one of the places to push back, this team is full of utilitarians, even if they call themsevles Kantians
+    - Singer and family
+    - Pogge and Beitz
+- Certain social connections can generate moral obligations, which is the truth hidden under the nationalist view which goes beyond the cosmopolitan view -- it's not just based on common humanity
+- Young is in a certain sense trying to "unfetishize" the fetishism
+
+Onora O'Neill, 1941
+- Inspired by the cosmopolitan folks
+- Even when we are not conscious of a political relationship with others, we might have a moral commitment to them by virtue of our actions depending on them to perform or accomplish certain things
+- i.e. we incorporate expectations into the conditions for our actions
+- We are all dependent on people doing various things
+- beitz, O'Neill, Pogge, etc. -- are saying that transnational social structures generate structural injustices. 
+- Abuse in the Catholic church is in fact more known because there is a hierarchical structure -- blame, liability, etc.
+
+Supply Chains, Globalization, Sweatshops
+- So many things coming from all these different places
+- IIE's *Can Labor Standards Improve Under Globalization?* -- 2003
+- Wake of the anti-sweatshop movement
+- Everyone is shitting on JC Penny
+- Subcontracting=
+    - JC Penny goes to Renzo, who goes to Robillard, who goes to manufacturers / factories, who need vendors and supervisors, under which are workers as independent contractors and producers who make the raw materials, and then you get children and family members in a piecework model
+- JCPenny is closing odwn -- but they'll tell you that they all have different prssures, JCPenny is competing with Amazon, etc. -- we're not living high on the hog, we are really close to going out of business.
+- Each position in the cog -- competition, it's not quite my fault.
+- Epistemic feithism runs throughout the system.
+- Some economists argue that it's better to be exploited than to be unemployeed. Raising wages leads to job loss. 
+- What ethicists tell us is that this is an argument against accepting normal market conditions rather than against paying living wages. 
+- Beitz and Pogge -- is the way they think of basic structure vs Marion-Young, *structures* -- confluence of institutional rules and interactive routines, mobilization of resources, physical structures, etc. -- falls under structures.
+- Social structures serves as background conditions for individual ctions.
+- *Rules* -- can be laws or also norms and social habitualities
+- **BUT** the metaphor of a structure is problematic, as sort of the ground of the actors. *The actors are very much embedded in and **part of** the structure.* The structure is a process.
+- Is Marion-Young espousing a consequentialist view?
+- How might the Westphalians push back?
+- We act with pre-existing knowledge of structures and reproduce / proliferate them.
+- **Counter-finalities**: structured social action and interactions often have collective results no one intends
+- Social structures cannot really be given a ixed definition.
+- Marion-Young assumes that everyone is well-intentioned and wokring within rules and accepted norms. If someone acts outside of these norms, rules, etc. -- it's easier to know who is responsible. 
+- The target for Young is not sovereignty (even though she is saying something similarly to how Pogge is looking at it), but rather something like *Singer*.
+  - Pogge is concerned with the existing nation-state system and trying to build on that -- Young is more concerned with "this is how you should understand the basic structure" *really*
+- Young seems to think that states aren't as powerful as we think they are -- there are non-political entities which we need to be thinking about.
+
+The Liability Model
+- You can't use it to diagnose and understand all injustices
+- Differentiate victims from perpetrators, etc. etc.
+- Being victims and perpetrators at the same time -- this is true in social connection model.
+- Consequentialist due to her pragmatism
+- The problem of consequentialism vs deontology in understanding social justice -- ofc we can be Hegelian here, deontology emerges only in a consequentialist backdrop, etc. etc.
+
+Social connection model
+- Is this actually different from the liability model or did she just not put enough repsonsiiblity?
+- Some people say Young is not hard enough
+- Liability model attempts to restore model towards the baseline of normality, but the social connection model questions the baseline / background conditions of action to begin with.
+- Liability model: backwards-looking, the event happened. Social justice: processes are ongoing and likely to continue.
+- But maybe looking to forward into the future covers up the past.
+- Collective responsibility and shared responsibility
+- Individual responsibility, shared responsibility, and collective responsibility. What is missing is shared responsibility.
+- Discharged through collective action
+
+Worries
+- is this just too demanding? Don't we differentiate degrees of responsibility?
+- how should we reason about the best ways to reason over our limited time, resources, creative enrgy, etc.
+
+Parameters
+- Power, privilege, interest, collective ability
+- An interesting sort of difference principle
+- Victims of injustice, the Rosseauian will, the Marxist working class
+- July 30th deadline.
+
+
+
+
+
+
+
+

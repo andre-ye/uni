@@ -457,11 +457,30 @@ Collections.unmodifiableList(elts);
 - it's important to read nice software to write good software
 - Break into paragraphs
 
+---
 
-
-
-
-
+## Lecture 10: Software Tools
+- Software tool -- a piece of software which helps us write high-quality software
+- Git is a software tool which accepts a set of files and then produces artifacts (suggestions, etc.)
+- How do people build software tools?
+    1. Identify a problem
+    2. Understand how developers solve it
+    3. Attempt to automate the process
+- To autmoate, you need to define the solution precisely
+- Code coverage
+- We use testing heuristics to make tests
+- Different heuristics: random fuzzy testing, user inputs, specification, etc.
+- Does the order in which we execute test cases matter.
+- Running time matters first -- determines order. 
+- Code coverage is a navie attempt: how many lines of code did we run successfully? 
+- We care about error-revealing subdomains -- we need to check if our test suite covers possible bugs
+- Mutation testing
+    - Begin with a correct program
+    - Introduce bugs into our code by making mutant programs. Define mutations on your code
+- Tools for testing
+    - Fault localization, where is the bug?
+    - Program verification -- is your code correct?
+    - Program synthesis
 
 
 

@@ -808,7 +808,54 @@ Structural INjustice
 - Conventional models of responsibility aren't helpful here.
 
 Two Models of Responsibility: Liability and Social Connection
-- page 14
+- Individuals often make claims that people in free & affluent countries have a responsibility to harm people in the less developed world
+- To do so rigorously, we need to break with the liability model of responsibility
+- The liability model
+  - Legal reasoning -- how to establish guilt or fault for a harm? Responsibility is assigned to agents who are causally connected to the outcomes
+  - Agents can be collective, but are treated as a single agent 
+  - Strict liability model -- an agent is liable for harm even if they did not intend or were unable to control the outcome
+  - Liability model applies to human rights violations in sweatshops
+  - However, workers stand within a system -- they may appeal to factors outside their control, i.e. appealing to "the system is too big"
+  - Can the states in which sweatshops operate be blamed for allowing them to exist? Many agencies which are supposed to enforce labor regulations are corrupt
+  - etc. etc. it's blame all the way down.
+  - The liability model of responsibility is necessary for the legal system. 
+- The social connection model of responsibility does not reject the liability model; rather, it works with it. Although for issues of social justice which is structural, the liability model does not work well enough. It requires **direct** interaction between wrongdoer and wronged party.
+
+- The social connection model
+  - Individuals have responsibilities via the positions they occupy -- we have responsibilities as citizens, teachers, employees, etc.
+  - **Here, responsibility means the agent carries out activities in a morally appropriate way and aims at certain outcomes.**
+  - it is from here that we can base a conception of a social connection model.
+  - Individuals bear responsibility for structural unjustice because they contribute by their actions to processes which produce unjust outcomes.
+  - Responsibilities stem from belonging together in an interdpeendent process of cooperation and competittion
+  - Responsibility is not derived from *passively* living under a common institution, but from participation in institutional processes which produce structural injustice.
+- Five main features of the social connection model of responsibility:
+  1. Not isolating. Liability tries to isolate those who are responsible. But how to account for harms resulting from participation of many? We are not exempt as consumers.
+    - Potential issue: Maybe there is still asort of causal model going on here. Does this solve any problems really at all? Think back to common ethical issues, John and the chemicals factory or whatever.
+  2. Judging background conditions. We usually assume a morally acceptable background. Liability considers harm as discrete and bounded. Punishment attempts to *retore normality*, or the *normal whole. on the other han,d the social connection model brings into question whether assumed background conditions are even normal to begin with. We contribute to production and reproduction of structural injustice. We need to reflect and be more explicit about what kind of behavior we are in the process of doing and replicating.
+    - True, but speaking to the choir? What are we to do about this?
+  3. More forward-looking than backwards-looking. The liability model is usually backwards-looking, but the social connection model is forwards-looking. Considers factors of deterrence, etc. We are concerned with *ongoing processes*.
+  4. Shared responsibility. shared vs collective responsibiility. Larry May: collective responsibility treats the aggregate as responsible while noneo of the individuals are themselves responsible. In shared responsibility, each individual is personally responsible for outcomes in a partial way.
+    - Possible critique: It's still unclear what is exactly meant by "responsibility", because we've defined it in this particular shared way, which is great, but then what sort of moral weight does "responsibility" have? This needs to be clarified.
+  5. Dischard only through collective action. Forward-looking responsibility can only be discharged by joining others in collective action. Many agents contribute to unjust outcomes by contributing their actions to particular institutions. Therefore, responsibility must mean *political responsibility*. Even those who are victims of harm or injustice share responsibility under this social connection model. Including workers insweatshop models. They share responsibility for combatting sweatshop conditions. This does not mean that all who share responsibility have an equal responsibility.
+    - Question -- How does this compare with Stokely Carmichael's critique, Fanon's critique from decolonial theory? etc.
+
+Parameters of Reasoning
+- Social connection model of responsibility -- corresponds with the intuition that those who participate in unjust-producing institutions share responsibility
+- How should we reasona bout the best ways to use our limited resources and such?
+- Maybe the social connection model raises too many questions. etc. etc. This requires more work
+- Some: responsibility names a form of obligation distinct from duty. Duty: specifies a rule of action. Responsibility: more open with regards to what can be carried out.
+- Someone with responsibilities must attend to *outcomes*, whereas duties are somewhat less concerned about the consequences themselves.
+- We can still criticize how agents go about achieving ends, though.
+- The social connection model does not give us imperatives; it offers us parameters for reasoning: power, privilege, interest, collective ability.
+- Power: actual influence over outcomes.
+- Privilege: people acquire privilege by virtue of structures -- structural injustices don't only produce victims.
+- Interest: people have divergent interests and claims to structures which produce injustice. Victims often have a greater interest in structural transformation.
+- Collective ability: bargaining power, etc.
+
+Conclusion
+- Giving more concreteness to the relations between social injustices and responsibilities
+- Important element in developing a theory of global justice
+- Recognizing and highlighting *social and economic* (rather than merely political) processes
 
 ---
 
