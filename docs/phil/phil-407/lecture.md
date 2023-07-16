@@ -929,7 +929,99 @@ Joseph Raz's Conditions of Autonomy
 
 ---
 
-## Lecture 11:
+## Lecture 11: Rawls' Law of Peoples -- Rules for a Vanished Westphalian World
+- Rawls' law of peoples
+    - There is a kind of basic structure, but it's international -- it's not cosmopolitan
+    - Agents are not individuals but rather peoples, including liberal and illiberal peoples
+    - Principles of the international basic structure
+        - Peoples are free and independent, and their freedom and independence are to be respected by other peoples
+        - Peoples are to observe a duty of nonintervention
+        - Peoples are to observe treaties and undertakings
+        - Peoples are to observe human rights
+        - Peoples are to observe the duty of nonintervention
+        - Peoples have a right to self-defense but no right to instigate war for reasons other than self-defense
+        - peoples have a duty to assist other peoples living under unfavorable conditions that prevent their having a just or decent political and social regime
+- Peoples vs nations -- what even are peoples?
+- Rawls failed to understand that there is a global basic structure -- Rawls is too commited to a Westphalian world
+- We need principles to help us distribute the benefits and burdens of the global basic structure
+- Rawlsian scheme is set up such that you can't interfere: the international community must step back in cases of intrastate conflict
+- These folks are not anti-Rawls, but disagree with Rawls failing to apply him into the international realm.
+- Beitz and Pogge have complained that Rawls betrays liberalism by according legitimacy to very inegalitarian regimes.
+- Most people blame Rawls putting peoples rather than individuals behind the veil of ignorance.
+- Principles for individuals as individuals are needed.
+- We need a fully adequate moral theory of internaitonal relations which includes principles to justify relationships among peoples.
+- But even on the assumption of peoples behind the veil, Rawls is wrong. 
+
+What are peoples?
+- Buchanan: Rawls means groups that have their own states, otherwise it wouldn't make sense to attribute familiar powers of sovereignty.
+- Only groups with states ahve such powers, so peoples are groups with their own states.
+- Rawls' law of peoples are essentially interstate principles.
+- Maybe Buchanan just does not appreciate Rawls' difference between peoples and states.
+- Rawls' terms might even suggest that he is talking about all groups, even those without states -- which is actually more radical than what Rawls is saying. He can't mean that by what he is doing.
+- What is wrong with thinking of peoples as states? States now don't have the amount of unlimited sovereignty Rawls gives them. Rawls ascribes a lot of power to peoples which states don't have.
+    - International law limits the powers of sovereignty; states cannot go to war for arbitrary reasons
+    - Internal sovereignty of states is limited by human rights
+
+Westphalian World
+- States have to find a way to relate to one another
+- In a Westphalian world, states are economically self-sufficient and distributionally autonomous
+    - External actors do not impede on economic self-sufficiency
+- States also need to be politically homogenous, unified actors, without internal political differentiation.
+    - Intrastate conflict sdon't fall in the context of international law.
+- Big conflict in the peace of Westphalia is religion: external factors trying to impose religion -- your conception of the good. Peace of Westphalia, let's not impose religion on individuals.
+- Two things showing Rawls does:
+    - When Rawls talks about peoples, he is talking about them as states.
+    - When Rawls thinks about states interacting with each other, it's very Westphalian, but we don't live in a Westphalian world anymore.
+- The Westphalian Rawlsian world
+    - Most people post-WWII are worreid about war, the economic relations are secondary. **This is why so much focus on the state emerges.**
+    - Peace of Westphalia emerges after religious *war*, not trade issues.
+    - Coca Cola has killed more trade union activists than the Colombian government: international corporations are important here.
+
+The Global Basic Structure
+- How are indiviudals insured for a good life?
+- Rawls: as long as individuals are not living in outlaw states, assumes each state is economically self-sufficient and distributionally autonomous, so a well-governed state can ensure a decent and worthwhile life
+- Rawls does not consider that negotiations *within the parameters of the global structure* will be shaped by inequities within the gloal structure
+- Rawls might reply that more egalitarian principles of global distributive justice transgress the bounds of tolerance by imposing liberal conceptions of distributive justice.
+    - Beitz and Pogge: we can make societies liberal!
+- Buchanan: Sure, leave them alone. Not proposing what societies do internally. 
+- If you want to go indiviudals, you already have Pogge and Beitz
+- If we follow Rawls' path, representatives would
+    - ensure the global basic structure's distributional effects would not impede their society's ability to achieve their own conception of justice and the good
+    - choose principles that ensure fundamental equality for their societies
+- Once we take the idea of the global distributive justice seriously, Rawlsyields three principles of global distirbutive society *beyond* duty to aid burdened soceities
+    - Global equality of opportunity -- make sure your country and folks can have access to these positions, even if you limit this to certain people. You don't know where you will end up in this global hierarchy, so states
+    - Democratic participation in global governance -- you would want a principle of participation, you want to be able to participate equally.
+    - Limit on equalities of wealth among societies -- you want global limits on inequalities. If you stick with Beitz and Pogge, you get a global difference principle. From their view, it is obvious because you start from individuals behind the veil of ignorance. When yuo start with peoples
+- Infeasibility objection: any attempt to frame priciples for distributive justice for the global basic structure is an idle exercise *because there is no global governnace institutions*. 
+    - For Blake, it is coercion rather than governance or cooperation that is the issue.
+    - What is good? We're trying to figure out what we need for justice.
+    - One doesn't need for principles of justice to be peerfectly satisfied
+    - We have some methods to enforce confliance.
+    - Don't let the perfect be the enemy of the good.
+    - It would be a mistake that coercion needs to be provided by a single centralized enforcer
+- Two questions to think about:
+    - Is the infeasibility objection even worth worrying about? 
+    - How satisfactory are Buchanan's responses to this objection?
+- The relation between ideal theory and the 'real world'
+- Consensus objection: the main thing that is lacking is that there is not enough sufficient consensus among peoples on the content of global distributive justice principles.
+
+Intrastate Conflicts
+- The Rawlsian state leaves out intrastate conflicts.
+- United States is a prime example
+- Buchanan thinks that most conflicts are intrastate rather than interstate, this happens internally.
+- Rawls: nonintervention is a better general policy. You're blinded by your own interests, and you can't see what is good for other people. A phenomenological point, even.
+- Westphalian approach: let them do it themselves.
+- Buchanan: if peple have a right to self-determination or rights of minorities are being transgressed, though, Rawls offers you very little.
+- But Buchanan deosn't really help us very much here.
+- What are the justified conditions of secession?
+
+Conclusion
+- Rawls' theory cannot be fixed by adding the assumption that parties know that states are not politically homogenous
+- it would radically change the character of his theory (what is the eidos of Rawls' theory?)
+
+Questions
+- What do we need to do?
+- Responsibility and liability
 
 ---
 
