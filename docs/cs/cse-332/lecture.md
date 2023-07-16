@@ -359,15 +359,65 @@ Z   A    ->    p   X
 - Temporal locality -- lcoaity in time
 - Spatial locality -- locality in sapce
 - Arrays vs linked list, which can better take advantage of the spatial locality?
+  - Array, obv
+- AVL has worst-case $$\mathcal{O}(\log n)$$, but it's not cache-friendly
+- B-trees are better for large dictionaries, e.g. over 1 GB
+- Disk to memory: block size, page size. Memory to cache: line size. 
+- Array benefits from linked list because of contiguous memory accessing
+- BSTs: looking things up in binary search trees is log-*n*, but still disk accesses matter. The tree might not be able to fit entirely in memory even if the tree is very shallow.
+- We want a balanced tree even shalower than AVL trees so we can minimize disk accesses and exploit disk block size by *increasing the branching factor*
+- We have a search tree with a branching factor M and an array of sorted children; M is chosen to fit nicely into the disk block such that we have 1 access per array.
+- Say that you have block size $$d$$, pointer size $$p$$, key size $$k$$, key-value pair size $$v$$. You need an internal node to fit in the block:
 
+$$(M - 1) \cdot k + M \cdot p \le d$$
+$$M \le \frac{d + k}{p + k}$$
+$$M = \lfloor \frac{d + k}{p + k} \rfloor$$$$
 
+$$v \cdot L \le d \to L = \lfloor \frac{d}{v} \rfloor$$
 
+- `find` requires $$\log_M(n)$$ finds
+- If it's balanced, the runtime is actually $$\mathcal{O}(\log_2 M \log_M n$$ 
+  - $$\log_M n$$ is the height we traverse
+  - $$\log_2 M$$ is finding the correct child branch to take using binary search among the M options
 
+---
 
+## Lecture 10: Hashing
+- Dictionary data structures: unsorted linked list, unsorted array, sorted linked list, sorted array, balanced tree
+- Hash table: giant array. Fit as many key-value pairs as possible.
+- A hash function converts a key into an integer. Modding it by the table size gives me my index.
+- What if mutliple kye pairs match to the same value? This is a collision. We want to avoid collisions when possible. It is unavoidable to have coillissions though.
+- How do we resolve collisions?
+- Hash table worst runtimes are all going to be `O(1)`, assuming few collisions
+- We can no longer implement findMin, findMax, predecessor, successor, sort, etc. as opposed to trees
+- Typically the size is smaller than possible key space
 
-
-
-
+Hash Function
+- An ideal hash function is fast to compute and rarely hashes two used keys to the same index
+- Hash tables are generic
+- The client implements the hash function, implementer mods it
+- Using prime numbers for table size is common
+- Client should aim for different ints for expected items, e.g. avoid wasting any part of E or the 32 bits for `int`
+- What to hash? We will focus on ints and strings
+- Identifying fields should contribute tot he hash function to avoid collisions
+- But don't add too many to lengthen the hash function time too much
+- Hashing time vs collision avoidance trade-off
+- Simple hash function: `h(x) = x`, library `g(x) = h(x) % TableSize`
+- Technique for prime: real-life data tends to follow a pattern, so we want to avoid that pattern
+- What if the key is not an int?
+- Strings: sum of ASCII, or sum of ASCII times the power of sum number to avoid permutation case
+- JDK hashcode value: 31 exponent plus the ascii value, again using 31 as a prime number
+- Use all 32 bits, which includes negative numbers
+- If keys are known ahead of time, choose a perfect hash
+- You can hash each of the fields and combine with a string-like formula
+- Linear probing: if there is a collision, go to the next available spot
+- Quadratic probing: if there is a collision, go to the next available spot, but skip by a quadratic function
+- Double hashing: if there is a collision, go to the next available spot, but skip by a function of the key
+- Separate chaining: all keys mapping to the same table location are kept in a list
+- Some data structure engineering can improve constant factors, such as move-to-front or linked list or array, etc.
+- Lambda: load factor, $$\lambda = \frac{n}{m}$$ where $$n$$ is the number of items and $$m$$ is the table size
+- Unsuccessful `find` compares against $$\lambda$$ items, successful `find` compares against $$\frac{\lambda}{2}$$ items (on average)
+- To keep runtime constant, resize TableSize to keep $$\lambda$$ constant
 
 
 

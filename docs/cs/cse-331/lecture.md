@@ -482,9 +482,25 @@ Collections.unmodifiableList(elts);
     - Program verification -- is your code correct?
     - Program synthesis
 
+---
 
-
-
-
+## Lecture 11: Equality and Hashcode
+- Rest of the course -- looking at libraries. This reduces bugs in most cases
+- `java.lang` and `java.util` should be familiar for all Java programmers
+- Correctness is dependent on knowing default tools
+- We can't use `==` to compare objects generally. Rather, use `.equals`
+- Expected properties of equality: reflexivity, symmetricity, transitivity
+    - This is the smallest notion of equality: each object can only be equal to itself
+- Every object in Java inherits from `Object`
+- Consistency in equality. Although this goes out the window for mutable objects.
+- No object should be equal to null.
+- Make sure to *override* rather than *overloading* (just modifying the argument types to change the signature)
+- Method calls order
+    - Signature of method call si chosen at compile time
+    - Java looks at the actual class at runtime
+- To modify: check if object is instance of desired class and return false if not
+- Immutability: no representation exposure, equals consistency is not violated
+- Reference equality stronger than behavioral equality srtronger than observational equality
+- 
 
 

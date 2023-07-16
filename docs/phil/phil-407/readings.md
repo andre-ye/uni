@@ -860,6 +860,116 @@ Conclusion
 ---
 
 ## "Associative Duties, Global Justice, and the Colonies" -- Ypi, Goodin, Barry (2009)
+- Most countries have colonial relations with one another. What implications do these facts have for the scope of global distributive justice?
+- Colonialism poses a historical problem for justice -- what rights and duties do we have?
+- Associative rellations account: distributive jusitce is owed only to those with political association -- narrowed to compatriots alone.
+
+Associative Duties vs Global Justice
+- Cosmpolitans argue that principles should apply identically to everyone worldwide.
+- Anti-cosmopolitans argue that principles of justice apply strictly among co-inhabitants of a political state, even though we do have duties of humanity
+- Middle position: minimalist/suffientarian principles apply globally, and egalitarian principles apply domestically
+- Opposition to cosmopolitanism of distributive justice: argument from associative duties. Everyone has certain general duties, and special duties are owed to some, including associative duties -- people who are members of an association, which justify different principles of justice.
+  - Cooperation account: associative duties are rooted in members of an association cooperating in a joint venture
+  - Coercion: associative duties stem as sort of a 'fair deal' for bieng subject to coercion under an authority.
+- Traditionally, the focus is on cooperation, e.g. the Rawlsian view. Countryfolk-ties have been likened to family ties. 
+  - Nagel, associative duties as a barrier to global justice
+- Coercion account: Blake and friends,coercion threatens liberal autonomy, so citizens justify use of force only if it is paired with institutional concern for relative deprivation among associates.
+- Both accounts argue that a concern for distributive jusitce is only relevant within a domestic political state.
+- Equality is said to become only relevantg in the context of certain forms of coercion.
+- Draw sharp differences between the domestic and the international case.
+- These do not persuade the authors. Onward!
+
+Colonial Rule: The Coercion Account
+- Colonial relations are not just about looking at individual analogues of domestic political rule: these are relations which actually appear very much like rules between members of the same state, bound by the same legal web.
+  - This is actually a historically tenuous point. *Personal note*
+  - *inferior legislatures* (Burke) are separate, no?
+- Colonial contradiction of the Mother is legally null
+- Certainly there is coercive power present. 
+- So certainly people int he Mother Country and its colonies have associative duties towards one another.
+  - is this view in conflict with the Westphalian one? Is it 'post-Westphalian Westphalianism'?
+- Certainly, members of the colonized and colonizer nations are not subject to the same coercive practices.
+  - Yet this does not demarcate a separate state by itself. 
+  - Consider racism in the American south.
+  - Blacks and Whites were subject under the same coercive power -- itw as just a racist coercive power.
+- Everyone under the coercive rule is part of the sovereignty.
+- *Personal note* -- this works well with the coercive model, the collaborative model is more tenuous, it seems.
+- *Personal note* -- maybe it is problematic that we are trying to demarcate economic and political coercion so easily. And maybe this works in favor of colonized people but then not to others? Does it defend those that have not been coolonized? Although the question is to be asked too if all economic disparities are the result of colonization in one way or another.
+- Indigenous political institutions can emerge autonomously within a community
+- Colonization is wrong because it **violates peoples' right to self-determination.**
+  - How can this be redressed?
+- Robust distributive justice applies to those bound by the same colonial association.
+  - Question -- what does this mean for poor folks in the colonizing country? Are they differentiated from the poor in the colonized or have they been rendered similar?
+  - Coercive alien rule is wrong by denying self-determination. But it is also this which gives rise to duties of justice. 
+  - The coercion account is right when applied to consider colonial effects.
+
+Coercion and Indirect Colonial Rule
+- Being subject to coercion is sufficient to give rise to associative duties.
+- What does 'same' coercive authority mean?
+- 'Direct Rule' model: law of the colony directly determined by legislative, executive, etc. institutions of the Mother Country
+  - e.g. british rule over Burma, parts of India
+  - The French
+  - Portuguese rule in Brazil
+- Indirect rule model: control over most matters is deligated to indigenous officials with native institutions under them.
+  - Ultimate authority still rests with the colonial master
+- Does this difference between indirect and direct rule make any moral difference?
+  - Authors suggest that it seems not.
+  - Certainly the absolute monarch's subjects are pervasively impacted by the regime's coercive power.
+  - **Personal note** -- this begs the question of economic vs political exploitation.
+- Maybe some colonies rule 'in name only', but this is a rare occurrence.
+- Taxation, punishment, etc.  -- all examples of coercion even in 'indirect' cases. 
+- Puppet regimes: we install a puppet regime and leave, is this coercion? People are not formally under the coercive power of our state, but there is a local coercive power which is too our own. 
+- We do not consciouosly directly exercise coercive power, but we are stiil "coauthors of the edict". What do you mean by "we" here? Is there an internal colonizer/colinized relationship?
+- Other forms of coercion are relevant here too. 
+- We have committed a political relevant moral wrong for installing a puppet state.
+- Critics of decolonization: a transfer of power to indigenous elites, maintaining colonial economic relationships. And this was likely to aim of the British Colonial office.
+
+Colonial Rule: The Cooperation Account
+- Focused on associative duties from under the coercion account, and it has been quite fruitful.
+- Maybe more controversial to use the cooperation account, although arguably the results are the same.
+- Colonial rule is different from occupation by foreign forces. But the dream is for colonial subjects to internalize the rules and not consider themselves as being coerced by the state solely as the absis for their actions. This is some sort of cooperation and triggers associative duties under the Cooperation Account.
+- Colonial systems are often comprehensive and self-contained. The rules are generally known and complied with.
+  - Max Weber has a problem maybe.
+- Inhabitants of colonies and their masters do not merely engage in economic relationships, but develop reciropocal virtue relations.
+  - Britain and India during WWII
+  - This sort of relationship is different from the autarkic societies ones in Blake
+- members create public goods for and with one another to realize life plans
+- Maybe colonies fall out of the scope of distributive justice because the terms of cooperation must be fair. But this is dubious, because surely this is incorrect.
+
+Severing Colonial Ties, Shedding Associative Duties
+- Regardless of coercion or cooperation accounts, political association constittued by colonial rule is similar to the political institution membership which grounds associative duties.
+- Associative duties are not only owed to people currently in association, but also former associations.
+- This ties in colonization and decolonization.
+- What conditions can one group secede from a political institution? New question: Can associative duties be shared even when secession occurs?
+- Colonizers might try to sever theri political obligations by severing political ties.
+- Associative duties of justice may linger:
+  1. Colonizer's duty to rectify harm involved in violating right to self-determination
+  2. Duty to rectify failure to meet associatively grounded duties of justice
+  3. Duty to fairly share benefits of a cooperative good which were not fairly distributed
+- If debt has not been paid during colonial rule, it is not automatically cancelled by ending that colonial rule.
+- People linked through associative colonial buonds woe duties of robust distributive justice to one another.
+- **Personal note** -- to me this begs the question of whether one is still in the framework of associative duties or if we have somehow transcended that into some sort of social connection model of justice.
+- Specifying "fair terms of divorce". This is a problem, because it forces you to recognize some sort of a higher authority. Maybe? Maybe all divorce must be just (i.e. if you hav enot fulfilled fair terms of divorce you have not truly divorced.)
+- Counterfactuals do not cancel out claims of justice
+- Obligations to ex-partner cannot be reduced to general obligations owed to anyone. Special distributive obligations continue to apply.
+- Interesting implications for slavery reparations.
+- **Personal note** -- maybe the issue is the cudgeling of indiviudals into separate states, 'colonized' and 'colonizer'
+- There may be ongoing cooperative projects, e.g. children in the divorce analogy.
+  - **PN**: But does that give rise to associative duties? How much are associative duties getting diluted?
+- **General question:** How much does justice as a concept fetishize the positive/negative distinction of actions? Maybe I want to take positive action but because I am at risk of justice liabilities, I instead do nothing and favor obligations of humanity.
+- Standard self-determination view of decolonization 
+- Consent under duress does not morally count (??)
+- Colonizers are founders of the colonized as an independent state. Coercive capacity of the colonizing state is self-effacing.
+- Colonizers play the main role in the political separation.
+- The removal of coercive capacity might itself be a coercive act.
+  - Maybe there is no way in which the colonial state does not bear upon the colonized or post-colonized state.
+- Can colonial debts ever be fully paid back?
+
+Extending Robust Distribtuvie Justice to All Fellow Associates
+- It is tempting to think of colonialism as a wrong done by the colonizer to the colonized. But there are a set of additional colonial duties.
+- Associative duties extend to everyone linked in a political association -- person to person.
+- Rich individuals in the colonies end up owing assocaitive duties to poor people in other colonies or even the mother country.
+- Associative duties: if people really find them so compelling, then they must accept that special associative dutiex extend very far
+- Not quite at the global scope of the cosmopolitans, but extends well beyond Milleresque anticosmopolitan particularists.
 
 ---
 
