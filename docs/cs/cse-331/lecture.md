@@ -501,6 +501,37 @@ Collections.unmodifiableList(elts);
 - To modify: check if object is instance of desired class and return false if not
 - Immutability: no representation exposure, equals consistency is not violated
 - Reference equality stronger than behavioral equality srtronger than observational equality
-- 
 
+---
+
+## Lecture 12: Exceptions
+- Last time -- equality
+- Key properties of equals: reflexive, symmetric, transitive, consistent, non-null
+- Consistency ensures reflexivity across time
+- `@Override` technically optional but strongly recommended -- tells Java you think you are overriding a method
+- Not all errorrs should be failures -- client misuses code, implementer has an error, unexpected resource problems (should not be a failure)
+- Fail fast and fail friendly: prevent harm and give inofrmation about the problem
+- Defensive programming: use assertions about your code to verify precondition, postcondition, representation invariant, etc.
+- Check these statically with reasoning and tools
+- Check dynamically with assertions.
+- When not to use assertions -- don't clutter your code with useless assertions
+- - Don't perform side effects, e.g. `list.remove(x)` changes the actual underlying list.
+- `checkRep()` is another dynamic check -- checks if the representation invariant actually holds, have a private void private method to ensure that the fields are actually in the right statte.
+- Remove expensive assertion checks -- create a global level debug level variable which can be disabled by the client
+- Java checked/unchecked distinction
+- Checked exceptions vs unchecked exceptions -- typically ones which crash the program but we want it to crash the program. Subclasses of `RuntmimeException` and `Error`
+- Class `Throwable` has two implementations: `Exception` (all checked exceptions and an unchecked one) and `Error` (`assertionError`, `OOMError`)
+- Options:
+    - propagate the error to the client
+    - use try-catch  -- can use `e.printStackTrace();`
+- Catching with inheritance
+- Finally block execuses at the end -- you don't know what will happen at the end
+- The last thing to end a method is not a return statement, it's actually a `finally`
+- Two distinct uses of eceptions
+    - Errors that should be failures
+    - Special cases
+- When you propagate an excpetion, make sure to keep the user's intelligiblity of the error. 
+    - Exception translation: `catch` the exception and throw a new exception
+    - Don't ignore exceptions, empty catch block is poor style, at the very minimum print a stake trace and do a system exit.
+    - W
 

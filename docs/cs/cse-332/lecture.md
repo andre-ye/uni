@@ -419,6 +419,9 @@ Hash Function
 - Unsuccessful `find` compares against $$\lambda$$ items, successful `find` compares against $$\frac{\lambda}{2}$$ items (on average)
 - To keep runtime constant, resize TableSize to keep $$\lambda$$ constant
 
+---
+
+## Lecture 11: 
 
 
 
