@@ -1117,7 +1117,39 @@ Parameters
 - Victims of injustice, the Rosseauian will, the Marxist working class
 - July 30th deadline.
 
+---
 
+## Lecture 13: Associative Duties, Global Justice, and the Colonies
+- You can' merely so quickly redress colonialism -- there are associative duties. 
+- Non-cosmopolitan view -- everyone has general duties, but there are also special duties we owe to particular others. 
+- Associative duties are those that we have to members of an association. 
+- Cooperation and Coercion account
+    - Beitz, Pogge -- cosmopolitans but think cooperation applies to the world
+    - Rawls thiinks cooperation doesn't exist robustly in a global sense, what counts as robust
+    - Blake -- it's about coercion actually
+- What the non-cosmopolitans feel presents them from falling into cosmopolitanism is the notion of associative duties. They're going to take the strength of the non-cosmopolitan view and say that because of associative duties, you have a much wider duties to folks than you think you do. Colonialism has reated these kinds of relationships whether you go through cooperation or coercion that generate associative duties.
+- Nonvoluntary relationships introduce complications -- typically people do not choose theirf amilies or their states. 
+- Under colonial rule you have the coercive relationship. 
+- The Mother country not only wants to take the resources of the colonized country, but to deny that the colonized country can have such a relationship with the mother country.
+- Even if the legal status is different, it doesn't make it a different sovereign. To say otherwise would be to 'perversely' deny that a state could not discriminate unjustly. 
+    - If you look at the out of separate sovereign states, then the question of which duties are owed associatively becomes very thorny. 
+- What counts as the same coercive authority? Do differences in how colonial powers arrange their colonial affairs have impact on associative duties rising from under the coercion account?
+- Everyone linked by a system of colonial rule has associative duties to one another via being pervasively impacted by the same coercive institutions.
+- The Blake account seems convincing because coercion seems baked into the colonial relationship.
+- Cooperaton  -- individauls are in a joint venture sufficient to ground associative duties
+- Use a very Rawlsian account of a cooperative scheme -- specific kinds of strong reciprocal relations in virtue of their joint engagement in the production of the basic conditions needed to develop and act on a plan of life
+- Cooperation creates benefits and burdens which become distributed out
+- Possible objection: cooperation has to be fair. But again suggests that we can avoid incuring duties towards others by dealing with them on noncooperative terms. In fact they are still part of the same scheme.
+- Secession -- under waht conditions can you secede? Whether and on what terms can they be allowed to secede?
+- Colonizers might be anxious to sever the connection with the colonized, hoping to shed colonial relations. This move turns obligations of justice to fellow citizens by converting citizens into strangers.
+- You haven't shed your distributive assocaitve duties even if they secede, even if you have "preiad what you've done"
+- You can continue to have special duties by virtue of the former association
+- What lingers of colonial ties?
+    - Restorative reparative justice for violating right of self-determination
+    - Rectify failures to meet associatively grounded duties during colonization
+    - Share benefits of cooperative goods created during the period of association to which all parties contributed towards.
+- Problem of distribution over generations -- contribution, grounded duties, etc. left through time. 
+- When we talk about colonies or collectives, are we talking about the collectives as such or collectives as groups of individuals? 
 
 
 
