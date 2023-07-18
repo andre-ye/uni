@@ -421,8 +421,37 @@ Hash Function
 
 ---
 
-## Lecture 11: 
+## Lecture 11: More Hashing
+- Hashing has very fast average runtimes -- an array is a hash table, use a hash function
+- A lot of different choices: hash function, tabl size, collision resolution strategy
+- Open addressing with linear probing: try the next available spot mod table size
+- Open addressing: resolve collisions by trying a sequence of other positions in the table 
+- Probe function $$f$$: `i`th probe is `(h(key) + f(i)) % TableSize`
+- Open addressing does poorly with a high load factor $$\lambda$$
+- For the `find` operation, we store values with keys, and we keep going along the probe sequence until we hit an empty slot
+- For `delete`, we risk pausing the `find` probe early with empty slots. Use lazy deletion to mark there used to be a key there
+- LInear probing is a bad idea because it tends to form clusters, which lead to long probe sequences. Also called primary clustering. Each insert operation either appends to the end of a cluster or creates a new cluster.
+- Quadratic probing: $$f(i) = i^2$$
+- You might end up with an infinite loop though
+- Proof: use a prime TableSize, so quadratic probing will find an empty slot in at most Table Size divided by 2 probes. SO if lambda is less than half, no need to detect cycles.
+- Quadratic probing does not resolve collisions between keys that initially hash to the same index: secondary clustering
+- Double hashing: $$f(i) = i \cdot h'(key)$$ where $$h'$$ is a second hash function. If two keys hash to the same index, it is unlikely that they will follow the same probe sequence.
+- While we prevent secondary hashing (possibly), we run the risk of infinite cycles
+- We no longer have a convenient theorem for double hashing
+- Some functions `h` and `g` have proven resistance to infintite cycles
+- As lambda approaches 1, resize the table because you don't want to do too much probing
+- Advantage is less memory allocation -- less chaining, it's just in one array
+- Separate chaining is more intuitive and easier to implement, also linear rather than exponentially increasing as lambda approaches one
+- Can optimize the structure of storage within a single bucket
+- Rehashing: when you resize the table, you need to rehash all the keys
+  - Separate chaining: you can decide what too full means, probably keeping the load factor reasonable
+  - Open addressing: half full is a good rule of thumb
+- Good idea to double. But you should choose a prime if you can.
 
+---
 
-
+## Lecture 12: Comparison Sorts
+- Why sorting? -- common to need data to be sorted
+- Goals: stable (preserve original ordering in the case of ties), in-place (no extra memory), fast (typically $$\mathcal{O}(n \log n)$$)
+- Insertion sort: beginning is sorted, end is unsorted, loop through and find the best way to put it
 
