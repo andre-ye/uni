@@ -533,5 +533,23 @@ Collections.unmodifiableList(elts);
 - When you propagate an excpetion, make sure to keep the user's intelligiblity of the error. 
     - Exception translation: `catch` the exception and throw a new exception
     - Don't ignore exceptions, empty catch block is poor style, at the very minimum print a stake trace and do a system exit.
-    - W
 
+---
+
+## Lecture 13: Inheritance, Subtyping and Subclasses
+- Assertions check your reasoning, exceptions are part of the specification and used in dynamic and unpredictadble concepts, special values are a common case and clients are likely to remember to check for it.
+- Open-Closed principle -- software should be open for extension, but closed for modification. 
+- Subtyping -- "every B is an A", B is a subtype of A, B is a strenghtening of A
+- If the client expects something of type A, you can give them a subtype and the subtype can masquerade as the supertype they care about.
+- Liskov substitution principle -- subtypes are substitutable for supertypes, instances of subtypes won't surprise the client by failing to satisfy the supertype's specification or with more expectations than the supertype's specification.
+- B is a true subtype of A if B has a stronger specification than A or is equally strong. This is not the same as a Java subtype (i.e. a subclass), so it becmoes a source of a lot of bugs
+- Substitution is a matter of specifications, inheritance is a  matter of implementation
+- Inheritance: your subclass inherits all of the method signatures (part of the spec) and inherits all the implementation behaviors (which can be overriden)
+- Java trusts that you implement a true subtype, but it can't verify that you do so -- cuz that requires a specification.
+- Subtyping is about the specification but in Java you copy over all of the specifications
+- Benefits of subclassing and inheritance: don't repeat unchanged fields and methods, you can have modularity, ignore a lot of private fields in the superclass.
+- Inheritance makes small extensions small
+- `Hashtable` and `HashMap`
+- Immutability gets around a lot of issues, evoids representation exposure, equals consistency violations, subtyping relationships
+- Working with immutable objections is very nice
+- 

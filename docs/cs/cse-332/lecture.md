@@ -454,4 +454,33 @@ Hash Function
 - Why sorting? -- common to need data to be sorted
 - Goals: stable (preserve original ordering in the case of ties), in-place (no extra memory), fast (typically $$\mathcal{O}(n \log n)$$)
 - Insertion sort: beginning is sorted, end is unsorted, loop through and find the best way to put it
-
+- Selection sort: find the smallest element and append it to the end of the sorted part.
+  - Stable and in place, but not fast -- best case and worst case are both $$\mathcal{O}(n^2)$$
+- Selection sort, most work is done in the unsorted part (selecting)
+- Insertion sort, most work is done in the sorted part (inserting)
+- Bubble Sort -- pretend it doesn't exist, really bad asymptotic complexity and bad constant factors, literally should not be used ever.
+- Heap Sort -- use a heap, put all element into a heap with build-heap ($$O(n)$$) and then remove elements one by one and put them back in the heap ($$O(n \log n)$$)
+  - This is stable: treat the initial array as a heap, when you delete the `i`th element, you put it in `arr[n-i]`. When you `deleteMin`, there's always an empty block at the beginning, because heaps are a complete tree.
+- AVL Sort: not good, insert all elements into balanced tree and then do an in-order traversal. It's not in-place and also has worse constant factors, with all the balancing etc. -- holding an entire data structure just to sort something. Heap sort is just better than AVL sort.
+- Merge sort: sort the left half of the elements recursively, sort the right half of the elements recursively, merge the two sorted halves into a sorted whole (linear-time). Runs in $$\mathcal{O}(n \log n)$$
+  - Stable, not in-place
+  - Merge step is linear time
+  - Recursive calls are $$\mathcal{O}(n \log n)$$
+  - Merge sort is asymptotically optimal for comparison sorts
+  - Use 3 pointers and 1 more array and copy into an array, and then copy from the array back to the original. 
+  - Stable? Yes, prioritize left array.
+  - In place? No, $$O(n)$$ space.
+  - Fast? Yes, it has worse constant factors though. Copying, merging, etc.
+  - Why is it $$O(n \log n)$$? The merge sort case, we have $$2T(n/2) + c_1 n + c_2$$. 
+- Quick sort: Pick a pivot element, which is hopefully the median element. Divide the elements into 2 halves, less than pivot and greater than pivot, and recursively sort the two halves.
+  - The pivot you pick can make the difference between $$O(n^2)$$ and $$O(n \log n)$$
+  - Warning, many different versions of quick sort on the internet.
+  - How do we pick a good pivot? This is the majority of the runtime.
+    - Pick lowest or highest element. This can be disasterous. Fast but likely worst-case
+    - Ideally we want to picka  random element, but pseudorandomness is actually very expensive in terms of constant factors.
+    - In practice we use median of 3, choose the median of the low, middle, and high index of the array. 
+  - Parittioning issue -- given a pivot, how do you split the array into two? This is a problem -- ideally we want it to be fast $$\mathcal{O}(n)$$ linear time and for it to also be an in-place operation. Of course linear time runtime is more important. 
+  - "Hoare" partitioning approach: swap pivot with `arr[lo]`, move it out of the way. Use two pointers `l` and `r` starting at `lo + 1` and `hi - 1`. Move `l` and `r` such that `arr[l]` should be on the right of the pivot and `arr[r]` should be on the left of the pivot. 
+  - Quicksort is not stable because of the partitioning set -- doing a bunch of swaps where we don't know where elements end up at
+  - In term sof asymptotics, kind of -- best case and average case is $$\mathcal{O}(n \log n)$$, worst case is $$\mathcal{O}(n^2)$$
+  - Worst constant factors but in practice it's faster and used often, e.g. in Python

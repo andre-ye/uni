@@ -1150,9 +1150,64 @@ Parameters
     - Share benefits of cooperative goods created during the period of association to which all parties contributed towards.
 - Problem of distribution over generations -- contribution, grounded duties, etc. left through time. 
 - When we talk about colonies or collectives, are we talking about the collectives as such or collectives as groups of individuals? 
+- Question: Is distributive justice the proper framework to think about the harms and duties owed to the formally colonized?
+- Maybe a more forward-looking Youngian set up a new structure.
+- Distributive justice vs relational egalitarian vs luck egalitarian
 
+---
 
+## Lecture 14: Relational Immigration
+- Immigration restrictions are problematic not based on distributive justice principles, but because they are a way by which the globally affluent exercise power over the globally poor.
+- Joseph Carens, wrote an essay initially trying to justify immigration exclusions, but looked at it and said liberals cannot justify immigration exclusions.
+- Citizenship in Western liberal democracies is the modern equivalent of feudal privilege. You don't do anything to earn it, it's bestowed upon you. 
+    - "Borders have guards and the guards have guns"
+- Distributive argument for open borders
+    - Egalitarian justice requires well-off states ensure that some good G is distributed more equally
+    - If well-off states adopted less restrictive immigration policies, then G would be distributed more equally
+    - Therefore, egalitarian justice requires well-off states adopt less restrictive policies towards worse-off immigrants
+- Basic logic of the open borders case -- the good differs, e.g. Carens talks about jobs
+- Christopher Wellman: "IMmigration and Freedom of Association", 2008. Very provocative -- without denying wealthy societies' extremely demanding duties, every legitimate state has the right to close its doors to potential immigrants.
+- What has made this essay very heavily cited? With Carens you can deny it and say feudalism is a bad analogy. Wellman says that moral equality is best thought in terms of relations, not luck. If I have more money than you but because you lost it gambling, then do I owe something for you? 
+- Rawls: I am not a luck egalitarian, it seems like I am a luck egalitarian but I don't want to be one.
+- Nietzsche, Kierkegaard -- everyone wants to be level, there is a sameness. Wellman -- that is a bad way to think about equality.
+- Moral equality is not simply a matter of having an equal distribution of goods.
+    - The inequality in questions must be severe enough to warrant attention, e.g. not Bezos vs Gates (Blake: relative and absolute deprivation)
+    - There must be a relation between unequal parties so one party unfairly benefits from our perpetuates this inequality.
+- Almost nihilist view that the world is just screwed over, how am I going to be a good person? 
+- Charity vs Justice
+- Wellman: all egalitarians should be relational egalitarians which doesn't make sense, don't go for a sort of naive levelling
+- A concern for equality does not lead to open borders, according to Wellman
+- What's the problem with thinking about distributive justice?
+    - immigration might not reduce global inequality -- most disadvantaged are least likely to immigrate, mass emigration might harm the global poor, immigration can increase inequality because generated surplus is captured by the rich
+    - assumes demands of distributive equality apply globally
+    - distributive obligations can be fulfilled in other ways
+- Why not do the distribution rather than opening borders?
+- Maybe this is not the case -- fundamentally we have a freedom to movement, maybe.
+- Sharp is trying to say, a distributive argument for open borders has a lot of issues; but what if I gave you an argument that circumvents all of these arguments.
 
+Relational Egalitarian Argument
+- Distributive inequalities matter insofar as and because they create unequal social relationships. Why does Gates care that he has less money than Beoz
+- But unequal social relationships exist only where social relationships exist
+- Inequalities between us and thos ein distant galaxies do not need to worry relational egalitarians. 
+- A relational egalitarian aims to abolish institutions which place people in structured positions of inferiority and replaces them with institutions that enable persons to *relate* as equals.
+- Relational egalitarianism: feudal lords vs peasants and masters vs slaves, you can't rectify the relation, the bad relation is baked into the very opposition. 
+- It's oging to be inequality of power -- usually relational egalitarians are rather looking at stuff, consequences. 
+- You need to fix the power dynamics
+- A relational egalitarian argument cannot inflate claims on the robustness of cross-border relationships (one slight relationship made huge, e.g. Young) and wihtout denying the relevant relationship requirement -- persons share the relevant context of relationships with one another.
 
+Borders
+1. Relational egalitarians should be committed to the cliam that dsignificant disparities in power are pro tanto objectionable. 
+2. Being subject to another's greater power is applicable whenever one is subject to anothe rperon's greater power int he relevant manner.
+3. Affluent states' immigration restrictions involve the exercise of unequal power over disadvantaged immigrants.
 
+Unequal Power Complaint
+- One agent has power over another if they are able to nontrivially constrain the latter's choices
+- Egalitarians don't need to condemn all power disparities, e.g. teacher-student, parent-child, etc.
+- All of the facts about the power relation must be considered before we make a judgement on it.
+- Carens was right, he just didn't express himself very well -- it's not that the Feudal lord has materials over the Peasants, it's the power relation which matters.
+- Immigration controls are like a feudal privilege, so you have to abolish the institution. 
+- Sharp's claim: Carens and Wellman are both right, what they don't get is that both are relations of inequality, it's about the power. 
+- Elitopia -- elites make all of the decisions and they decide really well, yet something seems deficient about the arrangement because it's done by these elites. They stand in unequal social relations with their subjects.
+- it's not about status either -- separate but euqal is wrong because of the relation
+- Civi Republican View -- you're not a relationa egalitarian, you're a civi republican in relational egalitarian's clothes.
 

@@ -974,8 +974,13 @@ Extending Robust Distribtuvie Justice to All Fellow Associates
 ---
 
 ## "Relational Equality and Immigration" -- Daniel Sharp (2009)
+- Previously, people have offered consequentialist distributive accounts against closed borders / restrictive immigration
+- Sharp is going to provide a relational account -- there is a power imbalance which is objectionable.
 
-
+Introduction
+- Wealthy states do a lot to keep individuals out.
+- Two challenges to this:
+  - All persons have fundamental interests to move across borders, which ground a right to immigrate.
 
 
 
