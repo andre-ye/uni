@@ -561,4 +561,61 @@ Results obtained with respect to the notion of the History of Philosophy
 - How instrumental is language to Hegel's project here? i.e. "could it have preceded without the ontological -metaphysical properties of language"?
 - Knowledge and the object!
 
+### 2. Perception: Or the Thing and Deception
+
+111
+- Immediate certainty does not take over the truth; truth is universal but certainty wants to apprehend the *This*.
+- Perception makes what is present as universal. 
+- Self-differentiating moments in perception are universal: I, the object
+- With the object and the I, there are two movements: thea ct of perceiving, and the object perceived. These two moments come into being.
+- The object is the same as the movement -- differentiation into two moments, and the object is the togetherness of the moments (the object and the I)
+- For us, the universal is the essence of perception. Both perceiver and perception appear unessential, but because they are both universal, they are in fact essential.
+- However the un/essential dyad has to manifest somehow, and it turns out that the perceiver ends up being unessential and the object seemingly essential.
+
+112
+- The universal of the object is mediated
+- The object shows itself as its nature by presenting itself as a thing with many properties
+- Sense-knowledge belongs to perception, not immediate certainty, because it is a combination of many appearances.
+- Only perception contains negation in its essence: that something cna be different as it seems but still the same thing.
+
+113
+- The This is *not This*, the nothing of the This
+- The sense-element is still present but not in the same way as in immediate certainty -- as a universal "property", not merely a singer instance
+- Supersession: both negating and preserving
+- Nothing preserves its immediacy and is itself sensuous, in act a universal immediacy
+- Many properties are established simultaneously
+- Determinacies are related only to themselves, they are indifferent to one another.
+- Thinghood / pure essence -- the abstract universal medium by which things pass through and from each other, merely what Here and Now have shown themselves as, i.e. simple togetherness of plurality
+- The many are simple universals themselves
+- Many properties are in the simple "Here", and coexist without 'touching' each other
+- Also -- the pure universal itself, thinghood held together indifferently.
+
+114
+- The character of positive universality is first observed and developed...
+- ... but another side presents itself.
+- If the determinate properties were *only* to ignore and pass through each other, they would not be determinate, they need to differentiate themselves and relate to tohers as conceptual opposites.
+- The differentiation of the properties falls outside the simple medium of being. The unity excludes an other.
+- One is the moment of negation, it is relation of self to self and excludes the other, the criterion of thinghoodness
+- Negation is inherit in a property as a determinateness which is one with th eimmediacy of being.
+- Determiniteness is set free from the unity and *exists in and for itself.*
+
+115
+- The thing as the truth of perception is completed
+- Perception is the passive  UNIVERSALITY OF THE aLSO AND NEGATION, EQUALLY SIMPL THE oNE, AND THE MANY PROPERTIES THEMSELVES
+- sENSUOUS UNIVERSALITY, IMMEDIATE UNITY OF THE BEING AND THE NEGATIVE.'0 
+- sENSUOUS UNIVERSALITY REUNITES IWITH PURE UNIVERSALITYA ND PURRE NEGATIVITY
+
+116. 
+- This is true for the construction of  the thing of perception
+- Consicousness demadns the Thing as its objefct
+- It only needed to take / apprened it to consider that it might be true. 
+- Otherseness is always present in phenomenal experience. 
+
+
+
+
+
+
+
+
 

@@ -484,3 +484,56 @@ Hash Function
   - Quicksort is not stable because of the partitioning set -- doing a bunch of swaps where we don't know where elements end up at
   - In term sof asymptotics, kind of -- best case and average case is $$\mathcal{O}(n \log n)$$, worst case is $$\mathcal{O}(n^2)$$
   - Worst constant factors but in practice it's faster and used often, e.g. in Python
+
+---
+
+## Lecture 13: Non-comparison Sorts
+- Insertion and selection sort have good constant time; heap sort, merge sort, and quick sort have good asymptotic time
+- When the array is small, sort with insertion sort; when it is large, sort with quick sort
+- $$\Omega (n \log n$$ is the best runtime for a sorting algorithm which only interacts with tis input by comparing elements.
+  - Tree "proof" intuition: comparisons can be mapped to a tree structure, height and node counts contribute to $$n \log n$$ factor
+- Bucket Sort / Bin Sert
+  - Given an array of numbers spanning a small range of integers
+  - Find the min and max value
+  - Make an aux array to represent range between min and max
+  - Go through original array and tally each number
+  - Copy aux into original array
+  - Stable: can be made stable
+  - In place: no, need aux array
+  - Fast: yes, $$\mathcal{O}(n + k)$$
+- Radix sort
+  - Intuition: exploit integer digits
+  - Sort by least significant digit, then second least significant digit, etc. Works because bucket sort is stable.
+  - Stable? Yes.
+  - In place? No.
+  - Fast? Yes, worst case is $$\mathcal{O}(d \cdot (n + k))$$
+
+---
+
+## Lecture 14: Introduction to Graphs
+- A graph $$G$$ is a pair of sets ($$V$$, $$E$$) where
+  - $$V = \{v_1, v_2, ..., v_n\}$$ is a set of vertices
+  - $$E = \{e_1, e_2, ..., e_m\}$$ is a set of edges
+    - where each edge is a pair of vertices $$e_i = (v_j, v_k)$$
+- Undirected graphs: edges have no specific direction, edges are "two-way"
+
+$$(v, u) \in E \to (u, v) \in E$$
+
+- Degree of a vertex: the number of edges containing that vertex, i.e. the number of adjacent vertices
+- Directed graphs: edges have a direction; a pair $$(v, u) \in E$$ means $$v$$ is the source and $$u$$ is the destination
+  - In-degree: number of in-bound edges where $$w$$ is the destination
+  - Out-degree: number of out-bound edges
+- Self-edges: we pretend they don't exist
+- Weighted graphs: each edge has a weight or a cost, typically a number
+
+
+
+
+
+
+
+
+
+
+
+

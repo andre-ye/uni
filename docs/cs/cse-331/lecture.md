@@ -552,4 +552,22 @@ Collections.unmodifiableList(elts);
 - `Hashtable` and `HashMap`
 - Immutability gets around a lot of issues, evoids representation exposure, equals consistency violations, subtyping relationships
 - Working with immutable objections is very nice
-- 
+
+---
+
+## Lecture 14: Subtypes II
+- if B is a subtype of A, then a B can always be substituted for an A. 
+- Any property guaranteed by A must be guaranteed by B, antyhing provable about an A is provable about a B
+- We cna add additional properties, B can do more than a, and allowed to do things differently than A as long as it still satisfies the specification.
+- B is not permitted to weaten the spec, that is overriding methods with a weaker spec or removing methods.
+- Subtyping guarantees, type checking
+- Java expects to ensure all subtypes are true subtypes, asks you to ensure the specification, if you don't do this there is a huge class of bugs you will encoutner
+- Cannot gaurantee a lot of shit
+
+Designing for inheritance
+- We need to be careful to avoid issues -- inheritance requires us to be familiar with the implementation details of the classw eare inheriting from.
+- use an interface: HashSet implements a Set, etc. -- all of the methods are still there, we need to implement this
+- Drawback: forcing our clients to use the interface type for their variables. 
+- Abstract class: can offer an implementation
+- Effective Java -- eihther design for inheritance or else prohibit it with `final`.
+- `String` class is final -- if someone overrides the `String` class they would fuck it up
