@@ -526,14 +526,55 @@ $$(v, u) \in E \to (u, v) \in E$$
 - Self-edges: we pretend they don't exist
 - Weighted graphs: each edge has a weight or a cost, typically a number
 
+---
 
-
-
-
-
-
-
-
-
+## Lecture 15: Graph Traversals
+- A walk: a sequence of adjacent vertices
+- Path, simiple path: a walk that doesn't repeat a vertex
+- Cycle: a walk that doesn't repeat a vertex except the first and alst
+- Length: number of edges
+- Cost: sum of weights from each edge
+- Undirected graph
+  - Connected if for all pairs of vertices there exists a path from one to the other
+  - Complete (fully-connected) of for all pairs of vertices there exists an edge from one to the other, including self edges
+- Directed graph
+  - Strongly connected: path from every vertex to every other vertex
+  - Weakly connected if there is a path from every vertex to another ignoring direction
+  - Fully connected / complete if for every vertex there is a pointer from it to every other vertex
+- Every tree is a graph -- which is undirected, acyclic, and connected.
+- Rooted trees -- just pick a root. So it becomes directed.
+- Directed Acyclic Graphs: DAGs. A directed graph with no cycles. Come up very often in graph prolbems. Every DAG is a directed graph but not vice versa.
+- Undirected: $$0 \le \vert E \vert < \vert V \vert^2$$
+- Directed: $$0 \le \vert E \vert \le \vert V \vert^2$$
+- Given $$\vert V \vert $$ vertices, the
+  - minimum number of edges is 0
+  - Maximum number of undirected edges is $$\frac{\vert V \vert (\vert V \vert - 1)}{2}$$
+  - Maximum number of directed edges is $$V^2$$
+- Sparse: $$\vert E \vert \in \Theta \left( \vert V \vert \right)$$, few edges
+- Dense: $$\vert E \vert \in \Theta \left( \vert V \vert^2 \right)$$, many edges
+- Graphs, the data structure -- many data structures na dtrade-offs, exploits graph properties
+  - Common operations: is ($$v, u$$) an edge?? What are neighbors of $$v$$?
+- Adjacency matrix: 2-d array of booleans
+  - Better for dense graphs
+  - Large space requirements: $$\Theta \left( \vert V \vert^2 \right)$$
+  - Fast edge insert, delete, and search
+  - Slow vertex add and delete
+    - Pretty fast neighbor search
+- Adjacency List
+  - Assign each node a number from 0 to $$\vert V \vert - 1$$
+  - Array of length $$\vert V \vert$$, each element is a linked list of neighbors
+  - To decide if some edge exists, is $$\mathcal{O}(d)$$, where $$d$$ is the out-degree of the source vertex
+  - Space requirements: $$\Theta \left( \vert V \vert + \vert E \vert \right)$$
+  - Better for sparse graphs
+- Graphs are often very sparse, so adjacency lists are often better
+- Graphs: Algorithms.
+  - Depth-first graph search and breadth-first graph search.
+  - Shortest path
+  - Topological search
+- Traversals
+  - In a graph, find all nodes from a node source, is there a path from the source to a specific node?
+  - Basic idea: keep following nodes, mark nodes after visiting them such that it processes each node once
+  - Processing (print it) vs visiting (just getting there)
+  - Visiting always happens before processing
 
 

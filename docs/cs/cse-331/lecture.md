@@ -571,3 +571,48 @@ Designing for inheritance
 - Abstract class: can offer an implementation
 - Effective Java -- eihther design for inheritance or else prohibit it with `final`.
 - `String` class is final -- if someone overrides the `String` class they would fuck it up
+
+---
+
+## Lecture 15: Generics
+- Java trusts the programmer to respect types
+- Interface: declares a new type variable
+- Type variables are types.
+- Usually a one letter name, to instantiate a generic class/interface, supply type arguments.
+- You can have `<TypeVar extends SuperType>`
+- You often use this for comparason
+
+```
+public class TreeSet<T extends Comparable<T>> {
+
+}
+```
+
+- Use a generic to treat classes as multiple stuff, do casting and shit
+- The method can be generic without the class being generic
+- Integer is a subtype of Number -- it is the true version of subtyping. Java doesn't allow you to pass in a list of integers for a list of numbers, despite that integers are a true subcdlass of numbers. Why?
+    - Subtyping comes from the Liskov substitutability principle.
+- You can't pass in a Double for a Number, but you also can't pass in a Number for a Double
+- Java subtyping is invariant wrt generics
+- There's no relationship between Number and Integer
+- Covariance: the arrows vary in the same direction, Integer to Number, List of Integers to List of Numbers
+- Read-only allows for covariance.
+- Contravariance method: Integer to Number, List of Numbers to List of Integers
+- Programs can us subtyping to do alright things, e.g. with arrays you can do swaps , all the things ni an array are of the same type.
+- `addAll` -- for a `Set` interface.
+    - You could have `Set<E> c`
+    - Better: `<T extends E> void addAll (Collection<T> c)`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
