@@ -603,13 +603,49 @@ public class TreeSet<T extends Comparable<T>> {
     - You could have `Set<E> c`
     - Better: `<T extends E> void addAll (Collection<T> c)`
 
+---
 
+## Lecture 16: Types II
+- Casting is a runtime operation.
+- When you use a generic method you don't need to specify anything, just pass in something and the type is inferred.
+- Generic methods are very useful, and we probably use generic methods more than classes.
+- Originally -- if `B` is a subtype of `A`, then `B[]` is a Java subtype of `A[]` -- expects a covariant relationship. 
+- Wildcard -- an anonymous type variable. You can reuse the type all over the place. Wildcards don't have named, which is why they're anonymous. `? extends Type`, some unspecified subtype of `Type`, `?` alone is shorthand for `? extends Object`
+- Don't want to use wildcards where types are needed to express type logic more than once.
+- Two wildcards are two different variables
+- Use wildcards to communicate that a type's identity is not needed anywhere else
+- Used as syntactic sugar, but there's one thing they can do which named variables cannot -- they can have lower bounds instead of upper bounds.
+    - `? extends Type`
+    - `? super Type`
+- PECS: producer extends, consumer supers
+    - Use extends when you get values from a producer
+    - Use super when you put values, no problem if it's a supertype.
 
+```
+<T> void copyTo ...
+```
 
+- Legal operations on wildcard types
+- You can always add a null value.
+- Type erasure -- generics are erased at runtime, so you can't check if a list is a list of integers or a list of strings.
+- Javca erases the types of things and converts them to Objects, which means that at runtime we cannot check that generic instantiations have the smae type. 
+- Casting can do weird stuff, `Objects` can also be cast to any generic type and actually don't know if anything is wrong
 
+```
+public static <T> T badCast (T t, Object o) {
+    return (T) o;
+}
+```
 
-
-
+- Bottom-line: Java can't guarantee a `List<String>` has only `String` elements at runtime.
+- As long as there are no weird casting cases, it works out fine. The compiler inserts casts to and from `Object` for generics, but assumes the programmer knows the rules of generics. 
+- Don't ignore warnings, because you're violating good style and risking difficult debugging
+- It's ok to do casting for `.equals` -- check instance of, and then check that the fields are equal.
+- Anytime we do instanceOf or equals, we cannot us ea psecific generic, we need to use a question mark to indicate that it is some type
+- We can't distinguish between a node of Strings and a node of Integers
+- Callbacks: pass an object with the code in a method
+- How are callbacks usded in practice? -- clients passing in defined logics
+- Event-driven programming.
 
 
 

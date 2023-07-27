@@ -577,4 +577,43 @@ $$(v, u) \in E \to (u, v) \in E$$
   - Processing (print it) vs visiting (just getting there)
   - Visiting always happens before processing
 
+---
+
+## Lecture 16: Graph Traversals
+- Depth-First Search
+  - Uses a stack
+  - Recursively explore far away from the source node first
+  - Add source to stack. While stock is not empty, pop from the stack, for each adjacent node, if the node is not marked, mark it as visited and push it onto the stack.
+- Breadth-First Search
+  - Uses a queue
+  - Explore everything near the source first
+  - Add source to queue. While queue is not empty, dequeue from the queue, for each adjacent node, if the node is not marked, mark it as visited and enqueue it.
+- DFS tends to use less memory compared to BFS because it only needs to store nodes along the current branch. Applications in topological sorting and cycle detection.
+- BFS tends to use more memory, needs to store all nodes at the current level before moving to the next level. Applications for shortest paths
+- Third option: iterative deep DFS (IDDFS), uses DFS with increasing depth limits
+- Traversal, savin gthe path: store the predecessor node along the path. When you're done searching, follow the predecessor backwards to where you started.
+- Problem: BFS does not work because the shortest path may not have the fewest edges when you consider a weighted graph.
+- Doesn't work with negative weights because if there are cycles you can have negative cost cycles or positive cost cycles
+- Dijkstra's algorithm
+  - Start node A has cost 0 and all other nodes have cost infinity
+  - At each setep
+    - Pick closest unvisited vertex V
+    - Add it to a cloud of visited vertices
+    - Update distances for nodes with edges from V
+  - Terminate when all nodes are visited
+  - Dijkstra's, comparing the current best, once you've expanded the cloud you have a lot of good information about the current best
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

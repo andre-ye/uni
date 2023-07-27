@@ -611,6 +611,219 @@ Results obtained with respect to the notion of the History of Philosophy
 - It only needed to take / apprened it to consider that it might be true. 
 - Otherseness is always present in phenomenal experience. 
 
+### 4: The Truth of Self-Certainty
+
+166
+- Previously, what is true for consciousness is other than itself.
+- The Notion of this truth self-sublates.
+- What the object was in-itself (mere being for sense-certainty, concrete thing for perception, Force for Understanding) is not the truth; the in-itself turns out to be for an other.
+- Certainty gives place to truth. But now... certainty is identical to its truth? Certainty is its own object?
+- Consciousness makes a distinction but also does not -- self-consciousness.
+- Notion is the movement of knowing. Object is knowing as a passive unity. Object corresponds to Notion.
+- Being-in-itself and being-for-another is the same; the in-itself is consciousness but also for consciousness of the other.
+- I is its own self
+- The in-itself is consciousness, for also so is the for-which-an-other-in-itself-is, and for-consciousness... "I" is the content of the connection.
+
+167
+- With self-consciousness, we have entered naive truth.
+- Knowing of itself with knowing of an other. The other has vanished -- everything is now a moment of self-consciousness
+- The simple self-subsistent existence for consciousness has been lost. But self-consciousness is reflection out of being of the world of sense and perception and in fact a return from otherness.
+- Self-consciousness distinguishes itslef as itself, but this differences is sublated. The tautology "I am I" is not self-consciousness. Otherness must have the formf of a being.
+- Two moments
+  - First moment: self-consciousness is in the form of consciousness, with all of the sensuous world
+  - Second moment: unity of self-consciousness with itself, and the snesuous world is only appearance (difference with no difference)
+  - Consciousness as self-consciousness has a double object: the immediate object which appears as negative, and the true essence opposed to the first.
+- Self-consciousness is the movement in which identity of itself with itself *becomes explicit for it.*
+- The nature of Desire is to abolish the otherness of the Other, i.e. to make it yours, to bring it within yourself. 
+- Otherness always vanishes
+
+168
+- The object has returend to itself on its side, just like consciousness has done (for us). The object becomes Life. 
+- The object of immediate desire becomes a living thing.
+- The object is implicitly independent.
+- Self-consciousness for-itself which desires the object will learn its independence in experience.
+
+169
+- The essence of life is infinity as the sublation of all distinctions, the center of the universe. 
+- Pure movement is the essence of living
+
+170
+- Living organisms are nothing but their relation to the flux of living.
+- Unity of life is constantly violently separated, because it can only be a unity if this is so.
+- The real Substance is flux constantly being changed.
+
+171
+- Life involves independent forms asserting themselves against others
+- Life consumes and dissolves solid structures
+- Life is a passive separating-out of shapes and becomes movement of those shapes, Life as a process
+- It itself becomes other throughout the difference
+- The sublation of indiviual existence is the production of it
+- Substances which places the other within itself supercedes simplicity of its essence
+- The whole round of activity constitutes Life
+
+> Life consists rather in being the self-developing whole which dissolves its development and in this movement simply preserves itself.
+
+172
+- Beginning from the first immediate unity and returning to the unity, we get a *reflected unity*, we have come further than before (immediate unity).
+- Reflected unity is universal, and contains moments superceded within itself.
+
+173
+- The other Life exists in the frist instance only as simple essence, a pure "I".
+- Over time, the abstract object enriches itself for the "I".
+
+174
+- The simple "I" is the simple universal. Differences are not differences only by being the negative essence, self-consciousness can only become certain of itself by sublating the other
+- Self-consciousness abolishes articulate forms which stand opposed to it, it is basically desire and need, it consumes.
+- Marx and capital?? `C-M-C` $$\to$$ `M-C-M'`
+
+175
+- Experience makes it clear that the object has its own independence.
+- Desire and self-certainty become conditioned by the object; self-certainty comes from superceding the other
+- Self-consciousness is negatively related to the object and is unable to sublate it because that relationship produces the object again, and that desire also.
+- Something *other* than self-consicousness is the essence of Desire. Self-consciousness realizes this truth.
+- The object can achieve satisfaction only when it negates within itself; the object is in its own self negation and is consciousness.
+- In Life, negation is present in an other (Desire) or as a determinateness opposed to an indifferent form.
+- Self-consciousness achieves satisfaction only in another slef-consciousness. Striving forward, pushing.
+- The **object must abolish itself**, becuase consciousness' desire to abolish the object regenerates it and negates consciousness. So the object then reveals itself to self-consciousness as being self-consciousness.
+
+176
+- Self-consciousness: three motions
+  1. Pure undifferentiated "I" as the immediate object
+  2. Immediacy is itself an absolute mediation, desire -- certainty becomes truth
+  3. When desire is satisfied, this is only a double reflection, or a duplication of self-consciousness. Consciousness posits its own otherness or difference as nothingness and independent
+
+177
+- Self-consciousness exists for self-consciousness.
+- This way, unity of itself in its otherness becomes explicit for it. 
+- Spirit is the absolute substance which is the unity of different independent self-cosnciousnesses. -- but also, perfect freedom and independence.
+
+178
+- Self-consciousness exists in and for itself when it exists for another / being acknowledged
+- Moments must be apart but also together in their opposite significance.
+
+179
+- Self-consciousness is faced by another self-consciousness which has come outside of itself
+- It has lost itself but also finds itself as another being.
+- It sublates the other -- it does not see the other as an essential being, but as its own self.
+
+180
+- Consciousness must sublate its own otherness.
+- Firstly: must sublate the other independent being to be sure that it itself is the essential being
+- Secondly: sublate its own self
+
+181
+- Essentially, this is a return to itself / oneself. 
+- Consciousness receives back its own self, because by sublating its otherness it becomes equal to itself
+- Yet... self-consciousness must again give itself back again to itself
+- **Why do we need two moments?**
+
+182
+- Self-consciousness has been represented as the action of one consciousness
+- Consciousness is both one and the other -- the other is equally independent and self-contained.
+- Double movement of self-consciousness: each sees the other to do the same as it does, etc. -- total symmetry
+
+183
+- Double significance of the action
+
+184
+- Consciousness comes out of itself but is yet back within itself, for itself.
+- Consciousness both is and is not another consciousness
+
+> Each is for the other the middle term, through which each mediates itself with itself and unites with itself... They recognize themsleves as mutually reocgnizing one another.
+
+185
+- Initially, self-consciousness will introduce an inequality.
+- One recognizes...
+- ...and the other is recognized.
+
+186
+- Self-consciousness begins as a simple being-for-self, self-equal via exclusion of itself from everything else
+- The other approahces as a veiled self-consciousness: they are for each other independent shapes in the immediacy of Life
+- Each is sure of themselves but not of the selfconsicousness of the other
+
+187
+- Presentation of self-consicousness as pure abstraction consists of showing itself as pure negation of its objective existence (towards abstraction)
+- Two self-conscious individuals prove themselves through a life and death struggle.
+- Only by staking one's life is freedom won.
+- The essential being for self-cosnciousness is not just being (the immediate form) but that there is no vanishing moment, it is pure being-for-self, totally unconditioned and absolute.
+- Each must stake his life and search the other's death
+- Each regards its otherness as pure being-for-self, or absolute negation.
+- **Question -- why so hell-bent on destruction?**
+
+188
+- Trial by death: does away with certainty of self.
+- Life is the natural setting of consciousness
+- Death is the natural negation of consciousness.
+- Their tension is not resolved; death eliminates all opposition but only for others; it does not preserve the struggle for all parties.
+- The parties in question must live.
+- Death is an abstract negation, not negation coming from consciousness.
+
+189
+- Self-consicousness learns that life is as essential to it as pure self-consciousness
+- The demotion of another self-consciousness so that it does not really compete with my self-consciousness takes the form of master and slave, lord and bondsman.
+- The two self-consciousnesses are fundamentally the same at the bottom, but this becomes veiled
+
+190
+- The lord's self-consciousness enjoys the being of mere things through the bondsman's self-consciousness
+- The lord reaps enjoyment form the bondsman's labors.
+
+191
+- We have an essentially unbalanced relationship in which the bondsman gives up his being-for-self for the lord.
+- The lord uses the bondsman as an instrument
+- What the lord sees in the bondsman and vice versa is not what either sees in himsefl: total distortion metaphyscially
+
+
+192
+- The lord depends on the bondsman's self-consciousness
+- The object from which he lord has gotten his lordship comes from an independent consciousness
+
+193
+- The truth of independent self-consciousness is therefore to be found in the bondsman's self-consciousness rather than in the lord's.
+- Like in Marx: the proletariat is the partiality of the universality
+
+194
+- The bondsman becomes shacken out of his particularity and rises to absolute negativity
+- The bondsman has experienced absolute negativity, in its fear of death and the absolute Lord, trembling.
+- The bondsman rids himself of his attachment to natural existence, and gets rid of it by working on it.
+- **Why does the opposite not also hold true, that the bondsman gets his existence from the lord?**
+
+195
+- The bondsman preserves his labor, putting himself into the outward thing -- whereas the lord's dealings end and vanish
+- The bondsman achieves a more genuine self-consciousness.
+- Through work, the bondsman becomes more conscious of what he truly is.
+- Work is desire held in check, fleetingness staved off -- work forms and shapes the thing
+- Marx? -- are they in tension here?
+- Consciousness comes to see in the independent being its own independence.
+
+196
+- The negative significance of fear: the bondsman's negativity becomes an object for him
+- The bondsman posits himself as a negative and becomes for-himself, existing on his own account.
+- In the lord, being-for-self is an other for the bondsman
+- In fear, the being-for-self is present in the bondsman himself.
+- The bondsman rediscovers himself through himself
+- It is in his work where the bondsman seemed to have only an alienated existence. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
