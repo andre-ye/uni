@@ -603,13 +603,68 @@ $$(v, u) \in E \to (u, v) \in E$$
   - Terminate when all nodes are visited
   - Dijkstra's, comparing the current best, once you've expanded the cloud you have a lot of good information about the current best
 
+---
 
+## Lecture 17: Multirheading and Fork-Join
 
+Recap of Dijkstra's
+- Dijkstra's is worst case $$\mathcal{O}(\vert V \vert^2 + \vert E \vert)$$
+- Unoptimized part is how to find the lowest cost?
+- If we use a heap, we can speed this up because we have a priority queue. We can get the lowest cost in $$\mathcal{O}(\log \vert V \vert)$$
+- Steps:
+  - Initialization is $$\mathcal{O}(\vert V \vert)$$
+  - Iteration and getting lowest cost is $$\mathcal{O}(\vert V \vert \log \vert V \vert)$$
+  - Updating the cloud of points and visiting neighbors is $$\mathcal{O}(\vert E \vert \log \vert V \vert)$$
+    - Dense graph: $$\mathcal{O}(\vert|V|^2 \log |V|)$$
+    - Sparse graph: $$\mathcal{O}(\vert V \vert \log \vert V \vert)$$
+- Total: $$\mathcal{O}(\vert V \vert \log \vert V \vert + \vert E \vert \log \vert V \vert)$$
 
+Dijkstra's Algorithm Pseudocode:
+```
+Dijkstra's(Graph G, Node src):
+  for each node v: v.cost = \infty
+  src.cost = 0
+  heap = buildHeap(every node)
+  while (heap is not empty):
+    v = heap.deleteMin()
+    mark v as visited
+    for each edge (v, u) with weight w in G:
+      if (u is not marked):
+        potentialBest = v.cost + w
+        currBest = u.cost
+        if (potentialBest < currBest):
+          changePriority(u, potentialBest)
+          u.pred = v
+```
 
-
-
-
+Introduction to Multithreading and Fork-Join Parallelism
+- Major assumption: sequential programming, one thing happened at a time
+- Removing this assumption creates major challenges
+- What to do with multiple processers
+- We will do multiple things in one program -- how do we implement a HashMap or rethink algorithmic complexity?
+- Parallelism: use extra resources to solve a problem faster
+- Concurrency: correctly and efficiently manage access to shared resources.
+- A program is like a recipe for a cook. 
+- Parallelism: let's cook faster! Concurrency: how can you access the fridge without fighting?
+- Concurrency for a shared chaning hashtable: prevent bad interleavings, lock different parts of the hash table
+- Shared memory with threads
+  - A set of threads with their own program counter and call stack
+  - No access to other threads' local variables
+  - Threads can implicitly share static fields and objects
+  - To communicate, write values to a shared location that another thread can read from.
+  - Heap: shared memory that independent stacks with call stacks can write to
+- Other models of shared memory: message-passing, dataflow, data parallelism.
+- Message-passing is expensive
+- `java.lang.Thread` is a class that represents a thread of execution
+- To start a thread:
+  - Define a subclass C of `java.lang.Thread`, overriding run
+  - Create an object of class C
+  - Call that object's start method, which starts a new thread
+- Summing an array:
+  1. Create 4 thred objects
+  2. Call start on each thread object and run it in parallel
+  3. Wait for threads to finish with `join`
+  4. Add together final answers
 
 
 

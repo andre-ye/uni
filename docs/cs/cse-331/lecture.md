@@ -647,8 +647,24 @@ public static <T> T badCast (T t, Object o) {
 - How are callbacks usded in practice? -- clients passing in defined logics
 - Event-driven programming.
 
+---
 
-
+## Lecture 17: Event-driven Programming
+- An event-driven program is designed to wait for events: the progrma initialized and enters the event loop.
+- This is different from the programs we have specified so far
+- Register event, and then start an event loop.
+- HTML / CSS / JavaScript
+- TypeScript: a version of JavaScript which adds type safety
+- React: a UI library which handles the interactions between TS and HTML.
+- Mozilla working with IEEE, Brenden Eich creates JavaScript in 1995 in 10 days, used to make web pages interactive
+- No relation to Java other than trying to piggyback on the Java hype at that time
+- React combined HTML / CSS / TypeScript, compiles into JavaScript, which goes into HTML.
+- Tree data structure lives in the browser and is called a DOM, Document Object model
+- `let` allows rebind, `const` is like Java's final, and it can't change after creation.
+- Types of values: `number`, `boolean`, `string`, `undefined`, `object` -- doesn't require specifying types even though there are types internally.
+- Any value can be used as a boolean, e.g. `false`, `0`, `""`, `null`, `undefined`, `NaN` behave as `false`; everything else is `true`.
+- Functions can exist outside of classes / objectrs and are values; you can pass them in variables and pass them to functions.
+- Objects are basically key/value pairs, values can be functions
 
 
 
