@@ -666,5 +666,19 @@ public static <T> T badCast (T t, Object o) {
 - Functions can exist outside of classes / objectrs and are values; you can pass them in variables and pass them to functions.
 - Objects are basically key/value pairs, values can be functions
 
+---
 
+## Lecture 18: React
+- Write mostly TypeScript
+- The webpage is made up of Components, a class which extends the `Component` class. Components contain each other and form a tree structure like HMTL tags
+- HTML has a DOM tree data structure
+- HTML doesn't let you make your own tags. 
+- The contract: react is "in charge" of the creation of the webpage, calls methods in components to do that
+- React built by Facebook, React understands the data used to display the website. When data changes, it updates the page efficiently.
+- `index.html`, a small amount of necessary HTML, `index.tsv`, starting point of code, `App.tsx` -- first component, App component
+- `npm install` -- installs all the dependencies
+- `npm start` -- starts the server
+- `Component` is a generic class so we need to use geneirc-like syntax
+    - First: props interface, second: state interface
+- 
 
