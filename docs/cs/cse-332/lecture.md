@@ -668,11 +668,141 @@ Introduction to Multithreading and Fork-Join Parallelism
 
 ---
 
-## Lecture 18: 
+## Lecture 18: Analysis of Fork-Join Parallel Programs
+- To get a new thread running:
+  - Define a subclass overriding `run`
+  - Create an object of that subclass
+  - Call `start` on that object
+- Parallelism idea: split the problem size into separate pieces, do the work separately, and combine it
 
+```java
+class SumThread extends java.lang.Thread {
 
+  int lo;
+  int hi;
+  int[] arr;
 
+  int ans = 0;
 
+  SumThread(int[] a, int l, int h) {
+    lo = l; hi = h; arr = a;
+  }
 
+  public void run() {
+    for (int i = lo; i < hi; i++) {
+      ans += arr[i];
+    }
+  }
+}
+```
 
+```java
+int sum(int[] arr) {
+  int len = arr.length;
+  int ans = 0;
+  SumThread[] ts = new SumThread[4];
+  for (int i = 0; i < 4; i++) {
+    ts[i] = new SumThread(arr, i*len/4, (i+1)*len/4);
+    ts[i].start();
+  }
+  for (int i = 0; i < 4; i++) {
+    ts[i].join();
+    ans += ts[i].ans;
+  }
+  return ans
+}
+```
 
+- Problems:
+  - Limited mobility (not generalizable)
+  - Load imbalance
+- A better approach: cut up our work into many many more pieces, split it off into a smaller number of processors. This requires changing our algorithm and abandoning Java threads for constant factor reasons.
+- Better approach: mergesort-like algorithm which recursively splits
+- Better better appracoh: instead of: big thread, small left thread, and small right thread, we can have: big thread (also right), and small left thread. Saves about half the threads.
+
+```java
+left.start();
+right.run()
+left.join();
+ans = left.ans + right.ans;
+
+// NOT
+left.start();
+right.start();
+left.join();
+right.join();
+ans = left.ans + right.ans;
+```
+
+- Java's threads are too heavyweight
+- ForkJoin framework does it better.
+  - Subclass `RecursiveTask<V>`
+  - Override `compute`
+  - Call `join`, which returns the answer
+- Call `.compute()` -- gets compute directly, but `.join()` waits. If we don't do that, we end up just waiting.
+- `POOl.invoke`: starts a thread and waits for it to finish
+- We can do reduce operations in $$\mathcal{O}(\log n)$$ time!
+  - Finding the max element in an array
+  - Finding the sum of an array
+  - Check if elements are in sorted order
+  - Check if an element satisfies a condition
+  - Get the max of an array
+- Reduce operations:
+  1. How to compute the answer at the cut-off?
+  2. How to merge the results of two subarrays?
+- Map operation: operates on each element of the collection independently to create a new collection of the same size, e.g. vector addition
+  - Extend `RecursiveAction` as opposed to `recursiveTask` (for reduce operations)
+
+Analyzing Algorithms
+- Let $$T_P$$ be the running time if there are $$P$$ processors available
+- Work: How long it would take 1 processor to do. Just sequentialize the recursive forking. $$T_1$$
+- Span: How long it would take infinity processors. $$T_\infty$$
+  - Hypothetical ideal for parallelization, fully parallel.
+  - Longest dependence chain in the computation.
+
+Directed Acyclic Graph
+- A program execution using `fork` and `join` can be seen as a DAG.
+- Nodes are pieces of work.
+- Edges: source must finish before destination starts.
+- A `fork` ends a node and makes two outgoing edges, a new thread and continuation of the current thread
+- A `join` ends a node and makes a node with two incoming edges.
+
+---
+
+## Lecture 19: Parallel Prefix, Pack, and Sorting
+- Speed-up on $$P$$ procesors: $$T_1 / T_P$$
+  - If speedup if $$P$$ as we vary $$P$$, it is perfect linear speed-up, which means doubling $$P$$ halves running time.
+- parallelism, maximum possible speedup: $$T_1 / T_\infty$$
+- Parallel algorithms decrease span without increasing work too much
+- At some point, adding processes doesn't help
+- The optimal $$T_P$$ is given by 
+
+$$T_P = \mathcal{O} ((T_1 / P) + T_\infty)$$
+
+- Work plus span is the total time
+- Work term dominates for small $$P$$, span dominates for large $$P$$
+- The framework writer must assign work to available processes to avoid idling
+- Some things don't parallelize well, like reading from a linked list, printing, etc.
+
+Amdahl's law: the theoretical overall speedup with $$P$$ processors is
+
+$$\text{speedup} = \frac{T_1}{T_P} = \frac{1}{S + (1 - S) / P}$$
+
+- $$S$$ is the fraction of the program that is serial (not parallelizable)
+- $$T_1 = S + (1 - S) = 1$$
+
+Parallel patterns
+- Prefix sum problem: given an array of numbers, compute the sum of all prefixes
+  - Parallel-prefix algorithm does two passes, each with $$\mathcal{O}(\log n)$$ span but $$\mathcal{O}(n)$$ work
+  - We're building a tree
+  - Up-path: building a binary tree, propagate the sum up. Build a binary tree where the root has the sum across a specific range
+- Parallel pack, filter
+  - Given an array input, produce an array output containing only elements such that it passes some condition.
+  - Step 1: parallel map to compute a bit-vector for true elements
+  - Step 2: parallel-prefix sum on the bit vector to compute the output indices
+  - Step 3: parallel map to produce the output (map again and then go to the output
+  - Pack is $$\mathcal{O}(\log n)$$ span and $$\mathcal{O}(n)$$ work
+- It is possible to do filtering in $$\log n$$ time.
+- Sorting: quick sort and merge sort can be parallelized very easily
+- We can reduce sorting from $$\mathcal{O}(n \log n)$$ to $$\mathcal{O}(n)$$ with parallelization
+- Do the two recursive calls in parallel.
