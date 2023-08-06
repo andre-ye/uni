@@ -680,5 +680,20 @@ public static <T> T badCast (T t, Object o) {
 - `npm start` -- starts the server
 - `Component` is a generic class so we need to use geneirc-like syntax
     - First: props interface, second: state interface
+
+---
+
+## Lecture 19: React II
+- In React, we build components
+- React promises it is very fast and efficient, when you update a component state you need to test `setState` to update the state
+- How to pass data from a parent into a child? 
+- How to pass data from the child to the parent?
 - 
 
+---
+
+## Lecture 20: React III
+- Props are a requirement to make a component.
+- States are the fields of the components. 
+- Override the constructor to provide initial values for fields.
+- Event-handlers: onchange lambda function, triggers a change.

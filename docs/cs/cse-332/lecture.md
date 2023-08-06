@@ -806,3 +806,30 @@ Parallel patterns
 - Sorting: quick sort and merge sort can be parallelized very easily
 - We can reduce sorting from $$\mathcal{O}(n \log n)$$ to $$\mathcal{O}(n)$$ with parallelization
 - Do the two recursive calls in parallel.
+- We can do better than $$\mathcal{O}(n)$$ if we change it form in-place to using auxilliary arrays. Just do filtering
+  - Partition all data into elements less than pivot, and then elements bigger than the pivot
+  - Repeat and we're done
+- This gives us $$\mathcal{O}(\log^2 n)$$ span and $$\mathcal{O}(n \log n)$$ work
+- Parallelizing the merge step: you are given two sorted subarrays and yo uhave three pointers. But we can use a totally different algorithm here
+  - Pick the median element of the larger array.
+  - Use binary search to find the frist element $$\ge$$ that median.
+  - In parallel, merge half of the larger array from the median upwards with the upper part of the shorter array; merge the other half of the larger array from the median downwards with the lower part of the shorter array.
+
+---
+
+## Lecture 20: Shared-Memory Concurrency and Mutual Exclusion
+
+- Parallel code is accessing heap memory
+- Concurrency: correctly managing access to shared resourcs.
+- Highly nondeterministic. There's a potential for different results.
+- Interleaving: a series of executions vs time which two threads can execute.
+- Bad interleaving: bad execution sequencewhich causes unexpected behavior
+- Values can become stale.
+- Mutual exclusion: rewrite code so at most one thread can use a resource at a time. We need to identify the critical section.
+- Locks: a single operation which checks if busy is false, sets it to true if it is, and where no other thread can interrupt us
+- Operations are atomic if no other threads can interrupt or interleave with them
+- Must use the same lock: mutual exclusion only works when using the same lock
+- Using the same lock on every account
+- When yo uthrow exceptions, you hold onto the lock! So you need to release it when you throw an exception.
+- `java.util.concurrent.locks.ReentrantLock` -- has `lock()` and `unlock()`
+- `synchronized` keyword: a method or block is atomic and mutually exclusive, basically a re-entrant lock. Synchronized on an expression, which must be an object, objects are locks in java.`
