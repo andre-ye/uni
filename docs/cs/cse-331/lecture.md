@@ -697,3 +697,18 @@ public static <T> T badCast (T t, Object o) {
 - States are the fields of the components. 
 - Override the constructor to provide initial values for fields.
 - Event-handlers: onchange lambda function, triggers a change.
+
+---
+
+## Lecture 21: Debugging
+- Bug removal process:
+    1. Find a repeatable test case which produces a failure
+    2. Narrow down a location and cuase
+    3. Fix the defect
+    4. Run all of the tests, including the new one
+- Design pattern: a standard solution to a comon programming problem. 
+- GoF patterns: creational, structural, behavioral patterns
+    - Creational: object creation process
+    - Structural: how objects are composed
+    - Behavioral: how objects interact
+- Factory methods should usually be static methods.

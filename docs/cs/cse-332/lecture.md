@@ -833,3 +833,45 @@ Parallel patterns
 - When yo uthrow exceptions, you hold onto the lock! So you need to release it when you throw an exception.
 - `java.util.concurrent.locks.ReentrantLock` -- has `lock()` and `unlock()`
 - `synchronized` keyword: a method or block is atomic and mutually exclusive, basically a re-entrant lock. Synchronized on an expression, which must be an object, objects are locks in java.`
+
+---
+
+## Lecture 21: Race Conditions and Deadlock
+- A race condition: a mistake in your program such that whether the program behaves correctly or not depedns on the order in which the threads execute
+- Results when a computation result depends on scheduling (how threads are interleaved)
+- Race condition: category, but not necessarily a data race. 
+- Bad interleaving: a bug where because it's a race condition (the result depends on scheduling) and being manipulated, we get a different result than what we expected.
+- Data races can crash the code, bad interleavings give a bad result.
+- We need synchronization to disallow interleavings. We need a larger critical section, such that the intermediate state of peek needs to be protected. Use re-entrant locks which allow calls to push and pop
+- Bad interleavings are defined by the spec and exposes bad intermediate states in other threads, leading to behavior we find incorrect.
+- Data races are simultaneous read/write or write/write to the same location.
+- For every memory location, you must obey at least:
+  - thread-calol
+  - immutable
+  - shared and mutable
+- Lock granularity
+  - Coarse grained: fewer locks, more objects per lock. Simpler to implement.
+  - Fine grained: more locks, fewer objects per lock. More simultaneous objects.
+  - Coarse (correctness) over fine (efficiency)
+- You want your critical section to be as big as possible, and then go smaller.
+- Use thread-safe library as much as you can
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
