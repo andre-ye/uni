@@ -102,8 +102,39 @@ Hoare partition
 ## Graphs
 
 ### Dijkstra's Algorithm
+Runs in $$\mathcal{O}(V \log V + E \log V)$$ time. Vertex-based. Runtime derivation:
+- $$\mathcal{O}(V \log V)$$ for the priority queue, since we are dealing with $$V$$ vertices and need to sort them by their path distance from the source.
+- $$\mathcal{O}(E \log V)$$ for the edge relaxation, since we are dealing with $$E$$ edges and need to update the priority queue for each edge.
 
 ### Prim's Algorithm
+Vertex-based.
 
 ### Kruskal's Algorithm
+Edge-based.
+
+---
+
+## Parallelism
+
+### Basic Terminology
+- **Work.**
+- **Span.**
+- **Race condition.** When the result of a computation depends on the order of execution of the instructions, and may be incorrect.
+- **Data race.** When a bad interleaving will crash the code, i.e. a simultaneous read/write or write/write to the same location. 
+
+### Amdahl's Law
+- Let the work (time to run on 1 processor) be 1 unit time. $$T_1 = 1$$
+- Let $$S$$ be the portion of the execution which cannot be parallelized.
+- Then, we have $$T_1 = S + (1 - S) = 1$$
+- Let us get perfect linear speedup on the parallel portion such that $$T_P = S + \frac{1 - S}{P}$$
+
+The theoretical overall speedup with $$P$$ processors is
+
+$$\frac{T_1}{T_P} = \frac{1}{S + \frac{1 - S}{P}}$$
+
+### Parallel Prefix Algorithm
+1. Begin from bottom up such that $$\text{parent} = f(\text{left child}, \text{right child})$$ for some $$f$$ (e.g. adding, multiplying, max, etc.).
+2. Begin from top down such that the left child has the same value as the parent, and the right child has the value of the parent's leftsum plus the left child's value.
+3. The output for each element is that value plus the corresponding leftvalue.
+
 
