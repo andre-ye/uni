@@ -712,3 +712,46 @@ public static <T> T badCast (T t, Object o) {
     - Structural: how objects are composed
     - Behavioral: how objects interact
 - Factory methods should usually be static methods.
+
+---
+
+## Lecture 22: Spark
+- A browser sends a web request to the URL and asks if there are web pages to load.
+- React recieves the request and returns it HTML, CSS< and JS.
+- Spark Java Server operates on another port and allows you to respond to web requests and return different things depending on what it should. Wrapper around HW7 which responds to requests.
+- Anonymous inner classes: helps put code closer to where it's used, especially used for `Comparator`s
+- Inner classes: can access fields of the outer class, can be instantiated only with an instance of the outer class
+- Anonymous inner classes help when I'm only using a class one time. -- just use an anonymous inner class syntax, define all of the methods in the interface right there
+- JSON: JavaScript Object Notation
+    - Built to work with JS
+    - A way to represent data in a string
+    - Many languages can serialize and deserialize frmo these strings
+    - GSON lets you convert to a JSON string
+- HW9
+    - Execute Java code which produces a Java object
+    - Use GSON to turn Java into JSON
+    - Send JSON over network
+    - Convert JSON into Javascript object to use data
+
+Spark Java
+- Spark $$\neq$$ Apache Spark
+- Creates teh server by creating routes in the main method of your program
+- A route is an instruction which tells the server what to do when it gets a request.
+- Requests are bascially URLs. A GET request simply retrieves from the server.
+- Forming a request
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

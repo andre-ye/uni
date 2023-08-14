@@ -856,11 +856,34 @@ Parallel patterns
 - You want your critical section to be as big as possible, and then go smaller.
 - Use thread-safe library as much as you can
 
+---
 
+## Lecture 22: Topological Sort
+- Given a DAG, output all the vertices in an order such that no vertex appears before any other vertex that has an edge to it
+- Topological Sort: intuition is to pick a vertex with zero in-degree 
+  1. Find the in-degrees of all the vertices. The time-complexity of finding the in-degree of a vertex in an adjacency list is $$\mathcal{O}(V + E)$$. Finding the indegree for all vertices is $$\mathcal{O}(V + E)$$ too.
+  2. Choose an arbitrary vertex of in-degree zero, output it, and remove it in concept from the graph. So all corresponding nodes lose one in-degree.
+  3. Repeat with all other zero in-degree nodes
+- You need a vertex with in-degree 0 to start, so no cycles are possible.
+- Ties between in-degree zero nodes can be arbitrarily broken
+- Any flat graph (e.g. linked list) only have one topological ordering
+- Topological sort runtime: $$\mathcal{O}(E + V^2) \equiv \mathcal{O}(V^2)$$
+- Doing better: avoid searching for a zero-degree node every time, keep pending zero-degree nodes in a stack or something, so add/remove at $$\mathcal{O}(1)$$
+- Optimized topological sort: $$\mathcal{O}(V + E)$$
+- Topological sort is used for dependency graphs and order of execution
 
+---
 
-
-
+## Lecture 23: Minimum Spanning Trees
+- Given an undirected graph, find a graph such that each edge is in the original graph, there are no cycles, the graph is connected, and the sum of the weights is minimized
+- Prim's algorithm: picking the vertex with the lowest cost and expand set to get to the MST. No reconsidering choices.
+- Both work with negative edges and works with negative cost cycles.
+- Edge-based greedy algorithm, buidls MST amy greedily adding edges
+- Initialize with empty mst; pick the lowest cose edge and mark it
+- Disjoint set ADT, Union and Find across elements.
+- Union can be done in constant time. Find is amortized constant time. OWrst case $$|mathcal{O} \log n$$
+- Runtime is $$\mathcal{O}(E \log E) = \mathcal{O}(E \log V)$$
+- Both Kruskal's and Prim's have the same runtime
 
 
 
