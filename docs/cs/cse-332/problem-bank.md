@@ -18,6 +18,267 @@ CSE 332
 
 ## 2019 Autumn Final
 
+## 2016 Autumn Final
+**Q1a.** Insert the following elemetns in order into a quadratic probing hash table: 50, 21, 29, 10, 39, 19. For each table, you should use the primary hash function $$h(k) = k \% 10$$.
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 50 |   |   |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 50 | 21 |   |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 50 | 21 |   |   |   |   |   |   |   | 29 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 50 | 21 |   |   | 10 |   |   |   |   | 29 |
+
+(Inserted 10 with quadratic probing)
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 50 | 21 |   | 39 | 10 |   |   |   |   | 29 |
+
+(Inserted 39 with quadratic probing)
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 50 | 21 |   | 39 | 10 |   |   |   | 19 | 29 |
+
+(Inserted 19 with quadratic probing)
+
+**Q1b.** Insert the following elements in order into a separate chaining hash table: 50, 21, 29, 10, 39, 19. For each table, you should use the primary hash function $$h(k) = k \% 10$$.
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 50 |   |   |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 50 | 21 |   |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 50 | 21 |   |   |   |   |   |   |   | 29 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 $$\to$$ 50 | 21 |   |   |   |   |   |   |   | 29 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 $$\to$$ 50 | 21 |   |   |   |   |   |   |   | 29 $$\to$$ 39 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 $$\to$$ 50 | 21 |   |   |   |   |   |   |   | 19 $$\to $$ 29 $$\to$$ 39 |
+
+**Q1c.** *What is the load factor of each table?*
+
+- Open addressing: $$\alpha = \frac{6}{10} = 0.6$$
+- Separate chaining: $$\alpha = \frac{6}{10} = 0.6$$
+
+**Q1d.** *In a sentence or two, describe double hashing.*
+
+**Q1f.** *What is the big-O worst case runtime of a find operation on a table like table b?*
+
+The worst case runtime for table B would be where if all the elements were placed in a single cell as a linked list, yielding $$\mathcal{O}(n)$$ time.
+
+**Q1g.** *What is the big-O worst case runtime of an Insert in a separate chaining hash table containing N elements where each bucket points to an AVL tree?*
+
+In this case, in the worst case scenario in which all of the data is in one bucket, the AVl tree is at least balanced, which gives us a worst time of $$\mathcal{O}(\log n)$$ time.
+
+**Q2a.** *What is the big-O running time of Dijkstra's algorithm assuming an adjacency list representation if a priority queue is used, or if an unsorted list is used?*
+
+With a priority queue, it would be $$\mathcal{O}(V \log V + E\log V)$$. 
+With an unsorted list, it would be $$\mathcal{O}(EV + V^2)$$.
+
+We begin by initializing all costs to infinity, which is $$O(V)$$.
+Then we loop over all unvisited nodes, which is $$\mathcal{O}(V)$$. We then find the minimum cost node, which is $$\mathcal{O}(V)$$ for an unsorted array. For each edge from the node, we do all of the stuff... this is $$\mathcal{O}(d)$$, where $$d$$ is the number of outgoing edges.
+But when we multiply this by $$|V|$$, we get $$\mathcal{O}(V^2 + E)$$ as $$V \cdot d = E$$.
+
+![Alt text](image-4.png)
+
+We can reduce the time for searching to $$\mathcal{O}(\log V)$$ using a heap, which gives us the term $$\mathcal{O}(V \log V)$$. But we also need to change the key, which is $$\mathcal{O}(\log V)$$, and we need to iterate over this possibly $$\mathcal{O}(E)$$ times (in total b/c we end up iterating over all edges), which gives us $$\mathcal{O}(E \log V)$$. So the total runtime is $$\mathcal{O}(V \log V + E \log V)$$.
+
+![Alt text](image-5.png)
+
+**Q2b.** *Which implementation of Dijkstra’s (priority queue vs. unsorted list) is likely to be faster if the graph is known to be dense?*
+Using a priority queue would be faster regardless. $$\mathcal{O}(\log V)$$ always beats $$\mathcal{O}(V)$$.
+
+**Q2c.** *Give a Minimum Spanning Tree (MST) of the graph below by highlighting the edges that would be part of the MST.*
+
+Using Kruskal's algorithm:
+
+![Alt text](image-7.png)
+
+**Q2d.** *You are given a perfect binary tree of height h containing n nodes. Your answer should be an exact formula, not big-O notation.*
+
+*(i) Depth First Search: What is the name of the data structure used in DFS?*
+
+Stack
+
+*What is the maximum size of that data structure during a DFS?*
+
+$$h+1$$, because we have to store the root and all of the nodes in the longest path to store at the maximum
+
+*Breadth First Search: What is the name of the data structure used in BFS?*
+
+Queue
+
+*What is the maximum size of that data structure during a BFS?*
+
+$$2^h$$, because we have to store all of the nodes in the bottom row of the tree at one time.
+
+**Q3a.** *Draw a picture of a connected directed graph with 5 nodes that has the largest possible number of topological sorts. How many different topological sorts does it have?*
+
+![Alt text](image-8.png)
+
+There are $$4!$$ possible toposorts. This is the maximum number of toposorts, since it's the general number of arrangements of nodes. 
+
+**Q3b.** *Given a weighted, undirected graph with |V| nodes, answer the following. Assume all weights are non-negative.*
+
+*If each edge has weight $$\le$$ w, what can you say about the cost of an MST? Your answer should give a lower bound, or an upper bound on the cost of the MST.*
+
+The cost of the MST is at most $$w\cdot (\vert V \vert - 1)$$, because there are $$\vert V \vert - 1$$ edges in the MST, and each edge has weight $$\le$$ w. 
+
+*If the cost of an MST is c, what can you say about the shortest distances returned by Dijkstra’s algorithm when run with an arbitrary vertex s as the source? You should give a lower bound or an upper bound for the distance between arbitrary vertices u and v.*
+
+The shortest distance between any two points is less than $$c$$, as these two points will be connected via the MST.
+
+*If there exists a Hamiltonian circuit of cost c, then what can you say about the cost of the minimum spanning tree ?*
+
+The cost is at most $$c$$, since we can remove one edge from the Hamiltonian circuit to get a spanning tree, but this may not be the minimum one.
+
+**4a.** *Given the following array as input, perform the parallel prefix algorithm to fill the output array with the number of negative values contained in all of the cells to the left in the input array.*
+
+![Alt text](image-9.png)
+
+**Q6.** *Concurrency: Once again, we are helping out with the Aviation Management System. This time they have a data structure that keeps track of whether there is a flight from one airport to another. If there is a flight from airport x to airport y, then we should be able to assume that there is also a flight from airport y to airport x. This information is being kept in an array (indexed by unique airport number), where each location in the array points to a list of the airport numbers that can be reached from this airport by a single flight (an AirportList). We would like to allow as much concurrent access to this data structure as possible, while assuring that each thread always sees a consistent state of the data structure. We attempt this by having a different lock on each of the AirportLists.*
+
+*Our first attempt at the removeRoute method is below. Assume hasFlightTo and removeFlight are methods on an AirportList. removeFlight will throw an exception if the specified flight is not present.*
+
+```java
+void removeRoute1(int x, int y, AirportList[] airports) {
+    synchronized(airports[x]) {
+        synchronized(airports[y]) {
+            if(airports[x].hasFlightTo(y)) {
+                airports[x].removeFlight(y);
+                airports[y].removeFlight(x);
+            }   
+        }
+    }
+}
+```
+
+*Does the code above have potential for deadlock, a data race, or a race condition?*
+
+Potential for deadlock.
+
+```
+Thread 1                          Thread 2
+removeRoute(a, b, airports)       removeRoute(b, a, airports)
+    synchronized(airports[a]) {    synchronized(airports[b]) {
+        waiting on airports[b]     waiting on airports[a]
+    }                             }
+```
+
+*Our second attempt at the removeRoute method is below.*
+
+```java
+void removeRoute2(int x, int y, AirportList[] airports) {
+    synchronized(airports[x]) {
+        if(!(airports[x].hasFlightTo(y))) {
+            return;
+        }
+    }
+    synchronized(airports[x]) {
+        airports[x].removeFlight(y); 
+    }
+    synchronized(airports[y]) {
+        airports[y].removeFlight(x);
+    }
+}
+```
+
+*Does the code above have potential for deadlock, a data race, or a race condition?*
+
+A race condition. Imagine that thread 2 runs the entire method after thread 1 calls `airports[x].removeFlight(y)`. Then when thread 1 calls `airports[y].removeFlight(x)` there will be an exception thrown.
+
+*Finally, the developers’ consider scrapping the one-lock-per AirportList strategy in favor of a single lock, locking the entire array of AirportLists.*
+
+*One benefit of a single-lock locking all airports:*
+Everything will be airtight and there is zero risk of error, provided everything is correctly implemented.
+
+*One drawback of a single-lock locking all airports:*
+There is basically no benefit to parallelism because the entire data structure can only be accessed by one thread at a time.
+
+**Q7a.** *You are given a list of AVL trees. The keys in the AVL trees are ages of people. Each AVL tree represents the ages for people in a different community. Your task is to sort the AVL trees such that tree X comes before tree Y if and only if the minimal age in tree X is less than the minimal age in tree Y or the minimal ages are the same, but the maximal age in tree X is less than the maximal age in tree. Otherwise, ties are broken arbitrarily. You may assume that there are k trees, each tree has n keys in it, and the range of ages is fixed (0-127).*
+
+*Describe in a few sentences or numbered steps how you could use Mergesort to sort these trees efficiently in the worst case. What is the running time in terms of k and n?*
+
+In the worst case, all of the trees have the same minimum age and we need to compare the maximal age. Finding the maximum age in an AVL tree is $$\mathcal{O}(\log n)$$.
+Mergesort across $$k$$ elements runs in $$\mathcal{O}(k \log k)$$ time. So the total runtime is $$\mathcal{O}(k \log k + k \log n)$$.
+
+*Describe in a few sentences or numbered steps how you could use ideas from Radixsort to sort these trees efficiently in the worst case. What is the running time in terms of k and n?*
+
+Radix Sort begins from the least significant digit and runs a sort, then moves onto more significant digits. Similarly, in this case, we could first run a sort on the maximum age. This would take runtime $$\mathcal{O}(k + 128) = \mathcal{O}(k)$$ time. Mutliplying this by the $$\mathcal{O}(\log n)$$ time it takes to get the maximum yields $$\mathcal{O}(k \log n)$$.
+Then run a bucket sort on the minimum age, which is also $$\mathcal{O}(k)$$ time. So the total runtime is $$\mathcal{O}(k)$$.
+This gives us a total runtime of $$\mathcal{O}(k \log n)$$.
+
+**8a.** *Give the recurrence for mergesort (parallel sort and sequential merge), best case span.*
+
+$$T(n) = T(n/2) + O(n)$$
+
+Normally it would be $$T(n) = 2T(n/2) + O(n)$$, but since we are doing a parallel sort, we can do both halves in parallel. So the span is $$\mathcal{O}(\log n)$$.
+
+**8b.** *Order these sorts from slowest to fastest in terms of big-O runtimes. For parallel sorts, use the span.*
+
+1. Quicksort (sequential) - worst case ($$\mathcal{O}(n^2)$$
+2. Mergesort(sequential) - worst case,  Quicksort (sequential) - best case, Quicksort (parallel sort & parallel partition) - worst case span ($$\mathcal{O}(n \log n)$$)
+3. Quicksort (parallel sort & parallel partition) - worst case span ($$\mathcal{O}(\log^2 n)$$
+
+**8c.** *Suppose we choose the median of five items as the pivot in quicksort. If we have an N element array, then we find the median of the elements located at the following positions: left (= 0), right (= N – 1), center (the average of left and right, rounded down), leftOfCenter (the average of left and center, rounded down), and rightOfCenter (the average of right and center, rounded down). The median of these elements is the pivot.*
+
+Still $$\mathcal{O}(n^2)$$. This is if all of the elements in the array are the same value.
+
+**8d.** *Any algorithm for sorting must take $$\Omega(N log N)$$ time in the worst-case.*
+
+False.
+
+**9a.** *"NP" stands for* non-deterministic polynomial.
+
+**9b.** *What does it mean for a problem to be in NP-complete?*
+
+Firstly, it must be in NP, which means that a solution can be verified by an algorithm in polynomial time.
+Moreover, all NP problems must reduce to this problem for it to be NP-complete.
+To be reducible to another problem means that you can solve your problem using a polynomial number of calls to the other problem's solver.
+
+**9c.** *For the following problems, circle ALL the sets they belong to.*
+
+- Determining if a chess move is the best move an N by N board: none
+- Finding the maximum value in an array: NP, P
+- Finding a cycle that visits every vertex in a graph exactly once: NP, NP-complete
+- Finding a cycle that visits every edge in a graph exactly once: P, NP
+- Determine if a program will ever stop running: none
+
+**9d.** *If there exists a polynomial time algorithm to solve Euler Circuit, then there exists a polynomial time algorithm to solve SAT.* False.
+
+**9e.** *If there exists a polynomial time algorithm to solve Hamiltonian Circuit then any problem in NP can be solved in polynomial time.* True.
+
+
 ## 2015 Winter Final
 **Q1a.** *This is actually a sort mentioned in class. What sort is this?*
 

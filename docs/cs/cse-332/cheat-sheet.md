@@ -92,19 +92,69 @@ Maintain a sorted subarray at the   end of the array.
 3. Recursively sort each half.
 
 Hoare partition
+- Pick 3 elements: first, middle, last. Choose the median of three as your pivot.
+- Swap the pivot with the last element.
+- Partition the array around the pivot.
 
 ### Bucket Sort
+- For a small range of integers, just get a tally of each number.
+- Find a min and max value. Make an aux array to represent the range between min and max.
+- Go thruogh the original array and start tallying each number.
+- Copy the aux into the original array.
+
+Runtime is $$\mathcal{O}(n+k)$$, where $$k$$ is the range of the integers.
+We need to first iterate over the original array to do the tally. Then we need to iterate over the auxilliary array to write the values back into the original array.
+
+For non-integer data, each entry is not a tally but rather just a linked list. Dump the new data into the back of the linked list to get a stable sort.
 
 ### Radix Sort
+1. Begin with the ones place and run bucket sort.
+2. Move on to the tens place and run bucket sort.
+3. Repeat until you reach the most significant digit.
+
+Runtime is $$\mathcal{O}(d \cdot (n+k))$$, where $$d$$ is the number of digits in the largest number.
+
+---
+
+## Hash Tables
+
+### Load Factor
+$$\lambda = \frac{n}{m}$$ where $$n$$ is the number of elements and $$m$$ is the number of buckets.
+
+### Double Hashing
+- Quadratic probing with $$f(i) = i^2$$ does not resolve collisions between keys that initally hash to the same index, producing secondary clustering.
+
+$$f(i) = i \cdot h'(key)$$, where $$h'$$ is a second hash function. Rephrased, we increment in multiples of another hash.
+
+- If two keys hash to the same index, it is unlikely that they will follow the same probe sequence.
+- While we prevent secondary clustering (possibly), we run the risk of infinite cycles
+
+
 
 ---
 
 ## Graphs
 
 ### Dijkstra's Algorithm
-Runs in $$\mathcal{O}(V \log V + E \log V)$$ time. Vertex-based. Runtime derivation:
+Runs in $$\mathcal{O}(V \log V + E \log V)$$ time using adjacency list with priority queue. Vertex-based. Runtime derivation:
 - $$\mathcal{O}(V \log V)$$ for the priority queue, since we are dealing with $$V$$ vertices and need to sort them by their path distance from the source.
 - $$\mathcal{O}(E \log V)$$ for the edge relaxation, since we are dealing with $$E$$ edges and need to update the priority queue for each edge.
+Unoptimized time: $$\mathcal{O}(V^2 + E)$$.
+
+### Topological Sort
+Algorithm: 
+1. Find a vertex with no incoming edges.
+2. Add it to the topological sort.
+3. Remove it and all outgoing edges from the graph.
+4. Update priorities.
+5. Repeat.
+
+The maximum number of topological sorts for a connected directed graph with $$n$$ nodes is $$(n - 1)!$$.
+
+### Minimum Spanning Trees
+A **spanning tree** of a graph is a subgraph that is a tree and contains all vertices.
+
+There are $$\vert V \vert - 1$$ edges in an MST.
 
 ### Prim's Algorithm
 Vertex-based.
