@@ -885,14 +885,53 @@ Parallel patterns
 - Runtime is $$\mathcal{O}(E \log E) = \mathcal{O}(E \log V)$$
 - Both Kruskal's and Prim's have the same runtime
 
+---
 
-
-
-
-
-
-
-
+## Lecture 24: P vs NP
+- Decision problem: a problem that takes in some input and the output is either true or false.
+- Why talk about decision problems?
+  - Easier to analyze than the set of all problems.
+  - Most decision problems can be reduced to a (series of) decision problem(s).
+- P: polynomial. A problem is in P iff
+  - it's a decision problem
+  - there is a polynomial time algorithm that solves it
+- Euler circuit problem: given an undirected graph, return true iff there is a cycle in G that visits everys ingle edge exactly one.
+  - Euler showed that a graph has an euler circuit iff the graph is connected and the degree of every vertex is even.
+- NP: Nondeterministic Polynomial. A problem is in NP iff
+  - it's a decision problem
+  - For every input where the output is true (i.e. solutions), here exists some certificate that we can use to verify that the output is true in polynomial time.
+  - Rephrased, NP is interested in quickly verifying the truth of a solution.
+- Euler Circuit is also in NP because the certificate for every solution input 
+- It turns out that every problem in P is also in NP; that is, P is a subset of NP. 
+  - Certificate: the input itself.
+  - Verification: there is a polynomial time algorithm which can solve it. And this can be used in the verification process itself. Run the algorithm on the input.
+- The big question is: is P = NP? Most people think that P $$\neq$$ NP.
+- Hamiltonian Circuit Problem. Input: a graph G. Output: True if there exists a cycle in G that visits every vertex exactly once.
+  - Much harder than the Euler circuit problem
+  - Is NP-complete.
+- NP-Complete: the hardest problems in NP.
+  - What deos it mean for a problem to be hard?
+  - Reduction. A reduces to B if we can solve A using a solution to problem B.
+  - A reduces to B in polynomial time if we can solve A using a polynomial number of calls to B. What numbers is we call it a polynomial number of times.
+  - If $$B \in P$$ and $$A \le_P B$$ (reduces to B in Polynomial time), then $$A \in P$$
+- NP complete: A problem is NP-complete  iff
+  - It's in NP
+  - Every problem in NP is polynomial-time reducible to it
+- How to show P = NP. 
+  - Take an NP-complete problem
+  - Find a polynomial time algorithm for it
+- There are thousands of NP-complete problems... and we can't find a polynomial time algorithm for any of them
+- NP-hard problems are a superset of NP-complete problems, do not need to be in NP.
+- NP-hard problem: $$n$$ by $$n$$ chessboard and determine if it's the best possible move.
+  - Not necessarily verifiable in polynomial time. But every problem in NP can be reduced to that problem.
+- Confirm that a problem is hard:
+  - Take an NP-complete problem A
+  - Take your problem B
+  - Show that A is reducible in polynomial time to B
+  - Solving this problem is equivlaent to solving P = NP.
+- Workarounds
+  - Consider using an approximation algorithm
+  - Consdier using a randomized algorithm
 
 
 
