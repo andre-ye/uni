@@ -29,7 +29,7 @@ CSE 332
 
 | Sort | Runtime | Stability | In-Place |
 | Insertion Sort | Best Case: $$\mathcal{O}(n)$$. Worst Case: $$\mathcal{O}(n^2)$$. Average case: $$\mathcal{O}(n^2)$$ | Stable | In-Place |
-| Selection Sort | $$\mathcal{O}(n^2)$$ | Stable | In-Place |
+| Selection Sort | $$\mathcal{O}(n^2)$$ | Not Stable | In-Place |
 | Heap Sort | $$\mathcal{O}(n\log n)$$ | Not Stable | In-Place |
 | Merge Sort | $$\mathcal{O}(n\log n)$$ | Stable | Not In-Place |
 | Quick Sort (Hoare Partition) | Best Case: $$\mathcal{O}(n\log n)$$. Worst Case: $$\mathcal{O}(n^2)$$. Average case: $$\mathcal{O}(n\log n)$$ | Not Stable | In-Place |
@@ -86,15 +86,36 @@ Maintain a sorted subarray at the   end of the array.
 2. Recursively sort each half.
 3. Merge the two sorted halves.
 
+By parallelizing mergesort's merge step, even in the worst-case situation (one subarray has 3/4 elemetns and the other has 1/4), we have $$\mathcal{O}(n)$$ work and $$\mathcal{O}(\log^2 n)$$ span.
+When considered with the full mergesort algorithm, we go from $$\mathcal{O}(n \log n)$$ work to $$\mathcal{O}(\log^3)$$ runtime.
+
 ### Quick Sort
 1. Pick a pivot.
 2. Partition the array around the pivot.
 3. Recursively sort each half.
 
+
 Hoare partition
 - Pick 3 elements: first, middle, last. Choose the median of three as your pivot.
 - Swap the pivot with the last element.
 - Partition the array around the pivot.
+
+
+Parallel quicksort:
+
+![Alt text](image-12.png)
+
+
+Alternatively, use parallel pack for parallel partitioning. Do two filters: elements less than pivot, and all of the elements greater than the pivot. 
+However we lose the in-place requirement, they have to be their own subarrays.
+
+A pack is $$\mathcal{O}(\log n)$$ span. So you can reduce the span of quicksort to $$\mathcal{O}(\log^2 n)$$.
+
+| Parallel Split | Parallel Partition | Runtime / Span |
+| --- | --- | --- |
+| No | No | $$\mathcal{O}(n\log n)$$ |
+| Yes | No | $$\mathcal{O}(\log n)$$ |
+| Yes | Yes | $$\mathcal{O}(\log^2 n)$$ |
 
 ### Bucket Sort
 - For a small range of integers, just get a tally of each number.
@@ -130,6 +151,11 @@ $$f(i) = i \cdot h'(key)$$, where $$h'$$ is a second hash function. Rephrased, w
 - While we prevent secondary clustering (possibly), we run the risk of infinite cycles
 
 
+### Runtimes
+- Insertion: $$\mathcal{O}(\lambda )$$
+- Deletion: $$\mathcal{O}(\lambda )$$
+- Lookup: $$\mathcal{O}(\lambda )$$
+
 
 ---
 
@@ -161,6 +187,10 @@ Vertex-based.
 
 ### Kruskal's Algorithm
 Edge-based.
+
+![Alt text](image-11.png)
+
+Worst-case runtime: $$\mathcal{O}(E \log V)$$. Uses disjoint set data structure with worst-case amortized runtime $$\log V$$.
 
 ---
 

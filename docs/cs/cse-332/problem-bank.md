@@ -14,9 +14,437 @@ CSE 332
 
 ---
 
+## 2023 Spring Final
+
+**Q1a.** *The worst-case runtime of delete in a binary search tree containing $$N$$$ elements is $$\Omega(\log N)$$.*
+
+False.
+
+**Q1b.** *What is the maximum number of nodes in a binary max heap with height $$h$$?*
+
+$$2^ {h + 1} - 1$$
+
+**Q1c.** *For a binary min heap, in Floyd's build heap algorithm, you* percolate elements down
+
+*For a binary min heap, in Floyd's build heap algorithm, you go from* the bottom up to the top of the heap.
+
+**Q1d.** *Give a worst-case runtime of an increaseKey operation on a Binary Min Heap containing $$N$$ values.*
+
+$$\mathcal{O}(\log N)$$
+
+**Q1e.** *What is the minimum number of nodes in an AVL tree of height 3?*
+
+```
+            A
+        B       C
+      D   E       G
+     H       
+```
+
+7 nodes.
+
+**Q2a.** *What is the worst-case runtime for Kruskal's algorithm as described in lecture?* $$\mathcal{O}(E \log V)$$
+
+**Q2b.** *What is the worst-case runtime of finding all incoming edges of a vertex using an adjacency list representation of a graph?* $$\mathcal{O}(V + E)$$
+
+**Q2c.** *What is the worst-case runtime of a find operation on a hash table containing $$N$$ elements using separate chaining? The load factor of this table is $$\log N$$.*
+
+$$\mathcal{O}(N)$$ (degeneration into linked list)
+
+**Q2d.** *Give the name of a sequential sort that is not in-place but is stable.* Merge sort
+
+**Q2e.** *If 1/4 of your program must be run sequentially what is the maximum speedup you can achieve using 5 processors?* This means that 3/4 of the program can be parallelized, or that the new time will be 3/20. Adding this to the 5/20 sequential part of the program means our new program has 8/20 work left, yielding a 5/2 speedup.
+
+**Q3a.** *Insert 82, 4, 57, 13, 24, 17, 32 into the table with primary hash function $$h(k) = k \% 10$$ and seocndary hash function $$g(k) + (k \% 3)$$.*
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | 82 |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | 82 |   | 4 |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | 82 |   | 4 |   |   | 57 |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | 82 | 13 | 4 |   |   | 57 |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | 82 | 13 | 4 |   | 24 | 57 |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 17 |   | 82 | 13 | 4 |   | 24 | 57 |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 32 | 17 | 82 | 13 | 4 |   | 24 | 57 |  |   |
+
+**Q3b.** *What is the load factor of the table in part a?* There are 7 elements and table size 10, so the load factor is 0.7.
+
+**Q3c.** *Mark each of the hashcode implementations for an album as valid or invalid.*
+
+```java
+return title.hashCode() + artist.hashCode()
+```
+
+Valid
+
+```java
+return UUID;
+```
+
+Invalid
+
+```java
+return UUID.hashcode();
+```
+
+Valid
+
+```java
+Random newRand = new Random();
+return newRand.nextInt();
+```
+
+Invalid
+
+```java
+
+```java
+int result = 0;
+for (Song s : songs) {
+    result += s.hashCode();
+}
+return result;
+```
+
+Valid
+
+**Q3d.** *Which of the valid hashCode implementations would you expect to have the most collisions?*
+
+```java
+return UUID.hashcode();
+```
+
+**Q4.** *Use the following graph.*
+
+![Alt text](image-14.png)
+
+**Q4a.** *List a valid topological orderingo f the nodes in the graph above.*
+
+A, Y, X, Z, C, B
+
+**Q4b.** *Step through Dijkstra's algorithm to calculate the single source shortest path from A to every other vertex. Break ties by choosing the lexicographically smallest letter first.*
+
+| Vertex | Distance from A | Previous Vertex |
+| --- | --- | --- |
+| A | 0 | null |
+| B | 8 | Z |
+| C | 7 | Z |
+| X | 4 | Y |
+| Y | 2 | A |
+| Z | 3 | Y |
+
+
+**Q4c.** *In what order does Dijkstra's algorithm mark each node as known?*
+
+A, Y, Z, X, C, B
+
+**Q4d.** *List the shortest path from A to B.*
+
+From the given table, it would be A, Y, Z, B.
+
+**Q4e.** *Is this graph complete?* No, because in a complete graph every vertex is connected to every other vertex, but this is clearly not the case (e.g. there is no vertex between Y and B).
+
+*Use the following graph.*
+
+![Alt text](image-15.png)
+
+**Q4f.** *If we run Kruskal's algorithm, which of th efollowing edges could be the last edge added to the minimum spanning tree?*
+
+AW, BX, CY, DZ
+
+**Q4g.** *If we run Prim's algorithm, which of the following edges could be the last edge added to the minimum spanning tree?*
+
+AB, BD, AC, CD
+
+*What is the total cost of a minimum spanning tree in the graph above?*
+
+9
+
+*Assuming the edges are unweighted, give a valid breadth first search of this graph starting from S.*
+
+We will use a queue.
+
+```
+{W X Y Z}
+Search: S
+
+{X Y Z A}
+Search: S W
+
+{Y Z A B}
+Search: S W X
+
+{Z A B C}
+Search: S W X Y
+
+{A B C D}
+Search: S W X Y Z
+
+{}
+Search: S W X Y Z A B C D
+```
+
+**Q4j.** *Assuming the edges are unweighted, give a valid depth first search of this graph starting from S.*
+
+```
+{W, X, Y, Z} Top
+Search: S
+
+{W, X, Y, D} Top
+Search: S, Z
+
+{W, X, Y, B, C} Top
+Search: S, Z, D
+
+{W, X, Y, B, A} Top
+Search: S, Z, D, C
+
+{W, X, Y, B} Top
+Search: S, Z, D, C, A
+
+{W, X, Y} Top
+Search: S, Z, D, C, A, B
+
+{} Top
+Search: S, Z, D, C, A, B, Y, X, W
+```
+
+**Q8.** *You are given an initial array: `[22, 10, 14, 37, 14, 4, 3]`. Indicate whether any of the arrays below could represent any of the sorting algorithms at any point during the sorting algorithm's execution.*
+
+**Q8a.** `[3, 4, 14, 37, 14, 10, 22]`
+
+Selection sort.
+
+**Q8b.** `[10, 22, 3, 14, 14, 37, 4]`
+
+None.
+
+**Q8c.** `[10, 22, 3, 14, 14, 4, 37]`
+
+Radix sort.
+
+**Q8d.** `[10, 14, 14, 22, 37, 4, 3]`
+
+Insertion sort.
+
+**Q8e.** *Heap sort is a stable sort.*
+
+False. This is because the heap sort algorithm does not need to respect any ordering.
+
+**Q8f.** *Give the recurrence for parallel merge sort: parallel sort and sequential merge, best case.*
+
+$$T(n) = T(n/2) + \mathcal{O}(n)$$
+
+**Q8g.** *Give the recurrence for sequential quicksort, best case.*
+
+$$T(n) = 2T(n/2) + \mathcal{O}(n)$$
+
+## 2022 Summer Final
+
+**5a.** *Perform one pass of Hoare's partition on the following data.*
+
+```
+03 14 15 92 65 35 89 79 32 38 46
+35 14 15 92 65 03 89 79 32 38 46 swap rows
+35 14 15 32 65 03 89 79 92 38 46 swap 32 and 92
+35 14 15 32 03 65 89 79 92 38 46 swap 03 and 65
+14 15 32 03 35 65 89 79 92 38 46 put 35 back
+```
+
+**5b.** *Perform a radix sort on the following data.*
+
+```
+23 14 06 92 63 27 79 26 90 05
+
+0  1  2  3  4  5  6  7  8  9
+==============================
+90       23 14 05 06 27    79
+         63       26
+
+90 23 63 14 05 06 26 27 79
+
+0  1  2  3  4  5  6  7  8  9
+==============================
+05 14 23          63 79    90
+06    26
+      27
+
+05 06 14 23 26 27 63 79 90
+```
+
+**Q5c.** *Nathan wants to create a new data structure for priority queue operations, SuperQueue, with runtime $$\Theta(1)$$ and $$\Omega(\log \log n)$$ for removeMin().*
+
+This is not possible. If it were possible, we could insert all elements into the SuperQueue and then removeMin() until the queue is empty. This would give us a sorting algorithm with runtime $$\Theta(n)$$, which is not possible fo comparison sorts.
+
+**Q5d.** *Give the recurrence for the parallel merge disussed in lecture -- worst case span.*
+
+$$T(n) = \mathcal{O}(\log n) + T(3N / 4)$$
+
 ## 2019 Winter Final
 
 ## 2019 Autumn Final
+
+## 2017 Autumn Final
+
+**Q1a.** Insert the following elements in order: 19, 48, 8, 27, 97, 7. Use the primary hash function $$h(k) = k \% 10$$ .
+
+*Separate chaining hash table - used a sorted linked list for each bucket where the values are ordered by increasing value.*
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | 48 | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | 8 $$\to$$ 48 | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | 8 $$\to$$ 48 | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   | 27 | 8 $$\to$$ 48 | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   | 27 $$\to$$ 97 | 8 $$\to$$ 48 | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   | 7 $$\to $$ 27 $$\to$$ 97 | 8 $$\to$$ 48 | 19 | 
+
+**Q1b.** *Quadratic probing hash table.*
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   |   |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | 48 | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | 8 |   |   |   |   |   | 48 | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | 8 |   |   |   |   | 27 | 48 | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | 97 | 8 |   |   |   |   | 27 | 48 | 19 |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | 97 | 8 |   |   |   | 7 | 27 | 48 | 19 |
+
+**Q1c.** *What is the load factor in Table a?
+
+There are 10 samples and 6 samples. Therefore the load factor is 0.6.
+
+**Q1d.** *Would you implement lazy deletion on Table a?*
+
+Lazy deletion is a method to delete an element from a hash table simply by marking it as deleted.
+In this case, we would not implement lazy deletion because removing from the linked list is the same time as finding it and then marking it as deleted. It just leaves the node there and increases the runtime of accessing later elements.
+
+**Q1e.** *How would you implement re-hashing on table b?*
+
+You can rehash when the load factor is larger than 0.5, or when an insertion fails. To re-hash, create a new hash table with a larger size and which is a prime number. 
+Reinsert all the elements from the old hash table into the new hash table.
+
+**Q1f.** *What is the big-O worst case runtime of an Insert in a hash table like Table a) containing N elements?*
+
+$$\mathcal{O}(N)$$, because you'd insert into a linked list.
+
+**Q1g.** *What is the worst big-O runtime of determining what the maximum value is in a hash table like Table B containing N elements?*
+
+$$\mathcal{O}(N)$$, because you'd have to traverse everything or resize.
+
+**Q2a.** *What is the big-O runtime of Prim's algorithm, assuming an adjacency list representation, if a priority queue is used?
+
+$$\mathcal{O}(E \log V + V \log V)$$
+
+This is the same as Dijkstra's algorithm, with $$E \log V$$ for updating the node priorities (distances) and $$V \log V$$ for extracting the minimum node.
+
+**2b.** *Give a minimum spanning tree.*
+
+![Alt text](image-10.png)
+
+**2c.** *What is the worst case running time of Kruskal's algorithm as described in lecture, assuming an adjacency list representation?*
+
+$$\mathcal{O}(E \log V)$$
+
+*You try using a new implementation of union-find that claims to have better locality. find has a worst running time of $$\mathcal{O}(V^2)$$ and union has a running time of $$\mathcal{O}(V)$$. What is the worst case running time fo your modified Kurskal's algorithm with this new implementation?*
+
+$$\mathcal{O}(E \log E + 2 E V^2 + V \cdot V) = \mathcal{O}(E V^2)$$
+
+
+**Q7.** *What fraction of a prgoram must be parallelizable in order to get 10x speedup on 20 processors?*
+
+Let $$\alpha$$ be the fraction of the program that is parallelizable. Then the time the program runs with 20 processors is $$(1 - \alpha) + \alpha / 20$$. The speedup is $$1 / ((1 - \alpha) + \alpha / 20) = 10$$. Solving for $$\alpha$$, we get $$\alpha = 0.95$$.
+
+**Q8a.** Give the recurrence for Quicksort, parallel sort and sequential partition, best case span.
+
+$$T(n) = T(n / 2) + \mathcal{O}(n)$$
+
+**Q8b.** Give the big-O runtimes requested below.
+
+- Selection sort, best case: $$\mathcal{O}(n^2)$$. This is because you have to find the minimum element in the array, which takes $$\mathcal{O}(n)$$ time, and you have to do this $$n$$ times.
+- Quicksort sequential, best case: $$\mathcal{O}(n \log n)$$
+- Insertion sort, best case: $$\mathcal{O}(n)$$. This is because you only have to do one pass through the array, comparing each element to the previous element.
+- Quicksort (parallel sort & parallel partition), worst case span. $$\mathcal{O}(n \log n)$$, in the case that the pivot is the smallest or largest element in the array. This is because you have to do $$n$$ comparisons to find the pivot but then you can do $$\log n$$ levels of work.
+- Quicksort (sequential), worst case: $$mathcal{O}(n^2)$$, in the case that the pivot is the smallest or largest element in the array. This means that you end up doing $$n$$ levels with $$n$$ work each time (for the partitioning).
+
+**Q8c.** Fill in the blanks.
+
+In class we discussed a $$\Omega(n \log n)$$ bound on *comparison* sorting. Yet we came up with other sorts like *bucket sort* that had a better worst case runtime of $$\Theta (n)$$.
+
+It is possible to come up with these algorithms by assuming properties of the elements rather than comparing them.
+
+**Q8d.** *Is radix sort in-place?* No.
+
+**Q8e.** *Describe what it means for a sort to be in-place.*
+
+In place means using no more than a constant amount more space. A few extra variables 
+may be used, but $$\mathcal{O}(n)$$ extra space may not be used.
+
+
 
 ## 2016 Autumn Final
 **Q1a.** Insert the following elemetns in order into a quadratic probing hash table: 50, 21, 29, 10, 39, 19. For each table, you should use the primary hash function $$h(k) = k \% 10$$.

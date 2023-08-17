@@ -933,7 +933,34 @@ Parallel patterns
   - Consider using an approximation algorithm
   - Consdier using a randomized algorithm
 
+---
 
-
-
+## Lecture 25: More NP vs P
+- NP-hard is the same as NP-complete, but there's no requirement that the problem itself is NP.
+- A problem is NP-hard iff it's a decision problem and every problem in NP is polynomial-time reducible to it.
+- A problem is NP-complete iff it is NP and NP-hard.
+- Three-colorable problem
+  - Input is an undirected graph
+  - Output is true iff you can color each vertex of the graph one of three colors such that no two adjacent vertices have the same color.
+  - This problem is NP-complete. It's in NP, because I can verify the three-coloring scheme is vlaid in polynomial time.
+  - It's also NP-hard
+- Two-colorable problem
+  - Solution: in general, all vertices at an even distance from the start must be colored differently from the vertices at an odd distance.
+  - Polynomial time solution. In $$P$$.
+  - Two-colorable $$\le_P$$ three-colorable.
+- Two-colorable reducible to three-colorable in polynomial time: add a dummy vertex and add edge from the dummy to all other vertices. Return true iff 3 colorable outputs true.
+- SAT problem.  3-SAT. NP-complete.
+  - literal: a boolean variable or its negation
+  - clause: a series of literals which are all OR'd
+  - Input: a series of clauses AND'd together
+  , each clause has at most three literals.
+  - Output: True iff there are boolean variables such that the expression evaluates to true.
+  - The general problem of satisfiability (any number of literals and clauses) is reducible to 3-SAT.
+- Vertex Cover problem.
+  - Input: a graph G, integer $$k$$.
+  - Output: true iff there is a set of vertices of size $$k$$ so that every edge has at least one vertex in the set.
+  - If a graph is 2-colorable, there is a known polynomial time algorithm, max-flow / min-cut
+  - If the graph is a tree, there is a known linear time solution
+  - In a general graph, there is an approximation algorithm for finding the minimum vertex cover, which gives you a vertex cover that is at most 2 times bigger than the optimal one.
+    - While there are edges in your graph, pick an arbitrary one. You have two nodes, one of them has to be in there. Put both of them in the vertex color. Then delete the edge and any incident edges.
 
