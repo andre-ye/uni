@@ -231,6 +231,10 @@ Search: S, Z, D, C, A, B
 Search: S, Z, D, C, A, B, Y, X, W
 ```
 
+**Q7.** *Parallel suffix sum.*
+
+![Alt text](image-18.png)
+
 **Q8.** *You are given an initial array: `[22, 10, 14, 37, 14, 4, 3]`. Indicate whether any of the arrays below could represent any of the sorting algorithms at any point during the sorting algorithm's execution.*
 
 **Q8a.** `[3, 4, 14, 37, 14, 10, 22]`
@@ -262,6 +266,133 @@ $$T(n) = T(n/2) + \mathcal{O}(n)$$
 $$T(n) = 2T(n/2) + \mathcal{O}(n)$$
 
 ## 2022 Summer Final
+
+**Q2.** *In Java, using the ForkJoin framework, write code to solve the following problem:. Input: an array of strings (no duplicates). Output: the greatest number of vowels in a string and its location in the input array. In case of ties, the rightmost index is returned. If no strings in the array contain any vowels, then return $$-1$$ as its index.*
+
+```java
+import java.util.concurrent.ForkJoinPool;
+import java.util.concurrent.RecursiveAction;
+import java.util.concurrent.RecursiveTask;
+class Pair { // You are not required to use this class
+    int numVowels;
+    int index;
+    public Pair (int numVowels, int index) {
+        this.numVowels = numVowels;
+        this.index = index;
+    }
+}
+class Main {
+    static final ForkJoinPool fjPool = new ForkJoinPool();
+        Pair findMax (String[] array) {
+        return fjPool.invoke(new FindMax(array, 0, array.length));
+    }
+}
+
+class FindMax extends RecursiveTask<Pair> {
+
+    private String[] array;
+    private int lo, hi;
+
+    FindMax(String[] array, int lo, int hi) {
+        this.array = array;
+        this.lo = lo;
+        this.hi = hi;
+    }
+
+    @Override
+    public Pair compute() {
+        if (hi - lo <= 1) {
+            int num_vowels = this.countNumVowels(array[lo]);
+            if (num_vowels == 0) {
+                return new Pair(0, -1);
+            } else {
+                return new Pair(num_vowels, 0);
+            }
+        } else {
+            int mid = lo + (hi - lo) / 2;
+            
+            FindMax left = new FindMax(array, lo, mid);
+            FindMax right = new FindMax(array, mid, hi);
+
+            left.fork();
+            Pair right_res = right.compute();
+            Pair left_res = left.join();
+
+            if (left_res.numVowels > right_res.numVowels) {
+                return left_res;
+            } else {
+                return right_res;
+            }
+        }
+    }
+
+    /*
+    * Returns the number of vowels in the given String str
+    */
+    private int countNumVowels(String str) { // You are not required to use this method
+    for (int i = 0 ; i < str.length(); i++){
+        char ch = str.charAt(i);
+        if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
+        ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U'){
+            count++;
+        }
+    }
+    return count;
+}
+```
+
+**Q3a.** *Dara has been training all year to climb Mt. Everest and she needs your help calculating if she will have enough energy to do so! In this particular problem, positive numbers will give Dara an energy boost and negative numbers will have no effect. Given the following array as input, perform the parallel prefix algorithm to fill the output array with the sum of only the positive values contained in all of the cells to the left (including the value contained in that cell) in the input array. Negative values in the input array should not contribute to the sum. Fill in the values for: pSum, fromLeft, and the Output Array in the tree and output array. Do not use a sequential cutoff.*
+
+![Alt text](image-16.png)
+
+**Q4.** *After finishing up all of the grading for summer quarter, the Allen School TAs decide to celebrate by eating at their favorite restaurant on the Ave! The Restaurant class manages a restaurant’s seating capacity through reservations and walk-ins. Multiple threads (TAs) could be accessing the same Restaurant object, which means two TAs could be making reservations or walk-ins at the same time. Assume the Queue objects ARE THREAD-SAFE, have enough space, and operations on them will not throw an exception.*
+
+```java
+public class Restaurant {
+    private Queue<Integer> reservations = new Queue<Integer>();
+    private Queue<Integer> walkIns = new Queue<Integer>();
+    private final int maxCapacity = 50; //Max capacity of people in restaurant
+    // Calculates current restaurant capacity
+
+    public int getTotal() {
+        int total = 0;
+        for (Integer group : reservations) {
+            total += group;
+        }
+        for (Integer group : walkIns) {
+            total += group;
+        }
+        return total;
+    }
+
+    // Adds list of reservation groups to the restaurant
+    public void addReservations(List<Integer> groups) {
+        for (int i = 0; i < groups.size(); i++) {
+            if (getTotal() + groups.get(i) <= maxCapacity) {
+                reservations.push(groups.get(i));
+            }
+        }
+    }
+
+    // Adds walkIn group to the restaurant
+    public void addWalkIn(int walkInSize) {
+        if (getTotal() + walkInSize <= maxCapacity) {
+            walkIns.push(groupSize);
+        }
+    }
+}
+```
+
+**Q4a.** *Neel and Thien (think of them as two threads) are both trying to access the same Restaurant object at the same time, but this potentially could cause some issues. If there are any problems, give an example of when and where they could occur. Be specific.*
+
+The `Restaurant` class as shown above has a race condition for trying to make a reservation.
+
+**Q4b.** *Hans proposes that we make the addWalkIn method synchronized in order to potentially eliminate any concurrency issues in the code, and change nothing else.*
+
+There is still a race-condition for addReservation.
+
+
+
 
 **5a.** *Perform one pass of Hoare's partition on the following data.*
 
@@ -301,6 +432,59 @@ This is not possible. If it were possible, we could insert all elements into the
 **Q5d.** *Give the recurrence for the parallel merge disussed in lecture -- worst case span.*
 
 $$T(n) = \mathcal{O}(\log n) + T(3N / 4)$$
+
+
+**Q1a.** *Given a B-tree of height 4, with $$M=3$$ and $$L=5$$, what is the minimum number of data items in the tree?*
+
+$$2 \cdot 2^3 \cdot 3$$
+
+**Q1b.** *Given a B-tree of height 4, with $$M=3$$ and $$L=5$$, what is the maximum number of data items in the tree?*
+
+$$3 \cdot 3^4 \cdot 5$$
+
+**Q1c.** *Consider a hashtable that uses separate chaining as its collisionr esolution strategy and has a load factor of 332 and $$n$$ elements. What is the worst case runtime of a find operation in this hashtable?*
+
+$$\mathcal{O}(n)$$
+
+**Q1d.** *True or false: if a hashtable uses quadratic probing and its table size is prime, it is awlays guaranteed to find an empty slot.*
+
+False. If the table is full, it will never find an empty slot.
+
+**Q1e.** *Consider a hashtable that uses a double hashing strategy; if $$g(k)$$ and $$h(k)$$ ar ethe same function, the insert operation will always result in an infinite cycle when laod factor is greater than 0.5.*
+
+False. If $$g(k)$$ and $$h(k)$$ are the same function, then the double hashing strategy is the same as linear probing.
+
+**Q1f.** *Best case runtime for insertion sort of $$n$$ elements.*
+
+$$\mathcal{O}(n)$$
+
+**Q1g.** *Span of parallel partitioning $$n$$ elements into three groups: elements less than pivot, elements greater than pivot, and the pivot.*
+
+$$\mathcal{O}(\log n)$$
+
+**Q1j.** *Worst case runtime of running DFS on a dense graph with $$V$$ nodes and $$E$$ edges.*
+
+$$\mathcal{O}(V + E)$$
+
+**Q3.**
+
+![Alt text](image-17.png)
+
+**Q3a.** *Which orderings of edges using Prim's algorithm are valid?*
+
+- `AC, BD, BC, DE, DF, FG`. No
+- `AC, BC, BD, DF, DE, FG`. Yes
+- `AC, BC, BD, DF, FG, DE`. No
+- `FG, DF, BD, BC, AC, DE`. Yes
+- `FG, DF, BC, AC, BD, DE`. No
+
+**Q3b.** *Which orderings of edges using Kruskal's algorithm are valid?*
+
+- `AC, BD, BC, DF, DE, FG`. Yes
+- `AC, BC, DE, DF, FG, BD`. No
+- `BD, AC, BC, DF, DE, FG`. Yes
+- `AC, BD, DF, FG, DF, BC`. No
+- `BD, AC, BC, DE, DF, FG`. No
 
 ## 2019 Winter Final
 
