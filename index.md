@@ -35,7 +35,10 @@ Try out some important/interesting classes:
 
 ---
 
-I’m [Andre](https://andre-ye.github.io){:target="_blank"}, a sophomore at the University of Washington. This website serves to host class notes at the University of Washington, as well as to host and share some of the work I've done in them. I'm pursuing a double major in Philosophy and Computer Science and a minor in Russian Language. I tend to take a fairly wide range of classes, so I hope they are interesting and/or helpful to viewers.
+I’m [Andre](https://andre-ye.github.io){:target="_blank"}, a junior at the University of Washington.
+This website serves to host class notes at the University of Washington, as well as to host and share some of the work I've done in them. 
+I'm pursuing a double major in Philosophy and Computer Science and a minor in Mathematics. 
+I tend to take a fairly wide range of classes, so I hope they are interesting and/or helpful to viewers.
 
 ---
 

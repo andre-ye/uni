@@ -161,6 +161,10 @@ $$f(i) = i \cdot h'(key)$$, where $$h'$$ is a second hash function. Rephrased, w
 
 ## Graphs
 
+### Adjacency List
+
+![Alt text](image-13.png)
+
 ### Dijkstra's Algorithm
 Runs in $$\mathcal{O}(V \log V + E \log V)$$ time using adjacency list with priority queue. Vertex-based. Runtime derivation:
 - $$\mathcal{O}(V \log V)$$ for the priority queue, since we are dealing with $$V$$ vertices and need to sort them by their path distance from the source.
