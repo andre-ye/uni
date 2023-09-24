@@ -12,7 +12,7 @@ has_children: true
 Philosophy of Feminism
 {: .fs-6 .fw-300 }
 
-Fourie
+Carina Fourie
 {: .label }
 
 Fall 2023
