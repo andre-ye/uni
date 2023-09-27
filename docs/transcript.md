@@ -9,6 +9,27 @@ nav_include: false
 # Transcript
 
 A complete list of the courses I have taken, are taking, or immediately will take at the University of Washington, ordered by quarter (most recent on top).
+Not including research credits and miscellany.
+
+## Fall 2023
+
+| Code | Course | Instructor | Credits |
+| --- | --- | --- | --- |
+| PHIL 406 | [Philosophy of Feminism](https://andre-ye.github.io/uni/docs/phil/phil-406){:target="_blank"} | Fourie | 5 |
+| PHIL 455 | [The Nature of Race](https://andre-ye.github.io/uni/docs/phil/phil-455){:target="_blank"} | Mendoza | 5 |
+| MATH 334 | [Accelerated Honors Advanced Calculus I](https://andre-ye.github.io/uni/docs/math/math-334){:target="_blank"} | Quan | 5 |
+| MATH 402 | [Introduction to Abstract Algebra I](https://andre-ye.github.io/uni/docs/math/math-402){:target="_blank"} | Viray | 3 |
+| --- | Total | --- | 18 |
+
+## Summer 2023
+
+| Code | Course | Instructor | Credits |
+| --- | --- | --- | --- |
+| CSE 331 | [Software Design and Implementation](https://andre-ye.github.io/uni/docs/cs/cse-331){:target="_blank"} | Pardeshi | 4 |
+| CSE 332 | [Data Structures and Parallelism](https://andre-ye.github.io/uni/docs/cs/cse-332){:target="_blank"} | Dodjana | 4 |
+| PHIL 407 | [International Justice](https://andre-ye.github.io/uni/docs/phil/phil-407){:target="_blank"} | Mendoza | 5 |
+| Independent | [Hegel Reading Group](https://uwphil.github.io/hegel-23su/){:target="_blank"} | Peters | n/a |
+| --- | Total | --- | 18 |
 
 ## Spring 2023
 

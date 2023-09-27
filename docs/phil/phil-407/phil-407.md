@@ -12,7 +12,7 @@ has_children: true
 International Justice
 {: .fs-6 .fw-300 }
 
-Mendez
+Mendoza
 {: .label }
 
 Summer 2023
