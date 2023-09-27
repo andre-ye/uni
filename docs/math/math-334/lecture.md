@@ -99,9 +99,16 @@ Notation
   - If $$f : A \to B$$ and $$g : B \to A$$, $$f$$ is invertible if $$\exists g: B \to A : g \circ f$$ s.t. $$A \to A$$ satisfies $$\forall x \in A, g \circ f(x) = x$$ an $$f \circ g: B \to B$$ satisfies $$\forall y \in B, f \circ g(y) = y$$. Basically: it sends every element back to itself.
     - Bijectivity implies invertability. 
     - $$g = f^{-1}$$
-
-Euclidean spaces and vectors
-
+- Euclidean spaces and vectors
+  - The reals $$\mathbb{R}$$
+  - We can also consider tuples of reals: $$\mathbb{R}^n$$ for $$n \in \mathbb{N}$$, the set of ordered tuples of reals. $$\mathbb{R}^n = \{(x_1, x_2, ..., x_n) \vert \forall j, x_j \in \mathbb{R}\}$$
+  - Vectors also used to describe $$n$$-tuples
+  - Vector arrows are menat to capture that an $$n$$-tuple can also describe a direction and magnitude
+  - The magnitude / norm of a vector / $$n$$-tuple is $$\Vert \vec{x} \Vert = \sqrt{x_1^2 + x_2^2 + ... + x_n^2}$$
+  - Vector addition: $$\vec{x} + \vec{y} = (x_1 + y_1, x_2 + y_2, ..., x_n + y_n)$$
+  - Scalar multiplication: $$\lambda \vec{x} = (\lambda x_1, \lambda x_2, ..., \lambda x_n)$$
+  - Dot product: $$\vec{x} \cdot \vec{y} = x_1 y_1 + x_2 y_2 + ... + x_n y_n$$
+  - Cauchy-Schwarz inequality: $$\vert \vec{x} \cdot \vec{y} \vert \leq \Vert \vec{x} \Vert \Vert \vec{y} \Vert$$
 
 
 
