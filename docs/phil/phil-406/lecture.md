@@ -25,4 +25,8 @@ PHIL 406
 
 ---
 
+## Week 1 Thursday: Syllabus and Introduction to Feminisms
+
+
+
 

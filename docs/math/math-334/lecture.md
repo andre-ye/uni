@@ -80,13 +80,13 @@ Notation
   - $$\mathbb{R}$$, the reals.
 - Set theory
   - $$\Omega$$, the universal set
-  - $$A \cup B = \{x \in \Omega \vert x \mid x \in A \vee x \in B\}$$
-  - $$A \cap B = \{x \in \Omega \vert x \mid x \in A \wedge x \in B\}$$
-  - $$A^C = \{x \in \Omega \vert x \mid x \notin A\}$$
-  - $$A \setminus B = \{x \in \Omega \vert x \mid x \in A \wedge x \notin B\}$$
+  - Union: $$A \cup B = \{x \in \Omega \vert x \mid x \in A \vee x \in B\}$$
+  - Intersection: $$A \cap B = \{x \in \Omega \vert x \mid x \in A \wedge x \in B\}$$
+  - Complement: $$A^C = \{x \in \Omega \vert x \mid x \notin A\}$$
+  - Set difference: $$A \setminus B = \{x \in \Omega \vert x \mid x \in A \wedge x \notin B\}$$
     - Can also be written as $$A \setminus B = A \cap B^C$$
-  - $$\bigcup_{j=1}^k A_j = A_1 \cup A_2 \cup ... \cup A_k = \{ x | \exists j, x \in A_j \}$$
-  - $$\bigcap_{j=1}^k A_j = A_1 \cap A_2 \cap ... \cap A_k = \{ x | \forall j, x \in A_j \}$$
+  - Big-Union: $$\bigcup_{j=1}^k A_j = A_1 \cup A_2 \cup ... \cup A_k = \{ x | \exists j, x \in A_j \}$$
+  - Big-Intersection: $$\bigcap_{j=1}^k A_j = A_1 \cap A_2 \cap ... \cap A_k = \{ x | \forall j, x \in A_j \}$$
 - Mappings and functions
   - *Function* from a set $$A$$ to a set $$B$$ is an assignment of every element in $$A$$ to exactly one element in $$B$$, denoted by $$f: A \to B$$
   - $$A$$: domain of $$f$$
@@ -98,7 +98,7 @@ Notation
   - If $$f: A \to B$$ and $$g : B \to C$$, we can write their composition as $$g \circ f : A \to C$$, where $$(g \circ f)(x) = g(f(x))$$. Requirement: the codomain of $$f$$ must be a subset of the domain of $$g$$.
   - If $$f : A \to B$$ and $$g : B \to A$$, $$f$$ is invertible if $$\exists g: B \to A : g \circ f$$ s.t. $$A \to A$$ satisfies $$\forall x \in A, g \circ f(x) = x$$ an $$f \circ g: B \to B$$ satisfies $$\forall y \in B, f \circ g(y) = y$$. Basically: it sends every element back to itself.
     - Bijectivity implies invertability. 
-    - $$g = f^{-1}$$
+    - Definition: $$g = f^{-1}$$
 - Euclidean spaces and vectors
   - The reals $$\mathbb{R}$$
   - We can also consider tuples of reals: $$\mathbb{R}^n$$ for $$n \in \mathbb{N}$$, the set of ordered tuples of reals. $$\mathbb{R}^n = \{(x_1, x_2, ..., x_n) \vert \forall j, x_j \in \mathbb{R}\}$$
@@ -107,8 +107,22 @@ Notation
   - The magnitude / norm of a vector / $$n$$-tuple is $$\Vert \vec{x} \Vert = \sqrt{x_1^2 + x_2^2 + ... + x_n^2}$$
   - Vector addition: $$\vec{x} + \vec{y} = (x_1 + y_1, x_2 + y_2, ..., x_n + y_n)$$
   - Scalar multiplication: $$\lambda \vec{x} = (\lambda x_1, \lambda x_2, ..., \lambda x_n)$$
-  - Dot product: $$\vec{x} \cdot \vec{y} = x_1 y_1 + x_2 y_2 + ... + x_n y_n$$
-  - Cauchy-Schwarz inequality: $$\vert \vec{x} \cdot \vec{y} \vert \leq \Vert \vec{x} \Vert \Vert \vec{y} \Vert$$
+  - Dot product / inner product: $$\vec{x} \cdot \vec{y} = x_1 y_1 + x_2 y_2 + ... + x_n y_n$$
+    - Note that the norm is defined in terms of a dot product: $$\Vert \vec{x} \Vert = \sqrt{\vec{x} \cdot \vec{x}}$$
+
+The Cauchy-Schwarz Inequality
+- If $$\vec{a}, \vec{b} \in \mathbb{R}^n$$, $$\vert \vec{a} \cdot \vec{b} \vert \leq \Vert \vec{a} \Vert \Vert \vec{b} \Vert$$
+- Going to be your best friend in this class
+- This proof, which seems to work only in Euclidean space, is very much broadly applicable.
+- Proof:
+  1. If $$\vec{b} = \vec{0}$$, then both sides are zero. The inequality holds.
+  2. Now, assume $$\vec{b} \neq \vec{0}$$. Consider the function $$f : \mathbb{R} \to \mathbb{R}_{\ge 0}$$ where $$f(t) = \vert \vert \vec{a} - t \vec{b} \vert \vert^2 = (\vert{a} \cdot t \vert{b}) \cdot (\vet{a} - t\vert{b}) = \vert \vert \vec{a} \vert \vert^2 - 2t (\vec{a} \cdot \vec{b}) + t^2 \vert \vert \vec{b} \vert \vert^2$$
+  3. This quadratic function has a minimum at $$t = \frac{\vec{a} \cdot \vec{b}}{\vert \vert b \vert \vert ^2}$$
+  4. Plugging this into $$f$$ gives you $$\vert \vert \vec{a} \vert \vert^2 - \frac{(\vc{a} \cdot \vec{b})^2}{\vert \vert \vec{b} \vert \vert^2}$$
+  5. Since $$f(t) \ge 0$$, $$\vert \vert \vec{a} \vert \vert^2 - \frac{(\vec{a} \cdot \vec{b})^2}{\vert \vert \vec{b} \vert \vert^2} \ge 0$$, so $$\vert \vert \vec{a} \vert \vert^2 \vert \vert \vec{b} \vert \vert^2 \ge (\vc{a} \cdot \vec{b})^2$$
+  6. Take square roots to get our inequality.
+
+
 
 
 
