@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Homework
-parent: MATH 402
+title: Concepts
+parent: MATH 334
 grand_parent: Mathematics
 nav_order: 10
 ---
 
-# Homework Files
+# Concepts
 {: .no_toc }
 
-MATH 402
+MATH 334
 {: .fs-6 .fw-300 }
 
 ---
@@ -24,5 +24,3 @@ MATH 402
 </details>
 
 ---
-
-Just FYI, my homeworks may be incorrect, and probably often are.

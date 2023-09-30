@@ -9,7 +9,7 @@ nav_order: 1
 # Reading Notes
 {: .no_toc }
 
-PHIL 334
+MATH 334
 {: .fs-6 .fw-300 }
 
 ---
