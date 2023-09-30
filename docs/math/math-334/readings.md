@@ -25,4 +25,13 @@ PHIL 334
 
 ---
 
+Textbook [link](https://sites.math.washington.edu//~folland/Homepage/AdvCalc2308.pdf){:target="_blank"}
+
+## Chapter 1: Setting the Stage
+Page 13
+
+### 1.2: Subsets of the Euclidean Space
+
+
+### 1.3: 
 

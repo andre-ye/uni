@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-nav_order: 1
+nav_order: -5
 description: "Notes from classes, research, speeches, student organizations, and more from the University of Washington."
 permalink: /
 ---
