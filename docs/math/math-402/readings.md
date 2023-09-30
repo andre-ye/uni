@@ -72,3 +72,96 @@ Proof:
 - $$d \vert a$$ and $$d \vert b$$
 - $$(c \vert a \wedge c \vert b)$$ implies $$c \vert d$$
 
+**Theorem 1.4.** If $$a \vert bc$$ and $$(a, b) = 1$$, then $$a \vert c$$.
+
+Proof:
+1. Since $$(a, b) = 1$$, $$au + bv = 1$$ for some $$u, v \in \mathbb{Z}$$
+2. Multiply by $$c$$: $$acu + bcv = c$$
+3. Since $$a \vert bc$$, $$bc = ar$$ for some $$r \in \mathbb{Z}$$
+4. Therefore,
+
+$$c = acu + bcv = acu + (ar) v = a(cu + rv)$$
+
+5. This shows $$a \vert c$$
+
+### 1.3: Primes and Unique Factorization
+
+- Every nonzero integer has four distinct divisors.
+- Integers with only four divisors are important:
+
+> An integer $$p$$ is prime if $$p \neq 0, \pm 1$$ and the only divisors of $$p$$ are $$\pm 1$$ and $$\pm p$$.
+
+- Becuase an integer $$p$$ has the same divisors as $$-p$$, $$p$$ is prime iff $$-p$$ is prime.
+- If $$p$$ and $$q$$ are prime and $$p \vert q$$, then $$p = \pm q$$
+
+**Theorem 1.5.** Let $$p$$ be an integer with $$p \neq 0, \pm 1$$. Then $$p$$ is prime iff whenever $$p \vert ab$$, $$p \vert b$$ or $$p \vert c$$.
+
+Proof.
+1. Suppose $$p$$ is prime and $$p \vert bc$$.
+  1. $$(p, b)$$ must be a positive divisor of the prime $$p$$.
+  2. If $$(p, b) = \pm p$$, $$p \vert b$$
+  3. If $$(p, b) = \pm 1$$, then $$p \vert c$$
+2. Suppose $$p \vert bc$$ implies $$p \vert b$$ or $$p \vert c$$.
+  1. ...
+
+**Corollary 1.6.** If $$p$$ is prime and $$p \vert a_1 a_2 ... a_n$$, then $$p$$ divides at least one of $$a_i$$.
+
+**Theorem 1.7.** Every integer $$n$$ except $$0, \pm 1$$ is the product of primes.
+
+Proof: Let $$S$$ be the set of integers greater than 1 that are not a product of primes. Show that $$S$$ is the empty set. Since there are no integers in $$S$$, every integer greater than 1 is a product of primes.
+
+1. Suppose $$S$$ is not empty.
+2. By the Well-Ordering Principle, $$S$$ has a smallest element, call it $$n$$.
+3. $$n$$ is not prime, so $$n = ab$$ for some integers $$a, b$$, where $$1 < a, b < n$$.
+4. Since $$n$$ is the smallest element of $$S$$, $$a$$ and $$b$$ are not in $$S$$.
+5. Therefore, $$a$$ and $$b$$ are products of primes.
+6. Therefore, $$n$$ is a product of primes.
+7. This contradicts the assumption that $$n$$ is not a product of primes.
+8. Therefore, $$S$$ is empty.
+
+**Theorem 1.8 (The Fundamental Theorem of Arithmetic).**  Every integer $$n$$ except $$0, \pm 1$$ is a product of primes. The prime factorization is unique:
+
+$$(n = p_1 p_2 ... p_n) \wedge (n = q_1 q_2 ... q_n) \implies p_1 = \pm q_1, p_2 = \pm q_2, ..., p_n \pm q_n$$
+
+Proof: 
+1. Eery integer $$n$$ except $$0, \pm 1$$ is a product of primes by Theorem 1.7.
+2. Suppose $$n$$ has two prime factorizations. Then,
+
+$$n = p_1 p_2 ... p_n = q_1 q_2 ... q_n$$
+
+3. We know that $$p_1 \vert q_1 q_2 ... q_n$$.
+4. $$p$$ must divide one of the $$q$$.
+5. After reordering, $$p_1 \vert q_1$$.
+6. Since $$p_1$$ and $$q_1$$ are prime, $$p_1 = \pm q_1$$.
+7. Therefore, replacing on the LHS:
+
+$$\pm q_1 p_2 p_3 ... p_n = q_1 q_2 q_3 ... q_n$$
+
+8. Dividing both sides by $$q_1$$ gives
+
+$$\pm p_2 p_3 ... p_n = q_2 q_3 ... q_n$$
+
+9. Continuing to eliminate one prime at each step, we get totaly equality.$$
+10. The lengths of the prime factorizations must be equal. If they were not, then we would get something like
+
+$$ \pm p_{r+1} p_{r+2} ... p_n = 1$$
+
+10. This is a contradiction because $$p_i = \pm 1$$ but is also prime.
+
+**Corollary 1.9.** Every integer $$n > 1$$ can be written in only one way in the form $$n = p_1 p_2 p_3 ... p_n$$, where the $$p_i$$ are primes and $$p_1 \le p_2 \le p_3 \le ... \le p_n$$.
+
+**Theorem 1.10.** Let $$n > 1$$. If $$n$$ has no positive prime factor less than or equal to $$\sqrt{n}$$, then $$n$$ is prime.
+
+---
+
+## Chapter 2: Congruence in $$\mathbb{Z}$$ and Modular Arithmetic
+
+### 2.1: Congruence and Congruence Classes
+- Congruence is a generalization of the equality relation.
+- Two integers are equal if their difference is zero or a multiple of zero.
+
+---
+
+## Chapter 3: Rings
+Page 42
+
