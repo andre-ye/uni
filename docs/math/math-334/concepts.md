@@ -24,3 +24,5 @@ MATH 334
 </details>
 
 ---
+
+<!-- **Theorem 1.9.** Suppose $$\mathbf{f} : \mathbb{R}^n \to \mathbf{R}^m$$ is continuous on $$U \subset \mathbf{R}^n$$ and $$\mathbf{g} : \mathbb{R}^m \to \mathbb{R}^k$$ is continuous on $$\mathbf{f} (U) \subset \mathbf{R}^m$$. Then the composite function $$\mathbf{g} \circ \mathbf{f} : U \to \mathbb{R}^k$$ is continuous on $$U$$. -->
