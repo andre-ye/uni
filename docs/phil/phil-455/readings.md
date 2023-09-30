@@ -110,7 +110,33 @@ Race is largely a product of the 19th century.
 - The highway of human progress
 - 1904 world's fair
 
+---
 
+## Week 2: The Concept of ``Race''
+
+### "Why There Are No Races", K. Anthony Appiah (1999)
+
+Introduction
+- Science does not have a clear answer on the existence of race
+- But statistics of genetic measures can be made to make differences large and small, whatever you want.
+- *Objection!* The question is if the genetic basis matters -- so if there indeed were a genetic basis for differences across races, does race exist?  
+- Language, moral affections, aesthetic attitudes, etc. are not biological determinned "to any significant degree" (??)
+- Confusion between two questions:
+  - Does biological difference account for our differences?
+  - Does biological similarity account for our similarities?
+- W.E.B. Du Bois -- life story is "an autobiography of a race concept"
+  - Importantly, we must "assimilate the unbiological nature of races"
+  - Du Bois -- not just concerned with the meaning of race, but the truth about it
+- Is our understanding of intellectual development of people a movement towards turth? Du Bois represents such an engagement with truth.
+
+"The Conservation of Races"
+- Du Bois' extended discussion of race in "The Conservation of Races" (1897)
+- The "American Negro" minimizes race discussions because its assumptions were wrong. Yet, human being *are* divided into races, even if we can't find exactly how.
+  - Appeal to science: two-three "great families" of human beings
+  - Yet unsatisfaction with century: what matter are not mere physical differences, but rather more elusive / "silent" differences.
+  - Du Bois: the history of the world is the history of races
+  - Movement from a scientific to a sociohistorical notion of race; there are 8 races (as they appear in our phenomena) -- Slavs, Teutons, English, Negroes, Romance race, Semites, Hindus, Mongolians.
+- What is the real distinction between races? Physical differences are part of it, but the deeper differences are spiritual, but transcendent of the physical.
 
 
 
