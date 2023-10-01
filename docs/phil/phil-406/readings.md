@@ -95,3 +95,51 @@ For Thursday, 9/28
 - Neofeminism for African feminism: from a philosophy of give-and-take and negotiation
   - Also: no-ego feminism
 - A question of agency, subjectivity, and power, including the power of self-identification.
+
+---
+
+## Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics, Kimberle Crenshaw (1989)
+
+- "All the Women Are White, All the Blacks Are Men, But Some of Us are Brave"
+- Problematic idea: treat race and gender as mutually exclusive categories of experience. Antidiscrimination law uses a single-axis framework.
+- Black women are erased in theory
+- Subordination is conceptualized as a vector along an axis of privilege
+- Race discrimination: focus is on wealthy Black men; sex discrimination: focus is on wealthy White women.
+- Is discrimination against Black women sex discrimination?
+- Supposed contradiction arises from the assumption that claims of exclusion are unidirectional.
+- Traffic intersection: traffic flows both ways.
+- Black women experience discrimination both similar to and different from white women and Black men.
+- Categorical analyses limit expressivity.
+
+The Significance of Doctrinal Treatment of Intersectionality
+
+- Common political and theoretical approach to discrimination which operates to marginalize Black women
+- Courts *and* feminist / civil rights thinkers. Black women are denied situation and centrality of their experiences. They are too much like women, too much like Blacks. 
+- This isn't just a lack of political will. It's a fundamental theoretical failing when thinking about discrimination.
+
+Fundamental question: What is the ontological category of race and gender? Is the focus unit a social group or is it the individual? And what does this mean epistemically, politically, ethically?
+What are the ontological commitments brought by discrimination?
+
+- How can you combine categories? How can you disentangle categories? Does intersectionality break with an "algorithmic" way of viewing discrimination, disparity?
+- Race and sex become significant only when they explicti disadvantage victims
+- Antidiscrimination law is not grounded in a bottom-up commitment to improve substantive conditions. It rather only regulates the extent to which certain protected features discriminate the determinations of outcomes
+- *Question!* What is the role of analogy in explaining this sort of stuff? Is it false, sneaky? Or does it change something?
+- "but for" analysis -- it doesn't consider other structural factors.
+- But is there something beyond the rational empiricst principle here? There is some sort of parallel to the prisoner's dillemma here.
+- Both feminist theory and antiracist politics end up being Black middle class or Black men
+- Black women become marginalized. Or even -- "wired in" by the birdcage.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
