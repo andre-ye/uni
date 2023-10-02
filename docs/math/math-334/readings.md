@@ -40,7 +40,7 @@ $$B(r, \mathbf{a}) = \{ \mathbf{x} \in \mathbb{R}^n \Vert \mathbf{x} - \mathbf{a
 - Complement of $$S$$: $$S^C = \mathbb{R}^n \setminus S$$
 - A point $$\mathbf{x} \in \mathbb{R}^n$$ is an interior point of $$S$$ if all points sufficiently close to $$\mathbf{x}$$ are also in $$S$$. That is, $$S$$ contains a ball centered at $$\mathbf{x}$$.
 
-$$S^{\text{int}} = \{ \mathbf{x} \in S : (B, r \mathbf{X}) \subset S \text{ for some } r > 0 \}
+$$S^{\text{int}} = \{ \mathbf{x} \in S : (B, r \mathbf{X}) \subset S \text{ for some } r > 0 \}$$
 
 - A point $$\mathbf{x} \in \mathbb{R}^n$$ is a boundary point of $$S$$ if every ball centered at $$\mathbf{x}$$ contains points in $$S$$ and points not in $$S$$.
 
@@ -71,7 +71,7 @@ $$\lim_{\mathbf{x} \to \mathbf{a}, \mathbf{x} \in S} f(\mathbf{x})$$
 - $$f$$ is continuous at $$\mathbf{a}$$ if $$\lim_{\mathbf{x} \to \mathbf{a}} f(\mathbf{x}) = f(\mathbf{a})$$
 - If $$f$$ is continuous at every point of $$U \subset \mathbb{R}^n$$, then $$f$$ is continuous on $$U$$.
 
-$$\forall \epsilon_{\epsilon \in \mathbb{R}^+} \forall \mathbf{a}_{\in U}  \exists \delta_{\delta \in \mathbb{R}^+ : \vert f(\mathbf{x}) - f(\mathbf{a}) \vert < \epsilon \text{ whenever } \vert \mathbf{x} - \mathbf{a} \vert < \delta$$
+$$\forall \epsilon_{\epsilon \in \mathbb{R}^+} \forall \mathbf{a}_{\in U}  \exists \delta_{\delta \in \mathbb{R}^+} : \vert f(\mathbf{x}) - f(\mathbf{a}) \vert < \epsilon \text{ whenever } \vert \mathbf{x} - \mathbf{a} \vert < \delta$$
 
 - Limits on vector-valued functions: $$\mathbf{f} : \mathbb{R}^n \to \mathbb{R}^m$$
 
@@ -87,9 +87,9 @@ $$\lim_{\mathbf{x} \to \mathbf{a}} \mathbf{f}(\mathbf{x}) = L \iff \lim_{\mathbf
 
 **Corollary 1.11.** The function $$f_3(x, y) = x-y$$ is continuous on $$\mathbb{R}^2$$, and the function $$f_4(x, y) = x / y$$ is continuous on $$\{(x, y) : y \neq 0 \}$$.
 
-**Corollary 1.12.** The sum, product, or difference of two continuosu functions is continuous; the quoeitn of two continuous functions is continuous on the set where the denominator is nonzero.
+**Corollary 1.12.** The sum, product, or difference of two continuosu functions is continuous; the quotient of two continuous functions is continuous on the set where the denominator is nonzero.
 
-**Theorem 1.13.** Suppose $$\mathbf{f} : \mathbb{R}^n \to \mathbf{R}^k$$ is continuous and $$u$$ \subset \mathbb{R}^k$$. Let $$S = \{ \mathbf{x} \in \mathbb{R}^n : \mathbf{f}(\mathbf{x}) \in U}$$. Then $$S$$ is open if $$U$$ is open and $$S$$ is closed if $$U$$ is closed.
+**Theorem 1.13.** Suppose $$\mathbf{f} : \mathbb{R}^n \to \mathbf{R}^k$$ is continuous and $$u$$ \subset \mathbb{R}^k$$. Let $$S = \{ \mathbf{x} \in \mathbb{R}^n : \mathbf{f}(\mathbf{x}) \in U\}$$. Then $$S$$ is open if $$U$$ is open and $$S$$ is closed if $$U$$ is closed.
 
 
 
