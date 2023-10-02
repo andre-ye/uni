@@ -120,7 +120,7 @@ The Cauchy-Schwarz Inequality
   2. Now, assume $$\vec{b} \neq \vec{0}$$. Consider the function $$f : \mathbb{R} \to \mathbb{R}_{\ge 0}$$ where $$f(t) = \vert \vert \vec{a} - t \vec{b} \vert \vert^2 = (\vert{a} \cdot t \vert{b}) \cdot (\vec{a} - t\vec{b}) = \vert \vert \vec{a} \vert \vert^2 - 2t (\vec{a} \cdot \vec{b}) + t^2 \vert \vert \vec{b} \vert \vert^2$$
   3. This quadratic function has a minimum at $$t = \frac{\vec{a} \cdot \vec{b}}{\vert \vert b \vert \vert ^2}$$
   4. Plugging this into $$f$$ gives you $$\vert \vert \vec{a} \vert \vert^2 - \frac{(\vc{a} \cdot \vec{b})^2}{\vert \vert \vec{b} \vert \vert^2}$$
-  5. Since $$f(t) \ge 0$$, $$\vert \vert \vec{a} \vert \vert^2 - \frac{(\vec{a} \cdot \vec{b})^2}{\vert \vert \vec{b} \vert \vert^2} \ge 0$$, so $$\vert \vert \vec{a} \vert \vert^2 \vert \vert \vec{b} \vert \vert^2 \ge (\vc{a} \cdot \vec{b})^2$$
+  5. Since $$f(t) \ge 0$$, $$\vert \vert \vec{a} \vert \vert^2 - \frac{(\vec{a} \cdot \vec{b})^2}{\vert \vert \vec{b} \vert \vert^2} \ge 0$$, so $$\vert \vert \vec{a} \vert \vert^2 \vert \vert \vec{b} \vert \vert^2 \ge (\vec{a} \cdot \vec{b})^2$$
   6. Take square roots to get our inequality.
 
 ---
