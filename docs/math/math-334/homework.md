@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Homework
-parent: MATH 402
+parent: MATH 334
 grand_parent: Mathematics
 nav_order: 10
 ---

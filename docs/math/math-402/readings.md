@@ -43,30 +43,30 @@ Textbook: *Abstract Algebra, an Introduction.* Thomas Hungerford. [Internet Arch
 Proof:
 1. Let $$S$$ be the set of all linear integral combinations of $$a, b$$: $$S = \{ am + bn \vert m, n \in \mathbb{Z} \}$$
 2. Find the smallest positive element of $$S$$.
-  1. $$a^2 + b^2 = aa + bb$$, $$aa + bb \in S$$, $$a^2 + b^2 \ge 0$$. 
-  2. $$S$$ must contain a smallest positive integer by the Well-Ordering Axiom.
-  3. Let $$t = au + bv$$ be the smallest positive element of $$S$$
+    1. $$a^2 + b^2 = aa + bb$$, $$aa + bb \in S$$, $$a^2 + b^2 \ge 0$$. 
+    2. $$S$$ must contain a smallest positive integer by the Well-Ordering Axiom.
+    3. Let $$t = au + bv$$ be the smallest positive element of $$S$$
 3. Prove that $$t = GCD(a, b)$$
-  1. Prove $$t \vert a$$ and $$t \vert b$$
-    1. By the Division Algorithm, $$\exists q, r \in mathbb{Z} : a = tq + r$$, where $$0 \le r < t$$.
-    2. Therefore, $$r = a - tq$$
-    3. Substituting: $$r = a - (au + bv)q$$
-    4. We get $$a - aqu - bvq$$ by expanding
-    5. Rearranging into linear combination: $$r = a(1 - qu) + b(-vq)$$
-    6. $$r \in S$$ because it is a linear combination of $$a, b$$
-    7. $$r < t$$, the smallest positive element of $$S$$
-    8. $$r \ge 0$$, so the only possibility is that $$r = 0$$
-    9. Therefore, $$t \vert a$$. Repeat argument to show $$t \vert b$$. 
-    10. $$t$$ is a common divisor of $$a$$$ and $$b$$.
-  2. Prove $$c \vert a$$ and $$c \vert b$$ implies $$c \vert t$$
-    1. Let $$c$$ be any common divisor of $$a$$ and $$b$$.
-    2. Then $$a = ck$$ and $$b = cs$$, where $$k, s \in \mathbb{Z}$$
-    3. Therefore, $$t = au + bv = (ck)u + (cs)v = c(ku + sv)$$
-    4. We know from this that $$c \vert t$$ 
-    5. $$c \le \vert t \vert$$: every divior of a nonzero integer $$a$$ is less than or equal to $$\vert a \vert$$
-    5. However, $$t$$ is positive.
-    6. Therefore, $$c \le t$$.
-    7. Therefore, $$t$$ is the greatest common divisor.
+    1. Prove $$t \vert a$$ and $$t \vert b$$
+        1. By the Division Algorithm, $$\exists q, r \in mathbb{Z} : a = tq + r$$, where $$0 \le r < t$$.
+        2. Therefore, $$r = a - tq$$
+        3. Substituting: $$r = a - (au + bv)q$$
+        4. We get $$a - aqu - bvq$$ by expanding
+        5. Rearranging into linear combination: $$r = a(1 - qu) + b(-vq)$$
+        6. $$r \in S$$ because it is a linear combination of $$a, b$$
+        7. $$r < t$$, the smallest positive element of $$S$$
+        8. $$r \ge 0$$, so the only possibility is that $$r = 0$$
+        9. Therefore, $$t \vert a$$. Repeat argument to show $$t \vert b$$. 
+        10. $$t$$ is a common divisor of $$a$$$ and $$b$$.
+    2. Prove $$c \vert a$$ and $$c \vert b$$ implies $$c \vert t$$
+        1. Let $$c$$ be any common divisor of $$a$$ and $$b$$.
+        2. Then $$a = ck$$ and $$b = cs$$, where $$k, s \in \mathbb{Z}$$
+        3. Therefore, $$t = au + bv = (ck)u + (cs)v = c(ku + sv)$$
+        4. We know from this that $$c \vert t$$ 
+        5. $$c \le \vert t \vert$$: every divior of a nonzero integer $$a$$ is less than or equal to $$\vert a \vert$$
+        5. However, $$t$$ is positive.
+        6. Therefore, $$c \le t$$.
+        7. Therefore, $$t$$ is the greatest common divisor.
 
 **Corollary 1.3.** Let $$a$$ and $$b$$ be integers, not both 0, and let $$d$$ be a positive integer. Then $$d$$ is the greatest common divisor of $$a$$ and $$b$$ if and only if $$d$$ satisfies these conditions:
 - $$d \vert a$$ and $$d \vert b$$
@@ -78,10 +78,7 @@ Proof:
 1. Since $$(a, b) = 1$$, $$au + bv = 1$$ for some $$u, v \in \mathbb{Z}$$
 2. Multiply by $$c$$: $$acu + bcv = c$$
 3. Since $$a \vert bc$$, $$bc = ar$$ for some $$r \in \mathbb{Z}$$
-4. Therefore,
-
-$$c = acu + bcv = acu + (ar) v = a(cu + rv)$$
-
+4. Therefore, $$c = acu + bcv = acu + (ar) v = a(cu + rv)$$
 5. This shows $$a \vert c$$
 
 ### 1.3: Primes and Unique Factorization
@@ -98,11 +95,11 @@ $$c = acu + bcv = acu + (ar) v = a(cu + rv)$$
 
 Proof.
 1. Suppose $$p$$ is prime and $$p \vert bc$$.
-  1. $$(p, b)$$ must be a positive divisor of the prime $$p$$.
-  2. If $$(p, b) = \pm p$$, $$p \vert b$$
-  3. If $$(p, b) = \pm 1$$, then $$p \vert c$$
+    1. $$(p, b)$$ must be a positive divisor of the prime $$p$$.
+    2. If $$(p, b) = \pm p$$, $$p \vert b$$
+    3. If $$(p, b) = \pm 1$$, then $$p \vert c$$
 2. Suppose $$p \vert bc$$ implies $$p \vert b$$ or $$p \vert c$$.
-  1. ...
+    1. ...
 
 **Corollary 1.6.** If $$p$$ is prime and $$p \vert a_1 a_2 ... a_n$$, then $$p$$ divides at least one of $$a_i$$.
 
@@ -133,19 +130,10 @@ $$n = p_1 p_2 ... p_n = q_1 q_2 ... q_n$$
 4. $$p$$ must divide one of the $$q$$.
 5. After reordering, $$p_1 \vert q_1$$.
 6. Since $$p_1$$ and $$q_1$$ are prime, $$p_1 = \pm q_1$$.
-7. Therefore, replacing on the LHS:
-
-$$\pm q_1 p_2 p_3 ... p_n = q_1 q_2 q_3 ... q_n$$
-
-8. Dividing both sides by $$q_1$$ gives
-
-$$\pm p_2 p_3 ... p_n = q_2 q_3 ... q_n$$
-
+7. Therefore, replacing on the LHS: $$\pm q_1 p_2 p_3 ... p_n = q_1 q_2 q_3 ... q_n$$
+8. Dividing both sides by $$q_1$$ gives $$\pm p_2 p_3 ... p_n = q_2 q_3 ... q_n$$
 9. Continuing to eliminate one prime at each step, we get totaly equality.$$
-10. The lengths of the prime factorizations must be equal. If they were not, then we would get something like
-
-$$ \pm p_{r+1} p_{r+2} ... p_n = 1$$
-
+10. The lengths of the prime factorizations must be equal. If they were not, then we would get something like $$ \pm p_{r+1} p_{r+2} ... p_n = 1$$
 10. This is a contradiction because $$p_i = \pm 1$$ but is also prime.
 
 **Corollary 1.9.** Every integer $$n > 1$$ can be written in only one way in the form $$n = p_1 p_2 p_3 ... p_n$$, where the $$p_i$$ are primes and $$p_1 \le p_2 \le p_3 \le ... \le p_n$$.
