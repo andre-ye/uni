@@ -119,7 +119,7 @@ The Cauchy-Schwarz Inequality
   1. If $$\vec{b} = \vec{0}$$, then both sides are zero. The inequality holds.
   2. Now, assume $$\vec{b} \neq \vec{0}$$. Consider the function $$f : \mathbb{R} \to \mathbb{R}_{\ge 0}$$ where $$f(t) = \vert \vert \vec{a} - t \vec{b} \vert \vert^2 = (\vert{a} \cdot t \vert{b}) \cdot (\vec{a} - t\vec{b}) = \vert \vert \vec{a} \vert \vert^2 - 2t (\vec{a} \cdot \vec{b}) + t^2 \vert \vert \vec{b} \vert \vert^2$$
   3. This quadratic function has a minimum at $$t = \frac{\vec{a} \cdot \vec{b}}{\vert \vert b \vert \vert ^2}$$
-  4. Plugging this into $$f$$ gives you $$\vert \vert \vec{a} \vert \vert^2 - \frac{(\vc{a} \cdot \vec{b})^2}{\vert \vert \vec{b} \vert \vert^2}$$
+  4. Plugging this into $$f$$ gives you $$\vert \vert \vec{a} \vert \vert^2 - \frac{(\vec{a} \cdot \vec{b})^2}{\vert \vert \vec{b} \vert \vert^2}$$
   5. Since $$f(t) \ge 0$$, $$\vert \vert \vec{a} \vert \vert^2 - \frac{(\vec{a} \cdot \vec{b})^2}{\vert \vert \vec{b} \vert \vert^2} \ge 0$$, so $$\vert \vert \vec{a} \vert \vert^2 \vert \vert \vec{b} \vert \vert^2 \ge (\vec{a} \cdot \vec{b})^2$$
   6. Take square roots to get our inequality.
 
@@ -136,7 +136,7 @@ The Cauchy-Schwarz Inequality
   - Why is it called the triangle inequality?
     - Define distance between two vectors using a norm: it's faster to go along the direct line ('hypotenuse') than the legs of the triangle
     - Formally: $$d(\vec{a}, \vec{b}) = \| \vec{a} - \vec{b} \| = \sqrt{(a_1 - y_1)^2 + (x_2 - y_2)^2 + ... } $$
-- We use $$\vec{x} \cdot \vec{y}$$ or $$\langle \vec{x}, \vec{y} \rangle$ to denote the dot product
+- We use $$\vec{x} \cdot \vec{y}$$ or $$\langle \vec{x}, \vec{y} \rangle$$ to denote the dot product
 - The angle between vectors describes some plane. By the Cauchy-Schwartz theorem, $$\frac{\vec{ x} \cdot \vec{y}}{\| \vec{x} \| \|\vec{y} \|}$$ is between $$-1$$ and $$1$$, so it is a cosine. Therefore, $$\cos \theta_{\vec{x}, \vec{y}} = \frac{\vec{x} \cdot \vec{y}}{\| \vec{x} \| \| \vec{y} \|}$$
   - $$\vec{x}, \vec{y}$$ are perpendicular iff $$\vec{x} \cdot \vec{y} = 0$$, in which case they are orthogonal.
   - As soon as you have a notion of inner product, you can define the angle between vectors.
@@ -178,8 +178,8 @@ $$S^\text{int} = \{ \vec{x} \in S \vert \exists r > 0, B_r(\vec{x}) \subset S \}
     2. $$S$$ is open iff every point is interior.
     3. $$S = \bar{S} = S \cup \partial S \iff \partial S \subset S \implies \partial(S^C) \subset S$$ (boundaries are shared between a set and its complement) $$\iff S^C$$ contains no boundary points
   - Example:
-    - If $$S = \nullset$$, this is a set which is both open and closed.
-    - If $$S = \mathbb{Q}$$, the set of fractions, this set is neither open nor closed. The interior is empty, $$S^{\text{int}} = \nullset$$; yet the closure of $$S$$ is $$\mathbb{R}$$, so $$S$$ is not closed.
+    - If $$S = \emptyset$$, this is a set which is both open and closed.
+    - If $$S = \mathbb{Q}$$, the set of fractions, this set is neither open nor closed. The interior is empty, $$S^{\text{int}} = \emptyset$$; yet the closure of $$S$$ is $$\mathbb{R}$$, so $$S$$ is not closed.
   
 Limits
 - "You can't lift your pencil"
