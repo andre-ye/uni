@@ -150,10 +150,35 @@ Subsets of $$\mathbb{R}^n$$ - introduction to topology
 - What do you need to describe a space? You need to say when points are near, and you don't need to do so quantiatively. 
 - Definition: Let $$\vec{y}$$ be a point in $$\mathbb{R}^n$$ and $$r > 0$$. Define an open ball $$B_r(\vec{y})$$ to be the collection of all points in $$\mathbb{R}^n$$ such that the distance from every point to the center is less than $$r$$.
   - Formally: $$B_r(\vec{y}) = \{ \vec{x} \in \mathbb{R}^n \vert | \vec{x} - \vec{y} | < r \}$$
+- A set $$S \subset \mathbb{R}^n$$ is bounded if it is contained in some ball centered at the origin $$\vec{0}$$. There exists a sufficiently large radius for an enclosing ball.
+- Definition: a point $$\vec{x} \in \mathbb{R}^n$$ is an interior point of $$S$$ if there exists a ball centered at some point which is strictly contained in that set, where $$\vec{x}$$ is contained in that ball.
+- Definition: the set of points in $$S$$ which are interior points of $$S$$ is called the interior of $$S$$, denoted $$S^\text{int}$$.
 
+$$S^\text{int} = \{ \vec{x} \in S \vert \exists r > 0, B_r(\vec{x}) \subset S \}$$
 
-
-
+- Examples of interiors:
+  - If $$S = Br(\vec{y})$$, then $$S^\text{int} = S$$
+  - If $$S = \{ \frac{1}{n} \in \mathbb{R} \vec n \in \mathbb{N} \}$$ (subset of a line), then $$S^\text{int} = \emptyset$$, since there is no ball around any point which is contained in $$S$$. Also note that $$0 \notin S$$.
+- Definition: a point $$\vec{x} \in \mathbb{R}^n$$ is a boundary point of $$S$$ if every ball centered at $$\vec{x}$$ contains a point in $$S$$ and a point not in $$S$$.
+- Definition: the set of boundary points of $$S$$ is called the boundary of $$S$$, denoted $$\partial S$$.
+  - Example 1: if $$S = Br(\vec{y})$$, $$\partial S = \{ \vec{x} \in \mathbb{R}^n \vert | \vec{x} - \vec{y} | = r \}$$, the sphere of radius $$r$$ centered at $$\vec{y}$$.
+  - Example 2: if $$S = \{ \frac{1}{n} \in \mathbb{R} \vert n \in \mathbb{N} \}$$, the boundary is $$\{ 0 \}$$. This is because every ball around $$0$$ contains points in $$S$$ and points not in $$S$$. **Or maybe not... depends on if you need to look at the center or not.** Otherwise the definition is kind of empty... need to clarify.
+- Definition: the closure of a set $$\bar{S} = S \cup \partial S$$. The closure is the set of all points in $$S$$ and all boundary points of $$S$$.
+  - Example 1: if $$S = Br(\vec{y})$$, then $$\bar{S} = \{ \vec{x} \in \mathbb{R}^n \vert | \vec{x} - \vec{y} | \le r \}$$, the closed ball of radius $$r$$ centered at $$\vec{y}$$.
+  - Example 2: if $$S = \{ \frac{1}{n} \in \mathbb{R} \vert n \in \mathbb{N} \}$$, then $$\bar{S} = S \cup \{ 0 \}$$.
+- Definition: $$S$$ is open if it contains no boundary points. $$S$$ is closed if it contains all of its boundary points.
+  - Example 1: $$Br(\vec{y})$$ is open
+  - Example 2: $$\{ \frac{1}{n} \in \mathbb{R} \vert n \in \mathbb{N} \}$$ is closed
+  - Example 3: $$\{ \frac{1}{n} \in \mathbb{R} \vert n \in \mathbb{N} \} \cup \{ 0 \}$$ is neither open nor closed
+- Proposition: If $$S \subset \mathbb{R}^n$$,
+  - $$S$$ is open iff it is equal to its interior
+  - $$S$$ is closed iff its complement is open
+  - Proof:
+    1. An element of $$S$$ is iether an interior point or a boundary point.
+    2. $$S$$ is open iff every point is interior.
+    3. $$S = \bar{S} = S \cup \partial S \iff \partial S \subset S \implies \partial(S^C) \subset S$$ (boundaries are shared between a set and its complement) $$\iff S^C$$ contains no boundary points
+  - Example:
+    - If $$S = \nullset$$, this is a set which is both open and closed.
 
 
 
