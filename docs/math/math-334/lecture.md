@@ -179,6 +179,48 @@ $$S^\text{int} = \{ \vec{x} \in S \vert \exists r > 0, B_r(\vec{x}) \subset S \}
     3. $$S = \bar{S} = S \cup \partial S \iff \partial S \subset S \implies \partial(S^C) \subset S$$ (boundaries are shared between a set and its complement) $$\iff S^C$$ contains no boundary points
   - Example:
     - If $$S = \nullset$$, this is a set which is both open and closed.
+    - If $$S = \mathbb{Q}$$, the set of fractions, this set is neither open nor closed. The interior is empty, $$S^{\text{int}} = \nullset$$; yet the closure of $$S$$ is $$\mathbb{R}$$, so $$S$$ is not closed.
+  
+Limits
+- "You can't lift your pencil"
+- Definition: let $$f: \mathbb{R}^n \to \mathbb{R}$$ be a real-valued function.
+
+$$\lim_{\vec{x} \to \vec{a}} = L \text{ if } \forall \epsilon_{> 0}, \exists \delta_{> 0} : \vert f(\vec{x}) - L \vert < \epsilon \text{ whenever } \Vert \vec{x} - \vec{a} \Vert < \delta$$
+
+- $$a$$ whenever $$b$$: $$b \to a$$
+- We can replace $$\Vert \vec{x} - \vec{a} \Vert < \delta$$ with the $$L^\infty$$ norm:
+
+$$\Vert \vec{x} - \vec{a} \Vert_{\infty} = \max \{ \vert x_1 - a_1 \vert, ..., \vert x_n - a_n \vert \} < \frac{\delta}{\sqrt{n}}$$
+
+- You can also consider a limit on a subset, $$f : S \sub \mathbb{R}^n \to \mathbb{R}$$.
+
+$$\lim_{{\vec{x} \to \vec{a}}_{\vec{x} \in S}} f(\vec{x}) = L \text{ if } \forall \epsilon_{> 0}, \exists \delta_{> 0} : \vert f(\vec{x}) - L \vert < \epsilon \text{ whenever } \Vert \vec{x} - \vec{a} \Vert < \delta \text{ and } \vec{x} \in S$$
+
+Continuity
+- Definition: $$f(\vec{x})$$ is continuous at $$\vec{a}$$ if the limit as $$\vec{x}$$ approaches $$\vec{a}$$ of $$f(\vec{x})$$, and $$f(\vec{a})$$, both exist and are equal.
+- Definitions also make sense for vector-valued functions: you can go from $$\mathbb{R}^n$$ to $$\mathbb{R}^m$$. All you need is a corresponding notion of norm, which you do in any Euclidean space / dimension. The only thing that changes is to replace $$\Vert f(\vec{x}) - \vec{L} \Vert_n < \epsilon$$, where $$n$$ is the dimension of the value space.
+  - Alternatively, you can find the limit of each indvididual component, considering the sub-function $$f_{j}: \mathbb{R}^m \to \mathbb{R} \sub \mathbb{R}^n$$.
+- The notion of "getting close" is very subtle in high dimensions -- it's harder than just taking left and right limits.
+  - Example 1: $$f : \mathbb{R}^2 \to \mathbb{R}, f(x, y) = \frac{xy}{x^2 + y^2}$$. This function is everywhere bounded. $$\vec f(x, y) \vec \le 2$$. A consequence of Cauchy-Schwartz. But the function fails to be continuous at the origin. The limit as $$\vec{x} \to \vec{0}$$ does not exist. By taking linear lines of approach, the line is constant, but the line in particular changes this constant value
+- Theorem. Let $$f_1(x, y) = x+ y$$, $$f_2(x, y) = xy$$, $$g(x) = \frac{1}{x}$$. $$f_1, f_2 : \mathbb{R}^2 \to \mathbb{R}$$; $$g: \mathbb{R} \setdifference \{0\} \to \mathbb{R}$$. Proof:
+  1. Let $$(a, b) \in \mathbb{R}^2$$
+  2. Given $$\epsilon > 0$$, we must show that there exists some $$\delta$$ such that if $$\vert x - a \vert < \delta$$ and $$\vert y - b \vert < \delta$$, then $$ \vert (x + y) - (a + b) \vert < \epsilon$$. 
+  3. Let us choose $$\delta = \frac{1}{2} \epsilon$$.
+  4. $$\vert (x + y) - (a + b) \vert = \vert (x - a) + (y - b) \vert \le \vert (x -a ) \vert + \vert (y - b) \vert$$. Via triangle inequality
+  5. We have that $$\delta + \delta = \frac{\epsilon}{2} + \frac{\epsilon}{2} = \epsilon$$.
+  6. **Revisit proof!**
+- *Theorem. Say $$f : \mathbb{R}^n \to \mathbb{R}^m$$ and $$g = \mathbb{R}^m \to \mathbb{R}^k$$. If $$f$$ and $$g$$ are continuous at $$\vec{a}$$, then $$g \circ f$$ is continuous at $$\vec{a}$$. Proof:*
+  1. Let $$\epsilon > 0$$.
+  2. Since $$g$$ is continuous at $$f(\vec{a})$$, there exists $$\delta_1 > 0$$ such that $$\Vert g(\vec{y}) - g(f(\vec{a})) \Vert < \epsilon$$ whenever $$\Vert \vec{y} - f(\vec{a}) \Vert < \delta_1$$.
+  3. Since $$f$$ is continuous at $$\vec{a}$$, there exists $$\delta_2 > 0$$ such that $$\Vert f(\vec{x}) - f(\vec{a}) \Vert < \delta_1$$ whenever $$\Vert \vec{x} - \vec{a} \Vert < \delta_2$$.
+  4. Let $$\delta = \delta_2$$.
+  5. Then $$\Vert g(f(\vec{x})) - g(f(\vec{a})) \Vert < \epsilon$$ whenever $$\Vert \vec{x} - \vec{a} \Vert < \delta$$.
+- Later, with sequences: $$a_n = 2a_{n-1} - a_n-2 + 2$$. Claim: $$a_n = n^2$$. You can prove this with induction.
+
+
+
+
+
 
 
 
