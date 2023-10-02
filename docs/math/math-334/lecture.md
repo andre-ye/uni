@@ -25,7 +25,8 @@ MATH 334
 
 ---
 
-## Lecture 1:
+## Lecture 1: Background and Notation
+
 - Plan for fall -- chapters 1 to 4 of the Folland textbook
 - Pre-midterm I: chapter 1
 - Pre-midterm 2: chapters 2 and 3
@@ -122,8 +123,33 @@ The Cauchy-Schwarz Inequality
   5. Since $$f(t) \ge 0$$, $$\vert \vert \vec{a} \vert \vert^2 - \frac{(\vec{a} \cdot \vec{b})^2}{\vert \vert \vec{b} \vert \vert^2} \ge 0$$, so $$\vert \vert \vec{a} \vert \vert^2 \vert \vert \vec{b} \vert \vert^2 \ge (\vc{a} \cdot \vec{b})^2$$
   6. Take square roots to get our inequality.
 
+---
 
+## Lecture 2: Euclidean Spaces, Open Sets, Limits and Continuity, Sequences
 
+- Triangle inequality: $$\forall \vec{a}, \vec{b} \in \mathbb{R}^n$$, $$| \vec{a} + \vec{b} | \le | \vec{a} | + | \vec{b} |$$
+  - Norm of sum is less than or equal to the sum of the norms
+  - Proof
+    1. Since $$(| \vec{a} + \vec{b} |)^2 = (\vec{a} + \vec{b}) \cdot (\vec{a} + \vec{b}) = |a|^2 + 2\vec{a}\vec{b} + |b|^2$$
+    2. Appplying CS to the middle term: $$ \le | \vec{a} |^2 + 2 | \vec{a} | | \vec{b} | + | \vec{b} |^2$$
+    3. Simplify: $$( | \vec{a} | + | \vec{b} |)^2$$
+  - Why is it called the triangle inequality?
+    - Define distance between two vectors using a norm: it's faster to go along the direct line ('hypotenuse') than the legs of the triangle
+    - Formally: $$d(\vec{a}, \vec{b}) = | \vec{a} - \vec{b} | = \sqrt{(a_1 - y_1)^2 + (x_2 - y_2)^2 + ... } $$
+- We use $$\vec{x} \cdot \vec{y}$$ or $$\langle \vec{x}, \vec{y} \rangle$ to denote the dot product
+- The angle between vectors describes some plane. By the Cauchy-Schwartz theorem, $$\frac{\vec{ x} \cdot \vec{y}}{| \vec{x} | |\vec{y} |}$$ is between $$-1$$ and $$1$$, so it is a cosine. Therefore, $$\cos \theta_{\vec{x}, \vec{y}} = \frac{\vec{x} \cdot \vec{y}}{| \vec{x} | | \vec{y} |}$$
+  - $$\vec{x}, \vec{y}$$ are perpendicular iff $$\vec{x} \cdot \vec{y} = 0$$, in which case they are orthogonal.
+  - As soon as you have a notion of inner product, you can define the angle between vectors.
+- Useful inequality: if you have a vector $$\vec{x} \in \mathbb{R}^n$$, $$\vec{x} = (x_1, ..., x_n)$$, then its maximum of the absolute value of the vector is less than the norm of $$\vec{x}$$, and itself less than $$\sqrt{n} max \{ \vert x_1 \vert, ..., \vert x_n \vert \}$$.
+  - $$| \vec{x} |_{\infty} = max \{ \vert x_1 \vert, ..., \vert x_n \vert \}$$, called the $$L^\infty$$ norm.
+  - This is to be contrasted with the usual L-2 norm, $$ \Vert \vec{x} \Vert_2$$, which is the square root of the sum of the squares of the components.
+  - Norms are generalizable across vector spaces.
+
+Subsets of $$\mathbb{R}^n$$ - introduction to topology
+- Topology tries to abstract the notion of "nearness" or "closeness" in a space, without specific notions of angle, length, etc.
+- What do you need to describe a space? You need to say when points are near, and you don't need to do so quantiatively. 
+- Definition: Let $$\vec{y}$$ be a point in $$\mathbb{R}^n$$ and $$r > 0$$. Define an open ball $$B_r(\vec{y})$$ to be the collection of all points in $$\mathbb{R}^n$$ such that the distance from every point to the center is less than $$r$$.
+  - Formally: $$B_r(\vec{y}) = \{ \vec{x} \in \mathbb{R}^n \vert | \vec{x} - \vec{y} | < r \}$$
 
 
 
