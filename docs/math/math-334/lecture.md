@@ -56,7 +56,7 @@ Historical Background
   - Notice that $$\cos \left( \frac{(2n-1) \pi (x+2)}{2} \right) = \cos \left( \frac{(2n-1) \pi x}{2} + (2n-1) \pi \right)$$: this amounts to a phase shift of $$\pi$$ in each instance
   - Therefore you could write $$-1$$ simply by shifting, so the formula is the same but the interval is now $$(1, 3)$$
   - All you did was add continuous things, but you got something totally noncontinuous...
-- Response to Fourier: this is not a functio. If you could call that a function and consider it a representation of such a familiar function, maybe Weierstrauss was onto something when he claimed $$W(x) = \cos(\pi x) + \frac{1}{2} \cos (13 \pi x) + \frac{1}{4} \cos (169 \pi x) + ... = \sum_{j=0}^\infty \frac{\cos(13^j \pi x)}{2^j}$$. 
+- Response to Fourier: this is not a function. If you could call that a function and consider it a representation of such a familiar function, maybe Weierstrauss was onto something when he claimed $$W(x) = \cos(\pi x) + \frac{1}{2} \cos (13 \pi x) + \frac{1}{4} \cos (169 \pi x) + ... = \sum_{j=0}^\infty \frac{\cos(13^j \pi x)}{2^j}$$. 
   - This series converges and is a function
   - It is continuous in $$x$$
   - It is differentiable nowhere -- why can't I just take the derivatives of each term? -- you can't
@@ -74,7 +74,7 @@ Notation
 - Basic
   - $$\forall$$, for all
   - $$\exists$$, there exists
-  - $$\sum_{n=1}^k a_n = a_1 + a_2 + ... + a_k$$
+  - Summation: $$\sum_{n=1}^k a_n = a_1 + a_2 + ... + a_k$$
   - $$\mathbb{N}$$, the naturals / whole numbers. $$\mathbb{N} = \{1, 2, 3, ...\}$$
   - $$\mathbb{Z}$$, the integers. $$\mathbb{Z} = \{..., -2, -1, 0, 1, 2, ...\}$$
   - $$\mathbb{Q}$$, the rationals. $$\mathbb{Q} = \left\{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\}$$
@@ -86,8 +86,8 @@ Notation
   - Complement: $$A^C = \{x \in \Omega \vert x \mid x \notin A\}$$
   - Set difference: $$A \setminus B = \{x \in \Omega \vert x \mid x \in A \wedge x \notin B\}$$
     - Can also be written as $$A \setminus B = A \cap B^C$$
-  - Big-Union: $$\bigcup_{j=1}^k A_j = A_1 \cup A_2 \cup ... \cup A_k = \{ x | \exists j, x \in A_j \}$$
-  - Big-Intersection: $$\bigcap_{j=1}^k A_j = A_1 \cap A_2 \cap ... \cap A_k = \{ x | \forall j, x \in A_j \}$$
+  - Big-Union: $$\bigcup_{j=1}^k A_j = A_1 \cup A_2 \cup ... \cup A_k = \{ x \| \exists j, x \in A_j \}$$
+  - Big-Intersection: $$\bigcap_{j=1}^k A_j = A_1 \cap A_2 \cap ... \cap A_k = \{ x \| \forall j, x \in A_j \}$$
 - Mappings and functions
   - *Function* from a set $$A$$ to a set $$B$$ is an assignment of every element in $$A$$ to exactly one element in $$B$$, denoted by $$f: A \to B$$
   - $$A$$: domain of $$f$$
@@ -127,21 +127,21 @@ The Cauchy-Schwarz Inequality
 
 ## Lecture 2: Euclidean Spaces, Open Sets, Limits and Continuity, Sequences
 
-- Triangle inequality: $$\forall \vec{a}, \vec{b} \in \mathbb{R}^n$$, $$| \vec{a} + \vec{b} | \le | \vec{a} | + | \vec{b} |$$
+- Triangle inequality: $$\forall \vec{a}, \vec{b} \in \mathbb{R}^n$$, $$\| \vec{a} + \vec{b} \| \le \| \vec{a} \| + \| \vec{b} \|$$
   - Norm of sum is less than or equal to the sum of the norms
   - Proof
-    1. Since $$(| \vec{a} + \vec{b} |)^2 = (\vec{a} + \vec{b}) \cdot (\vec{a} + \vec{b}) = |a|^2 + 2\vec{a}\vec{b} + |b|^2$$
-    2. Appplying CS to the middle term: $$ \le | \vec{a} |^2 + 2 | \vec{a} | | \vec{b} | + | \vec{b} |^2$$
-    3. Simplify: $$( | \vec{a} | + | \vec{b} |)^2$$
+    1. Since $$(\| \vec{a} + \vec{b} \|)^2 = (\vec{a} + \vec{b}) \cdot (\vec{a} + \vec{b}) = \|a\|^2 + 2\vec{a}\vec{b} + \|b\|^2$$
+    2. Appplying CS to the middle term: $$ \le \| \vec{a} \|^2 + 2 \| \vec{a} \| \| \vec{b} \| + \| \vec{b} \|^2$$
+    3. Simplify: $$( \| \vec{a} \| + \| \vec{b} \|)^2$$
   - Why is it called the triangle inequality?
     - Define distance between two vectors using a norm: it's faster to go along the direct line ('hypotenuse') than the legs of the triangle
-    - Formally: $$d(\vec{a}, \vec{b}) = | \vec{a} - \vec{b} | = \sqrt{(a_1 - y_1)^2 + (x_2 - y_2)^2 + ... } $$
+    - Formally: $$d(\vec{a}, \vec{b}) = \| \vec{a} - \vec{b} \| = \sqrt{(a_1 - y_1)^2 + (x_2 - y_2)^2 + ... } $$
 - We use $$\vec{x} \cdot \vec{y}$$ or $$\langle \vec{x}, \vec{y} \rangle$ to denote the dot product
-- The angle between vectors describes some plane. By the Cauchy-Schwartz theorem, $$\frac{\vec{ x} \cdot \vec{y}}{| \vec{x} | |\vec{y} |}$$ is between $$-1$$ and $$1$$, so it is a cosine. Therefore, $$\cos \theta_{\vec{x}, \vec{y}} = \frac{\vec{x} \cdot \vec{y}}{| \vec{x} | | \vec{y} |}$$
+- The angle between vectors describes some plane. By the Cauchy-Schwartz theorem, $$\frac{\vec{ x} \cdot \vec{y}}{\| \vec{x} \| \|\vec{y} \|}$$ is between $$-1$$ and $$1$$, so it is a cosine. Therefore, $$\cos \theta_{\vec{x}, \vec{y}} = \frac{\vec{x} \cdot \vec{y}}{\| \vec{x} \| \| \vec{y} \|}$$
   - $$\vec{x}, \vec{y}$$ are perpendicular iff $$\vec{x} \cdot \vec{y} = 0$$, in which case they are orthogonal.
   - As soon as you have a notion of inner product, you can define the angle between vectors.
 - Useful inequality: if you have a vector $$\vec{x} \in \mathbb{R}^n$$, $$\vec{x} = (x_1, ..., x_n)$$, then its maximum of the absolute value of the vector is less than the norm of $$\vec{x}$$, and itself less than $$\sqrt{n} max \{ \vert x_1 \vert, ..., \vert x_n \vert \}$$.
-  - $$| \vec{x} |_{\infty} = max \{ \vert x_1 \vert, ..., \vert x_n \vert \}$$, called the $$L^\infty$$ norm.
+  - $$\| \vec{x} \|_{\infty} = max \{ \vert x_1 \vert, ..., \vert x_n \vert \}$$, called the $$L^\infty$$ norm.
   - This is to be contrasted with the usual L-2 norm, $$ \Vert \vec{x} \Vert_2$$, which is the square root of the sum of the squares of the components.
   - Norms are generalizable across vector spaces.
 
@@ -149,7 +149,7 @@ Subsets of $$\mathbb{R}^n$$ - introduction to topology
 - Topology tries to abstract the notion of "nearness" or "closeness" in a space, without specific notions of angle, length, etc.
 - What do you need to describe a space? You need to say when points are near, and you don't need to do so quantiatively. 
 - Definition: Let $$\vec{y}$$ be a point in $$\mathbb{R}^n$$ and $$r > 0$$. Define an open ball $$B_r(\vec{y})$$ to be the collection of all points in $$\mathbb{R}^n$$ such that the distance from every point to the center is less than $$r$$.
-  - Formally: $$B_r(\vec{y}) = \{ \vec{x} \in \mathbb{R}^n \vert | \vec{x} - \vec{y} | < r \}$$
+  - Formally: $$B_r(\vec{y}) = \{ \vec{x} \in \mathbb{R}^n \vert \| \vec{x} - \vec{y} \| < r \}$$
 - A set $$S \subset \mathbb{R}^n$$ is bounded if it is contained in some ball centered at the origin $$\vec{0}$$. There exists a sufficiently large radius for an enclosing ball.
 - Definition: a point $$\vec{x} \in \mathbb{R}^n$$ is an interior point of $$S$$ if there exists a ball centered at some point which is strictly contained in that set, where $$\vec{x}$$ is contained in that ball.
 - Definition: the set of points in $$S$$ which are interior points of $$S$$ is called the interior of $$S$$, denoted $$S^\text{int}$$.
@@ -161,10 +161,10 @@ $$S^\text{int} = \{ \vec{x} \in S \vert \exists r > 0, B_r(\vec{x}) \subset S \}
   - If $$S = \{ \frac{1}{n} \in \mathbb{R} \vec n \in \mathbb{N} \}$$ (subset of a line), then $$S^\text{int} = \emptyset$$, since there is no ball around any point which is contained in $$S$$. Also note that $$0 \notin S$$.
 - Definition: a point $$\vec{x} \in \mathbb{R}^n$$ is a boundary point of $$S$$ if every ball centered at $$\vec{x}$$ contains a point in $$S$$ and a point not in $$S$$.
 - Definition: the set of boundary points of $$S$$ is called the boundary of $$S$$, denoted $$\partial S$$.
-  - Example 1: if $$S = Br(\vec{y})$$, $$\partial S = \{ \vec{x} \in \mathbb{R}^n \vert | \vec{x} - \vec{y} | = r \}$$, the sphere of radius $$r$$ centered at $$\vec{y}$$.
+  - Example 1: if $$S = Br(\vec{y})$$, $$\partial S = \{ \vec{x} \in \mathbb{R}^n \vert \| \vec{x} - \vec{y} \| = r \}$$, the sphere of radius $$r$$ centered at $$\vec{y}$$.
   - Example 2: if $$S = \{ \frac{1}{n} \in \mathbb{R} \vert n \in \mathbb{N} \}$$, the boundary is $$\{ 0 \}$$. This is because every ball around $$0$$ contains points in $$S$$ and points not in $$S$$. **Or maybe not... depends on if you need to look at the center or not.** Otherwise the definition is kind of empty... need to clarify.
 - Definition: the closure of a set $$\bar{S} = S \cup \partial S$$. The closure is the set of all points in $$S$$ and all boundary points of $$S$$.
-  - Example 1: if $$S = Br(\vec{y})$$, then $$\bar{S} = \{ \vec{x} \in \mathbb{R}^n \vert | \vec{x} - \vec{y} | \le r \}$$, the closed ball of radius $$r$$ centered at $$\vec{y}$$.
+  - Example 1: if $$S = Br(\vec{y})$$, then $$\bar{S} = \{ \vec{x} \in \mathbb{R}^n \vert \| \vec{x} - \vec{y} \| \le r \}$$, the closed ball of radius $$r$$ centered at $$\vec{y}$$.
   - Example 2: if $$S = \{ \frac{1}{n} \in \mathbb{R} \vert n \in \mathbb{N} \}$$, then $$\bar{S} = S \cup \{ 0 \}$$.
 - Definition: $$S$$ is open if it contains no boundary points. $$S$$ is closed if it contains all of its boundary points.
   - Example 1: $$Br(\vec{y})$$ is open
