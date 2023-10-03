@@ -168,7 +168,7 @@ Race is largely a product of the 19th century.
   - Whatever best explains that thing that people talk about is race
   - Race is a scientific and scholarly term -- there is semantic deference. Taking a historical look at intellectual and political beliefs highlights the core.
 
-A Historiacal View
+A Historical View
 - Thomas Jefferson's autobiography: the two races cannot live under the same government, thi sis common sense. Race is invoked to explain cultural and social phenomena.
 - *Notes on the State of Virginia*: emancipation is inevitable and right, but once emancipated, black shsould be sent elsewhere.
 - The poltiical significance of race begins and ends with color. Biolgoical differences: physiology, moral & cognitive psychology, etc. -- distinctions that nature has made. The difference then is significant in its biology.

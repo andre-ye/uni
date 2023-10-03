@@ -129,7 +129,22 @@ What are the ontological commitments brought by discrimination?
 - Both feminist theory and antiracist politics end up being Black middle class or Black men
 - Black women become marginalized. Or even -- "wired in" by the birdcage.'
 
+---
 
+## The Invention of "the Male Gaze", Lauren MIchele Jackson, 2023
+
+- The male gaze: British film theorist Laura Mulvey, 1973 "Visual Pleasure and Narrative Cinema"
+- The male gaze "projects its fantasy onto the female figrue, which is styled accordingly"
+- What are the mechanics of looking? Need the tools of psychoanalysis, especially of Jacques Lacan.
+- The Lacanian mirror stage: an infant achieves self-mastery by understnading their own reflection. Something similar happens wiht identification with onscreen characters.
+- Freud: infantile sexuality has a voyeuristic pleasure. 
+- Mulvey: cinema reconciles the tension between the Lacanian mirror stage (self-understanding) and Freudian voyeruism (objectification of that outside
+- Our gaze is in sympathy with the camera's interests, posed for our viewing.
+- Cinematic images reproduce gender as patriarchy sees it.
+- The cameras "teach us how to look".
+- A central figrue now of feminist film criticism, an intellectual landmark.
+- Even the oppressor's viewpoint can be s tie of uncertainty (Fanon, *Black Skin, White Masks*)
+- bell hooks, oppositional gaze -- not developed merely by being Black and female, but rather cultivated by resisting dominant ways of looking.
 
 
 

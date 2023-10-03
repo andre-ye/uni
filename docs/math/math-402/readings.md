@@ -147,9 +147,40 @@ $$n = p_1 p_2 ... p_n = q_1 q_2 ... q_n$$
 ### 2.1: Congruence and Congruence Classes
 - Congruence is a generalization of the equality relation.
 - Two integers are equal if their difference is zero or a multiple of zero.
+- For $$n \in \mathbb{Z}^+$$, two integers are congruent modulo $$n$$ if their difference is a multiple of $$n$$.
+- **Definition:** Let $$a, b, n$$ be integers with $$n > 0$$. Then $$a$$ is congruent to $$b$$ modulo $$n$$, provided that $$n$$ divides $$a-b$$.
+- Congruence has many of the same properties as standard equality.
+  - Reflexivity: $$a = a$$ for every integer $$a$$
+  - Symmetric: $$a = b \iff b = a$$
+  - Transitive: $$a = b \wedge b = c \implies a = c$$
+
+**Theorem 2.1.**
+Let $$n$$ be a positive integer.
+For all $$a, b, c \in \mathbb{Z}$$.
+1. Reflexivity: $$a \equiv_n a$$
+2. Symmetric: $$a \equiv_n b \implies b \equiv_n a$$
+3. Transitive: $$a \equiv_n b \wedge b \equiv_n c \implies a \equiv_n c$$
+
+**Theorem 2.2.**
+If $$a \equiv_n b$$ and $$c \equiv_n d$$, then
+1. Distributivity: $$a + c \equiv_n b + d$$
+2. Multiplicativity: $$ac \equiv_n bd$$
+
+**Definition.**
+Let $$a$$ and $$n$$ be integers with $$n > 0$$.
+The congruence class of a modulo $$n$$ is the set of all integers that are congruent to $$a$$ modulo $$n$$.
+$$\[ a\ ] = \{ b \vert b \in \mathbb{Z} \text{ and } b \equiv_n a \}$$
+To say that $$b \equiv_n a$$ means that $$b - a = kn$$ for some integer $$k$$.
+Therefore we can rewrite it as
+$$\[a\] = \{ a + kn \vert k \in \mathbb{Z} \}$$
 
 ---
 
 ## Chapter 3: Rings
 Page 42
+
+
+
+
+
 
