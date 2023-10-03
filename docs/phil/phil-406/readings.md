@@ -131,7 +131,7 @@ What are the ontological commitments brought by discrimination?
 
 ---
 
-## The Invention of "the Male Gaze", Lauren MIchele Jackson, 2023
+## The Invention of "the Male Gaze", Lauren Michele Jackson, 2023
 
 - The male gaze: British film theorist Laura Mulvey, 1973 "Visual Pleasure and Narrative Cinema"
 - The male gaze "projects its fantasy onto the female figrue, which is styled accordingly"

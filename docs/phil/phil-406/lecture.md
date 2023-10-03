@@ -25,8 +25,14 @@ PHIL 406
 
 ---
 
-## Week 1 Thursday: Syllabus and Introduction to Feminisms
+<!-- ## Week 1 Thursday: Syllabus and Introduction to Feminisms -->
 
-
+## Week 2 Tuesday: African Feminism and Intersectionality
+- How to recognize wihthout marginalizing the people who are oppressed according to gender.
+- Ripples / waves of feminism
+- Assimilation / an anti-universality becoming a new universality -- is the chameleon a metaphysically problematic ('new universal') being?
+- What is the metaphysical / ontological nature of the metaphor and the subject? Are they instantiations of the same Platonic form?
+- Crenshaw reading
+- 
 
 

@@ -174,6 +174,20 @@ To say that $$b \equiv_n a$$ means that $$b - a = kn$$ for some integer $$k$$.
 Therefore we can rewrite it as
 $$\[a\] = \{ a + kn \vert k \in \mathbb{Z} \}$$
 
+**Theorem 2.3.**
+$$a \equiv_n c$$ iff $$\[a\] = \[c\]$$
+
+**Corollary 2.4.**
+Two congruence classes modulo $$n$$ are either disjoint or identical.
+
+**Corollary 2.5.**
+Let $$n > 1$$ be an integer and consider congruence modulo $$n$$.
+1. If $$a$$ is any integer and $$r$$ is the remainder when $$a$$ is divided by $$n$$, then $$\[a\] = \[r\]$$.
+2. There are exactly $$n$$ distinct congruence classes, namely, $$\[0\], \[1\], ..., \[n-1\]$$.
+
+The set of all congruence classes modulo $$n$$ is $$\mathbb{Z}_n$$.
+These elements are classes, not single integers.
+
 ---
 
 ## Chapter 3: Rings

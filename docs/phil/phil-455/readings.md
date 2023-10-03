@@ -216,7 +216,47 @@ Introduction
   - Du Bois: the history of the world is the history of races
   - Movement from a scientific to a sociohistorical notion of race; there are 8 races (as they appear in our phenomena) -- Slavs, Teutons, English, Negroes, Romance race, Semites, Hindus, Mongolians.
 - What is the real distinction between races? Physical differences are part of it, but the deeper differences are spiritual, but transcendent of the physical.
+- Each of the races strives to develop its particular message for civilization
+- The problem for the Negro is the discovery of the message of their race. 
+- Du Bois' argument treats race as a sociohistroical concept
+- Du Bois marks the antithesis in the dialectic of reaction to prejudice. Du Bois accepts difference ('multiculturalism'?)
+- Du Bois requires not the transcendence of the scientific conception of race, but a revaluation of the Negro race in face of racial sciences.
+- Du Bois has not transcended the scientific notion. Why does he talk so much about blood then? Clearly, a biological / scientific notion lies dormant in Du Bois.
+- **In order to recognize two events at different times as part of the history of a single individual, we have to have a criterion for identity of the indiviudal at each of those times, independent of his or her participation in the two events.
+- **Sharing a common group history cannot be a criterion for identifying members of the same group**, becuase we need to identify its group in order to identify its history.
+- "Impulses" are discovered after the fact.
+- We are left back with the scientific conception.
+- The criterion Du Bois actually uses is: people are members of the same race if the share features by virtue of being descended from people of roughly the same region. 
+- Du Bois does not hcallenge race / racial distinctions itself. Rather, he challenges its associations.
 
+"Crisis": August 1911
+- The scientific definition was itslef threatened at the Negro Academy.
+- Du Bois writes that color is a sign of racial essence, but denies inferior cultural capacities
+- Du Bois changes his mind in *Crisis*: there is no assocaition between mental and physical characteristics. *But he gets this from science.*
+- Du Bois explicitly rejects biological race as relevant in *Crisis*.
 
+"Dusk of Dawn"
+- "An essay towards an autobiography of a race concept"
+- Race is not a scientific concept.
+- But we do not need a scientific definition. "the black man is a person who must ride 'Jim Crow' in Georgia"
+- Yet he is committed to a political program which binds this undefinable black race together.
+- What is Africa to me? Countee Cullen. Du Bois' response:
+  - Born (thrown?) into a world with clear and straight racial walls
+  - What matters is the social heritage of slavery, the discrimination and insult. This is the unity which binds pan-Africanism.
+  - **is this right?** -- that you share an oppressive past, but you must try to transcend that which unites you? A delightful apradox...
+- Du Bois seduces us into an error.
+- His fatherland is not the land of his father or his father's father.
+- We must substitute a sociohistorical conception for a biological one, but it is maybe through an abstracted lens?
+- *How can something Du Bois shares with the whole nonwhite world bind him to only a part of it?*
+- Du Bois does not share the insult with the nonwhite world, but the badge of insult; this badge is biological.
+
+Concluding Unscientific Postscript
+- Du Bois died in Ghana. But he never escaped from race.
+- But he has reproduced the biological notion of race, just as gender reproduces the biological notion of sex.
+- Saussurian hegemony: we think of meaning as constituted by purely internal systems of differences. Race is constructed by metaphor, bears difference, etc. Yet "there are no races: there is nothing in the world that can do all we ask 'race' to do for us."
+- What we miss through our obsession with the structure of relations is simply reality.
+- We biologize what is culture / ideology.
+- **Challenge the assumption that there can be an axis.**
+- **Resist horizontal reading**
 
 

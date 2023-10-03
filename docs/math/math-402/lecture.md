@@ -55,7 +55,7 @@ Non-constructive Existence Proof
 
 ---
 
-## Week 2 Monday: 
+## Week 2 Monday: Fundamental Theorem of Arithmetic
 - Main landmark theorem of arithmetic: Fundamental Theorem of Arithmetic (unique factorization): every nonzero integer is either a unit or can be written as a product of primes of prime integers uniquely
   - Uniquely: up to reordering and plus/minus
 - A unit (in the integers): something such that there exists some other integer where their product is 1. In the integers, these are $$\pm 1$$
