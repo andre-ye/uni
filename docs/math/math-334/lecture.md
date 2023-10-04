@@ -202,7 +202,7 @@ Continuity
   - Alternatively, you can find the limit of each indvididual component, considering the sub-function $$f_{j}: \mathbb{R}^m \to \mathbb{R} \sub \mathbb{R}^n$$.
 - The notion of "getting close" is very subtle in high dimensions -- it's harder than just taking left and right limits.
   - Example 1: $$f : \mathbb{R}^2 \to \mathbb{R}, f(x, y) = \frac{xy}{x^2 + y^2}$$. This function is everywhere bounded. $$\vec f(x, y) \vec \le 2$$. A consequence of Cauchy-Schwartz. But the function fails to be continuous at the origin. The limit as $$\vec{x} \to \vec{0}$$ does not exist. By taking linear lines of approach, the line is constant, but the line in particular changes this constant value
-- Theorem. Let $$f_1(x, y) = x+ y$$, $$f_2(x, y) = xy$$, $$g(x) = \frac{1}{x}$$. $$f_1, f_2 : \mathbb{R}^2 \to \mathbb{R}$$; $$g: \mathbb{R} \setdifference \{0\} \to \mathbb{R}$$. Proof:
+- Theorem. Let $$f_1(x, y) = x+ y$$, $$f_2(x, y) = xy$$, $$g(x) = \frac{1}{x}$$. $$f_1, f_2 : \mathbb{R}^2 \to \mathbb{R}$$; $$g: \mathbb{R} \setminus \{0\} \to \mathbb{R}$$. Proof:
   1. Let $$(a, b) \in \mathbb{R}^2$$
   2. Given $$\epsilon > 0$$, we must show that there exists some $$\delta$$ such that if $$\vert x - a \vert < \delta$$ and $$\vert y - b \vert < \delta$$, then $$ \vert (x + y) - (a + b) \vert < \epsilon$$. 
   3. Let us choose $$\delta = \frac{1}{2} \epsilon$$.
@@ -230,14 +230,14 @@ Sequences
 - You can also define sequences inductively: $$F_1 = 1, F_2 = 1, F_n = F_{n+2} = F_{n+1} + F_n$$
 - A nice proof technique: an inductive proof. Useful for proving statements of the form $$\forall n \in \mathbb{N}, P(n)$$ is true. First, show $$P(1)$$. Then, show $$P(n) \implies P(n+1)$$ (inductive step)
 - Example: consider $$a_1 = 1, a_2 = 4, a_n = 2a_{n-1} - a_{n-2} + 2$$ for $$n \ge 3$$. Claim: $$a_n = n^2$$.
-- Sequences of real numbers / vectors, $$\{ x_n \}_{n=1}^\infty \subsetequals \mathbb{R}^2$$ converge to $$\vec{a} \in \mathbb{R}^n$$ if $$\forall \epsilon > 0, \exists N > 0$$ such that $$\Vert \vec{x}_n - \vec{a} \vert < \epsilon, \forall n > N$$. If this is so, then $$\vec{x}_n \to \vec{a}$$. if $$\{ \vec{x}_{n=1}^\infty \}$$ does not converge to any vector, the sequence diverges. 
+- Sequences of real numbers / vectors, $$\{ x_n \}_{n=1}^\infty \subseteq \mathbb{R}^2$$ converge to $$\vec{a} \in \mathbb{R}^n$$ if $$\forall \epsilon > 0, \exists N > 0$$ such that $$\Vert \vec{x}_n - \vec{a} \vert < \epsilon, \forall n > N$$. If this is so, then $$\vec{x}_n \to \vec{a}$$. if $$\{ \vec{x}_{n=1}^\infty \}$$ does not converge to any vector, the sequence diverges. 
 - We can describe limits / continuity in the form of sequences
 - e.g. the sequence $$\{ 1/k \}_{k=1}^\infty$$ converges to 0.
 - e.g. the sequence $$\{ (-1)^k \}_{k=1}^\infty$$ is divergent.
 - The following are equivalent.
   1. $$f : \mathbb{R}^n \to \mathbb{R}^n$$ is continuous.
   2. $$\forall \vec{x}_0 \in \mathbb{R}^n, \forall \{ \vec{x}_n \}_{n=1}^\infty$$ converging to $$\vec{x}_0$$, $$\{ f(\vec{x}_n ) \}_{n=1}^\infty$$ converges to $$f(\vec{x}_0)$$.
-  3. $$\forall U \subsetequals \mathbb{R}^k$$ an open set, the preimage $$f^{-1}(U) = \{ \vec{x} \in \mathbb{R}^n \vert f(\vec{x}) \in U \} \subsetequals \mathbb{R}^n$$ is also open.
+  3. $$\forall U \subseteq \mathbb{R}^k$$ an open set, the preimage $$f^{-1}(U) = \{ \vec{x} \in \mathbb{R}^n \vert f(\vec{x}) \in U \} \subseteq \mathbb{R}^n$$ is also open.
 - Proof that 1 implies 2: 
   1. Let $$\vec{x}_0 \in \mathbb{R}^n$$ be arbitrary, and assume $$f$$ is continuous at $$\vec{x}_0$$. 
   2. Let $$\{ \vec{x}_n \}_{n=1}^\infty$$ be a sequence converging to $$\vec{x}_0$$.
@@ -248,26 +248,26 @@ Sequences
   2. For each of $$\delta = 1, 1/2, 1/3, ..., 1/k, ...$$ choose such a vector $$\vec{x}_k$$ as above. 
   3. Although the sequence $$\vec{x}_k \to \vec{x}_0$$, $$f(\vec{x}_k)$$ does not converge to $$f(\vec{x}_0)$$.
 - Proof that 1 implies 3:
-  1. Say $$U \subsetequals \mathbb{R}^l$$ is open. We will show that every point in $$f^{-1}(U)$$ is contained in a ball, contained in the preimage.
-  2. If $$\vec{a} \in f^{-1}(u)$$, then $$f(\vec{a}) \in U$$, since $$U$$ is open, $$\exists r > 0$$ such that $$B_r(f(\vec{a})) \subsetequals U$$; i.e., $$\forall \vec{y} \in \mathbb{R}^k$$, $$\Vert \vec{y} - f(\vert{a}) \Vert < r, \vec{y} \in U$$.
-  3. By continuity of $$f$$, for $$r > 0$$, \exists \delta > 0$$ such that $$\Vert f(\vec{x}) - f(\vec{a}) \Vert < r$$ whenever $$\Vert \vec{x} - \vec{a} \Vert < \delta$$; i.e., $$B_\delta(\vec{a}) \subsetequals f^{-1}(U)$$, so $$f^{-1}(U)$$ is open. 
+  1. Say $$U \subseteq \mathbb{R}^l$$ is open. We will show that every point in $$f^{-1}(U)$$ is contained in a ball, contained in the preimage.
+  2. If $$\vec{a} \in f^{-1}(u)$$, then $$f(\vec{a}) \in U$$, since $$U$$ is open, $$\exists r > 0$$ such that $$B_r(f(\vec{a})) \subseteq U$$; i.e., $$\forall \vec{y} \in \mathbb{R}^k$$, $$\Vert \vec{y} - f(\vert{a}) \Vert < r, \vec{y} \in U$$.
+  3. By continuity of $$f$$, for $$r > 0$$, \exists \delta > 0$$ such that $$\Vert f(\vec{x}) - f(\vec{a}) \Vert < r$$ whenever $$\Vert \vec{x} - \vec{a} \Vert < \delta$$; i.e., $$B_\delta(\vec{a}) \subseteq f^{-1}(U)$$, so $$f^{-1}(U)$$ is open. 
 - Preimage definition: $$f^{-1}(U) = \{ \vec{x} \in \mathbb{R}^n \vert f(\vec{x}) \in U \}$$
 - Proof that 3 implies 1.
   1. Let $$\vec{a} \in \mathbb{R}^n$$ be arbitrary. $$\forall \epsilon > 0, B_\epsilon ( f(\vec{a})) \subsetequal \mathbb{R}^k$$ is open.
-  2. By 3, $$f^{-1}(B_\epsilon (f(\vec{a})))$$ is open. By openness, $$\exists \delta > 0$$ such that $$B_\delta(\vec{a}) \subsetequals f^{-1} (B_\epsilon (f(\vec{a})))$$.
+  2. By 3, $$f^{-1}(B_\epsilon (f(\vec{a})))$$ is open. By openness, $$\exists \delta > 0$$ such that $$B_\delta(\vec{a}) \subseteq f^{-1} (B_\epsilon (f(\vec{a})))$$.
   3. So, if $$\Vert \vec{x} - \vec{x} \Vert < \delta$$, then $$\Vert f(\vec{x}) - f(\vert{a}) \Vert < \epsilon$$, so $$f$$ is continuous at $$\vec{a}$$.
 - Corollary: If $$f : \mathbb{R}^n \to \mathbb{R}^k$$ is continuous and $$V \subset \mathbb{R}^k$$, then $$f^{-1}(V)$$ (the preimage) is also closed.
 - Example: if $$C > 0$$, the sequence $$\{ C^n / n! \}_{n=1}^\infty$$ converges to 0.
   1. Choose $$N > 2C$$, then $$\forall n > N$$ we have $$0 < C^n / n! = C^N / N! \cdot C / (N+1) \cdot C / (N+2) \cdot ... \cdot C / n$$
   2. We can upper-bound the rest of these $$C^n / N! \cdot \frac{1}{2} \cdot \frac{1}{2} \cdot ... \cdot \frac{1}{2}$$
   3. These factors are $$n - N$$ in number, and going to zero as $$n \to \infty$$. Therefore the sequence converges to zero.
-- **Theorem.** $$A \subsetequals \mathbb{R}^n$$ is a subset. Then $$\vec{x} \in \bar{A} \iff A \text{ intersects every neighborhood of } \vec{x}$$. (A point is in the closure of a set if the set intersects every neighborhood of the point.) Recall that $$\vec{x}$$ has a neighborhood $$U$$ if $$\vec{x}$$ is interior to $$U$$. We will prove the contrapositive: a point is not in the closure of a set iff the point has a neighborhood not intersecting $$A$$.
+- **Theorem.** $$A \subseteq \mathbb{R}^n$$ is a subset. Then $$\vec{x} \in \bar{A} \iff A \text{ intersects every neighborhood of } \vec{x}$$. (A point is in the closure of a set if the set intersects every neighborhood of the point.) Recall that $$\vec{x}$$ has a neighborhood $$U$$ if $$\vec{x}$$ is interior to $$U$$. We will prove the contrapositive: a point is not in the closure of a set iff the point has a neighborhood not intersecting $$A$$.
   1. Say $$ \vec{x} \notin \bar{A}$$, then $$\mathbb{R}^n \setdiff \bar{A} = U$$ is a neighborhood which does not intersect $$A$$.
   2. Say $$\exists U$$, a neighborhood of $$\vec{x}$$ not meeting $$A$$. Then $$\mathbb{R}^n \setminus U$$ is a closed set containing $$A$$, implying that the closure of $$A$$ is a subset of $$\mathbb{R}^n \setminus U$$. Since $$\vec{x} \notin \mathbb{R}^n \setminus U, \vec{x} \notin A$$.
-- **Theorem.** If $$S \subsetequals \mathbb{R}^n$, and $$\vec{x}_0 \in \mathbb{R}^n$$, $$\vec{x}_0 \in \bar{S} \iff \exists \{ \vec{x}_n \}_{n=1}^\infty \subsetequals S \text{ where } \vec{x}_n \to \vec{x}_0$$.
+- **Theorem.** If $$S \subseteq \mathbb{R}^n$, and $$\vec{x}_0 \in \mathbb{R}^n$$, $$\vec{x}_0 \in \bar{S} \iff \exists \{ \vec{x}_n \}_{n=1}^\infty \subseteq S \text{ where } \vec{x}_n \to \vec{x}_0$$.
   - "It's not possible to take a sequence of points and escape a closed ball"
   1. **Leftwards proof.** If $$\vec{x}_n \to \vec{x}_0$$ and $$\forall n, \vec{x}_n \in S$$, then every neighborhood of $$\vec{x}_0$$ contains an element of $$S$$, namely $$\vec{x}_n$$ for $$n$$ sufficiently large.
-  2. Since $$\vec{x}_n \to \vec{x}_0$$, $$\forall \epsilon > 0$$, $$\exists N > 0$$ such that $$\Vert \vec{x}_n - \vec{x}_0 \Vert < \epsilon$$, $$\forall n > N$$; any neighborhood of $$\vec{x}_0$$ contains such a ball and $$\vec{x}_n \in B_\epsilon ( \vec{x}_0 ) \subsetequals U$$, a neighborhood of $$\vec{x}_0$$. 
+  2. Since $$\vec{x}_n \to \vec{x}_0$$, $$\forall \epsilon > 0$$, $$\exists N > 0$$ such that $$\Vert \vec{x}_n - \vec{x}_0 \Vert < \epsilon$$, $$\forall n > N$$; any neighborhood of $$\vec{x}_0$$ contains such a ball and $$\vec{x}_n \in B_\epsilon ( \vec{x}_0 ) \subseteq U$$, a neighborhood of $$\vec{x}_0$$. 
   3. So $$\vec{x}_n \in S \cap U$$ for every neighborhood $$U$$, and thus $$\vec{x}_0 \in S$$.
   4. **Rightwards proof.** Say we have a point which is in the closure $$\vec{x}_0 \in \bar{S}$$. If $$\vec{x}_0 \in S$$, then in fact we can take a constant sequence $$\exists \{ \vec{x}_0 \}_{n=1}^\infty$$ which converges to $$\vec{x}_0$$.
   5. If $$\vec{x}_0 \in \bar{S}$$ but $$\vec{x}_0 \notin S$$, then $$B_{1/k} (\vec{x}_0)$$ is a neighborhood of $$\vec{x}_0$$, $$\forall k \in \mathbb{N}$$. 
@@ -275,7 +275,7 @@ Sequences
 - The rightward implication: you can construct something just outside your set, to the closure, but no further.
 - **Important property of the reals.** Completeness in the reals: every sequence of real numbers which gets close to itself converges to a real number. When we talk about a limit existing, we point towards an existing limit. But even if we don't know about the limit, the numbers get closer and closer to each other.
 
-If $$S \subsetequals \mathbb{R}$$ is a subset, an upper bound $$b$$ for $$S$$ is a real number $$b \in \mathbb{R}$$ such that$$\forall x \in S, x \le b$$.
+If $$S \subseteq \mathbb{R}$$ is a subset, an upper bound $$b$$ for $$S$$ is a real number $$b \in \mathbb{R}$$ such that$$\forall x \in S, x \le b$$.
 Similarly, a lower bound is a $$y \in \mathbb{R}$$ such that $$\forall x \in S$$, $$y \le x$$. Bounds for a set are not unique.
 **The Completeness Axiom.** -- one of the defining properties of the reals (proven in Kemp's notes, theorem 4.13). 
 If $$S \susbsetequals \mathbb{R}$$ and non-empty,

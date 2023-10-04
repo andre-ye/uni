@@ -169,21 +169,21 @@ If $$a \equiv_n b$$ and $$c \equiv_n d$$, then
 **Definition.**
 Let $$a$$ and $$n$$ be integers with $$n > 0$$.
 The congruence class of a modulo $$n$$ is the set of all integers that are congruent to $$a$$ modulo $$n$$.
-$$\[ a\ ] = \{ b \vert b \in \mathbb{Z} \text{ and } b \equiv_n a \}$$
+$$[ a\ ] = \{ b \vert b \in \mathbb{Z} \text{ and } b \equiv_n a \}$$
 To say that $$b \equiv_n a$$ means that $$b - a = kn$$ for some integer $$k$$.
 Therefore we can rewrite it as
-$$\[a\] = \{ a + kn \vert k \in \mathbb{Z} \}$$
+$$[a] = \{ a + kn \vert k \in \mathbb{Z} \}$$
 
 **Theorem 2.3.**
-$$a \equiv_n c$$ iff $$\[a\] = \[c\]$$
+$$a \equiv_n c$$ iff $$[a] = [c]$$
 
 **Corollary 2.4.**
 Two congruence classes modulo $$n$$ are either disjoint or identical.
 
 **Corollary 2.5.**
 Let $$n > 1$$ be an integer and consider congruence modulo $$n$$.
-1. If $$a$$ is any integer and $$r$$ is the remainder when $$a$$ is divided by $$n$$, then $$\[a\] = \[r\]$$.
-2. There are exactly $$n$$ distinct congruence classes, namely, $$\[0\], \[1\], ..., \[n-1\]$$.
+1. If $$a$$ is any integer and $$r$$ is the remainder when $$a$$ is divided by $$n$$, then $$[a] = [r]$$.
+2. There are exactly $$n$$ distinct congruence classes, namely, $$[0], [1], ..., [n-1]$$.
 
 The set of all congruence classes modulo $$n$$ is $$\mathbb{Z}_n$$.
 These elements are classes, not single integers.
@@ -192,32 +192,32 @@ These elements are classes, not single integers.
 ### 2.2: Modular Arithmetic
 - The finite set $$\mathbb{Z}_n$$ is closely related to the infinite set $$\mathbb{Z}$$. 
 - Can we define addition and multiplication on $$\mathbb{Z}_n$$?
-- The sum of classes $$\[a\]$$ and $$\[c\]$$ is $$\[a\] \bigoplus \[c\] = \[a + c\]$$
-- The product of classes $$\[a\]$$ and $$\[c\]$$ is $$\[a\] \bigodot \[c\] = \[ac\]$$
-- These operations do not depend on the choice of representatives from the various classes. (e.g. $$\[a\] = \[a + kn\]$$)
+- The sum of classes $$[a]$$ and $$[c]$$ is $$[a] \bigoplus [c] = [a + c]$$
+- The product of classes $$[a]$$ and $$[c]$$ is $$[a] \bigodot [c] = [ac]$$
+- These operations do not depend on the choice of representatives from the various classes. (e.g. $$[a] = [a + kn]$$)
 
 **Theorem 2.6.**
-If $$\[a\] = \[b\]$$ and $$\[c\] = \[d\]$$ in $$\mathbb{Z}_n$$, then
-$$\[a + c\] = \[b + d\]$$
+If $$[a] = [b]$$ and $$[c] = [d]$$ in $$\mathbb{Z}_n$$, then
+$$[a + c] = [b + d]$$
 and
-$$\[ac\] = \[bd\]$$
+$$[ac] = [bd]$$
 
 **Theorem 2.7.**
-For any classes $$\[a\]$$, $$\[b\]$$, $$\[c\]$$ in $$\mathbb{Z}_n$$, 
-1. Closure for addition: $$\[a\] \bigoplus \[b\] \in \mathbb{Z}_n$$
-2. Associativity for addition: $$\[a\] \bigoplus (\[b\] \bigoplus \[c\]) = (\[a\] \bigoplus \[b\]) \bigoplus \[c\]$$
-3. Commutativity for addition: $$\[a\] \bigoplus \[b\] = \[b\] \bigoplus \[a\]$$
-4. Identity for addition: $$\[a\] \bigoplus \[0\] = \[a\]$$
-5. Root existence: for each $$\[a\]$$ in $$\mathbb{Z}_n$$, the equation $$\[a\] \bigoplus \[x\] = \[0\]$$ has a solution in $$\mathbb{Z}_n$$
-6. Closure for multiplication: $$\[a\] \bigodot \[b\] \in \mathbb{Z}_n$$
-7. Associativity for multiplication: $$\[a\] \bigodot (\[b\] \bigodot \[c\]) = (\[a\] \bigodot \[b\]) \bigodot \[c\]$$
-8. Distribution with addition: $$\[a\] \bigodot (\[b\] \bigoplus \[c\]) = (\[a\] \bigodot \[b\]) \bigoplus (\[a\] \bigodot \[c\])$$
-9. Commutativity for multiplication: $$\[a\] \bigodot \[b\] = \[b\] \bigodot \[a\]$$
-10. Identity for multiplication: $$\[a\] \bigodot \[1\] = \[a\]$$
+For any classes $$[a]$$, $$[b]$$, $$[c]$$ in $$\mathbb{Z}_n$$, 
+1. Closure for addition: $$[a] \bigoplus [b] \in \mathbb{Z}_n$$
+2. Associativity for addition: $$[a] \bigoplus ([b] \bigoplus [c]) = ([a] \bigoplus [b]) \bigoplus [c]$$
+3. Commutativity for addition: $$[a] \bigoplus [b] = [b] \bigoplus [a]$$
+4. Identity for addition: $$[a] \bigoplus [0] = [a]$$
+5. Root existence: for each $$[a]$$ in $$\mathbb{Z}_n$$, the equation $$[a] \bigoplus [x] = [0]$$ has a solution in $$\mathbb{Z}_n$$
+6. Closure for multiplication: $$[a] \bigodot [b] \in \mathbb{Z}_n$$
+7. Associativity for multiplication: $$[a] \bigodot ([b] \bigodot [c]) = ([a] \bigodot [b]) \bigodot [c]$$
+8. Distribution with addition: $$[a] \bigodot ([b] \bigoplus [c]) = ([a] \bigodot [b]) \bigoplus ([a] \bigodot [c])$$
+9. Commutativity for multiplication: $$[a] \bigodot [b] = [b] \bigodot [a]$$
+10. Identity for multiplication: $$[a] \bigodot [1] = [a]$$
 
-- For $$k \in \mathbb{Z}^+$$, $$\[a\]^k$$ denotes the product
+- For $$k \in \mathbb{Z}^+$$, $$[a]^k$$ denotes the product
 
-$$\[a\]^k = \underbrace{\[a\] \bigodot \[a\] \bigodot ... \bigodot \[a\]}_{k \text{ times}}$$
+$$[a]^k = \underbrace{[a] \bigodot [a] \bigodot ... \bigodot [a]}_{k \text{ times}}$$
 
 ---
 

@@ -67,9 +67,27 @@ Non-constructive Existence Proof
   - Rewrite as $$n \vert bc \implies n \vert b \text{ or } n \vert c$$
 - In 2.1: congruence classes are sets (infinite subsets of the numbers)
 
+---
 
+## Weed 2 Wednesday: Congruence Classes
+- Given some integer $$a$$, the congruence class $$\[a\]$$ is the set of all integers congruent to $$a$$ modulo $$n$$
+- Given $$a, c \in \mathbb{Z}$$, TFAE
 
+$$ c \in \[ a\]$$
+$$c \equiv_n a$$
+$$n \vert a-c$$
+$$\[ a\] = \[ c\]$$
+$$a, c \text{ have the same remainder when divided by } n$$
+$$a \in \[ c\]$$
+$$\[ a\] \cap \[ c\] \neq \emptyset$$
 
+- Corollary 2.4: no. 4 and no. 7 are equivalent
+- Equivalence classes form a partition of any set.
+- Congruence is an equivalence class.
+- Given any $$a \in \mathbb{Z}, \exists 0 \le r < n$$ s.t. $$\[a\] = \[r\]$$
+- Theorem 2: you can substitute with representatives. If $$a \equiv_n b$$ and $$c \equiv_n d$$, then $$a + c \equiv_n b + d$$
+- If you want to do addition or multiplication, you can do whatever representative you want in your class.
+- 
 
 
 

@@ -89,7 +89,7 @@ $$\lim_{\mathbf{x} \to \mathbf{a}} \mathbf{f}(\mathbf{x}) = L \iff \lim_{\mathbf
 
 **Corollary 1.12.** The sum, product, or difference of two continuosu functions is continuous; the quotient of two continuous functions is continuous on the set where the denominator is nonzero.
 
-**Theorem 1.13.** Suppose $$\mathbf{f} : \mathbb{R}^n \to \mathbf{R}^k$$ is continuous and $$u$$ \subset \mathbb{R}^k$$. Let $$S = \{ \mathbf{x} \in \mathbb{R}^n : \mathbf{f}(\mathbf{x}) \in U\}$$. Then $$S$$ is open if $$U$$ is open and $$S$$ is closed if $$U$$ is closed.
+**Theorem 1.13.** Suppose $$\mathbf{f} : \mathbb{R}^n \to \mathbf{R}^k$$ is continuous and $$u \subset \mathbb{R}^k$$. Let $$S = \{ \mathbf{x} \in \mathbb{R}^n : \mathbf{f}(\mathbf{x}) \in U\}$$. Then $$S$$ is open if $$U$$ is open and $$S$$ is closed if $$U$$ is closed.
 
 
 
