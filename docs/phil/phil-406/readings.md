@@ -146,10 +146,27 @@ What are the ontological commitments brought by discrimination?
 - Even the oppressor's viewpoint can be s tie of uncertainty (Fanon, *Black Skin, White Masks*)
 - bell hooks, oppositional gaze -- not developed merely by being Black and female, but rather cultivated by resisting dominant ways of looking.
 
+---
 
+## "Feminism in 'Waves': Useful Metaphor or Not?", Linda Nicholson (2010)
 
-
-
+- What is the current state of US feminism? 
+- In the 1960s, it was very useful for feminists to describe their movement as the "second wave", because it reminded people of the historical past and connections -- a long tradition of activism.
+- **The wave metaphor has outlived its usefulness.** But it can also be a historical and political blockage. 
+- It suggests that there is one phenomenon, "feminism", which unites gender activism across the history of the United States. 
+- But this is reductive and serves an obfuscatory purpose. 
+- "The first wave" of suffragism may not even be convincingly called feminism.
+- Women were taking on and living a greater sense of equality of men only in the conditions brought about in the 20th century.
+- The hope is that gender activism has not died but ratehr just become more jazzy in its form.
+- Following the mass movements of the 1960s-80s, feminism began institutionalizing itself.
+- The gaps between men and women still continue to exist: rigid beauty standards, a sexual double standard, the wage gap, etc.
+- The post-WWII material movements of women into new jobs led towards generation of wide adoption (whereas it could not in the 1920s).
+- But liberal feminism is only one part of he feminist movement of the 60s-80s. Radical feminism
+- ... but radical feminism could also only have advanced a small group of privileged women. It became alienating
+- Marxist and socialist feminism: did not resonate with much of the US population either
+- Feminism has achieved what it has achieved through resonance with the materially experienced needs of the 'many' / people.
+- We are not in a 'third wave' currently.
+- Rather, there is a kaleidoscope -- the ocean's ebbs and swells
 
 
 
