@@ -261,16 +261,27 @@ Sequences
   1. Choose $$N > 2C$$, then $$\forall n > N$$ we have $$0 < C^n / n! = C^N / N! \cdot C / (N+1) \cdot C / (N+2) \cdot ... \cdot C / n$$
   2. We can upper-bound the rest of these $$C^n / N! \cdot \frac{1}{2} \cdot \frac{1}{2} \cdot ... \cdot \frac{1}{2}$$
   3. These factors are $$n - N$$ in number, and going to zero as $$n \to \infty$$. Therefore the sequence converges to zero.
-- **Theorem.** $$A \subsetequals \mathbb{R}^n$$ is a subset. Then
-$$\vec{x} \in \bar{A} \iff A \text{ intersects every neighborhood of } \vec{x}$$. (A point is in the closure of a set if the set intersects every neighborhood of the point.) Recall that $$\vec{x}$$ has a neighborhood $$U$$ if $$\vec{x}$$ is interior to $$U$$. We will prove the contrapositive: a point is not in the closure of a set iff the point has a neighborhood not intersecting $$A$$.
+- **Theorem.** $$A \subsetequals \mathbb{R}^n$$ is a subset. Then $$\vec{x} \in \bar{A} \iff A \text{ intersects every neighborhood of } \vec{x}$$. (A point is in the closure of a set if the set intersects every neighborhood of the point.) Recall that $$\vec{x}$$ has a neighborhood $$U$$ if $$\vec{x}$$ is interior to $$U$$. We will prove the contrapositive: a point is not in the closure of a set iff the point has a neighborhood not intersecting $$A$$.
   1. Say $$ \vec{x} \notin \bar{A}$$, then $$\mathbb{R}^n \setdiff \bar{A} = U$$ is a neighborhood which does not intersect $$A$$.
   2. Say $$\exists U$$, a neighborhood of $$\vec{x}$$ not meeting $$A$$. Then $$\mathbb{R}^n \setminus U$$ is a closed set containing $$A$$, implying that the closure of $$A$$ is a subset of $$\mathbb{R}^n \setminus U$$. Since $$\vec{x} \notin \mathbb{R}^n \setminus U, \vec{x} \notin A$$.
 - **Theorem.** If $$S \subsetequals \mathbb{R}^n$, and $$\vec{x}_0 \in \mathbb{R}^n$$, $$\vec{x}_0 \in \bar{S} \iff \exists \{ \vec{x}_n \}_{n=1}^\infty \subsetequals S \text{ where } \vec{x}_n \to \vec{x}_0$$.
   - "It's not possible to take a sequence of points and escape a closed ball"
-  1. If $$\vec{x}_n \to \vec{x}_0$$ and $$\forall n, \vec{x}_n \in S$$, then every neighborhood of $$\vec{x}_0$$ contains an element of $$S$$, namely $$\vec{x}_n$$ for $$n$$ sufficiently large.
+  1. **Leftwards proof.** If $$\vec{x}_n \to \vec{x}_0$$ and $$\forall n, \vec{x}_n \in S$$, then every neighborhood of $$\vec{x}_0$$ contains an element of $$S$$, namely $$\vec{x}_n$$ for $$n$$ sufficiently large.
   2. Since $$\vec{x}_n \to \vec{x}_0$$, $$\forall \epsilon > 0$$, $$\exists N > 0$$ such that $$\Vert \vec{x}_n - \vec{x}_0 \Vert < \epsilon$$, $$\forall n > N$$; any neighborhood of $$\vec{x}_0$$ contains such a ball and $$\vec{x}_n \in B_\epsilon ( \vec{x}_0 ) \subsetequals U$$, a neighborhood of $$\vec{x}_0$$. 
   3. So $$\vec{x}_n \in S \cap U$$ for every neighborhood $$U$$, and thus $$\vec{x}_0 \in S$$.
+  4. **Rightwards proof.** Say we have a point which is in the closure $$\vec{x}_0 \in \bar{S}$$. If $$\vec{x}_0 \in S$$, then in fact we can take a constant sequence $$\exists \{ \vec{x}_0 \}_{n=1}^\infty$$ which converges to $$\vec{x}_0$$.
+  5. If $$\vec{x}_0 \in \bar{S}$$ but $$\vec{x}_0 \notin S$$, then $$B_{1/k} (\vec{x}_0)$$ is a neighborhood of $$\vec{x}_0$$, $$\forall k \in \mathbb{N}$$. 
+  6. By theorem, $$\forall k, \exists \vec{x}_k \in B_{1/k}(\vec{x}_0) \cap S$$. Choosing one for each ball produces a sequence. This sequence clearly converges to $$\vec{x}_0$$. 
+- The rightward implication: you can construct something just outside your set, to the closure, but no further.
+- **Important property of the reals.** Completeness in the reals: every sequence of real numbers which gets close to itself converges to a real number. When we talk about a limit existing, we point towards an existing limit. But even if we don't know about the limit, the numbers get closer and closer to each other.
 
-
+If $$S \subsetequals \mathbb{R}$$ is a subset, an upper bound $$b$$ for $$S$$ is a real number $$b \in \mathbb{R}$$ such that$$\forall x \in S, x \le b$$.
+Similarly, a lower bound is a $$y \in \mathbb{R}$$ such that $$\forall x \in S$$, $$y \le x$$. Bounds for a set are not unique.
+**The Completeness Axiom.** -- one of the defining properties of the reals (proven in Kemp's notes, theorem 4.13). 
+If $$S \susbsetequals \mathbb{R}$$ and non-empty,
+1. If $$S$$ has an upper bound, it has a least upper bound
+2. If $$S$$ has a lower boud, it has a greatest lower bound
+Although this is true for the reals, it is false for the rationals.
+For example, $$S = \{ x \in \mathbb{R} \vert x \in \mathbb{Q} \text{ and } x^2 < 2> \}$$. There is no least upper bound in the rationals (it is in the reals).
 
 
