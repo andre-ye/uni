@@ -33,7 +33,7 @@ PHIL 430
 6. Are atoms and void of different substance?
 7. Could this be considered a sort of nihilism? Or proto-nihilism?
 8. Is atomism atheist?
-
+9. What is the implication of something like calculus on the debate over divisibility of items?
 
 
 

@@ -133,11 +133,52 @@ PHIL 430
 - If elements are atomic, earth and water cannot be differentiated by the relative sizes of their atoms, since they cannot be generated from one another (?)
 - Deny that the number of elements is infinite.
 
+### The *Physics*, IV 6-8
 
+**IV.6**
+- Investigations about the void and existence are about place
+- What is the account of those who say that void really exists?
+- Refutations of "the existence of the void" are really "refutations of language" ('erroneous ways of speaking')
+- By void: an interval in which there is no sensible body. We (Aristotlians) need to show the non-existence of an interval different from the bodies.
+- Argument *in favor of void*:
+    - Change in place would not poccur if not for void.
+    - Melissus -- from this, the universe is immovable.
+    - Pythagoreans: void exists and enters the world from the infinite air
 
+**IV.7**
+- What is the meaning of the word of "void"
+- The void is the place with nothing in it
+- What has nothing heavy or light in it is void.
+- The void must be a place which has an interval in tangible body (???)
+- Void is that in which there is not 'this' / corporeal substance.
+- Void must be place deprived of body
+- Void does not exist, unseparated or separated; it is meant to be an interval *in body*. 
+- The void is thoguht to be something because place *is*
+- There is no necessity for the being of a void if there is movement. The full can still have qualitative change. But also, bodies can simultaneously make room for one another, even without separate intervals.
+- Things can be compressed because they squeeze out what is contained in them.
 
+**IV.8**
+- There is no separately existing void
+- Even if simple bodies have natural movement, void cannot be the cause of it.
+- When there is a void, where will a body placed into it move to? It cannot move into the whole of the void. Those who maintain that void exists render it essentially a place.
+- In fact, not a single thing can be moved if there is a void. In the void, things must be at rest, because there is no place to which things can move, insofar as the void does not give any such difference.
+- All movement is compulsory or teleological; but how can there be a natural movement if there is no difference throughout the void? There is no up, down, or middle. So there is no natural movement if there is void. In a void, none of th epreviously proposed solutions to movement apply. And one could not say why somehting set in motion should stop anywhere; why should it stop here and not there? Something will be at rest or in motion ad infinitum.
+- Void cannot bear any ratio to the full. Whereas between any two movements ther eis a ratio.,a difference in media.
+- Our perceptions may be limited -- air seems to be void, but it is not in fact.
 
+### "On Generation and Corruption", I.2
+- Do things come to be and cease to be (coming- & passing-)?
+- Plato only investigates the conditions of coming and passing, but not all coming
+- But Democritus has seriously investigated these issues.
+- Democritus and Leucippus explain coming to be and passing away as disassocaition and association / grouping and position of fundamental figures / atoms
+- **Truth lays in appearance**; appearances are infinitely many, so the atoms must be infinite themselves too.
+- Do things come to be and alter and grow, and undergo the contrary changes, becuase the primary things are indivisible magnitudes (i.e. atoms), or is no magnitude (quantity) indivisible?
+- What is there in the body which "escapes" division? If it is a body or a magnitude, well surely ti can be divided again.So the body is either points or absolutely nothing. If it consists of points, ther eis no magnitude. **Ok so... asserting a body, whatever its size, is divisible through and through is difficult.**
+- Every perceptible body mayb e indivisible but divisible at every point..
+- Still, **it is wrong** to claim that coming and passing is defined by association and disassociation.
+- What is Aristotle's difference from Democritus?
 
+??? what??? this piece is confusing...
 
 
 
