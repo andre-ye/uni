@@ -194,7 +194,7 @@ $$\Vert \vec{x} - \vec{a} \Vert_{\infty} = \max \{ \vert x_1 - a_1 \vert, ..., \
 
 - You can also consider a limit on a subset, $$f : S \sub \mathbb{R}^n \to \mathbb{R}$$.
 
-$$\lim_{{\vec{x} \to \vec{a}}_{\vec{x} \in S}} f(\vec{x}) = L \text{ if } \forall \epsilon_{> 0}, \exists \delta_{> 0} : \vert f(\vec{x}) - L \vert < \epsilon \text{ whenever } \Vert \vec{x} - \vec{a} \Vert < \delta \text{ and } \vec{x} \in S$$
+$$\lim_{\vec{x} \to \vec{a}, \vec{x} \in S} f(\vec{x}) = L \text{ if } \forall \epsilon_{> 0}, \exists \delta_{> 0} : \vert f(\vec{x}) - L \vert < \epsilon \text{ whenever } \Vert \vec{x} - \vec{a} \Vert < \delta \text{ and } \vec{x} \in S$$
 
 Continuity
 - Definition: $$f(\vec{x})$$ is continuous at $$\vec{a}$$ if the limit as $$\vec{x}$$ approaches $$\vec{a}$$ of $$f(\vec{x})$$, and $$f(\vec{a})$$, both exist and are equal.

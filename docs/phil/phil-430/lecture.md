@@ -134,6 +134,94 @@ What to focus on for next time:
 - How Aristotle portrays different atomist claims. 
 - Does Aristotle's hostility influence the reliability of his reports?
 
+---
+
+## Week 2 Wednesday: Aristotle Against the Presocratic Atomists
+
+Detour -- how is this metaphysics?
+- 'Meta' as a prefix for 'after': 'this treatise comes after the physics'
+- Or: 'meta' as a prefix for 'beyond': 'this treatise comes beyond the physics, concerns matters beyond the contents covered in the *Physics*'
+- Physics is the science of change, includig the natural world
+- Metaphysics: the science of unchanging things (first principles), the study of being as such, first causes, theology, etc.
+- In antiquity, astronomy, biology, physics, etc. are all considered to be part of philosophy; but in the 17th century, we get a split between metaphysics and physics. "Physics" becomes a sort of specialized kind of quantiative science. Topics like free will, personal identity, mind-body etc. are recategorized as metaphysics.
+    - Ontology: study of being
+- What Aristotle thinks of as metaphysics becomes recontextualized as ontology. 
+- Can anything be called metaphysics in ancient philosophy? Is anything unchanging or is it all changing?
+
+Aristotle's Endoxa
+- Why is there so much of Democritus in Aristotle?
+- Aristotle tends to survey the views of previous thinkers before getting into his own theorizing
+- This is *endoxa* -- reputable opinions / commonly accepted views. These are starting points for inquiry. Has a sort of respect for these endoxa.
+- *On Generation and Corruption* -- Democritus is the first to have seriously explored the question of non-being.
+- Inclusion in endoxa does not indicate agreement.
+
+*On Generation and Corruption*
+- Context: an investigation on coming-to-be (generation) and passing-away (corruption).
+- Growth / alteration vs generation / corruption?
+- Is all generation alteration?
+- If the universe is one thing, coming to be is alteration
+- Unqualified generation and corruption: can these things occur, and if so, how?
+- First question Aristotle wants to address @ 315b25: "Do things come-to-be and alter and grow, and undergo the contrary changes, because the primary things are invisible magnitudes? Or is no magnitude indivisible?"
+    - If primary things are indivisble magnitudes, are they bodies (Democritus and Leucippus) or planes (Plato, geometric atomism)
+- Reductio at 316a23: assume a body is divisible through-and-through. What happens?
+    - What is left is a magnitude. This is impossible because then there is something which has not been divided yet.
+    - What is left is absolutely nothing. That would mean that body is generated ex nihilo and is a composite of nothing. but what if it's a composit of points / contacts? Contacts and points have to be of things which are not points or contacts themselves.
+    - **objection**: isn't asking the question "what is left" already begging the question?
+- 316b15: both options have unacceptable consequences, so there must be indivisible bodies.
+
+Establishing Invisible Bodies and Magnitudes (The Setup)
+- 316b15: reductio. Assume there are indivisible bodies and magnitudes. 
+    - For atoms, every composite value is both actually indivisible and potentially divisible. But if a body were divisible at every point, if it were divided at every point simultaneously, then nothing would remain. It would need to be generated ex nihilo or out of points, which is unacceptable.
+- Aristotle sets forth conditions for the existence of atoms. Dividing a body is not a process which can continue to infinity; there must be a limit to division.
+- Generation and corruption as combination and separation require minimal parts.
+
+Against Indivisible Bodies and Magnitudes
+- 317a8: Bodies can only be divisible through and through in one sense. 
+- The atomists introduce minimal parts to block infinite divisibility. 
+- Aristotle says that through-and-through divisibility is impossible, but introducing minimal parts renders it incoherent.
+- What exactly is through-and-through division? Is there a concept of points?
+
+A Big-picture Problem with Atomism in *Generation and Corruption*
+- Unqualified generation and corruption can't happen by combination and separation anyway
+- Generation and corruption happen when something changes from one thing to another, changing its definition and material factors.
+- Alterations are mere changes to a thing's accidental features
+- Problems have to do with divisibility -- it cannot account for coming-to-be and passing-away
+
+*On the Heavens*, III.4
+- Are the elements finite or infinite in number?
+- "Elements" as in basic constituents, e.g. atoms, as opposed to elements as in fire, earth, ...
+- 303a3: for the atomists, all things are composed of four types of elements. The atoms which compose different elements do so by virtue of their different shape and size. But this means that elements cannot be generated out of one another.
+- Aristotle's problem with atomism: elements change into one another, this sort of theory can't account for that, you will run out of stuff from which you can get your elements.
+- 303a30: If you want to say that infinite elements differ infinitely, then you can only have as much as the principles of pyramidss.
+- Grounded more in elements "int he real/material world.
+- Atoms have their own simple motions, but the number of simple motions is not infinite, so there cannot be infinite atoms. 
+
+*Physics*, IV.6-8, Problems with Void
+- Does Void exist? How does it exist? What is it?
+- "Void" is a kind of place or vessel which becomes full when it holds "the bulk" and void when it is deprived of this bulk.
+- Are there different kinds of space for Democritus and Epicurus?
+- From Democritus and Leucippus: void is an interval that divided the whole body in a way that breaks its continuity.
+- Aristotle outlines reasons why people posit the existence of void and offer some refutations
+    - Motion argument: void is needed for change in place. What is full cannot contain anything more than any one body. Needed for change in place.
+        - But this is going to suggest that multiple bodies can be in the same place. And that means that unequal bodies can occupy the same place at the same time, so the smallest body might contain the larger body, which is incoherent.
+        - Atoms are finite in kind, but the number of atoms is infinite, for Leucippus and Democritus.
+    - Contraction argument: there are pockets of void inside what is being contracted, void is being squeezed out of it
+    - Expansion argument: there are pockets of void inside what is being expanded, composite bodies potentially contain void.
+- Responses
+    - Against the motion argument: bodies can simultaneously make room for each other without needing to move into an empty space. Example: swimming underwater. But... really? Surely water must be moved... void has to exist.
+    - Against the argument from contraction: what is squeezed out doesn't have to be void.
+    - Against the argument from increase: qualitative change can make sense of expansion / increase -- it doesn't need to be void entering the water. 
+- More on motion and the void:
+    - If something moves into the void, it becomes differentiated, but void is uniform. So it can't explain motion.
+    - Things move into void because void yields; if void is uniform, it should yield everywhere. So everything moves everywhere. 
+- In general, Aristotle attacks if atomism can make sense of elemental theories of elements as building blocks in the natural world, divisibility and the theory of the void.
+- Is Epicurean atomism projecting backwards onto Leucippus and Democritus? 
+- Do the Epicureans respond to Aristotle?
+
+
+
+
+
 
 
 

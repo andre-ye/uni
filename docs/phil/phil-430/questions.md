@@ -34,6 +34,9 @@ PHIL 430
 7. Could this be considered a sort of nihilism? Or proto-nihilism?
 8. Is atomism atheist?
 9. What is the implication of something like calculus on the debate over divisibility of items?
+10. On the issue of motion and void, Aristotle's argument. In the swimming example, the swimmer has to push, and because it is causal, the water must move after the swimmer moves.
+11. Void vs being -- is being in void or is void the area around being?
+12. Epicureans and stoics -- can you read their ethics / meaning-of-life from their metaphysics / as inseparable from their metaphysics?
 
 
 
