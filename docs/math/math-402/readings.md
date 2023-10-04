@@ -217,7 +217,7 @@ For any classes $$[a]$$, $$[b]$$, $$[c]$$ in $$\mathbb{Z}_n$$,
 
 - For $$k \in \mathbb{Z}^+$$, $$[a]^k$$ denotes the product
 
-$$[a]^k = \underbrace{[a] \bigodot [a] \bigodot ... \bigodot [a]}_{k \text{ times}}$$
+$$[a]^k = [a] \bigodot [a] \bigodot ... \bigodot [a] , k\text{ times}$$
 
 ---
 

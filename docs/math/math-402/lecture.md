@@ -42,7 +42,7 @@ Non-constructive Existence Proof
 
 ---
 
-## Week 1 Friday: Division ($$\S$$ 1.2)
+## Week 1 Friday: Division
 - Three equivalent conditions of the GCD of $$a,b$$
   - Greatest in the usual ordering of $$a$$ and $$b$$
   - Maximal (by divisibility) divisor of $$a, b$$
