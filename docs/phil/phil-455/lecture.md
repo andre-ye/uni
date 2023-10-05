@@ -248,15 +248,81 @@ Race in Latin America
 - In Mexico, there are many problems -- but it is a Mestizo nation. Look at the flags: an indigenous symbol and European colors.
 - Madison Grant sees this and says this is the problem -- you can't have the melting pot. The absorption of blood of the conquistadors byt he "native Indian population" has produced the Mexican.
 
+---
+
+## Lecture 3: Race -- Real or not? Conserve of eliminate?
+
+Different Schools of Thought on Race
+- Race naturalism (realism, 'really real')
+  - Races represent a natural (non-artificial, non-social) distinction within the human species
+  - Racialism: a version of racial naturalism, which holds that these differences form an essential set of heritable, physical, moral, etc. characteristics
+  - There can be race naturalism without racialism
+  - Entailments: 
+    - Standard rcism, keep the races separate, pure, in their place. Even eliminate the undesirable races.
+    - Racial egalitarians: there are natural differences between races, but we should acknowledge them for relevant purposes; yet all persons deserve equal moral respect. 
+- Racial skepticism (anti-realism)
+  - Racial realism is false, because there are no biological races
+- Social constructivism (realism)
+  - Social constructivists are still realists
+  - Races are not natural entities but come into existence through human actions or institutions.
+  - Races are 'nominally' real -- nominalism, thinks are grouped together because of the ideas we have, but it's not arbitrary. The criteria might be arbitrary, but once you accept the criteria, it's not arbitrary.
+- Racial pluralists
+  - Races have many definitions, so many views of "race" can be true at the same time
+
+| Metaphysics of race | Naturalists | Skeptics | Constructivists | Pluralists |
+| --- | --- | --- | --- | --- |
+| "Race" -- natural category? | Yes | Yes | No | Yes |
+| "Race" -- social category?  | No  | No | Yes | Yes |
+| "Race" -- real?             | Yes | No | Yes | Yes |
+
+Semantic / Normative Recommendations.  urd
+- Eliminativists: there ar no ancient esse urdnces, so we ought to eliminate race language
+- Conservationists: we need to preserve the lagnaugae of "race"
+- Revisionists: race refers to essences which race talk.
+
+Ludwig Wittgenstein (1889 - 1951)
+- Linguistic turn in analytic philosophyy: "to show the fly by the way out of the fly-bottle"
+- Atom: originally from the Greek *atomos*
+- Eliminativist: let's get rid of phlogiston, let's get rid of race
 
 
+| Semantics of race | Eliminativists | Conservationists | Revisionists |
+| --- | --- | --- | --- |
+| Should we end talk of 'race'?      | Yes | No | No |
+| Should we reform 'race' talk?      | No  | Yes | No |
+| Did 'race' signify something real? | No  | No | Yes |
+| Can 'race' signify something real? | No  | Yes | Yes |
 
+W.E.B. du Bois, *The Conservation of the Races*
+- Du Bois is responsding to Madison Grant, 1965-1937
+- There is a spirit guiding the spirit of history towards a new race, Jose Vasconcelos, 1882-1959. Deep into Hegel. 
+- The folks who are most racist have a sort of transcendental view.
+- The worry is always that scientists will always find some feature of division -- even if there are such divisions, they are wrong, becuase we are moving towards a racial egalitarianism, where every race has some sort of contribution
+- Aaron Pina Mora, "La Raza Cosmica" -- the superrace is still very white
+- What is Du Bois' position on race?
+  - Du Bois is clearly not a racial skeptic
+  - It is not clear that Du Bois was a racial naturalist -- these (scientific) criteria of race are getting "exasperatingly" intermingled.
+  - Du Bois sounds like a constructivist...
+  - Race? A vast family of human beings, generally of common blood and language, always of common history, traditions and impulses... striving together, voluntarily and involuntarily, accomplishing vividly conceived ideals of life ...
+  -  Du Bois has a transcendentalist view of race -- no mere physical differences -- transcending them
+- Appiah: Du Bois never transcends his racial naturalism.
 
+Anthony Appiah.
+- What is important to philosophy is to get to the truth
+- The consensus among biologists is that there are very few genetic differences among humans.
+- Race does not exist
 
+Ashley Montagu, *The Concept of Race* (1959)
+- The idea of race is one of the most dangerous and tragic myths of our time
+- Use the term 'ethnic' group, which applies better than 'race'. 
+- An eliminativist
+- The term 'ethnicity' doesn't really show up until the 1930s
+- Post-melting pot language
 
-
-
-
+Anthony Appiah, *Why There Are No Races*
+- An ideational account of race -- either concepts are embedded in our terms and these concepts are packed with ideas, then you compare concepts with the world.
+- Causal theory of race -- even if you have mistaken ideas, you know what it is, and you can modify it. Linguistic division of labor.
+- Appiah: both theories are false: there are no races, there is nothing which is signed,w hich you can point towards. 
 
 
 
