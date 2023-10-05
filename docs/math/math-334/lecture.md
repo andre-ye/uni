@@ -250,10 +250,10 @@ Sequences
 - Proof that 1 implies 3:
   1. Say $$U \subseteq \mathbb{R}^l$$ is open. We will show that every point in $$f^{-1}(U)$$ is contained in a ball, contained in the preimage.
   2. If $$\vec{a} \in f^{-1}(u)$$, then $$f(\vec{a}) \in U$$, since $$U$$ is open, $$\exists r > 0$$ such that $$B_r(f(\vec{a})) \subseteq U$$; i.e., $$\forall \vec{y} \in \mathbb{R}^k$$, $$\Vert \vec{y} - f(\vert{a}) \Vert < r, \vec{y} \in U$$.
-  3. By continuity of $$f$$, for $$r > 0$$, \exists \delta > 0$$ such that $$\Vert f(\vec{x}) - f(\vec{a}) \Vert < r$$ whenever $$\Vert \vec{x} - \vec{a} \Vert < \delta$$; i.e., $$B_\delta(\vec{a}) \subseteq f^{-1}(U)$$, so $$f^{-1}(U)$$ is open. 
+  3. By continuity of $$f$$, for $$r > 0$$, $$\exists \delta > 0$$ such that $$\Vert f(\vec{x}) - f(\vec{a}) \Vert < r$$ whenever $$\Vert \vec{x} - \vec{a} \Vert < \delta$$; i.e., $$B_\delta(\vec{a}) \subseteq f^{-1}(U)$$, so $$f^{-1}(U)$$ is open. 
 - Preimage definition: $$f^{-1}(U) = \{ \vec{x} \in \mathbb{R}^n \vert f(\vec{x}) \in U \}$$
 - Proof that 3 implies 1.
-  1. Let $$\vec{a} \in \mathbb{R}^n$$ be arbitrary. $$\forall \epsilon > 0, B_\epsilon ( f(\vec{a})) \subsetequal \mathbb{R}^k$$ is open.
+  1. Let $$\vec{a} \in \mathbb{R}^n$$ be arbitrary. $$\forall \epsilon > 0, B_\epsilon ( f(\vec{a})) \subseteq \mathbb{R}^k$$ is open.
   2. By 3, $$f^{-1}(B_\epsilon (f(\vec{a})))$$ is open. By openness, $$\exists \delta > 0$$ such that $$B_\delta(\vec{a}) \subseteq f^{-1} (B_\epsilon (f(\vec{a})))$$.
   3. So, if $$\Vert \vec{x} - \vec{x} \Vert < \delta$$, then $$\Vert f(\vec{x}) - f(\vert{a}) \Vert < \epsilon$$, so $$f$$ is continuous at $$\vec{a}$$.
 - Corollary: If $$f : \mathbb{R}^n \to \mathbb{R}^k$$ is continuous and $$V \subset \mathbb{R}^k$$, then $$f^{-1}(V)$$ (the preimage) is also closed.
@@ -262,9 +262,9 @@ Sequences
   2. We can upper-bound the rest of these $$C^n / N! \cdot \frac{1}{2} \cdot \frac{1}{2} \cdot ... \cdot \frac{1}{2}$$
   3. These factors are $$n - N$$ in number, and going to zero as $$n \to \infty$$. Therefore the sequence converges to zero.
 - **Theorem.** $$A \subseteq \mathbb{R}^n$$ is a subset. Then $$\vec{x} \in \bar{A} \iff A \text{ intersects every neighborhood of } \vec{x}$$. (A point is in the closure of a set if the set intersects every neighborhood of the point.) Recall that $$\vec{x}$$ has a neighborhood $$U$$ if $$\vec{x}$$ is interior to $$U$$. We will prove the contrapositive: a point is not in the closure of a set iff the point has a neighborhood not intersecting $$A$$.
-  1. Say $$ \vec{x} \notin \bar{A}$$, then $$\mathbb{R}^n \setdiff \bar{A} = U$$ is a neighborhood which does not intersect $$A$$.
+  1. Say $$ \vec{x} \notin \bar{A}$$, then $$\mathbb{R}^n \setminus \bar{A} = U$$ is a neighborhood which does not intersect $$A$$.
   2. Say $$\exists U$$, a neighborhood of $$\vec{x}$$ not meeting $$A$$. Then $$\mathbb{R}^n \setminus U$$ is a closed set containing $$A$$, implying that the closure of $$A$$ is a subset of $$\mathbb{R}^n \setminus U$$. Since $$\vec{x} \notin \mathbb{R}^n \setminus U, \vec{x} \notin A$$.
-- **Theorem.** If $$S \subseteq \mathbb{R}^n$, and $$\vec{x}_0 \in \mathbb{R}^n$$, $$\vec{x}_0 \in \bar{S} \iff \exists \{ \vec{x}_n \}_{n=1}^\infty \subseteq S \text{ where } \vec{x}_n \to \vec{x}_0$$.
+- **Theorem.** If $$S \subseteq \mathbb{R}^n$$, and $$\vec{x}_0 \in \mathbb{R}^n$$, $$\vec{x}_0 \in \bar{S} \iff \exists \{ \vec{x}_n \}_{n=1}^\infty \subseteq S \text{ where } \vec{x}_n \to \vec{x}_0$$.
   - "It's not possible to take a sequence of points and escape a closed ball"
   1. **Leftwards proof.** If $$\vec{x}_n \to \vec{x}_0$$ and $$\forall n, \vec{x}_n \in S$$, then every neighborhood of $$\vec{x}_0$$ contains an element of $$S$$, namely $$\vec{x}_n$$ for $$n$$ sufficiently large.
   2. Since $$\vec{x}_n \to \vec{x}_0$$, $$\forall \epsilon > 0$$, $$\exists N > 0$$ such that $$\Vert \vec{x}_n - \vec{x}_0 \Vert < \epsilon$$, $$\forall n > N$$; any neighborhood of $$\vec{x}_0$$ contains such a ball and $$\vec{x}_n \in B_\epsilon ( \vec{x}_0 ) \subseteq U$$, a neighborhood of $$\vec{x}_0$$. 
@@ -282,6 +282,6 @@ If $$S \susbsetequals \mathbb{R}$$ and non-empty,
 1. If $$S$$ has an upper bound, it has a least upper bound
 2. If $$S$$ has a lower boud, it has a greatest lower bound
 Although this is true for the reals, it is false for the rationals.
-For example, $$S = \{ x \in \mathbb{R} \vert x \in \mathbb{Q} \text{ and } x^2 < 2> \}$$. There is no least upper bound in the rationals (it is in the reals).
+For example, $$S = \{ x \in \mathbb{R} \vert x \in \mathbb{Q} \text{ and } x^2 < 2 \}$$. There is no least upper bound in the rationals (it is in the reals).
 
 
