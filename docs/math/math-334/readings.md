@@ -131,4 +131,31 @@ Every bounded sequence in $$\mathbb{R}^n$$ has a convergent subsequence.
 
 ### 1.6: Compactness
 
+- A subset of $$\mathbb{R}^n$$ is **compact** if it is closed and bounded.
+- Compactness is important because it yields existence theorems for limits.
+
+**Theorem 1.21** (Bolzano-Weierstrass Theorem).
+If $$S$$ is a subset of $$\mathbb{R}^n$$, $$S$$ is compact iff every sequence of points in $$S$$ has a convergent subsequence whose limit lies in $$S$$.
+
+- Note: every finite subset of $$\mathbb{R}^n$$ is obviously compact
+- Connection between compactness and continuity
+
+**Theorem 1.22.**
+Continuous functions map compact sets to compact sets.
+Suppose that $$S$$ is a compact subset of $$\mathbb{R}^n$$ and $$\mathbf{f} : S \to \mathbb{R}^m$$ is continuous at every point of $$S$$.
+Then the set $$\mathbf{f}(S) = \{ \mathbf{f}(\mathbf{x}) : \mathbf{x} \in S \}$$ is also compact.
+
+**Theorem 1.23** (Extreme Value Theorem).
+Suppose $$S \subset \mathbb{R}^n$$ is compact and $$f : S \to \mathbb{R}$$ is continuous.
+Then $$f$$ has an absolute minimum value and an absolute maximum value on $$S$$;
+that is, there exist points $$\mathbf{a}, \mathbf{b} \in S$$ such that $$f(\mathbf{a}) \le f(\mathbf{x}) \le f(\mathbf{b})$$ for all $$\mathbf{x} \in S$$.
+
+- $$\mathcal{U}$$ is a collection of subsets $$\mathbb{R}^n$$. It is a covering of $$S$$ if $$S$$ is contained within the union of the sets in $$\mathcal{U}$$.
+
+**Theorem 1.24** (Heine-Borel Theorem).
+If $$S$$ is a subset of $$\mathbb{R}^n$$, then $$S$$ is compact iff every open covering of $$S$$ has a finite subcovering.
+
+- Metric spaces: general sapces equipped with a distance function.
+- But Bolzano-Weierstrass and Heine-Borel may not be completely valid for other metric spaces. 
+
 
