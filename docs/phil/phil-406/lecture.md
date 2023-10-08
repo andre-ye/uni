@@ -69,3 +69,11 @@ Discrimination uniquely at A and B:
 | --- | --- | --- |
 | B'  |  X  |     |
 | B'' |   |     |
+
+
+Waves of feminism
+- 'First movement': 1848 - 1920, suffrage
+- The idea of 'waves' coined during the 'second wave'
+- Focus of the 'third wave', 1991 - now: intersectionality
+- 
+

@@ -168,6 +168,69 @@ What are the ontological commitments brought by discrimination?
 - We are not in a 'third wave' currently.
 - Rather, there is a kaleidoscope -- the ocean's ebbs and swells
 
+---
+
+## "Epistemologies of Ignorance", Shannon Sullivan and Nancy Tuana (2007)
+
+- Ignorance is of increasing concern, propped up as an alternative to elitism
+- It is "willfull ignorance"
+- Ignorance poses special epistemological questions.
+- Explaining ignorance is not new. But explaining ignornace as a substantive epistemic practice in itself is new.
+- Willfull ignorance attempts to explain and account for substatnive practices of ignorance as *structural*
+- Ignorance is a problem relating to ontologies of truth.
+- **Three arguments**
+  1. Ignorance follows from the fact of our *situatedness as knowers*
+  2. Ignornace is related to specific aspects of group identities
+  3. Structural analysis of the ways in which oppressive systems produce ignorance
+
+I
+- Lorraine Code: "S knows that p" epistemologies assume all S's are interchangeable
+- Knowers are nonfungible
+- We need to develop a geography of the epistemic terrain -- understand the sociopolitical structures which produce subjective positions and identities
+- This does not mean relativism
+- Epistemic advantages and disadvantages are not the same for all
+- Most knowledge is the product of judgement rather than deductive argument
+- An adequate concept of epistemic situatedness requires understanding the knower's geneology.
+- An epistemic situation may be advantaged/disadvantaged depending on what kind of knowledge we are pursuing / i.e. exist in relation to specific kinds of inquiry.
+
+II
+page 6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

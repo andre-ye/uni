@@ -91,7 +91,44 @@ $$\lim_{\mathbf{x} \to \mathbf{a}} \mathbf{f}(\mathbf{x}) = L \iff \lim_{\mathbf
 
 **Theorem 1.13.** Suppose $$\mathbf{f} : \mathbb{R}^n \to \mathbf{R}^k$$ is continuous and $$u \subset \mathbb{R}^k$$. Let $$S = \{ \mathbf{x} \in \mathbb{R}^n : \mathbf{f}(\mathbf{x}) \in U\}$$. Then $$S$$ is open if $$U$$ is open and $$S$$ is closed if $$U$$ is closed.
 
+### 1.5: Completeness
+- The essential properties of the real number system which *underlies all of calculus*: $$\mathbb{R}$$ is a complete ordered field.
+  - Field: operations of addition, subtraction, multiplication, and division are defined and subjec to usual laws of arithmetic.
+  - Ordered field: field with the binary relation and antisymmetric
+  - Completeness: there are no 'holes' in the real number line
+- If $$S$$ is a subset of $$\mathbb{R}$$, an **upper bound** for $$S$$ is a number $$u$$ such that $$x \le u$$ for all $$x \in S$$, and a **lower bound** for $$S$$ is a number $$l$$ such that $$l \le x$$ for all $$x \in S$$.
 
+**The Completeness Axiom.** Let $$S$$ be a nonempty set of real numbers. If $$S$$ has an upper bound, then $$S$$ has a least upper bound, the supremum of $$S$$, denoted $$\sup S$$. If $$S$$ has a lower bound, then $$S$$ has a greatest lower bound, the infimum of $$S$$, denoted $$\inf S$$. Examples:
+- $$S = (0, 1]$$. $$\sup S = 1$$, $$\inf S = 0$$.
+- $$S = \{ 1, 1/2, 1/3, 1/4, ... \}$$. $$\sup S = 1$$, $$\inf S = 0$$.
+- $$S = \{ 1, 2, 3, 4, ... \}$$. $$\sup S = \infty$$, $$\inf S = 1$$.
 
+If $$S$$ has an upper bound, the number $$a = \sup S$$ is the unique number such that
+- $$x \le a$$ for all $$x \in S$$ ($$a$$ is an upper bound)
+- For every $$\epsilon > 0$$, there exists $$x \in S$$ with $$x > a - \epsilon$$ (there is no smaller upper bound)
+- **Completeness of the real number system is important in establishing the convergence of numerical sequences**
+  - A sequence is **bounded** if its range is bounded
+  - A sequence is *increasing** if $$x_{n+1} \ge x_n$$ for all $$n$$
+  - A sequence is **decreasing** if $$x_{n+1} \le x_n$$ for all $$n$$
+  - A sequence is **monotonic** if it is either increasing or decreasing
+
+**Theorem 1.16** (Monotone Sequence Theorem). Every bounded monotone sequence in $$\mathbb{R}$$ is convergent. The limit of an increasing/decreasing sequence is the supremum/infimum of its set of values.
+
+**Theorem 1.17** (Nested Interval Theorem).
+Let $$I_1 = [a_1, b_1], I_2 = [a_2, b_2], ...$$ be a squence of closed, bounded intervals in $$\mathbb{R}$$.
+Suppose that $$I_1 \supset I_2 \supset I_3 \supset ...$$ *and* the length $$b_k - a_k$$ of $$I_k$$ approaches 0 as $$k \to \infty$$.
+Then there is eactly one point contained in all of the intervals $$I_k$$.
+The intersection $$\bigcap_{k=1}^\infty I_k$$ is nonempty (a single point).
+
+- A subsequence of $$\{x_k\} is a sequence specified by a one-to-one map $$j \to k_j$$ from the set of positive integers into itself, e.g. $k_j = 2j$$ selected even-numbered terms.
+
+**Theorem 1.18** (form of Bolzano-Weierstrass theorem). 
+Every bounded sequence in $$\mathbb{R}^n$$ has a convergent subsequence.
+
+- A sequence $$\{\mathbf{x}_k\} \in \mathbb{R}^n$$ is a Cauchy sequence if $$\mathbf{x}_k - \mathbf{x}_j \to 0$$ as $$k, j \to \infty$$; that is, if for every $$\epsilon > 0$$ there exists an integer $$K$$ such that $$\vert \mathbf{x}_k - \mathbf{x}_j \vert < \epsilon$$ whenever $$k > K$$ and $$j > K$$.
+
+**Theorem 1.20.** A sequence $$\{ \mathbf{x}_k \} \in \mathbb{R}^n$$ is convergent iff it is Cauchy.
+
+### 1.6: Compactness
 
 

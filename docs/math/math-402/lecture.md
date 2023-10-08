@@ -87,6 +87,24 @@ $$[ a] \cap [ c] \neq \emptyset$$
 - Given any $$a \in \mathbb{Z}, \exists 0 \le r < n$$ s.t. $$[a] = [r]$$
 - Theorem 2: you can substitute with representatives. If $$a \equiv_n b$$ and $$c \equiv_n d$$, then $$a + c \equiv_n b + d$$
 - If you want to do addition or multiplication, you can do whatever representative you want in your class.
+
+---
+
+## Week 2 Friday
+- Arithmetic across congruence classes looks a lot lot arithmetic over the naturals. 
+- How do you define addition across two congruence classes? You could just add every element across the set: e.g. $$S + T = \{s + t \vert s \in S, t \in T\}$$, and the same for multiplication: $$ST = \{st \vert s \in S, t \in T\}$$
+- Or you could union
+- Consider the set 0 $$Z$$, the set of units $$U$$, and the set of everything else $$R$$
+  - $$Z * Z = Z$$.
+  - $$Z * U = Z$$.
+  - $$Z * R = Z$$.
+  - $$U * R = R$$.
+  - $$U * U = U$$.
+  - $$R * R = $$ natural numbers without the primes.
+  - $$U + U = \{ 0, -2, 2 \}$$.
+  - You can define set addition / multiplication, but it's poorly behaved
+- Congruence classes behave well under addition and multiplication -- which is a miracle, that you can define addition and multiplication on sets. You can define arithmetic on them.
+- For all $$a \in \mathbb{Z}$$, $$[a] = [0] + a$$ (translation). Different elements in the equivalence class must be shifted over.
 - 
 
 
