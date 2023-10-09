@@ -284,4 +284,63 @@ If $$S \susbsetequals \mathbb{R}$$ and non-empty,
 Although this is true for the reals, it is false for the rationals.
 For example, $$S = \{ x \in \mathbb{R} \vert x \in \mathbb{Q} \text{ and } x^2 < 2 \}$$. There is no least upper bound in the rationals (it is in the reals).
 
+---
 
+## Lecture 4: Sequences, Extrema
+
+- Monotone Sequence Theorem: every bounded monotone sequence is convergent. 
+- Since $$l$$ is a least upper bound, $$\forall \epsilon > 0, \exists N > 0$$ s.t. $$l - \epsilon < x_n, \forall n > N$$, as otherwise $$l - \epsilon$$ would be a smaller upper bound than $$l$$. Thus $$\forall \epsilon > 0, \exists N > 0, l - \epsilon \le x_n < l, \forall n > N$$. Therefore, $$x_n \to l$$. 
+- Nested Interval Theorem: consider a sequence of intervals $\{I_k\}_{k=1}^\infty$$, where $$I_k = [a_k, b_k]$$ such that $$I_1 \supset I_2 \supset I_3 \supset ... \supset I_k \supset ...$$. $$b_k - a_k \to 0$$ as $$k \to \infty$$. Then $$\exists$$ a unique $$x_0$$ in every $$I_n$$. Proof:
+  1. Since $$I_1 \supset I_2 \supset I_3 \supset ...$$, then $$a_1 \le a_2 \le a_3 \le ...$$, and $$b_1 \ge b_2 \ge b_3 \ge ...$$. These are monotone sequences.
+  2. These are bounded sequences since $$a_1 \le a_k \le b_k \le b_1$$, $$\forall k$$.
+  3. We can apply the monotone sequence theorem to show that both sequences are convergent.
+  4. Moreover, since $$b_k - a_k \to 0$$, then the converge to the same element. Call this element $$x_0$$. Since $$a_k \le x_o \le b_k$$, $$\forall k$$, so $$x_0 \in [a_k, b_k] \implies x_0 \in \cap_{k=1}^\infty I_k$$.
+  5. We have to show moreover that this point is unique. Assume that there are two unique elements which are both in the intersection of all intervals. Then there is some nonzero distance between them. But since $$b_k - a_k \to 0$$, $$\exists N$$ s.t. $$\vert b_N - a_N \vert < \epsilon$$. Since $$x_0, x' \in [a_N, b_N]$$. This is a contradiction because $$\vert x_0 - x' \vert > \epsilon$$.
+- $$\{x_n\} = \{(-1)^n \}$$ is bounded but not monotone.
+- If $$\{x_k\\}_{k=1}^\infty$$ is a sequence, a subsequence $$\{ x_k_j \}_{j=1}^\infty$$ and is defined by an injective increasing function from $$j \to k_j$$.
+  - That the injection is increasing means that the ordering is preserved.
+  - Example: if $$k_j = 2j$$, $$\{ (-1)^k \}_{k=1}^\infty$$ has a subsequence $$\{ (-1)^{2j} \}_{j=1}^\infty = \{ 1, 1, 1, ... \}$$.
+
+**Theorem (Bolzano-Weierstrass).** Every bounded sequence in $$\mathbb{R}$$ has a convergent subsequence. (It doesn't need to be monotone.) Proof by divide and conquer. Have something like an inductive argument, and then we are forced into one of two choices. 
+1. Let $$\{x_k\}_{k=1}^\infty$$ be bounded, say $$x_k \in [a, b], \forall k \in \mathbb{N}$$.
+2. First, bisect the interval $$[a, b]$$ into $$[a, (a+b)/2]$$ and $$[(a+b)/2, b]$$.
+3. Let $$I_1$$ be the biggest interval. One of these subintervals must contain infinitely many terms in the sequence.
+4. If both do, just choose the left one. Call this interval $$I_2$$.
+5. Bisect $$I_2$$ into $$[a_2, (a_2 + b_2)/2]$$ and $$[(a_2 + b_2)/2, b_2]$$. Choose a subinterval as above, call it $$I_3$$.
+6. We continue to narrow in one whichever interval still has an infinite number of terms in the sequence.
+7. Proceeding in this way, we produce a sequence of nested intervals $$I_1 \supset I_2 \supset I_3 \supset ...$$.
+8. We know, moreover, that their lengths are decreasing to zero. $$\vert I_k \vert = \frac{b - a}{2^{k-1}}$$.
+9. To construct our subset, $$k_1 \in \mathbb{N}$$ s.t. $$x_{k_1} \in I_1$$, $$k_2 > \mathbb{N} : k_2 > k_1$$ s.t. $$x_{k_2} \in I_2$$, and so on. This guarantees that the subsequence is contained in the intersection of all the intervals *and* the order is preserved.
+10. By the Nested Interval Theorem, there is some $$x_0 \in \cap_{k=1}^\infty I_k$$. $$\{ x_k_j \}_{j=1}^\infty$$ converges to $$x_0$$.
+
+**Corollary.**
+Every bounded sequence in $$\mathbb{R}^n$$ has a convergent subsequence.
+If you look at a sequence of vectors, they all converge component-wise. But you couldn't say that the sequenece converges to a single vector.
+$$\forall j = 1, ..., n, \exists a$$ convergent subsequence for $$\{ x_k^{(j)}\}$$ by BW. We proceed inductively.
+1. Choose a subsequence of vectors, say $$\{ \vec{x}_{k_l} \}_{l=1}^\infty$$, where the first component converges.
+2. Choose a subsubsequence which makes the second components converge. This will preserve the property that the first component converges, too.
+3. As long as $$n$$ is finite, you can keep on taking subs `;)`
+
+**Definition.**
+A sequence is Cauchy if $$\forall \epsilon > 0, \exists N > 0$$ s.t. $$\Vert \vec{x}_n - \vec{x}_m \Vert < \epsilon$$ whenever $$n, m > N$$.
+You can talk about a seuqnece being Cauchy without knowing what it converges to.
+Its components pile up, they end up being very close to each other, there is an index such that all the terms after that index are very close to each other.
+This is tronger even than saying that consecutive terms go to zzero. It also says that the terms *in general* after a certain point are very close to each other.
+
+- Todd Kemp: the real numbers are equivalence classes of Cauchy sequences which are rational.
+
+**Theorem.** A sequence in $$\mathbb{R}^n$$ is a convergent sequence iff it is Cauchy. You don't need to know the limit to know that the sequence is Cauchy. So often it is easier to show that a sequence of things is Cauchy rather than finding the convergent value. Proof:
+1. If $$\{\vec{x}_n\}_{n=1}^\infty$$ is converging to $$\vec{x}_0 \in \mathbb{R}^n$$, the sequence is cauchy. Since $$\vec{x}_j - \vec{x}_k = (\vec{x}_j - \vec{x}_0) + (\vec{x}_0 - \vec{x}_k)$$. Then, appeal to the triangle inequality: $$\Vert \vec{x}_k - \vec{x}_j \Vert \le \Vert \vec{x}_j - \vec{x}_0 \Vert + \Vert \vec{x}_0 - \vec{x}_k \Vert$$ as $$k, j \to \infty$$. (For every $$\epsilon$$, choose the $$N$$ such that the convergence exists such that $$j, k$$ the minimum of the two is greater than $$N$$.) Then $$\Vert \vec{x}_k - \vec{x}_j \Vert < \epsilon$$.
+2. Suppose $$\{ \vec{x}_k \}_{k=1}^\infty$$ is Cauchy. Choosing $$\epsilon = 1$$ in the definition of Cauchy, there exists some $$N$$ such that $$\vert \vec{x}_k - \vec{x}_k \Vert < 1$$ for all $$j, k > N$$. Our sequence, then, is bounded. Iin particular, $$\Vert \vec{x}_k \Vert < \Vert \vec{x}_{k+1} \Vert + 1$$, $$\forall k > N$$. Thus the sequence is bounded and thuse has a convergent subsequence. But the Cauchy property shows us that the limit of the subsequence is the same as the limit of the original sequence. 
+  - Claim: the sequence converges to $$\vec{x}_0$$, not just the subsequence. 
+  - Given $$\epsilon > 0, \exists J > 0$$ s.t. $$\Vert \vec{x}_{k_j} - \vec{x}_0 \Vert < \epsilon / 2$$ if $$j > J$$ (by convergence), further $$\exists N > 0$$ s.t. $$\Vert \vec{x}_k - \vec{x}_m \Vert < \epsilon / 2$$ if $$k, m > N$$ (Cauchy).
+  - Thus $$\Vert \vec{x}_k - \vec{x}_0 \Vert \le \Vert \vec{x}_k - \vec{x}_{k_j} \Vert + \Vert \vec{x}_{k_j} - \vec{x}_0 \Vert < \epsilon / 2 + \epsilon / 2 = \epsilon$$ if $$k > N$$ and $$j > J$$.
+
+Compactness
+- **Definition.** A set $$S \subseteq \mathbb{R}^n$$ is compact if it is closed and bounded / every sequence in $$S$$ has a convergent subsequence whose limit is in $$S$$.
+- Remark: finite sets are compact. Compact sets can be infinite, but behave like finite sets.
+- **Theorem** (Extreme Value Theorem). If $$f: [a, b] \to \mathbb{R}$$ is continuous, it achieves its max and min.
+
+
+Notes
+- Midterm 1 is going to cover chapter 1 of the book. 
