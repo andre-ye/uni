@@ -233,6 +233,11 @@ If $$p > 1$$ is an integer, the following conditions are equivalent:
 2. For any $$a \neq 0$$ in $$\mathbb{Z}_p$$, the equation $$ax = 1$$ has a solution in $$\mathbb{Z}_p$$
 3. Whenever $$bc = 0$$ in $$\mathbb{Z}_p$$, then $$b = 0$$ or $$c = 0$$
 
+Proof:
+1. Show that 1 implies 2. Suppose $$p$$ is prime and $$a \neq 0$$ in $$\mathbb{Z}_p$$. Then $$a \nequiv_p 0$$. Therefore, $$p \nmid a$$. Now, $$(a, p)$$ is a positive divisor of $$p$$ and is either $$p$$ or $$1$$. Since $$(a, p)$$ also divides $$a$$ and $$p \nmid a$$, $$(a, p) = 1$$. From theorem 1.2., $$au + pv = 1$$ for some integers $$u, v$$. Hence, $$au - 1 = p(-v)$$, so $$au \equiv_p 1$$. Therefore $$[au] = [1]$$ in $$\mathbb{Z}_p$$. Therefore $$x = [u]$$ is a solution to $$ax = 1$$ in $$\mathbb{Z}_p$$.
+2. Show that 2 implies 3. Suppose $$ab = 0$$ in $$\mathbb{Z}_p$$. If $$a = 0$$, there is nothing to prove. If $$a \neq 0$$, then by 2 there exists $$u \in \mathbb{Z}_p$$ such that $$au = 1$$. Then $$0 = u \cdot 0 = u(ab) = (ua)b = (au)b = 1 \cdot b = b$$. 
+3. Show that 3 implies 1. Suppose $b, c \in \mathbb{Z}$$, $$p \vert bc$$. Then $$bc \equiv_p 0$$. By 2.3, $$[b][c] = [bc] = [0]$$ in $$\mathbb{Z}_p$$. By 3, $$[b] = 0$$ or $$[c] = [0]$$. This means $$b \equiv_p 0$$ or $$c \equiv_p 0$$, or $$p \vert b$$ or $$p \vert c$$. This means $$p$$ is prime by theorem 1.5.
+
 The Structure of $$\mathbb{Z}_n$$
 - When $$n$$ is not prime, $$ax = 1$$ does not necessarily have a solution in $$\mathbb{Z}_n$$. 
 

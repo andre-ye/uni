@@ -180,6 +180,93 @@ PHIL 430
 
 ??? what??? this piece is confusing...
 
+---
+
+## *The Hellenistic Philosophers*, Long & Sedley
+
+### 4: The principles of conservation (Epicureanism)
+
+Epicurus, *Letter to Herodotus*
+- Nothing comes into being out of what is not
+- If destruction meant destruction into nothing, then all things would be perished
+- The "totality of things" is constant, there is nothing into which it changes
+
+Lucretius, 1.15
+- If things came into being out of nothing, every species would be produced out of everything, there is no need for a "seed"
+- Particular things contain their onw separate powers, so everything cannot come into being out of everything
+
+Lucretius,1.225
+- If time totally destroys things, why are living creatures brought back continuously?
+- It cannot be that all things are reduced to nothing
+
+Discussion
+- Epicurus: launches physical theory from three principles, establishing a permanent and unchanging pool of consitutents for the world
+- First two principles (nothing comes into being out of nothing, nothing perishes into nothing) Has a long history 
+    - Parmenides, 5th century
+- Lucretius takes into account place, time, duration of generation, etc.
+- Generation ex nihilo has unacceptable consequences.
+- No ingredients can be added or subtracted in the "universe"
+- Change by generation, destruction, subtraction, adition ruled out
+- Change of being is in fact perishing of existence and being of non-existence.
+
+### 5: The basic division (Epicureanism)
+
+Epicurus, *Letter to Herodotus*
+- The totality of things is bodies in void.
+- Bodies exist: this is shown by sensation
+- If place / room / void did not exist, bodies could not move anywhere
+- Beyond body and void, nothing can be thought of
+
+Lucretious, 1.419
+- In the totaliyt of things, there is perse
+- There are bodies and void, the location of bodies
+- If void did not exist, bodies could not be located anywhere and could not move
+- There is nothing you can call distinct from body and void; there are two substances
+- If a body has tangibility, it will extend the measure of a body and add to its sum
+- If it has no tangibility, it will be nothing, it will prevent nothing from passing through it, and it will undoubtedly be void.
+
+Aetius, 1.20.2
+- Void, place, room are of the same name, says Epicurus.
+
+Sextus Empiricus, *Against the professors* 10.2
+- For Epicurus, intangible substance / void / place / room is occupied by bodies
+- Intangible substances lack resistant touch
+
+Discussion
+- Epicurus was committed to the mutual exclusiveness of body and void but **comprimises this position by not distinguishing void from place**
+- Part of Epicurus' task is to prove the existence of the void
+- Evolved to deal with Aristotle
+- A cube entering void could not displace it
+- What happens to void when it is approached by body? Void must remain, but it is an intangible substance for space in the broadest sense, occupied or not.
+- Epicurus is wise not to single out void as *unoccupied space*, because unoccupied space is not permanent / constant.
+- **By choosing space in the broadest sense, he is the first ancient thinker to isolate / i..e to ensure permanence of a second ontological element.**
+- Paradox: body and space are mutually exclusive, yet sometimes coextensive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
