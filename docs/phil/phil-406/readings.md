@@ -194,11 +194,60 @@ I
 - An epistemic situation may be advantaged/disadvantaged depending on what kind of knowledge we are pursuing / i.e. exist in relation to specific kinds of inquiry.
 
 II
-page 6.
+- Epistemic ignorance, not general, but rather focused on specific groups of knowers who share a *social* location
+- Specific features of women's epistemic situation gives them an epistemic advantages; we can arrive at more empirically adequate descriptions when starting research from women's lives.
+- **Women are usually alienated from social power but rarely alienated from the everyday needs of maintaining material existence.**
+- These analyses should be applied selectively, and locally
+- Harding: "members of oppressed groups have fewer interests in ignorance about the social order and fewer reasons to invest in maintaining or justifying the status quo than do dominant groups"
+  - Yet in fact they might, for purposes of living within a system which suppresses anti-ignorance.
+  - Peoples' acceptance of various critical social theories are often a (complex) function of their social identy
+- Maybe good epistemic practices / virtues can overcome epistemic limitations 
+- Belief formulation requires judgment calls about relevance, plausibility, coherence, etc. -- and these are all already working within me.
+- Group identity makes an epistemically relevant difference, because it influences the transcendental a priori beliefs.
+- WHy is it important to have women on the Supreme Court or in law-making bodies? Only women are in a position to see the full weight of the significance of the law's effect on women.
+- Aspects of group identity:
+  1. All knowers are situated, and this has epistemic implications for judgement
+  2. Situations are correlated in at least some important ways to social identity, without making essentializing claims
+  3. Female gender identity includes a general marginality from social power and a lack of alienation from materiality
+  4. A female-gendered location is a resource to build a feminist standpoint
+  5. Male-identity is epistemically disadvantaged in dominant gender-related social power, less interest in questioning them, even.
+- G.I. Bill and the process of democratizing the US academy, the production of academic knowledge. 
+- Epistemic ignorance is contextual
 
+III
+- Epistemic ignornace provides a more structural account of the nature of oppressive systems.
+- A structural argument focuses on generally differentiated experiences and interests
+- Ignornace is not a lack, but rather a substantive epistemic practice which differentiates the social group
+- As a member of a dominant social group, one may inculcate patterns of belief-forming practices which create certain effects on systematic ignorance.
+- The Racial Contract prescribes an "inverted epistemology" / "epistemology of ignorance", cognitive dysfunction -- whites are unable to understand the world they've made
+- Racism is a *type of subjectivity* which forms patterns of perceptual attention that distort reality. (What is reality?)
+- Whiteness as a political construct includes a cognitive model and ensures a consensual halluciantion / racial fantasy. So there is a cognitive / moral economic *psychically* required
 
+IV
+- Frankfurt School's critique of instrumental rationality. Project: a materialist critical analysis of reason under capitalism and fascism
+- Made links betwween kinds of knowing practices and political economy structures
+- Disagreement between Habermas and Marcuse + Horkheimer. Habermas: instruemntal rationality was a legitimate epistemic practice as long as it was not universalized hegemonically.
+- Horkheimer: argued against naive empiricism. Both the subject and the objective are historical. Critical theorists must denaturalize the product and process of knowledge. 
+- Traditional theory vs critical theory: uniting epistemic and political factors
+- Instrumentalized reason is not an aid in truth, but works to obscure it. 
+- When we describe the world around us, we are not merely reporting on natural creations, but products of collective human praxes.
+- Traditional theory's focus on problem solving is congruent with capitalist rationality. This aims at prediction and quantification.
+- Explanation, hermeneutic interpretation, and normative argument are denigrated as useless speculations.
+- Universities might be places of sitting, meditation, and knowledge absorption. (Socratic orgasm.)
+- The result of social production of the knowing individual is a liquidation of the subject
+- The reduction of reason to analysis 
+- White ignornace may be a type of loss of critical rationality: a process of self-preservation without the self
+- Little attention is paid in the philosophy of science to the structural economic organization of this society
+- Traditional epistemology cannot handle this level of reflexivity. Yet sociological concerns are central to any epistemnic assessment of knowledge.
+- Critical theory: bring consciousness to the link between the social production of knowledge and of society.
+- Horkheimer criticizes the use of pragmatic criteria and defends a notion of objective reason. Objective reason critiques subjective reason
+- We must not put science in service of subjective ends.
+- Reason must be restricted to preempt the objective truths it reveals, and ignorance is the result.
 
-
+V
+- Horkheimer's critiques can help us understand the way in which knowers are situated, structured, differentiated
+- Said: Orientalism naturalizes its object of study as discrete, stable, fixed
+- Epistemology must be reflexively aware and critical of its location within an econoimc system
 
 
 

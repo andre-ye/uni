@@ -219,6 +219,41 @@ For any classes $$[a]$$, $$[b]$$, $$[c]$$ in $$\mathbb{Z}_n$$,
 
 $$[a]^k = [a] \bigodot [a] \bigodot ... \bigodot [a] , k\text{ times}$$
 
+### 2.3: The Structure of $$\mathbb{Z}_p$$ and $$\mathbb{Z}_n$$
+- New notation: uses the same symbol to represent totally different entities.
+- The class notation $$[a]$$ will be replaced with $$a$$.
+
+The structure of $$\mathbb{Z}_p$$ when $$p$$ is prime
+- When $a \neq 0$, the equation $ax = 1$ has a solution in $\mathbb{Z}$ iff $a = \pm 1$.
+- But $ax = 1$ has solutions when $$p$$ is prime for $$\mathbb{Z}_p$$
+
+**Theorem 2.8.**
+If $$p > 1$$ is an integer, the following conditions are equivalent:
+1. $$p$$ is prime
+2. For any $$a \neq 0$$ in $$\mathbb{Z}_p$$, the equation $$ax = 1$$ has a solution in $$\mathbb{Z}_p$$
+3. Whenever $$bc = 0$$ in $$\mathbb{Z}_p$$, then $$b = 0$$ or $$c = 0$$
+
+The Structure of $$\mathbb{Z}_n$$
+- When $$n$$ is not prime, $$ax = 1$$ does not necessarily have a solution in $$\mathbb{Z}_n$$. 
+
+**Theorem 2.9.** 
+Let $$a$$ and $$n$$ be integers with $$n > 1$$.
+Then the equation $$[a]x = [1]$$ has a solution in $$\mathbb{Z}_n$$ iff $$(a, n) = 1$$ in $$\mathbb{Z}$$.
+
+Units and Zero Divisors
+- An element $$a$$ in $$\mathbb{Z}_n$$ is a unit if the equation $$ax = 1$$ has a solution
+
+**Theorem 2.10.**
+Let $$a, n$$ be integers with $$n > 1$$.
+Then $$[a]$$ is a unit in $$\mathbb{Z}_n$$ iff $$(a, n) = 1$$ in $$\mathbb{Z}$$.
+
+- A nonzero element $$a$$ of $$\mathbb{Z}_n$$ is called a zero divisor if the equation $$ax = 0$$ has a noznero solution
+- From 2.8. part 3, when $$p$$ is prime, there are no zero divisors in $$\mathbb{Z}_p$$
+
+
+
+
+
 ---
 
 ## Chapter 3: Rings
