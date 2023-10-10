@@ -95,8 +95,6 @@ Waves of feminism
 - Ignorance epistemology is always associated with a "rational" system of judgement
 - Our very conception of truth can be itself ignorant, in Horkheimer's case, failing to be sociologically reflexive, that is, accounting for its conditions of (re)production. 
 - Yet the notion of critical reason is still very dubious... and possibly reproduces instrumental reason's logic.
-- 
-
 
 
 
