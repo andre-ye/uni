@@ -259,4 +259,66 @@ Concluding Unscientific Postscript
 - **Challenge the assumption that there can be an axis.**
 - **Resist horizontal reading**
 
+---
+
+## Week 3: Racial Eliminativism and Racial Formation Theory
+
+### "Philosophical aspects of the AAA statement on race", Naomi Zack (2001)
+- The AAA statement on race misses the point that race cannot determine anything because it does not exist
+
+Introduction
+- Most philosophers writing about race focus on social identities and racisms, but anthropologists try to understand their biological foundations.
+- Race has no foundation in science.
+- No one likes racial essentialism anymore. 
+- Aristotlian doctrine about reality: different groups of things exist in nature; Science is the discovery of essences. Essential definitions are necessary and sufficient conditions. Yet we see now in modern sciecne that few things in nature have observable essences or essential properties; rather, the classification becomes a product of the mind imposed on nature.
+- Essences are sometimes biological, or metaphysical and spirital
+- Refuted racism does not mean refuting essentialism
+
+The Logic of Nonessentialism
+- Interpretes past empirical research and influences future research
+- Not all scientists recognize that the idea of race as biologically empty
+- Scientists often turn towards empirical data to determine non/existence. But this can only dis/confirm existence at different levels fo generality. Human race is a very general construct.
+- Basic truths about race:
+  1. If there is no human biological racial taxonomy, there is no human biological racial hierarchy
+  2. If there is no human biological racial taxonomy, there are no specific biological races.
+  3. If there are no biological races, then there are no pure or mixed biological races
+  4. If there is no human biological racial taxonomy, then there are no biological causal connections between biological race and culture or psychology.
+  5. etc. etc.
+
+- If these are true, that is, that race does not exist, then there is no scientific finding about race which matters.
+- AAA statement: explanation about how racial difference theories histrocially function  to justify cultural domination
+- 1952, Levi-Strauss: cultural differences are the result of history and environment.
+- UNESCO 1965 statements on racism: human culutral achievement is not determined or constrained by biological racial identity.
+- AAA both implies the nonexistence of race and the empirical incongruence between racial difference and cultural difference
+- Not everything that is biological or hereditary qualifies as racial
+- "One-drop rule", racail essences
+- A biologcail race must have some general factors that all individuals in that race has. This i s not genetic. 
+  - No one phenotype is shared by everyone in the race
+  - Brazil has a one-drop rule for white identity
+  - People who se ancestors are born in India migth be considered black in England but white in the US depending on skin shade
+- Biological racial essences have gone the way of phlogiston, but it lingers on in ordinary thinknig, and this is untouched.
+- When scientists do speak of races, they try to highlight that they are talking about statistical / population conceptions, yet they can easilys lide into a racial typology.
+- George Berkeley, "abstract general ideals" -- a symbol for all members of a group which characterizes each one of them as a whole entity. Yet there is no reality to which they refer. (ok... but does the mean exist?)
+
+Nonessentialism and Kennewick Man
+- Leonard Lieberman -- the nature of the relevant skeletal reference collection determines how forensic anthropologists classify new skeletal remains
+- Clines; continua
+- Kennewick man: a well-preserved middle-aged man with "caucasoid features", 9.3k years ago alive. James Chatters: there may have been a European group in the Americas before north Asian groups which are the ancestors of contemporary Native Americans.
+- Native American Graves Protection and Repatriation Act (NAGPRA) -- Native American groups have the right to claim remains of their ancestors.
+- Umatilla tribe statement: our ancestor's appearance can change over time, but through tis change, you have the indigenous people.
+- The Asatru Folk Assembly uses false biological racial essentialism: there is something about Native or white people who persists over time even through biological change.
+- What race is Kennewich Man? The inverse insight is that he has no race.
+- Racialization is essentializing, and that is the issue.
+- **Nonessentialist population typology** is weak.
+  - Traits typified over populations are continuous
+  - Geographical origin typology is a matter of decision; there is nothing in nautre to dictate how far back we go to cut off branches
+  - These cuts end up probably reproducing existing racial typologies.
+  - Metaphors and parallels can be harmful in aiding the reproduction of certain identitarian topologies. 
+  - Do not even essentialize geogrpahical or osteological typology. It is intelligible to the public only because o fits problematic correspondences.
+  - **Human racial groups in post-essentialist scientific categories epistemically share a circularity.**
+
+Essentialism and Medicine
+- 
+
+### "The Theory of Racial Formation", Michael Omi & Howard Winant (2015)
 

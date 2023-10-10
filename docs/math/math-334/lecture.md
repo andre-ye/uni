@@ -225,7 +225,7 @@ Sequences
 - A sequence is a collection of mathematical objects which are indexed by the natural numbers
 - We denote a sequence by $$\{x_k \}^\infty_{k=1}$$
 - A set has no notion of order, whereas a sequence does have order
-- e.g. the sequence 1, 4, 9, 16, ... can be written as $\{ n^2 \}_{n=1}^\infty$$
+- e.g. the sequence 1, 4, 9, 16, ... can be written as $$\{ n^2 \}_{n=1}^\infty$$
 - e.g. a sequence of intervals $$(-1, 1), (-1/2, 1/2), (-1/3, 1/3), ...$$ can be written as $$\{ (-1/n, 1/n) \}_{n=1}^\infty$$
 - You can also define sequences inductively: $$F_1 = 1, F_2 = 1, F_n = F_{n+2} = F_{n+1} + F_n$$
 - A nice proof technique: an inductive proof. Useful for proving statements of the form $$\forall n \in \mathbb{N}, P(n)$$ is true. First, show $$P(1)$$. Then, show $$P(n) \implies P(n+1)$$ (inductive step)
@@ -243,7 +243,7 @@ Sequences
   2. Let $$\{ \vec{x}_n \}_{n=1}^\infty$$ be a sequence converging to $$\vec{x}_0$$.
   3. By continuity, $$\forall \epsilon > 0$$, $$\exists \delta > 0$$ such that $$ \Vert f(\vec{x}) - f(\vec{x}_0) \Vert > \epsilon$$ whenever $$\Vert \vec{x} - \vec{x}_0 \Vert < \delta$$.
   4. Since $$\vec{x}_n \to \vec{x}_0$$, $$\exists N > 0$$ such that $$\Vert \vec{x}_n - \vec{x}_0 \Vert < \delta, \forall n > N$$.
-- Proof that 2 implies 1 (prove the logicallay equivalent contrapositive statement):"not 1 implies not 2$$. If  $$\exists \vec{x}_0 \in \mathbb{R}^n$$ such that $$f(\vec{x})$$ is not continuous at $$\vec{x}_0$$, we'll prove $$\exists \vec{x}_n \to \vec{x}_0$$ and $$f(\vec{x}_n) $$ does not converge to $$f(\vec{x}_0)$$.
+- Proof that 2 implies 1 (prove the logicallay equivalent contrapositive statement):"not 1 implies not 2". If  $$\exists \vec{x}_0 \in \mathbb{R}^n$$ such that $$f(\vec{x})$$ is not continuous at $$\vec{x}_0$$, we'll prove $$\exists \vec{x}_n \to \vec{x}_0$$ and $$f(\vec{x}_n) $$ does not converge to $$f(\vec{x}_0)$$.
   1. Since $$f$$ is not continuous at $$\vec{x}_0$$, $$\exists \epsilon_0 > 0, \forall \delta > 0, \exists \vec{x}_{\delta} \in \mathbb{R}^n$$ where $$\Vert \vec{x}_\delta - \vec{x}_0 \Vert < \delta$$ and $$\Vert f(\vec{x}_\delta) - f(\vec{x}_0) \Vert > \epsilon_0$$
   2. For each of $$\delta = 1, 1/2, 1/3, ..., 1/k, ...$$ choose such a vector $$\vec{x}_k$$ as above. 
   3. Although the sequence $$\vec{x}_k \to \vec{x}_0$$, $$f(\vec{x}_k)$$ does not converge to $$f(\vec{x}_0)$$.
@@ -297,7 +297,7 @@ For example, $$S = \{ x \in \mathbb{R} \vert x \in \mathbb{Q} \text{ and } x^2 <
   4. Moreover, since $$b_k - a_k \to 0$$, then the converge to the same element. Call this element $$x_0$$. Since $$a_k \le x_o \le b_k$$, $$\forall k$$, so $$x_0 \in [a_k, b_k] \implies x_0 \in \cap_{k=1}^\infty I_k$$.
   5. We have to show moreover that this point is unique. Assume that there are two unique elements which are both in the intersection of all intervals. Then there is some nonzero distance between them. But since $$b_k - a_k \to 0$$, $$\exists N$$ s.t. $$\vert b_N - a_N \vert < \epsilon$$. Since $$x_0, x' \in [a_N, b_N]$$. This is a contradiction because $$\vert x_0 - x' \vert > \epsilon$$.
 - $$\{x_n\} = \{(-1)^n \}$$ is bounded but not monotone.
-- If $$\{x_k\\}_{k=1}^\infty$$ is a sequence, a subsequence $$\{ x_k_j \}_{j=1}^\infty$$ and is defined by an injective increasing function from $$j \to k_j$$.
+- If $$\{x_k\}_{k=1}^\infty$$ is a sequence, a subsequence $$\{ x_{k_j} \}_{j=1}^\infty$$ and is defined by an injective increasing function from $$j \to k_j$$.
   - That the injection is increasing means that the ordering is preserved.
   - Example: if $$k_j = 2j$$, $$\{ (-1)^k \}_{k=1}^\infty$$ has a subsequence $$\{ (-1)^{2j} \}_{j=1}^\infty = \{ 1, 1, 1, ... \}$$.
 
@@ -311,7 +311,7 @@ For example, $$S = \{ x \in \mathbb{R} \vert x \in \mathbb{Q} \text{ and } x^2 <
 7. Proceeding in this way, we produce a sequence of nested intervals $$I_1 \supset I_2 \supset I_3 \supset ...$$.
 8. We know, moreover, that their lengths are decreasing to zero. $$\vert I_k \vert = \frac{b - a}{2^{k-1}}$$.
 9. To construct our subset, $$k_1 \in \mathbb{N}$$ s.t. $$x_{k_1} \in I_1$$, $$k_2 > \mathbb{N} : k_2 > k_1$$ s.t. $$x_{k_2} \in I_2$$, and so on. This guarantees that the subsequence is contained in the intersection of all the intervals *and* the order is preserved.
-10. By the Nested Interval Theorem, there is some $$x_0 \in \cap_{k=1}^\infty I_k$$. $$\{ x_k_j \}_{j=1}^\infty$$ converges to $$x_0$$.
+10. By the Nested Interval Theorem, there is some $$x_0 \in \cap_{k=1}^\infty I_k$$. $$\{ x_{k_j} \}_{j=1}^\infty$$ converges to $$x_0$$.
 
 **Corollary.**
 Every bounded sequence in $$\mathbb{R}^n$$ has a convergent subsequence.

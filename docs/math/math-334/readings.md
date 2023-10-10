@@ -120,7 +120,7 @@ Suppose that $$I_1 \supset I_2 \supset I_3 \supset ...$$ *and* the length $$b_k 
 Then there is eactly one point contained in all of the intervals $$I_k$$.
 The intersection $$\bigcap_{k=1}^\infty I_k$$ is nonempty (a single point).
 
-- A subsequence of $$\{x_k\} is a sequence specified by a one-to-one map $$j \to k_j$$ from the set of positive integers into itself, e.g. $k_j = 2j$$ selected even-numbered terms.
+- A subsequence of $$\{x_k\}$$ is a sequence specified by a one-to-one map $$j \to k_j$$ from the set of positive integers into itself, e.g. $k_j = 2j$$ selected even-numbered terms.
 
 **Theorem 1.18** (form of Bolzano-Weierstrass theorem). 
 Every bounded sequence in $$\mathbb{R}^n$$ has a convergent subsequence.

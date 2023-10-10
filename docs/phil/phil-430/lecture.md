@@ -218,10 +218,103 @@ A Big-picture Problem with Atomism in *Generation and Corruption*
 - Is Epicurean atomism projecting backwards onto Leucippus and Democritus? 
 - Do the Epicureans respond to Aristotle?
 
+---
 
+## Epicureanism
+- Epicurus and Lucretius -- just starting and ending the Hellenistic period
 
+Epicurus
+- Born in Samos, 341 BC
+- Friendship with Nausiphanes (Democritean) in his youth
+- Even though Nausiphanes had some influence on Epicurus, Epicurus later was very critical of Nausiphanes
+- Epicurus moves to Athens for military service, is a teacher, then establishes a philosophical school.
+- "The Garden" -- a house between Athens and the Piraeus. So now it's a typical way to refer to Epicurean school
+    - More of a society of friedns who lived in accordance with common principles
+    - Friendship is very significant in Epicurean ethics
+    - The Garden is a realization of friendship. Admitted women, admitted slaves
+    - Is Epicureanism a sort of precursor to the Christian ethical revolt?
+- Are ancient schools research/teaching institutions or religious communities? Epicurus' garden is more of a religious community.
+- Epicurus is very prolific, wrote a very large number of books but very few survivedd.
+    - *To Herodotus* (principles of atomism)
+    - *Letter to Menoeceus* (moral theory)
+    - *Letter to Pythocles* (astronomy)
+- We also rely on the Roman poet Lucretius
 
+Lucretius
+- A roman poet, an Epicurean who presents Epicureanism as the only source of human salvation
+- Wrote more than 200 years after Epicurus' death
+- Amplifies and explains points form Epicurus' own writings
+- *De Rerum Natura*, famous work
 
+Other sources on Epicureanism
+- Diogenese Laertius (doxographer). Emphasis often varies, some aspects might be emphasized more than others
+- Cicero, Seneca, Plutarch, Sextus Empiricus, Diogenes of Oenoanda
+- Cicero & Plutarch dislike Epicureanism
+- Seneca is a Roman Stoic
+- Sextus Empiricus, thinks of Epicureanism as the most congenial of the dogmatic schools. -- so against Epicureanism, but friendly to it than stoicism
+- Diogenes of Oenanda is a late Epicurean -- inscribed Epicurus' teaching into a wall
+
+Epicurean Philosophy: An Overview
+- Empiricism: sensations and feelings are the only foundation for knowledge
+- Provides rules for the attainment of a tranquil life; pleasure, defined as the absence/removal of pain, is the only good
+    - Ataraxia -- "freedom from disturbance", i.e. tranquility
+- How to show the validity of Hedonism? Appeals to immediate experience. Grounded in an empiricism. All living things pursue pleasure and avoid pain.
+- Pleasure is the only good in and of itself
+- What to think about? -- well-being as being a natural condition of living things, how does atomism fit in with this?
+- Surely Epicurus would have abandoned metaphysical theorizing. Yet he still tires to grasp the fundamental structure of reality a priori with the use of any a priori principles. 
+
+The Principles of Conservation
+- A set of laws that underline the permannce of the constitutents of reality.
+- Directly from Epicurus, so holds the most weight. 
+
+Principle 1: Nothing comes into being out of what is not
+- If things come into being out of nothing, they might come into existence under whatever conditions ever.
+- Lucretious explains the absurdity of this principle
+- Aristotle: when you plot a type of seed, you get a specific type of result.
+- The generation of things follows a certain pattern. 
+- "Seeds" -- a thing in Lucretius, biological seeds but also a way to talk about atoms -- what is it doing for biology, but also atomism?
+- Something seems sus about this... is the nothing / everything negation valid?
+
+Principle 2: Nothing perishes into nothing.
+- Lucretius gives us the empirical grounding for these things
+- If things perished into nothing, everything would have disappeared. This is not true. Therefore, it is not the case that things perish into nothing.
+- Observation about the nature of destruction. Destruction is not instantaneous.
+- If things perished into nothing, destruction would be instantaneous. It is not instantaneous. It is not the case that things perish into nothing.
+- These underly most of greek philosophy before the Epicureans -- these are not new principles, even before Parmenides. What is new about Epicurus' formulation is that these two principles have an empirical tone. It is a pointed empiricsm.
+- Epicurus' possible response to the ship of theseus -- we can't have an essence / identity of things, but if the atomic makeup of things changes, then the thing itself changes.
+
+Principle 3: The totality of things is unchanging.
+- Totality: the universe, everything
+- What is the scope of this principle
+- Nothing in addition to atoms and void can be added or subtracted.
+- Do they consider the a priori principles for the totality of things?
+- 5A in L&S is 4A continued
+- The totality of things is bodies and void. Rules out change by addition, subtraction, generation, corruption, and prohibits something changing into itself through text D.
+- Epicurus whittles down a familiar empirical universe to the most fundamental, primary components.
+- Premise 1: if the totality of things changed, there would be something into which it changes.
+- Premise 2: there is not anything into which it changes.
+- What are the limitations imposed by empirciism? Should apply equally to body and void.
+- Do these principles apply to void?
+- These laws of conservation prohibit change in the basic composition of the universe, whether by generation of new things, destruction of what already exists, removing parts, etc. 
+
+The Basic Division: Totality as Body and Void
+- "Totality" = body + void
+    - Both are 3-d extended
+    - Body is intangible, void is intangible.
+    - Body can act or be acted upon (always bumping into each other), but body can't bump into void; void has the capacity to house things which can act or be acted upon
+    - Body coming to occupy void
+- Narrative on the definition of body: Stoicism, bodies acted and being acted upon.
+- Different kinds of void -- room, place, void, etc.
+- We can make the seemingly contradictory texts: difference in types of void is one of essence, but of context. 
+- Void is a condition for the existence of bodies
+- Empiricism is still fundamental -- the inference is grounded in the observable.
+- Interesting how empricism needs to post anti-empirical bodies to be internally coherent
+- Properties are all accidents of body; they're not separate things, but aspects of bodies. 
+
+Argument for the completeness of the body-void dichotomy
+- Body which has resistance
+- Void as that which does not have resistance
+- Body as that which can act or be acted upon
 
 
 

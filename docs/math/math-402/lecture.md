@@ -90,7 +90,7 @@ $$[ a] \cap [ c] \neq \emptyset$$
 
 ---
 
-## Week 2 Friday
+## Week 2 Friday: Arithmetic Over Congruence Classes
 - Arithmetic across congruence classes looks a lot lot arithmetic over the naturals. 
 - How do you define addition across two congruence classes? You could just add every element across the set: e.g. $$S + T = \{s + t \vert s \in S, t \in T\}$$, and the same for multiplication: $$ST = \{st \vert s \in S, t \in T\}$$
 - Or you could union
@@ -105,6 +105,19 @@ $$[ a] \cap [ c] \neq \emptyset$$
   - You can define set addition / multiplication, but it's poorly behaved
 - Congruence classes behave well under addition and multiplication -- which is a miracle, that you can define addition and multiplication on sets. You can define arithmetic on them.
 - For all $$a \in \mathbb{Z}$$, $$[a] = [0] + a$$ (translation). Different elements in the equivalence class must be shifted over.
+
+---
+
+## Week 3 Monday: The Structure of $$\mathbb{Z}_p$$
+- Brackets vs. no brackets (default, but only when working in $$\mathbb{Z}_p$$)
+- No-brackets is a label representing the congruence class
+- Zero divisor: a non-zero number / class such that multiplying it by an existing number/class gives zero.
+- Existence of zero divisors: things can behave very weirdly; no zero divisors in the integers, rationals, reals, etc.
+- One example of zero divisors in linear algebra: $$AB = 0$$, but $$A \neq 0$$ and $$B \neq 0$$
+- Let $$a \in \mathbb{Z}_n$$ be such that $$a^2 = 1 \iff a^2 -1 = 0 \iff (a - 1)(a + 1) = 0$$
+  - When you have zero divisors, it doesn't mean that either $$(a-1)$$ or $$(a+1)$$ equal zero.
+  - e.g. in $$\mathbb{Z}_{15}$$ we get $$a \in \{ -1, 1, -4, 4 \}$$
+- Polynomials over systems with zero divisors are very different from polynomials over systems without zero divisors.
 - 
 
 
