@@ -249,10 +249,49 @@ V
 - Said: Orientalism naturalizes its object of study as discrete, stable, fixed
 - Epistemology must be reflexively aware and critical of its location within an econoimc system
 
+---
 
+## "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective", Donna Haraway (1988)
+- What do we mean by 'objectivity'
+- Feminists have selectively used two notions of the question of objectivity
+- One view: no insider's perspective is privileged, inside/outside is blurred, etc.
+- Social constructionists assert that the ideological doctrine of the scientific method distract us from knowing the world effectively
+- Semiology and deconstruction: insist on the rhetorcial nature of truth (including scientific)
+- Yet... Haraway is wary of the fully textualized, structural world of the military, technology, battlefields, knowledge-power game.
+- We begin for wanting to deconstruct truth claims by historicizing, and we end up with "epistemological electroshock therapy". And feminists have altogether abandoned the spirit of science.
+- The other seductive end of the boejctivity problem. Marxism is a promising resource for a feminist objective vision
+- Feminist empricism: encourages feminist Marxism and seeks leitimate knowledge claims / objectivity. We have to insist on a better account of the world, we cannot simply show modes of construction
+- Sandra Harding: "successor science"
+- Ethics and politics over epistemology
+- How do we simultaneously historicize (center the subject), recognize our own semiotic technologies, and have a commitment to "objectivity" towards the "real" world
 
+The Persistence of Vision
+- The role of vision in feminist discourse: vision can avoid binary oppositions
+- All vision is embodied
+- A doctrine of embodied objectivity which accomodates feminist science projects: feminist objectivity means situated knowledges.
+- Feminist objectivity requires situated knowledges
+- Eyes have often been used to signify perversion / voyeurism / disturbing enjoyment
+- Insisting on the particular embodiment of all vision
+- Feminist writing of the bodyw hich emphasizes vision again -- reclaim the power of modern sceicnes / technologies for objectivity debates
+- Objectivity is about particular and specific embodiment, not transcending limits and responsibility.
+- Only partial perspectives promise objective vision
+- Feminist objectivity is about limited location and situated knowledge, being answerable for what we see
+- There is no unmediated way of seeing the world: there are highly specific vritual possibilities; each is highly specific, partial, detailed, active. 
+- We should not romanticize the periphery or the depths. Positions of the subjugated are not exempt from criticla reexamination. "the god trick"
+- Relativism: a way of being nowhere while claiming to be everywhere. The laternative is partial, locatable, critical knowledges. We cannot play god tricks like relativism and totalization.
+- Sustained, rational, objective inquiry rests on the politics & epistemoloyg of partial perspectives.
+- **Be hostile to easy relativisms!**
+- Being is very problematic / contingent
+- Vision is always a question of the power to see
+- Self-knowledge requires a semiotic-material technology to link meaning and bodies
+- The Western eye travels, wanders.
+- Subjecitvity/vision is multidimensional.
+- The promise of objectivity is that a scientific knower seeks the subject position of partial connection. We can see another without claiming to *be* them. Do not search for the "fetishized perfect subject of the essentialized Third World Woman".
+- Critical ppositioning produces objectivity
+- Knowledge from an unmarked point of view is distorted, irrational
+- "Optical illusions projected from nowhere"
 
-
+page 7
 
 
 

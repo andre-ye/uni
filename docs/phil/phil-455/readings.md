@@ -318,7 +318,24 @@ Nonessentialism and Kennewick Man
   - **Human racial groups in post-essentialist scientific categories epistemically share a circularity.**
 
 Essentialism and Medicine
-- 
+- Essentialist racialization of race blocks useful research into causes of disease and illness by implying statistical associations have explanatory foce at a biological level
+- Socially identified race has no medical value when it is linked to disease or illness (really?)
+- Biological / anthropological conception of human diversity in disease:
+  1. population-based notion of race. but populations aren't that useful
+  2. association of population typology with disease
+- Population membership is neither sufficient nor necessary for diseases
+- Goodman: should all human medical research be population race-blind? And is all human evolutionary history only understandable through resemblances to essentialist typologies?
+- The problem is not variety. It is the essentialization of variety.
+
+Essentialism and What to Tell the Public
+- AAA failed to thoroughly develop a position against false racialism
+- Members of both dis/&advantaged groups have some sort of libidinal pleasure in self-identification with the racial group
+- Racism is often very real
+- Conflict between nonessetnailism and "liberatory" uses of racial categories
+- There is a social reality of racial typology and real injustice
+- The elimination of essentialist racial ideology is not about changing words; it's about changing meanings. 
+- Mixed race identity recognition makes basic racial categorization difficult.
+- Reification and deconstruction occur simultaneously.
 
 ### "The Theory of Racial Formation", Michael Omi & Howard Winant (2015)
 
