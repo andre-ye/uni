@@ -75,5 +75,28 @@ Waves of feminism
 - 'First movement': 1848 - 1920, suffrage
 - The idea of 'waves' coined during the 'second wave'
 - Focus of the 'third wave', 1991 - now: intersectionality
+
+---
+
+## Week 3 Tuesday: Feminist Epistemology and Philosophy of Science
+- Knowledge and ignorance from the perspective of feminism.
+- Two questions for Haraway
+  - The metaphor of vision: what is the metaphor of vision doing in the text?
+  - What is the problem of objectivity for feminism / feminist epistemology and philosophy of science? 
+- Surveillance and the male gaze, a perversion / false standing for universality
+- The view from nowhere, which transcends location, particularity, identity. 
+- You will always have views from somewhere, based on embodiment.
+- Problem of objectivity: how can you have objective, *situated* knowledge?
+- Alcoff, epistemologies of ignorance
+  - Lorraine Code, epistemic knowers are not constant. Situated knowledge.
+  - Sandra Harding, group identities influence what knowledge you have and your ignorance.
+  - Charles Mills,
+  - Also, Horkheimer
+- Ignorance epistemology is always associated with a "rational" system of judgement
+- Our very conception of truth can be itself ignorant, in Horkheimer's case, failing to be sociologically reflexive, that is, accounting for its conditions of (re)production. 
+- Yet the notion of critical reason is still very dubious... and possibly reproduces instrumental reason's logic.
 - 
+
+
+
 

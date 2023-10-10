@@ -242,7 +242,10 @@ Discussion
 - **By choosing space in the broadest sense, he is the first ancient thinker to isolate / i..e to ensure permanence of a second ontological element.**
 - Paradox: body and space are mutually exclusive, yet sometimes coextensive
 
+### 6: Proof of the existence of void
 
+
+### 7: Secondary attributes
 
 
 
