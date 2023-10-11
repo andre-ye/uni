@@ -244,14 +244,76 @@ Discussion
 
 ### 6: Proof of the existence of void
 
+A. Lucretius 1.334-90
+- There exists intangible place / void / emptiness, for otherwise there is no way that things can move.
+- Body hinders and blocks / **exerts causal force**
+- If everything were full, nothing could move; nothing would start the process of moving.
+- Empiricism -- a naive faithfulness in our grasp of ontology
+- Matter would be "jammed solid and at rest"
+- You must need void for individual bodies to pass through
+- Why do some things exceed others in weight (i.e. density)?
+    - Void is weightless.
+    - What is equally large but lighter contains more void
+    - Void is mingled with things
+- False folk fiction: waters give way to the pressures of fish and fish leave places behind them for water to flow. But also, the water must provide space for them to move before they can move.
+- Either we deny motion to all bodies, or we say that void is mingled with things and allows for motion.
+
+Discussion
+- One of these must be false. Some things move; nothing can move without void; void does not exist.
+    - Reject a: Eleatic philosophers
+    - Reject b: Greek philosophers
+    - Reject c: Epicureans
+- There are other explanations for density... but at laeast it is explained
+- Argument for the possibility of the existence of void
 
 ### 7: Secondary attributes
 
+A Lucretius 1.445-82
+- There is no third substance other than void and bodies
+- All things are fixed attributes of the two or "accidents" of them
+- Fixed attribute: an attribute which cannot be separated existentially
+    - Tangibility to bodies
+    - Intangibility to void
+    - Weight to stones
+    - Heat to fire
+- Slavery, wealth, poverty, fredom, war, peace, etc. are all accidents because the thing continues to exist when these things come and go.
+- Time does not exist per se. Time is not an axis indepedent of things' motion. Time is a product of our perception.
+- The rape of Helen and the Trojan tribes *are* facts -- really? Do not admit that things exist per se, because those men are composites which have been taken away by time. All past facts are accidents.
+- Historical facts do not exist like bodies do.
 
+B Epicurus, *Letter to Herodotus* 68-73
+- Shapes, colors, sizes, weights, etc. are permanent attributes of bodies knowable through sensation.
+- Attributes of bodies are in a complex relation to bodies; the body is not merely the sum total of attributes.
+- Accidents do not have the nature of the whole that we call 'body'
+- Accidents are permanent concomitants, "sensation itself individualizes them"
+- "Time" -- 'long time', 'short time', we give it a uniformity. (???)
 
+C Sextus Empiricus, *Against the professors* 10.219-27
+- Epicurus says time is an accident of accidents which accompanies days, nights, hours, presence/absence of feelings
+- Accidents belong to things as their attributes.
+- Time accompanies all attributes, so it is an accident of accidents.
+- Some things are things per se, while other things belong to other things.
+- Only void and body exist per se. "Attributes" belong to per se things.
+- Some attributes are inseparable, e.g. resistance from body and non-resistance from void.
+    - **inconceivability** as a criterion for inseparability
+- Motion and rest are separable from attributes. 
+- Time accompanies accidents, motions and rests. 
+- Day and night are accidents of the air
+- Time is a shared attribute throughout day and night.
+- Pains and plesaures are not substances
 
+D Polystratus, *On irrational contempt* 23.26-26.23
+- Bigger and smaller are in relation to all magnitudes
+- Many properties are not so for different agents (?)
+- *Relative* predicates 
 
-
+Discussion
+- What counts as per-se existence? Permanent attributes, time, accidents, etc. are "parasites" on body and space
+- Shape, size, weight are essential to the body qua body.
+- A body is a complex of permanent attributes
+- Accidents and non-essential attributes are phenomenal, not atomic.
+- Time is special: it is discernible not in bodies but of accidents (motion, rest). It is self-evident but only understandalbe via analogical reasoning -- abstracting time as the common measure across accidents. 
+- Facts about the past must be themselves per-se entities (?) -- this contradicts the Epicureans. How will they respond?
 
 
 

@@ -324,6 +324,24 @@ Anthony Appiah, *Why There Are No Races*
 - Causal theory of race -- even if you have mistaken ideas, you know what it is, and you can modify it. Linguistic division of labor.
 - Appiah: both theories are false: there are no races, there is nothing which is signed,w hich you can point towards. 
 
+---
+
+## Lecture 4: From Racial Eliminativism to Racial Formation
+- Eliminativism, conservationism, revisionism. 
+
+W.E.B. Du Bois
+- The conservation of races
+- Was DuBois a naturalist, skeptic, constructivist, or a pluralist about race? Clearly not a racial skeptic. 
+- DuBois is a conservationist, a racial egalitarian. Thinks eliminating race talk will not help bring about justice. 
+
+Kwame Anthony Appiah
+- Du Bois follows the "classic dialectic" -- groups are different and unequal. The critical response denies the difference. There are no differences, you've made things up, and revalue the thing which is undervalued.
+- Yet DuBois never transcended the scientific notion
+- DuBois' own history is complicated. 
+- Common impulses is all that remains. These bind people a posteriori as properties of racial groups
+- There's no predictive/causal structure of the impulses
+- Du Bois begin to be hinting towards a social construct understanding of race.
+- Causal theory (referential) account of race; meaning is not in the head (Hilary Putnam)
 
 
 
