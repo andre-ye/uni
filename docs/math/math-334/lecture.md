@@ -344,3 +344,156 @@ Compactness
 
 Notes
 - Midterm 1 is going to cover chapter 1 of the book. 
+
+---
+
+
+## Lecture 5: Compactness and Connectedness
+
+**COMPACTNESS**
+
+**Definition.**
+$$S \subseteq \mathbb{R}^n$$ is compact if it is closed and bounded.
+
+**Theorem.**
+The following are equivalent:
+1. $$S \subseteq \mathbb{R}^n$$ is compact
+2. Every sequence of points in $$S$$ has a convergent subsequence whose limit is also in $$S$$
+
+Proof:
+1. If $$S$$ is closed and bounded, then Bolzano-Weierstrass guarantees that you have a convergent subsequence. Closedness implies the limit lies in $$S$$. 
+2. Suppose $$S$$ is not compact. If $$S$$ is not bounded, then there exists a sequence in $$S$$ such that the norm of the vector goes to infinity, in which case there is no convergent subsequence. If $$S$$ is not closed, then there exists an element in the closure of the set but not in the set itself, but because this is an element of the closure, there exists a subsequence converging to $$\vec{x}_0$$, since $$\vec{x}_k \in B_{1/k} (\vec{x}_0)$$, $$\forall k \in \mathbb{N}$$.
+
+**Remark.** Every finite set is compact.
+- Compactness is an expansion of useful properties of finite sets to infinite sets. 
+
+**Theorem.**
+Continuous functions map compact sets to compact sets.
+If $$f: S \to \mathbb{R}^m$$ is continuous and $$S$$ is compact, then the image of $$S$$ under $$f$$ is compact.
+
+Proof:
+1. Suppose there is a set of points in the image $$\{\vec{y}_k\} \subseteq f(S)$$, then $$\forall k \in \mathbb{N}, \exists \{ vec{x}_k \} \subseteq S : f(\vec{x}_k) = \vec{y}_k$$.
+2. Since $$S$$ is compact, there exists a subsequence $$\vec{x}_{k_j}$$ which is converging in $$S$$: $$\vec{x}_{k_j} \to \vec{x}_0 \in S$$.
+3. Since $$f$$ is continuous at $$\vec{x}_0$$, $$f(\vec{x}_k) \to f(\vec{x}_0)$$
+4. So $$\{\vec{y}_{k_j}\} = \{f(\vec{x}_{k_j})\} \to f(\vec{x}_0) \in f(S)$$.
+
+**Extreme Value Theorem.**
+If $$f : S \subseteq \mathbb{R}^n \to \mathbb{R}$$ is continuous, $$S$$ is compact. 
+Then $$f$$ has a max and min value which is attained in $$S$$, i.e. $$\exists \vec{a}, \vec{b} \in S$$ s.t. $$f(\vec{a}) \le f(\vec{x}) \le f(\vec{b})$$, $$\forall \vec{x} \in S$$. These values are attained in the set.
+We know we have supremums and infimums in the reals. But we don't know that we have max and min values. This theorem says that we do have max and min values if we are in a compact set.
+
+**Definition.**
+Maybe the most general notion of compactness.
+Let $$S \subseteq \mathbb{R}^n$$. Let $$\{ \mathcal{U}_\alpha \}_{\alpha \in A} \subseteq \mathbb{R}^n$$ be a cover of $$S$$ if $$S \subseteq U_{\alpha \in A} \mathcal{U}_\alpha$$.
+
+**Heine-Borel Theorem.**
+If we have a subset of $$\mathbb{R}^n$$ $$S$$, $$S$$ is compact iff every open cover of $$S$$ has a finite subcover.
+
+Example.
+Let $$S = [0, 1]$$ are compact.
+Then the collection $$\{B_\epsilon(x)\}_{x \in [0, 1]}, \epsilon > 0$$
+
+**Definition.** (Metric Spaces.)
+A metric space is a set $$X$$ with a function $$d : X \times X \to \mathbb{R}$$ satisfying the following properties for every pair of points:
+1. Symmetry: $$d(x, y) = d(y, x)$$
+2. Positivity: $$d(x, y) \ge 0$$
+3. Definiteness: $$d(x, y) = 0 \iff x = y$$
+4. Triangle Inequality: $$d(x, z) \le d(x, y) + d(y, z)$$
+
+Examples of metric spaces.
+- Real space with Euclidean distance: $$\mathbb{R}^n$$ with $$d(\vec{x}, \vec{y}) = \Vert \vec{x} - \vec{y} \Vert_2$$
+- Real space with $$L$$-infinity distance: $$\mathbb{R}^n$$ with $$d(\vec{x}, \vec{y}) = \Vert \vec{x} - \vec{y} \Vert_\infty$$
+- Function space with sup-norm: $$C^0 ([0, 1]) = \{ f: [0, 1] \to \mathbb{R} \vert f \text{ is continuous.}\}$$ with $$d(f, g) = \Vert f - g \Vert_\infty := \sup_{x \in [0, 1]} \vert f(x) - g(x) \vert$$
+
+**Definition.**
+If $$(x, d)$$ is a metric space, an $$\epsilon$$-ball is $$B_\epsilon (x) = \{ y \in X \vert d(x, y) < \epsilon \}$$.
+
+**Definition.**
+A set $$S \subseteq (X, d)$$ is open if $$\forall x \in S, \exists \epsilon > 0$$ s.t. $$B_\epsilon (x) \subseteq S$$.
+Closed sets are complements of an open set.
+
+*What is compactness now?*
+A sequential definition of compactness: every sequence has a convergent subsequence whose limit is in $$S$$.
+Consider the sequence $$\{ f_n (x) \}_{n=1}^\infty$$ in $$C^0([0, 1])$$, $$f_n(x) = x^n$$
+The sequence is bounded. The sup-norm is bounded by 2, but their ``limit'' seems to be discontinuous, where it is $$y = 0$$ for $$[0, 1)$$ and $$1$$ at $$1$$.
+Clearly this sequence does not have a convergent subsequence, because they converge to something outside of our space.
+So compactness needs to be more complex when thinking about spaces that are infinite-dimensional.
+
+
+**CONNECTEDNESS**
+
+**Definition.**
+A separation of a set $$S \subseteq \mathbb{R}^n$$ is a pair of disjoint nonempty sets $$A, B \subseteq \mathbb{R}^n$$ such that $$S = A \cup B$$ and $$\bar{A} \cap B = A \cap \bar{B} = \emptyset$$.
+A set is connected if no separation exists.
+
+Example:
+- The set $$S = \{ (x, y) \vert (x - 1)^2 + y^2 < 1\} \cup \{(x, y) \vert (x + 1)^2 + y^2 < 1 \}$$
+- The origin does not belong to either set
+
+**Theorem.**
+The connected subsets of $$\mathbb{R}$$ are the intervals [open, closed, half-open, unbounded].
+
+Proof:
+- If $$S$$ is not an interval, it is disconnected. This means that there exist $$a, b$$ in $$S$$ and $$c \in \mathbb{R}$$ s.t. $$a < c < b$$, but $$c \notin S$$. Set $$A = S \cap (-\infty, c), B = S \cap(c, \infty)$$. There is only one point in common across the intersection $$\bar{A} \cup \bar{B}$$, which is $$c$$. But $$c \notin S$$.
+- If $$S = [a, b]$$, say $$S$$ has some separation $$A \cup B = S$$. WLOG, we can assume $$a \in A, b \in B$$. Let's set $$c = \sup A$$, $$c \in \bar{A}$$. Because this is a separation, then $$c \notin B$$ by the definition of separation. Therefore $$c \in A$$. Because $$c \in A, \notin B$$, in particular, $$c \neq b$$. But then $$(c, b] \subseteq B$$, so $$c \in \bar{B}$$ and thus cannot be in $$A$$. This is a contradiction. So, $$[a, b]$$ must be connected. Say $$S$$ is an unboudned interval and has a separation $$A \cup B = S$$.
+
+**Intermediate Value Theorem.**
+The continuous image of a connected set is connected.
+If $$f$$ is a map from $$S \cap \mathbb{R}^n \to \mathbb{R}^m$$ is continuous and $$S$$ is connected, then $$f(S)$$ is connected. 
+
+Proof by contrapositive: if the image is disconnected, then the original set is disconnected.
+1. If $$A \cup B = f(S)$$ is a separation of the image, then $$f^{-1}(A) \cup f^{-1}(B) = S$$ is a separation of the original set.
+2. Both of these sets are nonempty because their union was the image.
+3. Take $$\vec{x}_0 \in f^{-1}(A)$$ and say $$\vec{x}_0 \in \bar{f^{-1}(B)}$$.
+4. Use the sequential definition of belonging to the closure; there exists a sequence of points $$\vec{x}_k$$ which are in the preimage of $$B$$ which converge $$\vec{x}_k \to \vec{x}_0 \in f^{-1}(B)$$.
+5. Since $$f$$ is continuous, $$f(\vec{x}_k) \to f(\vec{x}_0) \in B$$.
+6. But $$f(\vec{x}_0) \in A \cap \bar{B}$$, contradicting that $$A \cap B = f(S)$$ is a separation.
+
+Corollary:
+If $$f : S \supseteq \mathbb{R}^n \to \mathbb{R}$$ and $$S$$ is connected, then $$f(S)$$ is an interval.
+Thus $$\forall \vec{a}, \vec{b} \in S$$, where $$f(\vec{a}) < t < f(\vec{b})$$, there must exist a third element of the set such that $$f(\vec{c}) = t$$
+
+Example:
+The function $$f(x) = x^{367} + \frac{57}{3}x^{250} + \frac{e^{\pi^2}}{42} x^{83} + x^2 + 17$$ has a solution in $$\mathbb{R}$$.
+How do we know it exists?
+Because of the intermediate value theorem. At some point it is positive, and at some point it is negative, which means that at some point it is zero.
+
+**Definition.**
+A set is path-connected if $$\forall \vec{x}, \vec{y} \in S : \exists g : [0, 1] \to S : g(0) = \vec{x}, g(1) = \vec{y}$$, noting $$g$$ is continuous.
+This function defines a path in the set $$S$$.
+
+**Theorem.**
+If $$S$$ is path-connected, then $$S$$ is connected. 
+To prove, show the contrapositive and proof by contradiction as needed.
+
+**Topologist's Sine Curve.** It's possible to be connected but not path connected.
+Let $$S = \{ (0, y) \vert y \in [-1, 1] \} \cup \{ (x, \sin(\pi / x)) \vert 0 < x < 2 \} $$.
+This is not a separation because if you look at the closure of either of these two sets, they meet the other.
+But if you look at any point on the vertical line, there is no continuous path in the set which goes from a point in one set to the other, because it would need to pass through the crazy part of the curve. 
+
+
+
+Notes
+- Every function is surjective onto its own preimage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
