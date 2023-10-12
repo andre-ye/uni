@@ -220,7 +220,7 @@ A Big-picture Problem with Atomism in *Generation and Corruption*
 
 ---
 
-## Epicureanism
+## Week 3 Monday - Epicureanism
 - Epicurus and Lucretius -- just starting and ending the Hellenistic period
 
 Epicurus
@@ -315,6 +315,45 @@ Argument for the completeness of the body-void dichotomy
 - Body which has resistance
 - Void as that which does not have resistance
 - Body as that which can act or be acted upon
+
+---
+
+## Week 3 Wednesday -- Void, Secondary Attributes, Time
+
+Proof for the eixstence of void
+1. The motion of bodies requires void
+    1. If something hinders and blocks, the thing is body
+    2. If something gives way / yields, then that thing is void
+    3. Without something that yields, everything would be hindered and blocked.
+    4. If everything is hindered and blocked, there can be no motion.
+2. Bodies move. This is empirical. The underlying assumption is that our empirical observations are reliable.
+3. Therefore, there is void.
+
+Aristotle: the argument from compression or shrinking. But this isn't about things shrinking, but about things being porous.
+Here, we are talking about passing-through. It is about a composite and different material passing through it.
+
+- Nutrition in the ancient world -- claims something like if you eat something, then it helps the body grow and be nourished because it turns into different components of the body.
+- Body vs Void: division between atoms and void
+- Composite bodies are atoms arranged together to form observable phenomena
+
+Argument for void from density.
+1. Some things are heavier than other things, despite being the same size.
+2. All atoms have the same weight.
+3. Void is weightless extension.
+4. If all atoms have the same weight, then two composite bodies of the same size should weigh the same, unless there is some weightless extension within it. (This is logically incorrect...)
+5. We can observe cases in which 2 composite bodies of the same size have different weights.
+6. Therefore there is void.
+
+- Need to stipulate that composites with the same sizes and different weights can be made up of the same atoms.
+- Epicurus has a concept of density where it's not clear that Democritus did
+- Antiperistasis: 'reciprocal replacement'
+    - Something has to start this
+    - It is because void moves that bodies have to yield.
+- Innovation where body and void are defined as contradictories; one as the thing which has resistance and cannot yield. And this definition is used often, acting as the condition for motion.
+- Part of a ground-up metaphysics, explaining things like change, motion, etc. 
+- Parmenides is a big critic of void; all post-Parmenides void theorists have to deal with Parmenides' criticisms.
+- 
+
 
 
 

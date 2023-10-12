@@ -293,6 +293,79 @@ The Persistence of Vision
 
 page 7
 
+---
+
+## "Have We Got a Theory for You! Feminist Theory, Cultural Imperialism and the Demand for 'The Woman's Voice'
+
+- What kind of way of doing philosophy do we need to embody?
+- What does it mean that we are writing in English right now?
+
+Introduction
+- Feminism is a *response* to the exclusion of women left out of a male account of the world.
+- Should feminists insist on moving/acting in accordance with wills and not against them? 
+- It matters to us, what is said about us.
+- Not only about our life, but also about the *symbolic reproduction* of our life.
+- *Part of human life is living it.*
+- Is being silenced a kind of oppression?
+- "We cannot divorce life from the telling of it"
+- Internalized oppression: not speaking an authentic language, reducing symbolic understanding of living/life.
+- Who gets to tell the story about women? What happens when men tell the stories of women?
+- Consciousness-raising and telling one's story as part of the feminist method
+- The articulation of experience is one of the hallmarks of a self-determining individual / community.
+- Demands grow from complaints, which do not specify which women have been silenced. But this is anti-intersectional.
+- "Woman's voice" / "womens' voices" are central to feminist theory
+- Silencing of women supposedly reveals a systematic pattern of power and authority.
+- Theorizing is integral to feminism, especially the concept of a woman's voice
+- Interestingly, Black women know more about White women than White women may know about themselves, just to survive (partial knowledges)
+- Interjection: "Hispana voice"
+- Specific situations / viewpoints.
+- "your language and theories cannot express our experiences, and so we only succeed in communicating our experience of exclusion"
+- Exclusion as a way of complaining is tantamount to remaining silent.
+- Nothing necessitates them to understand our world, a sense of understanding with a stakes
+- Self-recognition, assimilation.
+- Friendship as the fundamental motive for investigation: non-interialist feminism requires real non-coerced space.
+- Abandon your universal calism, reducation of the theoretical.
+- The production of theory / knowledge
+
+II: Some Questionable Assumption About Feminist theorizing
+- A woman's and a theorist's account of experiences.
+- One-sided dialogue
+- Systemic pressures to *believe theories*, even when they may not be "true"
+- Only when dialogue is genuine and reciprocal can we trust the outsider's account. 
+- Whose theories are articulated/said? What functions do they serve?
+
+III: Ways of Talking or Being Talked About that are Helpful, Illuminating, Empowering, Respectful
+
+- WHo makes theories? What are they about? How are they tested? etc.
+- Some theoreis are androcentric, sexist, paternalistic, etc.
+- Feminist theory is no less immune to negative characterizations than Plato or Freud.
+- Suggestions for making it more helpful:
+  1. See how parts of one's life fit together.
+  2. Help oneself locate themselves concretely in the world, rather than mystifying it.
+  3. Allows one to reflect on theri own agency with respect to that location.
+  4. Provides criteria for change and makes suggestions for genuine modes of resistance
+  5. There is a connection between theory and consciousness. Is theory just a bonding ritual for acadmeic/educationally privileged feminists/women?
+- Feminist theory can empower one group while *demoralizing* another
+- Feminist theory is value laden. What is an axiology of feminism?
+
+IV: Some Suggestions About How to do Theory That is no Imperialistic, Ethnocentric, Disrespectful
+- What are the commitments being made to the 'profession'?
+- Should we create conditions for better production of feminist theory?
+- What is the shared text / the common language? Reconceptualizing the shared text. We must be unintrusive, inimportant, patient. **And we need to come to terms with a sense of alienation.**
+- No fetishisms of the Third World; no seeking for redemption / manifesting obligation.
+- Learning requires openness, sensiivity, self-questioning.
+- Mutual dialogue which does not reduce towards a common instance of "woman".
+
+
+
+
+
+
+
+
+
+
+
 
 
 

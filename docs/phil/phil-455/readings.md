@@ -337,5 +337,84 @@ Essentialism and What to Tell the Public
 - Mixed race identity recognition makes basic racial categorization difficult.
 - Reification and deconstruction occur simultaneously.
 
-### "The Theory of Racial Formation", Michael Omi & Howard Winant (2015)
+### "The Theory of Racial Formation" from *Racial Formation in the United States*, Michael Omi & Howard Winant (2015)
+
+- Race is a way of "making up people"
+- Defining racial groups is a fraught process
+- The consequences of racial definitions are dramatic.
+- Race-making is a mode of othering. But there are many ways to do this, e.g. gender, class, sexuality, etc. Othering is a universal phenomena which also classifies the classifiers. Yet the classes themselves are historically specific.
+
+Race as a Master Category
+- Race is a social construction. Sure. But: how is it constructed?
+- In the United States, race is a "master category" -- a fundamental concept which has shaped everything.
+  - Race is not transcendent, certainly... intersectionality and all that
+  - But also... race plays a unique role in the formation of the United States.  It has become the *template* of difference and inequality.
+- Race has shaped the concepts of work/worker, labor/employment, master/servant
+- Race becomes the organizing principle of social stratification
+- Marginalization and stratification shares a pattern of race
+- The sexual vs racial contract -- **why can/do we assert primality of race / race as master concept?**
+- Notably: suffrage broke by racial lines
+- Race was also the main template for resistance to domination. The black movement's theoretical insights and strategies were adopted by many others.
+- Race-making is racial formation. This is the sociohistorical process by which social identities are created, lived, transformed, and destroyed.
+
+Racialization
+- Race is seen as a social category which is either objective or illusory
+  - Objectively, race is biological differences and other genomic variations
+  - As an illusion, race is an ideological construct masking a more fundamental material distinction
+- Race objectively is understood as an essence, fixed and concrete.
+- Race as unreal, product of false consciousness; race is an irrational distractionf rom pure market relations, race is a way to prevent a unified working-class movement.
+- Omi & Wannant critique both positions. Race is real as a social category with definite social consequences. 
+
+"It is not important whether or not the interpretation is correct -- if men define situations as real, they are real in their consequences."
+- Thomas and Thomas, 1928
+
+- Race is an unstable and decentered complex of social meanings constantly transformed by political struggle
+- **Race is a concept that signified and symbolizes conflicts and interests by refeerring to different types of bodies. 
+- Race involves seemingly biological human characteristcics, but selecting specific characteristics as racial significatories is a social and historical process.
+- There is an irreducible visual dimension: bodies are **visually read and narrated.**
+- Racialization: the extension of racial meaning to a previously racially unclassified relationship, social practice, or group.
+- Althusser, racial interpellation
+- Racial profiles
+- Even blind respondents hav esome concept of what race is
+- Why not just dispense with race altogether?
+- Race is not merely a problem/misconception which can be passed over into a post-racial society.
+- Race is an *element of social structure* rather than an irregularity within it.
+- Racialization proceeding from religiont o science to politics.
+
+The Evolution of Race Consciousness
+- Identification of different groups of people -- back to history, the Bible or herodutus
+- Race concept (modern) -- rise of Europe and the arrival of Europeans in the Americas
+- Christian Europe viewed non-Christian others with suspicion, but this is not *racial but religious*
+- When Europeans reached the new World, distinctions and categorizations in a racialized discourse begin to emerge here.
+- European explorers gave rise to merchant capitalism, the possibility for primitive accumulation
+- Europeans "discovered" people and presented a total challenging geneology of the world and of human being.
+- Can truly all be considered part of the human family?
+- What is a human being? What is the nature of human difference?
+- Seizure of territories and goods presupposes a worldview which distinguishes Europeans from others.
+- The conquest of America was the advent of a consolidated social structure of exploitation and signification; it initiated modern racial awareness
+- Americna conquest was the greatest and first racial formation project -- Europe constituted as the metropole of a series of empires, "the globe for a theater". A struggle between civilization and barbarism.
+- Something like social construction of race was already present at the beginning. There was a need immediately to categorize people -- Who is European? Who is a settler? Who is African? Who is a slave? Exercise of power requires these distinctions.
+
+From Religion to Science
+- Religious justifications for racial difference gave ways to scientific ones
+- Race was a very active area of intellectual discussion in Europe during the Enlightenment
+- Racial problem moving into the late 18th century: no longer about violent subjugation, but about nation-building, national economies, the naturla rights of man, etc.
+- An attempt to give a morre subtle account of human explicity in the enlightenment, spurred by the classification of organisms by Linnaeus
+- Race becomes a biological concept
+- Familial metaphors
+- Search for scientific justifications
+- Joseph de Gobineau: *Essay on the INequality of Races* - superior races produced superior cultures
+- US -- fertile ground for social Darwinism and eugenics
+- Black scholars challenged biological racism, but only after WWII did this attack on race as biological gain acceptance (after racial science in Nazi Germany)
+- Scientific racism continues to be reified in the study of human variation -- e.g. "population groups"
+- Pharmacogenomics -- tailors drugs to a specific condition. Race can be a proxy for certain drugs.
+- Fascination with genetics and heritage -- DNA testing for race identification, DNA testing for Native American tribal membership, etc.
+- Cognitive psychology, etc. undercover unconscious racial animus / detection; implicit bias; racial schemas; etc.
+- Are cultural formations not themselves constructed?
+- There is a strong temptation to derive racial distinctions from biological sources
+- The antiquated quest for a fundamental quality of racial identity.
+
+
+
+
 
