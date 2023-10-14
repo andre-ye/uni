@@ -48,7 +48,7 @@ Proof:
     3. Let $$t = au + bv$$ be the smallest positive element of $$S$$
 3. Prove that $$t = GCD(a, b)$$
     1. Prove $$t \vert a$$ and $$t \vert b$$
-        1. By the Division Algorithm, $$\exists q, r \in mathbb{Z} : a = tq + r$$, where $$0 \le r < t$$.
+        1. By the Division Algorithm, $$\exists q, r \in \mathbb{Z} : a = tq + r$$, where $$0 \le r < t$$.
         2. Therefore, $$r = a - tq$$
         3. Substituting: $$r = a - (au + bv)q$$
         4. We get $$a - aqu - bvq$$ by expanding
@@ -192,8 +192,8 @@ These elements are classes, not single integers.
 ### 2.2: Modular Arithmetic
 - The finite set $$\mathbb{Z}_n$$ is closely related to the infinite set $$\mathbb{Z}$$. 
 - Can we define addition and multiplication on $$\mathbb{Z}_n$$?
-- The sum of classes $$[a]$$ and $$[c]$$ is $$[a] \bigoplus [c] = [a + c]$$
-- The product of classes $$[a]$$ and $$[c]$$ is $$[a] \bigodot [c] = [ac]$$
+- The sum of classes $$[a]$$ and $$[c]$$ is $$[a] \oplus [c] = [a + c]$$
+- The product of classes $$[a]$$ and $$[c]$$ is $$[a] \odot [c] = [ac]$$
 - These operations do not depend on the choice of representatives from the various classes. (e.g. $$[a] = [a + kn]$$)
 
 **Theorem 2.6.**
@@ -204,20 +204,20 @@ $$[ac] = [bd]$$
 
 **Theorem 2.7.**
 For any classes $$[a]$$, $$[b]$$, $$[c]$$ in $$\mathbb{Z}_n$$, 
-1. Closure for addition: $$[a] \bigoplus [b] \in \mathbb{Z}_n$$
-2. Associativity for addition: $$[a] \bigoplus ([b] \bigoplus [c]) = ([a] \bigoplus [b]) \bigoplus [c]$$
-3. Commutativity for addition: $$[a] \bigoplus [b] = [b] \bigoplus [a]$$
-4. Identity for addition: $$[a] \bigoplus [0] = [a]$$
-5. Root existence: for each $$[a]$$ in $$\mathbb{Z}_n$$, the equation $$[a] \bigoplus [x] = [0]$$ has a solution in $$\mathbb{Z}_n$$
-6. Closure for multiplication: $$[a] \bigodot [b] \in \mathbb{Z}_n$$
-7. Associativity for multiplication: $$[a] \bigodot ([b] \bigodot [c]) = ([a] \bigodot [b]) \bigodot [c]$$
-8. Distribution with addition: $$[a] \bigodot ([b] \bigoplus [c]) = ([a] \bigodot [b]) \bigoplus ([a] \bigodot [c])$$
-9. Commutativity for multiplication: $$[a] \bigodot [b] = [b] \bigodot [a]$$
-10. Identity for multiplication: $$[a] \bigodot [1] = [a]$$
+1. Closure for addition: $$[a] \oplus [b] \in \mathbb{Z}_n$$
+2. Associativity for addition: $$[a] \oplus ([b] \oplus [c]) = ([a] \oplus [b]) \oplus [c]$$
+3. Commutativity for addition: $$[a] \oplus [b] = [b] \oplus [a]$$
+4. Identity for addition: $$[a] \oplus [0] = [a]$$
+5. Root existence: for each $$[a]$$ in $$\mathbb{Z}_n$$, the equation $$[a] \oplus [x] = [0]$$ has a solution in $$\mathbb{Z}_n$$
+6. Closure for multiplication: $$[a] \odot [b] \in \mathbb{Z}_n$$
+7. Associativity for multiplication: $$[a] \odot ([b] \odot [c]) = ([a] \odot [b]) \odot [c]$$
+8. Distribution with addition: $$[a] \odot ([b] \oplus [c]) = ([a] \odot [b]) \oplus ([a] \odot [c])$$
+9. Commutativity for multiplication: $$[a] \odot [b] = [b] \odot [a]$$
+10. Identity for multiplication: $$[a] \odot [1] = [a]$$
 
 - For $$k \in \mathbb{Z}^+$$, $$[a]^k$$ denotes the product
 
-$$[a]^k = [a] \bigodot [a] \bigodot ... \bigodot [a] , k\text{ times}$$
+$$[a]^k = [a] \odot [a] \odot ... \odot [a] , k\text{ times}$$
 
 ### 2.3: The Structure of $$\mathbb{Z}_p$$ and $$\mathbb{Z}_n$$
 - New notation: uses the same symbol to represent totally different entities.
@@ -234,7 +234,7 @@ If $$p > 1$$ is an integer, the following conditions are equivalent:
 3. Whenever $$bc = 0$$ in $$\mathbb{Z}_p$$, then $$b = 0$$ or $$c = 0$$
 
 Proof:
-1. Show that 1 implies 2. Suppose $$p$$ is prime and $$a \neq 0$$ in $$\mathbb{Z}_p$$. Then $$a \nequiv_p 0$$. Therefore, $$p \nmid a$$. Now, $$(a, p)$$ is a positive divisor of $$p$$ and is either $$p$$ or $$1$$. Since $$(a, p)$$ also divides $$a$$ and $$p \nmid a$$, $$(a, p) = 1$$. From theorem 1.2., $$au + pv = 1$$ for some integers $$u, v$$. Hence, $$au - 1 = p(-v)$$, so $$au \equiv_p 1$$. Therefore $$[au] = [1]$$ in $$\mathbb{Z}_p$$. Therefore $$x = [u]$$ is a solution to $$ax = 1$$ in $$\mathbb{Z}_p$$.
+1. Show that 1 implies 2. Suppose $$p$$ is prime and $$a \neq 0$$ in $$\mathbb{Z}_p$$. Then $$a \not\equiv_p 0$$. Therefore, $$p \nmid a$$. Now, $$(a, p)$$ is a positive divisor of $$p$$ and is either $$p$$ or $$1$$. Since $$(a, p)$$ also divides $$a$$ and $$p \nmid a$$, $$(a, p) = 1$$. From theorem 1.2., $$au + pv = 1$$ for some integers $$u, v$$. Hence, $$au - 1 = p(-v)$$, so $$au \equiv_p 1$$. Therefore $$[au] = [1]$$ in $$\mathbb{Z}_p$$. Therefore $$x = [u]$$ is a solution to $$ax = 1$$ in $$\mathbb{Z}_p$$.
 2. Show that 2 implies 3. Suppose $$ab = 0$$ in $$\mathbb{Z}_p$$. If $$a = 0$$, there is nothing to prove. If $$a \neq 0$$, then by 2 there exists $$u \in \mathbb{Z}_p$$ such that $$au = 1$$. Then $$0 = u \cdot 0 = u(ab) = (ua)b = (au)b = 1 \cdot b = b$$. 
 3. Show that 3 implies 1. Suppose $$b, c \in \mathbb{Z}$$, $$p \vert bc$$. Then $$bc \equiv_p 0$$. By 2.3, $$[b][c] = [bc] = [0]$$ in $$\mathbb{Z}_p$$. By 3, $$[b] = 0$$ or $$[c] = [0]$$. This means $$b \equiv_p 0$$ or $$c \equiv_p 0$$, or $$p \vert b$$ or $$p \vert c$$. This means $$p$$ is prime by theorem 1.5.
 

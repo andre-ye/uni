@@ -22,4 +22,7 @@ PHIL 455
 - Race in the digital sense
 
 
+- Using Omi and Winnant to understand race specifically -- as a "master concept", or what?
+- What distinguishes race from gender? If we say that both are social constructs, then it seems to get very difficult.
+
 

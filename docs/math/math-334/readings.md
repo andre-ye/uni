@@ -108,7 +108,7 @@ If $$S$$ has an upper bound, the number $$a = \sup S$$ is the unique number such
 - For every $$\epsilon > 0$$, there exists $$x \in S$$ with $$x > a - \epsilon$$ (there is no smaller upper bound)
 - **Completeness of the real number system is important in establishing the convergence of numerical sequences**
   - A sequence is **bounded** if its range is bounded
-  - A sequence is *increasing** if $$x_{n+1} \ge x_n$$ for all $$n$$
+  - A sequence is **increasing** if $$x_{n+1} \ge x_n$$ for all $$n$$
   - A sequence is **decreasing** if $$x_{n+1} \le x_n$$ for all $$n$$
   - A sequence is **monotonic** if it is either increasing or decreasing
 
@@ -155,7 +155,7 @@ that is, there exist points $$\mathbf{a}, \mathbf{b} \in S$$ such that $$f(\math
 **Theorem 1.24** (Heine-Borel Theorem).
 If $$S$$ is a subset of $$\mathbb{R}^n$$, then $$S$$ is compact iff every open covering of $$S$$ has a finite subcovering.
 
-- Metric spaces: general sapces equipped with a distance function.
+- Metric spaces: general spaces equipped with a distance function.
 - But Bolzano-Weierstrass and Heine-Borel may not be completely valid for other metric spaces. 
 
 

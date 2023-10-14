@@ -414,7 +414,37 @@ From Religion to Science
 - There is a strong temptation to derive racial distinctions from biological sources
 - The antiquated quest for a fundamental quality of racial identity.
 
+From Science to Politics
+- Race is now a preeminently political phenomenon.
+- Historical trend towards recognizing race as a social and political construction
+- Pushing back against the biologization of race
+- Du Bois and black scholars -- turn towards sociopolitical frameworks
+- The political struggles of racialized people themselves, the racial horrors of the 20th century
+- Racial politics: state-based racial classifications.
+- Who is free / unfree? Who is a naturalized citizen? etc. all of the concepts become made political, placed within the state.
+- Directive No. 15. Reshapes race discourse in the US; these categories have become de facto standards. (1977)
+- Multiracial identity on the census
 
+Racial Projects
+- Race us a crossroads where social structure and cultural representation meet
+- Race firstly a symbol of signification
+- Racial project -- simultaneously an interpretation, representation, explanation of racial identities and meanings 
+- Racial projects connect what race means to the way experience is structured
+- Projects travel, compete, and overlap
+- Society is suffused with racial projects
+
+Racism
+- Magnus Hirschfeld -- 1938, book of Nazi racial doctrines
+- But the term racism has taken on its own anti-meanings.
+- In the US, racism has narrowly been conceived of as racial hate.
+- A racial project is racist if it creates or reproduces structures of domination based on racial significations and identities
+- Race exceeds and transcends racisms, allowing for resistance to racism. Race is more than racism.
+
+Racial Politics: Despotism, Democracy, and Hegemony
+- The US was a racial despotism
+- Panethnicization
+- Racial despotism to racial democracy
+- Racial hegemony re-emerges as "colorblindness"
 
 
 

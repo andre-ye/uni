@@ -343,17 +343,86 @@ Kwame Anthony Appiah
 - Du Bois begin to be hinting towards a social construct understanding of race.
 - Causal theory (referential) account of race; meaning is not in the head (Hilary Putnam)
 
+---
 
+## Lecture 5: Racial Population Naturalism
+- Racial essentialist naturalists -- the De Gabineaus, the Madison Grants, etc.
+- These folks are new -- maybe you can carve it at its joints
+- Do not conflate the racist population naturalists with the racial population naturalists. Can you divide the human species in a significant way?
 
+Robin Andreasen
+- There are two kinds of questions we can ask: sociological questions and biological questions
+- Is there a biologically substantive way of dividing up the subspecies
+- Philosophers of science -- debate on whether you can even have subspecies
+- Common sense tells us a lot of things
+- Science contradicts common sense often
+- When you say that races are biologically unreal, there are two claims
+  - Strong claim: there are no biologically objective ways to define race
+  - Weak claim: Biology fails to vindicate commonsense ideas about race.
+  - Appiah and Zack have kind of blended the etwo together.
+  - Constructivists and skeptics correct about the weak claim, but not the strong claim.
+- Cladistic approach: races are ancestor descendant sequences of breeding populations, or groups of such sequences, that share a common oranges. Races once existed, but they are on their way out. 
+- Human activity is causing race to lose it sbiological reality.
+- Arguments against the biological concept of race
+  - No subspecies argument
+  - No human subspecies argument.  
+- Differences are clinal, they change gradually. Differences are not real in the snese of fcreating subspecies
+- One natural classification refects geneological relationships among organisms. You see monophyletic units form within a phylogeneitc tree. 
+- It's not totally implausible to cut the tree in this specific way, joint cutting.
+- You can have gene differences, etc. 
+- Races as clades: some complications
+  - The folk category Asian is not a cladistic race.
+- Biological races are dynamic -- they change all the time. Biological race can exist and chnange over time. But noww we are coming into contact with one another, so races do not exist.
+- Tracing ancesotrs and looking at ancestral populations.
 
+Philip Kitcher
+- How can biologists deploy the notion of race in a reasonable way?
+- Agrees with what all the eliminativists say about an essentialist concept of race
+- Necessary conditions for a biological concept of race. 
+- Committed to the history of reproductive separation. Phenotypic differences are sustained through transmission of genes.
+- Distinct phenotypes maintain themselve,s done through mechanisms that keep people from reproducing which each other.                                                                               
+- There was a lot of race-mixing happening. 
+- There isn't a biological reason: it's geogrpahic or there are social barriers/explanations.
+- Most people reproducew 
+- Suppose races are bohand $$a$-
+- Kitcher:a about group sbeing reproductiel==vely usolatred from oe moanther. You could start creatinng races. 
+- The caldistic approaches not cnote omproiv=
+- Ethnicity and culture -- the relations herein
 
-
-
-
-
-
-
-
+Joshua Glasgow
+- Humans are all equal, because any culture can leanrn any culture anywhere'
+- Social constructionists are talking about ethnicity, and we're trying to understand race here.
+- Glasgow: you can't just gloss over the consequences, South and North East Asian are supposed to be close but they have radically different phenotypes
+- Talking about a division based purportedly on a scientific reason, but now dealing with the pragmatic stuff.
+- Appiah wanted the truth, but maybe wanted to get the pragmatic consequences.
+- It becomes a leverage debate.
+- Objections
+  - An account with 9 races is too different
+  - Cladistic approach deals with races disappearing, but not of races still persisting
+  - Reproductively isolated groups do not map onto the phenotypical groupings which form the essence of the folk concept of race
+  - Scientss/biologists are not themselves the arbiters of the meaning of race. 
+- Kitcher: There are mechanisms which keep what we call races relatively siolated reproductively-wise.
+- Glasgow defeats the population naturalists
+- Final contender: geographical populations: clusters of genes tend to look like races
+- You begin getting pluralist conceptions of race; maybe you ought to have a biological race and a social race. 
+- "A Third Way in the Race Debate", 2006
+- Eliminativist argument: 
+  1. If race is an illusion, racial terms should be eliminated from public discourse.
+  2. Race is an illusion.
+  3. Racial terms should be eliminated from public discourse
+- Everyone attacks/defends "Race is an illusion".
+- Appiah's anti-realist argument
+- Onto-Semantic Constraint: all parties of the debate converge on the idea that ontological theories of race must be consistent with the best semantics of race. 
+  - Andreeson is just changing the meaning of the word 'race'. 
+  - All approaches suffer from a monistic worldview. Here come the pluralists. Why do they have to be one thing. They can be two, but you can't equivocate.
+- Racial reconstructionism: create a discourse to reconstruct the meaning o f racial terms to be semantically, ontologically, normatively "kosher" (???)
+- Even if "race" (biology ) is an illusion, race* can be useful in public discourse and retained.
+- Reconstructionist argument.
+  1. If either 'race' or race* are not illusions and useful,then racial terms should be retained in public discourse.
+  2. "Race" is an illusion and not useful.
+  3. Race* is not an illusion and useful
+  4. Racial terms should be retained in public discourse.
+  - 
 
 
 
