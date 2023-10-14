@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading Notes
+title: Questions
 parent: PHIL 430
 grand_parent: Philosophy
 nav_order: 10

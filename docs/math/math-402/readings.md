@@ -9,7 +9,7 @@ nav_order: 1
 # Reading Notes
 {: .no_toc }
 
-PHIL 402
+MATH 402
 {: .fs-6 .fw-300 }
 
 ---
@@ -256,13 +256,104 @@ Then $$[a]$$ is a unit in $$\mathbb{Z}_n$$ iff $$(a, n) = 1$$ in $$\mathbb{Z}$$.
 - From 2.8. part 3, when $$p$$ is prime, there are no zero divisors in $$\mathbb{Z}_p$$
 
 
-
-
-
 ---
 
 ## Chapter 3: Rings
-Page 42
+- High-school algebra: arithmetic of polynomials
+- What are common features of arithmetic across different systems?
+- Abstraction allows us to understand the real reasons for why a particular statement is true.
+- Rings -- systems which share a minimal number of fundamental properties of $$\mathbb{Z}$$ and $$\mathbb{Z}_n$$.
+
+### 3.1: Definition and Examples
+A ring is a nonempty set $$R$$ equipped with two operations, addition and multiplication, which satisfy the following axioms. 
+For all $$a, b, c \in R$$:
+1. Closure for addition: $$a + b \in R$$
+2. Associative addition: $$(a + b) + c = a + (b + c)$$
+3. Commutative addition: $$a + b = b + a$$
+4. Additive identity or zero element: there is an element $O_R$$ in $$R$$ such that $$a + O_R = a$$ for all $$a \in R$$
+5. Additive identity or zero element: for each $$a \in R$$, the equation $$a + x = O_R$$ has a solution in $$R$$
+6. Closure for multiplication: $$ab \in R$$
+7. Associative multiplication: $$(ab)c = a(bc)$$
+8. Distributive laws. $$a(b + c) = ab + ac$$ and $$(b + c)a = ba + ca$$
+
+A commutative ring is a ring which additionally satisfies the axiom that for all $$a, b \in R$$, $$ab = ba$$.
+
+A ring with identity is a ring which additionally satisfies the axiom that there is an element $$1_R$$ in $$R$$ such that $$1_R a = a = a 1_R$$ for all $$a \in R$$ (multiplicative identity).
+
+Examples
+- $$\mathbb{Z}$$ is a commutative ring with identity.
+- $$\mathbb{Z}_n$$ is a commutative ring with identity.
+- $$\mathbb{R}$$ is a commutative ring with identity.
+- The set of odd integers with integer addition and multiplication is not a ring. The sum of two odd integers is not odd.
+- The set of even integers is a commutative ring.
+- $$M(\mathbb{R})$$ is the set of all $$2 \times 2$$ matrices over the real numbers. It is a ring with identity.
+- $$T$$ is the set of all functions from $$\mathbb{R}\to\mathbb{R}$$. $$f + g$$ and $$fg$$ are defined by $$(f + g)(x) = f(x) + g(x)$$ and $$(fg)(x) = f(x)g(x)$$. It is a commutative ring with identity.
+
+An integral domain is a commutative ring $$R$$ with identity $$1_R \neq 0_R$$ that satisfies this axiom:
+whenever $$a, b \in \mathbb{R}$$ and $$ab = 0_R$$, then $$a = 0_R$$ or $$b = 0_R$$
+(Note: $$1_R \neq 0_R$$ excludes the zero ring from integral domains.)
+Contrapositive: whenever $$a, b \in \mathbb{R}$$ and $$a \neq 0_R$$ and $$b \neq 0_R$$, then $$ab \neq 0_R$$
+
+- The ring $$\mathbb{Z}$$ of integers is an integral domain.
+- The ring $$\mathbb{Z}_p$$ is an integral domain.
+- The ring $$\mathbb{Z}_n$$ is not an integral domain when $$n$$ is not prime. For example, $$[2] \odot [3] = [0]$$ in $$\mathbb{Z}_6$$.
+- The ring $$\mathbb{Q}$$ is an integral domain.
+
+A field is a commutative ring $$R$$ with identity $$1_R \neq 0_R$$ which satisfies this axiom:
+for each $$a \neq 0_R$$ in $$R$$, the equation $$ax = 1_R$$ has a solution in $$R$$.
+
+- $$\mathbb{R}$$ is a field
+- $$\mathbb{Z}_p$$ is a field
+- $$\mathbb{C}$$ is a field
+- The set of all matrices of the form $$\begin{pmatrix} a & b \\ -b & a \end{pmatrix}$$ is a field.
+
+**Theorem 3.1.**
+Let $$R$$ and $$S$$ be rings.
+Define addition and multiplication on the Cartesian product $$R \times S$$ by
+$$(r, s) + (r', s') = (r + r', s + s')$$
+$$(r, s) \cdot (r', s') = (rr', ss')$$
+Then $$R \times S$$ is a ring.
+If $$R$$ and $$S$$ are both commutative, then $$R \times S$$ is commutative.
+If both $$R$$ and $$S$$ have an identity, then so does $$R \times S$$.
+
+When a subset $$S$$ of a ring $$R$$ is itself a ring under the addition and multiplication in $$R$$, $$S$$ is a subring of $$R$$.
+
+- $$\mathbb{Z}$$ is a subring of the ring $$\mathbb{Q}$$
+- $$\mathbb{Q}$$ is a subring of the ring $$\mathbb{R}$$
+- $$\mathbb{Q}$$ is a subfield of $$\mathbb{R}$$
+- $$\mathbb{R}$$ is a subfield of $$\mathbb{C}$$
+- $$M(\mathbb{Z})$$ is a subring of $$M(\mathbb{R})$$
+- The set of all continuous functions $$\mathbb{R} \to \mathbb{R}$$ is a subring of the ring of all functions from $$\mathbb{R} \to \mathbb{R}$$
+
+Often, proving $$S$$ is a subring is easier than proving that $$S$$ is a ring.
+
+**Theorem 3.2.**
+Suppose $$R$$ is a ring and that $$S$$ is a subset of $$R$$ such that
+1. $$S$$ is closed under addition
+2. $$S$$ is closed under multiplication
+3. $$0_R \in S$$
+4. If $$a \in S$$, then the solution to the equation $$a + x = 0_R$$ is in $$S$$
+Then $$S$$ is a subring of $$R$$.
+
+- $$\{0, 3\}$$ is a subring of $$\mathbb{Z}_6$$.
+- The set of all matrices with form $$\begin{pmatrix} a & 0 \\ b & c \end{pmatrix}$$ is a subring of $$M(\mathbb{R})$$.
+- The set $$\{ a + b \sqrt{2} \vert a, b \in \mathbb{Z} \}$$ is a subring of $$\mathbb{R}$$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
