@@ -14,15 +14,9 @@ MATH 402
 
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
-
 Just FYI, my homeworks may be incorrect, and probably often are.
+
+
+- [Week 1 Homework](homeworks/hw1.pdf)
+- [Week 2 Homework](homeworks/hw2.pdf)
+

@@ -356,12 +356,30 @@ IV: Some Suggestions About How to do Theory That is no Imperialistic, Ethnocentr
 - Learning requires openness, sensiivity, self-questioning.
 - Mutual dialogue which does not reduce towards a common instance of "woman".
 
+---
 
+## "A Love Letter from a Critic", Nash
+- A "vocal critic of intersectionality" -- what does this mean?
+- What is a critic? What is tracing the stories we tell?
+- Black feminist theorists retell a singular story about intersectionality. One group of scholars supports intersectionality, and everyone else is opposed to it ('the critics'). So intersectionality must be saved.
+- Intersectionality's critic is actually imaginatively produced by black feminists; the critic is an imaginative projection.
+- Black feminists are enlisted in becoming what the field wants them to be -- disciplinarians.
 
+The Intersectionality Wars
+- "intersectionality" -- declared dead?
+- Would killing intersectionality mean killing black feminism and black 
+- Debates about intersectionality become all about for or against. Slippages animate the discursive space. 
+- Debates are actually over the discipline's key sign -- black woman -- in the field imaginary.
+- Movement of intersectionality to the center of feminism and women's studies
+- How to signal attentiveness to difference
+- Defense of intersectionality from imagine abuse
+- Janet Halley: political ideas have prose styles. You have a political libido. Intersectionality wars underscore the violence inflicted upon intersectionality by critics.
+- Occultic commodification of black female subjectivity / the concept of intersectionality -- been commodified and colonized for neoliberal regimes
+- Is criticism a violent practice? Milking the political libido -- representing intersectionality under siege
+- A protective response is demanded.
 
-
-
-
+Origin Stores
+- Competing origin stories about the genesis of intersectionality
 
 
 

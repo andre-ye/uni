@@ -446,5 +446,49 @@ Racial Politics: Despotism, Democracy, and Hegemony
 - Racial despotism to racial democracy
 - Racial hegemony re-emerges as "colorblindness"
 
+---
+
+## Week 4: The Normative Dimension of Race
+
+### "A Social Constructionist Analysis of Race", Sally Haslanger
+- Development of a realist, social constructionist accout of race
+- "Race in the genomic age": we should shift from "is race real?" to "what concept of race should we employ to achieve antiracist goals"?
+- Language is a collective social practice rather than presented by an authority.
+- What 'race' means is not up tot he biologist; there i no Language Police.
+- Start from a normative basis of where to go
+
+Race Eliminativism, Race Constructionism, and Race Naturalism.
+
+- Race eliminativists: talk of races is totally misleading and should be eliminated from our discourse, we should stop participating
+- Race constructionists: races are real, but social rather than natural groups; we need to recognize mechanisms of racial formation
+- Naturalists: human species can be divided on the basis of geneitc / physical traits
+- The difference between these approaches to race is not "just semantics" -- it affects social policy.
+
+Natural and Social Kinds
+- Is the debate primarily metaphysical / scientific about the reality of race?
+- Eliminativists & naturalists agree that races, if they exist, are natural
+- Cnostructionists: races are social kinds
+- "Kind" -- following the Aristotelian essence. Objects are distinctive because of their essence.
+- Are races Aristotelian kinds? 
+- Superficial features can be modified and people will be treated differently.
+- Locke: kinds are highly unified
+  - Real kinds: unified by properties which play a role in the causal structure of the world
+  - Nominal kinds: unified by properties which are interesting or useful to us.
+
+Can 'facts' settle hte matter?
+- The meaning of race is not settled by facts, but rather is used in the settling of facts.
+
+Lessons from Philosophy of Language
+- Folk concept of race is not th e'true meaning', but it is a player
+
+Page 9
+
+
+
+
+
+
+
+
 
 

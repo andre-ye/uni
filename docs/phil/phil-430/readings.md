@@ -315,6 +315,29 @@ Discussion
 - Time is special: it is discernible not in bodies but of accidents (motion, rest). It is self-evident but only understandalbe via analogical reasoning -- abstracting time as the common measure across accidents. 
 - Facts about the past must be themselves per-se entities (?) -- this contradicts the Epicureans. How will they respond?
 
+### 8: Atoms
+
+A. Epicurus, *Letter to Herodotus*, 40-1
+- Some bodies are compounds, and others consitutents of compounds.
+- Constituents of compounds must be atomic (uncuttable) and unalterable.
+- If all things are not destroyed into nothing, something must survive the dissolution of the compounds, the uncuttables
+
+B. Lucretius, 1.503-98
+- Body and void must each be **absolute and unmixed**
+- The more void each thing contians, the more it succumbs to attack.
+- Solid bodies are without void and are everlasting.
+- If matter had not been everlasting, everything would have been annihilated.
+- There must be an imperishable body to ensure a supply of matter for the renewal of things.
+
+Discussion
+- The existence of atoms follows from the mutual exclusiveness of body and void, and the dependence of a body's divisibility on gaps in it.
+- Body and void can never totally impenetrate each other, so there will be parts of body without void.
+- Atoms are required for conservation of matter
+
+### 11: Atomic motion
+
+### 12: Microscopic and macroscopic properties
+
 
 
 
