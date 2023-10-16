@@ -477,23 +477,104 @@ Notes
 - Every function is surjective onto its own preimage
 
 
+---
 
+## Lecture 6: Uniform Continuity 
 
+- When we define $$f : S \subset \mathbb{R}^n \to \mathbb{R}^m$$ continuous on $$S$$, this means that for all points in $$S$$, $$f$$ is continuous at that point (epsilon-delta) definition.
+- However, note that the delta we choose is dependent on $$\vec{x}$$ (i.e. we need to adapt the delta based on the given conditions, i.e. shape of $$f$$ around $$x$$ and tightness of $$\epsilon$$)
 
+**Uniform continuity.**
+A function $$f : S \subseteq \mathbb{R}^n \to \mathbb{R}^m$$ is uniformly continuous on $$S$$ if the following definition is satisfied.
 
+$$\forall \epsilon > 0, \exists \delta > 0 : \forall \vec{x}, \vec{y} \in S, \Vert \vec{x} - \vec{y} \Vert < \delta \implies \Vert f(\vec{x}) - f(\vec{y}) \Vert < \epsilon>>
 
+- Example: $$f(x) = \sin(x)$$ is uniformly continuous on $$\mathbb{R}$$. 
 
+Geenerally speaking, if $$f$$ satisfies
+$$\forall \vec{x}, \vec{y} \in S, \exists M > 0 : \Vert f(\vec{x}) - f(\vec{y}) \Vert \le M \Vert \vec{x} - \vec{y} \Vert$$,
+then $$f$$ is uniform continuous on $$S$$, with $$\epsilon = \delta / M$$.
 
+Lipschitz inequality with Lipschitz constant $$M$$.
+We say $$f$$ is $$M$$-Lipschitz on $$S$$.
 
+Consider $$f(x) = e^x : \mathbb{R} \to \mathbb{R}$$ is not uniformly continuous on $$\mathbb{R}$$.
+This is **not uniformly continuous.**
+Assume that it is uniformly continuous on $$\mathbb{R}$$.
+Let $$\epsilon = 1$$. Then there exists some positive $$\delta$$ such that $$\forall x, y \in \mathbb{R}$$, $$\vert x - y \vert < \delta \implies \vert e^x - e^y \vert < 1$$.
+Notice that $$\vert e^{\delta / 2} - 1 \vert > 0$$ and $$\lim_{x \to \infty} e^x = \infty$$, thus $$\exists x_0 \in \mathbb{R}$$ s.t. then $$\vert e^{x_0} (e^{\delta / 2} - 1) \vert > 1$$. But then, $$\vert e^{x_0 + \delta / 2} - e^{x_0} \vert > 1$$, which is a contradiction.
 
+**But, who gives a fuck about uniform continuity?**
 
+- Suppose $$f : S \subset \mathbb{R}^n \to \mathbb{R}^m$$ is continuous, and $$\{ \vec{x}_n \}_{n=1}^\infty \subseteq S$$ is Cauchy. Is $$\{f(\vec{x}_n)\}_{n=1}^\infty$$ Cauchy?
+- Consider $$S = (0, 1)$$, $$f(x) = 1/x : (0, 1) \to \mathbb{R}$$. The sequence converges outside of its set. $$\{ x_n \}_{n=1}^\infty = \{ 1/n \}_{n=1}^\infty \subseteq S$$, $$x_n \to 0$$, $$\{ f(x_n) \}_{n=1}^\infty = \{ n \}_{n=1}^\infty$$
 
+**Theorem.**
+If $$f : S \subseteq \mathbb{R}^n \to \mathbb{R}^m$$ is uniform continuous on $$S$$, then $$f$$ sends Cauchy sequences to Cauchy sequences.
 
+**Theorem.** (Heine, 1870).
+Suppose $$S \subseteq \mathbb{R}^n$$ is compact.
+Then if $$f : S \subseteq \mathbb{R}^n \to \mathbb{R}^m$$ is continuous, it is uniformly continuous. 
 
+(Proof.)
+1. Assume for the sake of contradiciton that $$f$$ is not unfiromly continuous.
+2. This means that there exists an $$\epsilon$$ such that for every $$\delta$$, there exists $$\vec{x}, \vec{y} \in S$$ such that $$\Vert \vec{x} - \vec{y} \Vert < \delta$$ and $$\Vert f(\vec{x}) - f(\vec{y}) \Vert > \epsilon$$.
+3. Suppose we have the sequence $$\delta = 1, 1/2, 1/3, ..., 1/n, ...$$.
+4. For each element in this sequence, $$\exists \vec{x}, \vec{y} s.t. \Vert \vec{x}_n - \vec{y}_n \Vert < 1/n$$ and $$\Vert f(\vec{x}_n) - f(\vec{y}_n) \Vert > \epsilon$$.
+5. By BW Theorem, there exists a subsequence $$\vec{x}_{n_j} \to \vec{a} \in S$$, and also that $$\Vert \vec{x}_{n_j} - \vec{y}_{n_j} \Vert \to 0$$, so $$\vec{y}_{n_j} \to \vec{a}$$.
+6. Therefore, $$f(\vec{x}_{n_j} - f(\vec{y}_{n_j}) \to 0)$$.
+7. This contradicts $$\Vert f(x_{n_j}) - f(y_{n_j}) \Vert > \epsilon$$.
 
+---
 
+## Lecture 7: Differential Calculus
+Some history
+- Many real analysis cours eare taught "backwards"
+- Sharaf al-Din al-Tusi, 12th century Iranian mathematician, derivative of cubic equation
+- Bhaskara II, 12th century Indian mathematician, derivative of sine function, Taylor approximations
+- Merton School, 14th century, mean value theorem, etc.
+- An explosion of interest in calculus and derivatives in the 17th century, growing out of practical questions, trying to solve this type of question: You have a curve which is the graph of a function. You want to find the tangent line to that point.
+- Applications:
+  - Angles of intersecting curves (Decartes)
+  - Building telescopes and clocks (Galilei, Huygens)
+  - Finding maxes and mins of functions (Newton, Fermat)
+  - Astronomy (Kepler, Newton)
 
+Derivatives
+- Leibniz's proof: If $$x$$ changes by $$\delta x$$, then $$y = x^2$$ should change by $$y + \delta y = (x + \delta x)^2 = x^2 + 2x\delta x + (\delta x)^2$$. Relabel $$\delta x, \delta y$$ as $$dx, dy$$ and as they become 'infinitely small', then $$(\delta x)^2$$ gets infinitely smaller. Also subtract $$y = x^2$$. So we get $$dy = 2x dx$$, or $$dy/dx = 2x$$.
+- But what does "infinitely small" mean? When can we just drop $$(\delta x)^2$$?
+- Leibniz is considering some kind of limiting argument. 
+- Consider this as a sort of linear approximation.
+- Idea: given $$f : \mathbb{R} \to \mathbb{R}$$. Find a linear function $$l(x) = mx + b; m, b \in \mathbb{R}$$ approximating $$f(x)$$ at $$x = a$$.
+  1. Basic criteria: $$f(a) = l(a)$$; i.e. $$f(a) = ma + b$$; $$l(x) = m(x - a) + f(a)$$
+  2. The difference $$f(x) - l(x)$$ goes to zero faster than $$x - a$$ as $$x \to a$$. In other words, $$\frac{f(x) - l(x)}{x - a} \to 0$$ as $$x \to a$$.
+- We can rewrite the error of the linear approximation. Let $$h = x - a$$. Then $$f(x) - l(x) = f(a + h) - f(a) - mh =: E(h)$$ ''error''. '
 
+**Definition.**
+Let $$f : I \subseteq \mathbb{R} \to \mathbb{R}$$ where $$a \in I$$. We say $$f$$ is differentiable at $$a$$ if there exists $$m \in \mathbb{R}$$ s.t.
+$$f(a + h) = f(a) + mh + E(h)$$ where $$\lim_{h \to 0} E(h) / h = 0$$, where $$h = x - a$$.
+We call $$m$$ the derivative of $$f$$ at $$a$$.
+(Note that this is a first-order Taylor approximation.)
 
+But we can rearrange: $$m = \frac{f(a + h) - f(a) - E(h)}{h} = \frac{f(a + h) - f(a)}{h}$$. (Error goes to zero.)
+But if you think of it in the first way, you're thinking that it can be easured as a linear approximation plus an error.
+
+The condition $$\lim_{h \to 0} \frac{E(h)}{h} = 0$$ is often denoted $$E(h)$$ is $$\mathcal{O}(h)$$, ''little-oh''. Thus differentiability is described as ``$$f(a + h)$$ is linear $$ + \mathcal{O}(h)$$''.
+
+Note that if $$\lim_{h \to 0} \frac{E(h)}{h} = 0$$, then $$\lim_{h \to 0} E(h) = 0$$.
+Then $$\lim_{h \to 0} f(a + h) - f(a) - mh = \lim_{h \to 0} E(h) = 0$$.
+But this implies that $$f$$ is continuous.
+Differentiability at a point implies continuity at a point.
+
+We will write the value of $$m$$ as $$f'(a)$$, the derivative of $$f$$ at $$a$$.
+There may not be a function $$f'(x)$$ such that $$m = f'(x) \vert_{x = a}$$.
+
+**Example.**
+Proof of the product rule.
+If $$f, g$$ are differentiable at $$a$$, the derivative of $$f(x)g(x)$$ at $$a$$ is $$f'(a) g(a) + f(a) \cdot g'(a)$$.
+Since $$f, g$$ are differentiable, we can write out their linear approximations. $$f(a + h) = f(a) + f'(a) h + E_1(h)$$, $$g(a + h) = g(a) + g'(a)h + E_2(h)$$.
+Therefore, $$f(a + h) g(a + h) = f(a) g(a) + \left[ f'(a) g(a) + f(a) g'(a) \right]h + E_3(h)$$.
+We have a really ugly term $$E_3 = \left( f(a) + f'(a) h + E_1(h)\right) E_2(h) +  \left( g(a) + g'(a) h + E_2(h) \right) E_1(h) + f'(a) g'(a) h^2$$.
+This is all little-oh, they all have limits which, if you divide by zero, still go to zero as you go to zero.
 
 

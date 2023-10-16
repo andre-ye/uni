@@ -380,7 +380,13 @@ The Intersectionality Wars
 
 Origin Stores
 - Competing origin stories about the genesis of intersectionality
-
+- Blackf eminism tethers intersectionality to a coherent origin, as a singular voice
+- Intersectionality origin stories: respond to the whiteness of women's studies, and debate who termed the term, whose terrain intersectionality was, etc.
+- An insistence that intersectionality belongs in black feminism, and that it is in fact the intellectual contribution fo women's studies
+- "Whitening of intersectionality"
+- Black feminism lays a proprietary claim to the analytic of intersectionality. 
+- Who "owns" intersectionality?
+- Emphasizing intersectionality is a response to the imagined appropriation of black feminism.
 
 
 
