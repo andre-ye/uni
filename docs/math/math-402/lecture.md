@@ -118,7 +118,29 @@ $$[ a] \cap [ c] \neq \emptyset$$
   - When you have zero divisors, it doesn't mean that either $$(a-1)$$ or $$(a+1)$$ equal zero.
   - e.g. in $$\mathbb{Z}_{15}$$ we get $$a \in \{ -1, 1, -4, 4 \}$$
 - Polynomials over systems with zero divisors are very different from polynomials over systems without zero divisors.
-- 
+
+---
+
+## Week 4 Monday: Rings
+- A ring: mathematical set / object where you can add & multiply with the usual conventions
+- You need associativity and distributivity under addition and multiplication
+- Commutativity requried fo addition but not nec for multiplication
+  - But lots of other systems do not have multiplicative commutativity, yet we want rings to include for instance matrices
+- A lot of mathematical structures fall under the context of ring theory, and we can save work by studying them all together
+- The ring must contain an additive identity and inverses
+- A lot of systems have multiplicative identities
+- You can bootstrap basically all claims about associativity and distributivity from the fact that $$+, \times$$ in $$\mathbb{C}$$ and $$M_N(C)$$ satisfy associativity and distributivity
+- Additive identities are unique
+- When in a table:
+  - Additive inverses -- "Sudoku" rule, no repeats in rows or columns
+  - Commutativity is checkable by symmetry across the diagonal
+
+Hierarchy of rings
+- Commutative rings (polynomial rings)
+- No zero divisor rings
+- Integral domains -- commutative and no zero divisors (integers)
+- Fields -- no zero divisors, commutative, and every nonzero element has a multiplicative inverse
+- Division ring -- no zero divisors, and every nonzero element is a unit
 
 
 

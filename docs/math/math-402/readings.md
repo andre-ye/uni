@@ -341,6 +341,66 @@ Then $$S$$ is a subring of $$R$$.
 
 
 
+### 3.2: Basic Properties of Rings
+
+Arithmetic in Rings
+- We cannot assume subtraction exists in an arbitrary ring
+
+**Theorem 3.3.**
+For any element $$a$$ in a ring $$R$$, the equation $$a + x = 0_R$$ has a unique solution.
+
+- You can define negatives and subtraction: $$-a$$ is the solution to $$a + x = 0_R$$
+- Since addition is commutative $$-a$$ is the unique element of $$R$$ such that $$a + (-a) = 0_R = (-a) + a$$
+- Subtraction in a ring $$b-a$$ is defined as $$b+(-a)$$.
+
+**Theorem 3.4.**
+If $$a + b = a + c$$ in a ring $$R$$, then $$b = c$$.
+
+**Theorem 3.5.**
+For any elements $$a, b$$ of a ring $$R$$,
+1. Multiplication of the zero element: $$a \cdot 0_R = 0_R = 0_R \cdot a$$
+2. Negative of a product: $$(-a)b = -(ab) = a(-b)$$
+3. Double negation: $$-(-a) = a$$
+4. Distribution of negative: $$-(a + b) = (-a) + (-b)$$
+5. Distribution of negative: $$-(a - b) = (-a) + b$$
+6. Double negation: $$(-a)(-b) = ab$$
+7. (If $$R$$ has an identity) $$(-1_R)a = -a$$
+
+- Exponents: $$a^n = aaa \cdot a$$
+- We can verify that $$a^ma^n = a^{m+n}$$ and $$(a^m)^n = a^{mn}$$
+- $$na = a + a + a + ... + a$$, $$-na = (-a) + (-a) + (-a) + ... + (-a)$$
+- We can give a product of an integer $$n$$ and a ring element $$a$$
+
+**Theorem 3.6.**
+Let $$S$$ be a nonempty subset of a ring $$R$$ such that
+1. $$S$$ is closed under subtraction (if $$a, b \in S$$, then $$a - b \in S$$)
+2. $$S$$ is closed under multiplication (if $$a, b \in S$$, then $$ab \in S$$)
+Then $$S$$ is a subring of $$R$$.
+
+Units and Zero Divisors
+- An element $$a$$ in a ring $$R$$ is a unit if the equation $$au = 1_R = ua$$ has a solution in $$R$$.
+- The element $$u$$ is the multiplicative inverse of $$a$$ and denoted $$a^{-1}$$
+- The only units in $$\mathbb{Z}$$ are $$\pm 1$$
+- Every nonzero element of a field is a unit.
+- Invertible matrices are units in a matrix ring.
+- An element $$a$$ in a ring $$R$$ is a zero divisor provided that $$a \neq 0_R$$ and there exists a nonzero element $$c$$ in $$R$$ such that $$ac = 0_R$$ or $$ca = 0_R$$.
+- An integral domain contains no zero divisors.
+
+**Theorem 3.7.**
+Cancellation is valid in any integral domain $$R$$. 
+If $$a \neq 0_R$$ and $$ab = ac$$ in $$R$$, then $$b = c$$. 
+
+**Theorem 3.8.**
+Every field $$F$$ is an integral domain.
+
+**Theorem 3.9.**
+Every finite integral domain $$R$$ is a field.
+
+
+---
+
+
+
 
 
 

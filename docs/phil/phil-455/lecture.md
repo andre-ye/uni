@@ -422,7 +422,27 @@ Joshua Glasgow
   2. "Race" is an illusion and not useful.
   3. Race* is not an illusion and useful
   4. Racial terms should be retained in public discourse.
-  - 
+
+---
+
+## Lecture 6: 
+
+Sally Haslanger
+- There is a reality to race which isn't being captured.
+- We can't merely say that the meaning of race is vacuous, 
+- Race picks out a social type, and means different things in different cases.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

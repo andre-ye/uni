@@ -387,20 +387,54 @@ Origin Stores
 - Black feminism lays a proprietary claim to the analytic of intersectionality. 
 - Who "owns" intersectionality?
 - Emphasizing intersectionality is a response to the imagined appropriation of black feminism.
+- Who is the origin academic? Patricia Hill Collins, Crenshaw, Combahee River Collective, etc. All these origin stories perform political work.
+- Does Crenshaw end up playing a God-role in the intersectionality?
+- "Crenshaw was Columbus" -- a "gift of intersectionality"
+- Intersectionality was actually born in social movements and activism
+- Another historical effect: to suggest that black feminist intellectual and political work has always been intersectional.
+- A logic of 'coinage'
+- What is the "lure of the signature"
+- This act of guarding origins shields the analytic from abuse
 
+Appropriation 
+- Intersectionality has been taken over by white women's studies.
+- Policing intersectionality's appropriations
+- "ocultic commodification"
+- If intersectionality has been commodified, then it is because it is the result of intellectual labor and has been imbued with value.
+- Fetishized marginality
+- Scholars can pretend to engage in intersectional labor
+- Intersectionality has in fact been used to *undermine its very project*.
+- *Colonization* for neoliberal regimes
+- Intersectional work is demanding! But it can be masqueraded.
+- Language of colonization points towards decolonial labor, returning intersectionality to black feminists
+- What is the difference between appropriation and travel of theories / circulation?
+- Is calling one's work intersectional a claim to value?
+- Limiting the analytic -- commodifying it, treating it as a fetish, etc.
+- Villains and saviors
+- "Speaking for" / who has the right to say
 
+Intersectionality's Critics
+- The critic is both ubiqitous and destructive
+- What is a "critique"
+- Intersectionality is a consensus-creating signifier.
+- Critique thieves!
+- Critics are monolithic
+- What are the problematic practices?
+- Lack of specificity
+- Jasbir Puar -- the critique of intersectionality
+- Assemblage vs intersectional model of identity, messiness vs a formulaic grid
+- "I would rather be a cyborg than a goddess".
+- The manufacturing of an Other figure, the Woman Of Color, totally exterior
+- Queer theory vs feminism
+- A latent racialism?
+- Black feminists produce the critic rather than exposing it
+- The urgency is to save intersectionality from the critic -- which justifies black feminism retroactivelyh
 
-
-
-
-
-
-
-
-
-
-
-
+Love Letter from a Critic
+- Besiegment
+- Academic "outlaws"
+- Can we love the critic and interpret the critic as engaged in a loving practice?
+- Refuse the lure of territoriality
 
 
 

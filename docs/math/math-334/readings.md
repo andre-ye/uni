@@ -158,4 +158,30 @@ If $$S$$ is a subset of $$\mathbb{R}^n$$, then $$S$$ is compact iff every open c
 - Metric spaces: general spaces equipped with a distance function.
 - But Bolzano-Weierstrass and Heine-Borel may not be completely valid for other metric spaces. 
 
+### 1.7: Connectedness
+
+- A set in $$\mathbb{R}^n$$ is connected if it is ``all in one piece''
+- A set is disconnected if it is the union of two nonempty sets, neither of which intersects the closure of the other.
+- A set is connected if it is not disconnected.
+
+**Theorem 1.25**. 
+The connected subsets of $$\mathbb{R}$$ are precisely the intervals (open, half-open, or closed; bounded or unbounded).
+
+**Theorem 1.26.**
+Cotninuous functions map connected sets to connected sets.
+
+**Corollary 1.27.** (The Intermediate Value Theorem.)
+Suppose $$f : S \to \mathbb{R}$$ is continuous at every point of $$S$$ and $$V \subset S$$ is connected.
+If $$\mathbf{a}, \mathbf{b} \in V$$ and $$f(\mathbf{a}) < t < f(\mathbf{b})$$ or $$f(\mathbf{b}) < t < f \mathbf{a})$$, there is a point $$\mathbf{c} \in V$$ such that $$f(\mathbf{c}) = t$$.
+
+- A set is arcwise/pathwise connected if any two points in $$S$$ can be joined by a continuous curve in $$S$$.
+
+**Theorem 1.28.**
+If $$S \subset \mathbb{R}^n$$ is arcwise connected, then $$S$$ is connected.
+
+**Theorem 1.30.**
+If $$S \subset \mathbb{R}^n$$ is open and connected, then $$S$$ is arcwise connected.
+
+
+
 

@@ -98,3 +98,20 @@ Waves of feminism
 
 
 
+---
+
+## Week 4 Tuesday: Intersectional Feminism
+- Concern: "my feminism will be intersectional" has become a tired cliche
+- Whose intersection(s)?
+- Transnational feminism: race and colonization
+- Are you committed to decolonizing if you are committed to intersectional feminism?
+- Intersectionality not about individuals but about social axes / dimensions
+- Friendship? Care? *Friendship throughotu colonialism*? Is there a burden/strain of friendship?
+- Is friendship reciprocal?
+- "Affectively saturated" story -- the main feeling about the stories we tell of intersectionality is of black feminism vs. the critic, the affect of defensiveness
+- Does Nash end up reproducing what she criticizes?
+- Political libido
+- the role of affect in feminist theory, what it means to theorize
+- Nash: Black feminists have adopted a vision of intersectionality which is not true to Black feminism
+  - Black feminism should not follow a capitalist logic of property accumulation ('this is mine, this is my territory, this is my land') -- think about and be more critical about the concerns around 'appropriation', etc.
+- 
