@@ -270,7 +270,7 @@ For all $$a, b, c \in R$$:
 1. Closure for addition: $$a + b \in R$$
 2. Associative addition: $$(a + b) + c = a + (b + c)$$
 3. Commutative addition: $$a + b = b + a$$
-4. Additive identity or zero element: there is an element $O_R$$ in $$R$$ such that $$a + O_R = a$$ for all $$a \in R$$
+4. Additive identity or zero element: there is an element $$O_R$$ in $$R$$ such that $$a + O_R = a$$ for all $$a \in R$$
 5. Additive identity or zero element: for each $$a \in R$$, the equation $$a + x = O_R$$ has a solution in $$R$$
 6. Closure for multiplication: $$ab \in R$$
 7. Associative multiplication: $$(ab)c = a(bc)$$
