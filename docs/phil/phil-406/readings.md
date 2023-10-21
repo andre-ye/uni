@@ -490,9 +490,65 @@ Ideal Theory and Other Women's Power
 - Western concepts can be idealized -- need to contextualize and situate tools.
 - Universal goods may be sought out through different means
 
+---
 
+## "Introduction: Bringing Feminist Theory Home", Sara Ahmed
 
+- Feminism is how we "pick each other up"
+- Living a feminist life does not mean adopting a set of ideals
+- "Cultural feminism" -- the idea that feminism is about how to live.
+- Feminism can be more easily dismissed when it is seen as itself being about dismissal, the feminist policer.
+- Feminists are not police.
+- To live a feminist life is to make everything into something questionable (Marx: 'the ruthless criticism of all that exists')
+- What kind of world are we building?
+- Hope
 
+A Feminist Movement
+- Feminism is a movement: we are moved to become feminists.
+- Feminist movement is collective political movement
+- Feminist action as ripples in water
+- Convene $$\to$$ convention
+- A movement needs to take place somewhere
+- Momentum, self-identification
+- Feminist movements can go undetected
+- Feminism needs to be everywhere because feminism is not everywhere
+- Patriarchal reasoning goes all the way down.
+- Assumption: feminism travels from West to East, feminism as an imperial gift. But for Ahmed, feminism travels from teh East
+- Feminism: movements require us to be moved.
+- Feminism, bell hooks: the movement to end sexism, sexual exploitation, and sexual oppression
+- Flavia Dzodan, feminism will be intersectional or it will be bullshit
+- Feminism must recognize what has not ended yet.
+- The postfeminist fantasy
+- As a feminist, you aim to bring to an end what some do not recognize as existing.
+- Materiality and mentality
+- Feminist movements must be cautious -- waver your convictions
+
+Homework
+- Feminism is homework: work done in the home assigned by an authority outside the home
+- Feminism is self-assignment
+- Feminism transforms the house
+- Feminist theory must be also exercised in home; it cannot be understood only as something which is done away from home.
+- citational chain of theory
+- Is doing theory about putting non-relevant questions into brackets?
+- You are assumed to be interrupting a happy occasion because of your negation.
+- How to make feminist theory become homework? ANd the university too?
+- "We use our particulars to challenge the universal"
+
+Building Feminist Worlds
+- An embodied experience of power provides the basis for knowledge
+- THeoreticla work which is in touch with the world
+- The everyday si animation -- the personal is theoretical.
+- To be a feminist is to stay a student
+- An intervention within academic feminism
+- Resonances, repeating words, repetition
+- Feminist instruction: start from experiences of becoming feminists, and generating new ideas about feminism.
+- "Sweaty concepts" - Audre Lorde. Being pulled out from a shattering experience.
+  - Conceptual work is too often understood as different from describing the situation, but rather as a way of bringing-something-into-the-world
+  - Descriptive work is conceptual work. Sweaty concepts come from bodies which are not at home in the world. Angles, points of view. Sweat is *bodily*; it is trying, there will be labor.
+- Pronouns, you vs. me, straining, labor of identification.
+- Building feminist worlds from feminist materials; feminist theory as world-making. Feminist theory is not merely a tool to be used and then shelved away. You cannot do feminist theory without being a feminist.
+
+page 14
 
 
 
