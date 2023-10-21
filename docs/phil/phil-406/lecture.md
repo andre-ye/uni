@@ -114,4 +114,72 @@ Waves of feminism
 - the role of affect in feminist theory, what it means to theorize
 - Nash: Black feminists have adopted a vision of intersectionality which is not true to Black feminism
   - Black feminism should not follow a capitalist logic of property accumulation ('this is mine, this is my territory, this is my land') -- think about and be more critical about the concerns around 'appropriation', etc.
-- 
+
+---
+
+## Week 4 Thursday: Transnational Feminism
+
+- Is transnational feminism about intersectionality? 
+- Decolonization vs intersectionality
+- Post-feminism: the idea that feminism is no longer necessary, that we have achieved equality
+- Post-colonialism: understanding the world after colonialism, after the end of colonialism. Imperialism after imperialism.
+- Settler colonialism.
+
+What is ideal theory?
+- Full compliance (people tend to agree and enact justice) vs partial compliance
+- Utopian vs realistic (how many factual constraints are there)
+- End-state vs transitional
+- Ideal vs non-ideal
+- John Rawls, Theory of Justice
+- Khader -- arguing against using ideal theory to critique non-Western culture
+- Ideal theory needs to be thin as opposed to thick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

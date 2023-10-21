@@ -432,9 +432,20 @@ Sally Haslanger
 - We can't merely say that the meaning of race is vacuous, 
 - Race picks out a social type, and means different things in different cases.
 
+---
 
-
-
+## Lecture 7: Ron Mallon, Normative Race
+- Puts philosophy of race on the map
+- Philosophy of language
+- Rawls made political philosophy back on the map
+- Ron Mallon
+- Constructionist: American society was not and is not divided along racial lines because nature made it that way. Are open to transformation by collective action.
+- On a constructionist theory of race, passing should be possible and explicable.
+- No Travel Constriant: race is dependent on culture
+- Passing Constraint: passing is possible and explicable. 
+- Reality constraint: race should be explanatory
+- Race does not travel.
+- The concept of race is heuristically incoherent
 
 
 

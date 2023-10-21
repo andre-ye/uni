@@ -483,7 +483,32 @@ Lessons from Philosophy of Language
 
 Page 9
 
+### 'Race': Normative, Not Metaphysical or Semantic, Ron Mallon
+- What is race?
+- Racial skepticism, racial constructionism, racial population naturalism
+- What ought we do with talk about race?
+- There is a close association between metaphysics nad normativity.
+- There is no direct entailment between metaphysical facts and particular practice of race talk
+- Semantic strategy: connects metaphysical claims with linguistic-conceptual practices
+  1. There is a metaphysical assumption.
+  2. There is a semantic assumption that some theory of referenc eis correct.
+  3. Racial terms refer or fail to refer to some metaphysical features of the world
+- Three conclusions in the article: 
+  1. Much of the apparent metaphysical disagreement over race is an illusion.
+  2. Appearance of subsntive metaphysical debate is the product of the semantic strategy
+  3. The semantic strategy is problematic. Race theory should no try to find the 'correct' theory of reference
 
+I. The Ontological Consensus: The Rejection of Racialism
+- Historical view that race is associated with racial essences, racialism (Anthony Appiah)
+- Races were biobehavioral essences
+- Unlikely that there is interesting genetic essence
+- Ontological consensus
+
+II. Racial Skepticism
+- Appiah: race does not refer to anything in the world
+  - Ideational account: descriptivist theory of reference. Committed to racialism. Kripke and Putnam have overturned descriptivism.
+  - Referential / causal-historical account of reference: a term which picks out a kind of thing. But by the ontological consensus, there are nov alid candidates for referents, except for those set out by racialism.
+- Races cannot be reproductively isolated, because there is no such reproductive isolation
 
 
 

@@ -142,9 +142,39 @@ Hierarchy of rings
 - Fields -- no zero divisors, commutative, and every nonzero element has a multiplicative inverse
 - Division ring -- no zero divisors, and every nonzero element is a unit
 
+---
 
+## Week 4 Wednesday: More on Rings
+- Ring: a set with $$\plus$$ and $$\times$$ and associativity, distributivity, additive identity, and additive inverses
+- Suppose you have a subset. Is it a subring? What is inherited?
+  - You need to check closure of addition and multiplication still holds. 
+  - Associativity and distributivity come for free
+  - Need to check additive identity and inverses still hold
+- Addition in rings are surjective because of additive identity
+- You have to check closure under multiplication, but Theorem 3.6 shows that closed under addition, closed under additvie inverses, and containing zero is equivalent to checking closed under subtraction (assuming set is nonempty)
+- Multiplication is generalizable to non-integer rings due to distributivity across multiplication
+- For non-commutative rings, divisors don't have to go both ways
+- Units and zero divisors need to be commutative
+- Multiplicative inverses of units need to be equal
+- Every finite integral domain is a field (Theorem 3.9). Being able to cancel implies multiplication by $$a$$ is injective
+- For finite sets, injection implies surjection, implying every element has a multiplicative inverse, which is the condition for a field
+- e.g. the integral domain of integrals is not a field.
 
+---
 
+## Week 4 Friday: Even More on Rings
+- Properties of matrices as linear transformations between real-valued spaces: $$T(v + w) = T(v) + T(w)$$, $$T(cv) = cT(v)$$
+- You often want maps to respect linear transformation structures. 
+- It helps to understand a ring $$R$$ in relation to other rings
+- We want to study maps which respect the ring structure. 
+- A ring is a set with multiplication/multiplication such that associativity, distributivity, additive commutativity, and additive inverses exist
+- Map $$R \times R$$ via $$\phi \times \phi$$ to $$S \times S$$, so $$R \times R \to_{\phi \times \phi} S \times S \to_{+} S$$, and $$R \times R \to_{+} R \to_{\phi} S$$
+- Ring homomorphism: mapping $$\phi: R \to S$$ which satisfies $$\phi(a) + \phi(b) = \phi(a + b)$$ and $$\phi(a)\phi(b) = \phi(ab)$$, where $$a, b \in R$$
+  - We get additive commutativity and additive inverses for free
+- Homomorphisms preserve the ring structure
+- Isomorphism: a bijective homomorphism
+- Generating sets
+- 
 
 
 

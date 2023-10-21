@@ -352,7 +352,66 @@ Argument for void from density.
 - Innovation where body and void are defined as contradictories; one as the thing which has resistance and cannot yield. And this definition is used often, acting as the condition for motion.
 - Part of a ground-up metaphysics, explaining things like change, motion, etc. 
 - Parmenides is a big critic of void; all post-Parmenides void theorists have to deal with Parmenides' criticisms.
-- 
+
+---
+
+## Week 4 Wednesday -- 
+- All atoms of the same size have the same weight.
+- Sometimes yuou have to add implied premises to make the result come out, part of thinking charitably. Can we supply asssumptions consistent with Epicurean theory?
+
+Another argument for the possibility of the existence of void -- LS5A(5)
+- Antiperistasis -- Aristotle's suggestion
+- Even if you want air to fill the space betwee n bodies and claim movement is simultaneous, air does not fill space all at once, but in small intervals
+
+Atoms
+- "Body" -- refers to compound bodies and to atoms, the constituents of compound bodies
+- Atoms are the fundamental / primary entities
+
+On the existence of atoms
+- Body vs place -- each must be unmixed and absolute
+- Misleading description that void and place cannot be coexstensive, because place just is void where body is located.
+- Void qua empty space cannot be coextensive with that point.
+- L&S give us too reasons why atoms are required
+    - so that body will not be destroye, principle of conservation
+    - something has to explaint he regularities of nature
+    - What we see happen in the real world tells us something about the natrue of time, etc.
+
+Atoms and Minimal Parts
+- We wouldn't be able to make sure how something would become antyhing beause eventually you divide it in d dfyghinb
+- Infinite traversal atomism
+- The smallest part you can preceive allows you to see howsomrthing vasnhinily small can still reu=ducein you.
+
+Infinity
+
+Atomic Motion
+- Up and down are cnoceivable motions, only becuase theyare not inr elation to an absolut etop/bottom, 
+- Atoms are in eternal motion, as implied by the infinite nature of the universe
+- There is no limit which stops the mbody from moving.
+- What about really dense composites? These are still in constant motion.
+- I feverything just dropped down through the void, then nothing would ever collide.
+- Solution: there is a "swerve" -- a very small, one minimum random change of course for an atom.
+- Things don't always behave at an atomic level -- e.g. bodies can move obliquely, but it is a product of relative densities. 
+- Swerve is indeterminacy in an otherwise totally determined system.
+Attributes
+- Permanent vs non-essential
+- Only non-essential attributes are accidents
+- For Epicurus, there is a finite range of sizes which are possible for atoms. Empirical: if Democritus is right, you should be able to see them. Also the shapes are limited -- unimaginably many, but not infinitely many
+- Infinitely many atoms of a kind, even though kinds are finite
+- Composites have a temperature, color, etc., but not a "token" -- it is essential to the composite "under some phenoemnal aspect"
+- Observe composites to find what the permanent/essential attributes of atoms are
+- A thing can survive the removal of an accident, e.g. particular shapes and colors, etc.
+- Comes from Aristotle
+- Democritus denies accidents are real.
+- Epicurus: we can have knowlwedge of the real world; these things are real but derivative. 
+- Atoms don't have color.
+- Facts are accidents of body and void.
+- Time is an 'accident of accidents' -- you can't actually perceive time except in the motion and rest of a body.
+- Time is self-evident, we can abstract it from our experiences. 
+
+
+
+
+
 
 
 

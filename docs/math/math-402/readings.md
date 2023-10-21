@@ -331,7 +331,7 @@ Often, proving $$S$$ is a subring is easier than proving that $$S$$ is a ring.
 Suppose $$R$$ is a ring and that $$S$$ is a subset of $$R$$ such that
 1. $$S$$ is closed under addition
 2. $$S$$ is closed under multiplication
-3. $$0_R \in S$$
+3. Zero element: $$0_R \in S$$
 4. If $$a \in S$$, then the solution to the equation $$a + x = 0_R$$ is in $$S$$
 Then $$S$$ is a subring of $$R$$.
 
@@ -396,6 +396,72 @@ Every field $$F$$ is an integral domain.
 **Theorem 3.9.**
 Every finite integral domain $$R$$ is a field.
 
+### 3.3: Isomorphisms and Homomorphisms
+- Consider the subset $$S = \{0, 2, 4, 6, 8\}$$ of $$\mathbb{Z}_{10}$$. $$S$$ is essentially the same as the field $$\mathbb{Z}_5$$, except for the labels on the elements.
+- That is, $$S$$ is isomorphic to $$\mathbb{Z}_5$$.
+- Isomorphic rings are rings with the same structure, in that addition and multiplication tables are equivalent when relabelled.
+- Relabing: every element of $$R$$ is paired with a unique element of $$S$$. 
+- There is a function $$f: R \to S$$ which assigns each $$r$$ to a new label $$f(r) \in S$$.
+- Properties of $$f$$:
+  - Distinct elements of $$R$$ must get distinct new labels: if $$r \neq r'$$ in $$R$$, then $$f(r) \neq f(r')$$ in $$S$$. (Injective)
+  - Every element of $$S$$ must be the label of some element in $$R$$: for each $$s \in S$$, there is an $$r \in R$$ such that $$f(r) = s$$. (Surjective)
+- The function $$f$$ is a bijection.
+- If $$a + b = c$$ in $$R$$, then $$f(a) + f(b) = f(c)$$ in $$S$$. And $$f(a + b) = f(c)$$. Therefore, $$f(a + b) + f(a) + f(b)$$.
+
+**Definition.**
+A ring $$R$$ is isomorphic to a ring $$S$$ is there is a function $$f: R \to S$$ such that
+1. $$f$$ is injective,
+2. $$f$$ is surjective,
+3. $$f(a + b) = f(a) + f(b)$$ and $$f(ab) = f(a) f(b)$$ for all $$a, b \in R$$,
+
+**Example.**
+The field $$K$$ of all matrices of the form $$\begin{pmatrix} a & b \\ -b & a \end{pmatrix}$$ is ismomorphic to the field $$\mathbb{C}$$.
+Let $$f: K \to \mathbb{C}$$ be defined as follows:
+$$f(\begin{pmatrix} a & b \\ -b & a \end{pmatrix}) = a + bi$$
+We will first show that $$f$$ is injective. Suppose $$f(\begin{pmatrix} a & b \\ -b & a \end{pmatrix}) = f(\begin{pmatrix} c & d \\ -d & c \end{pmatrix})$$. Then $$a + bi = c + di$$. Therefore, $$a = c$$ and $$b = d$$. Therefore, $$\begin{pmatrix} a & b \\ -b & a \end{pmatrix} = \begin{pmatrix} c & d \\ -d & c \end{pmatrix}$$. Therefore, $$f$$ is injective.
+We will next show that $$f$$ is surjective. Let $$a + bi$$ be any element of $$\mathbb{C}$$. Then $$f(\begin{pmatrix} a & b \\ -b & a \end{pmatrix}) = a + bi$$. Therefore, $$f$$ is surjective.
+Finally, we will show that $$f$$ preserves addition and multiplication. Let $$\begin{pmatrix} a & b \\ -b & a \end{pmatrix}, \begin{pmatrix} c & d \\ -d & c \end{pmatrix}$$ be any elements of $$K$$. Then $$f(\begin{pmatrix} a & b \\ -b & a \end{pmatrix} + \begin{pmatrix} c & d \\ -d & c \end{pmatrix}) = f(\begin{pmatrix} a + c & b + d \\ -(b + d) & a + c \end{pmatrix}) = a + c + (b + d)i = (a + bi) + (c + di) = f(\begin{pmatrix} a & b \\ -b & a \end{pmatrix}) + f(\begin{pmatrix} c & d \\ -d & c \end{pmatrix})$$. Therefore, $$f$$ preserves addition. Similarly, $$f$$ preserves multiplication. Therefore, $$f$$ is an isomorphism.
+
+You can even relabel the elements of a ring such that the ring is ismorphic to itself.
+For example, $$f : \mathbb{C} \to \mathbb{C}$$ where $$f(a + bi) = a - bi$$.
+
+Isomorphisms are intuitively symmetric.
+But the definition of an isomorphism is not necessarily symmetric.
+Requires a function from $$R$$ onto $$S$$ but not vice versa.
+Yet, $$f$$ is a bijective function of sets, which means the inverse exists.
+Therefore ismorphism is symmetric.
+
+**Definition.**
+Let $$R, S$$ be rings. A function $$f : R \to S$$ is a homomorphism if 
+$$f(a + b) = f(a) + f(b)$$ and $$f(ab) = f(a) f(b)$$ for all $$a, b \in R$$.
+
+- Every isomorphism is a homomorphism.
+- However a homomorphism may fail to be injective or surjective.
+
+**Example.**
+The zero map $$z : R \to S$$, $$z(r) = 0_S$$ is a homomorphism.
+The function $$f: \mathbb{Z} \to \mathbb{Z}_6$$, $$f(a) = [a]$$ is a homomorphism.
+
+**Theorem 3.10.**
+Let $$f : R \to S$$ be a homomorphism of rings.
+Then
+1. Identity preservation: $$f(0_R) = 0_S$$
+2. Negation preservation: $$f(-a) = -f(a)$$
+3. Subtrative cancellation: $$f(a - b) = f(a) - f(b)$$
+If $$R$$ is a ring with identity and $$f$$ is surjective, then
+4. $$S$$ is a ring with identity $$f(1_R)$$.
+5. Whenever $$u$$ is a unit in $$R$$, then $$f(u)$$ is a unit in $$S$$ and $$f(u)^{-1} = f(u^{-1})$$.
+
+**Corollary 3.11.**
+If $$f : R \to S$$ is a homomorphism of rings, then the image of $$f$$ is a subring of $$S$$.
+
+How to show that there is no possible function from one ring to another?
+Proceed indirectly.
+Assume that there is a contradiction which exists, and show a contradiction.
+Alternatively, isomorphisms should preserve features such as zero elements, units, or identities.
+For instance, we know that $$\mathbb{Q}, \mathbb{R}$$ are not isomorphic to $$\mathbb{Z}$$ because every nonzero element in $$\mathbb{Q}, \mathbb{R}$$ is a unit, but not in $$\mathbb{Z}$$.
+
+- No commutative ring can be isomorphic to a noncommutative ring.
 
 ---
 

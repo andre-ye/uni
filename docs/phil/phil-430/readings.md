@@ -336,7 +336,77 @@ Discussion
 
 ### 11: Atomic motion
 
+A. Epicurus, *Letter to Herodotus*, 43-4
+- Atoms can "vibrate" when tehya re trapped by interlinking
+- Void separates atoms from themselves. 
+- There is no beginning to atomic motion, because atom snad void are eternal
+
+B. Lucretius 2.80-124
+- The primary particles cannot stand still and initiate motion from scratch.
+- Particles are borne by their "own weight" or impact
+- Atoms can suddenly recoil in opposite directions upon impact
+- There is no orientation of the totality of the bottom, primary bodies have nowhere to stand still
+- Primary bodies have no rest
+- Atoms are dirven into continuous motion
+- Densely packed / interweaved atoms form the roots of stone, iron, etc.
+- You can see tiny bodies intermingly through emtpy space in the light of the rays. (no evidence of belief of gas?)
+- "combat battling and fighting ceaselessly"
+
+C. Lucretius 2.142-64
+- Sunrise: heat does not travel through empty void, but rather air. Heat travels in aggregations. They go more slowly when they need to battle through material. 
+- Yet, solid and uncompounded primary particles travel easily, much faster than light
+
+D. Epicurus, *Letter to Herodotus*, 46-7
+- Lack of obstruction from colliding bodies makes motion through void achieve any imaginable distance in any unimaginable time. (??)
+- Slow/fast gives the impression of time / speed
+- Bodies, of course, cannot occupy two places simultaneously.
+- "Perceptible time"
+- ?? not sure about the principle of non-collision resembling collision
+
+E. Epicurus, *Letter to Herodotus*, 61-2
+- Atoms must be of equal velocity, all things being taken equal
+- Heavy atoms will not move faster than small ones.
+- In collision, there might be differences due to weight.
+
+F. Simplicius, *On Aristotle's Physics*, 938, 17-22 (Usener 277)
+- Unless there is infinite divisibility of magnitudes, that which is atomic is travelled by the faster in the same time as in the slower.
+- If the slower takes a longer time, in equal time it travels a smaller distance than "partless".
+
+G. Simplicius, *On Aristotle's Physics* 934, 23-20
+- Motion, magnitude, and time have partless constituents. The moving object moves over the whole magnitude
+????
+
+H. Lucretius, 2.216-50
+- When bodies are "borne... through the void" -- they veer a little from their course, this is called change in motion.
+- If they did not tend to swerve, everything would simply fall in one direction, nohthing would have collided.
+- Things falling through water and thin air must be proportional to their weight, since war and air cannot impede everything equally.
+- In void, there are no demands or impositions.
+- Void always gives way.
+- Bodies must veer off a little bit, but this oblique angle is not visible. -- so kind of an interesting empirical argument going on here.
+
+Discussion
+- One primary cuase of an atom's motion is its weight
+- Natural tendency to move downwards unless it is diverted by collisions
+- "Down" -- a universal direction
+- Rejected Aristotle's theory that falling objects head towards the center of a spherical earth
+- Atoms can also move because of impact from collision with other atoms.
+- Collisions cannot halt an atom together. (Interesting conception of movement, ontologically speaking.) Collisions only change direction.
+- Even stationary solid bodies consist of moving atoms, but they are rapidly vibrating and closely interlocked.
+- Atoms move through void at a speed which is unimaginable; the distance is imaginable though. Acceptance of the limit of Aristotle's formula of speed as the ratio of weight of object to the density of the medium.
+- Atoms do indeed move at equal speed
+- Phenomenal bodies do not need to move at the same speed of constituent atoms, because atoms are involved in complex motion within them. 
+- Aristotle: something partless can never itself be moving. it cannot be at some time be in AB abd partly in BC.
+- What is partless can only move incidentally to the motion of a larger body
+- An atom also have an undetermined swerve by one minimum. Its overall motion is generally rectilinear
+- Quantum physics seem to conform with these predictions
+- Free will: how could collisions have started?
+- There was no first collision
+
 ### 12: Microscopic and macroscopic properties
+
+A Epicurus, *Letter to Herodotus*, 55-6
+- Atoms cannot just take any size, even though there are some variations. 
+- 
 
 
 

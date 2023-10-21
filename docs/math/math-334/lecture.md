@@ -487,7 +487,7 @@ Notes
 **Uniform continuity.**
 A function $$f : S \subseteq \mathbb{R}^n \to \mathbb{R}^m$$ is uniformly continuous on $$S$$ if the following definition is satisfied.
 
-$$\forall \epsilon > 0, \exists \delta > 0 : \forall \vec{x}, \vec{y} \in S, \Vert \vec{x} - \vec{y} \Vert < \delta \implies \Vert f(\vec{x}) - f(\vec{y}) \Vert < \epsilon>>
+$$\forall \epsilon > 0, \exists \delta > 0 : \forall \vec{x}, \vec{y} \in S, \Vert \vec{x} - \vec{y} \Vert < \delta \implies \Vert f(\vec{x}) - f(\vec{y}) \Vert < \epsilon$$
 
 - Example: $$f(x) = \sin(x)$$ is uniformly continuous on $$\mathbb{R}$$. 
 

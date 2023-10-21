@@ -436,10 +436,59 @@ Love Letter from a Critic
 - Can we love the critic and interpret the critic as engaged in a loving practice?
 - Refuse the lure of territoriality
 
+---
 
+## "Transnational Feminisms, Nonideal Theory, and 'Other' Women's Power" by Serene J. Khader
+- Antirelativist framing of transnational feminist critiques
+- A nonideal context of transantional feminist praxis
+- Western feminism is critiqued for seeing 'other" women only as victims of patriarchy.
+- But can we even object to women's oppression? Or is it imperialist?
+- Are women's rights human rights?
+- It is not simply about ethnocentrism. It is about failing to ask the rigth normative questions -- about the nonideal context
+- Western feminists are fixated on pointing out the nonideality of non-Western cultures
+- Misuse of ideal theory
+- Westerm feminists need to ask if "other" women's power is resistance
 
+I: Ideal theory, colonial epistemic practices, and culture-ranking
+- Western feminists often see dismissals of other women's power as required by moral universalism. (?)
+- Incorrectly assume an ideal vision of gender justice is needed.
+- "Ideal theory" -- normative approaches that develop visions of just social conditions instead of analytical tools for rectifying existing ones
+- Colonial epistemic context: Western culture is closest to embodying the ideal
+- Other women's power is dismissed for morally arbitrary reasons
+- "Resort to the cultural" and "cultural essentailism" -- resort to the cultural happens when "other" women's oppression is only explained in an ahistroical fashion; gender injustice is a result of "culture" as fetishized
+- "Moral blindness" / moral insensitivity
+  - Lack of attention, keeps the gaze averted. The origin of non-Western practices is hidden.
+  - Moral insensitivity bred by colonial epistemic practices. Knowing "other" cultures, "standing for" cultures metonymically. Synecdoche: parts representing holds. 
+  - "muslim culture"
+- The Western feminist eye is trained to pick out the oppressive practices of other cultures
+- Ideal theoretical habits exacerbate moral insensitivities
+- Transcendental institutionalism: there is a single best form of social organization
+- Emphasis on ideal theory in political philosophy bolsters the view that societies should look one way.
+  - Ok, this is not really true for contemporary political philosophy
+- Cultural essentialism: "other" societies do not change. Western societies which have evolved are the most morally and politically developed.
+- Ideal theory conceals the thickness of normative ideals
+  - Normative ideals hav ea descriptive thickness
+- How to ideals travel across contexts?
+- And may the injunction to achieve a paticular ideal include morally arbitrary components? 
+- Do not confuse the unfamiliar with the normatively unacceptable
+- Ideal theory advocates for particular resolution when ideal and actuality diverge.
+  - "gaps we see between our ideal and reality must be caused by problems in the world"
+- Ideal theory treats normative ideas as ossified; Western culture just is opposition to sexism
+- Ideal theory cannot analyze nonideal conditions
+- Western feminists can get obsessed with the idea of ranking cultures.
 
-
+Ideal Theory and Other Women's Power
+- Seeing "other" women's power
+- Abstraction distorts what it attempts to describe, and by attributing features to the object which the object does not have
+- Idealization prevents us from perceiving the role normative views play in perpetuating injustice
+- Idealization of Western cultural forms. 
+- The issue is not judgements about oppression, but rather attributing anti-oppressiveness to Western cultural forms for a morally arbitrary reason.
+- White French citizens mistake gender relations for ideal ones -- the "tragedy of youg women covering their beautiful faces"
+- Gender justice requires "sexual liberation", presenting oneself as a sexual object
+- The French cannot see the sexism of their own gender protocols. 
+- Western cultural forms are morally arbitrary.
+- Western concepts can be idealized -- need to contextualize and situate tools.
+- Universal goods may be sought out through different means
 
 
 
