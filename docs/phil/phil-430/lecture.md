@@ -355,7 +355,7 @@ Argument for void from density.
 
 ---
 
-## Week 4 Wednesday -- 
+## Week 4 Wednesday -- The Existence of Void and Atoms
 - All atoms of the same size have the same weight.
 - Sometimes yuou have to add implied premises to make the result come out, part of thinking charitably. Can we supply asssumptions consistent with Epicurean theory?
 
@@ -407,6 +407,27 @@ Attributes
 - Facts are accidents of body and void.
 - Time is an 'accident of accidents' -- you can't actually perceive time except in the motion and rest of a body.
 - Time is self-evident, we can abstract it from our experiences. 
+
+---
+
+## Week 5 Monday -- Epicurean Ethics
+- The Boscoreale Cups -- depiction of Epicurus and Zeno (founder of Stoicism), Epicurus is reaching towards a slice of cake and there is a piglet at his feet.
+- Inscription in Greek: "the goal of life is pleasure"
+- Epicureans as Hedonists: pleasure is the only good, and is the absence of evil
+- The best life is lived in pursuit of pleasure and absence of pain
+- Epicureans compared to pigs as a caricature of their ethics
+- The pleasant state of the body -- all of its atoms are in a pleasurable / harmonious arrangement
+- Pain is a disharmonious arrangement of atoms
+- Avoiding pain includes psychological pain, especially if the soul is a collection of atoms
+- Death is the dispersal of atoms -- there is no more sensation. Death is not bad for the person who dies; it can in fact release pain.
+- Epicurus rejects teleology or divinity, and rigorously adopts empiricism.
+- Most people read atomism into Epicurian ethics
+- Free will and the swerve. 
+- Mind or soul emerges out of an arrangement of atoms
+- Swerve allows the indeterminacy for Epicureans -- allows for free will and causality, for otherwise there would be totally determined motion.
+- Volition: you get a choice in the options that the laws of physics leave open.
+- There is a little pocket where you can choose another way. This happens through the coincidence of a bunch of swerves.
+- Which one came first? -- metaphysics or ethics?
 
 
 

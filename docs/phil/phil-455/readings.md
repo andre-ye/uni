@@ -571,3 +571,42 @@ VI. Against the Semantic Strategy
 - Yet there is significant disagreement about the normative use of race-talk
 - What do we want our racial concepts, terms, and practices to do?
 
+## "A Radical Solution to the Race Problem", Quayshawn Spencer
+- Race picks out a biologically real entity
+- Human population groups form a "Blumenbach partition"
+
+Introduction
+- Race designates a biologically real entity
+- Using genetic clutering results, $$K = 5$$ level of clustering.
+
+The US Meaning of Race
+- People use 'race' in many different ways -- what is the national meaning?
+- The US meaning of 'race' is just its referent
+- Americans know about census race groups, college applications, birth certificates, etc.
+- 93.8% of Americans identify themselves as one of five races.
+- The United States has no official language, but does have official racial discourse. 
+- Racial discourse is controlled by the linguistic division of labor
+- What does the OMB pick out with 'race'?
+- In the US, race is like a proper name
+- Is race an arbitrary set of population groups, or biologically real?
+
+Race as a Human Population partition
+- A species has population structure when it has one or more partitions of populations 
+- Genetic clustering analysis -- nonrandom mating leaves behind a genetic trail
+- 4.3% of total human genetic variation si found by Blumenbach populations, but this is enough to have partitions.
+
+Objections and replies
+- Races supposedly must satisfy certain conditions to be races, but Blumenbach populations don't have to necessarily
+- Glasgow, 'mismatch objoection' -- human genetic clusters do not reasonably overlpa with US racial groups
+- Human group differences can both be real and socially constructed.
+
+
+
+
+
+
+
+
+
+
+
