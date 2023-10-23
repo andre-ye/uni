@@ -480,6 +480,22 @@ Can 'facts' settle hte matter?
 
 Lessons from Philosophy of Language
 - Folk concept of race is not th e'true meaning', but it is a player
+- What concept of race should we employ?
+- Reference magnetism: type terms pick out a type
+- Division fo linguistic labor
+
+Is Race a Fiction
+- Externalists about meaning
+- The eliminativist project needs to be rethought
+
+Race as a social kind
+- Feminists: gender is the social meaning of sex
+- Under constructionism, we can proceed politically without recommending a specific semantic revolution
+
+Conclusion
+- The debate between eliminativists, constructionists, natrualists should be understood in terms of how to understand race in discourse
+- Color hierarchy
+- Language functions as a collective social practice
 
 Page 9
 
@@ -509,11 +525,49 @@ II. Racial Skepticism
   - Ideational account: descriptivist theory of reference. Committed to racialism. Kripke and Putnam have overturned descriptivism.
   - Referential / causal-historical account of reference: a term which picks out a kind of thing. But by the ontological consensus, there are nov alid candidates for referents, except for those set out by racialism.
 - Races cannot be reproductively isolated, because there is no such reproductive isolation
+- Zack: race maybe is not even a useful scientific tool
+- Zack and Appiah: mismatch arguments. What is believed to be true about *x* is very different from what is actually true about *x*.
 
+III. Racial constructionism
+- Racial constructionists infer that race is not a biological kind, but they try to develop an account on which race deos exist as socially constructed
+- Charels Mills: a plausible social ontology which is not essentialist nor transhistorical but real
+- Three kinds of constructionism
+  - Thin constructivism. Ordinary people ascribe racial membership to self-awareness, public awareness, bodily appearance, etc. It is thin because it is based on superficial features
+  - Interactive constructionism. Racialization happens via a causal interaction between a person and racial labels or concepts. What joins blacks is not a set of physical characteristics, but rather a shared experience of being cognitviely identified as black.
+  - Institutional construction. Labeling is conceptually or logically required; race is an important socially constructed institution.
+- Skeptics: using linguistic terms which refer to nothing is improper.
+- Mills: racial terms shorn of racialist implications may be necessary
+- DuBois: races are socio-cultural objects
 
+IV. Racial Population Naturalism
+- Robin Andreasen, Philip Kitcher: defend racial naturalism as compatible with rejecting racialism
+- Races may be biological populations
+- Population thinking: identifying relevant biological groups by feature sof entire populations
+- Andreasan: defends cladism, populations situiated into phylogenetic tree
+- Philip Kitcher understands races as a reproductively isolated population lineage.
+- Kitcher: divisions of races might have biological significance, insofar as reproductive isolation might result
+- Appiah and Zack allow for the possibility that biological relevant human populations might exist, but the object of their skepticism is current large populations called "races"
+- No racial population has ever completely isolated from another -- Zack
+- Is the one-drop rule necessary for the race concept 'black'?
+- The real dispute is over what human populations there were and what should be labelled as 'race'.
+- The disagreement is semantic rather than metaphysical.
 
+V. Expanding the Ontological Consensus
+- Semantic strategy: beginning with different assumptions regarding the correct theory ofr eference
+- Generally wide agreeement metaphysically
+  1. Racialism is false
+  2. There are a variety of racial concepts in the US
+  3. Ordinary people employ superficial criteria
+  4. Application of racial concepts may causally affect persons
+  5. Racial classification has had oppressive effects
+  6. Historical reproductive distribution responsible for the isolation of certain superficial body features.
+  ...
+- Everyone picks out a different meaning of "race" -- a different side of race
 
-
-
-
+VI. Against the Semantic Strategy
+- Racial theorists have achieved alternative conclusions by making different assumptions about the correct semantics
+- The semantic strategy might send race metaphysics the wayside of philosophy of language
+- Should a semantically correct account of race dictate our use of race?
+- Yet there is significant disagreement about the normative use of race-talk
+- What do we want our racial concepts, terms, and practices to do?
 

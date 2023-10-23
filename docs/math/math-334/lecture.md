@@ -577,4 +577,132 @@ Therefore, $$f(a + h) g(a + h) = f(a) g(a) + \left[ f'(a) g(a) + f(a) g'(a) \rig
 We have a really ugly term $$E_3 = \left( f(a) + f'(a) h + E_1(h)\right) E_2(h) +  \left( g(a) + g'(a) h + E_2(h) \right) E_1(h) + f'(a) g'(a) h^2$$.
 This is all little-oh, they all have limits which, if you divide by zero, still go to zero as you go to zero.
 
+---
+
+## Lecture 8: Derivatives in 1 Variable, Several Variables, the Mean Value Theorem
+- Bigger than 45: A; between 37 and 44: B; between 30 and 36: C; less than 29; D
+- Average: 38, 81%
+- Median: 40, 84%
+
+**Definition.**
+Let $$f : I \subseteq \mathbb{R} \to \mathbb{R}$$, and $$a \in I$$ be an open interval. $$f$$ is differentiable at $$a$$ if there exists $$m \in \mathbb{R}$$ s.t. $$f(a + h) = f(a) + mh + E(h)$$, such that $$\lim_{h \to 0} \frac{E(h)}{h} = 0$$.
+
+Note that, in the limit as $$h \to 0$$, this limit equals $$m$$. 
+
+**Lemma.**
+Say we have $$f : I \subset \mathbb{R} \to \mathbb{R}$$ and $$a \in I$$ is open, and $$a$$ is a local maximum or minimum of the function.
+If $$f$$ is differentiable at $$a$$, then $$f'(a) = 0$$.
+
+Proof.
+1. Since $$a$$ is the local min, $$f(a + h) \ge f(a)$$ for all $$h$$ sufficiently small.
+2. Then $$(f(a + h) - f(a)) / h$$ has the same sign as $$h$$..
+3. Look at the left and right limits as $$h \to 0^\pm$$ 
+4. Since $$f$$ is differentiable, the limits must agree, so $$f'(a) = 0$$.
+
+**Rolle's Theorem.** 
+One of the earliest ideas about calculus.
+If $$f$$ is continuous on a closed interval $$[a, b]$$ and $$f$$ is differentiable on $$(a, b)$$ and if $$f(a) = f(b)$$, then there exists $$c \in (a, b)$$ s.t. $$f'(c) = 0$$.
+"What comes up must come down."
+
+Proof.
+1. From the extreme value theorem, because the closed interval is compact, any continuous function on it has a max and a min.
+2. If one of each is at the endpoints, since $$max = f(a) = f(b) = min$$, then $$f$$ is cnonstant. Then the derivative of the function is 0.
+3. Otherwise, a min or max occurs in the interval, and the mean occurs there.
+
+Non-constructive proof: doesn't tell you where the min or max is.
+You can guarantee your tangent slope will vanish somewhere in the interval.
+
+**One-variable mean value theorem.**
+Important consequence of Rolle's theorem.
+Say $$f$$ is continuous on $$[a, b]$$ and differentiable on $$(a, b)$$.
+Then $$\exists c \in (a, b)$$ s.t. $$f'(c) = \frac{f(b) - f(a)}{b - a}$$.
+This line is the secant line connecting the two points. The slope of the tangent line is the same as the slope of the secant line.
+
+Proof
+1. $$(a, f(a))$$ and $$(b, f(b))$$ are connected by the line $$l(x) = f(a) + \frac{f(b) - f(a)}{b - a} (x - a)$$.
+2. Exists $$c \in (a, b)$$ where $$f'(c)$$ is the slope of the line.
+3. We claim $$\exists c \in (a, b)$$ where $$f'(c)$$ equals the slope of the secant line.
+4. We can write down a new function which is just a difference of the other two: $$g(x) = f(x) - l(x)$$. $$g'(c) = 0$$ means that $$f'(c) = l'(c)$$.
+5. Since $$g(a) = g(b) = 0$$, we can apply Rolle's theorem to $$g$$, which means that $$g'(c) = 0$$ for some $$c \in (a, b)$$.
+
+**Definition.**
+We say that $$f$$ is either increasing or decreasing if $$\forall a < b$$, $$f(a) \le f(b)$$ or $$f(a) \ge f(b)$$, respectively.
+Strictly increasing if $$f(a) < f(b)$$ or $$f(a) > f(b)$$, respectively.
+
+**Theorem.**
+Say $$f$$ is differentiable on $$I$$, an open interval.
+1. If $$\vert f'(x) \vert \le C$$, $$\forall x \in I$$, then $$f$$ is Lipschitz with constant $$C$$. That is, $$\vert f(x) - f(y) \vert \le C \vert x - y \vert$$.
+2. If $$f'(x) = 0$$, $$\forall x \in I$$, then $$f$$ is constant.
+3. If $$f'(x) \ge 0$$, $$\forall x \in I$$, then $$f$$ is increasing.
+
+Proof.
+1. For $$a, b \in I$$, by the MVT, we have $$c \in (a, b)$$ s.t. $$f'(c) (b - a) = f(b) - f(a)$$.
+2. Then 1 implies $$\vert f'(c) \le C$$ and 2 implies $$f(b) = f(a)$$.
+3. The constant in the Lipshitz inequality is the absolute value of the derivative, so $$\vert f(b) - f(a) \vert \le C \vert b - a \vert$$.
+4. If $$f'(c) \ge 0$$, then $$f(b) - f(a) \ge 0$$. SO $$f(a) \le f(b)$$.
+
+**Corollary.**
+For any $$a > 0$$, we have
+
+$$\lim_{x \to +\infty} \frac{x^a}{e^x} = \lim_{x \to +\infty} \frac{\log x}{x^a} = \lim_{x \to 0^+} \frac{\log x}{x^{-a}} = 0$$
+
+At infinity, exponentials grow larger than any power of $$x$$; any power of $$x$$ grows larger than $$\log$$; any $$\log$$ grows larger than any negative power of $$x$$.
+
+**L'Hopital's rule** -- need to be continuous and differentiable in the neighborhood.
+
+**1-variable, vector-valued functions**
+Suppose you have a function $$f : \mathbb{R} \to \mathbb{R}^n$$, then $$f(x)$$ is a scalar quantity, but the output is a vector.
+For each $$j$$, you can write the derivative at $$a$$ as $$f'(a) = \lim_{h \to 0} \frac{f(a + h) - f(a)}{h} = (f_1'(a), f'_2(a), ..., f'_h(a))$$.
+$$f$$ is differentiable at $$a$$, or $$f_j$$ is differentiable at $$a$$ for all $$j = 1, ..., n$$.
+If $$\phi : \mathbb{R} \to \mathbb{R}$$ and $$g : \mathbb{R} \to \mathbb{R}^n$$.
+Then it satisfies $$(\phi f)' = \phi' f + \phi f'$$.
+Moreover, $$(\langle f, g \rangle)' = \langle f', g \rangle + \langle f, g' \rangle$$.
+It follwos that $$(\Vert f \Vert^2)' = 2 \Vert f \Vert$$
+
+Think about these functions as parametrized curves in $$\mathbb{R}^n$$: $$t \to f(t)$$, e.g. the path of a particle, in which case $$t \to f'(t)$$ is the path of velocity vectors of the particle.
+
+The tangent line too $$f(t)$$ is $$l(t) = f(t_0) + t f'(t_0)$$.
+
+**Scalar-valued, multi-variable differentiability**. $$f : D \subseteq \mathbb{R}^n \to \mathbb{R}$$.
+Start with a partial derivative.
+The derivative of a function w.r.t. 1 variable while fixing the others  as constant.
+Suppose $$f(\vec{x}) = f(x_1, ..., x_n)$$. Then $$\frac{\del f}{\del x_j} (\vec{x}) = \lim_{h \to 0} \frac{f(x_1, ..., x_{j+h}, ..., x_n) - f(x_1, ..., x_j, ..., x_n)}{h}$$
+Just changing a single component of the input.
+
+Partial derivatives don't tell you the whole story about a function's local behavior.
+
+**Definition.**
+A function $$f: D \subseteq \mathbb{R}^n \to \mathbb{R}$$ is differentiable at $$\vec{a} \in D$$ if there exists $$\vec{c} \in \mathbb{R}^n$$ s.t. $$f(\vec{a} + \vec{h}) = f(\vec{a}) + \langle \vec{c}, \vec{h} \rangle + E(\vec{h})$$ s.t. $$\lim_{\vec{h} \to \vec{0}} \frac{E(\vec{h})}{\Vert h \Vert} = 0$$.
+Equivlaently, $$\lim_{\vec{h} \to 0} \frac{f(\vec{a} + \vec{h}) - f(\vec{a}) - \langle \vec{c}, \vec{h} \rangle}{\Vert \vec{h} \Vert} = 0$$.
+If this limit exists, we write $$\vec{c} = \nabla f(\vec{a})$$, the gradient of $$f$$ at $$\vec{a}$$.
+
+For example, $$z = f(\vec{x})$$ is a surface. $$z = f(\vec{a}) + \langle \nabla f(\vec{a}), \vec{x} - \vec{a} \rangle$$ is a plane.
+$$f$$ is differentiable at $$\vec{a}$$ if $$Z_{\text{surface}} - Z_{\text{plane}} = f(\vec{x}) - f(\vec{x} - \vec{a}) - \langle \nabla f(\vec{a}), \vec{a} - \vec{a} \rangle = E(\vec{x} - \vec{a}) \to_{\text{ faster than } \Vert \vec{x} - \vec{a} \Vert \to 0} 0$$.
+At any point, the tangent plane is a good approximation for points near the point on the surface.
+
+**Theorem.**
+If $$f$$ is differentiable at $$\vec{a}$$, then all $$\del_j f(\vec{a})$$ exist, and $$\nabla f(\vec{a}) = (\del_1 f(\vec{a}), ..., \del_n f(\vec{a}))$$.
+
+if there exists $$m \in \mathbb{R}$$ s.t. $$f(\vec{a} + \vec{h}) = f(\vec{a}) + m \cdot \vec{h} + E(\vec{h})$$, where $$\lim_{\vec{h} \to 0} \frac{E(\vec{h})}{\Vert \vec{h} \Vert} = 0$$.
+
+Partials are all components of the derivative. If we know something about all of the partials, we can conclude something about the derivative at a point.
+
+**Theorem.**
+If $$f$$ is differentiable at $$\vec{a}$$, then $$f$$ is continuous at $$\vec{a}$$.
+
+**Theorem.**
+If $$f : D \subseteq \mathbb{R}^n \to \mathbb{R}$$ and for $$\vec{a} \in D$$, if all $$\del_j f$$ exist in a neighborhood of $$\vec{a}$$ and are continuous at $$\vec{a}$$, then $$f$$ is differentiable at $$\vec{a}$$.
+
+Proof in 2D for simplicity.
+1. We want to show that $$\frac{f(\vec{a} + \vec{h}) - f(\vec{a}) - \langle \vec{c}, \vec{h} \rangle}{\Vert \vec{h} \Vert} \to 0$$ as $$\vec{h} \to 0$$.
+2. Let $$\vec{c} = (\del_1 f(\vec{a}), \del_2 f(\vec{a}))$$.
+3. Then, for $$\vec{h} = (h_1, h_2)$$.
+4. Since $$f(\vec{a} + \vec{h}) - f(\vec{a}) = [f(a_1 + h_1, a_2 + h_2) - f(a_1, a_2 + h_2)] + [f(a_1, a_2 + h_2) - f(a_1, a_2)]$$
+5. Use the one-variable mean value theorem to bound each of these components.
+6. For $$\Vert \vec{x} - \vec{a} \Vert \le \Vert \vec{h} \Vert < \delta$$ sufficiently small, we have that the first term is less than $$\del_1 f(a_1 + c_1, a_2 + h_2) h_1$$, $$\del_2 f(a_1, a_2 + c_2) h_2$$.
+7. Therefore, $$\frac{f(\vec{a} + \vec{h}) - f(\vec{a}) - \langle \vec{c}, \vec{h} \rangle}{\Vert \vec{h} \Vert} \le [\del_1 f(a_1 + c_1, a_2 + h_2) - \del_1 f(a_1, a_2)] \frac{h_1}{\Vert \vec{h} \Vert} + [\del_1 f(a_1, a_2 + c_2) - \del_2 f(a_1, a_2)] \frac{h_2}{\Vert \vec{h} \Vert} \le \epsilon/2 + \epsilon /2 < \epsilon$$.
+8. This applies WLOG, apply mean value in every coordinate.
+
+
+
 

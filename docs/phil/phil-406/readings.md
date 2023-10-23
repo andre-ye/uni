@@ -547,9 +547,15 @@ Building Feminist Worlds
   - Descriptive work is conceptual work. Sweaty concepts come from bodies which are not at home in the world. Angles, points of view. Sweat is *bodily*; it is trying, there will be labor.
 - Pronouns, you vs. me, straining, labor of identification.
 - Building feminist worlds from feminist materials; feminist theory as world-making. Feminist theory is not merely a tool to be used and then shelved away. You cannot do feminist theory without being a feminist.
-
-page 14
-
+- How do we dismantle a world built to accomodate only some bodies? 
+- No one is born a woman; it is an assignment.
+- Fighting for women as women... possibly a contradiciton here?
+- Citation is feminist memory
+- Assemble your own kit
+- Feminist classics
+- How do books make communities
+- Labor of going over materials, texts
+- Feminism is a fragile archive, we must take responsibility and give care
 
 
 

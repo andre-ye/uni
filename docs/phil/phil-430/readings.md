@@ -25,9 +25,7 @@ PHIL 430
 
 ---
 
-## Preoscratic Atomism
-
-### Leucippus and Democritus Fragments
+## Leucippus and Democritus Fragments
 "Fifth-Century Atomism", from Curd & McKirahan, *Presocratics Reader*
 
 - Leucippus -- the founding theorist of atomism, 440 to 430 BCE
@@ -179,6 +177,91 @@ PHIL 430
 - What is Aristotle's difference from Democritus?
 
 ??? what??? this piece is confusing...
+
+---
+
+## Argument for Atomism
+
+### "Epicurus: Atoms and Space", Bailey
+- The atomic theory grows in consistency from Leucippus, to Democritus, to Epicurus. 
+- Epicurus wasn't ready to blindly accept Democritus' atomism
+- Epicurus: nothing is created out of the non-existence, but then backs this up 
+- Everything is generated out of thing; there is *Ordered generation*
+- There is always pre-existing substance, but the substance might change.
+    - The sum of all things never increases
+    - Things never perish
+- The proof is the phenomena
+- Third principle: the sum of things is constant
+    - Epicurus: there is nothing into which it chanes
+- All men are made conscious of matter, and so body must exist.
+- Difficulties from am odern view. The objective world has been called into question. Yet this is not known to the ancients. He is content to take common sense.
+- Parmenides and the Eleatics have denied both space and motion, but Epicurus infers space from the fact of motion. Given that we perceive motion, motion is a reality. There must be empty sapce in order for there to be a beginning of motion. Void is that space between atom and atom.
+- Body is indivisible and unalterable
+- Atomic contention: there is a limit to the divisibility of matter
+- If infinite division were possible, all particles would be compound bodies. Since compound bodies are a mixture of body and void, nothing -- however strong -- could prevent the division of a body into its constituent atoms. But this is not the case.
+- Atoms have no secondary qualities; atoms must have a definite size
+- **It is not that wtihout particles, matter would not exist, but rather that it is impossible to arrive at anything completely solid without a limit to division.**
+- The atom becomes a necessary postulate for the existence of the world
+
+### "Epicurus' Aregument for Atomism", Betegh
+pp. 261-272, 277-283
+
+- The cornerstone of Epicurus' physics is atomism
+- Atoms and void
+- Demonstration of the atomist theiss is confined to three sentences
+- Standard interpretation: argument is based on the impossibility of sizeless parts is not correct.
+
+I. The text and its standard interpretation
+- Foundations of Epicurus' epistemology: primary concepts, sensations, feelings are epistemically prior
+- Three principles of conservation
+    - Nothing comes into existence from nothing
+    - Destruction of a thing cannot mean perishing into sheer nothing, for then nothignw ould exist at all
+    - Nothing can be added to or subtracted from what is in the universe now.
+- Body and void are the only per se existents. Sensation shows bodies must exist. Void is necessary, for otherwise bodies coudl not move.
+- Accidents are a subclass of attributes. 
+- Establishing that the ultimate building blocks of bodies are atomic:
+
+> Moreover, among bodies some are compounds, others are those from which compounds are formed. These latter are uncuttable and unalterable—if indeed all things are not going to be destroyed into not-being—but are strong enough to stand fast when compounds are decomposed, being full in nature and unable to be decomposed at any point or in any way. Therefore the primary entities are necessarily those among bodies which are atomic.
+
+(For reference, below it the Long & Sedley translation:)
+
+> Moreover, of bodies some are compounds, others the constituents of those compounds. The latter must be atomic [literally ‘uncuttable’] and unalterable – if all things are not going to be destroyed into the nonexistent but be strong enough to survive the dissolution of the compounds – full in nature, and incapable of dissolution at any point or in any way. The primary entities, then, must be atomic kinds of bodies.
+
+- Some part of it is based on principle 2 of conservation
+- Why would it be so that everything would pass into non-being if the ultimate components were not atomic
+    - Epicurus refers to infinite series of divisions into nothing
+    - Cyril Bailey: you would find that matter has disappeared if you keep on dividing, so it is fallacious. Continuous dissolution of compound bodies will continue to yield matter. It is just a popular way of putting what Epicurus meant
+
+II. The Democritean argument
+- Democritus' argument turns on the impossibility of sizeless parts
+- ad reductio argument that we end up with unacceptable consequences if we accept that a body is divisible at every point.
+- Aristotle accepts that a body is divisible at every point without accepting that it is possible that a body is simultaneously divided at every point.
+- How can we reach a stage in whcih the body is divided at every point?
+- The Democritean argument is based on Zeno-type thought experiments
+- On the other hand, Epicurus concentrates more on natural physical processes
+- Understanding Epicurus'argument as referring to th eimpossibility of sizeless steps is a step backwards.
+
+III. Atoms and theoretical minima.
+- Epicurus *does* use Eleatic reasoning against infinite divisibility, but not for atomism
+- A finite body cannot be divided into infinitely many parts even in thought
+- Epicurus begins with physical / perceptible bodies before analyzing theoretical minima
+- Epicurus says here that the infinitely many bits will have some size
+- Beings will be pushed into non-being by making them weak. Atoms are stronger than composite bodies because they are indivisible.
+- Strength and weakness are not relative to size.
+
+V. Atomicity and unalterability
+- Time to come up with new suggestions!
+- The ultimate ingredients of compounds are uncuttable and unalterable.
+- If there were no unchangeable ultimate constituents called atoms
+- Unalterability implies uncuttability
+- Democritus vs Epicurus: different ontology of phenomenal qualities. Epicurus: phenomenal properties of observable bodies are as real as intrinsic properties.
+- What is the nature of the passage from and to non-being?
+- An Epicurean body can be analyzed only by its properties, permanent or accidental. 
+- Epicurus is a "bundle theorist" -- a body is a bundle of properties
+- However, identity becomes tricky. So Epicurus introduces permanent vs accidental properties.
+- Even per se existents can go out of existence by qualitative change
+- "Fullness" -- an account of strong bodies
+- Epicurus has a reason for maintaining not only that ultimate physical components of phenomenal bodies are indivisible, but also that they will not lose their individuaility by fusion upon collision. 
 
 ---
 
@@ -406,7 +489,22 @@ Discussion
 
 A Epicurus, *Letter to Herodotus*, 55-6
 - Atoms cannot just take any size, even though there are some variations. 
-- 
+- For instance, we cannot see atoms, so that is already an upper bound.
+
+B Epicirus, *Letter to Herodotus*, 42-3
+- Bodies that are atomic and full have *unimaginably many* variations in shape
+- There are unimaginably many but not an infinite number of atoms
+
+C Lucretius 2.478-531
+- Primary elements of things have a finite range of shapes
+- To change shapes, you will need to add body. So you cannot have infinitely many differences unless you have infinite size.
+- Matter has a finite number of shapes
+- There is a finite range of differences, marked off by fire and frost
+
+D Epicurus, *Letter to Herodotus*, 54-5
+- Atoms must exhibit no quality of things beyond sahpe, weight, size
+- Atoms do not change, even though quality changes
+- Some things cnanot be left destroyed
 
 
 
