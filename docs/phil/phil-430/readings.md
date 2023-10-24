@@ -506,9 +506,49 @@ D Epicurus, *Letter to Herodotus*, 54-5
 - Atoms do not change, even though quality changes
 - Some things cnanot be left destroyed
 
+### 27: Existence and subsistence
+
+A. Seneca, *Letters* 58.13-15 (SVF 2.332 part)
+- In nature, some things exist, some do not
+- Nature includes those which do not exist, including those things which have entered the mind as an image but lack substance
+
+B. Alexander, *On Aristotle's Topics* 301, 19-25 (SVG 2.329)
+- If it is something, it is exsitent
+- Being not only of bodies but also fo incorporeals
+
+C. Sextus Empricus, *Against the professors* 1.17 (SVG 2.330)
+- Something cannot be taught through not-somethings, because they have no subsistence for the mind
+
+D. Sextus Empiricus, *Against the professors* 10.218 (SVF 2.331, part)
+- Some are bodies, others incorporeals
+- There are four incorporeals: sayable, void, place, time
+
+E. Sextus Empiricus, *Against the professors* 8.409
 
 
+### 43: The scope of physics
 
+A. Diogenes Laertius 7.148-9 (SVF 2.1022, 1132)
+
+- Zeno says the entire world and heaven are the substance of god
+- "nature" -- what sustains the world, and what makes things on the earth grow
+- Nautre aims at utility and pleasure
+
+B. Diogenes Laertius 7.132
+- The Stoics divide physics into bodies, principles, elements, gods, [limits, place, and void]
+- Three topics: world, elements, enquiry into cuases
+
+Discussion
+- Physics ("study of nature") -- indespensible knowledge for the ethical life
+- Physics tells us who we are and how we fit into the world.
+- The world is the substance of god, and god is the nature
+- Physics in its final analysis is theology
+- The Stoics are committed to rationalist theology
+- Distinction between physics and metaphysics
+- Stoics hold that reality consists basically and irreducibly of bodies
+- Principles are bodies; elemetns are temporary disposition of bodies and reducible to the interaction of principles
+- Gods are bodies
+- Nonbodies -- there are no such things
 
 
 
