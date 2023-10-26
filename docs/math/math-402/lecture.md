@@ -174,10 +174,34 @@ Hierarchy of rings
 - Homomorphisms preserve the ring structure
 - Isomorphism: a bijective homomorphism
 - Generating sets
+
+---
+
+## Week 5 Monday: Ismorphisms and Homomorphisms
+- $$R$$ and $$S$$ are isomorphic, or really the same
+- If $$R$$ and $$S$$ are homomorphic... what does it mean?
+  - Homomorphisms do not go both ways
+  - $$R$$ and $$S$$ have pieces which are isomorphic
+- Corollary 3.11: if $$\phi: R \to S$$ is an injective homomorphism, $$R$$ is isomorphic to the image of $$\phi$$, which is a subring of $$S$$
+- Given any two rings, you can always define a homomorphism which sends every element to $$0_S$$. This satisfies the requirements for a homomorphism.
+- Homomorphisms can lose a lot of information.
+- Given two rings $$R$$ and $$S$$, can you determine if thye are isomorphic? This is a very difficult problem because you need to construct a map / guess a map
+  - No guaranteed way to show that two rings are not isomorphic
+- Common rings can often be distinguished by isometric invariants, or properties presented under isomorphism
+  - $$R$$ and $$S$$ need to have the same cardinality
+  - Units must be preserved, cardinality of set of units needs to be preserved
+  - Commutativity preserved
+  - $$0_R \iff 0_S$$ must be preserved
+  - $$-a_R \iff -\phi(a_S)$$ must be preserved
+  - Rings with identity are preserved
+  - Integral domain -- no zero divisors, so if $$ab = 0_R$$, then $$a = 0_R$$ or $$b = 0_R$$.
+  - Zero divisors
+  - Cardinality of nipotents
+  - Cardinality of idempotents
+  - Characteristic of a ring
+  - Fields
+- Almost anything you can define in terms of ring properties is going to be preserved by isomorphism, because it has to obey the ring structure
 - 
-
-
-
 
 
 

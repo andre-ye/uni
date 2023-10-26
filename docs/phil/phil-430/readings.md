@@ -265,6 +265,32 @@ V. Atomicity and unalterability
 
 ---
 
+## Plato, Sophist
+- The whole is not all -- being, not being
+- Something that isn't a whole cannot be of any quantity, etc...
+- That which is, isn't easier than saying that which is not is
+- Battle of gods and giants, a debate over being.
+- What is body? What about thinkable nonbodily forms?
+- Coming-to-be instead of being.
+- Being as forms vs body by force
+- Better vs worse people?
+- "Breed of men": Theaetetus
+- Coming to be vs being
+- Beings 
+- Knowing and being known
+- Presence
+- The philosopher who values things
+
+This document is a part of Plato’s dialogue called Sophist, which deals with the philosophical question of what being is. The main points of this document are:
+
+The visitor and Theaetetus discuss the different views of being held by two groups: the materialists, who say that only body is being, and the idealists, who say that only nonbodily forms are being.
+The visitor argues that both views are unsatisfactory, because they either deny the existence of intelligence, soul, and change, or they make being impossible to grasp and define.
+The visitor proposes a third view, which says that being is anything that has any capacity to do or suffer anything, even in the slightest degree. He says that this view allows for both change and rest, and for both body and soul, to be aspects of being.
+The visitor then faces a new difficulty, which is how to reconcile the unity and plurality of being. He says that some people use this difficulty to attack the possibility of knowledge and speech, by saying that one cannot apply many names to one thing or one name to many things.
+The visitor says that he will try to overcome this difficulty by examining how we use names and predicates to talk about being. He says that he will also try to clarify the nature of not-being, which is another source of confusion.
+
+---
+
 ## *The Hellenistic Philosophers*, Long & Sedley
 
 ### 4: The principles of conservation (Epicureanism)
@@ -524,6 +550,42 @@ D. Sextus Empiricus, *Against the professors* 10.218 (SVF 2.331, part)
 - There are four incorporeals: sayable, void, place, time
 
 E. Sextus Empiricus, *Against the professors* 8.409
+- The trainer might provide himself as amodel for a boy
+- Some have the nature of making contact, guiding, and printing; others have the nature of incorporeal sayables, like the *lekta*; impressed in relation but not by them.
+
+F. Simplicius, *On Aristotle's Categories* 66, 32-67, 2 (SVG 2.369, part)
+- The Stoics reduce to a number of "primary genera'
+- Divison into substrates, qualified, disposed, and relatively disposed
+
+G. Galen, *on medical method*
+- The "linguistic quibbling" of some philosophers -- generically dividing the existent and the subsistent
+
+Discussion
+
+![Alt text](image.png)
+
+- "to be" means "to exist" (Stoics and Epicureans are in agreement here)
+- Plato and successors tend to assign ontological primacy to the intelligible over the sensible.
+- Stoics are reverting to popular ontology.
+- Virtue and knowledge exercise an obvious causal infleunce on bodies. Therefore knowledge must be corporeal
+- Stoics avoid the Platonist assumption thatto be is to exist
+- To be is to be a proper subject of thoguht and discourse
+- An incorporeal like time or the Centaur do not exist, although today they are significant...
+- Existing things have a character, or Sosein -- they are something
+- Existence vs subsistence
+- "Something" is the highest genus
+- Generic man is not a subsistent something, there is no such thing as Man, nor Mickey Mouse
+- Universals are "not-somethings", or in fact "nothing at all"
+- The Stoic world is very occupied by particulars
+- Virtue and knowledge explained as bodies
+- What about the other incorporeals?
+- Sayables, causation, void, place, time
+- Interaction is exclusively the property of bodies, the Stoics cannot allow incorporeals to act upon bodies.
+- What are somethings which are pure thought-constructs?
+    - Mathematical limits such as lines and points
+    - "True, false, neither"
+- Four genera -- Aristotelian categories?
+- Stoic grammar?
 
 
 ### 43: The scope of physics

@@ -703,6 +703,130 @@ Proof in 2D for simplicity.
 7. Therefore, $$\frac{f(\vec{a} + \vec{h}) - f(\vec{a}) - \langle \vec{c}, \vec{h} \rangle}{\Vert \vec{h} \Vert} \le [\del_1 f(a_1 + c_1, a_2 + h_2) - \del_1 f(a_1, a_2)] \frac{h_1}{\Vert \vec{h} \Vert} + [\del_1 f(a_1, a_2 + c_2) - \del_2 f(a_1, a_2)] \frac{h_2}{\Vert \vec{h} \Vert} \le \epsilon/2 + \epsilon /2 < \epsilon$$.
 8. This applies WLOG, apply mean value in every coordinate.
 
+---
+
+## Lecture 9: $$C^1$$-functions, chain rule, gradients, Kepler's laws
+
+**Theorem.**
+If $$f : D \subseteq \mathbb{R}^n \to \mathbb{R}$$, $$\vec{a} \in D$$, and $$\del_j f$$ exists at $$\vec{a}$$ and are continuous in the neighborhood of $$\vec{a}$$, then $$f$$ is differentiable at $$\vec{a}$$
+
+**Definition.**
+$$C^1(D) = \{ f : D \subseteq \mathbb{R}^n \to \mathbb{R} \vert \text{all partials exist and continuous on } D \}$$
+
+**Definition.**
+Given $$\vec{a} \in \mathbb{R}^n$$, and $$\vec{u}$$ where $$\Vert \vec{u} \Vert = 1$$.
+The directional derivative of $$f : \mathbb{R}^n \to \mathbb{R}$$ at $$\vec{a}$$ in direction $$\vec{u}$$ is the following limit:
+
+$$\del_{\vec{u}} f(\vec{a}) = \lim_{t \to 0} \frac{f(\vec{a} + t \vec{u}) - f(\vec{a})}{t}$$
+
+**Theorem.**
+If $$f$$ is differentiable at $$\vec{a}$$, then the directional derivatives at $$\vec{a}$$ in any direction exist, and $$\del_{\vec{u}} f(\vec{a}) = \nabla f(\vec{a}) \cdot \vec{u}$$.
+
+This implies $$\del_j f(\vec{a}) = \nabla f(\vec{a}) \cdot \vec{e}_j$$, $$\vec{e}_j$$ is the one-hot vector with 1 at $$j$$ and 0 otherwise.
+
+Proof.
+1. Since $$f$$ is differentiable at $$\vec{a}$$, we have $$\frac{f(\vec{a} + \vec{h}) - f(\vec{a}) - \nabla f(\vec{a}) \cdot \vec{h}}{\Vert \vec{h} \Vert} \to 0$$ as $$\vec{h} \to 0$$
+2. Let $$\vec{h} = t \vec{u}$$.
+3. Then $$\frac{f( \vec{a} + t \vec{u}) - f(\vec{a}) - \nabla f(\vec{a}) \cdot (t \vec{u})}{t}$$, note $$\Vert \vec{h} \Vert = t$$.
+4. We can factor out the $$t$$: $$\frac{f(\vec{a} + t \vec{u}) - f(\vec{a})}{t} - \nabla f(\vec{a}) \cdot \vec{u} \to 0$$ as $$t \to 0$$.
+5. If $$t < 0$$, since $$\Vert \vec{h} \Vert = -t$$, then $$-\frac{f(\vec{a} + t \vec{u}) - f(\vec{a})}{t} + \nabla f(\vec{a}) \cdot \vec{u} \to 0$$ as $$t \to 0$$.
+
+Nice property of the gradient.
+For any direction $$\vec{u}$$, your function grows quickest in the gradient direction. Since $$\del_{\vec{u}} f(\vec{a}) = \nabla f(\vec{a}) \cdot \vec{u} = \Vert \nabla f(\vec{a}) \Vert \Vert \vec{u} \Vert \cos \theta = \Vert \nabla f(\vec{a}) \Vert \cos \theta \le \Vert \nabla f(\vec{a}) \Vert$$. The gradient at every point $$a$$ always directs you towards the direction of maximal increase.
+
+What is the chain rule?
+$$f(g(t)) : \mathbb{R} \to \mathbb{R}$$, where $$\vec{g}: \mathbb{R} \to \mathbb{R}^n$$, $$f: \mathbb{R}^n \to \mathbb{R}$$.
+
+**Theorem.**
+Let $$\vec{g} : \mathbb{R} \to \mathbb{R}^n$$ be differentiable at $$ t= a$$ and $$f : \mathbb{R}^n \to \mathbb{R}$$ is differentiable at $$\vec{b} = \vec{g}(a)$$.
+Then $$f(\vec{g}(a))$$ is differentiable at $$a = t$$ and $$\frac{d}{dt} f(\vec{g}(t)) \vert_{t = a} = \nabla f(\vec{g}(a)) \cdot \vec{g}'(a) = \frac{\del f}{\del x}, \frac{dx}{dt} + \frac{\del f}{\del x_2} \frac{dx_2}{dt} + ... + \frac{\del f}{\del x_n} \frac{d x_n}{dt}$$.
+
+Proof.
+1. We have that $$f(\vec{b} + \vec{h}) = f(\vec{b}) + \nabla f(\vec{b}) \cdot \vec{h} + E_1 (\vec{h})$$ with $$E_1(\vec{h}) / \Vert \vec{h} \Vert \to 0$$ as $$\vec{h} \to \vec{0}$$.
+2. We also have $$\vec{g}(a + \epsilon) = \vec{g}(a) + g'(a) \epsilon + \vec{E}_2 (\epsilon)$$ with $$\vec{E}_2(\epsilon) / \Vert \epsilon \Vert \to 0$$ as $$\epsilon \to 0$$.
+3. Writing $$\vec{h}$$ as $$\vec{g}(a + \epsilon) - \vec{g}(a) = \vec{g}'(a) = \vec{g}'(a) \epsilon + \vec{E}_2 (\epsilon)$$
+4. We have that $$\vec{g}(a + \epsilon) = \vec{h} + \vec{b}$$. So $$f(\vec{g}(a + \epsilon)) = f( \vec{b} + \vec{h}) = f(\vec{b}) + \nabla f(\vec{b}) \cdot \vec{h} + E_1(\vec{h}) = f(\vec{b}) + \nabla f(\vec{b}) \cdot (g'(a) \epsilon + \vec{E}_2(\epsilon)) + E_1(\vec{h})$$
+5. We have $$f(\vec{b}) + \nabla f(\vec{b}) \cdot \vec{g}'(a) \epsilon + E_3(\epsilon)$$, where $$E_3(\epsilon) = \nabla f(\vec{b}) \cdot E_2 (\epsilon) + E_1(\vec{h})$$
+6. Then, we have $$\frac{f(\vec{g}(a + \epsilon)) - f(\vec{g}(a))}{\epsilon} = \nabla f(\vec{g}(a)) \cdot \vec{g}'(a) + \frac{E_3(\epsilon)}{\epsilon}$$
+7. After some tedious algebra, as $$\epsilon \to 0$$, $$\Vert \vec{h} \Vert \to 0$$, and $$\frac{1}{\epsilon} \le \frac{1}{\Vert h \Vert}$$
+8. Then $$\frac{E_3(\epsilon)}{\epsilon} \to 0$$ as $$\epsilon \to 0$$.
+
+The derivative of a function from $$\mathbb{R}^n \to \mathbb{R}^m$$ is a matrix.
+
+**2nd gradient property.**
+Let $$F : \mathcal{U} \subseteq \mathbb{R}^3 \to \mathbb{R}$$ be differentiable and non-constant and its image on $$\mathcal{U}$$ is a smooth surface, then for all elements on the surface, $$\nabla F(\vec{a})$$ is perpendicular to $$S$$.
+
+Water flowing down the mountain travels at right angles to the level contours. 
+Gradient descent follows the path of water.
+
+- Cross-product: only makes sense in $$\mathbb{R}^3$$, produces another vector. 
+- The cross product $$\vec{v} \times \vec{w} = \Vert \vec{v} \Vert \Vert \vec{w} \Vert \sin \theta \vec{n}$$, where $$\vec{n}$$ is the unit vector perpendicular to the plane spanned by $$\vec{v}$$ and $$\vec{w}$$.
+
+**Lemma.**
+If $$\vec{x}(t), \vec{y}(t) : \mathbb{R} \to \mathbb{R}^3$$, $$f : \mathbb{R} \to \mathbb{R}, c \in \mathbb{R}$$,
+$$(f \vec{x})' = f' \vec{x} + f \vec{x}'$$ and $$(\vec{x} \times \vec{y})' = \vec{x}' \times \vec{y} + \vec{x} \times \vec{y}'$$ and $$(\vec{x} \cdot \vec{y})' = \vec{x}' \cdot \vec{y} + \vec{x} \cdot \vec{y}'$$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
