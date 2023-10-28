@@ -231,5 +231,71 @@ How to go from infinitesimal information to local information? i.e. explain info
 Suppose $$f$$ is defined on an open interval $$I$$ and $$a \in I$$.
 If $$f$$ has a local maximum or minimum at the point $$a \in I$$ and $$f$$ is differentiable at $$a$$, then $$f'(a) = 0$$.
 
-page 58, Rolle's Theorem
+**Lemma 2.6 -- Rolle's Theorem.**
+Suppose $$f$$ is continuous on $$[a, b]$$ and differentiable on $$(a, b)$$.
+If $$f(a) = f(b)$$, then there is at least one point $$c \in (a, b)$$ such that $$f'(c) = 0$$.
+
+**Theorem 2.7 -- Mean Value Theorem I.**
+Suppose $$f$$ is continuous on $$[a, b]$$ and differentiable on $$(a, b)$$.
+There is at least one point $$c \in (a, b)$$ such that
+$$f'(c) = \frac{f(b) - f(a)}{b-a}$$
+
+**Theorem 2.8.**
+Suppose $$f$$ is differentiable on the open interval $$I$$.
+1. If $$\vert f'(x) \vert \le C$$ for all $$x \in I$$, then $$\vert f(b) - f(a) \vert \le C \vert b - a \vert$$ for all $$a, b \in I$$.
+2. If $$f'(x) = 0$$ for all $$x \in I$$, then $$f$$ is constant on $$I$$.
+3. If $$f'(x) \ge 0$$ for all $$x \in I$$, then $$f$$ is increasing on $$I$$.
+
+**Theorem 2.9 -- Mean Value Theorem II.**
+Suppose $$f, g$$ are continuous on $$[a, b]$$ and differentiable on $$(a, b)$$; and $$g'(x) \neq 0$$ for all $$x \in (a, b)$$.
+Then there is a point $$c \in (a, b)$$ such that
+$$\frac{f'(c)}{g'(c)} = \frac{f(b) - f(a)}{g(b) - g(a)}$$
+
+**Theorem 2.10 -- L'Hopital's Rule I.**
+Suppose $$f, g$$ are differentiable functions on $$(a, b)$$ and $$\lim_{x \to a^+} f(x) = \lim_{x \to a^+ g(x) = 0}$$.
+If $$g'$$ never vanishes on $$(a, b)$$ and the limit $$\lim_{x \to a^+} \frac{f'(x)}{g'(x)} = L$$ exists, then $$g$$ never vanishes on $$(a, b)$$ and $$\lim_{x \to a^+ \frac{f(x)}{g(x)}} = L$$.
+The same result holds for the left-handed limit, the two-sided limit, and limits to infinity or negative infinity.
+
+**Theorem 2.11 -- L'Hopital's Rule II.**
+Thoerem 2.10 remains value when the limits of $$f(x)$$ and $$g(x)$$ go to infinity.
+
+**Corollary 2.12 -- Rates of Growth.**
+For any $$a > 0$$:
+
+$$\lim_{x \to +\infty} \frac{x^a}{e^x} = \lim_{x \to +\infty} \frac{\log x}{x^a} = \lim_{x \to 0+} \frac{\log x}{x^-a} = 0$$
+
+Vector-valued functions.
+- The derivative of $$\mathbf{f} = (f_1, ..., f_n)$$ is
+
+$$\mathbf{f}'(a) = \lim_{h \to 0} \frac{\mathbf{f}(a + h) - \mathbf{f}(a)}{h} = \left( \lim_{h \to 0} \frac{f_1(a + h) - f_1(a)}{h}, ..., \lim_{h \to 0} \frac{f_n(a + h) - f_n(a)}{h} \right)$$
+
+- The mean value theorem is not valid for vector-valued functions.
+
+### 2.2: Differentiability in Several Variables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
