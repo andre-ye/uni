@@ -557,9 +557,43 @@ Building Feminist Worlds
 - Labor of going over materials, texts
 - Feminism is a fragile archive, we must take responsibility and give care
 
+---
 
+## "Only Joking!: On the Offensiveness of Humor", McTernan
 
+- Tim Hunt, Nobel winning biochemist. 
+- Should people take offense?
+- There is a tension in how we should take jokes. We often take offense at humorous remarks
+- Should we ought not to take offense at jokes?
+- What is the right way to do comedy? Rape jokes, homophobic jokes, punching down, etc.
+- Perhaps comedy's nature is to be offensive.
 
+Theories of humor and the offensive
+- What is the nature of humor?
+- Superiority theory, relief theory, incongruity theory
+- Pluralism: each theory best captures some type of humor, but no one theory captures all types.
+- Superiority theory
+  - Humor is an attentive demolition of another
+  - Expression of our superiority over others or our former selves
+  - Kant's remarks
+  - Mockery is a way to deflate others and to exercise a claim of superiority
+  - Sarcasm: aggressive humor where the individual becomes a victim of a humorous utterance
+  - "so kind of you to join us" -- targeting one individual to entertain others
+- Relief theory
+  - Humor is a release to free the libidinal energy we would have otherwise had.
+  - We repress sexual desire and hostility
+  - We let out a desire that we ordinarily repress
+  - There is somethig troubling about the kind of hostility that jokes reveal
+  - Men telling rape jokes? He may have suppressed the hostility
+- Incongruity theory
+  - Humor lies in the incongruity between expectations and the outcome
+  - Three features: something must be appraised as a violation, something must be appraised as benign, and these appraisals are juxtaposed
+  - Perhaps jokes make light of our moral standards, e.g. dead baby jokes. They are transgressive.
+  - Jokes express lack of concern for those who by moral standards deserve some kind of concern for human dignity.
+  - Norms
+- Why do we find things amusing?
+- Two objections to the protrayal of offensiveness from the incongruity theory
+  - 
 
 
 

@@ -447,6 +447,9 @@ Sally Haslanger
 - Race does not travel.
 - The concept of race is heuristically incoherent
 
+---
+
+## Lecture 8: Racial Pluralism
 
 
 

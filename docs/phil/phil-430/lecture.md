@@ -429,11 +429,57 @@ Attributes
 - There is a little pocket where you can choose another way. This happens through the coincidence of a bunch of swerves.
 - Which one came first? -- metaphysics or ethics?
 
+---
 
+## Week 5 Wednesday -- The Stoics
+- Leaving the Epicureans and the atomists behind
+- Stoics founded by Zeno of Critium, around 300 BC. Originally from Cyprus, moves to Athens after the death of Aristotle just before Epicurus establishes the Garden
+- Cynics -- the true nature of humans is rationality. This claim is somewhat already given by Plato and Aristotle. But the cynics push it to an ascetic extreme. Nothing which is conventionally good is actually relevant to the well-being of humans. 
+- Stoics -- iadvocate a certain indifference, organize a cosmopolitanism of ethics
+- A rational universe
+- Cleanthes -- focuses more on natural philosophy and theology, then picked up by Chryssippus, made huge contributions to logic and philosophy of language
+- The influence of stoicism is undoubtedly the greatest of the Hellenistic schools
+- You need the metaphysical underpinnings to get started
+- In what sense is there a stoic physics?
+- Stoic physics: study of nature, study of the world, philosophy's "soul"
+- Division of physics: specific and generic (takes the present world as its starting point, offers account of natural phenomena)
+- Specific -- belong to philosophy proper, are more of a'
+- Only bodies exist. The principles are the ...
+- Gods are perfect
+- Pasissive 
+- Corporeals which provide thecii=io
+- What is the mature of being. 
+- Nature includes that which is not corporeal, e.g. time, place, void, etc.
+ - Something -- the supreme genus'
+- Anything we can say about those things which can be thought about are real
+- You need somrthing outside of the objec tinto what it is or what is not
+- There is nov oid itn rhew orld, only place.
+- Role of matte roccupied by body.
+- Void -- uncoccupied space
+- Time: the measure of the motion of bodies
+- The soul is a body
+- The soul is where you heart is.
+- If lektia are contents of thoughts, what gets between forming th  ctontent nad percieving it?
+- There's something about your soul which determines how to thinabout the world
+- Forms of body: substractes, qualified, disposed, relatively disposed
+    - Substrate: as a thing which experiences causal reactions and can cause
+    - Qualified: as a thing which has qualities
+    - Disposed: as a thing which is arranged in a certain way, a disposition, e.g. virtue
+    - Relatively disposed: as a thing which is arranged in a certain way relative to something else, e.g. a disposition to be healthy
+- People have often read the Stoics through Aristotle
+- Incorporeals subsisting
 
-
-
-
+Plato, *Sophists*
+- About how to identify sophists vs philosophers, also a covert way for Plato to do metaphysics
+- The inconceivability of non-being
+- What is isn't easier to get a handle on than what is not
+- Battle of the Gods and Giants
+- Earth-born Giants (what is, is anything that is tnagible or body) vs. Gods (friends of the forms, true being is the nonbodily forms that are the objects of thought)
+- If souls can be just/unjust/intelligent/etc., then it must be because souls can possess these qualities. But these are invisible. Can you say that things like justice have bodies.
+- *dunamis* proposal, a thing is if it has any capacity, causality. A thing is if it has any capacity. Being is what has capacity. This is the view of the "reformed giants"
+- Are the Stoics earthborn or reformed giants?
+- Cross-examination of the "friends of the forms" -- true being is nonbodily forms that are the objects of thought. So knowledge is a way of the soul acting on a form, and the form acting on a souol. Either you deny that anything is intelligent, or that being is unchanging
+- 249D: 
 
 
 

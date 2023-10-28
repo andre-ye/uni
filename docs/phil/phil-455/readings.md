@@ -571,7 +571,11 @@ VI. Against the Semantic Strategy
 - Yet there is significant disagreement about the normative use of race-talk
 - What do we want our racial concepts, terms, and practices to do?
 
-## "A Radical Solution to the Race Problem", Quayshawn Spencer
+---
+
+## Week 5: A Return to Racial Naturalism
+
+### "A Radical Solution to the Race Problem", Quayshawn Spencer
 - Race picks out a biologically real entity
 - Human population groups form a "Blumenbach partition"
 
@@ -601,7 +605,12 @@ Objections and replies
 - Human group differences can both be real and socially constructed.
 
 
+---
 
+## Week 6: Racial Deflationism
+
+### "Deflating Race", Lionel McPherson
+- 
 
 
 

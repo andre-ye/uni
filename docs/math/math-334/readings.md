@@ -182,6 +182,54 @@ If $$S \subset \mathbb{R}^n$$ is arcwise connected, then $$S$$ is connected.
 **Theorem 1.30.**
 If $$S \subset \mathbb{R}^n$$ is open and connected, then $$S$$ is arcwise connected.
 
+---
 
+## Chapter 2: Differential Calculus
 
+### 2.1: Differentiability in One Variable
+- A more useful notion of the derivative than in elemetnary calculus books
+- $$f : \mathbb{R} \to \mathbb{R}$$ is differentiable at $$x = a$$ if it is approximately linear near $$x = a$$.
+- That is, there exists a linear function $$l(x) = mx + b$$ satisfying $$l(a) = f(a)$$, i.e. $$l(x) = f(a) + m(x-a)$$.
+  - The linear approximation $$f(x) - l(x)$$ must go to zero faster than $$x - a$$ as $$x \to a$$ (i.e. faster than $$x$$ approaches $$a$$), so we have
+
+$$\frac{f(x) - l(x)}{x - a} \to 0, x \to a$$
+
+- Let $$h = x - a$$. Then
+
+$$f(x) - l(x) = f(a + h) - f(a) - mh$$
+
+- We have the error function $$E(h) = f(x) - l(x) = f(a + h) - f(a) - mh$$, which is the difference between the function and its linear approximation.
+- Formal definition. $$f$$ is a real-valued function on an open interval in $$\mathbb{R}$$ containing $$a$$. $$f$$ is differentiable at $$a$$ if there exists some number $$m$$ such that
+
+$$f(a + h) = f(a) + mh + E(h), $$\lim_{h \to 0} \frac{E(h)}{h} = 0$$
+
+- We can compute $$m$$ as follows into the standard form:
+
+$$m = \frac{f(a + h) - f(a) - E(h)}{h} = \frac{f(a + h) - f(a)}{h} - \frac{E(h)}{h} \to m = \lim_{h \to 0} \frac{f(a + h) - f(a)}{h}$$
+
+- Differentiability at $$a$$ implies continuity at $$a$$.
+- $$E(h)$$ is little-oh of $$h$$, i.e. it is of a smaller order of magnitude than $$h$$.
+- $$f(a + h)$$ is the sum of a linear function of $$h$$ and an error term which is $$o(h)$$.
+- We can work out standard differentiation rules from this definition.
+
+**The Product Rule.**
+Suppose $$f$$ and $$g$$ are differentiable at $$x = a$$.
+Then $$f(a + h) = f(a) + f'(a) h + E_1(h)$$ and $$g(a + h) = g(a) + g'(a) h + E_2(h)$$, where $$E_1(h)$$ and $$E_2(h)$$ are both $$o(h)$$.
+Then we get
+
+$$f(a + h) g(a + h) = f(a) g(a) + [f'(a) g(a) + f(a) g'(a)]h + E_3(h)$$
+
+Left-hand derivative $$f'_{-}(a)$$ and right-hand derivative $$f'_{+}(a)$$:
+
+$$f'_{\pm}(a) = \lim_{h \to 0^{\pm}} \frac{f(a + h) - f(a)}{h}$$
+
+Mean Value Theorem.
+Definition of derivative: passing from local information given by values of $$f(x)$$ for $$x$$ near $$a$$ to the infinitesimal information $$f'(a)$$.
+How to go from infinitesimal information to local information? i.e. explain information about $$f$$ given $$f'$$?
+
+**Proposition 2.5.**
+Suppose $$f$$ is defined on an open interval $$I$$ and $$a \in I$$.
+If $$f$$ has a local maximum or minimum at the point $$a \in I$$ and $$f$$ is differentiable at $$a$$, then $$f'(a) = 0$$.
+
+page 58, Rolle's Theorem
 
