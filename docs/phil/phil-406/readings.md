@@ -593,12 +593,125 @@ Theories of humor and the offensive
   - Norms
 - Why do we find things amusing?
 - Two objections to the protrayal of offensiveness from the incongruity theory
-  - 
+  - We can both be offended and find something humorous. Both amusement and an offensive reaction, e.g. "I ought to be offended by that". Form and content. But: one emotion can overcome th eother, or we can be a pluralist about humor
+  - The fact that an utterance was intended as benign makes it so. Successful humor depends on finding a violation benign. But who is the party involved?
+- So far, none of these three theories gives us much to defend the idea that something which is humorous is not to take offense from.
 
+Some linguistics of jokes
+- Speech-acts? Serious vs non-serious jokes? Does this give us cause to take offense?
+- Humor: a decommitment from one's utterance, one's remarks are uttered non-seriously, i.e. disassociation, play, etc.
+- Humor is a way of trying out behavior which is socailly risky, to have an 'out'
+- Maybe this is a reason to people's claims of only joking. It is an attempt to retract risky social moves. Offense comes from taking the joke as serious.
+- Jokes violate Gricean rules of conversation -- we may say false, unjustified, exaggerated things. Comedy trades off on ambiguity.
+- Sometimes jokes may be invoked in the spirit of playfulness. But what matters is how the joke functions
+- Humor might be a deviation from ordinary interactions.
 
+How offensive jokes function
+- Phillipe Schlenker: when a slur is used without correction or dissent, background presuppositions of a conversation shift; derogatory propositions become part of the common ground. 
+- Norm violations might cease to become violations.
+- Why do men find sexist content more funny? Distance and lack of commitment. 
+- What is the causal role of jokes?
+- Women tend to be more committed to anti-sexist norms
+- What does a commitment to norms mean?
+- Does one signal agreement to acceptability, you are finding the violation benign, and signalling to tohers that you do so too.
+- Humor being made visible
+- Serious utterances do not always demand a response from us in the same way that humor does, a joke is kind of an open question. It may even be rude not to respond to joke.
+- Serious utterances like "women ought to do the laundry" do not necessarily shape the common ground.
 
+The riskiness of humor
+- "I was only joking!", "it was meant to b efunny!"
+- There is no good reason to refrain from taking offense
+- Saying you were only joking may
+  - let you off the hook for having seriously said something
+  - one shouldn't be too literal in interpreting a joke, but rather "Girl" in the abstract
+- Jokes read in relation to their audience
+- Offending people is what we risk when we make jokes.
+- Benign violations vs nonbenign violations.
+- Offense is one way to resist the way in which humor can introduce or reinforce social inequalities in our interactions.
+- Taking offense is denying that a humorous remark is benign
 
+---
 
+## "A Paradigm of Philosophy: The Adversary Method", Janice Moulton
 
+The Unhappy Conflation of Aggression with Success
+- Aggression -- often positively accepted in philosophic methodology, but also associated with sex
+- Aggression -- an offensive action or procedure, culpable unprovoked overt hostile attack
+- Physical aggression is not good. But aggression is still rewarded: power, activity, ambition, authority, competence, effectiveness
+- One may need to olearn to behave aggressively to appear competent, seem superior, gain power
+- Male aggression is perceived as natural
+- It appears as if women must behave aggressively to be thought aggressive.
+- Female aggression is more conscious as an object of critique than male aggression
+- Maybe an aggressive woman is "unnatural"
+- Some feminists dismiss the sex distinction 
+- It is a mistake to associate aggressiveness with these positive traits
+- Polite speech can still be very powerful and effective
+- Conflation of aggression with positive concepts
+- Aggression often equated with energy. But in fact aggression can hinder activities
+- Argument: philosophy incorporates aggression into its methodology
 
+Scientific Reasoning
+- Scientific claims are supposedly objective and value free.
+- Karl Popper: scientific statements invoke values, but resasoning is objective and deductive
+- Kuhn -- even the reasoning used in science is not value free or certain 
+- Science involves a paradigm, beliefs  about methodology and evaluation of research
+- Theory changes because it is more satisfying becuase it is more important.
+- Philosophy is also governed by paradigms?
+
+Philosophy Reasoning -- the Adversary Paradigm
+- Philosophic reasoning -- unimpassioned debate between adversaries who defend their own views against others'. Adversary Paradigm
+- Address work to an imagined opponent and muster evidence to support it.
+- An adversary does not think about all the things
+- Objection to the adversary method -- role as a paradigm. Adversary method dominates the methodologya nd misrepresents philosophic reasoning
+- **Question** -- are philosophy and science the same? Are there really such things as Kuhnian paradigms?
+- Science: criticism of a paradigm is not successful unless there is an alternative paradigm
+
+Defects of the Adversary Paradigm
+- If evaluatio nis not adversarial, it is assumed to be weaker, less effective.
+- But even Plato argued that you must have shared assumptions. A debate is not possible among people who truly disagree about everything.
+- Claims and arguments are rarely isolated; they are part of an interrelated system of ideas
+- "Debates" in which there just defeat for one argument but not necessarily change the entire system of values don't really change anything
+- Adversarial criticism of arguments may merely strengthen support for other ideas. ("Why would that be so bad?")
+- Adversary Paradigm allows for "programmatic" claims in philsoophy which are exempt
+  - Popular claims in philosophy gain immunty from criticism because their details are not worked out. Objections can be dismissed as things to be considered later.
+  - Irrefutability / adversarial immunity becomes the measure for philosophical worth
+
+Misinterpreting the History of Philosophy
+- Under any paradigm, we are going to reinterpret history and recast the positions of earlier philosophers
+- Earlier philosophers are cast as if they were trying to address adversaries instead of trying to build a foudnation for scientific reasoning and explaining human nature.
+- Philosophers in excess of the adversarial mold are usually ignored.
+- Socratic method -- identified with elenchus, discussion led towards leading one person to admit his views are wrong. Elenchus -- about shaking people up on their cherished convictions to begin philosophical inquiries with a more open mind. Adversary Method: show that the other party is wrong.
+- Inability to win a public debate is not a good reason for giving up a belief. The Adversary Method is not a good format for reconciling idsagremeents
+- Socrates' aim was not to rebut, but to show people to think for themselves.
+
+Restriction of Philosophical Issues
+
+- What kinds of questions are asked? What kinds of answers are acceptable?
+- Philosophy of language 
+  - What properties can be subjected to deductive reasoning?
+  - Meaning is the deductive consequences of sentences
+  - We ask not what a sentence says but what it guarantees.
+- Philosophy of science
+  - Non-deductive reasoning is thought to be no reasoning at all
+- Ethics
+  - There must be a single supreme moral principle
+- Adversary Paradigm: only ideas which can be advocated and defended are admitted, we deny philosophies which examine ideas for their own sake
+- In metaphysics and epistemology, there is an assumption that language is necessary for thinking. Can creatures without language have thoughts?
+- We are expected to consider and honor positions unlike our own to meet their objections
+  - Moral theories for egoists
+  - Theories of knowledge for skeptics
+- Philosophic energy is expended arguing for the existence of some things, but what even are those things about. 
+- There is a lot of energy about the existence of e.g. free will but no positive accounts of what it will be
+- Philosophers are drawn to extreme positions, but this distorts the landscape of what actually deserves attention.
+
+The Paradigm Leads to Bad Reasoning
+- Adversary Paradigm accepts reasoning whose goal is to convince an opponent, and disregards discussion with like-minded thinkers or to figure something out for oneself. 
+- Counterexamples, analogies, etc.
+- To construct an analogy which is not the issue at question is very difficult.
+- Judith Thomson -- A Defense of Abortion. Suppose the right-to-life supporters have all their premises granted.
+  - Right to property appealed to
+  - But it is shown that abortion is wrong when starting from alternative claims. But there are many other reasons too.
+  - Counterexamples -- they can show that arguments do not support a conclusion, but do not provide a positive reason for accepting a conclusion.
+- Not just, is the argument valid? but also, what are the plausible premises to make ths argument good? Why is this argument important? 
+- Experience may be a necessary element in reasoning processes
 

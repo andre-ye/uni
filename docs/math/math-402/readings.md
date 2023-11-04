@@ -465,6 +465,176 @@ For instance, we know that $$\mathbb{Q}, \mathbb{R}$$ are not isomorphic to $$\m
 
 ---
 
+## Chapter 4: Arithmetic in $$F[x]$$
+
+### 4.1: Polynomial Arithmetic and the Division Algorithm
+- A polynomial with coefficients in $$R$$ is an expression of the form $$a_0 + a_1 x + a_2 x^2 + ... + a_n x^n$$, where $$n$$ is a nonnegative integer and the $$a_i$$ are elements of $$R$$.
+- What is $$x$$? What does it mean to multiply $$x$$ by a ring element? Is $$x \in R$$?
+- Polynomials are coefficients in a ring $$R$$, which are elements of a larger ring containing both $$R$$ and the special element $$x$$ if not in $$R$$
+
+**Theorem 4.1.**
+If $$R$$ is a ring, then there exists a ring $$T$$ containing an element $$x$$ that is not in $$R$$ and has these properties:
+1. $$R$$ is a subring of $$T$$
+2. $$xa = ax$$ for every $$a \in R$$
+3. The set $$R[x]$$ of all elements of $$T$$ of the form $$a_0 + a_1 x + a_2 x^2 + ... + a_n x^n$$ for $$n \ge 0$$ and $$a_i \in R$$ is a subring of $$T$$ that contains $$R$$.
+4. The representation of elements is unique.
+5. $$a_0 + a_1 x + a_2 x^2 + ... + a_n x^n = 0_R$$ iff $$\forall i : a_i = 0_R$$.
+
+- Elements of $$R[x]$$ are polynomials with coefficients in $$R$$ and the elements $$a_i$$ are coefficients
+- $$x$$ is an indeterminate
+- The ring $$T$$ is not necessarily commutative, but rather that $$x$$ is commutative with every element in $$R$$
+- Examples
+  - $$\mathbb{Z}[x], \mathbb{Q}[x], \mathbb{R}[x]$$ are all familiar rings
+  - $$4 - 6x + 4x^3 \in E[x]$$, $$E$$ ring of even integers. The polynomial $$x$$ is not in $$E[x]$$ becuase it cannot be written with even coefficients.
+
+Polynomial Arithmetic
+- Rules for adding and multiplying polynomials follow from the fact that $$R[x]$$ is ar ing.
+- Polynomial addition and multiplication
+
+$$\sum_{i=0}^n a_i x^i + \sum_{i=0}^m b_i x^i = \sum_{i=0}^k (a_i + b_i) x^i$$
+
+$$\sum_{i=0}^n a_i x^i \cdot \sum_{i=0}^m b_i x^i = \sum_{i=0}^{n+m} \left( \sum_{j=0}^i a_{j} b_{i-j} \right)x^i$$
+
+- If $$R$$ is commutative, then so is $$R[x]$$
+- If $$1_R \in R$$, then $$1_R$$ is the multiplicative identity of $$R[x]$$.
+- $$a_n$$ is the leading coefficient of $$f(x)$$
+- Degree is the largest exponent of $$x$$ which appears as a nonzero coeficient
+- The constant polynomial does not have a degree
+
+**Theorem 4.2.**
+If $$R$$ is an integral domain and $$f(x), g(x)$$ are nonzero polynomials in $$R[x]$$, then $$\deg(f(x)g(x)) = \deg(f(x)) + \deg(g(x))$$.
+
+**Corollary 4.3.**
+If $$R$$ is an integral domain, then so is $$R[x]$$.
+
+
+**Corollary 4.4.**
+Let $$R$$ be a ring.
+If $$f(x), g(x), f(x)g(x)$$ are nonzero in $$R[x]$$, then
+$$\deg[ f(x) g(x) ] \le \deg f(x) + \deg g(x)$$.
+
+**Corollary 4.5.**
+Let $$R$$ be an integral domain and $$f(x) \in R[x]$$.
+Then $$f(x)$$ is a unit in $$R[x]$$ iff $$f(x)$$ is a constant polynomial that is a unit in $$R$$.
+In particular, if $$F$$ is a field, the units in $$F[x]$$ are the nonzero constants in $$F$$.
+
+The Division Algortihm in $$F[x]$$
+- What about polynomials with coefficients in a field $$F$$?
+
+**Theorem 4.6: The Division Algorithm in $$F[x]$$.**
+Let $$F$$ be a field and $$f(x), g(x) \in F[x]$$ with $$g(x) \neq 0_F$$.
+Then there exist unique polynomials $$q(x)$$ and $$r(x)$$ such that $f(x) = g(x) q(x) + r(x)$$ and either $$r(x) = 0_F$$ or $$\deg r(x) < \deg g(x)$$.
+
+### 4.2: Divisibility in $$F[x]$$
+- Let $$F$$ be a field and $$a(x), b(x) \in F[x]$$ with $$b(x)$$ nonzero.
+- $$b(x)$$ divides $$a(x)$$ if $$a(x) = b(x) h(x)$$ for some $$h(x) \in F[x]$$.
+
+**Theorem 4.7.**
+Let $$F$$ be a field and $$a(x), b(x) \in F[x]$$ with $$b(x)$$ nonzero.
+1. If $$b(x) \vert a(x)$$, then $$cb(x) \vert a(x)$$  for each nonzero $$c \in F$$
+2. Every divisor of $$a(x)$$ has degree less than or equal to $$\deg a(x)$$.
+
+- A polynomial is monic if its leading coefficient is $$1_F$$
+
+**Definition.**
+The GCD of $$a(x)$$ and $$b(x)$$ is the monic polynomial of highest degree that divides both $$a(x)$$ and $$b(x)$$.
+$$d(x)$$ is the gcd of $$a(x)$$ and $$b(x)$$, provided that $$d(x)$$ is monic and 
+1. $$d(x) \vert a(x)$$ and $$d(x) \vert b(x)$$
+2. If $$c(x) \vert a(x)$$ and $$c(x) \vert b(x)$$, then $$\deg c(x) \le \deg d(x)$$.
+
+**Theorem 4.8.**
+Let $$F$$ be a field and $$a(x), b(x) \in F[x]$$, both nonzero.
+Then there is a unique GCD $$d(x)$$ of $$a(x)$$ and $$b(x)$$.
+There are polynomials $$u(x), v(x) : d(x) = a(x) u(x) + b(x) v(x)$$.
+
+**Theorem 4.10.**
+Let $$F$$ be a field and $$a(x), b(x), c(x) \in F[x]$$.
+If $$a(x) \vert b(x) c(x)$$ and $$a(x)$$ and $$b(x)$$ are relatively prime, then $$a(x) \vert c(x)$$.
+
+### 4.3: Irreducibles and Unique Factorization
+- Here, $$F$$ always denotes a field
+- In $$\mathbb{Z}$$ there are only two units, $$\pm 1$$ - polynomial rings can have more units
+- Elements $$a$$ in commutative rings with identity $$R$$ are associates of an element $$b \in R$$ if $$a = bu$$ for some unit $$u$$
+  - In $$\mathbb{Z}$$, $$a$$ and $$b$$ are associates iff $$a = \pm b$$
+
+$$f(x)$$ is an associate of $$g(x)$$ in $$F[x]$$ iff $$f(x) = cg(x)$$ for some nonzero $$c \in F$$
+
+- A nonzero integer $$p$$ is prime in $$\mathbb{Z}44 if it is not $$ \pm 1$$ and its only divisors are $$\pm 1$$ and $$\pm p$$, the associates of $$p$$
+
+**Definition.**
+Let $$F$$ be a field.
+A nonconstant polynomial $$p(x) \in F[x]$$ is irreducible if its only divisor are its associates and units (nonzero constant polynomials).
+A nonconstant polynomial that is not irreducible is reducible.
+
+Every polynomial of degree 1 in $$F[x]$$ is irreducible in $$F[x]$$.
+
+**Theorem 4.11.**
+Let $$F$$ be a field.
+A nonzero polynomial $$f(x)$$ is reducible in $$F[x]$$ iff $$f(x)$$ can be written as the product of two polynomials of lower degree.
+
+- Irreducibles in $$F[x]$$ have the same divisibility properties as primes in $$\mathbb{Z}$$
+
+**Theorem 4.12.**
+Let $$F$$ be a field and $$p(x)$$ be a nonconstant polynomial in $$F[x]$$.
+Then the following conditions are equivalent.
+1. $$p(x)$$ is irreducible
+2. If $$b(x)$$ and $$c(x)$$ are polynomials such that $$p(x) \vert b(x) c(x)$$, then $$p(x) \vert b(x)$$ or $$p(x) \vert c(x)$$
+3. If $$r(x)$$ and $$s(x)$$ are any polynomials such that $$p(x) = r(x) s(x)$$, then $$r(x)$$ or $$s(x)$$ is a nonzero constant polynomial.
+
+**Corollary 4.13.**
+Let $$F$$ be a field and $$p(x)$$ an irreducible polynomial in $$F[x]$$.
+If $$p(x) \vert a_1(x) a_2(x) \hdots a_n(x)$$, then $$p(x)$$ divides at least one of the $$a_i(x)$$.
+
+**Theorem 4.14.**
+Let $$F$$ be a field.
+Every nonconstant polynomial $$f(x)$$ in $$F[x]$$ is a product of irreducible polynomials in $$F[x]$$.
+This factorization is unique, such that when ordered and relabelled, every element is an associate in the parallel factorization.
+
+### 4.4: Polynomial Functions, Roots, and Reducibility
+
+- What are criteria for the irreducibility of polynomials (e.g. primality testing)
+- Every polynomial induces a function from $$F$$ to $$F$$
+- $$R$$ is a commutative ring
+- Polynomial function $$f : R \to R$$, for each $$r \in R$$, $$f(r) = a_n r^n + ... + a_2 r^2 + a_1r + a_0$$
+- $$x$$ can be treated as indeterminate or determinate, and yielding different results
+
+**Definition.**
+Let $$R$$ be a commutative ring and $$f(x) \in R[x]$$.
+An element $$a$$ of $$R$$ is said to be a root (or zero) of the polynomial $$f(x)$$ if $$f(a) = 0_R$$, that is, if the induced function $$f : R \to R$$ maps $$a$$ to $$0_R$$.
+
+**Theorem 4.15.**
+The Remainder Theorem.
+Let $$F$$ be a field, $$f(x) \in F[x]$$, and $$a \in F$$.
+The remainder when $$f(x)$$ is divided by the polynomial $$x - a$$ is $$f(a)$$.
+
+**Theorem 4.16.**
+The Factor Theorem.
+Let $$F$$ be a field, $$f(x) \in F[x]$$, and $$a \in F$$. 
+Then $$a$$ is a root of the polynomial $$f(x)$$ iff $$x - a$$ is a factor of $$f(x)$$ in $$F[x]$$.
+
+**Corollary 4.17.**
+Let $$F$$ be a field and $$f(x)$$ a nonzero polynomial of degree $$n$$ in $$F[x]$$.
+Then $$f(x)$$ has at most $$N$$ roots in $$F$$.
+
+**Corollary 4.18.**
+Let $$F$$ be a field and $$f(x) \in F[x]$$, with $$\deg f(x) \ge 2$$.
+If $$f(x)$$ is irreducible in $$F[x]$$, then $$f(x)$$ has no roots in $$F$$.
+
+**Corollary 4.19.**
+Let $$F$$ be a field and let $$f(x) \in F[x]$$ be a polynomial of degree $$2$$ or $$3$$.
+Then $$f(x)$$ is irreducible in $$F[x]$$ iff $$f(x)$$ has no roots in $$F$$.
+
+**Corollary 4.20.**
+Let $$F$$ be an infinite field and $$f(x), g(x) \in F[x]$$.
+Then $$f(x)$$ and $$g(x)$$ induce the same function from $$F$$ to $$F$$ iff $$f(x) = g(x)$$ in $$F[x]$$.
+
+
+
+
+
+
+
+
 
 
 

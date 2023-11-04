@@ -134,8 +134,13 @@ What is ideal theory?
 - Khader -- arguing against using ideal theory to critique non-Western culture
 - Ideal theory needs to be thin as opposed to thick
 
+---
 
-
+## Week 5 Tuesday -- "Genetic Racial Naturalism"
+- Old school racial naturalists, population racial naturalists, genetic racial naturalists
+- Walter Benn Michaels: you have to have essentialism to have an objective account of race
+- Everyone wants to take down the social constructionists. First take-down: it's either subjective or relativistic
+- Charles Mills: but no -- there are two steps to these things. Once we develop a criteria, there is objectivity / an objective set of conditions.
 
 
 

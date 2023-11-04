@@ -274,7 +274,60 @@ $$\mathbf{f}'(a) = \lim_{h \to 0} \frac{\mathbf{f}(a + h) - \mathbf{f}(a)}{h} = 
 ### 2.2: Differentiability in Several Variables
 
 
+### 2.7: Taylor's Theorem
+- Taylor expansions in their finite form
+- Taylor's theorem -- higher-order version of the tangent line approximation.
+- A function $$f$$ of class $$C^k$$ on an interval $$I$$ containing the point $$x = a$$ is the sum of a certain polynomial of degree $$k$$ and a remainder term that vanishes more rapidly than $$\vert x - a \vert^k$$ as $$x \to a$$
+- The polynomial $$P = P_{a, k}$$ of order $$k$$ such that $$P^{(j)}(0) = f^{(j)} (a)$$ for $$0 \le j \le k$$; the $$k$$th-order Taylor polynomial for $$f$$ based at $$a$$:
 
+$$P_{a, k}(h) = \sum_{j = 0}^k \frac{f^{(j)}(a)}{j!} h^j$$
+
+- The $$k$$-th order taylor remainder is given by
+
+$$R_{a, k}(h) = f(a + h) - P_{a, k}(h) = f(a + h) - \sum_{j = 0}^k \frac{f^{(j)}(a)}{j!} h^j$$
+
+- The Taylor polynomial is a godo approximation of $$f$$ near $$a$$.
+
+**Theorem 2.55.** -- Taylor's Theorem with Integral Remainder, I.
+Suppose that $$f$$ is of class $$C^{k+1}$$, with $$k \ge 0$$ on an interval $$I \subset \mathbb{R}$$, and $$a \in I$$. Then the remainder $$R_{a, k}$$ defined by 2.53 - 2.54 is given by
+
+$$R_{a, k}(h) = \frac{h^{k+1}}{k!} \int_0^1 (1 -t )^k f^{(k+1)} (a + th) dt$$.
+
+**Theorem 2.58.** -- Taylor's Theorem with Integral Remainder, II.
+Suppose that $$f$$ is of class $$C^k$$, $$k \ge 1$$ on an interval $$I \subset \mathbb{R}$$, and $$a \in I$$. Then the remainder $$R_{a, k}$$ is given by
+
+$$R_{a, k}(h) = \frac{h^k}{(k-1)!} \in_0^1 (1 - t)^{k-1} \[ f^{(k)}(a + th) - f^{(k)(a)} \] dt$$
+
+**Corollary 2.60.**
+If $$f$$ is of class $$C^k$$ on $$I$$, then $$R_{a, k}(h) / h^k \to 0$$ as $$h \to 0$$.
+
+- If $$f$$ is $$C^k$$ near $$x = a$$, we can write $$f(x)$$ as the sum of a $$k$$-th order polynomial
+
+**Corollary 2.61.**
+If $$f$$ is of class $$C^{k+1}$$ on $$I$$ and $$\vert f^{(k+1)} (x) \vert \le M$$ for $$x \in I$$, then
+
+$$\vert R_{a, k} (h) \vert \le \frac{M}{(k+1)!} \vert h \vert^{k+1}, a + h \in I$$
+
+**Lemma 2.62.**
+suppose $$g$$ is $$k + 1$$ times differentiable on $$[a, b]$$. If $$g(a) = g(b)$$ and $$g^{(j)(a) = 0} for 441 \le j \le k$$, then there is a point $$c \in (a, b)$$ such that $$g^{(k+1)}(c) = 0$$
+
+**Theorem 2.63.** -- Taylor's Theorem with Lagrange's Remainder.
+Suppose $$f$$ is $$k + 1$$ times differentiable on an interval $$I \in \mathbb{R}$$, and $$a \in I$$. For each $$h \in \mathbb{R}$$ such that $$a + h \in I$$, there is a point $$c$$ between $$0$$ and $$h$$ such that
+
+$$R_{a, k}(h) = f^{(k + 1)}(a + c) \frac{h^{k+1}}{(k + 1)!}
+
+**Proposition 2.65.**
+The Taylor Polynomials of degree $$k$$ about $$a = 0$$ are:
+
+- For $$e^x$$: $$\sum_{0 \le j \le k} \frac{x^j}{j!}$$
+- For $$\cos x$$: $$\sum_{0 \le j \le k/2} \frac{(-1)^j x^{2j}}{(2j)!}
+- For $$\sin x$$: $$\sum_{0 \le j \le (k-1)/2} \frac{(-1)^j x^{2j + 1}}{(2j + 1)!}$$
+- For $$(1 - x)^{-1}$$: $$\sum_{0 \le j \le k} x^j$$
+
+- Taylro polynomials can approximate complicated functions with easier computations
+- Theoretically, importantly, the behavior of any function near some point is determined by the first nonvanishing term
+- Suppsoe $$f : \mathbb{R}^n \to \mathbb{R}$$ is of class $$C^k$$ on a convex open set $$S$$. We can derive a Taylor expansion for $$f(\mathbf{x})$$ about a point $$\mathbf{a} \in S$$ by looking at the restriction of $$f$$ and the line joining $$\mathbf{a}$$ and $$\mathbf{x}$$.
+- With $$\mathbf{h} = \mathbf{x} - \mathbf{a}$$
 
 
 

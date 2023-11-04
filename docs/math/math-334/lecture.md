@@ -767,8 +767,42 @@ If $$\vec{x}(t), \vec{y}(t) : \mathbb{R} \to \mathbb{R}^3$$, $$f : \mathbb{R} \t
 $$(f \vec{x})' = f' \vec{x} + f \vec{x}'$$ and $$(\vec{x} \times \vec{y})' = \vec{x}' \times \vec{y} + \vec{x} \times \vec{y}'$$ and $$(\vec{x} \cdot \vec{y})' = \vec{x}' \cdot \vec{y} + \vec{x} \cdot \vec{y}'$$.
 
 
+---
 
+## Lecture 10: Celestial Mechanics, Mean Value Theorem, Higher order Partials
 
+**Theorem.**
+Let $$S \subseteq \mathbb{R}^n$$ be open, containing $$\vec{a}, \vec{b} \in \mathbb{R}^n$$ and it contains $$L$$ connecting $$\vec{a}$$ to $$\vec{b}$$.
+Suppose $$f : S \subset \mathbb{R}^n \to \mathbb{R}$$ is continuous on $$L$$ and differentiable on $$L$$, except perhaps the endpoints. 
+Then, there exists a point $$\vec{c} \in L$$ s.t. $$\nabla f(\vec{c}) \cdot (\vec{a} - \vec{a}) = f(\vec{b}) - f(\vec{a})$$.
+
+Proof.
+1. Let $$\vec{h} = \vec{b} - \vec{a}$$; then $$L = \{ \vec{a} + t \vec{h} \vert t \in [0, 1] \}$$.
+2. Let $$\phi(t) : [0, 1] \to \mathbb{R} = f(\vec{a} + t \vec{h})$$ is continuous and differentiable on $$(0, 1)$$
+3. We have $$\phi'(t) = \nabla f( \vec{a} + t \vec{h}) \cdot \frac{d}{dt} (\vec{a} + t \vec{h}) = \nabla f(\vec{a} + t \vec{h}) \cdot ( \vec{b} - \vec{a})$$
+4. With the 1D MVT, there exists some $$t_0$$ such that $$\phi'(t_0) = f(\vec{b}) - f(\vec{a}) = \nabla f(\vec{a} + t_0 \vec{h}) \cdot ( \vec{b} - \vec{a}) =: \nabla f(\vec{c}) \cdot (\vec{b} - \vec{a})$$.
+
+**Definition.**
+A set is convex if $$\vec{a}, \vec{b} \in S$$, then $$\vec{a} + t(\vec{b} - \vec{a}) \in S$$ for all $$t \in [0, 1]$$.
+- Convex functions: preimages of convex sets are convex.
+
+**Corollary.**
+If $$f \subseteq \mathbb{R}^n \to \mathbb{R}$$ is differentiable on $$S$$ open, convex; if $$\Vert \nabla f(\vec{x}) \Vert \le M$$, $$\forall \vec{x} \in S$$, then $$\forall \vec{a}, \vec{b} \in S$$, then $$\vert f(\vec{b}) - f(\vec{a}) \le M \Vert \vec{b} - \vec{a} \Vert$$.
+
+Proof.
+1. By convexity, from the MVT, $$\forall \vec{a}, \vec{b} \in S, \exists \vec{c} \in L_{\vec{a}, \vec{b}}$$ such hthat $$\nabbla f(\vec{c}) \cdot (\vec{b} - \vec{a}) = f(\vec{b}) - f(\vec{a})$$.
+2. Thus $$\vert f(\vec{b}) - f(\vec{a}) \vert \le \Vert \nabla f(\vec{c}) \Vert \Vert \vec{b} - \vec{a} \Vert \le M \Vert \vec{b} - \vec{a} \Vert$$.
+
+**Corollary.**
+If $$f$$ is differentiable on $$S$$, open and convex, and $$\nabla f(\vec{x}) = \vec{0}$$, \$$forall x \in S$$, then $$f$$ is constant on $$S$$. 
+
+**Theorem.**
+Suppose $$f$$ is differentiable on $$S$$, open and connected, and the gradient vanishes everywhere. Then $$f$$ i constant.
+
+**Higher Order Partials.**
+
+If $$f : S \subseteq \mathbb{R}^n \to \mathbb{R}$$ is differentiable on $$S$ and open.
+Its partials are also functions, which may also have partials.
 
 
 

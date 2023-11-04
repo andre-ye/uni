@@ -291,6 +291,45 @@ The visitor says that he will try to overcome this difficulty by examining how w
 
 ---
 
+## Stoic Metaphysics?
+
+### *Stoic Metaphysics*, Jacques Brunschwig
+- What even is metaphysics? What is 'meta-'?
+- For the Stoics, there is no science 'after' phsyics, nor above physics
+- Nature / phusis encompasses everything, including the supposedly supernatural.
+- Or... two metaphysics? Part of physics, and the tripartition of philosophy.
+- Metaphysics as part of physics
+    - Diogenes Laertius, the Stoics have specific vs generic physics
+    - Five specific topics: bodies, principles, elements, gods, and limits + place + void.
+    - Three generic topics: the world / kosmos, the elements, and the search for causes.
+    - Interestingly, the generic topics are more concrete than the specific one, and the specific topics are more abstract and theoretical
+    - In a generic perspective, the elements are subordinated to the kosmos, whereas they are principles in the specific perspective
+    - Stoics: theology is part of physics. 
+    - All of the topics in the specific division are primary. Bodies are the only genuinely existent things
+    - Metaphysics -- in the sense of Aristotle's "the science of first principles and causes", "first philosophy"
+- Or... maybe we can think of metaphysics as Aristotle's "the science of being qua being", and metpahysica generalis / ontology. The goal is to study every kind of object. And indeed the Stoics cared about defining and classifying items. But Stoics also raised questions not only about bodies but also virtues, the good, and logical items. **So Stoic ontology crosses many boundaries.**
+    - The standard tripartition
+
+Bodies
+- Stoic ontology is limited to bodies, only bodies are genuinely existent
+- This itself is not new -- Plato's "Battle of Giants" in the Sophist is illustrative. The Sons of the Earth affirm that only what exists resists; but the Stoics take this further though, it must have dunamis, capacity for acting and being acted upon. This was offered by Plato to force the corporealists that incorporeals like soul and moral virtues should be beings. But this itself will be turned against Plato's anti-corporealism
+- Stoic formula: disjunction allows for some bodies to be only active or only passive: logos / god and matter. Both must be bodies.
+    - Reisstance and the body -- tricky questions
+- Difference between Stoic materialism, a vitalist-teleological materialism, and theEpicurean mechanistic-antiteleological one.
+- Stoics can justify corporeality for entities which are not obviously corporeal, e.g. soul, moral virtues, and qualities are bodies which act and are acted on. Virtues are causes.
+- If some entity can be described as a body disposed in a way, this entity is itself a body. A fist is a disposed hand, and so it is a body
+- Truth is a body: it is the commanding faculty disposed in a certain way.
+
+Incorporeals
+- The Stoics did not force everything as a fully existent body
+- Stoic ontology allows for entities which are not onta but not nothing either -- they are something even though they are incorporeal
+- Stoic incorporeals: place, void, time, and lekta / sayables
+    - Not homogenous: first three are physical, fourth is... philosophy of language?
+- Why did the Stoics make them bodies still?
+    - Void -- void can be occupied by body but ceasing to be void when acted upon by entering body
+    - Place:place is something else than the occupying body, but is it corporeal or not? Bodies act upon their place by occupying it, or maybe space becomes disposed in a certain way.
+---
+
 ## *The Hellenistic Philosophers*, Long & Sedley
 
 ### 4: The principles of conservation (Epicureanism)
@@ -612,20 +651,225 @@ Discussion
 - Gods are bodies
 - Nonbodies -- there are no such things
 
+### 44: Principles
 
+A. Sextus Empiricus
+- The Stoics posit a difference between that which is whole and that which is all.
+- The world is whole, but void with world is all.
+- Whole is finite, all is infinite, since *void is infinite.
 
+B. Diogenes Laertius
+- The stoics say that there are two principles of the universe: acting and being acted upon
+- Acted upon: unqualified substance, matter
+- Acting: has reason in it, or god.
+- Principles are ungenerated and indestructible
+- Elements pass away at conflageration
+- Principles are incorporeal bodies and without form
+- ELements have form
 
+C. Sextus Empiricus
+- The substance of what exists needs to be set in motion and shaped by some cause
+- What moves the matter and shapes the structure in the universe?
+- It is a power which pervades it, just as soul pervades us.
+- A power is either self-moving or moved by someo ther power; but if it was moved by another power, then you would need a third power, etc. -- so you need a self-moving, divine, everlasting power
+- There is no definite time; it is everlasting
 
+D. Calcidius
+- Zeno: substance is finite and there is one common substrate of everything that exists
+- Substrate is divisible and continuously subject to change
+- There is no destroying into nothing, but the parts do change
+- There is no instric form or shape of matter
+- There is no existing of something from nothing or vice versa
 
+E. Calcidius
+- The universal body is limited and one and whole and substance
+- It is whole, does not lack parts
+- It is one, parts are inseparable
+- It is substance, prime matter of all bodies
+- Complete and universal reason passes like "seed through genitals"?
+- Matter always still exists and god the craftsman determines how things will come and die (to and from what exists)
 
+F. Diogenes Laertius
+- The world / kosmos is used by god, the peculiarly qualified individual consisting of all substance
+- World-order as the world
+- Kosmos as Composed both of god and worldorder
 
+Discussion
+- Stoic physical theory begins from the presupposition that a single world-order exists
+- What must the world have to be constituents.
+- Reason / logos or god or cause (active principle) and matter / substance (passive principle)
+- God and matter is not all, or literally everything
+- The world as a whole is surrounded by infinite void
+- Two rpinciples are not an exaustive account of everyhthing, but comprise the whole of the world
+- What differs radically is the insistence that only bodies can have causal efficacy. 
+- Empirical entities persist trhough change, so we distinguish between an object's matter and its shape or structure
+- Stoics explain all identifying characteristics by reference to a divine principle that shapes them
+- The world is matter and god
+- Matter needs god and god needs matter
+- Substance is unqualified, incapable of initiating motion, finite, common to every body, plastic, everlasting, one, whole
+- Matter is uniform
+- The world can persist indefinitely
+- Logos is always present in matter
+- The two principles of great "philosophical economy"
+- Introduce a divine causal agent imanent in matter
 
+### 45: Body
 
+A. Cicero, *Academica*
+- Zeno differed from Platonists and Peripatetics
+- It is totally impossible for something incorporeal to be the agent of anything
+- ONly body is capable of acting and being acted upon
 
+B. Sextus Empiricus, *Against the professors*
+- The incorporeal is not of a nature to act or be acted upon
 
+C. Nemesius
+- Cleanthes: no incorporeal interacts with a body, no body interacts with an incorporeal
+- Soul interacts with the body *when it is sick and cut* (?); the soul feels shame and fear and acts upon the body.
+- Soul must be a body
 
+D. Nemesius
+- Chrysippus -- death is a separation of soul from body.
+- Nothing incorporeal is separated from body, since an incorporeal does not even make contact with body.
+- So soul must be aa body
 
+E. Diogenes Laertius
+- Body has three dimensions: length, breadth, and depth -- solid body
 
+F. Galen, *On incorporeal bodies*
+- Are attributes body?
+
+G. Aristocles
+- Zeno says fire is the element of what exists (Heraclitus) and has god and matter (Plato)
+- God and matter are both bodies
+- Plato: first cause is incorporeal
+
+H. Alexander, *On Mixture*
+- God is mixed with matter, structuring the world
+
+Discussion
+- Corporeality of both god and matter
+- if only bodies are capable of acting and being acted upon, god and matter must be corporeal
+- Redefine body and reject Platonic and Aristotelean notion that incorporeals can have causal capacity
+- "Mathematical" definition of body as solid, resistance and threefold extension to distinguish body from place or empty space
+- "Contact" leads towards "Interaction" 
+- "Mixture"
+- Principles are bodies
+    - Any identifiable object is a body and constituted by principles
+    - One position: Principles are incorporeal -- conceptually distinguishable aspects of a single body
+    - But: then principles could not act and be acted upon.
+    - God and matter constitute acting and being acted upon, respectively.
+    - Particular bodies are of a dual nature, composites of matter and god
+    - Corporeality of principles
+    - INclusive vs exclusive notion of acting or being acted upon
+- Principles combine materialism of the Platonic Giants with the capacity to act/be acted upon (intended to undermine materialism)
+- Corporeal existence of god and matter as principles is not vacuous
+
+### 46 -- God, fire, cosmic cycle
+
+A. Aetius
+- God is an intelligent, designing frie which proceeds towards creation o f the world
+- Everything comes about according to fate
+
+B. Diogenes Laertius
+- God, intelligence, fate, Zeus
+- God created the four elements -- fire, water, air, earth
+- Pronouns
+
+C. Diogenes Laertius
+- World is created when substance is turned from frie through air into moisture
+- Creating plants and animals "by mixture"
+
+D. Stobaeus
+- Zeno: the sun and the moon are intelligent and prudent
+- There are two kinds of fire -- undesigning, and designing
+
+E. Plutarch, *On Stoic self-contradictions*
+- Zeus continues to grow until he has used up everything on himself
+- The world does not die
+- The world alone is self-sufficient
+
+F. Plutarch
+- The world is through and through alive and animal, but turns into water, earth, bodily nature
+- It acquries a different principle
+
+G. Aristocles
+- The entire world is subject to "conflgration" at times
+- The primary fire is "sperm" which possesses the principles (logoi) of all things
+- Inevitable, inescapable law -- determinism?
+- Everything in the world is "excellently organized"
+
+H. Origen
+- The god of the Stoics is a body
+
+I. Alexander Lycopolis
+- All will be subject to conflagration
+
+J. Diogenes Laertius
+- The Stoics suppose the world is perishable, since it is generated on the same principle as perceptible objects
+
+K. Eusebiusa
+- The world's period destruction into fire
+- Destruction
+- Dissolving into fire
+
+L. Plutarch
+- In conflagration, the sun assimilates the moon, and the stars fall into
+
+M. Philo
+- The conflagration of the world changes into flame or into light
+
+N. Plutarch
+- No evil remains after conflagration of the world; the whole is prudent and wise
+
+O. Seneca
+- What life will the wise man have when he is abandoned by his friends?
+- Like the life of eus when the world is dissolved; he reposes in himself.
+- Wise man's behavior: retire into himself, be with himself
+
+P. Philo
+- Doctrine of conflagration
+
+Discussion
+- Stoics laid stress on the intelligence and self-direction of the active principles
+- God is a designing fire
+- The Stoic god is not a detached Craftsman, but rather is activity in matter
+- God is the causal chain fo fate, life-history coextensive with the world he creates
+- Links between Stoic physics and Heraclitus' doctrine -- transformations of fire and identity of god and logos
+- Fire as a causal agent -- suggests a mechanistic method of explanation
+- Stoic god as fire
+- Activity of god in matter
+- God acts in the form of fire
+- The universe never ceases to have heat
+-  God's self-transformation, rational commanding faculty of the universe
+- Imagination is powerful and compelling
+- Materialist foundations of Stoic theology
+
+### 47: Elements, breath, tenor, tension
+
+A. Stobaeus
+- Chrysippus -- there are four elements, fire, air, water, and earth -- and animals, plants, etc. are dissolved into these
+- The element par excellence -- does not dissolve into anything else, but itelf is dissolved into. Fire is the element sui generis -- constitutive along with others.
+- Element:
+    - Fire
+    - Four elements and other terrestrial compounds
+    - Element is what is primarily composed such that it generates from itelf until it is consumed
+
+B. Diogenes Laertius
+- Fire is the hot element
+- Water is the moist element
+- Air is the cold element
+- Earth si the dry element
+- Fire is called aether out in space
+
+C. Cicero
+- All things which undergo nurture and growth contain within themselves a heat source
+- When our heat is extinguished, we ourselves die.
+- A living thing's heart beats like the swiftness of fire
+- Every living thing is alive on account of its heat
+- There is sensation and reason in parts of the world
+- The world must be wise
+- The world must be god, there must be a sustaining divine element
 
 
 

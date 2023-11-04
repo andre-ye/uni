@@ -479,7 +479,84 @@ Plato, *Sophists*
 - *dunamis* proposal, a thing is if it has any capacity, causality. A thing is if it has any capacity. Being is what has capacity. This is the view of the "reformed giants"
 - Are the Stoics earthborn or reformed giants?
 - Cross-examination of the "friends of the forms" -- true being is nonbodily forms that are the objects of thought. So knowledge is a way of the soul acting on a form, and the form acting on a souol. Either you deny that anything is intelligent, or that being is unchanging
-- 249D: 
+
+---
+
+## Week 6 Monday - Body
+- "something" is the highest genus in Stoic ontology -- it is a proper object of thought, discourse, etc.
+- There are bodies and incorporeals (substrate, qualified, disposed, relatiely disposed), or non-bodies (sayables, void, place, time)
+    - Bodies are either causal patients or agents
+    - Incorporeals are neither causal patients nor agents
+- Dunamis proposal: whatever is real is what has a capacity
+- Sayables are not sentences or thoughts; a thought is a disposition of the soul. The content of a thought is a sayable.
+- The Stoics don't have a world filled with pockets of void, e.g. in composites; it is just outside of the world and allows for the expansion or contraction of the world
+- Place is real within the world, because it is just the extension occupied by a body
+- Time is a measure of the motion of bodies
+- Ongoing debate over what these have in common; is incorporeality a natural kind in Stoicism?
+
+What is body?
+- Stoics vs Epicureans: in the Epicurean model, body interacts with void by pushing into it. The Stoics don't allow this, because void cannot be a causal patient.
+- Coming to know something is a way for the soul to be acted upon. Knowing justice is the soul being acted upon by virtue. 
+- Stoic argument: the soul is a body
+- Body and soul are through-and-through mixed, you are a belend of soul and bottom, to the extent tht you can 'ix' tejhem that way
+- Incorporeals are body
+- Unified body -- you can't separate it really.
+- Passive matter.
+- God is mixed with matter, shaping and pervading all of it
+- On principles: distinguishing between the whole and the all
+- Formers are ungenerated and indestructible
+- Principles are also bodies and without form, but elements are endowed with form.
+- Passive principle and active principle. 
+- At the most fundamental, all bodies are composed of passive and active principle. 
+- Things are what they are through active principle and passive principle. But you can't ever separate the two.
+- Elements -- you will get the archi at the most fundamental level, and at one level of complexit y above that, the elements -- fire, water, earth, air. Each of these is a combination of passive and active principle. Everything above the elements are a combination of it.
+- Working theology into physics -- god and Zeus, everything is constituted by Zeus
+- Shift away from ancient ontologies before the Hellenistic period. Aristotle's ontology -- everything comes out of matter and form (the thing which shapes the matter, what makes a lump of clay into a flower pot, it gets shape & identity)
+- Form is non-bodily
+- But do not impose a hylomorphic conception of passive and active principle, you can separate substrate from body, and qualified becomes quality. Importantly, the Stoic account is not hylomorphic. It's a combination of two bodies.
+
+---
+
+## Week 6 Wednesday -- God, Fire, Breath, Tenor, Element
+- Epicurus -- kind of a religious cult, Stoics -- more of a research institution vibe.
+- In what sense are the stoics a cohesive whole?
+- God as intelligent, designing fire, responsible for creating the world as it is, but also a breath that pervades everything in the world
+- Responsible for the differentiation of body in the world
+- God is the seminal principle of the world
+- Fundamentally, active principle and passive principle. One level higher: elements. And one level higher: differentiated bodies
+- Elements turn into and out of each other -- and there is an order, fire, air, water, earth
+- There is unintelligent vs intelligent / designing fire
+- Conflagration -- when the world is all fire, so we get the world-order. It's a different interval in time.
+- Epicureans: macroscopic to microscopic
+- Stoics: microscopic to macroscopic
+- "Microscopic" is very different in Epicureans vs Stoics
+- Active principle is fire, because -- medical writer sposit heat as the vital principle of all animate life.
+- The world is a living being identical with god, or rather having god as its commanding faculty
+- Fire is the only element with vitalizing power
+- Pneuma -- "breath", fire + air
+- Logos is pneuma, or breath; vehicle of logos, the active principle is not just a simple compound of air and fire, but artistic / intelligent / craftmanslike pneuma -- they're picking out different aspects
+- Pneuma is an agent capable of rational action. It designs the world; it is craftmanslike
+- Air and fire are active; earth and water are passive -- getting  away for active principle and passive principle to map onto the four elements. You need to have thi because once you posit pneuma is your vital principle, then this motivates a distinction between active ad passive (lemenets)
+- Pneuma is of a tenor kind. Tenor -- breath which turns back towards itself. This makes tenor indestructible.
+- Pneuma has two opposing properties, heat (fire) nad cold (air) -- so pneuma is fundamentally compbined by opposites
+- Pneuma moves away from itself because heat expands, but also towards itself by cold. (Convection?) This simultaneous movement is tension / tensile movement.
+- How does pneuma interact with the passive elements? By permeating it completely, with through-and-through blending
+- Pneuma and the passive elements are all bodies. But at this itme, two bodies cannot occupy the same place at the same time. Yet this assumes they are solid.
+- Juxtaposition -- mehcanical combination. Parts are related to each other by surface-to-surface contact. 
+- Fusion -- you cannot separate consistuents -- they will not retain essential featuress and they cannot be removed from the mixture
+- Blending: in between juxtaposition and fusion.
+- All constituents of a blend are coextensive with other consistutents, but they and their properties can be removed.
+    - e.g. soul, body
+- To read for next time -- what are the categories?
+
+
+
+
+
+
+
+
+
 
 
 

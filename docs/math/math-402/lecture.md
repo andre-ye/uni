@@ -201,9 +201,31 @@ Hierarchy of rings
   - Characteristic of a ring
   - Fields
 - Almost anything you can define in terms of ring properties is going to be preserved by isomorphism, because it has to obey the ring structure
+
+---
+
+## Week 6 Monday -- Polynomial Rings
+- If your ring has zero divisors, then the sum/product of two polynomial rings can have a smaller degree than either.
+
+---
+
+## Week 6 Wednesday -- Polynomial Rings
+- Different interesting properties of systems:
+  - Does unique factorizatio nhold? Then the ring is a unique factorization domain. If a ring is a UFD, then if you take the polynomials over that ring, then the polynomial ring is also a unique factorization domain
+  - Does there exist a notion of GCD, where $$d = a \cdot x + b \cdot y$$ for some $$x, y \in S$$? Theorem -- this holds iff a ring is a principal ideal domain
+  - Does there exist an application of the division algorithm and a degree / complexity function? Then the ring is a Euclidean domain.
+  - Euclidean domain implies principal ideal domain implies unique factorization domain
+  - Unique factorization and irreducibility imply each other
+- Polynomials over the integers are not PIDs. 
+- Other Euclidean domains: $$\mathbb{Z}[i] \subseteq \mathbb{C}$$
+
+---
+
+## Week 6 Friday -- Factorization, Polynomials
+- Standard interpretation in algebra II: roots are the intersection of $$y = 0$$ with $$y = f(x)$$ in $$\mathbb{R}^2$$
+- In 402, $$x$$ is not a variable, but an indeterminate, a placeholder to keep things sseparate
+- Factor theorem: being a root is the same as $$(x - a) \vert f(x)$$
 - 
-
-
 
 
 

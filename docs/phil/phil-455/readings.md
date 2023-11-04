@@ -610,12 +610,74 @@ Objections and replies
 ## Week 6: Racial Deflationism
 
 ### "Deflating Race", Lionel McPherson
-- 
+- The *word* "race" has been searching for a stable idea for hundreds of years -- philosophy to biology, etc.
+- Is race witches and phlogiston?
+- Race means different things to different speakers
+- Can we rehabilitate a popular conception of race? Probably not
+- Instead, we should pursue socioancestral thinking.
+- There is too much "noise" with the 'race' signal. A master concept of race is unproductive.
+- Eliminativism: a racial skeptic for whom race talk is an error or even a lie, and that we should remove it from our vocabularies. 
+- Deflationary pluralism: race talk is not necessarily an error. Maybe races do exist, or they don't. Race signifies many different things; the "burden of a racist history" means we should let go of the race idea
+- "Race" is not reducible either to biology or continental ancestry.
+- There is no stable core to the race idea.
 
+1 -- A Very Brief History of the Race Idea
+- Francois Bernier, 1994: race as discrete human groups organized on skin color
+- Thin idea of race: race is only slightly more than skin deep
+- Physical differences of race are heritable
+- Race becomes less innocuous during the Enlightenment
+- Kant's scientific spin on the race idea: species vs race, they are the same species but constitute different races
+  - Climate science and such
+  - Steven Pinker: the "dangerous idea of the next decade" -- groups of people differ genetically
+  - Is resistance to this kind of work merely ideological and antiscientific commitment to equality of persons?
+- Group differences pertain to statistical distributions, not to individuals. 
+- No one disputes that certain physical characteristics are highly correlated with continental ancestry.
+- Why have race theorists been so preoccuppied with differences in intelligence? Biological determinism -- behavioral norms and social/economic differences arise from biology.
+  - Intervening in "natural inequality" would be futile
+- How might history yield a master concept for recognizing patterns of physical difference and racism? It was and is contested, which is why there is always eternal controversy over the word's meaning.
+- Kant is the founding father of  racial essentialism: physical difference patterns are a sign of uniform traits for cognitive differences
+- Racial essentialism is still the core of race
 
+2 -- Renewed Race Science
+- Some scientists and philosophers of science defend the notion of major human races biological
+- Few race theorists subscribe to core racial essentialism
+- Doub tabout significant cogntivie differences between races (Sesardic, Levin)
+- Ernst Mayr: race comes from taxonomy, the practice of classification
+- Taxonomic definition of 'race' is circular 
+- Why are there so many "people of African descent" in the Olympics sprint finals? Are black sof athletically superior body and lesser mind. 
+- Critique of Mayr's subspecies concept: the notion of genetic distinction is subjective and arbitrary in taxonomy. There is no natural, objective criteria for drawing boundaries -- what characteristics? WHat thresholds? etc.
+- The global economy has complicated population isolation
+- Philosophers of science try to improve upon conceptually naive taxonomies of human races
+- Philip Kitcher and Robin Andreasen -- phylogenetic approach defining races as part of lineage
+- Vindicating the race idea through epidemiology?
+- Even a complex racial taxonomy perpetuates essentialist myths and confusions
 
+3 -- Constructing a meaning of race
+- Race is thickly real as a social kind of thing
+- Race is mainly a social construction.
+- Groups become races when nonbiological differences are tied to physical differences
+- So still: what is race, really? Sally Haslanger, there are competing theories of meaning applied to philosophy of language problems
+- Haslanger: the meaning of race arises from shared meanings. Our idea of race is not committed to a biological basis.
 
+4 -- Racial Pragmatism
+- Trying to sustain the race idea is going to sustain critical errors -- "there is nothing that can do all that we ask 'race' to do for us"
+- Any account of substantial racial difference is lost without racial essences.
+- Appiah's eliminativism renders racial identities hostage to belief in racial essences
+- Racial identities can be socially important
+- Cornel West: Du Bois is an American pragmatist
+- Racial groups were thought to be thick natural races, and they have been treated as such
+- Visible continental ancestry, not the race idea, is the root of the social reality of color consciousness
+- Deflationary approach: it all depends on what 'race' is taken to mean
+- Racial thinking remains unstable
+- There is no master meaning on the horizon
 
+5 -- Introducing Socioancestry
+- Skepticism about the race idea deos not entail rejecting color-conscious thinking
+- Racial identities can be important in resisting racism
+- Do not mistake racial identity as a species of cultural identity.
+- Black Americans might be better with a weaker attachment to their (incoherent) racial identity. 
+- Reframing racial thinking as socioancestral thinking: socioancestral groups give rise to socioancestral identities, rathert han refusing to recognize color-conscious reality or racial identities.
+- Facts about continental ancestry do not necessarily mean things like one-drop, etc. 
 
 
 
