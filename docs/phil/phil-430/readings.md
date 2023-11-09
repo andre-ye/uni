@@ -327,7 +327,7 @@ Incorporeals
     - Not homogenous: first three are physical, fourth is... philosophy of language?
 - Why did the Stoics make them bodies still?
     - Void -- void can be occupied by body but ceasing to be void when acted upon by entering body
-    - Place:place is something else than the occupying body, but is it corporeal or not? Bodies act upon their place by occupying it, or maybe space becomes disposed in a certain way.
+    - Place: place is something else than the occupying body, but is it corporeal or not? Bodies act upon their place by occupying it, or maybe space becomes disposed in a certain way.
     - Time -- very complex but central. Time shares important features with void. But also... no time is exactly present. So the stoics say the present as extended contains a part of itself already past and another one still to come. but also: waht gives the present its presentness is the motion of an intervla or dimension / diastema. Time is incorporeal
     - Lekton -- language as opposed to physics? But no -- bodies and incorporeals lead the Stoics to declare lekta. A vocal sound is a body, air struck in a certain way. Three linked items: vocal sound (signifying), the external objectt (making the signifying thing), and the actual thing made manifest by the vocal sound (the signified). Lekton are the things signified. Sextus -- lekton is incorporeal and we grasp it. But also: distinction between the thing signified and thought. Lekton: what can be said. Possibly independent from thought? Intersubjectivity becomes a step towards objectivity.
 - Are the canonical lekta exhaustive?
@@ -341,6 +341,100 @@ Something, Not-Something, Nothing
 - Seneca -- connection with Platonic ontology, division of species into corporeal and incorporeal
     - quasi-beings?
 - Seneca -- do the stoics want to posit another genus "above being"? Is there some kind of division $$D^2$$, where the supreme genus is the something, but things which are not are also things?
+
+### "Sons of the Earth: Are the Stoics Metaphysical Brutes?", Katja Vogt
+
+- Stoics: theory of corporeals allows for theory of bodies to be a theory of causation, agency, and reason
+- Engagement of the Stoics with Plato's *Sophist*
+- Stoics are sophisticated Sons of the Earth
+- The corporeal god is the one cause of all movements and actions in the universe.
+
+
+
+
+- Plato: Sons of the Earth
+- Only recognize bodies as existence
+- Plato: these people are burtish and maybe not even philosophers
+- Stoics: sophisticated Sons of the Earth
+- god, soul, and state of the soul, and movements of the soul, are corporeals
+- Focus on corporeals are essential -- it explains why the Stoics do not have a metaphysics.
+
+
+1 -- Corporeals
+- Stoics -- two principles constitute physical reality together: god and matter, activce and passive principle. 
+- Matter is divisible but does not divide itslef into parts
+- Corporeal: act or be acted upon, or to be inclusive or
+- You need incorporeals too
+- A corporeal acts on a corporeal, and the effect is a predicate
+- The supreme genus is "somethings"
+- For something to be a cause, it must be a body, and it must be active
+- Differences in the composition of fiery breath produces different kinds of beings.
+- Individuation by breath
+- Movement is also explained by breath
+- Plants have natures which move out of themselves; animals move by themselves; rational beings have breath in the highest sense, or reason
+- Stoics: the universe is a large living being
+- The universe is a living being -- it is an agent, its movements are actions
+- Stoics need a force which runs through everything, both which gives corporeals their cohesion, but also connects particular things as part of a whole
+- This is god / world soul
+
+2 -- The *Sophist*: Body versus Being
+
+- Plato: the battle of the giants
+- Friends of the Forms vs. the Sons of the Earth (Hesiod's *Theogony*: earthly Titans)
+- The Sons of the Earth, in focusing on corporeals, miss out on the immaterial and transcendent entities
+- Two core claims of the sons of the earth
+    - Only that which can be touched is
+    - Body and being are the same
+- Sons of the Earth hesitate when asked whether justice and wisdom are tangible, they are at a loss.
+- Eleatic Stranger: new capacity of dunamis, causal capacity
+- But the real Sons of the Earth happily agree that wisdom is a body
+- Stoics are untamed but sophisticated Sons of Earth
+- Stoics do not accept the view that being is power. Rather, everything has the capacity to cause and underrgo effects.
+- Being is power is used to explain bodies and causality, rather than to provide a positive answer to the question of being
+- Sons of Earth look at the earth; so do the Stoics. Physics is an account which provides us with a deep understanding of reality.
+- Stoics do not take themselves to be engaged firstly with the idea of being. It is not beginning from being as power. The Stoics conceive of physics -- causality and corporeal principles -- as the starting point of a deep understanding of reality.
+    - The stoics do not have the theory to answer the question of being.
+- Should we even ascribe any metaphysics to the Stoics? WHat do we even mean?
+    - Brunschwig: two approaches assocaited with Aristotle
+    - Metaphysics: referring to a science of first principles and first causes
+    - Dealing with primary entities: bodies, principles, elements, gods, limit-place-void.
+- This appears to be helpful. But there is a big distinction between Stoic and Platonic/Aristotelian philosophy.
+- Perhaps metaphysics is being qua being, or ontology. But the Stoics do not use Aristotelian notions. Stoics engage in ontological classifications, sure, but they aren't motivated by the question of what an object which is is.
+- ... so... we need to be much more cautious. 
+- Us talking about Stoic metapjhysics is imposing upon the past
+
+3 -- Somethings, Being, and Non-Being
+- Stoics aim to turn away from a sciecne which studies what-is, but rather gies us a deep and fundamental understanding of reality
+- Notion vs non-being. 
+- Eleatic Stranger: If we can refer to something as something, then it is.
+- Stoics: no. "somethings" is the supreme genus; "what is" is not a higher genus
+- Stoics: not-being refers to something; corporeals exist, but this does not mean incorporeals are not.
+- "Being" is simply identified with 'body' such that 'what is not' must be identified with 'the incorporeal' -- nah, we should resist this notion
+- In fact how we present the Stoic's first distinction is very important. Sextus Empiricus vs Seneca
+
+- Seneca: "what is" divided into the corporeal and the incorporeal; there is no third possibility
+- Seneca begins from the supreme genus "what is", taeks position that both corporeals and incorporeals are.
+- Seneca's beginning from "what is" and then suggesting both corporeals and incorporeals are, is incompatible with Stoicism.
+- *ousia* and *to on*
+- Seneca kind of turns back to Plato
+- Letter 58 -- should you frame your investigations as into being?
+- Seneca: there is no need to move to a higher genus than what is, and no need to move towards somethings.
+- Seneca thinks he can begin with what is and never address what is not. But this contradict's precisely Plato's point: we have to face difficulties with not-being if we frame philosophy as the study of being.
+
+4 -- One Cause of All Movement
+- The Stoics are Sons of Earth, in that they look at earth and think that the most basic account philosophy can offer is one which explains the physical universe.
+- God is the cause of movement.
+- Stoic philosophy identifies one cause for all movements of and within the universe.
+- Plato: givs some Socratic pseudo-biography in *Phaedo*. 
+- Necessary conditions vs causes
+- *Nous* -- Socrates' explanation of human action and generations + destructions in the cosmos.
+- Stoics reject Platonic forms
+- Stoics: logos is the cause, not nous. Stoics: we are able to find one kind of cause for all movements in the universe. Reason / logos / god
+- Everything must b epermeated, then, with reason / soul. So we have to have different degrees of soul
+- Stoic commitment to reason as cause is key to understanding corporeals.
+- Socratic intuition: there is only one kind of cause. Stoics: soul must physically pervade the human body.
+- An agent's reason is only part of the universe's reason
+- Stoics are sophisticated sons of the earth.
 
 ---
 
