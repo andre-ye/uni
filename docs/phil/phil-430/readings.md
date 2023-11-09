@@ -328,6 +328,20 @@ Incorporeals
 - Why did the Stoics make them bodies still?
     - Void -- void can be occupied by body but ceasing to be void when acted upon by entering body
     - Place:place is something else than the occupying body, but is it corporeal or not? Bodies act upon their place by occupying it, or maybe space becomes disposed in a certain way.
+    - Time -- very complex but central. Time shares important features with void. But also... no time is exactly present. So the stoics say the present as extended contains a part of itself already past and another one still to come. but also: waht gives the present its presentness is the motion of an intervla or dimension / diastema. Time is incorporeal
+    - Lekton -- language as opposed to physics? But no -- bodies and incorporeals lead the Stoics to declare lekta. A vocal sound is a body, air struck in a certain way. Three linked items: vocal sound (signifying), the external objectt (making the signifying thing), and the actual thing made manifest by the vocal sound (the signified). Lekton are the things signified. Sextus -- lekton is incorporeal and we grasp it. But also: distinction between the thing signified and thought. Lekton: what can be said. Possibly independent from thought? Intersubjectivity becomes a step towards objectivity.
+- Are the canonical lekta exhaustive?
+- Maybe geometrical limits can be added.
+
+Something, Not-Something, Nothing
+- Being something -- the only common feature of bodies and incorporeals.
+- To be something is to be some thing, i.e. some particular thing.
+- The only things left out of the supreme genus are universals
+- Universals, concepts, etc.
+- Seneca -- connection with Platonic ontology, division of species into corporeal and incorporeal
+    - quasi-beings?
+- Seneca -- do the stoics want to posit another genus "above being"? Is there some kind of division $$D^2$$, where the supreme genus is the something, but things which are not are also things?
+
 ---
 
 ## *The Hellenistic Philosophers*, Long & Sedley

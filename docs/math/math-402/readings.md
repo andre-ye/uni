@@ -629,12 +629,42 @@ Let $$F$$ be an infinite field and $$f(x), g(x) \in F[x]$$.
 Then $$f(x)$$ and $$g(x)$$ induce the same function from $$F$$ to $$F$$ iff $$f(x) = g(x)$$ in $$F[x]$$.
 
 
+### 4.5: Irreducibility in $$\mathbb{Q}[x]$$
 
+- Factoring in $$\mathbb{Q}[x]$$ can be reduced to factoring in $$\mathbb{Z}[x]$$.
+- If $$f(x) \in \mathbb{Q}[x]$$, then $$cf(x)$$ has integer coefficients for some nonzero integer $$c$$.
+- Factor theorem: finding first-degree factors of a polynomial in $$\mathbb{Q}[x]$$ is equivlaent to finding the roots of $$g(x) \in \mathbb{Q}$$.
 
+**Theorem 4.21.** The Rational Root Test.
+Let $$f(x) = a_n x^n + a_{n-1} x^{n-1} + \hdots + a_1 x + a_0$$ be a polynomial with integer coefficients.
+If $$r \neq 0$$ and the rational number $$r/s$$ in lowest terms is a root of $$f(x)$$, then $$r \vert a_0$$ and $$s \vert a_n$$.
 
+- If $$f(x) \in \mathbb{Q}[x]$$, then $$cf(x)$$ has integer coefficients for some nonzero integer $$c$$.
 
+**Lemma 4.22.**
+Let $$f(x), g(x), h(x) \in \mathbb{Z}[x]$$ with $$f(x) = g(x) h(x)$$.
+If $$p$$ is a prime that divides every coefficient of $$h(x)$$, then either $$p$$ divides every coefficient of $$g(x)$$ or $$p$$ divides every coefficient of $$h(x)$$. 
 
+**Theorem 4.23.**
+Let $$f(x)$$ be a polynomial with integer coefficients.
+Then $$f(x)$$ factors as a product of polynomials of degrees $$m$$ and $$n$$ in $$\mathbb{Q}[x]$$ iff $$f(x)$$ factors as a product of polynomials of degrees $$m$$ and $$n$$ in $$\mathbb{Z}[x]$$.
 
+**Theorem 4.24.**
+Eisenstein's Criterion.
+Let $$f(x) = a_n x^n + \hdots + a_1 x + a_0$$ be a nonconstant polynomial with integer coefficients.
+If there is a prime $$p$$ such that $$p$$ divides each of $$a-0, a_1, \hdots, a_{n-1}$$ but $$p$$ does not divide $$a_n$$ and $$p^2$$ does not divide $$a_0$$, then $$f(x)$$ is irreducible in $$\mathbb{Q}[x]$$.
+
+The polynomial $$x%n + 5$$ is reducible in $$\mathbb{Q}[x]$$ for each $$n \ge 1$$.
+Therefore, there are irreducible polynomials of every degree in $$\mathbb{Q}[x]$$.
+
+If $$f(x) = a_k x^k + \hdots + a_1 x + a_0$$, $$\bar{f}(x) = [a_k] x^k + \hdots + [a_1] x + [a_0] \in \mathbb{Z}_p[x]$$.
+These two polynomials will have the same degree when the leading coefficient of $$f(x)$$ is not divisible by $$p$$.
+
+**Theorem 4.25.**
+Let $$f(x) = a_k x^k + \hdots + a_1 x + a_0$$ be a polynomial with integer coefficients, and let $$p$$ be a positiv eprime that does not divide $$a_k$$. 
+If $$\bar{f}(x)$$ is irreducible in $$\mathbb{Z}_p[x]$$, then $$f(x)$$ is irreducible in $$\mathbb{Q}[x]$$.
+
+For every non-negative integer $$k$$, there are only finitely many polynomials of degree $$k$$ in $$\mathbb{Z}_p[x]$$, so in fact you can determine whether any given polynomial in $$\mathbb{Z}_p$$ is irreducible by checking a finite number of factors.
 
 
 

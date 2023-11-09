@@ -804,6 +804,29 @@ Suppose $$f$$ is differentiable on $$S$$, open and connected, and the gradient v
 If $$f : S \subseteq \mathbb{R}^n \to \mathbb{R}$$ is differentiable on $$S$ and open.
 Its partials are also functions, which may also have partials.
 
+---
+
+## Lecture 11: Taylor's Theorem, Critical Points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

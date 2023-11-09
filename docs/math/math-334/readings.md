@@ -284,7 +284,7 @@ $$P_{a, k}(h) = \sum_{j = 0}^k \frac{f^{(j)}(a)}{j!} h^j$$
 
 - The $$k$$-th order taylor remainder is given by
 
-$$R_{a, k}(h) = f(a + h) - P_{a, k}(h) = f(a + h) - \sum_{j = 0}^k \frac{f^{(j)}(a)}{j!} h^j$$
+$$R_{a, k}(h) = f(a + h) - P_{a, k}(h) = f(a + h) - \sum_{j = 0}^k \frac{f^{(j)(a)}{j!} h^j$$
 
 - The Taylor polynomial is a godo approximation of $$f$$ near $$a$$.
 
@@ -327,13 +327,91 @@ The Taylor Polynomials of degree $$k$$ about $$a = 0$$ are:
 - Taylro polynomials can approximate complicated functions with easier computations
 - Theoretically, importantly, the behavior of any function near some point is determined by the first nonvanishing term
 - Suppsoe $$f : \mathbb{R}^n \to \mathbb{R}$$ is of class $$C^k$$ on a convex open set $$S$$. We can derive a Taylor expansion for $$f(\mathbf{x})$$ about a point $$\mathbf{a} \in S$$ by looking at the restriction of $$f$$ and the line joining $$\mathbf{a}$$ and $$\mathbf{x}$$.
-- With $$\mathbf{h} = \mathbf{x} - \mathbf{a}$$
+- With $$\mathbf{h} = \mathbf{x} - \mathbf{a}$$ and $$g(t) = f(\mathbf{a} + t(\mathbf{x} _ \mathbf{a})) = f(\mathbf{a} + t \mathbf{h})$$; so $$g'(t) = \mathbf{h} \cdot \nabla f(\mathbf{a} + t \mathbf{h})$$
+
+**Theorem 2.68.** -- Taylor's Theorem in Several Variables.
+Suppose $$f : \mathbb{R}^n \to \mathbb{R}$$ is a class $$C^k$$ on an open convex set $$S$$.
+If $$\mathbf{a} \in S$$ and $$\mathbf{a} + \mathbf{h} \in S$$. Then
+
+$$f(\mathbf{a} + \mathbf{h}) = \sum_{\vert \alpha \vert \le k} \frac{\partial^\alpha f(\mathbf{a})}{\alpha!} \mathbf{h}^\alpha + R_{\mathbf{a}, k}(\mathbf{h})$$
+
+**Corollary 2.75.**
+If $$f$$ is of class $$C^k$$ on $$S$$, then $$R_{\mathbf{a}, k}(\mathbf{h}) / \vert \mathbf{h} \vert^k \to 0$$ as $$\mathbf{h} \to 0$$.
+
+**Lemma 2.76.**
+If $$P(\mathbf{h})$$ is a polynomial of degree $$\le k$$ that vanishes to order $$> k$$ as $$\mathbf{h} \to 0$$.
+
+**Theorem 2.77.**
+Suppose $$f$$ is of class $$C^{(k)}$$ near $$\mathbf{a}$$.
+If $$f(\mathbf{a} + \mathbf{h}) = Q(\mathbf{h}) + E(\mathbf{h})$$ where $$Q$$ is a polynomial of degree $$\le k$$ and $$E(\mathbf{h}) / \vert \mathbf{h} \vert^k \to 0$$ as $$\mathbf{h} \to \mathbf{0}$$, then $$Q$$ is the Taylor polynomial $$P_{\mathbf{a}, k}$$.
+
+### 2.8: Critical Points
+- $$\mathbf{a} \in S$$ is a critical point for $$f$$ if $$\nabla f(\mathbf{a}) = \mathbf{0}$$.
+- $$f$$ has a local maximum at $$\mathbf{a}$$ if $$f(\mathbf{x}) \le f(\mathbf{a})$$ for all $$\mathbf{x}$$ in some neighborhood of $$\mathbf{a}$$
+
+**Proposition 2.78.**
+If $$f$$ has a local max or min at $$\mathbf{a}$$ and $$f$$ is differentiable at $$\mathbf{a}$$, then $$\nabla f(\mathbf{a}) = \mathbf{0}$$.
+
+- How can we tell if a function has a local maximum or minimum?
+- If $$f$$ is of class $$C^2$$, then $$f$$ has a local min at $$a$$ if $$f''(a) > 0$$.
+
+**Definition.**
+Suppose $$f$$ is a real-valued function of class $$C^2$$ on some open set $$S \subset \mathbb{R}^n$$ and $$f$$ has a critical point at $$\mathbf{a}$$. One needs an $$n \times n$$ matrix $$H$$
+
+$$H = H(\mathbf{a}) = \begin{pmatrix} \del_1^2 f(\mathbf{a}) & \del_1 \del_2 f(\mathbf{a}) & \hdots & \del_1 \del_n f(\mathbf{a}) \\ \del_2 \del_1 f(\mathbf{a}) & \del_2^2 f(\mathbf{a}) & \hdots & \del_2 \del_n f(\mathbf{a}) \\ \vdots & \vdots & \ddots & \vdots \\ \del_n \del_1 f(\mathbf{a}) & \del_n \del_2 f(\mathbf{a}) & \hdots & \del_n^2 f(\mathbf{a}) \end{pmatrix}$$
+
+- The Hessian is always a symmetric matrix
+- Spectral theorem: every symmetric matrix has an orthonormal eigenbasis
+
+**Theorem 2.81.**
+Suppose $$f$$ is of class $$C^2$$ at $$\mathbf{a}$$ and that $$\nabla f(\mathbf{a}) = 0$$, and let $$H$$ be the Hessian matrix.
+For $$f$$ to have a local min at $$\mathbf{a}$$, it is necessary for the eigenvalues of $$H$$ all to be nonnegative and sufficient for them all to be strictly positive.
+For $$f$$ to hav ea local max at $$\mathbf{a}$$, it is necessary for the eigenvalues of $$H$$ all to be nonpositive and sufficient for them all to be strictly negative.
+- If two eigenvalues have opposite signs, $$f$$ has a saddle point.
+- A critical point for which zero is an eigenvalue of the Hessian is degenerate (like Vivek)
+
+**Theorem 2.8.**
+Suppose $$f$$ is of class $$C^2$$ on an open set in $$\mathbb{R}^2$$ containing the point $$\mathbf{a}$$, and suppose $$\nabla f(\mathbf{a}) = \mathbf{0}$$.
+Let $$\alpha = \del_1^2 f(\mathbf{a}), \beta = \del_1 \del_2 f(\mathbf{a}), \gamma = \del_2^2 f(\mathbf{a})$$.
+1. If $$\alpha \gamma - \beta^2 < 0$$, $$f$$ has a saddle point at $$\mathbf{a}$$.
+2. If $$\alpha \gamma - \beta^2 > 0$$ and $$\alpha > 0$$, $$f$$ has a local min at $$\mathbf{a}$$.
+3. If $$\alpha \gamma - \beta^2 > 0$$ and $$\alpha < 0$$, $$f$$ has a local max at $$\mathbf{a}$$.
+4. If $$\alpha \gamma - \beta^2 = 0$$, the test is inconclusive.
 
 
+### 2.10: Vector-Valued Functions and Their Derivatives
+- It can be useful to consider vector-valued functions -- i.e. mappings from $$\mathbb{R}^n$$ to $$\mathbb{R}^m$$, $$n, m > 0 \in \mathbb{Z}$$.
 
+$$\mathbf{f}(\mathbf{x}) = (f_1(\mathbf{x}), f_2(\mathbf{x}), ..., f_m(\mathbf{x}))$$
 
+- A mapping $$\mathbf{f}$$ from $$S \in \mathbb{R}^n$$ to $$\mathbb{R}^m$$ is differentiable at $$\mathbf{a} \in S$$ if $$\exists$$ an $$m \times n$$ matrix $$L$$ such that
 
+$$\lim_{\mathbf{h} \to \mathbf{0}} \frac{\vert \mathbf{f}(\mathbf{a} + \mathbf{h}) - \mathbf{f}(\mathbf{a}) - L \mathbf{h}}{\vert \mathbf{h} \vert} = 0$$
 
+- There can only be one such derivative, the **Frechet derivative.** -- $$D\mathbf{f}(\mathbf{a})$$.
+
+**Proposition 2.85.**
+An $$\mathbb{R}^m$$-valued function $$\mathbf{f}$$ is differentiable at $$\mathbf{a}$$ precisely when each of its components $$f_1, ..., f_m$$ is differentiable at $$\mathbf{a}$$.
+$$D\mathbf{f}(\mathbf{a})$$ is a matrix whose $$j$$th row is the row vecvtor $$\nabla f_j(\mathbf{a})$$.
+
+**Theorem 2.86.** -- Chain Rule III.
+Suppose $$\mathbf{g} : \mathbb{R}^k \to \mathbb{R}^n$$ is differentiable at $$\mathbf{a} \in \mathbb{R}^k$$ and $$\mathbf{f} : \mathbb{R}^n \to \mathbb{R}^m$$ is differentiable at $$\mathbf{g}(\mathbf{a}) \in \mathbb{R}^n$$.
+$$\mathbb{H} = \mathbf{f} \circ \mathbf{g} : \mathbb{R}^k \to \mathbb{R}^m$$ is differentiable at $$\mathbf{a}$$, and
+
+$$D \mathbf{H}(\mathbf{a}) = D\mathbf{f}(\mathbf{g}(\mathbf{a})) D\mathbf{g}(\mathbf{a})$$
+
+where the expression on the right is the product of the matrices $$D \mathbf{f}(\mathbf{g}(\mathbf{a}))$$ and $$D \mathbf{g}(\mathbf{a})$$.
+
+**Definition.**
+Norm of a linear mapping is the smallest constant $$C$$ such that $$\vert A\mathbf{x} \vert \le C \vert x \vert4$
+
+**Theorem 2.88.**
+Suppose $$\mathbf{f}$$ is a differentiable $$\mathbb{R}^m$$-valued function on an open convex set $$S \subset \mathbb{R}^n$$, and suppose that $$\Vert D\mathbf{f}(\mathbf{x}) \Vert \le M$$ for all $$\mathbb{x} \in S$$. Then
+
+$$\vert \mathbf{f}(\mathbf{b}) - \mathbf{f}(\mathbf{a}) \vert \le M \vert \mathbf{b} - \mthbf{a} \vert, \forall \mathbf{a}, \mathbf{b} \in S$$
+
+**Definition.**
+The Jacobian of a mapping $$\mathbf{f}$$ is a scalar-valued function on $$S$$ and is the determinant of $$D\mathbf{f}$$.
 
 
 
