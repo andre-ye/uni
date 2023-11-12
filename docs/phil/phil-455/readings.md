@@ -679,5 +679,117 @@ Objections and replies
 - Reframing racial thinking as socioancestral thinking: socioancestral groups give rise to socioancestral identities, rathert han refusing to recognize color-conscious reality or racial identities.
 - Facts about continental ancestry do not necessarily mean things like one-drop, etc. 
 
+---
 
+## Week 7: ...
+
+### "Current Conceptions of Racism: A Critical Examination of Some Recent Philosophy", J. L. A. Garcia
+
+Introduction: Problems of Method
+- Is there really such a thing as racism in a conceptually meaningful sense?
+- Conceptual inflationism
+- Are charges of racism like charges of communism in the McCarthy era
+- So what really is racism?
+- Conceptual work is rarely done and the results are unsatisactory
+- David Goldberg: two ways of addressing the nature of racism.
+  - Purely conceptual: stipulate definitions on the basis of what they ought to signify
+  - Historical: to lay out how terms have been used
+  - Question -- might these be inseparable notions?
+- Neither way is good enough for us. Stipulative deifnitions are not powerful for investigation. But also, a record of how people have applied a term does not tell us what people have meant by it.
+- What we want to discover is what we are saying about the things we apply to it.
+- "Racism" -- employed historically in a variety of senses, does not mean there were different forms of racism. "Ontology does not so closely track semantics; lexicography is not taxonomy"
+- Different conditions for a conception of racism to meet social philosophy's task of understanding social phenomena and determining their significance / value.
+  - Clarify why racism is immoral, without trivializing this
+  - Permit racism to be a feature of both individuals and institutions
+  - Allow practices, actions, beliefs, goals, fears, etc. to be possibly racist things
+  - Accomodate clear cases of racism from history and imagination, and excludes cases where it is absent
+  - Remain internally consistent and free of unacceptable implications
+  - Conform to our everyday discourse about racism
+  - Be plausibly historic or continuous throught ime
+  - Have a similar structure to antisemitism, xenophobia, etc.
+- Do these criteria betray Kantian / anti-Hegelian epistemic sympathies?
+- Banton and Miles:
+  - Kantians, believe their observer can formulate theories explaining as many observations as possible.
+  - Hegelians: understand that the observer is part of the world that he studies
+- No one really denies that the observer is part of the world they describe. Nor that "racism" ought to make sense of the background of the history as much as it can. These "more modest goals" are bettr than "grandiose talk" of understanding principles for a term's development and the essence of historical relationships.
+- We can begin from the Kantian common elements of antisemitism and racism, while also understanding from the Hegelian perspective that they may serive different systemic functions.
+- Conflict between Afro-Caribbeans and Asians in Britain: Hegelian thinkers are often reluctant to call this racism, the explanatory significance is attached to the structural position of respective groups.
+- Racism can plainly have many causes
+- What those who invoke Hegel have in mind is historicist quasi-nominalism.
+  - Time One: racism predicates one social phenomenon, P1
+  - Time Two: racism predicate ssomethingly a little bit different, social phenomenon P2
+  - ...
+  - Over time, a single term means many different things, different racisms of which share some features, but all of which concern racial inferiority. But because it evolved over time, we can't say that there is a single simple constant meaning through time.
+  - The quest to uncover the transhistorical nature of racism ends up becoming futile; it is ahistoricist and essentialist
+- Hegelian claim has some bite -- this view does not contradict hte project here, though. We are considering how racism exists now.
+  - Ok, this is not really fair from a Hegelian perspective. It's important to understand how things change through time, but not to assert simple essences.
+- All we seek is to understand what racism is, but metaphysical language is sometimes needed.
+- This project does not make one into an essentialist, foundationalist, Platonist, etc. another "comparable bogeyman haunting the postmodernists' fevered imaginations."
+- Racism is not one thing, but two quite different and unrelated things.
+- Wittgenstein: do not nourish your thought on too restrict a diet of examples
+
+1: Systemic and Social-Power Conceptions -- Marable and Hacker
+
+- Perhaps racism can be identified with systems of social control
+- Racism is a system of ignorance used to oppress African-Americans, Latinos, Asians, ... on the basis of ethnicity, culture, mannerisms, color
+- Subordination at a systemic level. 
+- Drawbacks warrant its rejection
+- Appears to restrict all victims of racism to people who are not white
+  - Sartre, "anti-racist racism"
+- Marable does not allow for unsuccessful racism, apolitical racism, or personal racism. Surely someone who espouses racism must have a sense of racism, even if they fail to contribute to the racist world-system.
+- It is absurd to think people become racists only when and if there exists a system of oppression (hm... maybe)
+- It would be absurd to think of antisemitism or even xenophobia in this way.
+  - Is antisemitism a form of racism?
+- How might individuals' affective responses be racist? How do they fit into the system. Desires, plans, fears, can be racist -- because of what they are or come from, not because of their instrumental role in an oppressive system.
+- It is tempting to use 'racism' in a catch-all manner. But we need to be more fine-grained; it is more complex. It's not merely whatever happens to work against the progress of disadvantaged racial groups. Racism is immoral, but not everything which works against racial progress is (conclusively immoral).
+  - government has many legitimate goals
+  - Racism is most useful as an analytical tool when it is reserved for factors which harm members because of their race.
+  - Black disadvantage stems from racism: this should be explanatory, not merely a tautological statement.
+- Andrew Hacker, Coleman Young: racism should be attributed only to those who have the power to cause suffering. Whites cannot be the only racists; racism comes into full form only when it has an impact on the "real world"
+- The bitter, solitary bigot is still racist, even when they are powerless. Feelings, wishes, etc. are all racist
+- People are pitted together in a way which undermines community solidarity, etc.
+- Young: the powerless cannot be racists
+- Hacker: the powerless can be racist, but racism of the powerless is without significance
+  - The powerless sometimes respond with antisemitism or xenophobia agains ta dominant group.
+  - Racism should turn out to be structurally similar to these forms of intolerance
+  - Even if racism is "significant" only when tied to power, why is contextual power excluded?
+  - ...and what about the moral significance? Why ought that to have any relation?
+  - Hatred or contempt for "what they are" -- interesting question here about racial essentialism. -- because in a social constructionist analysis of race, you are not really actually any race.
+  - Racial hatred impacts the 'real world'. But why are powerless bigots "left off the hook" morally?
+- Another thesis: racism is possible only among the comparatively powerful, where an individual A treats B in a racist way only if A is in a situation of power over B.
+- Still, it excludes the solitary, impotent, and intolerant
+- Reply: well, it still matters: because the "solitary" and "impotent" are a structural part of the democratic system
+
+2: A Doxastic Conception -- Appiah
+- Doxastic understandings of racism. Racism is a belief, ideology, dogma, doctrine, or theory
+- Appiah: racism involves propositions and ispositions. Racism is both a tendency of racial prejudice to hold false propositions about the existence and moral significance of rsome races, even in the face of evidence which should lead one otherwise
+  - This point might be pushed back upon. There is somehow an idea that the truth will reveal itself. but it actually takes a great labor to not be racist; and actually it is tied to socio-political-economic relationships, i.e. *which people have access to the truth?*
+- Racism vs racialism (view that there are heritable characteristics which contstitue races)
+- All forms of racism presuppose racism
+- Extrinsic and intrinsic racism
+  - Extrinsic racists: make moral distinctions between members of different races because they belief racial essence entails certain morally relevant qualities. Honesty, courage, intelligence, etc.
+  - Intrinsic racists: differentiate morally between members of different races, each race has a different moral status
+- Difficulties
+  - Institutions?
+  - Individuals' desires, feelings, hopes, fears? how do these count if racism is purely dispositions to belief propositions?
+  - Surely a racist must not necessarily need to make moral distinctions across races
+  - not clear why Appiah thinks it is essential that racists hold their beliefs in an irrational way
+- Appiah refrains from moral condemnations of people who believe certain propositions.
+- is someone who holds dangerous beliefs a bad person? What is personhood except for that which you believe?
+- Plato's "city in speech" in *The Republic* -- its citizens are told the noble lie that the golden race are the most honored.
+- Prejudice distinguishes the real racist from the propositional racist -- racism is not merely a matter of beliefs but also the mode of belief
+  - Real racists have a deformation of rationality; prejudice makes them resistant to rational dissuasion from their racial beliefs
+- Interests and self-image: a connection to see oneself as moral despite one's racism
+- Appiah is careful not to morally blame even the real racist -- are they responsible for the fact that they are bad? (... this discussion seems very unnuanced...)
+  - This is unacceptable because any accoutn of racism must explain why someone or something is racist, and to criticize them for it morally.
+  - Someone's racial prejudice is open to moral criticism
+  - Beliefs are of moral interest for their work in rationalizing prior racist conservative attitudes. 
+- What is important is not the epistemic dimension but the moral dimension.
+- Black nationalists and other advocates of racial solidarity are intrinsic racists. If we are reluctant to call a group racist because their racial beliefs are disconnected from desire to harm, this shows that we think antipathy is essential to racism.
+- Discourse of racial soolidarity is usually expressed through the language of intrinsic racism
+- Racism is vicious, not fellow-feeling.
+- We need a further distinction of intrinsic racism between the strong view that differential treatment is morally required and the weak view that it is merely orally permissible.
+- Morality may still allow "favoritism"
+
+page. 15
 

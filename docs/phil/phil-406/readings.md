@@ -715,3 +715,73 @@ The Paradigm Leads to Bad Reasoning
 - Not just, is the argument valid? but also, what are the plausible premises to make ths argument good? Why is this argument important? 
 - Experience may be a necessary element in reasoning processes
 
+---
+
+## "How Might We Address the Factors that Contribute to the Scarcity of Philosophers Who Are Women and/or of Color?", Yolonda Y. Wilson
+
+- Philosophy in the US is relatively homogenous.
+- Including alternative voices helps us build more interesting and important philosophy
+
+4, Revisited
+- Are people told they don't belong in philosophy departments?
+- How do graduat estudents interact with each other? They wield power over each other and undergraduates
+- Giving some people preference of the benefit of the doubt
+
+3, Revisited
+- Women experience gender bias more frequently than we may perceive, and the perception of this may not always be immediate (it can "sink in")
+- Sublinical bias
+- "maybe it's just me"
+- a pheonmenology of sexism?
+
+2, Revisited
+- Indviduals perform worse when their stigmatized status is called to attention.
+- We shouldn't automatically default to "philosophy is hard"
+- The soft bigotry of low expectations
+
+1, Revisited
+- We have to put in the work
+- Why do undergraduate women not pursue the philosophy major?
+- Charles Mills: a belief in the whiteness of philosophy, or even the conceptual whiteness of the discipline. Is there a guilty silence about race?
+- BS detectors begin pinging and this is not addressed in a serious way. "Philosopher X was a product of his time, but let's not let that get in the way of the real work of philosophy."
+- But there are more issues than just this. The issue is that the issues are ignored
+- Another idea: women or nonwhite students are only or primarily interested in race and gender
+  - Academic stereotyping / essentializing
+- Ghettoizing of students and topics
+
+Upshot?
+- Philosophy departments are microcosms of larger society
+- Don't leave the world behind when you enter a philosophy department
+- Some of the hand-wringing feels disingenuous
+
+---
+
+## "Asian Women: Invisibility, Locations, and Claims to Philosophy", Yoko Arisaka
+
+Introduction
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

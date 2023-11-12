@@ -413,10 +413,127 @@ $$\vert \mathbf{f}(\mathbf{b}) - \mathbf{f}(\mathbf{a}) \vert \le M \vert \mathb
 **Definition.**
 The Jacobian of a mapping $$\mathbf{f}$$ is a scalar-valued function on $$S$$ and is the determinant of $$D\mathbf{f}$$.
 
+---
+
+## Chapter 4: Integral Calculus
+
+### 4.1: Integration on the Line
+
+- You can interpret $$\int_a^b f(x) dx$$ as the area of the region between the graph of $$f$$ and the $$x$$-axis over the interval $$[a, b]$$ -- Riemann sums, etc.
+- Partition $$P$$: subdivision of $$[a, b]$$ into non-overlapping subintervals
+- $$P'$$ is a refinement of $$P$$ if $$P \subset P'$$
+- Let $$f$$ be a bounded real-valued function on $$[a, b]$$. Given a partition $$P = \{ x_0, ..., x_J \}$$ of $$[a, b]$$, with $$1 \le j \le J$$, then we set
+
+$$m_j = \inf \{ f(x) : x_{j - 1} \le x \le x_j \}$$
+
+$$M_j = \sup \{ f(x) : x_{j - 1} \le x \le x_j \}$$
+
+- Lower Riemann sum $$s_P f = \sum_{1}^J m_j (x_j - x_{j - 1})$$
+- Upper Riemann sum $$S_P f = \sum_{1}^J M_j (x_j - x_{j - 1})$$
+
+- **Lemma 4.3.** If $$P'$$ is a refinement of $$P$$, then $$s_{P'} f \ge s_P f$$ and $$S_{p'} f \le S_P f$$.
+- **Lemma 4.4.** If $$P$$ and $$Q$$ are any partitions of $$[a, b]$$, then $$s_P f \le S_Q f$$
+
+- Lower integral of $$f$$ on $$[a, b]$$: $$L_{a}^b (f) = \sup_P s_P f$$
+- Upper integral of $$f$$ on $$[a, b]$$: $$I_a^b(f) = \inf_P S_p f$$
+- (Supremum and infimum are taken over all partitions of $$[a, b]$$)
+- Riemann vs. Lebesgue integral.
+- **Lemma 4.5.** (important!): If $$f$$ is a bounded function on $$[a, b]$$, the following conditions are equivalent:
+  - $$f$$ is integrable on $$[a, b]$$
+  - For every $$\epsilon > 0$$ there is a partition $$P$$ of $$[a, b]$$ such that $$S_P f - s_P f < \epsilon$$
+- For any partition $$P$$, we have
+
+$$s_P f \le \int_a^b f(x) dx \le S_P f$$
+
+- If $$S_P f - s_P f < \epsilon$$, $$S_P f$$ and $$s_P f$$ are both within $$\epsilon$$ of $$\int_a^b f(x) dx$$.
+- **Theorem 4.6.**
+  - Suppose $$a < b < c$$. If $$f$$ is integrable on $$[a, b]$$ and on $$[b, c]$$, then $$f$$ is integrable on $$[a, c]$$, and $$\int_a^c f(x) dx = \int_a^b f(x) dx + \int_b^c f(x) dx$$
+  - If $$f, g$$ are integrable on $$[a, b]$$, then so is $$f + g$$, and $$\int_a^b [f(x) + g(x)] dx = \int_a^b f(x) dx + \int_a^b g(x) dx$$.
+- Observe negation and ordering of bounds:
+
+$$\int_b^a f(x) dx = -\int_a^b f(x) dx$$
+
+- **Theorem 4.9.** Properties of functions integrable on $$[a, b]$$
+  - If $$c \in \mathbb{R}$$, then $$cf$$ is integrable on $$[a, b]$$, and $$f_a^b c f(x) dx = c \int_a^b f(x) dx$$
+  - If $$[c, d] \in [a, b]$$, then $$f$$ is integrable on $$[c, d]$$
+  - If $$g$$ is integrable on $$[a, b]$$ and $$f(x) \le g(x)$$ for $$x \in [a, b]$$, then $$f_a^b f(x) dx \le f_a^b g(x) dx$$
+- **Theorem 4.10.** If $$f$$ is bounded and monotone on $$[a, b]$$, then $$f$$ is integrable on $$[a, b]$$. Proof sketch:
+  1. Suppose $$f$$ is increasing on $$[a, b]$$.
+  2. Consider the partition $$P_k$$ of $$[a, b]$$ into $$k$$ equal subintervals
+  - The difference between the lower and upper Riemann sums is $$\frac{(b - a) [f(b) - f(a)]}{k}$$
+  3. We can make $$k$$ sufficiently large, so $$f$$ is integrable
+- **Theorem 4.11.** If $$f$$ is continuous on $$[a, b]$$, then $$f$$ is integrable on $$[a, b]$$.
+  - We know that $$f$$ is uniformly continuous on $$[a, b]$$
+- **Theorem 4.12.** If $$f$$ is bounded on $$[a, b]$$ and continuous at all except finitely many points in $$[a, b]$$, then $$f$$ is integrable on $$[a, b]$$
+- A set $$Z \in \mathbb{R}$$ has **zero content** if for any $$ \epsilon > 0$$, there is a finite collection of intervals $$I_1, ..., I_L$$ such that $$Z \in \bigcup_1^L I_l$$ and the sum of lengths of the $$I_l$$'s is less than $$\epsilon$$.
+- **Theorem 4.13.** If $$f$$ is bounded on $$[a, b]$$ and the set of points in $$[a, b]$$ at which $$f$$ is discontinuous has zero content, then $$f$$ is integrable on $$[a, b]$$
+- **Proposition 4.14.** Suppose $$f$$ and $$g$$ are integrable on $$[a, b]$$ and $$f(x) = g(x)$$ for all except finitely many points $$x \in [a, b]$$. Then $$f_a^b f(x) dx = f_a^b g(x) dx$$
+- **Theorem 4.15.** (The Fundamental Theorem of Calculus)
+  1. Let $$f$$ be an integrable function on $$[a, b]$$. For $$x \in [a, b]$$, let $$F(x) = \int_a^x f(t) dt$$. Then $$F$$ is continuous on $$[a, b]$$; moreover, $$F'(x)$$ exists and equals $$f(x)$$ at every $$x$$ at which $$f$$ is continuous.
+  2. Let $$F$$ be a continuous function on $$[a, b]$$ that is differentiable except perhaps at finitely many points in $$[a, b]$$, and let $$f$$ be a function on $$[a, b]$$ that agrees with $$F'$$ at all points where the latter is defined. If $$f$$ is integrable on $$[a, b]$$, then $$f_a^b f(t) dt = F(b) - F(a)$$
+- Given an integrable function $$f$$ on $$[a, b]$$, for which partitions $$P$$ do the sums $$s_P f$$ and $$S_P f$$ give a good approximation of $$\int_a^b f(x) dx$$?
+- **Proposition 4.16.** Suppose $$f$$ is integrable on $$[a, b]$$. Given $$\epsilon > 0$$, there exists $$\delta > 0$$ such that if $$P = \{ x_0, ..., x_J\}$$ is any partition of $$[a, b]$$ satisfying $$\max_{1 \le j \le J} (x_j - x_{j-1}) < \delta$$, the sums $$s_P f$$ and $$S_P f$$ differ from $$\int_a^b f(x) dx$$ by at most $$\epsilon$$.
+- The definite integral -- good to understand as a sum of infinitely many infinitesimal terms.
 
 
+### 4.2: Integration in Higher Dimensions
+- Rectangle: a set of the form $$R = [a, b] \times [c, d]$$
+- Partition of $$R$$: a subdivision of $$R$$ into rectangles by partitioning both sides of $$R$$
+- We define the previous terms as follows:
 
+$$m_{jk} = \inf \{ f(x, y) : (x, y) \in R_{jk}\}$$
 
+$$M_{jk} = \sup \{ f(x, y) : (x, y) \in R_{jk} \}$$
+
+$$\delta A_{jk} = (x_j - x_{j-1}) (y_k - y_{k-1})$$
+
+$$s_P f = \sum_{j = 1}^J \sum_{k=1}^K m_{jk} \delta A_{jk}$$
+
+$$S_P f = \sum_{j=1}^J \sum_{k=1}^K$$ M_{jk} \delta A_{jk}$$
+
+$$_LI_R (f) = \sup_P s_P f$$
+
+$$_RI_R (f) = \inf_P S_P f$$
+
+- $$f$$ is Riemann integrable on $$R$$ if the lower and upper integrals coincide:
+$$\int \int_R f dA = \int \int_R f(x, y) dx dy$$
+
+- How can we integrate over regions other than rectangles?
+- Draw a large rectangle containing $$S$$, redefine $$f$$ to be zero outside of $$S$$, and integrate over $$R$$.
+- Characteristic / indicator function of $$S$$: $$\chi_S(\mathbf{x}) = 1 \text{ if } \mathbf{x} \in S, 0 \text{ otherwise}$$
+- $$f$$ is integrable on $$S$$ if $$f_{\chi S}$$ is integrable on $$R$$
+
+$$\int \int_S f dA = \int \int_R f_{\chi S} dA$$
+
+- **Theorem 4.17.**
+  - If $$f_1, f_2$$ are integrable on the bounded set $$S$$ and $$c_1, c_2 \in \mathbb{R}$$, then $$c_1 f_1 + c_2 f_2$$ is integrable on $$S$$, and $$\int \int_S [c_1 f_1 + c_2 f_2] dA = c_1 \int \int_S f_1 dA + c_2 \int \int_S f_2 dA$$
+  - Let $$S_1, S_2$$ be bounded sets with no points in common, and let $$f$$ be a bounded function. If $$f$$ is integrable on $$S_1$$ and on $$S_2$$, then $$f$$ is integrable on $$S_1 \cup S_2$$, in which case $$\int \int_{S_1 \cup S_2} f dA = \int \int_{S_1} f dA + \int \int_{S_2} f dA$$.
+  - If $$f$$ and $$g$$ are integrable on $$S$$ and $$f(\mathbf{x}) \le g(\mathbf{x})$$ for $$\mathbf{x} \in S$$, then $$\int \int S f dA \le \int \int_S g dA$$
+  - If $$f$$ is integrable on $$S$$, then so is $$\vert f \vert$$, and $$\vert \int \int_S f dA \vert \le \int \int_S \vert f \vert dA$$
+- A set $$Z \subset \mathbb{R}^2$$ has zero content if for any $$\epsilon > 0$$, there is a finite collection of rectangles which cover $$Z$$ and the sum of their areas is less than $$\epsilon
+- **Theorem 4.18.** Suppose $$f$$ is a bounded function on the rectangle $$R$$. If the set of points in $$R$$ at which $$f$$ is discontinuous has zero content, then $$f$$ is integrable on $$R$$.
+- Smooth curves can in fact have zero content
+- **Proposition 4.19.**
+  - If $$Z \subset \mathbb{R}^2$$ has zero content and $$U \subset Z$$, then $$U$$ has zero content.
+  - If $$Z_1, ..., Z_k$$ have zero content, then so does $$\bigcup_1^k Z_j$$.
+  - If $$\mathbf{f} : (a_0, b_0) \to \mathbb{R}^2$$ is of class $$C^1$$, then $$\mathbf{f}([a, b])$$ has zero content whenever $$a_0 < a < b < b_0$$
+- **Lemma 4.20.** The function $$\chi_S$$ is discontinuous at $$\mathbf{x}$$ iff $$\mathbf{x}$$ is in the boundary of $$S$$.
+- We need the boundary of a set to have zero content. A set $$S \subset \mathbb{R}^2$$ is Jordan measurable if it is boudned and its boundary has zero content.
+  - Any bounded set whose boundary is a finite union of pieces of smooth curves is measurable
+- **Theorem 4.21.** Let $$s$$ be a measurable subset of $$\mathbb{R}^2$$. Suppose $$f : \mathbb{R}^2 \to \mathbb{R}$$ is bounded adn the set of points in $$S$$ at which $$f$$ is discontinuous has zero content. Then $$f$$ is integrable on $$S$$.
+- **Proposition 4.22.** Suppose $$Z \subset \mathbb{R}^2$$ has zero content. If $$f : \mathbb{R}^2 \to \mathbb{R}$$ is boounded, then $$f$$ is integrable on $$Z$$ and $$\int \int_Z f dA = 0$$.
+- **Corollary 4.23.**
+  - Suppose $$f$$ is integrable on $$S \subset \mathbb{R}^2$$. If $$g$$ is bounded and $$g(\mathbf{x}) = f(\mathbf{x})$$ except for $$\mathbf{x}$$ in a set of zero content, then $$g$$ is integrable on $$S$$ and $$\int \int_S g dA = \int \int_S f dA$$
+  - Suppose $$f$$ is integrable on $$S, T$$, and $$S \intersect T$$ has zero content. Then $$f$$ is integrable on $$S \cup T$$. We have $$\int \int_{S \cup T} f dA = \int \int_S f dA + \int \int_T f dA$$
+- If $$S$$ is any Jordan measurable set in a plane, its area is the integral over $$SS$$ of the constant function $$f(\mathbf{x}) \equiv 1$$.
+
+$$\text{area}(S) = \int \int_S 1 dA = \int \int \chi_S dA$$
+
+- Theory of $$n$$-dimensional integrals -- need to use $$n$$-dimensional rectangular boxes in $$\mathbb{R}^n$$
+- A bounded set $$Z \subset \mathbb{R}^n$$ has zero content iff for any $$\epsilon > 0$$ there are rectangular boxes $$R_1, ..., R_k$$ whose total volume is less than $$\epsilon$$, where the union of $$R_j$$ is a cover for $$Z$$.
+
+- **Theorem 4.24.** (The Mean Value Theorem for Integrals.) Let $$S$$ be a compact, connected, measurable subset of $$\mathbb{R}^n$$, and let $$f, g$$ be continuous functions on $$S$$ with $$g \ge 0$$. Then there is a point $$\mathbf{a} \in S$$ such that $\int \hdots \int_S f(\mathbf{x}) g(\mathbf{x}) d^n \mathbf{x} = f(\mathbf{a}) \int \hdots \int_S g(\mathbf{x}) d^n \mathbf{x}$$.
+- **Corollary 4.25.** Let $$S$$ be a compact, connected, measurable subset of $$\mathbb{R}^n$$. Let $$f$$ be a cotninuous function on $$S$$. Then there is a point $$\mathbf{a} \in S$$ such that $$\int \hdots \int_S f(\mathbf{x}) d^n \mathbf{x} = f(\mathbf{a}) \vert S \vert$$ -- this is the average of mean value of $$f$$ on $$S$$
 
 
 

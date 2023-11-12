@@ -666,9 +666,58 @@ If $$\bar{f}(x)$$ is irreducible in $$\mathbb{Z}_p[x]$$, then $$f(x)$$ is irredu
 
 For every non-negative integer $$k$$, there are only finitely many polynomials of degree $$k$$ in $$\mathbb{Z}_p[x]$$, so in fact you can determine whether any given polynomial in $$\mathbb{Z}_p$$ is irreducible by checking a finite number of factors.
 
+---
 
+## Chapter 5: Congruence in $$F[x]$$ and Congruence-Class Arithmetic
 
+- Concepts of congruence and congruence-class arithmetic carry over from $$\mathbb{Z}$$ to $$F[x]$$ with basically no changes.
+- New congruence-class rings have a much richer structure than rings $$\mathbb{Z}_n$$
+- Given any polynomial over any field, we can find a root of that polynomial in some larger field.
 
+### 5.1: Congruence in $$F[x]$$ and Congruence Classes
+- Basic facts about divisibility in $$\mathbb{Z}$$ support the concept of congruence in the integers.
+- If $$F$$ is a field, the polynomial ring $$F[x]$$ has the same divisibility properties as $$\mathbb{Z}$$.
+
+**Definition.**
+Let $$F$$ be a field and $$f(x), g(x), p(x) \in F[x]$$ with $$p(x)$$ nonzero.
+Then $$f(x)$$ is congruent to $$g(x)$$ mod $$p(x)$$, $$f(x) \equiv_{p(x)} g(x)$$, given $$p(x) \vert f(x) - g(x)$$.
+
+**Theorem 5.1.**
+Let $$F$$ be a field and $$p(x)$$ a nonzero polynomial in $$F[x]$$. Then the relation of congruence modulo $$p(x)$$ is
+1. reflexive: $$f(x) \equiv_{p(x)} f(x), \forall f(x) \in F[x]$$
+2. symmetric: if $$f(x) \equiv_{p(x)} g(x)$$, then $$g(x) \equiv_{p(x)} f(x)$$
+3. transitive: if $$f(x) \equiv_{p(x)} g(x)$$ and $$g(x) \equiv_{p(x)} h(x)$$, then $$f(x) \equiv_{p(x)} h(x)$$
+
+**Theorem 5.2.**
+Let $$F$$ be a field and $$p(x)$$ a nonzero polynomial in $$F[x]$$.
+If $$f(x) \equiv_{p(x)} g(x)$$ and $$h(x) \equiv_{p(x)} k(x)$$, then
+1. $$f(x) + h(x) \equiv_{p(x)} g(x) + k(x)$$
+2. $$f(x) h(x) \equiv_{p(x)} g(x) k(x)$$
+
+**Definition.**
+The congruence class / residue class of $$f(x)$$ modulo $$p(x)$$ is $$[f(x)]$$ and consists of all polynomials in $$F[x]$$ which are congruent to $$f(x)$$ modulo $$p(x)$$.
+
+$$[f(x)] = \{ g(x) \vert g(x) \in F[x] \wedge g(x) \equiv_{p(x)} f(x) \}
+
+Some algebra shows that
+
+$$[f(x)] = \{ f(x) + k(x) p(x) \vert k(x) \in F[x] \}$$
+
+**Theorem 5.3.**
+$$f(x) \equiv_{p(x)} g(x)$$ iff $$[f(x)] = [g(x)]$$.
+
+**Corollary 5.4.**
+Two congruence classes modulo $$p(x)$$ are either disjoint or identical.
+
+**Corollary 5.5.**
+Let $$F$$ be a field and $$p(x)$$ a polynomial of degree $$n$$ in $$F[x]$$, and consider congruence modulo $$p(x)$$.
+1. If $$f(x) \in F[x]$$ and $$r(x)$$ is the remainder when $$f(x)$$ is divided by $$p(x)$$, then $[f(x)] = [r(x)]$$.
+2. Let $$S$$ be the set consisting of the zero polynomial and all the polynomials of degree less than $$n$$ in $$F[x]$$. Then every congruence class modulo $$p(x)$$ is the class of some polynomial in $$S$$, and the congruence calsses of different polynomials in $$S$$ are distinct. 
+
+---
+
+### 5.2: Congruence-Class Arithmetic
+- 
 
 
 

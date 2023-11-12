@@ -734,6 +734,50 @@ Discussion
 - Four genera -- Aristotelian categories?
 - Stoic grammar?
 
+### 28: The First and Second Genera
+
+A. Plutarch
+- The argument/question of growth.
+- Growth destroys our preconceptions (?)
+- All particular substances are in flux and motion, releasing some things from themselves and receiving others who receive them
+- Numbers and quantities do not remain the same but become different, as the substance transforms
+- One should not call them growth or decay, but rather generation and destruction, because they transform something into something else.
+- Misthinking and rethinking, tricks of the mind and perception
+
+B. Anonymous commentary on Plato's *Theaetetus*
+- What grows -- Pythagoras, Plato (*Symposium*)
+- There are no processes of growth
+
+C. Anonymous Academic treatise
+- If a peculiarly qualified thing is a body, Plato's substance is a body, but there is no apparent difference, etc., si the substance Plato? There is some difference
+
+D. Stobaeus
+- There are four kinds of destruction and generation from the existent tot he existent
+- There is no such thing as generation or destruction from/into the non-existent.
+- Change into the existent: divison,  fusion, resolution
+- Substance neither grows nor diminishes through addition or subtraction, but simply alters
+- Growth and diminuition arise in peculariarly qualified individuals, Dion and Theon
+- Peculariarly qualified is not the same as its constituent substance. There is the question of existence and nonexistence. 
+
+E. Porphyry
+- Substrate is twofold
+
+F. lamblichus
+- The Stoics consdier soul to be a body and collect its faculties as qualities of the substrate. 
+
+G. Syrianus, *On Aristotle's Metaphysics*
+- Stoics place the commonly qualified individuals before the peculiarly qualified individuals
+
+H. Simplicius
+- The Stoics say that what is common to quality is what differentiates substance from the qualified thing
+
+I. Simplicius
+- Individual form -- something is gained, lost, and remains the same throughout compound entities, even when its constitutent parts ar egenerated and destroyed
+
+J. Dexippus, *On Aristotle's Categories*
+
+### 29: The Third and Fourth Genera
+
 
 ### 43: The scope of physics
 
