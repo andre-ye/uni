@@ -717,13 +717,35 @@ Let $$F$$ be a field and $$p(x)$$ a polynomial of degree $$n$$ in $$F[x]$$, and 
 ---
 
 ### 5.2: Congruence-Class Arithmetic
-- 
+- Congruence in the integers lead to rings $$\mathbb{Z}_n$$
+- Congruence in $$F[x]$$ can also produce new rings and fields
 
+**Theorem 5.6.**
+Let $$F$$ be a field and $$p(x)$$ a nonconstant polynomial in $$F[x]$$. 
+If $$[f(x)] = [g(x)]$$ and $$[h(x)] = [k(x)]$$ are both in $$F[x] / p(x)$$, then
+$$[f(x) + h(x)] = [g(x) + k(x)]$$ and $$[f(x) h(x)] = [g(x) k(x)]
 
+**Theorem 5.7.**
+Let $$F$$ be a field and $$p(x)$$ a nonconstant polynomial in $$F[x]$$. 
+Then the set $$F[x] / p(x)$$ of congruence classes modulo $$p(x)$$ is a commutative ring with identity.
+Furthermore, $$F[x] / p(x)$$ contains a subring $$F^*$$ that is isomorphic to $$F$$.
 
+Proof:
+1. Use previous proof of commutative ring with identity for congruence classes.
+2. Let $$F^*$$ be the subset of $$F[x] / p(x)$$ consisting of the congruence classes of all constant polynomials: $$F^* = \{ [a] \vert a \in F \}$$.
+3. Define a map $$\phi : F \to F^*$$ by $$\phi(a) = [a]$$. $$\phi$$ is surjective. It is easy to prove that it is a homomorphism.
+4. Suppose $$\phi(a) = \phi(b)$$. Then $$[a] = [b]$$, so $$a \equiv_{p(x)} b$$, and $$a - b \vert p(x)$$. Because $$\deg p(x) \ge 1$$ and $$a - b \in F$$, this is only possible if $$a = b$$. Therefore, $$\phi$$ is injective. So $$\phi$$ is an isomorphism. 
 
+- We have constructed a ring $$F[x] / p(x)$$ that contains an isomorphic copy of $$F$$. How can we get a ring which contains the field $$F$$ itself?
+- In general, given a field $$F$$ and a polynomial $$p(x)$$ in $$F[x]$$, we can construct a ring containing $$F$$ as a subset. Identify $$F$$ with its isomorphic copy $$F^*$$ inside $$F[x] / p(x)$$ and consider $$F$$ to be a subset of $$F[x] / p(x)$$.
 
+**Theorem 5.8.**
+Let $$F$$ be a field and $$p(x)$$ a nonconstant polynomial in $$F[x]$$.
+Then $$F[x] / p(x)$$ is a commutative ring with identity that contains $$F$$.
 
+**Theorem 5.9.**
+Let $$F$$ be a field and $$p(x)$$ a nonconstant polynomial in $$F[x]$$.
+If $$f(x) \in F[x]$$ and $$f(x)$$ is relatively prime to $$p(x)$$, then $$[f(x)]$$ is a unit in $$F[x] / p(x)$$.
 
 
 

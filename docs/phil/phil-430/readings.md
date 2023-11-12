@@ -438,6 +438,15 @@ Something, Not-Something, Nothing
 
 ---
 
+## Stoic Materialism?
+
+### "The Stoics on Bodies and Incorporeals", Boeri
+
+### "Bodies and their Effects", Totschnig
+
+
+---
+
 ## *The Hellenistic Philosophers*, Long & Sedley
 
 ### 4: The principles of conservation (Epicureanism)
@@ -1023,6 +1032,15 @@ C. Cicero
 - The world must be wise
 - The world must be god, there must be a sustaining divine element
 
+
+### 49: Place and Void
+
+### 51: Time
+
+### 33: Sayables
+
+
+### 30: Universals
 
 
 
