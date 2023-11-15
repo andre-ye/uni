@@ -225,9 +225,13 @@ Hierarchy of rings
 - Standard interpretation in algebra II: roots are the intersection of $$y = 0$$ with $$y = f(x)$$ in $$\mathbb{R}^2$$
 - In 402, $$x$$ is not a variable, but an indeterminate, a placeholder to keep things sseparate
 - Factor theorem: being a root is the same as $$(x - a) \vert f(x)$$
+
+---
+
+## Week 8 Monday -- Congruence Class Polynomial Rings
+
+- Why is 5.7/5.8 interesting? -- ring of polynomial congruence classes include the original field. The map from polynomial ring to congruence classes is not injective, so it's interesting that you can have an isomorphic map overall
 - 
-
-
 
 
 

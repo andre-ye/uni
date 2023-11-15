@@ -806,14 +806,153 @@ Its partials are also functions, which may also have partials.
 
 ---
 
-## Lecture 11: Taylor's Theorem, Critical Points
+## Lecture 14: 1-Dimensional Integration, Integration in Higher Dimensions
 
+**Theorem.**
+If $$f$$ is bounded and monotone on $$[a, b]$$ then $$f$$ is integrable on $$[a, b]$$.
 
+**Theorem.**
+If $$f$$ is continuous on $$[a, b]$$, then $$f$$ is integrable on $$[a, b]$$.
+Proof.
+1. Since $$f$$ is bounded on $$[a, b]$$ by the extreme value theorem, then $$U_P f, L_P f$$ exist for any partition $$P$$.
+2. Since $$f$$ is continuous on a compact set, $$f$$ is uniformly continuous.
+3. For all $$\epsilon > 0$$, $$\exists \delta$$ s.t. $$\forall x, y \in [a, b]$$, $$\vert x - y \vert < \delta \implies \vert f(x) - f(y) \vert < \epsilon$$.
+4. Let $$P$$ be a partition of $$[a, b]$$ into equally spaced intervals each with length $$< \delta$$.
+5. So we have $$M_j - m_j < \epsilon / (b - a)$$
+6. Meaning $$U_p f - L_p f = \sum_{j = 1}^J (M_j - m_j) (x_j - x_{j - 1}) \le \frac{\epsilon}{b - a} \sum_{j = 1}^J (x_j - x_{j - 1}) = \frac{\epsilon}{b - a} (x_J - x_1) = \epsilon / (b -a ) \cdot (b - a) = \epsilon$$
 
+Note that partitions are all finite, but you can bound them by any $$\epsilon$$. 
+So we have $$\forall \epsilon > 0, \exists P : U_P f - L_P f \le \epsilon$$
 
+- Midterm: 1.8 up to end of chapter 2
 
+Function: $$f(x) = \begin{cases} 0 & \text{if } x \notin \mathbb{Q} \\ 1 / q & \text{if } x = p / q \text{ in lowest terms} \end{cases}$$.
 
+- $$f(x)$$ is bounded, but not monotone or continuous
+- But it is integrable on $$[0, 1]$$
 
+**Theorem.**
+If $$f$$ is bounded on $$[a, b]$$ and is continuous on $$[a, b]$$ except at finitely many points, then $$f$$ is integrable on $$[a, b]$$.
+Proof.
+- Suppose $$y_1, ..., y_L$$ are points of discontinuity.
+- Set $$m = \inf \{ f(x) \vert [a, b] \}$$ and $$M = \sup \{ f(x) \vert [a, b] \}
+- Given $$\delta > 0$$, set $$I_l = [a, b] \cap [y_l - \delta, y_l + \delta]$$
+- $$U = \bigcup_{l = 1}^L I_l$$, $$V = [a, b] \setminus U^{\text{int}}$$
+- Notice that the length of $$U$$ is $$|le 2 \delta L$$, so $$f : V \to R$$ is continuous
+- If $$P$$ is any partition containing $$\delta U$$, we can write $$U_P f = U_P^U f + U_P^V f$$
+- basically... with time, $$\int_a^b f(x) - g(x) dx = 0$$, at finitely many points, for some surrogate $$g$$
+
+**Fundamental Theorem of Calculus.**
+There are two!
+1. Let $$f$$ be integrable on $$[a, b]$$. For $$x \in [a, b]$$, define $$F(x) = \int_a^x f(t) dt$$. Then $$F$$ is continuous on $$[a, b]$$ and differentiable on $$(a, b)$$, and $$F'(x) = f(x)$$ on $$[a, b]$$. (It makes sense even if $$f$$ is integrable but not continuous!) Proof:
+  1. Since $$\forall x, y \in [a, b]$$ it is all true that $$F(y) - F(x) = \int_x^y f(t) dt$$
+  2. You can define $$C = \sup \{ \vert f(t) \vert : t \in [a, b] \}$$
+  3. We see that $$\vert F(y) - F(x) \vert \le \int_x^y \vert f(t) \vert dt \le C \vert y - x \vert$$. Which means that $$F$$ is Lipschitz continuous.
+  4. Say that $$f$$ is continuous at $$x_0 \in [a, b]$$. Then $$\forall \epsilon > 0, \exists \delta > 0$$ s.t. $$\vert t - x_0 \vert < \delta \implies \vert f(t) - f(x_0) < \epsilon$$. 
+  5. Further, $$f(x_0) = \frac{f(x_0)}{(y - x_0)} \int_{x_0}^y 1 dt = \int_{x_0}^y f(x_0) dt$$
+  6. $$\frac{F(y) - F(x_0)}{y - x_0}  - f(x_0) = \frac{1}{y - x_0} \int_{x_0}^y f(t) - f(x_0) dt$$.
+  7. We get that $$\lim_{y \to x_0} \frac{F(y) - F(x_0)}{y - x_0} = f(x_0)$$ by an epsilon-delta argument.
+2. Let $$F$$ be continuous on $$[a, b]$$ and differentiable except at finitely many points of $$[a, b]$$. Let $$f$$ be a function which agrees with $$F'(x)$$ where it is defined. If $$f$$ is integrable on $$[a, b]$$ then $$\int_a^b f(t) dt = F(b) - F(a)$$.
+  1. Suppose $$P = \{ x_0, ..., x_J \}$$ is a partition of $$[a, b]$$. Then after perhaps refining we can assume each point of $$F$$ being non-differentiable is an end point of a subinterval of $$P$$.
+  2. Then $$\forall j, F$$ is continuous on $$[x_{j - 1}, x_j]$$ and differentiable on $$(x_{j - 1}, x_j)$$.
+  3. Thus by the MVT, $$F(x_j) - F(x_{j - 1}) = F'(t_j)(x_j - x_{j - 1}) = f(t_j)(x_j - x_{j-1})$$ for some $$t_j \in (x_{j -1 }, x_j)$$
+  4. Then, we get a telescoping sum: $$F(b) - F(a) = F(x_J) - F(x_0) = \sum_{j = 1}^J f(t_j) (x_j - x_{j - 1})$$
+  5. But we know this is bounded between the lower and upper Riemann sums: $$L_P f \le F(b) - F(a) \le U_P f$$
+  6. We know we can make the difference between the two arbitrarily small. Therefore $$F(b) - F(a) = \int_a^b f(t) dt$$ if $$f$$ is integrable.
+
+Integration in higher dimensions.
+- A product of intervals is a rectangle $$R = [a, b] \times [c, d]$$
+- A partition is a grid of rectangles. 
+
+**Definition.**
+If $$f : \mathbb{R}^2 \to P$$ and $$P$$ a partition of $$R$$, as above. Define $$m_{jk} = \inf_{x \in R_{jk}} f(x), M_{jk} = \sup_{x \in R_{jk}} f(x)$$.
+We can define upper and lower Riemann sums by similar logic.
+
+**Definition.**
+The characteristic function of $$S$$ is
+$$\chi_S(x) = \begin{cases} 1 & \text{if } x \in S \\ 0 & \text{if } x \notin S \end{cases}$$
+
+Indicator functions are interesting examples depending on the set.
+
+So you can define the integral over a non-rectangle as the integral over a rectangle of the indicator function.
+
+Indicator functions can actually fuck up nice behavior of our original sets. So how can you guarantee that the result is still integrable? But the boundary of $$S$$ can have zero content. $$f \times \chi_S$$ will only be discontinuous on the boundary of $$S$$.
+
+---
+
+## Lecture 15: Higher Dimension Integration
+
+- if $$S \in \mathbb{R}^n$$, the characteristic function of $$S$$ is 1 if the point is in $$S$$ and 0 otherwise
+- If $$f: S \in \mathbb{R}^2 \to \mathbb{R}$$ is bounded, and $$S$$ is bounded and $$R$$ is any rectangle containing $$S$$, then then $$f \cdot \chi_S$$ is integrable on $$R$$ and define $$\int \int_S f dA = \int \int_R f \cdot \chi_S dA$$
+
+Theorem declaring the properties of integrals:
+- linearity -- a linear combination of any to integrals is integrable on $$S$$
+- if a function is integrable on bounded disjoint domain sets, it is integrable on their union and the sum of their individual integrals
+- if $$f, g$$ are integrable and $$f(\vec{x}) \le g(\vec{x})$$ for all $$\vec{x} \in S$$, then you have a bound on the integrals: $$\int \int_S f(\vec{x}) dA \le \int \int_S g(\vec{x}) dA$$
+- if $$f$$ is integrable on $$S$$, then $$\vert f(\vec{x}) \vert$$ is integrable on $$S$$ and $$\vert \int \in_S f dx \vert \le \int \int_S \vert f \vert dA$$
+
+Combining a. and d. gives you a form of the triangle inequality
+$$\vert \int \int f + g dA \vert \le \int \int \vert f \vert dA + \int \int \vert g \vert dA$$
+
+Even if $$f$$ is very nice, $$f \cdot \chi_S$$ won't be continuous on $$R$$.
+
+Lemma. $$\chi_S$$ is dicontinuous at $$\vec{x}$$ means $$\vec{x} \in \partial S$$
+1. If $$x \in S^{\text{int}}$$, there exists a ball of some radius centered at $$\vec{x}$$ which is a subset of $$S$$, therefore the characteristic function is constant and continuous in the neighborhood of that point.
+2. If $$x \in (S^C)^{\text{int}}$$, you are also constant. 
+3. If $$\vec{x} \in \partial S4$, then $$\forall \delta > 0$4, $$B_\delta(\vec{x}) \cap S \neq \emptyset$$ and $$B_\delta(\vec{x}) \cap S^C \neq \emptyset$$.
+
+Proposition.
+1. If $$Z \subseteq \mathbb{R}^2$$ has zero content and $$U \subseteq Z$$ then $$U$$ has zero content.
+2. If $$Z_1, ..., Z_k$$ have zero content, then their union has zero content. 
+3. If $$\vec{f} : (a_0, b_0) \to \mathbb{R}^2$$ is $$C^1$$, then the image of any subinterval $$\vec{f}((a_0, b_0))$$ has zero content.
+  - Each part of the curve can be contained in some set of rectangles; you can find a set of rectangles whose total area is less than your tolerance. 
+
+Proof for 3.
+1. $$C^1$$ buys us the mean value theorem
+2. If $$P_k$$ is some equally spaced partition of $$[a, b]$$, of subintervals of length $$\delta = \frac{b - a}{k}$$, $$C = \sup \{ \vert f'(t) \vert \}$$, writing $$\vec{f}(t) = (x(t), y(t))$$, we apply MVT to each comp to obtain $$\vert x(t) - x(t_j) \vert \le C \delta$$, $$\vert y(t) - y(t_j) \vert \le C \delta$$.
+3. Together, these imply that the image of the subinterval is contained in a square of side length $$C \delta$$.
+4. Then the area as $$k \to \infty$$ goes to zero.
+
+The image of any curve in $$C^1$$ will have zero content. 
+
+If $$f : S \in \mathbb{R}^k \to \mathbb{R}^n$$, $$k < n$$, is $$C^1$$, and 44S$$ is bounded, then $$f(S)$$ has zero content.
+
+Remark.
+A set $$S \subset \mathbb{R}^2$$ s.t. $$S$$ is bounded and $$\partial S$$ has zero content, then $$S$$ is Jordan-measurable.
+
+**Theorem.** If $$S \subseteq \mathbb{R}^2$$ is Jordan measurable and $$f : \mathbb{R}^2 \to \mathbb{R}$$ is bounded and continuous on $$S$$ except perhaps on a set of zero content, then $$f$$ is integrable on $$S$$.
+
+Proposition.
+If $$Z \subseteq \mathbb{R}^2$$ of zero content and $$f : \mathbb{R}^2 \to \mathbb{R}$$ is bounded then $$f$$ is integrable on $$Z$$ and has integral zero.
+
+Proof.
+1. If $$\epsilon > 0$$, there exists some collection of rectangles such that $$Z$$ is contained in their union and the sum of their areas is less than $$\epsilon$$
+2. After subdividing the rectangles as needed, we can assume they form a partition of a rectangle containing $$Z$$ and interior pairwise disjoint
+3. Setting $$C = \sup_Z \vert f(\vec{x})$$ then we have $$-C \epsilon < -C \sum_{j = 1}^M A(R_j) \le L_P (f) \le U_P(f) < C \sum_{j = 1}^M A (R_j) < C\epsilon$$. This tells us both the lower and upper Riemann sums are within $$C \epsilon$$ of each other, and therefore the integral is zero.
+
+Corollary
+1. If $$f$$ is integrable on $$S \subseteq \mathbb{R}^2$$ and $$f = g$$ except on a set of zero content, then $$\int \int_S dA = \int \int_S g dA$$
+2. If $$f$$ is integrable on $$S, T$$ and $$S \cap T$$ has zero content, then $$f$$ is integrable on $$S \cup T$$ and $$\int \int f dA = \int \int_S f dA + \int \int_T f dA$$
+
+How to generalize to higher dimensions?
+Every argument, lemma, proposition, and theorem in this section is generalizable in higher-dimensional spaces in a straightforward way.
+Turn squares into boxes.
+Riemann sums are defined on partitions of boxes.
+
+**Mean Value Theorem for integrals.**
+If $$S \subseteq \mathbb{R}^n$$ is compact, connected, and Jordan-measurable, and $$f, g$$ are continuous on the set.
+Also $$g$$ is non-negative.
+Then there exists some $$\vec{a} \in S$$ such that $$\int_S f(\vec{x}) g(\vec{x}) dv = f(\vec{a}) \int_S g(\vec{x}) dV$$.
+
+Proof.
+1. Because $$f$$ is continuous on $$S$$, by the extreme value theorem, we have that there exists $$M, m$$ such that $$m \le f(\vec{x}) \le M$$ for all $$\vec{x} \in S$$.
+2. That is, we have that $$m \int_S g dV \le \int f \cdot g dV \le M \int_S g dV$$.
+3. This implies $$m \le \frac{\int_S f \cdot g dV}{\int_S g d} M$$
+4. By the intermediate value theorem, there exists an $$\vec{a} \in S$$ such that $$f(\vec{a}) = \frac{\int_S f \cdot g dV}{\int_S g dV}$$.
+
+**Corollary.** Average Value.
+If $$S \subseteq \mathbb{R}^n$$ is compact, connected, Jordan-measurable, and $$f$$ is continuous on $$S$$, then there exists some $$\vec{a} \in S$$ such that $$f(\vec{a}) = \text{Avg}_S(f) = \frac{1}{\text{Vol}(S)} \int_S f dV$$.
+There is some point in $$S$$ where you are equal to your average across the set.
 
 
 

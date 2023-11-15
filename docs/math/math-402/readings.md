@@ -714,8 +714,6 @@ Let $$F$$ be a field and $$p(x)$$ a polynomial of degree $$n$$ in $$F[x]$$, and 
 1. If $$f(x) \in F[x]$$ and $$r(x)$$ is the remainder when $$f(x)$$ is divided by $$p(x)$$, then $[f(x)] = [r(x)]$$.
 2. Let $$S$$ be the set consisting of the zero polynomial and all the polynomials of degree less than $$n$$ in $$F[x]$$. Then every congruence class modulo $$p(x)$$ is the class of some polynomial in $$S$$, and the congruence calsses of different polynomials in $$S$$ are distinct. 
 
----
-
 ### 5.2: Congruence-Class Arithmetic
 - Congruence in the integers lead to rings $$\mathbb{Z}_n$$
 - Congruence in $$F[x]$$ can also produce new rings and fields
@@ -747,10 +745,39 @@ Then $$F[x] / p(x)$$ is a commutative ring with identity that contains $$F$$.
 Let $$F$$ be a field and $$p(x)$$ a nonconstant polynomial in $$F[x]$$.
 If $$f(x) \in F[x]$$ and $$f(x)$$ is relatively prime to $$p(x)$$, then $$[f(x)]$$ is a unit in $$F[x] / p(x)$$.
 
+### 5.3: The Structure of $$F[x]/(p(x))$$ when $$p(x)$$ is Irreducible
 
+- When $$p$$ is a prime integer, $$\mathbb{Z}_p$$ is a field (+ integral domain)
 
+**Theorem 5.10.**
+Let $$F$$ be a field and $$p(x)$$ a nonconstant polynomial in $$F[x]$$.
+Then the following statements are equivalent:
+1. $$p(x)$$ is irreducible in $$F[x]$$
+2. $$F[x] / p(x)$$ is a field
+3. $$F[x] / p(x)$$ is an integral domain
 
+- You can construct finite fields with Theorem 5.10
+- If $$p$$ is prime and $$f(x)$$ is irreducible in $$\mathbb{Z}_p[x]$$ of degree $$k$$, then $$\mathbb{Z}_p[x] / f(x)$$ is a field; this field has $$p^k$$ elements. 
+- Let $$F$$ be a field and $$p(x)$$ an irreducible polynomial in $$F[x]$$. Let $$K$$ be the field of congruence classes $$F[x] / p(x)$$. $$F$$ is a subfield of the field $$K$$; $$K$$ is an extension field of $$F$$.
+- What can be said about roots of polynomials in $$K$$?
 
+**Theorem 5.11.**
+Let $$F$$ be a field and $$p(x)$$ an irreducible polynomial in $$F[x]$$.
+Then $$F[x] / p(x)$$ is an extension field of $$F$$ that contains a root of $$p(x)$$.
+
+**Corollary 5.12.**
+Let $$F$$ be a field and $$f(x)$$ a nonconstant polynomial in $$F[x]$$.
+Then there is an extension field $$K$$ of $$F$$ that contains a root of $$f(x)$$.
+
+- The implications of 5.11 run very deep
+- The passage from known number systems to new larger systems have been greeted with mistrust
+- Negative numbers, complex numbers, etc.
+- Abstract algebra provides a framework to view the situation.
+- Turn from "is there a number whose square is -1" to "is there a field containing $$\mathbb{R}$$ in which the polynomial $$x^2 + 1$$ has a root? Since $$x^2 + 1$$ is irreducible in $$\mathbb{R}[x]$$, the answer is yes: $$K = \mathbb{R}[x]/(x^2 + 1)$$ is an extension field of $$\mathbb{R}$$ that contains a root of $$x^2 + 1$$, $$\alpha = [x]$$
+- You can write every element of $$K$$ as $$[ax + b]$$
+- $$\alpha = i$$.
+- The field $$K$$ is isomorphic to the field $$\mathbb{C}$$, with the isomorphism $$f$$ being given by $$f(a + b \alpha) = a + bi$$.
+- 
 
 
 

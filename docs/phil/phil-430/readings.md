@@ -1037,13 +1037,191 @@ C. Cicero
 
 ### 51: Time
 
-### 33: Sayables
+### 33: Sayables (lekta)
 
+A. Diogenes Laertius
+- Utterance and speech are different; speech must be articulated sound
+- Speech is different from language
+- Speech can lack significance
+
+B. Sextus Empiricus, *Against the Professors*
+- Where is the sphere of truthhood and falsehood? Signification? Utterance? Processes which constitute thought?
+- Stoics: there are significations, the signified, adn the name-bearers.
+- Utterances and name-bearers are bodies, but the state of affairs (propositions) are incorporeal
+
+C. Sextus Empiricus
+- A sayable is what subsists in accordance with "rational impression"
+- "Rational impression": impression from language
+
+D. Diogenes Laertius
+- Impression, thought, agency of the impression
+
+E. Seneca, *Letters*
+- Stoic bodily substances: here is a man, here is a horse
+- But there are also thoughts about bodies
+- Sense-perception reveals that Cato is walking, and my mind believes it
+- When I say "Cato is walking", I am enunciating about a body, or a proposition. 
+- Difference between naming it and speaking about it
+
+F. Diogenes Laertius
+- Sayables
+    - Complete: propositions and syllogisms
+    - Incomplete: active and passive predicates
+- There is a sayable in what subsists in accordance with a rational impression
+- Sayables are complete and incomplete
+- Incomplete sayables: "Who?" (a question?)
+- Complete sayables: "Cato is walking"
+
+G. Diogenes Laertius
+- A predicate: what is asserted of something
+
+H. Diogenes Laertius
+- An animal's utterance is air struck by an impulse...
+- A man's utterance is articulated from thought, and *perfected at 14*
+- Utterance is a body, for everything acts as a body
+
+I. Stobaeus
+- All impulses are acts of assent, they have no motive power
+- Propositionsa re the objects of acts of assent
+- Impulses are directed towards predicates
+
+J. Stobaeus
+- What should be chosen vs. what should be wished?
+- Choices, desires, and wishes are of predicates, just like impulses
+- We choose to have goods, so goods are choiceworthy and wishworthy and desireworthy.
+
+K. Ammonious
+- Stoic reply to the nominative case which has fallen from thought to the soul (???)
+- When we want to exhibit the thought of Socrates *which is in us*, we utter the name
+- In the nominative / direct case one literally falls from thought
+
+L. Scholia on Dionysius Thrax
+- If the nominative is upright, why is it a case?
+- It has fallen from the incorporeal and generic into the specific. 
+
+M. Diogenes Laertius
+- An appelative is a part of language which signifies a common quality
+- A name is a part of language which indicates a peculiar quality
+- A verb is a part of language which signifies a noncompound predicate, or a care-less constituent, attachable to things
+
+N. Ammonius
+- Nouns and verbs primarily and immediately signify thoughts, but through intermediate things (the Stoic sayables)
+
+O. Clement
+- What you say passes trhough your mouth.
+- But a house does not pass trhough your mouth. 
+- We say house, the incorporeal case
+
+P. Sextus Empiricus
+- True vs truth: differ in substance, structure, and function
+- Substance: what is true is incorporeal, because it is a proposition, but truth is a body
+- Structure: what is ture is simple, but truth is the knowledge of many true things
+- Function: truth pertains to scientific knowledge, but this is not necessarily true of what is true
+
+> "Hence they say that truth is only in a virtuous man, but what is true is also in an inferior man; for the inferior man can say something true."
+
+Discussion
+- The foundation of Stioc logic is a theory dividing language into phonetic and semantic aspects
+- Utterances -- words and sentences distinguished from vocal sounds and speech
+- Words and sentences are only meaningful to those who understand language
+- Sayables / lekta: most important species is truths and falsehoods on propositions
+- Linguistically, lekta are meanings of finished sentences (complete), verbs without a specified subject (incomplete)
+- What completes a sayable is being attached to a nominative case
+- Case: a syntactical relation of a noun to other constituents of a sentence
+- Sayable vs signifier (utterance) and name-bearer (the corporeal entity being described)
+- Cato / wisdom are bodies
+- "Cato is walking" is not itself a body, but something which can be said about a body
+- An effect one body brings about another is not another body, but an incorporeal predicate which comes to be true
+- So what are incorporeals, given Stoics insist only bodies exist?
+- Why are they grouped with place, void, and time?
+- Meaningful sentences can be false and true
+- Statements distinguish subjects and predicates, but nothing physically allows for this distinction. Distinctions have to abstract features in a way which is not purely physical.
+    - Sayables are abstractions from bodies?
+- Sayables "subsist" in the class of "somethings"
+- A person's thought / "rational impression" -- corporeal.
+- The rationality of thought is its relationship to a sayable (proposition?)
+    - connection between thought and language
+- The proposition that Cato is walking is the logical/linguistic correlate of my thought
+- A predicate is the main type of incomplete sayable -- it is the signification of a verb
+- A complete sayable is an attachment of a predicate to a case
+- Are nouns used to complete sayables? Not necessarily; nouns signify qualities (of existing bodies)
+- A complete sayable should have a corporeal word for subject and an incorporeal predicate.
+- Significations are mainly predicates -- abstract, incorporeal entities
+- Predicates only play a part in logic when they are linguistically uttered
+- Sayables are *parasitic* onto language
+- "Case" -- designates not inflection but the inflected word
+- "Case" merely means grammatical items generally
+- Aristotle excluded the nominative from cases of nouns
+- Stoics: extend the term "case" (falling) to the nominative
+- Stoics fill in a gap in Aristotle's celebrated doctrine of meaning.
+    - Distinguishing rational impressions from sayables while connecting them via the concept of subsistence allows for meaning of thought to be transferable across minds
+- Facts or effects cannot be understood merely as meanings
+- Sayables are an objective account of the world
+- We apprehend sayables by thinking about something, and we express them using language
+- Lekta correspond to propositional content, not circumstances and individuality of rational impressions
+- Predicates are incorporeal, we can't "have" them.
+- Predicates are correlates of things, predicates describe the nature of subsistence
+- "Truth" is assimilated to scientific knowledge
+- Epistemic and ethical relations of truth
+- Stoic logic concerned with conditions for stating particular truths, not with "the truth"
 
 ### 30: Universals
 
+A. Stobaeus
+- Zeno's doctrine: concepts are neither somethings nor qualified, but figments of the soul -- quasi-somethings, quasi-qualified
+- Ideas
+- Stoic philosophers: there are no ideas; we participate in concepts; we bear appelatives
 
+B. Aetius
+- Stoics of Zeno say that Ideas were "our own concepts"
 
+C. Diogenes Laertius
+- Genus: collection of a plurality of inseparable concepts
+- Concept is a figment of the mind -- quasis-omething, quasi-qualified
+- A species is that which is contained within a genus
+- Existent: a genus which has no genus
+- Most specific is a species which has no species, Socrates
+
+D. Alexander
+- Not even something is the genus of everything
+
+E. Simplicius
+- Will the Idea be called a something?
+- Universals are not-somethings
+- Not-someone sophism
+
+F. Sextus Empiricus
+- Neither true nor false impressions are the generic ones
+- Generic man is neither Greek nor barbarian
+
+G. Syrianus
+- Only particulars exist
+
+H. Syranius
+- Forms introduced by "godlikemen"
+- Stoics later believe in...
+
+I. Sextus Empiricus
+- "Man is a rational mortal animal"... and, "If something is a man, that thing is a rational mortal animal" (conditional)
+- Universalized propostiion over cases
+- Instances and universals
+
+Discussion
+- Stoic treatment of universals is highly original and anticipates early British empiricsts
+- Universals are neither ontologically prior to theri instantiations, but rather concepts (ennoemata)
+- Plato's man turns out to be a spurious individual
+- Universals are not-somehtings and find themselves in metaphysical limbo
+- Stoic metaphysics has no place for non-individuals
+- Universals are convenient paraphrases of conditions with indefinite subject terms
+- Stoics are ready to speak of universals in a Platonic fashion; universals are basically species
+- Stoic theory is conceptualist
+- Universals are concepts
+- One's generic thought of man is a conception
+- A conception is simply a body, the corporeal soul disposed
+- Universal man is an intentional object of thought. Universal man is not the conception itself but the corresponding concept
+- Significance of concepts is in the objective existence of individual men
+- Individuals do not "participate" in general terms as they do in universals, but rather "bear" / are called by them
+- 
 
 
 

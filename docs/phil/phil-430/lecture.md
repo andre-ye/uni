@@ -549,12 +549,110 @@ What is body?
     - e.g. soul, body
 - To read for next time -- what are the categories?
 
+---
 
+## Week 8 Monday -- Sayables (lekta)
 
+Theory of Language in 19th-20th century Analytic Philosophy
+- Frege, *On Sense and Reference*
+- Question of proper names
+- The meaning of a proper name is just the referent / what we refer to it
+- "Hesperus is Phosphorus" is different from saying "Hesperus is Hesperus", even though the referents are the same
+- Frege's solution: there is a third layer to language, it can't just be names and referents, but there are meanings or "senses"
+- But you also actually get a theory of philosophy of language in Sayables
 
+Sayables
+- LS 33F
+- Incomplete sayables are predicates ("walking", "is white", "is sitting", etc.)
+    - You ask, "who"? "what"
+- Complete sayables: assertibles, questions, commands, oaths, prayers, etc.
+- When one body interacts with another body, the result is a predicate.
+    - You get an incomplete sayable
 
+Development of the theory of sayables
+- Predicate (attribute) to assertible (true proposition) to assertible (true or false proposition) to assertible, comamnd, question, etc. (a thing which can be said)
+- Not just bodies bumping into each other, there are facts about those bodies, true things we can attribute to bodies.
+- It's not the meaning that causes, it's the utterance that acts upon your percieving organs.
+- Sayable: "what subsists in accordance with a rational impression"
+- It's the impression that makes you do the thing
 
+Stoic *Scala Naturae*
+- Function of increasing complexity and unity due to a state of a body's *pneuma*
+    - Animal -- soul, even more rarified and complex, the internal principle of motion and rest includes the capacity for impression and impulse
+    - Plant -- physique, have an internal principle of motion and rest
+    - Rock -- tenor, unity
 
+Two senses of soul in Stoicism
+- Soul as the thing which is through-and-through blended with body
+- Soul as the commanding faculty, the highest part of the soul -- locus of impressions (phantasiai), something like consciousness
+
+Impressions (phantasiai)
+- Phantasiai -- impressions, appearances, presentations, perceptions
+- Phantasia -- impressions are bodies, impression is a causal element
+- We receive information from the world, impressors -- we are impressed by it (information makes contact with and moves our soul)
+- Impressions are bodies -- not incorporeals or sayables; they are things happening in the commanding faculty.
+- Sensation vs perception
+- Raw sensory data is not yet an impression. But perception is an awareness of the commanding faculty.
+- When something makes an impression, it gives information about itself and it makes its way to the commanding faculty. 
+- Sayables are the contents of rational impressions
+- Rational impressions are thhoughts; thoughts qua thoughts are bodies, dispositions of the soul
+- Differentiation of sayables wrt individuals is not clear
+- Argument: lekta are the structure of the world
+- Thoughts as linguistic and semantic
+- Everyone agrees sayables are the contents of rational impressions
+- But... do rational impressions give otherwise empty sayables their content, or do sayables give rational impresisons the contents to which they subsist?
+- Objects vs contents -- we can think about incorporeals as objects of thought, but they are not contents of thought. Rather all contents are sayables, lekta.
+- This passage focuses on sayables as a something, but what does it mean for it to be an object of my thought? -- alignment between object and content. But when we talk about void, the contents are sayables but the objects are void.
+
+"The Nominative Case"
+- L&S say that the nominative case is a word. This cannot be right, because the Stoics distinguish between words and what is expressed by them. A complete sayable cannot be composed from a word and an incomplete sayable.
+- One option: cases are incorporeal contents which are coordinate with predicates. But this is not well-supported either.
+
+---
+
+## Week 8 Wednesday -- Universals and the Highest Genus
+- Socrates in Plato's *Euthyphro* -- piety, what really is piety? What is the form of piety? You can't just give particulars.
+- Plato's metpahysical project, the theory of forms
+    - What is F? What makes something the kin dof thing it is?
+    - Plato: the answer is the Form it participates in
+- Plato's forms (eide)
+    - Universals
+    - Distinct from particular things
+    - Exist independently from indvidiual instances
+    - More fundamental / real than their instances
+    - Objective
+    - Forms: justice, piety, courage, goodness, etc.
+    - Forms are eternal, immaterial, unchanging
+- The form of something is what it is, regardless of what we encounter in the world
+- There is a form of justice, even if there are no sensible instantiations of justice
+
+Universals and Particulars: The Basic Distinction
+- Each corgi is an individual thing, or a particular
+- Each class contains many particular things and has internal unity.
+- Each class identifies a property of the things which fall under it.
+- Different ways of characterizing universals
+    - Realism: universals exist. Plato: universals ar emetaphysically prior to the things that instantiate them. Aristotle: universals exist but are dependent upon substances that instantiate them
+- Nominalism: universals do not exist. Peter Abelard, William of Ockham.
+- Interpretative problem of the Stoic metaphysics: do the Stoics allow universals into their ontology or are all somethings particulars?
+- "Fictional entities and limits" in Stoic metaphysics. Do Stoic concepts belong there?
+- Concepts -- ennoemata
+- A denial that universals are somethings
+- Figments of the soul, as if they were something, as if they were qualified; but not really
+- For every Platonic form, there is a Stoic concept
+- Stoic philosophers say there are no ideas, there are no forms; we participate in the concept / universal
+    - Participate: describe the relationship between a sensible and a universal in Plato's sense
+- It is through grammar that we get concepts
+- Stoic concepts "appear like" all of the things that fall under them, so particulars are more fundamental than concepts, for ther ewouldn't be a concept to exist
+- Concept-formation: preconceptions and conceptions
+- Are the Stoics reductivists or eliminativists about Platonic forms?
+- Universals as not-somethings?
+    - You can't read not-something in the sense that something isn't the highest genus anymore. 
+    - Some proponents posit being as the highest genus. 
+- Or... outina as *nothing at all*, so universals are absolutely nothing, only particulars are somethings, and something is the highest genus.
+- But the issue... if universals are not allowed in the ontology, then all of the Stoic divisions of philosophy have issues, because they make use of concepts
+- Concept-formation is how humans become rational -- they're part of how we organize our perceptions of the world around us. 
+- We can think about concepts as objects of thought.
+- ...so... either bite the bulle tad interpret concepts as not-somethings, or claim conecepts are a third kind of something, neither body nor incorporeal.
 
 
 

@@ -793,3 +793,106 @@ Introduction: Problems of Method
 
 page. 15
 
+---
+
+## "Heart Attack: A Critique of Jorge Garcia's Volitional Conception of Racism"
+
+- Garcia shifts the framework from the sociopolitical to the ethical and analyzes racism as a vice
+- Account is non-revisionist, non-doxastic, volitional, and moralized
+- Garcia's argument is in fact revisionist and does not satisfy all of these criteria.
+- Left-wing structural analyses are superior.
+
+Introduction
+- "The Heart of Racism" -- distinctive and original analysis of racism. 
+- Garcia has taken on many opponents in the field.
+- Garcia is one of the few conservatives in the black philosophical community.
+- Contests cozy left consenses.
+- Garcia offers a volitional, non-doxastic analysis of racism: racism as prmiarily a matter of ill will.
+- The "heart" of racism is a matter of the heart
+- Structural / holistic accounts which focus on power are erroneous.
+- Garcia's accoutn is moralized. Racism is always morally wrong
+- Racism is above all a vice.
+- Explanation of white racism vs. white supremacy
+- Garcia's accoutn is fundamentally misguided
+- Dispute is largely ideological, arising from different theoretical commitments.
+
+1: A Non-Revisionist Account
+- Definitions can be divided into revisionist and non-revisionist
+- Garcia claims to offer a definition of racism which is non-revisionist
+- Garcia is doing the traditional analytic-philosophical task of under-laborer: clearing up unclarities, making explicit implicit commitments which have been there all along.
+- Citing examples of "classification errors"
+- Some of Garcia's conditions shift the frame of neutrality
+- Reflect's Garcia's conviction that racism is basically a vice.
+- Why should racism have a similar structure to homophobia, antisemitism, xenophobia?
+- Sexism doesn't have to include ill will
+
+2: A Non-Doxastic Account
+- Belief is not essential to racism, since racism is in the heart a matter of ill will
+- Volitional-emotive vs. cogntiive-doxastic. 
+- How is "will" used?
+- What is really 'volitional"?
+- Quine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

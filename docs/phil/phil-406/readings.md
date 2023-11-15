@@ -760,16 +760,142 @@ Upshot?
 Introduction
 - 
 
+---
 
+## "The Transfeminist Manifesto", Emi Koyama
 
+- Broadening of the American feminist movement in the 2nd half of the 20th century
+- Diversity is our strength, not our weakness
+- What do feminists stand for? Whom do they represent?
+- "Trans" -- encompassing a wider range of gender norm violations
+- "Trans women" -- live as women despite sex assignment at birth
+- Overcoming a male/female dichotomy
+- Transfeminism: movement by and for trans women to view their liberation as linked to the liberation of all women and beyond
+- Trans men have made a greater contribution than trans women (...hm)
+- Transfeminism is not about "taking over" feminism, but about extending and advancing feminism through liberation and coalition work
+- "Women from different backgrounds stand up for each other"
 
+Primary Principles
+- Primary principles of transfeminism
+  - Each individual has the right to define his or her own identity and to expect society to respect it. (ok... not so sure.) Expressing gender without fear of discrimination or violence.
+  - We have the sole right to make decisions about our own bodies.
+- No one is free from existing regularizations of the gender system
+- Medicine: appointed to decide who is genuinely a woman or not
+- "Proving" womanhood by receiving hormonal interventions
+- Transfeminism: no one is to be coerced into personal decisions about their gender identity to be a "real" man or woman.
+- Trans women's safety depends on how well they can pass as "normal"
+- Transfeminism challenges (trans) women on how we internalize patriarchal gender mandates
+- "Purity test"
+- Denial of agency
 
+The Question of Male Privilege
+- Perhaps trans women and men benefit from male privilege?
+- Are f2m transsexuals "traitors" to feminism?
+- Trans women born as males surely still have benefited from it
+- Privilege is invisible to those who possess it, and very visible to those who lack it
+- What happens when trans women attempt to access "women's spaces"?
+- 70s lesbian feminism: white, middle-class women prioritizing sexism as the most fundamental social inequality
+- Transfeminists confront their own privileges
 
+Deconstructing the Reverse Essentialism
+- Gender is socially and culturally constructed. Sure.
+- But is there such a thing as true biological sex?
+- Feminists only questioned half of the problem...
+- Transfeminism holds that **sex and gender are both socially constructed**; the distinction is a matter of convenience.
+- People whose anatomical characteristics do not conform to male or female are manipulated into living the sex they have been assigned.
+  - intersex people
+- Genital mutilation of intersex children is abusive because it violates consent
+- Trans liberation: taking back the right to define ourselves
+- It's tempting to essentialize gender identity, "women trapped in men's bodies"
+- General public more likely to support trans people if the idea is that they were born with a biological error
+- We should not fetishize a notion of a "male" or "female" mind
 
+Body Image/Consciousness as a Feminist Issue
+- We might be ashamed or uncomfortable about our appearances, so we modify ourselves
+- We neglect social and political factors contributing to our personal decisions
+- You can fight against institutional enforcement of gender roles while also advocating for individuals' rights to choose how they live to feel safe
+- Destablizing the heterosexist patriarchy
 
+Violence Against Women
+- Feminists have identified violence against women not merely as isolated events, but a function of the patriarchy to keep women subjugated
+- Trans women are particularly subject to violence
+- Violence against trans people needs to be worked on
+- Transfeminism: fighting transphobia and sexism simultaneously in teh economic arena and in social and political ones
 
+Health and Reproductive Choice
+- Trans women have no capacity for bearing children but should be invested in the women's reproductive rights movement
+- Trans people are stigmatized because "we mess with our reproductive organs"
+- Taboo against self-determination of reproductive organs
+- Hormones for trans women and birth control for non-trans women
+- Reproductive choice is also about resisting sterilization and coerced abortion
+- The right to choose is not exclusively a heterosexual issue -- it is about women determining what they do with their bodies
+- It is futile to intellectually debate who is and isn't a woman -- it's time to build alliances.
 
+---
 
+## "Trapped in the Wrong Theory: Rethinking Trans Oppression and Resistance", Bettcher
+
+- "Wrong-body" model: transsexuality is a misalignment between gender identity and the sexed body
+- If transsexuality a problem of the mind? or of the body?
+- Weak wrong-body model: born with medical condition of transsexuality, and becomes a woman or a man
+- Strong wrong-body model: one's real sex is determined by gender identity. One has "already really been" a man or a woman
+- How to theorize for yourself? 
+- Alternative ways of living gender
+
+What's at stake?
+- If gender is a social construction, then what does this mean for transsexual people for whom gender identity seems to mean so much more?
+- What about trans people beyond the binary?
+- Different political manifestations
+  - "Transsexual" -- distance oneself from the standard transgender model. "Transsexual separatism. Wrong associations with gender nonnomrative people / cross-dressers?
+  - "Genderqueer", "trans*", ... -- the irony is clear.
+- Transgender politics appeals to both the beyond the binary and the wrong body model.
+- A politics of ability?
+- Wrong-body fails to secure validity -- many different features are part of sexual determination. Are they male or female? You can't really say.
+- Perhaps a genitally postoperative transsexual woman is actually in violation of the binary. But one is admited into the category of woman "marginally"
+- It's not really even clear by the stronger version if a transsexual woman really is female or a woman prior to genital reconstruction.
+- Why not avoid saying that anything is wrong at all?
+- What if gender identity itself is problematic?
+- **Transsexual claims to belong to a sex do not appear to be metaphysically justified**; they are political in nature.
+- Transfeminism: politics focusing on intersections of sexist and transphobic oppression.
+- How can transsexual women be oppressed both as being women and as being beyond the binary?
+- Wrong body account: problematic commitments from a feminist perspective, e.g. appeal to innate gender identity. It cannot be innate.
+- A genuinely intermeshing account of trans oppression and the oppression of women
+
+Thinking trans
+- Genitcal configurations don't undermine facts about "who we are"
+- Does "trans woman" mean someone who is beyond the binary?
+- "I'm a woman" 
+- Trans women can be "paradigmatic women", while simultaneously being a man in the dominant culture
+- Wrong-body and transgender approaches: take the dominant meanings of gender terms for granted -- blocking off possibly resistant meanings.
+- The problem is not the rigidty of binary categories but the assumption that there is only one interpretation.
+- Rather than focusing on abstract vectors of oppression, think about institutionalized transphobic violence
+- Trans people perceived as "deceivers" -- presenting themselves as something they are not -- deceivers and pretenders
+- Being "discovered" as "a transgender"
+- Deceiver allows us to rethink the notion of doing gender. Clothing conceals the body. Misalignment of concealment and "the thing underneath" -- reality enforcement.
+  - Identity invalidation
+  - Appearance-reality contrast
+  - Deceiver-pretender double bind
+  - Genital verification
+- Genitalia as a concealed reality
+- Are genitalia "natural possessions"?
+- Public gender presentation euphemistically communicates moral genitalia
+- Cultural genitalia
+- We can say that genitals have nothing to do with the negotiations of gender. But the certainly do.
+- Sex is moral in nature -- gender is a euphemistic display of concealed moral (genital) sex (it really is about penises?)
+- What explains moral genitalia is the subjection of bodies to sex-differential boundaries of privacy and decency, which is essential to the possibility of intimacy.
+- Sex-differentiated forms of nakedness.
+- As variations of reality enforcement move away from paradigmatic cases, they lose commonly associated features
+- Reality enforcement is institutionalized -- blending reality enforcement with sexual violation
+
+Resistance in the wrong-body narrative
+- Trans people are constructed as construction; in a world where we all play a part, trans individuals play actors.
+- Naturalization vs denaturalization? 
+- A constrast between appearance and reality, a genitalization of the body
+- Material vs inner body
+- Wrong-body narrative outlines a telos
+- Clinical distrust of trans people
+- Fuller opposition to reality enforcement: gender presentation vs genitalia
+- "Trapped in the wrong theory"
 
 
 
