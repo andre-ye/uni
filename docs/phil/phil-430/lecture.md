@@ -653,7 +653,9 @@ Universals and Particulars: The Basic Distinction
 - Concept-formation is how humans become rational -- they're part of how we organize our perceptions of the world around us. 
 - We can think about concepts as objects of thought.
 - ...so... either bite the bulle tad interpret concepts as not-somethings, or claim conecepts are a third kind of something, neither body nor incorporeal.
-
+- Maybe there is another story.
+    - As the school develops its metaphysics and theory of language, the conditions for what counts as something become more fleshed out.
+    - Relevant notion of a concept / universal changes
 
 
 
