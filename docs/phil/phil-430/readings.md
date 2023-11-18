@@ -443,6 +443,32 @@ Something, Not-Something, Nothing
 ### "The Stoics on Bodies and Incorporeals", Boeri
 Intro + pp. 738-750
 
+Introduction
+- Widespread view that the Stoics maintained absurd and incomprehensible conceptions
+- Alexander of Aphrodisias: tensional movement in Stoics vs. Aristotle
+- Sources hostile to the Stoics: reject Stoic principles on personally held grounds
+- Stoics hold that only corporeals have real causal power with respect to other things
+- Implicit attack on Platonism and Aristotelianism, forms and ends are the real causal factors and items that deserve to be called causes
+- The corporeal is the essential hallmark of  the existent.
+- Complex theory of incorporeals, 'somethings' which are strictly nonexistent but subsistent
+- Views of Stoicism held by Proclus, Plutarch, Alexander are often misleading -- take incorporeals to be seocndary realities
+- Reciprocal dependence between bodies and incorproeals
+
+III
+- Stoic distinction between cause and causal account.
+- Distinctions between being happy (incorporeal) and happiness (a body)
+- Zeno: the principles of all things are the active and the passive; all that is existent is either active or passive.
+- Chrysippus: aitia is the formula, it is the propositional time related to a body.
+- A proposition is something incorporeal.
+- Aitia vs aition
+- Aition: a strict sense in which there is causation
+- Why set forth the distinciton between cause (body) and causal account (incorporeal) in a strongly corporealist ontology?
+- Stoic ontology: highest and first genus is "the something"
+- Do incorporeals play a role in the doctrine of causation?
+- Aitia, causal account: relevant tot eh causal account insofar as it is the way through which the causal account is grasped (through language).
+
+743.
+
 ### "Bodies and their Effects", Totschnig
 
 ---
