@@ -897,9 +897,40 @@ Resistance in the wrong-body narrative
 - Fuller opposition to reality enforcement: gender presentation vs genitalia
 - "Trapped in the wrong theory"
 
+---
 
+## "Allies Behaving Badly: Gaslighitng as epistemic injustice", Rachel McKinnon
 
+- Increasing epistemic insights from considering trans perspectives
+- "Allies", "safe spaces", etc. What is an ally?
+- Gaslighting
+- Abandon allyship; replace it with cultivating active bystanders
+- Subtle gaslighting: listener doesn't believe a speaker's testimon.
+- Epistemic injustice cricle
+- We have a strong reason to believe when someone tells us with respect to harassment and discrimination
+- Gaslighting by allies fails to afford first person epistemic authority
+- Allies need to see harm for themselves
+- Betryal
 
+---
+
+## "The Shameful face of Philosophy", Le Doeuff
+From *Teh Philosophical Imaginary*
+
+- Philsosophy is not a story, not a work of literature; it breaks through the domain of image.
+- We also find statues which breath in mythological terms, a pictorial world
+- Decorations
+- Thinking in images
+- Studies of myth and dream
+- Narrow version: interpretation of imagery in philosophical texts goes together wtih a search fro points of tension in work. Imagery is inseparable from the difficulties
+- Broader version: meaning conveyed by images works for and against teh system which deploys them.
+- The work of essays takes place in between the location of a difficulty and a contradiction
+- Philosophical imaginary
+- Images need to be decoded; but if the images of philosophical texts are so functional, are they not "Made" to measure, that there is not just an imaginary in philosophy but a properly philosophical imaginary
+- Icon of the feminine in philosophy: not universal. Formulated in conjunction with phallocratic prejudices.
+- Imagery as a cultural product
+- there is not just one reason or one imaginary
+- 
 
 
 

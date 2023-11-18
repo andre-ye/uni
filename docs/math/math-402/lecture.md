@@ -231,6 +231,10 @@ Hierarchy of rings
 ## Week 8 Monday -- Congruence Class Polynomial Rings
 
 - Why is 5.7/5.8 interesting? -- ring of polynomial congruence classes include the original field. The map from polynomial ring to congruence classes is not injective, so it's interesting that you can have an isomorphic map overall
+
+---
+
+## Week 8 Wednesday
 - 
 
 

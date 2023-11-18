@@ -795,7 +795,9 @@ page. 15
 
 ---
 
-## "Heart Attack: A Critique of Jorge Garcia's Volitional Conception of Racism"
+## Week 8: Responses to Volitional and Institutional Accounts
+
+### "Heart Attack: A Critique of Jorge Garcia's Volitional Conception of Racism"
 
 - Garcia shifts the framework from the sociopolitical to the ethical and analyzes racism as a vice
 - Account is non-revisionist, non-doxastic, volitional, and moralized
@@ -834,11 +836,43 @@ Introduction
 - Quine
 
 
+### "Is Racism in the Heart?", Tommie Shelby
+- Jorge Garcia, volitional concept of racism
+- Racism is rooted in noncognitive attitudes, motives and feelings
+- Racism is a "vicious kind of racially based disregard for the welfare of certain people"
+- Racism involves the heart of the racist: wants, intentions, hopes, fears, etc.
+- Immorality of racism stems from its bieng opposed to benevolence and justice
+- Racism is an individual moral vice
+- "Infection" model of racism: an act is racist insofar as a racist heart infects the conduct of the racist
 
+Methodological Considerations
+- Garcia thinks racism is necessarily wrong
+- A sociological or historical account does not need to make clear waht is wrong with racism
+- Garcia artificially limits the discussion of racism to moral and philosophical, which is itself an unreasonable requirement.
+- Garcia assumes the usefulness of the commonsense thick concept of "racism"
+- Garcia seeks to preserve the "descriptive core" and "condemnatory force" of the concept
+- Doesn't work when
+  - The phenomenon is not clearly wrong
+  - Ordinary use of the concept is too vague and inconsistent
+- It is not clear at wall what racism even means.
+- "Racism" has strong emotive force but little clear content. 
+- We should remain about he nature of the tterm racism fornow
+- Racism is always wrong -- this should be a concluision
+- Or... you can just stipulate racism is immoral, in which race "racism" functions as a condemnatory role.
+- Alternative to thick or stipulative approaches
 
+The Role of Racist Beliefs
+- Garcia: racist beliefs are seconadary and inessential
+- Racist beliefs are essential to and sufficient for racism
+- Whya re people racists? They ahve been socialized into a racist culture
+- Racist beliefs are central to an analysis of racism
+- Racism is fundamentally a kind of ideology
+- Ideologies are epistemically unsound and irationalily held.
+- Garcia rejects belief-centered accounts of racism because he is committed to the immorality requirement
+  - Iss and eue: category mistake (beliefs cannot be immoral) and incompatibility with freedom of thougthxpression
 
-
-
+Is a Racist Heart Essential?
+- No.
 
 
 

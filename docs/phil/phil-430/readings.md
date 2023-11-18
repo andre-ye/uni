@@ -441,9 +441,9 @@ Something, Not-Something, Nothing
 ## Stoic Materialism?
 
 ### "The Stoics on Bodies and Incorporeals", Boeri
+Intro + pp. 738-750
 
 ### "Bodies and their Effects", Totschnig
-
 
 ---
 
