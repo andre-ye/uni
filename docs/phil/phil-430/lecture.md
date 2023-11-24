@@ -657,6 +657,82 @@ Universals and Particulars: The Basic Distinction
     - As the school develops its metaphysics and theory of language, the conditions for what counts as something become more fleshed out.
     - Relevant notion of a concept / universal changes
 
+---
+
+## Week 9 Monday -- Universals, Incorporeals
+
+Problems with Stoic concepts
+- Are the Stoics reductivists (reduce to platonic forms) or eliminativists (remove platonic forms with something which does the job of forms) about platonic forms?
+- How do we read the word ou-tina? "nothing at all" or "not-something"?
+- Are universals not-somethings? if not, thenw hat is?
+- if universals are absolutely nothing, then they are not part of the ontology at all. No generics, universals, concepts allowed.
+- If universals are not allowed in the ontology, all somethings are particulars, and concepts cannot be real. But this conflicts with Stoic philosophy of mind, theory of perception, etc.
+- Concept-formation is how humans become rational.
+- Claim that concepts are a third thing, neither body nor incorporeal, but there is no evidence that something can be neither body nor incorporeal
+- As Stoicism developments and becomes more sophisticated, theory of language nad logic really develop, both of which affect the ontology.
+- Chrysippus: still wants forms to be nothing, forms as universals not allowed into the ontology.
+- Concepts are shorthand for sayables
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

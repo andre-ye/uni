@@ -583,7 +583,7 @@ Then the following conditions are equivalent.
 
 **Corollary 4.13.**
 Let $$F$$ be a field and $$p(x)$$ an irreducible polynomial in $$F[x]$$.
-If $$p(x) \vert a_1(x) a_2(x) \hdots a_n(x)$$, then $$p(x)$$ divides at least one of the $$a_i(x)$$.
+If $$p(x) \vert a_1(x) a_2(x) ... a_n(x)$$, then $$p(x)$$ divides at least one of the $$a_i(x)$$.
 
 **Theorem 4.14.**
 Let $$F$$ be a field.
@@ -636,7 +636,7 @@ Then $$f(x)$$ and $$g(x)$$ induce the same function from $$F$$ to $$F$$ iff $$f(
 - Factor theorem: finding first-degree factors of a polynomial in $$\mathbb{Q}[x]$$ is equivlaent to finding the roots of $$g(x) \in \mathbb{Q}$$.
 
 **Theorem 4.21.** The Rational Root Test.
-Let $$f(x) = a_n x^n + a_{n-1} x^{n-1} + \hdots + a_1 x + a_0$$ be a polynomial with integer coefficients.
+Let $$f(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0$$ be a polynomial with integer coefficients.
 If $$r \neq 0$$ and the rational number $$r/s$$ in lowest terms is a root of $$f(x)$$, then $$r \vert a_0$$ and $$s \vert a_n$$.
 
 - If $$f(x) \in \mathbb{Q}[x]$$, then $$cf(x)$$ has integer coefficients for some nonzero integer $$c$$.
@@ -651,17 +651,17 @@ Then $$f(x)$$ factors as a product of polynomials of degrees $$m$$ and $$n$$ in 
 
 **Theorem 4.24.**
 Eisenstein's Criterion.
-Let $$f(x) = a_n x^n + \hdots + a_1 x + a_0$$ be a nonconstant polynomial with integer coefficients.
-If there is a prime $$p$$ such that $$p$$ divides each of $$a-0, a_1, \hdots, a_{n-1}$$ but $$p$$ does not divide $$a_n$$ and $$p^2$$ does not divide $$a_0$$, then $$f(x)$$ is irreducible in $$\mathbb{Q}[x]$$.
+Let $$f(x) = a_n x^n + ... + a_1 x + a_0$$ be a nonconstant polynomial with integer coefficients.
+If there is a prime $$p$$ such that $$p$$ divides each of $$a-0, a_1, ..., a_{n-1}$$ but $$p$$ does not divide $$a_n$$ and $$p^2$$ does not divide $$a_0$$, then $$f(x)$$ is irreducible in $$\mathbb{Q}[x]$$.
 
 The polynomial $$x%n + 5$$ is reducible in $$\mathbb{Q}[x]$$ for each $$n \ge 1$$.
 Therefore, there are irreducible polynomials of every degree in $$\mathbb{Q}[x]$$.
 
-If $$f(x) = a_k x^k + \hdots + a_1 x + a_0$$, $$\bar{f}(x) = [a_k] x^k + \hdots + [a_1] x + [a_0] \in \mathbb{Z}_p[x]$$.
+If $$f(x) = a_k x^k + ... + a_1 x + a_0$$, $$\bar{f}(x) = [a_k] x^k + ... + [a_1] x + [a_0] \in \mathbb{Z}_p[x]$$.
 These two polynomials will have the same degree when the leading coefficient of $$f(x)$$ is not divisible by $$p$$.
 
 **Theorem 4.25.**
-Let $$f(x) = a_k x^k + \hdots + a_1 x + a_0$$ be a polynomial with integer coefficients, and let $$p$$ be a positiv eprime that does not divide $$a_k$$. 
+Let $$f(x) = a_k x^k + ... + a_1 x + a_0$$ be a polynomial with integer coefficients, and let $$p$$ be a positiv eprime that does not divide $$a_k$$. 
 If $$\bar{f}(x)$$ is irreducible in $$\mathbb{Z}_p[x]$$, then $$f(x)$$ is irreducible in $$\mathbb{Q}[x]$$.
 
 For every non-negative integer $$k$$, there are only finitely many polynomials of degree $$k$$ in $$\mathbb{Z}_p[x]$$, so in fact you can determine whether any given polynomial in $$\mathbb{Z}_p$$ is irreducible by checking a finite number of factors.
@@ -815,7 +815,7 @@ Let $$R$$ be a commutative ring with identity, $$c \in R$$, and $$I$$ the set of
 
 **Theorem 6.3.**
 Let $$R$$ be a commutative ring with identity and $$c_1, c_2, ..., c_n \in R$$.
-Then the set $$I = \{ r_1 c_1 + r_2 c_2 + \hdots + r_n c_n \vert r_1, r_2, \hdots, r_n \in R \}$$ is an ideal in $$R$$.
+Then the set $$I = \{ r_1 c_1 + r_2 c_2 + ... + r_n c_n \vert r_1, r_2, ..., r_n \in R \}$$ is an ideal in $$R$$.
 
 - Ideals generated in 6.3. are finitely generated
 
@@ -851,4 +851,53 @@ Then two cosets of $$I$$ are either disjoint or identical.
 
 - If $$I$$ is an ideal in a ring $$R$$, then the set of all cosets of $$I$$ (congruence classes modulo $$I$$) is denoted $$R / I$$.
 
+### 6.2: Quotient Rings and Homomorphisms
+
+- The set of congruence classes modulo an ideal is itself a ring
+- Let $$I$$ be an ideal in $$R$$.
+- Then the elements of $$R/I$$ are cosets of $$I$$ (congruence classes modulo $$I$$), i.e. $$a + I = \{ a + i \vert i \in I\}$$.
+
+**Theorem 6.8.**
+Let $$I$$ be an ideal in a ring $$R$$.
+If $$a + I = b + I$$ and $$c + I = d + I$$ in $$R / I$$, then $$(a + c) + I = (b + d) + I$$ and $$ac + I = bd + I$$.
+
+$$(a + I) + (c + I) = (a + c) + I$$
+
+**Theorem 6.9.**
+Let $$I$$ be an ideal in a ring $$R$$.
+Then
+1. $$R/I$$ is a ring, with addition and multiplication of cosets as defined previously
+2. If $$R$$ is commutative, $$R / I$$ is a commutative ring
+3. If $$R$$ has an identity, then so does the ring $$R / I$$
+
+- $$R / I$$ is the quotient ring or factor ring of $$R$$ by $$I$$.
+
+Homomorphisms
+- Quotients generalize congruence-class arithmetic in $$\mathbb{Z}$$ and $$F[x]$$.
+
+**Definition.**
+Let $$f : R \to S$$ be a homomporhism of rings.
+Then the kernel of $$f$$ is the set $$K = \{ r \in R \vert f(r) = 0_S \}$$.
+- Note that $$0_R$$ is in the kernel since $$f(0_R) = 0_S$$
+
+**Theorem 6.10.**
+Let $$f : R \to S$$ be a homomorphism of rings.
+Then the kernel $$K$$ of $$f$$ is an ideal in the ring $$R$$.
+Every kernel is an ideal.
+
+**Theorem 6.11.**
+Let $$f : R \to S$$ be a homomorphism of rings with kernel $$K$$.
+Then $$K = (0_R)$$ iff $$f$$ is injective.
+
+**Theorem 6.12.**
+Let $$I$$ be an ideal in a ring $$R$$.
+Then the map $$\pi: R \to R / I$$ given by $$\pi(r) = r + I$$ is a surjective homomorphism with kernel $$I$$.
+The map $$\pi$$ is the natural homomorphism from $$R$$ to $$R / I$$.
+Every ideal is the kernel of a homomorphism.
+
+- If $$f : R \to S$$ is a surjective homomorphism of rings, $$S$$ is a homomorphic image of $$R$$.
+
+**Theorem 6.13.** (The First Isomorphism Theorem.)
+Let $$f: R \to S$$ be a surjective homomorphism of rings with kernel $$K$$.
+Then the quotient ring $$R / K$$ is isomorphic to $$S$$.
 

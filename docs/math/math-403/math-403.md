@@ -2,20 +2,20 @@
 layout: default
 title: MATH 402
 parent: Mathematics
-nav_order: 402
-permalink: /docs/math/math-402
+nav_order: 403
+permalink: /docs/math/math-403
 has_children: true
 ---
 
-# MATH 402
+# MATH 403
 
-Ring Theory
+Group Theory
 {: .fs-6 .fw-300 }
 
-Bianca Viray
+TBD
 {: .label }
 
-Fall 2023
+Winter 2024
 {: .label .label-green }
 
 3 Credits

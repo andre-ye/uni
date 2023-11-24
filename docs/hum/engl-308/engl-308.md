@@ -1,9 +1,9 @@
 ---
 layout: default
 title: ENGL 308
-parent: English
+parent: Humanities
 nav_order: 308
-permalink: /docs/eng/engl-308
+permalink: /docs/hum/engl-308
 has_children: true
 ---
 

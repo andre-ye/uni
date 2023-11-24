@@ -466,14 +466,166 @@ III
 - Stoic ontology: highest and first genus is "the something"
 - Do incorporeals play a role in the doctrine of causation?
 - Aitia, causal account: relevant tot eh causal account insofar as it is the way through which the causal account is grasped (through language).
+- Cause-effect relaitonship and knowledge
+- The soul is like a sheet of paper ready for writing upon, but there are also a priori ideas
+- Diogenes Laertius: preconception, a natural conception of the universal things
+- Aition/aitia distinction 
+- The effect is a predicate / sayable
+- Predicates are closely involved in the causal explanation of a bodily entity
+- The truly real is corporeal. Different states of the soul are corporeal too. Virtue is the commanding part of a soul disposed in a certain way.
+- Soul shares his affections with body
+- Happiness is the goal or target, and telos is attaining happiness.
+- Aristotelian sense: Stoics hold that that there is an end that things should be done.
+- SImply being happy is the end
+- We aim at being happy, not at happiness. We are happy when we have reached happiness.
+- Distinction between goal and end is ontological distinction between corporeal and incorporeal
+    - Skopos, happiness is a body
+    - Telos, predicate, being happy is an incorporeal
+- What is worth being chosen and what should be chosen is different.
+- We choose what should be chosen, to be happy (eudaimonein), as a predicate
+    - The direct object of our choice is the goal which is proposed, a body.  But we choose what should be done as an incorporeal predicate
+- Predicates do not exspress an actual state of the world necessarily
+- Predicates are incorporeal because they are lekta
+- The actual world is not real to us unless we evaluate it with incorporeals, or the sayables.
 
-743.
 
 ### "Bodies and their Effects", Totschnig
+
+Intro + Page 128 to the end
+
+- Stoic incorporeals are to be understood as effects of the causality of bodies
+- Lekta fit into the category of incorporeals
+
+Introduction
+- Stoics give us a puzzling ontology
+- Only bodies exist
+- But also facts and events we refer to using language (lekta) are incorporeal
+- How can facts of the world lack existence?
+- Causation is not a relation between cause and effect but involves four items: two bodies are causes to each other and produce two incorporeal predicates.
+- Is causation a symmetrical relation?
+- Ontology and causation elucidate each other
+- Stoic incorporeals are effects of the causality of bodies
+
+3 -- The Incorporeality of Sayables
+- What do the Stoics mean by "sayable" (lekton)?
+- Four different contexts:
+    - Stoic conception of causation
+    - Analysis of language, the signification or meaning of an utterance
+    - Psychological context, the content of a thought / rational impression (body).
+    - The object of an impulse / object of striving, "being wise"
+- What connects these uses of a sayable?
+- The effects of the causal connections between bodies are events, and an event is signified by an utterance, reflected by a thought, and aimed at by an action.
+- Why are sayalbes incorporeal?
+    - Maybe there is no good way to conceive of an utterance in corporeal terms. Utterances can be false. They cannot be equated with affairs. 
+- Even assuming we cannot see the mental states of speakers would not solve the puzzle of Stoic incorporeals.
+
+4 -- Surface Effects
+- The Stoic conception of causation provides the answer to our question
+- Stoic incorporeals are effects of the causality of bodies
+- Stoic incorporeals are effects, surface-effects
+- What completes a predicate is that it is joined to a subject
+- A body is the cause of a predicate to another body means that the body causes a complete sayable -- the subject has completed.
+- Sayables are effects of the activity of bodies; facts or events produced by interactions of bodies that make up the world.
+- Sayables constitute the domain of meaning, something incorporeal over corporeal reality
+- Diogenes Laertius: a surface is the limit of a body, that which only has length adn breadth without depth. Lines are limits of surfaces, and points limitso f lines. A limit is the limit of a particular body. So there is a causal interaction between a portion of divine breath and inert matter.
+
+5 -- Time
+- Chrysippus: time is "the interval of the world's motion"
+- Time is relative to and ane ffect of the world... maybe? Not so fast.
+- Time / diastema / "dimension"
+- Time is a mere effect of that cosmos
+- The Stoic cosmos is fundamentally timeless. Every future occurrence is preordianed, fated. There is no time in the sense of past, present, future. If future occurrences are preordained, they are already here. The formation of the world until its conflagration is laid out start to end.
+- Days, months, years are not stretches of time but stretches of th ecosmos, and therefore bodies.
+- Time as past, present, future is a mere effect, merely an incorporeal produced by this interaction.
+- The symmetry of causal relation between bodies. But this is logical: you cannot identify a direction in a causal relation given that both are present together.
+- Doctrine of eternal recurrence: cosmic cycle of formation and conflagration repeats iself again and again; it is the exactly same world.
+- Time is a mere effect
+
+6 -- Huphistanai and Huparchein
+- Huphistanai -- to subsist, in distinction to einai
+- Galen: Stoics divide between existent and subsistent, or between bodies and incorporeals
+- Incorporeals are inactive and subsist merely in thought.
+- Predicates which are actual attributes are said to obtain
+- A false sayable does not have the required causal history; it has not been effected by the world and does not huparchein.
+- True sayables have come to subsist when they become objects of thought
+- Huparchein is not only applied to effects / sayables, but also to time
+- Huparchein: ontological status of the present
+- Huphistanai: the past and the future
+- Huparchein: the presence of an event or process, the actuality of an effect that results from a cause.
+- Huparchein means the same as in other contexts -- sayables, actual events.
+- Time for the Stoics is an aspect of the effectuation of sayables
+- Sayables are present events, treu sayables
+- Huparchein -- way of being of such effects
+
+7 -- Place and Void
+- Place is an effect of the activity of bodies
+- Void as conceived in a dimensional way underlying bodily existence
+
+8 -- Conclusion
+- Ontology of Stoics and their concept of causation are connected.
+- Stretches of time are bodies; world is indistuishable in incarnations
+- Void as an outlier
+
 
 ---
 
 ## *The Hellenistic Philosophers*, Long & Sedley
+
+### 1: Scepticism
+
+A. Diogenes Laertius
+- Pyrrho of Elis: introduced a philosophy of non-cognition and suspension of judgement
+- Nothing is honorable or base, just or unjust, and nothing exists in truth
+- Pyrrho avoided nothing and took no precautions, facing everything as it came
+
+B. Diogenes Laertius
+- Pyrrho lived as a recluse
+- Epicurus admired Pyrrho's lifestyle
+
+C. Diogenes Laertius
+- Pyrrho: scared by a dog, "it is difficult to strip oneself completely of being human", but one can struggle against circumstances
+
+D. Sextus Empiricus
+- Metrodorus, Anaxarchus, Monimus -- abolished the cirterion of truth, we know nothing
+
+E. Diogenes Laertius
+- The "happiness man"
+
+F. Aristocles
+- We need firstly to investigate our own capacity for knowledge
+- How are things by nature?
+- What attitude should we adopt towards them?
+- What will be the outcome for those with this attitude?
+- Things are equally indifferent, unmeasurable, and inarbitrable
+- Our sensations and opinions tell neither truths nor falsehoods
+- We should be unopnionated, uncommitted, and unwavering.
+- Outcome for this attitude: speechlessness, then freedom from disturbance, then pleasure
+
+G. Diogenes Laertius
+- *Pytho*: the expression "no more" signifies suspension of judgement
+
+H. Diogenes Laertius
+- Later Pyrrhonists affirm appearance without affirming it *is* such a kind
+- We see that fire burns, but suspend judgement about whether it has an inflammable nature
+- "That honey is sweet I do not affirm, but I agree that it appears so"
+
+I. Sextus Empiricus, *Against the professors*
+- Nothing exists which is good or bad by nature
+
+J. Cicero
+- Stoic and Epicurean opinions have some solid foundation, Aristo, Pyrrho, Herillus have faded away
+
+K. Seneca
+- The Academics have nor epresentative
+- Who will hand down the teachings of Pyrrho?
+
+Discussion
+- Pyrrho was established as the Hellenistic philosophers were building up their philosophical identities
+- Totally negative position about objective values and accessibility to truth
+- Either there are no facts, or they are not the things available to cognition even in principle
+- "Indian sages"
+- Turning towards "what appears" as a practical guide for living
+- 
 
 ### 4: The principles of conservation (Epicureanism)
 

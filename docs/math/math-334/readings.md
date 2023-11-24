@@ -284,9 +284,9 @@ $$P_{a, k}(h) = \sum_{j = 0}^k \frac{f^{(j)}(a)}{j!} h^j$$
 
 - The $$k$$-th order taylor remainder is given by
 
-$$R_{a, k}(h) = f(a + h) - P_{a, k}(h) = f(a + h) - \sum_{j = 0}^k \frac{f^{(j)(a)}{j!} h^j$$
+$$R_{a, k}(h) = f(a + h) - P_{a, k}(h) = f(a + h) - \sum_{j = 0}^k \frac{f^{(j)(a)}}{j!} h^j$$
 
-- The Taylor polynomial is a godo approximation of $$f$$ near $$a$$.
+- The Taylor polynomial is a good approximation of $$f$$ near $$a$$.
 
 **Theorem 2.55.** -- Taylor's Theorem with Integral Remainder, I.
 Suppose that $$f$$ is of class $$C^{k+1}$$, with $$k \ge 0$$ on an interval $$I \subset \mathbb{R}$$, and $$a \in I$$. Then the remainder $$R_{a, k}$$ defined by 2.53 - 2.54 is given by
@@ -296,7 +296,7 @@ $$R_{a, k}(h) = \frac{h^{k+1}}{k!} \int_0^1 (1 -t )^k f^{(k+1)} (a + th) dt$$.
 **Theorem 2.58.** -- Taylor's Theorem with Integral Remainder, II.
 Suppose that $$f$$ is of class $$C^k$$, $$k \ge 1$$ on an interval $$I \subset \mathbb{R}$$, and $$a \in I$$. Then the remainder $$R_{a, k}$$ is given by
 
-$$R_{a, k}(h) = \frac{h^k}{(k-1)!} \in_0^1 (1 - t)^{k-1} \[ f^{(k)}(a + th) - f^{(k)(a)} \] dt$$
+$$R_{a, k}(h) = \frac{h^k}{(k-1)!} \in_0^1 (1 - t)^{k-1} [ f^{(k)}(a + th) - f^{(k)(a)} ] dt$$
 
 **Corollary 2.60.**
 If $$f$$ is of class $$C^k$$ on $$I$$, then $$R_{a, k}(h) / h^k \to 0$$ as $$h \to 0$$.
@@ -320,7 +320,7 @@ $$R_{a, k}(h) = f^{(k + 1)}(a + c) \frac{h^{k+1}}{(k + 1)!}
 The Taylor Polynomials of degree $$k$$ about $$a = 0$$ are:
 
 - For $$e^x$$: $$\sum_{0 \le j \le k} \frac{x^j}{j!}$$
-- For $$\cos x$$: $$\sum_{0 \le j \le k/2} \frac{(-1)^j x^{2j}}{(2j)!}
+- For $$\cos x$$: $$\sum_{0 \le j \le k/2} \frac{(-1)^j x^{2j}}{(2j)!}$$
 - For $$\sin x$$: $$\sum_{0 \le j \le (k-1)/2} \frac{(-1)^j x^{2j + 1}}{(2j + 1)!}$$
 - For $$(1 - x)^{-1}$$: $$\sum_{0 \le j \le k} x^j$$
 
@@ -358,7 +358,7 @@ If $$f$$ has a local max or min at $$\mathbf{a}$$ and $$f$$ is differentiable at
 **Definition.**
 Suppose $$f$$ is a real-valued function of class $$C^2$$ on some open set $$S \subset \mathbb{R}^n$$ and $$f$$ has a critical point at $$\mathbf{a}$$. One needs an $$n \times n$$ matrix $$H$$
 
-$$H = H(\mathbf{a}) = \begin{pmatrix} \del_1^2 f(\mathbf{a}) & \del_1 \del_2 f(\mathbf{a}) & \hdots & \del_1 \del_n f(\mathbf{a}) \\ \del_2 \del_1 f(\mathbf{a}) & \del_2^2 f(\mathbf{a}) & \hdots & \del_2 \del_n f(\mathbf{a}) \\ \vdots & \vdots & \ddots & \vdots \\ \del_n \del_1 f(\mathbf{a}) & \del_n \del_2 f(\mathbf{a}) & \hdots & \del_n^2 f(\mathbf{a}) \end{pmatrix}$$
+$$H = H(\mathbf{a}) = \begin{pmatrix} \partial_1^2 f(\mathbf{a}) & \partial_1 \partial_2 f(\mathbf{a}) & ... & \partial_1 \partial_n f(\mathbf{a}) \\ \partial_2 \partial_1 f(\mathbf{a}) & \partial_2^2 f(\mathbf{a}) & ... & \partial_2 \partial_n f(\mathbf{a}) \\ \vdots & \vdots & \ddots & \vdots \\ \partial_n \partial_1 f(\mathbf{a}) & \partial_n \partial_2 f(\mathbf{a}) & ... & \partial_n^2 f(\mathbf{a}) \end{pmatrix}$$
 
 - The Hessian is always a symmetric matrix
 - Spectral theorem: every symmetric matrix has an orthonormal eigenbasis
@@ -372,7 +372,7 @@ For $$f$$ to hav ea local max at $$\mathbf{a}$$, it is necessary for the eigenva
 
 **Theorem 2.8.**
 Suppose $$f$$ is of class $$C^2$$ on an open set in $$\mathbb{R}^2$$ containing the point $$\mathbf{a}$$, and suppose $$\nabla f(\mathbf{a}) = \mathbf{0}$$.
-Let $$\alpha = \del_1^2 f(\mathbf{a}), \beta = \del_1 \del_2 f(\mathbf{a}), \gamma = \del_2^2 f(\mathbf{a})$$.
+Let $$\alpha = \partial_1^2 f(\mathbf{a}), \beta = \partial_1 \partial_2 f(\mathbf{a}), \gamma = \partial_2^2 f(\mathbf{a})$$.
 1. If $$\alpha \gamma - \beta^2 < 0$$, $$f$$ has a saddle point at $$\mathbf{a}$$.
 2. If $$\alpha \gamma - \beta^2 > 0$$ and $$\alpha > 0$$, $$f$$ has a local min at $$\mathbf{a}$$.
 3. If $$\alpha \gamma - \beta^2 > 0$$ and $$\alpha < 0$$, $$f$$ has a local max at $$\mathbf{a}$$.
@@ -408,7 +408,7 @@ Norm of a linear mapping is the smallest constant $$C$$ such that $$\vert A\math
 **Theorem 2.88.**
 Suppose $$\mathbf{f}$$ is a differentiable $$\mathbb{R}^m$$-valued function on an open convex set $$S \subset \mathbb{R}^n$$, and suppose that $$\Vert D\mathbf{f}(\mathbf{x}) \Vert \le M$$ for all $$\mathbb{x} \in S$$. Then
 
-$$\vert \mathbf{f}(\mathbf{b}) - \mathbf{f}(\mathbf{a}) \vert \le M \vert \mathbf{b} - \mthbf{a} \vert, \forall \mathbf{a}, \mathbf{b} \in S$$
+$$\vert \mathbf{f}(\mathbf{b}) - \mathbf{f}(\mathbf{a}) \vert \le M \vert \mathbf{b} - \mthbf{a} \vert , \forall \mathbf{a}, \mathbf{b} \in S$$
 
 **Definition.**
 The Jacobian of a mapping $$\mathbf{f}$$ is a scalar-valued function on $$S$$ and is the determinant of $$D\mathbf{f}$$.
@@ -489,7 +489,7 @@ $$\delta A_{jk} = (x_j - x_{j-1}) (y_k - y_{k-1})$$
 
 $$s_P f = \sum_{j = 1}^J \sum_{k=1}^K m_{jk} \delta A_{jk}$$
 
-$$S_P f = \sum_{j=1}^J \sum_{k=1}^K$$ M_{jk} \delta A_{jk}$$
+$$S_P f = \sum_{j=1}^J \sum_{k=1}^K M_{jk} \delta A_{jk}$$
 
 $$_LI_R (f) = \sup_P s_P f$$
 
@@ -532,8 +532,8 @@ $$\text{area}(S) = \int \int_S 1 dA = \int \int \chi_S dA$$
 - Theory of $$n$$-dimensional integrals -- need to use $$n$$-dimensional rectangular boxes in $$\mathbb{R}^n$$
 - A bounded set $$Z \subset \mathbb{R}^n$$ has zero content iff for any $$\epsilon > 0$$ there are rectangular boxes $$R_1, ..., R_k$$ whose total volume is less than $$\epsilon$$, where the union of $$R_j$$ is a cover for $$Z$$.
 
-- **Theorem 4.24.** (The Mean Value Theorem for Integrals.) Let $$S$$ be a compact, connected, measurable subset of $$\mathbb{R}^n$$, and let $$f, g$$ be continuous functions on $$S$$ with $$g \ge 0$$. Then there is a point $$\mathbf{a} \in S$$ such that $\int \hdots \int_S f(\mathbf{x}) g(\mathbf{x}) d^n \mathbf{x} = f(\mathbf{a}) \int \hdots \int_S g(\mathbf{x}) d^n \mathbf{x}$$.
-- **Corollary 4.25.** Let $$S$$ be a compact, connected, measurable subset of $$\mathbb{R}^n$$. Let $$f$$ be a cotninuous function on $$S$$. Then there is a point $$\mathbf{a} \in S$$ such that $$\int \hdots \int_S f(\mathbf{x}) d^n \mathbf{x} = f(\mathbf{a}) \vert S \vert$$ -- this is the average of mean value of $$f$$ on $$S$$
+- **Theorem 4.24.** (The Mean Value Theorem for Integrals.) Let $$S$$ be a compact, connected, measurable subset of $$\mathbb{R}^n$$, and let $$f, g$$ be continuous functions on $$S$$ with $$g \ge 0$$. Then there is a point $$\mathbf{a} \in S$$ such that $$\int ... \int_S f(\mathbf{x}) g(\mathbf{x}) d^n \mathbf{x} = f(\mathbf{a}) \int ... \int_S g(\mathbf{x}) d^n \mathbf{x}$$.
+- **Corollary 4.25.** Let $$S$$ be a compact, connected, measurable subset of $$\mathbb{R}^n$$. Let $$f$$ be a continuous function on $$S$$. Then there is a point $$\mathbf{a} \in S$$ such that $$\int ... \int_S f(\mathbf{x}) d^n \mathbf{x} = f(\mathbf{a}) \vert S \vert $$ -- this is the average of mean value of $$f$$ on $$S$$
 
 
 

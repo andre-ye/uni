@@ -1,9 +1,9 @@
 ---
 layout: default
 title: ENGL 284
-parent: English
+parent: Humanities
 nav_order: 284
-permalink: /docs/engl/engl-284
+permalink: /docs/hum/engl-284
 has_children: true
 ---
 

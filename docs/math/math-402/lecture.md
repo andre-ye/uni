@@ -234,8 +234,6 @@ Hierarchy of rings
 
 ---
 
-## Week 8 Wednesday
-- 
 
 
 
