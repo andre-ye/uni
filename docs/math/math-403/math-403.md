@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATH 402
+title: MATH 403
 parent: Mathematics
 nav_order: 403
 permalink: /docs/math/math-403

@@ -954,6 +954,9 @@ Proof.
 If $$S \subseteq \mathbb{R}^n$$ is compact, connected, Jordan-measurable, and $$f$$ is continuous on $$S$$, then there exists some $$\vec{a} \in S$$ such that $$f(\vec{a}) = \text{Avg}_S(f) = \frac{1}{\text{Vol}(S)} \int_S f dV$$.
 There is some point in $$S$$ where you are equal to your average across the set.
 
+---
+
+
 
 
 

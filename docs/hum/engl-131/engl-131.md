@@ -1,9 +1,9 @@
 ---
 layout: default
 title: ENGL 131
-parent: English
+parent: Humanities
 nav_order: 131
-permalink: /docs/eng/engl-131
+permalink: /docs/hum/engl-131
 has_children: true
 ---
 

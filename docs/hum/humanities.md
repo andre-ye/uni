@@ -8,5 +8,5 @@ permalink: /docs/hum
 
 # Humanities Notes
 
-Additional courses in the humanities
+Additional in the humanities broadly
 {: .fs-6 .fw-300 }

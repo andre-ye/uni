@@ -234,6 +234,37 @@ Hierarchy of rings
 
 ---
 
+## Week 10 Monday -- Isomorphism Theorems
+
+**First Isomorphism Theorem.**
+Let $$\phi : R \to S$$ be a ring homomorphism.
+Then $$K = \ker \phi$$ is an ideal of $$R$$, and $$\phi(R)$$ (the image of $$\phi$$) is a subring of $$S$$.
+The quotient ring $$R / K$$ is isomorphic to the image of $$\phi$$, $$\phi(R)$$.
+The isomorphic map is $$r + K \to \phi(r)$$.
+
+**Second Isomorphism Theorem.**
+Let $$I, J \in R$$ be ideals.
+Then
+1. Intersection $$I \cap J \in I$$ is an ideal of $$R$$ in $$I$$.
+2. $$J \subseteq I + J$$ is an ideal
+3. $$I / (I \cap J) \cong (I + J) / J$$.
+
+**Third Isomorphism Theorem.**
+Let $$K \subseteq I \subseteq R$$, where $$K, I$$ ideals.
+Then $$I / K$$ is an ideal of $$R / K$$, and $$(R / K) / (I / K) \cong R / I$$.
+
+- Proof: send $$R / K \to R / I$$, where $$\phi(r + K) \to r + I$$. Then apply the first isomorphism theorem, and the kernel is $$I / K$$.
+- Example: $$(\mathbb{Z} / (100)) / ((2) / (100))$$ is isomorphic to $$\mathbb{Z} / (2)$$.
+- 
+
+**Fourth Isomorphism Theorem.**
+Let $$\phi : R \to S$$.
+Then there exists an inclusion-preserving bijection between the ideals in the image of $$\phi$$ and the ideals in $$R$$ which contain the kernel of $$\phi$$.
+
+---
+
+## Week 10 Friday --
+
 
 
 

@@ -672,11 +672,109 @@ Problems with Stoic concepts
 - As Stoicism developments and becomes more sophisticated, theory of language nad logic really develop, both of which affect the ontology.
 - Chrysippus: still wants forms to be nothing, forms as universals not allowed into the ontology.
 - Concepts are shorthand for sayables
-- 
 
+---
 
+## Week 10 Monday -- Early Pyrrhonism 
+- Skeptic tradition continues through late antiquity.
+- Sextus empiricus revives the skeptic tradition
+- Three schools:
+    1. Early Pyrrhonism: Pyrrho and Timon
+    2. Academic Skepticism: Arcesilaus, Carneades, Cicero
+    3. Later Pyrrhonism: Aenesidemus, Sextus Empiricus
+- Pyrrhonists, skeptics we think we should carry on investigating.
+- Academics, no discovery can be made when we investigate things
+- Skeptesthai, to investigate
+- Travels with Alexander the Great to India
+- Pyrrho is very well-liked in philosophical circles, lived with an "integrity"
 
+- Timon of Phlius, student and contemporary of Pyrrho
+- Rirst, aphasia (the stare of non-assertion, or speechlessness), and analarazio (freedom from distriubrance)
+- - Permissable to have opinions / claims abou somet hings. 
+- aAssert that the worl is determinayr
+- Pyrrho allgedly endds up with the same problem hes ssoughtt -=
+- Non-assertin as a non-epistmeic state
 
+---
+
+## Week 10 Wednesday: Academic Skepticism
+- Pyrrhonists: full exercise of reason via the suspension of judgement as the route to tranquility
+- Academic Skeptics: full exercise of reason as intellectual integrity via the suspension of judgement
+    - Arguing against every thesis.
+- Skeptical turn of the academy, with Arcesilaus (6th head of the academy)
+- Academic skeptics consider pyrrhonists to be dogmatists
+- Arcesilaus: eudaimonia, living a lifef guided by reason, following reason leads to a skeptical life without any beliefs
+- Academic skeptics claim nothing can be known. So how can they be open-minded inquirers?
+- Dialectical method in academic skepticism
+
+Sloganizing Academic Skepticism
+- Everything is inapprehensible / incognitive
+- We should suspend judgment about them
+- How are these two propositions related to each other?
+- Inapprehensible / ingraspable better than "incognitive"
+
+Non-apprehension, Akatalepsia
+- "katalepsia" -- grasp, cognitive apprehension of something
+- Is there a criterion of truth?
+- Epicureans: criterion is evident in sense-perception. The evident is the criterion for truth.
+- Stoics: criterion is the kataleptic impression. 
+- A kataleptic impression reveals its content, and that it is kataleptic. 
+- Academics say that you can have an impression which phenomenologically appears as kataleptic (i.e. is indistinguishable) but can distort the fundamental object. 
+- Indiscernibility principle: for every true impression, an identical but fals eone could arise
+- Wise man problem, self-referential problem
+- If we suspend judgement of everything, how do we act?
+- Stoic action theory: impression, assent, impulse.
+- It's the assent, not the impression, which is up to the subject. So you should be responsible for it under the Stoic theory
+- If byt he skeptics, humans cannot have correct beliefs / modes of assenting, how can a skeptic act? Skeptics can act without assenting.
+- Stoic response: this reduces you to non-rational animals.
+- Skeptics: not all impressions trigger impulses. We act without assenting by adhering to the reasonable (eulogon). Action just is the manifestation of rational agency. 
+- Skeptical agents are rational
+
+Carneades
+- Comes after Arcesilaeus
+- An enigma; the school turns towards interpreting and defending Carneades
+- Arcesilaus argued against everyt hesis by engaging an interlocutor
+- Carneades argued against himself
+- Clitomachus catalogs Carneades' arguments without claiming that Carneades accepts them, but interprets them as purely dialectical or leading to opinions that Carneades does endorse.
+- Philo of Larissa: abandons the notion that we need to suspend judgment; we can be motivated by certain beliefs and take them to be convincing without taking them to be true. 
+- Replaces skepticism with fallibilism. Commitment to a range of ideas while acknowledging they might be mistaken.
+- Influences Cicero -- what is probable / an approximation of the truth is good enough
+- Philo is the last head of the academy; this is where Plato's academy ends until Antiochus
+- Aenesidemus, leaving the academy -- "stoics fighting with stoics", revives skepticism as Pyrrhonism.
+
+---
+
+## Week 11 Monday -- Later Pyrrhonism
+- Wants to revive a more anti-dogmatic, radical skepticism
+- Appearances and thoughts placed in opposition generate equipollence (isostheneia) between them
+- The ten modes: forms of argument through which the skeptics put appearances and thoughts into opposition.
+- Suspension of judgement follows from equipollence.
+- With suspension of judgment comes tranquility (ataraxia)
+- Academic skepticism doesn't have ataraxia as an end, but this is the view of later Pyrrhonism
+- A description is a neutral stance of an impression currently affecting me; it does not express a belief
+- I don't need to believe that the impression is true, but I can describe it
+- Actions of a skeptic are instinctive, performed automatically without intervention of assent.
+- Skeptics have a 'partisan' end of ataraxia and recommend a particular lifestyle of suspension of judgement.
+- Are these two statements self-undermining / inconsistent?
+- Objects always perceived from a particular point of view, no neutral stance
+- Causal interpretation: focus on desidability. 
+- Claim about reality, how things in the world are
+- There is no fixed way to the way in which things really are
+- Causal interpretation: more metaphysically relativist
+- Is it an issue that the ten modes are systematic?
+    - One response: the ten modes are a response to where other philosophers have picked up an argument, to adopt their mode of investigation but to show that you should arrive at suspension of judgement
+- Agrippa's five modes
+    - Dissent
+    - Infinite regress
+    - Relativism
+    - Hypothesis
+    - Circularity
+- Sextus Empiricus, "empiricist" / methodist school of medicine, arguing against rationalist tendencies in medicine, over giving causal explanations or assuming regularities to ground therapies
+- Methodism derives beneficial insights from appearances; they don't try to offer up an explanation and try to postulate some underlying substance, or assume any sort of regularity.
+- Relationship between ancient medicine and skeptical arguments, skeptical arguments can be therapeutic
+- Sextus Empiricus, *Against the Mathematicians* -- learned people, against the logicians, against the musicians, etc.
+- Does the skeptic have any beliefs
+- We can free ourselves from the turmoil of having beliefs, but we cannot free ourselves from freezing, pain, etc.
 
 
 

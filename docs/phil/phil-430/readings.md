@@ -1399,7 +1399,208 @@ Discussion
 - Universal man is an intentional object of thought. Universal man is not the conception itself but the corresponding concept
 - Significance of concepts is in the objective existence of individual men
 - Individuals do not "participate" in general terms as they do in universals, but rather "bear" / are called by them
+
+## 68: Methodology
+
+A. Cicero
+- Nothing can be grasped, cognized, known; all senses are restricted, the mind is weak, and life is short; truth is submerged into an abyss
+- No one should maintain or assert anything, but always curb his rashness
+- Argue against everyone's opinions
+- Everything is investigated and nothing is stated as certain
+
+B. Cicero
 - 
+
+C. Cicero
+
+D. Diogenes Laertius
+- Arcesilaus, first to suspend assertions
+- Arguing pro and contra
+- Changing Platonic discourse into a debating contest
+
+E. Diogenes Laertius
+
+F. Numenius
+- Suspension of judgementin front of himself, this I do not believe
+- Ink and the cuttlefish
+
+G. Numenius
+- Zeno's discovery of the cognitive impressive
+
+H. Plutarch
+- Uneducated people
+- Suspense of judgement and non-cognition
+
+I. Sextus Empiricus
+- Does not assert the non/existence of anything
+- Does not prefer one thing to another by in/credibility
+- Suspension of judgment is the ethical end
+
+J. Cicero
+- Defense of opinion
+- Argument
+
+K. Cicero
+- Aristotle: practice of arguing pro and contra on particular subjects
+- Arcesilaus, object of always arguing against the opinions
+
+L. Cicero
+- The perfect / only orator?
+
+M. Lactantius
+- "not with the seriousness of a philosopher"
+- A manner of rhetorical exercise, argument is given pro and contra
+- Refuting Aristotle and Plato
+
+N. Cicero
+- Nothing is cognitive
+
+O. Cicero
+
+P. Augustine
+- Man cannot attain knowledge so far as things are philosophical
+
+Q. Cicero
+- It is obligatory to argue pro and contra everything to discover the truth
+- "our listeners may be guided by reason rather than authority"
+
+R. Cicero
+
+S. Cicero
+
+T. Sextus Empiricus
+- Things are incognitive
+
+U. Cicero
+- Define teh nature of knowledge or cognition 
+
+V. Galen
+- Pro and contra is best teaching
+- Suspension of judgement, lack of determination, making no firm determination about anything
+
+Discussion
+
+### 69: Living without opinions
+
+A. Plutarch
+- Impulse refuses to become assent
+- Soul has three movements: impression, impulse, assent
+- We cannot remove the movement of impression
+- Impulse is an inclination in the commanding faculty
+- Suspending judgement does not mean removing this impulse
+- The falsehood and deception lie in assenting
+- Action: impression and impulse (not in conflict with suspending judgement)
+- 
+B. Sextus Empiricus
+- A suspension of judgement regulates choice and actions by the reasonable
+
+C. Diogenes Laertius
+
+D. Sextus Empiricus
+- An impression is an impression of something
+    - That from which it arises, of that in which it arises
+- Convincing impressions
+
+E. Sextus Empiricus
+
+F. Cicero
+- It is absurd for the academics to say that we follow what is convincing and diverted by nothing.
+- If nothing is cognitive, how can we view them both?
+
+G. Cicero
+- I am not a wise man, and so I yield to impressions
+- Avoid being taken in, be not deceived
+
+H. Cicero
+- 
+
+...
+
+Discussion
+- Academics concerned with 2/3 levesl of opinions
+- Argumetns against Stoic epistemology
+- Rebutting Stoic criticms that suspension of judgement excludes purposive atcitivty
+- Skepticism can regulate "ordinary people"'s activities
+- "WIse man" -- totally exempt from unfounded opinions
+
+![Alt text](image-1.png)
+
+### 71: Why to suspend judgement
+A. Diogenes Laertius
+- Pyrrho determines nothing in doctrinaire fashion, but rather follows appearances
+- Suspension of judgement: "freedom from disturbance follows like a shadow"
+
+B. Diogenes Laertius
+- Pyrrhonist discourse is a recollection of appearances on the basis of which they are brought into confronation with each other
+
+C. Photius
+- There is no firm basis for cognition, either through sense-perception or thought.
+- Neither the Pyrrhonists nor others know the truth in things
+- Philosophers are ignorant of the fact that they do not grasp what they think they have grasped
+- Academics are doctrinaire: posit some things and deny others
+- Pyrrhonists are opertic and freer of all doctrine
+- Pyrrhonists do not say all things are this or that
+- The Pyrrhonist determined absolutely nothing. 
+- Academics turn out to be Stoics fighting with Stoics
+- Academics conflict with themselves
+
+D. Anonymous commentary
+- Leaving no difference between convincing or unconvincing, etc. -- everything is alike
+- LIve your life in accordance with whatever impression "befalls" you at every time
+
+Discussion
+- The story of Hellenistic philosophy closes with Pyrhonian skepticism
+- Aenesidemus founds a breakwary movement
+- Academic skepticism arises from an epistemic stance 
+- Aenesidemus -- develop the philosophical basis for Pyrrho's transquility
+- Pyrrho lived in non-committal conformity with appearances
+- You can act in accordance with impressions without takig them to be true.
+- Aenesidemus: opposed to doctrinaire theses
+- The Pyrrhonist knows he has a firm cognition of nothing -- knowing in a non-dogmatic sense. The Pyrronist is "not under the illusion that he has cognition"
+
+### 72: How to suspend judgement
+
+A. Sextus Empiricus
+- Suspension of judgement comes about by setting things into opposition
+- Perhaps the appearance of objectivity has not manifested to us yet
+
+On a different scheme, we oppose sometimes present things to present things, as in the cases just given, but sometimes present things to past and future things. For example, when someone presents us with an argument for a thesis which we cannot refute, we reply, ‘Just as before the founder of the school you follow was born the school’s thesis did not yet seem sound, but was an objective natural fact, likewise it is possible that the very opposite thesis to the one you have just argued is an objective natural fact but does not yet appear so to us. Hence it is premature to assent to the thesis which appears powerful to us at the present moment.
+
+Long, A. A.; Sedley, D. N.. The Hellenistic Philosophers: Volume 1, Translations of the Principal Sources with Philosophical Commentary (pp. 698-699). Cambridge University Press. Kindle Edition. 
+
+B. Sextus Empiricus
+- Conflict of impressions arises naturally throughout nature
+- Subjects register appearances differently
+- Objects gtive different impressions
+- We cannot judge our impressions supperior to those of irrational animals
+- We must suspend judgements about external objects.
+
+C. Sextus Empiricus
+
+D. Sextus Empiricus
+- The mode which derives from the difference between the senses
+
+Discussion
+- Aenesidemus made an important fundamental contirbution to skeptical methodology by analyzing the ten modes
+- We should not adopt a partisan stance with regard to any issue ever
+- inarbitrability -- there is not a priivleged viewpoint from which any conflict can be resolved
+- Relativity as the supreme genus?
+- Alleged objective states of affairs are beyond our cognition; we should suspend judgement about things
+- AIm is not to show that there are two sides to every doctrinal issue, but there is no basis for contemplating a doctrinal position on any issue to begin with.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

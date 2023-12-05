@@ -535,6 +535,148 @@ $$\text{area}(S) = \int \int_S 1 dA = \int \int \chi_S dA$$
 - **Theorem 4.24.** (The Mean Value Theorem for Integrals.) Let $$S$$ be a compact, connected, measurable subset of $$\mathbb{R}^n$$, and let $$f, g$$ be continuous functions on $$S$$ with $$g \ge 0$$. Then there is a point $$\mathbf{a} \in S$$ such that $$\int ... \int_S f(\mathbf{x}) g(\mathbf{x}) d^n \mathbf{x} = f(\mathbf{a}) \int ... \int_S g(\mathbf{x}) d^n \mathbf{x}$$.
 - **Corollary 4.25.** Let $$S$$ be a compact, connected, measurable subset of $$\mathbb{R}^n$$. Let $$f$$ be a continuous function on $$S$$. Then there is a point $$\mathbf{a} \in S$$ such that $$\int ... \int_S f(\mathbf{x}) d^n \mathbf{x} = f(\mathbf{a}) \vert S \vert $$ -- this is the average of mean value of $$f$$ on $$S$$
 
+### 4.3: Multiple Integrals and Iterated Integrals
+- In the case of $$n = 2$$, we should have that
+
+$$\int \int_R f dA = \int_c^d \left[ \int_a^b f(x, y) dx \right] dy$$
+
+- Integrability of $$f$$ on $$R$$ does not need to imply the integrability of $$f(x, y_0)$$ as a function of $$x$$ for fixed $$y_0$$ on $$[a, b]$$
+- A line segment is a set of zero content, so in fact it could be discontinuous at every point in it
+
+**Theorem 4.26.**
+Let $$R$$ be a rectangle bounded by $$[a, b]$$ in $$x$$ and $$[c, d]$$ in $$y$$.
+Let $$f$$ be an integrable function in $$R$$.
+Suppose that the "slices" in each dimension are integrable.
+Then
+
+$$\int \int_R f dA = \int_c^d \left[ \int_a^b f(x, y) dx \right] dy = \int_a^b \left[ \int_c^d f(x, y) dy \right] dx$$
+
+- Iterated integrals
+- An integral over an $$n$$-dimensional rectangular solid can be evaluated as an $$n$$-fold iterated integral
+- Under suitable conditions for the integrand $$f$$, the order of integration in an iterated integral can be reversed.
+
+### 4.4: Change of Variables for Multiple Integrals
+- If $$g$$ is a one-to-one function of class $$C^1$$ on the interval $$[a, b]$$, then for a continous function $$f$$,
+
+$$\int_a^b f(g(u)) g'(u) du = \int_{g(a)}^{g(b)} f(x) dx$$
+
+- Sometimes have to compensate for the 'right order' of the bounds because $$g$$ might reverse them
+
+$$\int_I f(x) dx = \int_{g^{-1}(I)}
+ f(g(u)) \vert g'(u) \vert du $$
+
+ - Suppose $$\mathbf{G}$$ is a one-to-one transformation from a region $$R$$ to another region $$S$$. $$R = \mathbf{G}^{-1}(S)$$
+ - Area of any matrix $$\mathbb{A}$$ as a transformation on the unit matrix is the absolute value of the determinant of $$\mathbb{A}$$
+
+$$\int \int_S f(x, y) dx dy = \vert ad - bc \vert \int \int_{G^{-1}(S)} f(au + bv, cu + dv) du dv$$
+
+**Theorem 4.37.**
+Let $$A$$ be an invertible $$n \times n$$ matrix, and let $$\mathbf{G}(\mathbf{u}) = A \mathbf{u}$$ be the corresponding linear transformation of $$\mathbb{R}^n$$. Suppose $$S$$ is a measurable region in $$\mathbb{R}^n$$ and $$f$$ is an integrable function on $$S$$.
+Then $$\mathbf{G}^{-1}(S) = \{ A^{-1} \mathbf{x} : \mathbf{x} \in S \}$$ is measurable and $$f \circ \mathbf{G}$$ is integrable on $$\mathbf{G}^{-1}(S)$$, and
+
+$$\int ... \int_S f(\mathbf{x}) d^n \mathbf{x} = \vert \det A \vert \int ... \int_{G^{-1}(S)} f(A \mathbf{u}) d^n \mathbf{u}$$
+
+**Theorem 4.41.**
+Given open sets $$U, V$$ in $$\mathbb{R}^n$$, let $$\mathbf{G} : U \to V$$ be a one-to-one transformation of class $$C^1$$ whose derivative $$D \mathbf{G}(\mathbf{u})$$ is invertible for all $$\mathbf{u} \in U$$.
+Suppose that $$T \subset U$$ and $$S \subset V$$ are measurable sets such that $$\bar{T} \subset U$$ and $$\mathbf{G}(T) = S$$.
+If $$f$$ is an integrable function on $$S$$, then $$f \circ \mathbf{G}$$ is integrable on $$T$$, and
+
+$$\int ... \int_S f(\mathbf{x}) d^n \mathbf{x} = \int ... \int_T f(\mathbf{G}(\mathbf{u})) \vert \det D \mathbf{G}(\mathbf{u}) \vert d^n \mathbf{u}$$
+
+### 4.5: Functions defined by integrals
+- We can form functions out of integrating variables. How do properties of $$f$$ relate to properties of $$F$$?
+- To limits commute across integral operations? In general, the answer is no.
+
+**Theorem 4.46.**
+Suppose $$S, T$$ are compact subsets of $$\mathbb{R}^n$$ and $$\mathbb{R}^m$$, respectively, and $$S$$ is measurable.
+If $$f(x, y)$ is continuous on the set $$T \times S$$, then the function $$F$$ defined by $$F(x) = \int ... \int_S f(x, y) d^n y$$ is continuous on $$T$$.
+
+**Theorem 4.47.**
+Suppose $$S \subset \mathbb{R}^n$$ is compact and measurable, and $$T \subset \mathbb{R}^m$$ is open.
+If $$f$$ and $$\nabla_x f$$ are continuous on $$T \times S$$, then the function $$F$$ is of class $$C^1$$ on $$T$$, and 
+
+$$\frac{\partial F}{\partial x_j} (\mathbf{x}) = \int ... \int_S \frac{\partial f}{partial x_j} (\mathbf{x}, y) d^n y$$
+
+**Theorem 4.52.**
+(Bounded Convergence Theorem.)
+Let $$S$$ be a measurable subset of $$\mathbb{R}^n$$ and $$\{ f_j \}$$ be a sequence of integrable functions on $$S$$.
+SUppose $$f_j(y) \to f(y)$$ for each $$y \in S$$, where $$f$$ is an integrable function on $$S$$, and there is a constant $$C$$ such that $$\vert f_j(y) \vert \le C$$ for all $$j$$ and all $$y \in S$$.
+Then,
+
+$$\lim_{j \to \infty} \int ... \int_S f_j (y) d^n y = \int ... \int_S f(y) d^n y$$
+
+### 4.6: Improper Integrals
+- Type I proper integrals: $$\int_a^\infty f(x) dx$$, $$f$$ integrable over every finite subinterval $$[a, b]$$
+- Type II proper integrals: $$\int_a^b f(x) dx$$, $$f$$ integrable over $$[c, b]$$ for every $$c > a$$ but unbounded near $$x = a$4
+
+$$\int_a^\infty f(x) dx = \lim_{b \to \infty} \int_a^b f(x) dx$$
+
+- The integral converges if the RHS limit exists; otherwise, the limit diverges
+- Does $$\int_a^\infty f(x) dx$$ converge?
+
+**Lemma 4.54.**
+If $$\phi$$ is a bounded increasing function on $$[a, \infty)$$, then $$\lim_{x \to \infty} \phi(x)$$ exists and equals $$\sup \{ \phi(x) : x \ge a \}$$.
+
+- The integral $$\int_a^\infty f(x) dx$$ converges iff $$\int_a^b f(x) dx$$ remains bounded as $$b \to \infty$$
+
+**Theorem 4.55.**
+Suppose that $$0 \le f(x) \le g(x)$$ for all sufficiently large $$x$$.
+If $$\int_a^\infty g(x) dx$$ converges, so does $$\int_a^\infty f(x) dx$$.
+If $$\int_a^\infty f(x) dx$$ diverges, so does $$\int_a^\infty g(x) dx$$.
+
+**Corollary 4.56.**
+Suppose $$f > 0$$, $$g > 0$$, $$f(x) / g(x) \to l$$ as $$x \to \infty$$.
+If $$0 < l < \infty$$, then $$\int_a^\infty f(x) dx$$ and $$\int_a^\infty g(x) dx$$ are both convergent or both divergent.
+If $$l = 0$$, the convergence of $$\int_a^\infty g(x) dx$$ implies the convergence of $$\int_a^\infty f(x) dx$$.
+If $$l = \infty$$, the divergence of $$\int_a^\infty g(x) dx$$ implies the divergence of $$\int_a^\infty f(x) dx$$.
+
+$$\int_1^b \frac{dx}{x^p} = \frac{b^{1-p} - 1}{1 - p} \to \begin{cases} \infty & p < 1 \\ (p - 1)^{-1} & p > 1 \end{cases}$$
+
+$$\int_1^b x^{-1} dx = \log b \to \infty$$
+
+- $$\int_1^\infty x^{-p}$$ converges iff $$p > 1$$
+
+**Corollary 4.57.**
+If $$0 \le f(x) \le Cx^{-p}$$ for all sufficiently large $$x$$, where $$p > 1$$, then $$\int_a^\infty f(x) dx$$ converges.
+If $$f(x) \ge cx^{-1} (c > 0)$$ for all sufficiently large $$x$$, then $$\int_a^\infty f(x) dx$$ diverges.
+
+- There are functions whose rate of decay at infinity is faster than $$x^{-1}$$ but slower than $$x^{-p}$$ for any $$p > 1$$, and their integrals can converge or diverge.
+
+**Theorem 4.58.**
+If $$\int_a^\infty \vert f(x) \vert dx$$ converges, then $$\int_a^\infty f(x) dx$$ converges.
+
+- integral is absolutely convergent if the same integral with absolute value of the function converges.
+- The integral may converge even if the absolute integral does not converge because of cancellation effects in positive and negative values.
+
+Type II integrals
+
+$$\int_a^b f(x) dx = \lim_{c > a, c \to a} \int_c^b f(x) dx$$
+
+- $$\int_a^b f(x) dx$$ converges if the RHS limit and diverges otherwise
+
+**Theorem 4.59.**
+Suppose that $$0 \le f(x) \le g(x)$$ fro all $$x$$ sufficiently close to $$a$$.
+If $$\int_a^b g(x) dx$$ converges, so does $$\int_a^b f(x) dx$$. If $$\int_a^b f(x) dx$$ diverges, so does $$\int_a^b g(x) dx$$.
+
+$$\int_c^b (x - a)^{-p} dx = \frac{(x-a)^{1-p}}{1-p} \bigg \vert_c^b \to \begin{cases} (1 - p)^{-1} (b - a)^{1 - p} & p < 1 \\ \infty & p > 1 \end{cases}$$
+
+$$\int_c^b (x - a)^{-1} dx = \log(x - a) \vert_c^b \to \infty$$
+
+**Corollary 4.60.**
+If $$0 \le f(x) \le C(x - a)^{-p}$$ for $$x$$ near $$a$$ where $$p < 1$$, then $$\int_a^bf(x) dx$$ converges.
+If $$f(x) > c(x - a)^{-1} (c > 0)$$ for $$x$$ near $$a$$, then $$\int_a^b f(x) dx$$ diverges.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

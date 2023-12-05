@@ -930,6 +930,30 @@ From *Teh Philosophical Imaginary*
 - Icon of the feminine in philosophy: not universal. Formulated in conjunction with phallocratic prejudices.
 - Imagery as a cultural product
 - there is not just one reason or one imaginary
+
+---
+
+## "Anything but Argument?", Cora Diamond
+
+I.
+
+- Finding arguments
+- A convincing appeal must go beyond assertiont o argument
+- Whom are we trying to convince when we engage in philosophical discussion?
+- We do not expect to convince anyone who is incapable of following our arguments
+- What about novels? Surely some people will not be convinced. 
+- Whys hould a philosopher aim at convincing by argument those who can be convinced by good arguments?
+- With metaphysics, you can make plain the grounds of moral standing
+- Is the only way of going beyond assertion to go to wards argument? 
+- Proceeding beyond assertion: attempt to convince others of a way of looking at things in a way which makes plain a cost of rejecting the view in question
+- How to go from particularistic affections to an objective hierarchy of values?
+
+II.
+- O'Neill's conception of moral thinking makes it impossible ot account for the moral force of a lot of literature
+- "Properly philosophical" paradigm of moral thinking: interweaving of fact and principle.
+- "Responding with the heart", poetry
+- Attending to a child as a center of a view of the world
+- Paradigms of attention -- leaving behind moral views resting on ignorance of what children are like
 - 
 
 

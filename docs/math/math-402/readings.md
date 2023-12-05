@@ -901,3 +901,24 @@ Every ideal is the kernel of a homomorphism.
 Let $$f: R \to S$$ be a surjective homomorphism of rings with kernel $$K$$.
 Then the quotient ring $$R / K$$ is isomorphic to $$S$$.
 
+### 6.3: The Structure of $$R/I$$ When $$I$$ is Prime or Maximal
+- Quotient rings are natural generalizations of $$\mathbb{Z}_p$$, $$F[x] / (p(x))$$
+- When $$p$$ is prime and $$p(x)$$ is irreducible, then we get fields
+- An ideal $$P$$ in a commutative ring $$R$$ is prime if $$P \neq R$$ and whenever $$bc \in P$$, then $$b \in P$$ or $$c \in P$$.
+- If $$F$$ is a field and $$p(x)$$ is irreducible in $$F[x]$$, then the principal ideal $$(p(x))$$ is prime in $$F[x]$$.
+- $$R/P$$ may not always be a field when $$P$$ is prime.
+
+**Theorem 6.14.**
+Let $$P$$ be an ideal in a commutative ring $$R$$ with identity.
+Then $$P$$ is a prime ideal iff the quotient ring $$R/P$$ is an integral domain.
+
+**Definition.**
+An ideal $$M$$ in a ring $$r$$ is maximal if $$M \neq R$$ and whenever $$J$$ is an ideal such that $$M \subseteq J \subseteq R$$, then $$M = J$$ or $$J = R$$.
+
+**Theorem 6.15.**
+Let $$M$$ be an ideal in a commutative ring $$R$$ with identity.
+Then $$M$$ is a maximal ideal iff the quotient ring $$R / M$$ is a field.
+
+**Corollary 6.16.**
+In a commutative ring $$R$$ with identity, every maximal ideal is prime. 
+
