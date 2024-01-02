@@ -2,7 +2,7 @@
 layout: default
 title: In Review
 parent: ENGL 308
-grand_parent: English
+grand_parent: Humanities
 nav_order: 1000
 ---
 

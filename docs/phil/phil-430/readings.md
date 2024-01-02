@@ -1588,8 +1588,16 @@ Discussion
 - Alleged objective states of affairs are beyond our cognition; we should suspend judgement about things
 - AIm is not to show that there are two sides to every doctrinal issue, but there is no basis for contemplating a doctrinal position on any issue to begin with.
 
+---
 
+## "Was Pyrrho a Pyrrhonian?" Jerry Green
 
+Introduction
+- Pyrrho: left no writing himself but was extolled by his student Timon
+- Aenesidemus and Sextus Empiricus
+- Richard Bett: Pyrrho was a metaphysical dogmatist, who held that the world was indeterminate
+- Pyrrho is not a Pyrrhonian skeptic nor a proto-Pyrrhonian
+- Pyrrho's skepticism: excluding percepiton and belief from consideration as sources of evidence, rather than balancing opposing evidence.
 
 
 

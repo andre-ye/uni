@@ -2,7 +2,7 @@
 layout: default
 title: Lecture Notes
 parent: ENGL 308
-grand_parent: English
+grand_parent: Humanities
 nav_order: 1
 ---
 

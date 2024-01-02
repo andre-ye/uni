@@ -874,7 +874,46 @@ The Role of Racist Beliefs
 Is a Racist Heart Essential?
 - No.
 
+---
 
+## Week 9: Narrow-Scope "Racism"
+
+### "I'm not a Racist, But...": The Moral Quandary of Race, Lawrence Blum
+"Racism": Its Core Meaning
+
+- Most Americans wish to avoid being called racist
+- Has the word racism been deflated?
+- Not all racial incidents are racist incidents
+- "Racism" -- denying dignity to "any human group"???
+- Inflated use ofr acism pays some kind of indirect tribute to racial oppression, but is part of a proliferation of isms.
+
+"Racism": A History
+- "Racism": used by European social scientists int he 1930s to characterize and condemn the Nazi belief system
+- Nazi belief system posited the superiority of the Aryan race over lesser races.
+- Postwar release of information about Nazi atrocities intensified the revulsion attached to racism. 
+- American slavery retroactively contributes to a negative moral atmosphere around the term
+- Originally, racism was not an articulation of prejudice but a full-blown system of thought.
+- But "racism" is no longer limited to a system of belief in racial inferiority
+- "White racism" -- a central organizing idea in the Kerner Commission Report
+- "Institutional racism"
+
+Defining "Racism"
+- Two paradigms of racism: inferiorization and antipathy
+  - Inferiorization: linked to histrocial racist doctrine and racist social systems
+  - Antipathy: racial bigotry, hostility, hatred
+- Three general categories
+  - Personal racism
+  - Social racism
+  - Institutional racism
+
+Racial Prejudice
+- Clarify the antipathy paradigm for persoanl racism
+- Prejudice, prejudging
+- Faulty and inflexible generalization
+
+Categroial Drift
+- Confusion, undifferentiated use upon different entities: beliefs, acts, attitude, statements, persons, etc.
+- 
 
 
 
