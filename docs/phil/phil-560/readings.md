@@ -194,7 +194,52 @@ V. Wholes, Sums, and Organic Unities
 - Additive and nonadditive analysis -- particle physics of classical mechanics vs field approach of electrodynamics.
 - Some wholes can be analyzed in this manner, for others it still has to be worked out.
 
+---
 
+## "Special Sciences (or: The Disunity of Science as a Working Hypothesis)", Jerry Fodor
+
+- Positivistic philosophy of science: all true theories in the special sciences should reduce to physical theories in the long run
+- Many philosophers who accept reductivism do so to endorse the generality of physics
+- Conflation: "physics is basic science" and "theories in the special science reduce to physical theories"
+- The "unity of science" is much less plausible than the generality of physics
+- "the more the special sciences succeed, the more they ought to disappear"
+- Pyschology and physics?
+
+Part I
+- Reductivism: the special sciences reduce to physics
+- Let $$S_1 x \to S_2 x$$ be a law of the special sciences, suggesting that all $$S_1$$ situations bring about $$S_2$$ situations
+- If we show $$S_1 x \iff P_1 x$$ and $$S_2 x \iff P_2 x$$, then we can show $$P_1 x \to P_2 x$$
+- The connective $$\to$$ must be transitive; psychology can reduce to physics through neurology, biochemistry, etc.
+- If bridge laws are not identity statements, then the new claim that can be made is at most one of causal correlation.
+- The truth of reductivism does not guarantee the generality of physics, since there are some events which are not physical.
+- If bridge laws express event identities, we get "token physicalism": all events subject to the sciences are physical events.
+    - Weaker than 'materialism', which says physicalism is true and every event falls under the laws of science. Why bother being a token physicalist without being a materialist?
+    - Weaker than 'type physicalism': every property in the laws of science is a physical property.
+    - Weaker than 'reductivism': the conjunction of token physicalism with the assumption of total correspondence between special sciences and physics. Token physicalism does not imply reductivism. Reductivism is a sufficient condition fro token physicalism.
+- Reduction of psychology to neurology entails any event of psychology is identical with an event of neurology.
+- Reductivism is too strong, but token physicalism works
+
+Section II
+- Every science sets forth a taxonomy of events
+- Descriptive vocabulary of theoretical and observation predicates
+- If reductivism is true, then every natural kind is a physical natural kind. 
+- The question of if reductivism is too strong is finally an empirical question.
+    - Is it really?
+    - What about the "science of phenomenology"?
+- It is unlikely that every natural kind corresponds to a physical natural kind because
+    - interesting generalizations can be made about events whose physical descriptions have nothing in common
+    - special sciences are involved in making these generalizations
+- What is the disjunctive predicate which corresponds to "$$x$$ is a monetary exchange $$\iff ...$$"?
+    - Why not through a neural model? If we reduce the human mind to physicalism then does not everything which the human mind constitute become reducible?
+    - "Psychobiology" or "psychology and brain science" departments are institutionalized gambles that lawful co-extensions can be found
+- Confusing token physicalism with reductivism?
+- There seem to many nomoloical possible systems which satisfy natural kind predicates in psychology but not in neurologial prediates.
+- Psychological reductivism is not equivalent to token physicalism
+- To confirm token physicalism, we do not need to show that neurological countertypes of type-identical psychological events are type-identical, just that theya re identical with respec tto properties determining the kind of psychological event.
+- The classical understanding of the unity of science has misconstrued the goal of scientiifc reduction: not to find natural kind prediates of physics for everything, but rather to explicate the physical mechanisms by which events conform to laws of the special sciences.
+
+Section III
+(page 12)
 
 
 
