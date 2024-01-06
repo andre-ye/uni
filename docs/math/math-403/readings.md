@@ -67,4 +67,48 @@ The nonzero elements of a field $$F$$ form an abelian group under multiplicaiton
 **Theorem 7.3.**
 If $$R$$ is a ring with identity, then the set $$U$$ of all units in $$R$$ is a group under multiplication.
 
-New Groups from Old
+**Theorem 7.4.**
+Let $$G$$ with an operation $$*$$ and $$H$$ with operation $$\diamond$$ be groups.
+Define an operation $$\square$$ on $$G \times H$$ by
+
+$$(g, h) \square (g', h') = (g * g', h \diamond h')$$
+
+Then $$G \times H$$ is a group under $$\square$$.
+If $$G$$ and $$H$$ are abelian, then $$G \times H$$ is abelian.
+If $$G$$ and $$H$$ are finite, then $$G \times H$$ is finite and $$|G \times H| = |G| \cdot |H|$$.
+
+
+### 7.2: Basic Properties of Groups
+- Standard multiplicative notation: write $$ab$$ instead of $$a * b$$.
+
+**Theorem 7.5.**
+Let $$G$$ be a group and let $$a, b, c \in G$$. Then
+1. $$G$$ has a unique identity element
+2. Cancelation holds in $$G$$: if $$ab = ac$$, then $$b = c$$; if $$ba = ca$$, then $$b = c$$
+3. Each element of $$G$$ has a unique inverse.
+
+**Corollary 7.6.**
+If $$G$$ is a gruop and $$a, b \in G$$, then
+1. Order of inverse application: $$(ab)^{-1} = b^{-1}a^{-1}$$
+2. Canceling of inverses: $$(a^{-1})^{-1} = a$$
+
+**Theorem 7.7.**
+Let $$G$$ be a group and let $$a \in G$$.
+Then for all $$m, n \in \mathbb{Z}$$, $$a^m a^n = a^{m+n}$$ and $$(a^m)^n = a^{mn}$$.	
+
+- Element $$a$$ has finite order if $$a^k = e$$ for some positive integer $$k$$.
+- The order of $$a$$ is the smallest positive integer $$k$$ such that $$a^k = e$$.
+- Order of $$a$$ denoted $$\vert a \vert$$
+- Element has infinite order if $$a^k \neq e$$ for all positive integers $$k$$.
+
+**Theorem 7.8.**
+Let $$G$$ be a group and let $$a \in G$$.
+1. If $$a$$ has infinite order, then the elements $$a^k$$, $$k \in \mathbb{Z}$$, are all distinct.
+2. If $$a^i = a^j$$ with $$i \neq j$$, then $$a$$ has finite order.
+
+**Theorem 7.9.**
+Let $$G$$ be a group and $$a \in G$$ an element of finite order $$n$$.
+Then:
+1. $$a^k = e$$ iff $$n \vert k$$
+2. $$a^i = a^j$$ iff $$i \equiv_n j$$
+3. If $$n = td$$, with $$d \ge 1$$, then $$a^t$$ has order $$d$$
