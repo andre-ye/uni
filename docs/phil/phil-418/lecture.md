@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lecture Notes
-parent: PHIL 430
+parent: PHIL 418
 grand_parent: Philosophy
 nav_order: 5
 ---
