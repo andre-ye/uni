@@ -239,8 +239,64 @@ Section II
 - The classical understanding of the unity of science has misconstrued the goal of scientiifc reduction: not to find natural kind prediates of physics for everything, but rather to explicate the physical mechanisms by which events conform to laws of the special sciences.
 
 Section III
-(page 12)
+- Reductivism is too strong for the unity of science; incompatible with special sciences results and more than we need to assume to be token physcialists
+- "the problem all along has been that there is an open empirical possibility that what corresponds to the natural kind predicates of a reduced science may be a heterogenous and unsystematic disjunction of predicates in the reducing science, and we do not want the unity of science to be prejudiced by this possibility"
+- We can't have "unnatural disjunctions"
+- Laws of the special sciences can have exceptions, but the basic sciences cannot
+- There are special sciences not because of our epistemic relation to the world (this is what the reductivists say), but because of the way the world is put together: not all natural kinds (classes which are important) correpsond to physical natural kinds
+- Special sciences are in the business of stating some true counterfactual generalizations
+- If physics is basic, each of those things should be physical; but the taxonomies of the speical sciences don't need to reduce to the taxonomy of physics.
 
+---
+
+## "Multiple Realizations", Lawrence Shapiro
+- Multiple realizability of hihger-level properties in lower-level properties stops theoretical reduction.
+- Putnam introduces multiple realizability to "demolish the hypothesis that pyschological states are reducible to brain states"
+- Jerry Fodor generalizes Putnam, uses the multiple realizability thesis against any attempt to reduce any special science
+- The task of specifying exactly what is meant by MRT
+
+I. An A Priori Argument for Multiple Realizability
+- Putnam: "two systems are fundamentally isomorphic if there is a correspondence between the states of one and the states of the other that preserves functional relations"
+    - Functional isomorphism implies MRT
+- MRT: it is physically possible for some undefined class of kinds to have multiple realizations
+- So perhaps MRT must be judged on an empirical basis. But it is articulated a priori.
+- Functional isomorphism doesn't really imply anything about the truth of MRT
+
+II. A Likelihood Argument for Multiple Realizability
+- Two hypotheses:
+    - (TI) Psychology states are type identical to physical-chemical states of the brain
+    - (MR): Psychological states are multiply realizable
+- If (TI) is true, we would be surprised if mammals, reptiles, etc. share the same psychological state b/c that means they share the same physical-chemical state.
+- MR makes identity of psychological states across life forms more likely (??? how is this compelling??)
+
+III. Empirical Evidence for Multiple Realizability
+- The argument against physicalism rests upon the empirical likelihood that creatures of different composition and structures, which are in no interesting sense in identical physical states, can nevertheless be in identical psychological states" -- Putnam
+- The possibility of machine minds suffices to establish MRT, supposedly
+- Does this all establish MRT?
+
+IV. Evaluating the Empirical Evidence for Multiple Realizability
+- Philosophers tend to associate MRT with mind-brain reduction
+- Multiple realizations count truly as multiple realizations when they differ in causally reelvant properties
+- Showing a kind is multiply realizable takes work
+- No reason to count the brain and replacing each of its neurons with a silicon chip that performs the exact same causally relevant function as multiple realizations
+
+V. A Dilemma for Multiple Realizability
+- Two realizations of a kind $$T$$ are in fact different realizations of $$T$$ if and only if they differ in some causally relevant property which individuates $$T$$
+- Why is MRT a coherent thesis at all?
+- Why do we call camera eye and the compound eye, eyes?
+- What unifies different realizations of a kind?
+- Circular dilemma: if we say that the realizations are the same because they are the same kind, then we are begging the question. If we say they are the same kind because they are the same realizations, then we are being circular.
+- Realizations which satisfy the difference in causal capacity cirterion may not be of the same kind if there are no interesting laws that unify them
+
+VI. Multiple Realizability and the Speical Sciences
+- What is the value of categorizing something as $$P$$ if there are no empirical laws involving $$P$$?
+- Let's re-examine the goals of the special sciences
+- SPeical sciences focus on mechanism: we need to know about optical principles to understand hwy aquatic camera principles need graded spherical lenses
+- We can say nothing more about eyes in general than that they have the function to see
+- MRT is not an obvious thesis
+- Genuinely different realizations cannot have anything in common except theri function
+- There are no laws true of all realizers qua realizers of a functional kind except analytically true laws
+- We should abandon characterizing speical sciences as a search for laws over functional kinds, rather we understand how functional kinds produce capacities which make them interesting
 
 
 

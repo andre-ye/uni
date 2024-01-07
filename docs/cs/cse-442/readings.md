@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lecture Notes
+title: Reading Notes
 parent: CSE 442
 grand_parent: Computer Science
 nav_order: 1
 ---
 
-# Lecture Notes
+# Reading Notes
 {: .no_toc }
 
 CSE 442
