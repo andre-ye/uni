@@ -288,7 +288,7 @@ V. A Dilemma for Multiple Realizability
 - Circular dilemma: if we say that the realizations are the same because they are the same kind, then we are begging the question. If we say they are the same kind because they are the same realizations, then we are being circular.
 - Realizations which satisfy the difference in causal capacity cirterion may not be of the same kind if there are no interesting laws that unify them
 
-VI. Multiple Realizability and the Speical Sciences
+VI. Multiple Realizability and the Special Sciences
 - What is the value of categorizing something as $$P$$ if there are no empirical laws involving $$P$$?
 - Let's re-examine the goals of the special sciences
 - SPeical sciences focus on mechanism: we need to know about optical principles to understand hwy aquatic camera principles need graded spherical lenses
