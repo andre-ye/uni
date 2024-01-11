@@ -297,6 +297,10 @@ VI. Multiple Realizability and the Special Sciences
 - Genuinely different realizations cannot have anything in common except theri function
 - There are no laws true of all realizers qua realizers of a functional kind except analytically true laws
 - We should abandon characterizing speical sciences as a search for laws over functional kinds, rather we understand how functional kinds produce capacities which make them interesting
+- Natural kinds -- the items which you can make generalizations over
+- Is Fodor limiting himself to the current state of the sciences but trying to make claims about ideal state of science?
+- Science in relation to our epistemic limitations as beings
+- 
 
 
 
