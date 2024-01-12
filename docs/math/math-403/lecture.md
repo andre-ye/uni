@@ -85,6 +85,38 @@ Examples of groups:
   3. The identity is preserved: $$f(1_G) = 1_H$$
   4. Inverses are preserved: $$f(g^{-1}) = f(g)^{-1}$$
 
+---
+
+## Week 2 Friday -- Homomorphisms and Isomorphisms
+
+If $$\text{Im}(f) \subseteq H$$, then we need that
+1. $$1_H \in \text{Im}(f)$$ (the identity is in the image)
+2. If $$h_1, h_2 \in \text{Im}(f)$$, then $$h_1 *_H h_2 \in \text{Im}(f)$$ (closed under the operation)
+3. If $$h \in \text{Im}(f)$$, then $$h^{-1} \in \text{Im}(f)$$ (closed under inverses)
+
+A homomorphism is an isomorphism if $$f$$ is injective and surjective.
+- Cyclic groups are isomorphic to $$\mathbb{Z}$$ or $$\mathbb{Z}_n$$
+- If $$G$$ is a cyclic group, there is a surjective homomorphism from $$\mathbb{Z}$$ to $$G$$, namely $$\phi: \mathbb{Z} \to G$$ with $$\phi(k) = g^k$$
+
+Cayley's Theorem:
+If $$G$$ is a group, then $$G$$ is isomorphic to a subgroup of $$A(G)$$, where $$A(G)$$ is the group of bijections from $$G$$ to $$G$$ under composition.
+
+Strategy:
+We will produce an injective homomorphism $$\phi: G \to A(G)$$ such that $$\phi(G)$$ is a subgroup of $$A(G)$$.
+We will define $$\phi(g)$$ such that $$\phi(g)(h) = gh$$.
+Every function defined by $$g$$ is basically multiplication by $$g$$ on the left.
+Some things to check:
+- The definition of $$\phi(g)$$ ensures it is injective
+<!-- - $$\phi(g)$$ is a bijection -->
+- Show that $$\phi$$ is a homomorphism
+
+
+
+
+
+
+
+
 
 
 
