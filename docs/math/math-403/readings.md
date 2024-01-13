@@ -153,22 +153,101 @@ Let $$G$$ be a gruop and let $$a \in G$$.
 1. If $$a$$ has infinite order, then $$\langle a \rangle$$ is an infinite subgroup consisting of the distinct elements $$a^k, k \in \mathbb{Z}$$.
 2. If $$a$$ has finite order $$n$$, then $$\langle a \rangle = \{e, a, a^2, \dots, a^{n-1}\}$$ is a finite subgroup of $$G$$ with order $$n$$.
 
+**Theorem 7.15 (Additive Version).**
+Let $$G$$ be an additive group and let $$a \in G$$.
+1. If $$a$$ has infinite order, then $$\langle a \rangle$$ is an infinite subgroup consisting of the distinct elements $$ka, k \in \mathbb{Z}$$.
+2. If $$a$$ has finite order $$n$$, then $$\langle a \rangle = \{0, a, 2a, \dots, (n-1)a\}$$ is a finite subgroup of $$G$$ with order $$n$$.
 
+**Theorem 7.16.**
+Let $$F$$ be any one of $$\mathbb{Q}, \mathbb{R}, \mathbb{C}, or \mathbb{Z}_p$$, where $$p$$ is prime. ($$F$$ is a field.)
+Then $$F^* = F \setminus \{0\}$$ be the multiplicative group of nonzero elements of $$F$$. If $$G$$ is a finite subgroup of $$F^*$$, then $$G$$ is cyclic.
 
+**Theorem 7.17.**
+Every subgroup of a cyclic group is itself cyclic.
 
+**Theorem 7.18.**
+Let $$S$$ be a nonempty subset of a group $$G$$.
+Let $$\langle S \rangle$$ be the set of all possible products, in every order, of elements of $$S$$ and their inverses.
+Then
+1. $$\langle S \rangle$$ is a subgroup of $$G$$ that contains the set $$S$$
+2. If $$H$$ is a subgroup of $$G$$ that contains the set $$S$$, then $$H$$ contains the entire subgroup $$\langle S \rangle$$.
 
+- Shows that $$\langle S \rangle$$ is the smallest subgroup of $$G$$ containing $$S$$.
+- In the case where $$S = \{a\}$$, $$\langle S \rangle = \langle a \rangle$$.
+- $$S$$ generates $$G$$
 
+### 7.4: Isomorphisms and Homomorphisms
+- Isomorphic groups have the same structure
 
+Definition of an isomorphism.
+Let $$G, H$$ be gruops with the group operation $$*$$. 
+$$G$$ is isomorphic to $$H$$ if there is a function $$\phi: G \to H$$ such that
+1. $$\phi$$ is a bijection ($$\phi$$ is injective and surjective)
+2. $$\phi(a * b) = \phi(a) * \phi(b)$$ for all $$a, b \in G$$
 
+- If $$G$$ is abelian and $$H$$ is nonabelian, then $$G$$ is not isomorphic to $$H$$.
+- If $$\phi$$ is an isomorphism, then $$a$$ and $$\phi(a)$$ have the same order
+- $$\phi: G \to G$$ is an automorphism if $$\phi$$ is an isomorphism from $$G$$ to $$G$$.
 
+**Theorem 7.19.**
+Let $$G$$ be a cyclic group.
+- If $$G$$ is infinite, then $$G$$ is isomorphic to $$\mathbb{Z}$$.
+- If $$G$$ is finite of order $$n$$, then $$G$$ is isomorphic to $$\mathbb{Z}_n$$.
 
+Definition of a homomorphism.
+Let $$G, H$$ be groups with the group operation $$*$$.
+A homomorphism from $$G$$ to $$H$$ is a function $$\phi: G \to H$$ such that
+$$\phi(a * b) = \phi(a) * \phi(b)$$ for all $$a, b \in G$$.
 
+**Theorem 7.20.**
+Let $$G, H$$ be groups with identity elements $$e_G, e_H$$.
+If $$\phi: G \to H$$ is a homomorphism, then
+1. $$\phi(e_G) = e_H$$
+2. $$\phi(a^{-1}) = \phi(a)^{-1}$$ for all $$a \in G$$
+3. $$\text{Im}(f)$$ is a subgroup of $$H$$
+4. If $$f$$ is injective, $$G \cong \text{Im}(f)$$
 
+**Theorem 7.21. Cayley's Theorem.**
+Every group $$G$$ is isomorphic to a group of permutations.
 
+**Corollary 7.22.**
+Every finite group $$G$$ of order $$n$$ is isomorphic to a subgroup of $$S_n$$.
 
+A homomorphism from $$G$$ to a group of permutation is a representation of $$G$$.
+Group theory can be reduced to the study of permutation groups.
 
+### 7.5: The Symmetric and Alternating Groups
+- Cycle notation
+- Two cycles are disjoint if they have no elements in common
 
+**Theorem 7.23.**
+If $$\sigma = (a_1 a_2 \hdots a_k)$$ and $$\tau = (b_1 b_2 \hdots b_r)$$ are disjoint cycles in $$S_n$$, then $$\sigma \tau = \tau \sigma$$.
 
+**Theorem 7.24.**
+Every permutation in $$S_n$$ is a product of disjoint cycles.
 
+**Theorem 7.25.**
+The order of a permutation $$\tau$$ in $$S_n$$ is the LCM of the lengths of the disjoint cycles whose product is $$\tau$$.
 
+- A 2-cycle is a transposition.
+- Every transposition is its own inverse.
+- If $$\sigma_1 \sigma_2 \sigma_3 \hdots \sigma_{n}$$ are transpositions, then the inverse is $$\sigma_{n} \sigma_{n-1} \hdots \sigma_2 \sigma_1$$.
+- Note that $$(1) = (12)(12)$$, $$(123) = (12)(23)$$, and $$(1234) = (12)(23)(34)$$
+
+**Theorem 7.26.**
+Every permutation in $$S_n$$ is a product of (not necessarily disjoint) transpositions.
+- A permutation is even if it is a product of an even number of transpositions.
+- A permutation is odd if it is a product of an odd number of transpositions.
+- No permutation is both even and odd.
+
+**Lemma 7.27.**
+The identity permutation in $$S_n$$ is even and not odd.
+
+**Theorem 7.28.**
+No permutation in $$S_n$$ is both even and odd.
+
+The set of all even permutations in $$S_n$$ is the alternating group $$A_n$$.
+
+**Theorem 7.29.**
+$$A_n$$ is a subgroup of $$S_n$$ of order $$n! / 2$$.
 
