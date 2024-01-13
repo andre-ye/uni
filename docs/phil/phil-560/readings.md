@@ -300,8 +300,48 @@ VI. Multiple Realizability and the Special Sciences
 - Natural kinds -- the items which you can make generalizations over
 - Is Fodor limiting himself to the current state of the sciences but trying to make claims about ideal state of science?
 - Science in relation to our epistemic limitations as beings
-- 
 
+---
+
+## "Making Sense of Emergence", Jaegwon Kim
+
+Section I
+- Emergentism: "as systems acquire increasingly higher degrees of organizational complexity they begin to exhibit novel properties that in some sense transcend the properties of their constituent parts, and behave in ways that cannot be predicted on the basis of the laws governing simpler systems"
+- Carl Hempel and Ernest Nagel -- confused and incoherent, neovitalism, trivial
+- Emergence refuses to die as an idea
+- Emergentism part of "nonreductive materialism"
+- Has emergentism returned? Yes
+- The core ontology amounts tol old resurgence 
+- Two groups of ideas
+    - Emergent properties are novel / unpredictable b/c not explainable in terms of the properties of the constituents
+    - Causal powers: emergents bring into the world new causal powers on their own
+
+Section II
+- Supposedly, emergent phenomena / properties are not explainable / reductivlely explainable
+- Assume every material object has a unique complete microstructural description
+- Mereological supervenience: systems with identical total microstructural property have other properties in common. ALl properties of a physical system supervene on / determined by its total microstructural prooperty.
+- Supposedly, some supervenient properties are emergent (unpredictable), while the rest are resultant (predictable from a system's total microstructural property)
+    - Is this merely an epistemic distinction?
+- 'New', epistemic, or 'new', metaphysical (new causal powers)
+- Inductive predictability vs theoretical predictability
+    - Even emergent properties are inductiely predictable
+    - What is denied is theoretical predictability of $$E$$ on the basis of $$M$$, which may result from not even having the concept of $$E$$
+    - e.g. $$E$$ may be a phenomenal property of experiences
+    - Where do we begin with designing phenomenal properties as opposed to merely mental properties? Best idea: create a duplicate of our brain
+
+Section III
+- Another idea: unpredictability of emergents = emergence cannot be explained in terms of the properties of the constituents
+- Emergent properties are not reductively explainable in terms of the properties of the constituents
+- Let $$B$$ be a domain of properties. Reduction of a property $$E$$ to $$B$$ requires:
+    1. $$E$$ must be functionalized (construed as a property defined by causal or nomic relations to other properties in $$B$$): that is, $$E$$ means having some property $$P$$ in $$B$$ such that various causes cause $$P$$ to be instantiated, and $$P$$ causes various other effects to be instantiated. Multiple realizers for $$E$$ are allowed.
+    2. Find all realizers of $$E$$ in $$B$$.
+    3. Find a theory that explains how realizers of $$E$$ perform the causal task that is constitutive of $$E$$.
+- Differs from Nagel's understanding of intertheoretic reduction, nod iscussion of bridge laws or derivation of laws
+- The "mystery" of consciousness is not dispelled by any Nagelian reduction when taking bridge laws as unexplained primitives
+- Nagelian reduction is consistent with and even entailed by many dualist mind-body theories
+- Putnam and Fodor's multiple realization arguments are irrelevant to the real issue of mind-body reduction
+
+Section IV
 
 
 
