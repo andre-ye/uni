@@ -110,6 +110,16 @@ Some things to check:
 <!-- - $$\phi(g)$$ is a bijection -->
 - Show that $$\phi$$ is a homomorphism
 
+---
+
+## Week 3 Wednesday --
+- Isomorphism -- "same look"
+- Automorphism -- "self look"
+- If $$f : G \to H$$ is an isomorphism, there exists an inverse map $$f^{-1} : H \to G$$ such that $$f^{-1}$$ is also an isomorphism
+- If $$f : G \to H$$ is an injective homomorphism, then $$G \cong \text{Im}(f)$$.
+
+
+
 
 
 
