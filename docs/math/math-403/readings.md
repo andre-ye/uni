@@ -251,3 +251,87 @@ The set of all even permutations in $$S_n$$ is the alternating group $$A_n$$.
 **Theorem 7.29.**
 $$A_n$$ is a subgroup of $$S_n$$ of order $$n! / 2$$.
 
+---
+
+## Chapter 8: Normal Subgroups and Quotient Groups
+
+### 8.1: Congruence and Lagrange's Theorem
+- In the integers, $$a \equiv b \mod n$$ iff $$n \vert (a - b)$$, or $$a - b \in n\mathbb{Z}$$.
+
+Definition.
+Let $$K$$ be a subgroup of a group $$G$$ and let $$a, b \in G$$.
+Then $$a$$ is congruent to $$b$$ modulo $$K$$, written $$a \equiv b \mod K$$, if $$a^{-1}b \in K$$.
+
+**Theorem 8.1.**
+Let $$K$$ be a subgroup of a group $$G$$.
+Then the relation of congruence modulo $$K$$ is
+1. reflexive: $$a \equiv a \mod K$$
+2. symmetric: if $$a \equiv b \mod K$$, then $$b \equiv a \mod K$$
+3. transitive: if $$a \equiv b \mod K$$ and $$b \equiv c \mod K$$, then $$a \equiv c \mod K$$
+
+- If $$K$$ is a subgruop of a group $$G$$ and if $$a \in G$$, the congruence class of $$a$$ mod $$K$$ is the set of all elemetns of $$G$$ congruent to $$a$$ modulo $$K$$>
+
+$$\{ b \in G \vert b \equiv_K a \} = \{ b \in G \vert ba^{-1} \in K \} = \{b \in G \vert b^{-1} = k, k \in K \}$$
+
+Noting that $$b = ka$$, we get
+
+$$\{ b \in G \vert b = ka, k \in K \} = \{ ka \vert k \in K \} = Ka \text{ (right coset)}$$
+
+- Right coset also denoted $$K + a$$
+
+**Theorem 8.2.**
+Let $$K$$ be a subgroup of a group $$G$$ and let $$a, c \in G$$.
+Then $$a \equiv_K c$$ iff $$Ka = Kc$$.
+
+**Corollary 8.3.**
+Let $$K$$ be a subgroup of a group $$G$$.
+Then two right cosets of $$K$$ are either disjoint or identical.
+
+Lagrange's Theorem
+
+**Theorem 8.4.**
+Let $$K$$ be a subgroup of a group $$G$$.
+Then
+1. $$G$$ is the union of the right cosets of $$K$$: $$G = \bigcup_{a \in G} Ka$$
+2. For each $$a \in G$$, there is a bijection $$f : K \to Ka$$. Consequently, if $$K$$ is finite, any two right cosets of $$K$$ contain the same number of elements.
+
+- If $$H$$ is a subgroup of a group $$G$$, the number of distinct right cosets of $$H$$ in $$G$$ is the index of $$H$$ in $$G$$ and denoted $$[G : H]$$.
+- If $$G$$ is a finite group, then $$[G:H]$$ is finite
+
+**Theorem 8.5. Lagrange's Theorem**
+If $$K$$ is a subgroup of a finite group $$G$$, then the order of $$K$$ divides the order of $$G$$.
+In particular, $$\vert G \vert = \vert K \vert [ G : K]$$.
+
+- Shows us there are limited possibilities for subgroups of a finite group
+- A subgroup of a group of order 12 must have order 1, 2, 3, 4, 6, or 12
+
+**Corollary 8.6.**
+Let $$G$$ be a finite group.
+1. If $$a \in G$$, then the order of $$a$$ divides the order of $$G$$.
+2. If $$\vert G \vert = k$$, then $$a^k = e$$ for every $$a \in G$$
+
+The Structure of Finite Groups
+- Major goal of group theory is to classify all finite groups up to isomorphism
+
+**Theorem 8.7.**
+Let $$p$$ be a positive prime integer.
+Then every group of order $$p$$ is cyclic and isomorphic to $$\mathbb{Z}_p$$.
+
+**Theorem 8.8.**
+Every group of order 4 is isomorphic to either $$\mathbb{Z}_4$$ or $$\mathbb{Z}_2 \times \mathbb{Z}_2$$.
+
+**Theorem 8.9.**
+Every group of order 6 is isomorphic to either $$\mathbb{Z}_6$$ or $$S_3$$.
+
+| order | isomorphic to |
+| --- | --- |
+| 1 | $$\{e\}$$ |
+| 2 | $$\mathbb{Z}_2$$ |
+| 3 | $$\mathbb{Z}_3$$ |
+| 4 | $$\mathbb{Z}_4$$ or $$\mathbb{Z}_2 \times \mathbb{Z}_2$$ |
+| 5 | $$\mathbb{Z}_5$$ |
+| 6 | $$\mathbb{Z}_6$$ or $$S_3$$ |
+| 7 | $$\mathbb{Z}_7$$ |
+
+
+
