@@ -457,9 +457,33 @@ Two key questions
 - Each form of metaphyiscal emergence is viable
 
 Operative Notions
-- the physical: 
+- The physical: it's assumed that all things are ultimately physical. But what does this mean? Characterization of physical entities is now determined a posteriori. Neither current nor future physics can characterize the domain of the physical. But also, physicalists have not totally given reign to physics to determine what is physical. Materialism: mentality is not over the mateiral goings on. "No fundamental mentality." Physical entities can be treated as basically compositionally basic
+- The individuation of levels: natural to think of emergent entities as 'higher-level' wrt 'lower level' going-ons. Do levels hav eontologically singificance or is reality single-layered? What combinations of features should be taken to exist at some level of scientific reality? How should levels be individuated?
+    - Lightweight combination -- mereological sums, uncontroversially aggregative operations. These are ontologically "lightweight" operations
+    - Law-consequence approach -- appeals to scientific laws. Laws are metaphysical, encode rules about features. Laws governing entities characteristic of a level can explain the level. Advantage: differentiation is not defined but follows from the laws. Causal conseuqences of $$L$$-level laws are placed at $$L$$. Does not rule out weak emergence. Laws require certain kinds of information to operate. 
+- The fundamental -- what does it mean for things to be fundamental?
+    - Non-primitivist: fundamentality defined in terms of dependence. Fundamental things are independent metaphysically. 
+    - Primitivist: fundametnal things are not metaphysically analyzable in other terms, positive or negative
+    - We should reject the idea that fundametnal reality needs a relational underpinning. Fundamental goings-on play a role as axioms in a theory. The primitives are the things which make the goings-on which are fundamental.
 
-page 24
+Causes and Powers
+- "Power" -- causal contributions a given feature makes to an entity's bringing about of an effect. What entities do depends on what they are. Everyone can accept this notion of powers. We do not need to commit to a lot of things.
+- Physical equations are expressed mathematically rather than causally -- scientific focus on the prediction of quantities
+    - Is "=" casual or not?
+    - Is physics incompatible with causation? Probably not.
+
+Methodology
+- Cartesian caricature of metaphysicians
+- Contemporary metaphysicians endorse an abductive methodology, "inference tot he best explanation" -- attention towards various theroetical desiderata
+- Advance in metaphysical understanding indicated by the acceptance of abductive reasoning
+- We shoudl aim to accomodate the appearance of metaphysical emergence
+- Criterion of appropriate accomodation: an account of metaphysical emergence should make natural and realistic sense of appearances of metaphysical emergence
+    - show the emergentist how to stay on their own horse
+- Criterion of illuminating accomodation: an adequate account of metaphysical emergence should provide an illuminating basis for accomodating the appearances of metaphysical emergence in a natural fashion.
+
+### Chapter 2: Two Schemas for Metaphysical Emergence
+
+- Problem of higher-level causation challenges the appearances of an emergent structure
 
 
 
