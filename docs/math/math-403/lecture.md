@@ -112,12 +112,38 @@ Some things to check:
 
 ---
 
-## Week 3 Wednesday --
+## Week 3 Wednesday -- ??
 - Isomorphism -- "same look"
 - Automorphism -- "self look"
 - If $$f : G \to H$$ is an isomorphism, there exists an inverse map $$f^{-1} : H \to G$$ such that $$f^{-1}$$ is also an isomorphism
 - If $$f : G \to H$$ is an injective homomorphism, then $$G \cong \text{Im}(f)$$.
 
+---
+
+## Week 3 Friday -- ?? pt 2
+
+---
+
+## Week 4 Monday -- Congruence
+
+Recap
+- Every $$\sigma \in S_n$$ can be written as a product of transpositions and of disjoint cycles. 
+- Disjoint cycles commute
+
+Definition:
+Given $$G$$ and a subgroup $$H$$, $$g_1 \equiv_H g_2$$ if $$g_1 g_2^{-1} \in H$$.
+
+- Congruence is an equivalence relation -- commutative, transitive
+- Define $$Hg$$ to be the group of all elements in $$G$$ which are congruent to $$g$$, mod $$H$$
+- If $$H g_1 \cap H g_2 \neq \emptyset$$, then $$H g_1 = H g_2$$. Proof:
+  1. Let $$k \in H g_1 \cap H g_2$$
+  2. Let $$k \in H g_1$$. Then $$k g_1^{-1} \in H$$.
+  3. Let $$k \in H g_2$$. Then $$k g_2^{-1} \in H$$.
+  4. $$x \equiv g_1$$ and $$g_1 \equiv k$$, meaning $$x \equiv k$$
+  5. $$k \equiv g_2$$, so $$x \equiv g_2$$.
+  6. So $$x \equiv g_1 \equiv g_2$$
+- Assume $$G$$ finite and $$H$$ subgroup. If $$g \in G$$, $$\vert H e \vert = \vert H g \vert$$. All the cosets have the same size.
+- Lagrange's theorem: If $$G$$ is finite and $$H$$ is a subgroup, then $$\vert G \vert = \vert H \vert \cdot \vert H g \vert$$.
 
 
 

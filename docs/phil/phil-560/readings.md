@@ -483,7 +483,47 @@ Methodology
 
 ### Chapter 2: Two Schemas for Metaphysical Emergence
 
-- Problem of higher-level causation challenges the appearances of an emergent structure
+- Problem of higher-level causation challenges the appearances of an emergent structure: higher-level features causally overdetermine effects already brought about by base features
+- We can lob two responses
+- We have reason to think satisfaction of conditions for weak and strong emergence are core and crucial to metaphysical emergence
+
+2.1. The problem of higher-level causation
+
+- Entities are efficacious in having efficacious features
+- Causation is a relation between spatiotemporally located things going on
+- Kim's argument: motivates rejection of the premise that special-science features are distinct from base features, motivating reductionism
+- You can avoid overdetermination by denying each of four premises (dependence, reality, efficacy, distinctness) but not in a way which preserves metaphysical emergence
+- So how can you preserve metaphysical emergence?
+- Deny physical causal closure: strong emergentism. Deny that every lower-level physical effect has a sufficeint purely lower-level physical cause.
+- Deny non-overdetermination: weak emergentism. Allow that effects of $$S$$ are overdetermined by $$P$$
+
+2.2. Strong emergentism and the New Power Condition
+- Strong emergentists: some special-science features are real, and deny physical causal closure (incompatible with physicalism)
+- British Emergentism: fudnamentally novel power
+- Mill -- emergence is 'heteropathic' effects of joint causes
+- Novel powers are fundamentally novel
+- Emergent features have fundamentally novel powers, not b base features or associated micro-configurations, irreducible to capacities of features of parts in relation
+- "radical emergence" against physicalism
+    - threaten the physical world as a closed causal system
+- New Power Condition: Token feature $$S$$ has, on a given occasion, at least one token power not identical with any token power of the token feature $$P$$ upon which $$S$$ cotemporally materially depends, on that occasion.
+- Strong emergentist position associated with a strategy of response by rejecting closure
+- Only by rejecting closure does the new power condition provide a basis for avoiding overdetermination of higher-level and lower-level effects.
+- If $$S$$ satisfies the New Power Condition, then it has the fundamentally novel power to bring about $$P^*$$. But $$P^*$$ does not have a sufficeint purely lower-level physical cause. $$P$$ is not at all a cause of $$P^*$$.
+- If $$S$$ causes another speical-science feature $$S^*$$, $$P$$ does not have the power to bring about $$S^*$$. We still require physical causal closure being false. If closure is held, $$P$$ would have a non-derivative power to cause $$S^*$$ by being a sufficient purely lower-level physical cause
+- Strong emergentist responses require "downward" causation"
+- Strong Emergence schema for metaphysical emergence: WHat it is for token feature $$S$$ to be Strongly metaphysically emergent from token feature $$P$$ on a given occasion is for it to be the case, on that occasion, (i) that $$S$$ cotemporally materially depends on $$P$$, and (ii) that $$S$$ has at least one token power not identical with any token power of $$P$$.
+
+2.3. Nonreductive physicalism and the Proper Subset of Powers Condition
+
+- As physicalists, they cannot reject physical causal closure; instead, they reject non-overdetermination; distinct speical-science and base features can be a sufficient cause of a single effect.
+- "Realization" relation between tokens and types, e.g. Functional realization, constitutive mechanism, mereological realization
+- Overdetermination is unproblematic because the feature is efficacious *qua* the type of feature it is (the realized feature)
+- Physicalists are committed to every SSF satisfying the Token Identity of Powers Condition: every token power of token feature $$S$$ is identical with a token power of teh token feature $$P$$ on which $$S$$ cotemporally amterially depends
+- Stronger condition, Proper Subset of Powers Condition: token feature $$S$$ has a non-empty proper subset of the token powers of the token feature $$P$$ on which $$S$$ cotemporally materially depends.
+- For functionalists, a causal role is just a collection of powers. Functionally relaized features only have a proper subset of the powers of its realizing features in cases of multipel realizability.
+- A token feature $$S$$ satisfying PSPC will be distinct from $$P$$. Might $$S$$ also be causally autonomous wrt $$P$$? $$S$$'s causal autonomy does not require $$S$$ have distinctive power, it can have a plurality of powers.
+- Multiple realizability is a good indicator of when a comparatively abstract ontological and causal joint is in place, implies that the joint does not hinge on multiple realizability
+- There are two ways for a higher-level feature to be distinctively efficacious w.r.t supervening lower-level features. Kim: higher-level feature associated with new power to produce the effect (distinctive efficacy). Or, associated with a distinctive subset of powers relevantly proportional to the effect. Power *profile*.
 
 
 
