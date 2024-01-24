@@ -525,7 +525,14 @@ Methodology
 - Multiple realizability is a good indicator of when a comparatively abstract ontological and causal joint is in place, implies that the joint does not hinge on multiple realizability
 - There are two ways for a higher-level feature to be distinctively efficacious w.r.t supervening lower-level features. Kim: higher-level feature associated with new power to produce the effect (distinctive efficacy). Or, associated with a distinctive subset of powers relevantly proportional to the effect. Power *profile*.
 
-
+2.4. Schemas as core and crucial to metaphysical emergence
+- Attention to the problem of higher-level causation allows us to posit two strategies of response -- Strong emergentism and nonreductive physicalism
+- Each provides a condition on the token powers of higher-level features w.r.t. token powers of lower-level features
+- There are limited ways in which cotemporally materially dependent higher-level features can be causally autonomous wrt base features.
+    - Feature may have more or less powers
+    - Feature may be distinctively efficaious in contributing to more or fewer effects
+- Exhausting all options, since token powers being identical isn't distinctive.
+- Conditions in the schemas are necessary and sufficient for metaphysical emergence
 
 
 

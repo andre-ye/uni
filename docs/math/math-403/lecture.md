@@ -124,7 +124,7 @@ Some things to check:
 
 ---
 
-## Week 4 Monday -- Congruence
+## Week 4 Monday -- Congruence Classes
 
 Recap
 - Every $$\sigma \in S_n$$ can be written as a product of transpositions and of disjoint cycles. 
@@ -146,9 +146,25 @@ Given $$G$$ and a subgroup $$H$$, $$g_1 \equiv_H g_2$$ if $$g_1 g_2^{-1} \in H$$
 - Lagrange's theorem: If $$G$$ is finite and $$H$$ is a subgroup, then $$\vert G \vert = \vert H \vert \cdot \vert H g \vert$$.
 
 
+---
 
+## Week 4 Wednesday --
 
+Proposition.
+If $$G$$ is a group and $$H$$ is its subgroup, with $$g \in G$$, then $$\vert H 1 \vert = \vert H g \vert = \{ g' \in G : g' \equiv_H g \}$$.
 
+We will construct the function $$f : H1 \to Hg$$ which is a bijection.
+We take an element $$g \in G$$ and $$h \in H$$, and map $$g$$ to $$hg$$.
+
+Lagrange's theorem
+- All the cosets are disjoint and have the same number of elements
+- Subsets cover all of $$G$$ and these subsets never intersect
+- We have that $$\vert G \vert = \sum \vert Hg \vert = \sum \vert H \cdot 1 \vert = \vert H g \vert \vert H \vert$$
+
+Normal subgroups
+- You can't add congruence classes in nonabelian groups in the same way you can for abelian groups
+- A subgroup $$H$$ of $$G$$ is normal if $$\forall g \in G$$, $$g H g^{-1} = H$$
+- 
 
 
 

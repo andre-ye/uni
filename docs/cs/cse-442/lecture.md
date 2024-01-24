@@ -67,4 +67,14 @@ Formalizing Design
 - "tell the truth and nothing but the truth"
 - Effectiveness of encodings by data type
 - Mackinlay's design algorithm, 1986 "A Presentation Tool"; user formally specifies data model and type, tests expressiveness, and generates encodings that pass test
-- 
+
+---
+
+## Week 4 Tuesaday -- Interactive Design
+- Tukey, PRIM-9, data exploration -- discovery in multiple dimensions
+- Brushing and linking across views
+- Interaction techniques can allow us to make input/output relationships to discover new insights
+- Direct manipulation: visual representation of objects and action, rapid and reversible actions, selection by pointing / not typing
+- Grammar of graphics
+
+
