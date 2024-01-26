@@ -148,7 +148,7 @@ Given $$G$$ and a subgroup $$H$$, $$g_1 \equiv_H g_2$$ if $$g_1 g_2^{-1} \in H$$
 
 ---
 
-## Week 4 Wednesday --
+## Week 4 Wednesday -- Normal Subgroups
 
 Proposition.
 If $$G$$ is a group and $$H$$ is its subgroup, with $$g \in G$$, then $$\vert H 1 \vert = \vert H g \vert = \{ g' \in G : g' \equiv_H g \}$$.
@@ -164,7 +164,20 @@ Lagrange's theorem
 Normal subgroups
 - You can't add congruence classes in nonabelian groups in the same way you can for abelian groups
 - A subgroup $$H$$ of $$G$$ is normal if $$\forall g \in G$$, $$g H g^{-1} = H$$
-- 
+
+---
+
+## Week 4 Friday -- More Normal Subgroups
+
+- Not all groups are normal, e.g. $$D_3$$ or $$\langle (1, 2) \rangle \subseteq S_3$$
+- Criteria is that $$g H g^{-1} = H$$, which is to say that $$g H = H g$$
+- $$a \equiv_H b$$ and $$c \equiv_H d$$ implies that $$ac \equiv_H bd$$
+- Let $$G$$ be a group and $$H$$ its subgroup. Then
+  1. The congruence classes modulo $$H$$ form a group $$G / H$$
+  2. There is a surjective homomorphism from $$G \to G / H$$, where each element $$g \in G$$ is mapped to its congruence class.
+- We will define $$H g_1 \cdot H g_2 = H g_1 g_2$$
+
+
 
 
 
