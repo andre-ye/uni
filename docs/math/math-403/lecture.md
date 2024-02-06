@@ -177,6 +177,29 @@ Normal subgroups
   2. There is a surjective homomorphism from $$G \to G / H$$, where each element $$g \in G$$ is mapped to its congruence class.
 - We will define $$H g_1 \cdot H g_2 = H g_1 g_2$$
 
+---
+
+## Week 6 Monday -- Isomorphism Theorem for Groups
+- Let $$f : G \to H$$ be a group homomorphism. Then the kernel of $$f$$ is a normal subgroup of $$G$$
+- There exists a function $$\bar{f} : G / \text{ker}(f) \to H$$ such that $$\bar{f}(\pi(g)) = f(g)$$, where $$\pi : G \to G / \text{ker}(f)$$ is the natural projection from an element in $$G$$ to its congruence class
+- Consider the map from $$D_6$$ to $$\mathbb{Z}_2$$ givn by $$f(r^a s^b) = b$$.
+  - The kernel of $$f$$ is $$\langle r \rangle$$
+  - The two congruence classes are $$\langle r \rangle$$ and $$\langle r \rangle s$$
+  - The map $$\bar{f}$$ is given by $$\bar{f}(\langle r \rangle) = 0$$ and $$\bar{f}(\langle r \rangle s) = 1$$
+- Another example: map from $$GL_2(\mathbb{R}) \to \mathbb{C}^*$$ which sends a matrix to its determinant
+  - The kernel of this map is the set of all matrices with determinant 1 (the special linear group, $$SL_2(\mathbb{R})$$)
+  - $$G / \text{ker}(f)$$ is the set of congruence classes of matrices modulo the special linear group
+- Theorem. For $$f : G \to H$$ homomorphism, there exists an injective homomorphism $$\bar{f} : G / \text{ker}(f) \to H$$ such that $$f = \bar{f} \circ \pi$$, where $$\pi : G \to G / \text{ker}(f)$$ is the natural projection
+  - Rephrased: for a homomorphism of groups $$f :  G \to H$$, $$G / \text{ker}(f) \cong \text{Im}(f)$$
+- Proof of the theorem
+  1. Define the function $$\bar{f}$$ : $$\bar{f}(\text{ker}(f) g) = f(g)$$
+  2. Need to check that this function is well-defined. If $$\text{ker}(f) g = \text{ker}(f) g'$$, then $$f(g) = f(g')$$
+  3. We need to verify that $$\bar{f}$$ is a homomorphism
+  4. We need to check that $$\bar{f}$$ is injective: namely, check that $$\ker(\bar{f}) = \{ 1 \}$$
+- If $$f$$ is surjective, then $$\bar{f}$$ is an isomorphism between the quotient group and $$H$$
+  - Note that $$GL_n / SL_n \cong \mathbb{R} \setminus \{ 0 \}$$
+
+
 
 
 

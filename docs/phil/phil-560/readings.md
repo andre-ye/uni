@@ -534,12 +534,77 @@ Methodology
 - Exhausting all options, since token powers being identical isn't distinctive.
 - Conditions in the schemas are necessary and sufficient for metaphysical emergence
 
+### Chapter 3: The viability of Weak emergence
 
+Anti-realism
+- Is PSP a mind-dependent abstraction?
+- Picture theory: represent corresponds to reality; when a predicate applies truly to an object, it designates a property possessed by that object and by every object to which the predicate applies
+- Motivations for positing metaphysically emergent entities are better interpreted as tracking inexact similarities between lower-level entities or features
+- Anti-realism motivated by Kim-concern that higher-level properties are causally excluded by lower-level realizers
+- We can't deny when the realizer of a Weakly emergent feature might be the cause of a given effect
+- The higher-level features must be distinctively, not necessarily uniquely efficacious
+- Power vs. power profile
+- There can be different power profile tracking differences: laws, causal joints
+- We have not been good reason to resist taking prima facie appearances of higher-level reality seriously
 
+Compatibility with reductionism
 
+- Satisfaction of weak emergence is compatible with ontological reduction to an other lower physicallya cceptable feature
+- ...
 
+Compatibility with physical unacceptability
+- A feature satisfying the conditions in the schema might be "over and above" its dependence base feature, rendering $$S$$ physically unacceptable
 
+Non-necessity
+-  ...
 
+Concluding Remarks
+- Range of objections to Weak emergence: condtions compatible with anti-realism,r eductionism, phsical unacceptability, not necessary. But this admits responses for proponetns of the schema.
+
+### Chapter 4: The viability of Strong emergence
+
+Incompatibility with scientific theory of practice
+- The positing of fundamental configruational forces is compatible with scientific practice
+ 
+Collapse
+- Strongly emergent features should collapse into the lower-level base features upon which thye depend
+- Each objection admits 1+ responses available to proponents of diverse implementations of the schema
+- Maybe some of the conditions in Strong Emergence need to be tweaked
+
+---
+
+## "The Metaphysics of Realization, Multiple Realizability, and the Special Sciences", Carl Gillett
+
+- "Received view" of multiple realizability
+- Shapiro: the mammalian and octopus eye are not examples of multiple realization
+- What is realization?
+
+I. Two Views of the Metaphysics of Realization
+- "Flat" account: defended by Jaegwon Kim, Sydney Shoemaker.
+    - A property instance $$X$$ realizes a property instance $$Y$$ only if $$X, YY$$ are instantiated in the same individual.
+    - A property instance $$X$$ realizes a property instance $$Y$$ only if the causal powers individuative of the instance of $$Y$$ match causal powers contributed by the instance of $$X$$.
+- Realized and realizer properties share the individual in which they are instantiated
+- Dimensional account: realizer and realized properties may be instantiated in same or different individuals.
+- Hilary Putnam does not take the mammaliana nd octopus eye to be a case of multiple realization, but Fodor and Block do.
+    - Flat metaphysics: the only properties relevant to realizing a property in some individual are the other properties instantiated in that individual. The individuals instantiating the property of being an eye are virtually identical w.r.t. those properties resulting in instantiating the property of being an eye.
+    - Dimensional metaphysics:properties / relations of the constituents of an individual are potential realizers of this individuals' properties.
+
+II. Understanding the relevance criterion
+- Two corkscrews that differ only in color
+- Such a case does not constitute multiple realization of the property of removing corks.
+- Relevance criterion: instances are only distinct realizations of a property if the difference between properties are those which are individuative of the property being realized.
+- Shapiro assumes a flat metaphysics
+- We do not reach Shapiro's negative conclusions if we assume a dimensional metaphysics
+- Dimensioned view: properties and relations of constituents can be constituents.
+- There is a wider view of causal role playing and a realizer property
+- Do all proponents of dimensioned metaphysics take all differences of composition to be multiple realization? No -- things dont have to contribute to the individuative powers of the property
+- Shapiro is not necessarily a critic of Block and Fodor, unless you assume an account of realization
+
+III. Realization and the Nature of the Special Sciences
+- Shapiro: why is the MRT coherent at all?
+- Commitment to flat metaphysics is necessary for the dilemma to arise
+- Under the dimensioned view, realizer properties do not have to contribute a common set of powers. 
+- We should maybe reject the flat view in favor of the dimensioned view
 
 
 

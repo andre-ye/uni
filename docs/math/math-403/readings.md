@@ -333,5 +333,111 @@ Every group of order 6 is isomorphic to either $$\mathbb{Z}_6$$ or $$S_3$$.
 | 6 | $$\mathbb{Z}_6$$ or $$S_3$$ |
 | 7 | $$\mathbb{Z}_7$$ |
 
+### 8.2: Normal Subgroups
+- Suppose $$G$$ group and $K$$ subgroup.
+- Create a new group whose elements are right cosets of $$K$$ in $$G$$.
+- Left coset $$aK$$: $$\{ak \vert k \in K\}$$
+- a subgroup $$N$$ of a group $$G$$ is normal if $$Na = aN$$ for every $$a \in G$$.
+- Every subgroup of an abelian group is normal.
+- Note that $$Na = aN$$ does not imply that $$na = na, \forall n \in N$$
+
+**Theorem 8.10.**
+Let $$N$$ be a normal subgroup of a group $$G$$.
+If $$a \equiv_N b$$ and $$c \equiv_N d$$< then $$ac \equiv_N bd$$.
+
+**Theorem 8.11.**
+The following conditions on a subgroup $$N$$ of a group $$G$$ are equivalent:
+1. $$N$$ is normal in $$G$$
+2. $$a^{-1} N a \subseteq N$$ for every $$a \in G$$, where $$a^{-1} N a = \{a^{-1}na \vert n \in N\}$$
+3. $$aNa^{-1} \subseteq N$$ for every $$a \in G$$, where $$aNa^{-1} = \{ana^{-1} \vert n \in N\}$$
+4. $$a^{-1} N a = N$$ for every $$a \in G$$
+5. $$aNa^{-1} = N$$ for every $$a \in G$$
+
+### 8.3: Quotient Groups
+- $$G / N$$ denotes the set of all right cosets of $$N$$ in $$G$$.
+
+**Theorem 8.12.**
+Let $$N$$ be a normal subgroup of a group $$G$$.
+If $$Na = Nc$$ and $$Nb = Nd$$ in $$G / N$$, then $$N ab = N cd$$.
+
+**Theorem 8.13.**
+Let $$N$$ be a normal subgroup of a group $$G$$.
+Then
+1. $$G / N$$ is a group under the operation defined by $$(Na)(Nc) = Nac$$.
+2. If $$G$$ is finite, then the order of $$G / N$$ is $$[G : N]$$.
+3. If $$G$$ is abelian, then $$G / N$$ is abelian.
+
+If $$K$$ is the cyclic subgroup $$\langle n \rangle$$ of $$\mathbb{Z}$$, then $$\mathbb{Z} / K = Z_n$$.
+
+### 8.4: Quotient Groups and Homomorphisms
+
+**Definition.**
+Let $$\phi: G \to H$$ be a homomorphism from a group $$G$$ to a group $$H$$.
+Then the kernel of $$\phi$$ is the set of all elements of $$G$$ that are mapped to the identity of $$H$$.
+
+- Kernels are normal subgroups
+
+**Theorem 8.16.**
+Let $$f : G \to H$$ be a homomorphism of groups with kernel $$K$$.
+Then $$K$$ is a normal subgroup of $$G$$.
+
+- The kernel of a homomorphism $$f$$ measures how far $$f$$ is from being injective.
+
+**Theorem 8.17.**
+Let $$f : G \to H$$ be a homomorphism of groups with kernel $$K$$.
+Then $$K = \langle e_G \rangle$$ iff $$f$$ is injective.
+
+**Theorem 8.18.**
+If $$N$$ is a normal subgroup of a group $$G$$, then the map $$\pi G \to G / N$$ given by $$\pi(a) = Na$$ is a surjective homomorphism with kernal $$N$$.
+
+- 8.16. states that every kernel is a normal subgroup, but every normal subgroup is also a kernel
+
+**Lemma 8.19.**
+Let $$ : G \to H$$ be a group homomorphism with kernel $$K$$.
+Let $$a, b \in G$$.
+Then $$f(a) = f(b)$$ iff $$Ka = Kb$$.
+
+**Theorem 8.20. First Isomorphism Theorem.**
+Let $$f : G \to H$$ be a surjective homomorphism of groups with kernel $$K$$.
+Then the quotient group $$G / K$$ is isomorphic to $$H$$.
+
+From the first isomorphism theorem, we have a lot of interesting results:
+- Let $$N = \{ a + bi \vert a^2 + b^2 = 1 \}$$. Then $$\mathbb{C} / N \cong \mathbb{R}^+$$.
+- Let $$K = \{1, -1\}$$. Then $$\mathbb{R}^* / K \cong \mathbb{R}^+$$.
+
+**Theorem 8.21.**
+Let $$N$$ be a normal subgroup of a group $$G$$ and let $$K$$ be any subgroup of $$G$$ that contains $$N$$.
+Then $$K / N$$ is a subgroup of $$G / N$$.
+
+**Theorem 8.22. Third Isomorphism Theorem**
+Let $$K, N$$ be normal subgroups sof a group $$G$$ with $$N \subseteq K \subseteq G$$.
+Then $$K / N$$ is a normal subgroup of $$G / N$$, and the quotient group $$(G / N) / (K / N)$$ is isomorphic to $$G / K$$.
+
+**Corollary 8.23.**
+Let $$N$$ be a normal subgroup of a group $$G$$ and let $$K$$ be any subgroup of $$G$$ that contains $$N$$.
+Then $$K$$ is normal in $$G$$ iff $$K / N$$ is normal in $$G / N$$.
+
+**Theorem 8.24.**
+If $$T$$ is any subgroup of $$G / N$$, then $$T = H/N$$, where $$H$$ is a subgroup of $$G$$ that contains $$N$$.
+
+- Classification of finite groups: every finite group is isomorphic to one group on the list
+- A group is simple if its only normal subgroups are $$\langle e \rangle$$ and $$G$$ itself
+
+**Theorem 8.25.**
+$$G$$ is a simple abelian group iff $$G$$ is isomorphic to the additive group $$\mathbb{Z}_p$$ for some prime $$p$$.
+
+- Nonabelian simple groups are rare: only five of order les than 1k and 56 of order less than 1m.
+- Alternating groups: large class of nonabelian simple groups.
+- Simple groups are the basic building blocks for all groups
+- If $$G$$ is a finite group, it only has finitely many normal subgroups other than itself.
+- Let $$G_1$$ be a normal subrgroup that has the largest possible order: $$G / G_1$$ is simple.
+  - Suppose $$G / G_1$$ had a proper normal subgroup; it would have form $$M / G_1$$, where $$M$$ is a proper normal subgroup of $$G$$ properly containing $$G_1$$. But then $$M$$ would be the largest normal subgroup of $$G$$, a contradiction.
+  - If $$G_1 \neq \langle e \rangle$$, let $$G_2$$ be a normal subgroup of $$G_1$$ of largest possible order. We know $$G_1 / G_2$$ is simple. And we can continue until we reach some $$G_n$$ that is the identity subgroup, so you get a sequence of ;groups $$\langle e \rangle = G_n \subset G_{n-1} \subset \hdots \subset G_3 \subset G_2 \subset G_1 \subset G_0 = G$$
+  - Each $$G_i$$ is a normal subgroup of its predecessor; each quotient group $$G_i / G_{i + 1}$$ is simple. These simple groups are the composition factors of $$G$$
+  - Composition factors of a finite group $$G$$ are independent of the choice of the subgroups $$G_i$$: you can choose different $$G_i$$ but the simple quotient groups would be isomorphic
+  - The composition factors of $$G$$ totally determine the structure of $$G$$
+- Classification problem strategy: classify all simple groups and show how the composition factors of an arbitrary group determine the structure of the group
+
+
 
 
