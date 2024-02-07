@@ -199,7 +199,15 @@ Normal subgroups
 - If $$f$$ is surjective, then $$\bar{f}$$ is an isomorphism between the quotient group and $$H$$
   - Note that $$GL_n / SL_n \cong \mathbb{R} \setminus \{ 0 \}$$
 
+---
 
+## Week 6 Wednesday -- Iso Thm pt 2
+- Example: Consider $$G = \mathbb{C}$$ and $$H = \{ z \in \mathbb{C}* : \vert z \vert = 1 \}
+- If you work it out, $$H$$ is closed under multiplication.
+- Turns out that $$(\mathbb{R}^+, *) \cong \mathbb{C}^* / H$$
+- To show that a group is isomorphic to a quotient group $$G / H$$, you need to find a surjective homomorphism $$f : G \to H$$ and then show that $$\text{ker}(f) = H$$
+- In general: dividing an infinite field by the set of elements with constant norm (say unit norm) gives you $$\mathbb{R}^+$$?
+- Suppose $$f : G \to H$$ is a surjective homomorphism, that $$K$$ is a normal subgroup of $$G$$ and contained in the kernel of $$f$$. Then the map from $$G / K \to H$$ is injective iff $$K = \text{ker}(f)$$
 
 
 
