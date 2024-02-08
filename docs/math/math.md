@@ -10,3 +10,6 @@ permalink: /docs/math
 
 <!-- The Relevant Discipline
 {: .fs-6 .fw-300 } -->
+
+
+Yooo what's up
