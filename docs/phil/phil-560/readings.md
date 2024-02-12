@@ -606,5 +606,34 @@ III. Realization and the Nature of the Special Sciences
 - Under the dimensioned view, realizer properties do not have to contribute a common set of powers. 
 - We should maybe reject the flat view in favor of the dimensioned view
 
+---
 
+## "Thinking About Mechanisms", Peter Machamer, Lindley Darden, and Carl Craver
+
+Introduction
+- In many areas of science, a satisfactorye xplanation requires providing a description of a mechanism
+- The practice of science can be the discovery and descritpion of mechanisms
+
+Mechanisms
+- Mechanisms explain how a phenomenon comes about
+- Mehcanisms are entities and activities organized such that they are productive of regular changes from start or set-up to finish or termination conditions
+- Descriptions of mechanisms show how termination conditionsa re produced by initialization adn intermediate stages
+- Mechanisms are composed of entities (things that engage in activities) and activities (producers of change)
+- Mechanisms are regular -- productive continuity
+- Emphasis on activities in mechanisms -- producers of change
+
+Ontic Status of Mechanisms
+- Dualist ontics of mechanism
+- Activities can be identified and individiauted like entities
+- Functions are properties "had by" entities -- or maybe they are activities
+- Entities and properties determine activities they can engage in
+- Entities and activities are correlatives, interdependent
+- Activities are types of causes
+- There are few universal laws in neurobiology or molecular biology.
+- Mechanism: series of activities of entities that bring about finish in a regular way.
+- Synapses: chemical transmission
+- Termination conditions
+- These states are privileged (graphs!)
+- Intermediate activities
+- Mechanisms can be hierarchical, nested, etc.
 

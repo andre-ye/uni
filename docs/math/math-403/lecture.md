@@ -209,6 +209,15 @@ Normal subgroups
 - In general: dividing an infinite field by the set of elements with constant norm (say unit norm) gives you $$\mathbb{R}^+$$?
 - Suppose $$f : G \to H$$ is a surjective homomorphism, that $$K$$ is a normal subgroup of $$G$$ and contained in the kernel of $$f$$. Then the map from $$G / K \to H$$ is injective iff $$K = \text{ker}(f)$$
 
+---
+
+## Week 6 Friday -- Iso Thm pt 3
+- To prove isomorphisms, show the presence of a homomorphism with a kernel equal to (or contains) the subgroup you want to quotient by, then you know that the quotient group is isomorphic to the image of the homomorphism
+- For instance, $$\mathbb{C}^* / \{ 1, -1 \} \cong \mathbb{C}^*$$ using the map $$f(z) = z^2$$
+- Proposition: there is a bijection between the subgroups of $$G / K$$ and the subgroups of $$G$$ containing $$K$$.
+  - The map from subgroups of $$G / K$$ to the subgroups of $$G$$ containing $$K$$: preimage of the subgroup under the natural projection
+  - The map from subgroups of $$G$$ containing $$K$$ to the subgroups of $$G / K$$: the image of the subgroup under the natural projection
+  - This bijection sends normal subgroups to normal subgroups
 
 
 
