@@ -219,6 +219,29 @@ Normal subgroups
   - The map from subgroups of $$G$$ containing $$K$$ to the subgroups of $$G / K$$: the image of the subgroup under the natural projection
   - This bijection sends normal subgroups to normal subgroups
 
+---
+
+## Week 7 Monday -- 
+- Two useful definitions of normal subgroups
+  - For all $$ g\in G$$, $$g N g^{-1} \subseteq N$$
+  - For all $$g \in G$$, for all $$n \in N$$, exists $$n' \in N$$ such that $$gn = n' g$$
+- Composition of homomorphisms is a homomorphism; you can quotient groups repeatedly
+- Kernels are normal subgroups. Normal subgroups are the kernels of some homomorphisms
+- From the quotient process $$G \to G / N \to (G / N) / K$$, you know that the kernel $$\pi^{-1}(K)$$ is a normal subgroup of $$G$$ containing $$N$$
+- Restatement of the first isomorphism theorem
+  1. If $$k \subseteq \text{ker}(f)$$ with $$k$$ a normal subgroup of $$G$$, $$f$$ induces $$\bar{f} : G / K \to H$$
+  2. If $$k = \text{ker}(f)$$, $$\bar{f}$$ is injective
+  3. $$f$$ surjective iff $$\bar{f}$$ surjective
+- Third isomorphism theorem: if $$K \lefttriangleeq G / N$$, $$(G / N) / K \cong G / \pi^{-1}(K)$$ for $$\pi : G \to G / N$$
+  - Theorem used if you have a quotient and you want to understand what it is
+  - e.g. $$K = \{0, 3, 6, 9 \} \subseteq \mathbb{Z}_{12}$$, $$\mathbb{Z}_{12} / K = (\mathbb{Z} / 12\mathbb{Z}) / K = \mathbb{Z} / \pi^{-1}(K) = \mathbb{Z} / 3\mathbb{Z}$$, where $$\pi : \mathbb{Z} \to \mathbb{Z}_{12}$$
+- Can you find a subgroup $$H$$ of $$GL_2$$ such that $$SL_2 \subseteq H$$ and $$H$$ not normal? Impossible, because there is a bijection from subgroups of $$G / N$$ and the subgroups of $$G$$ containing $$N$$
+  - Moreover, there is a bijection between normal subgroups of $$G / N$$ and normal subgroups of $$G$$ containing $$N$$
+  - "Out of the subgroups of $$G$$ containing $$N$$, which ones are normal?" becomes "Out of the subgroups of $$G / N$$, which ones are normal?" Because $$GL_2 / SL_2 \cong \mathbb{R}^*$$, it is abelian, and therefore every subgroup is normal. This means that every subgroup of $$GL_2$$ containing $$SL_2$$ is normal.
+- A group is simple if every normal subgroup is either the identity or the group itself, which means that if you try to quotient by a normal subgroup, you get either the identity or the group itself
+- You can decrease complexity by quotienting by normal subgroups
+- $$A_4$$ is simple if $$n \neq 4$$.
+
 
 
 
