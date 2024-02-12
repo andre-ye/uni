@@ -637,3 +637,44 @@ Ontic Status of Mechanisms
 - Intermediate activities
 - Mechanisms can be hierarchical, nested, etc.
 
+---
+
+## "Aggregativity: Reductive Heuristics for Finding Emergence", William C. Wimsatt
+
+Reduction and Emergence
+- Traditional reductionists posit that emergence claimsa re nothing more than temporal confessions of ignorance.
+- Giving reductionistic explanations does not deny their importance or make them less emergent; it explains how they are important, *ineliminably so*
+- Multiple realizability is supposedly a criterion for emergence, but it follows from the existence of compositional levels of organization, is very wide, and not very mysterious.
+- An emergent property is a system property which is dependent upon the mode of organization of the system's parts.
+    - Compatible with reductionism
+    - Common
+    - Weak for antireductionists, but it's still powerful.
+    - Why might we prefer some decompositionso ver others?
+- Emergence can indicate context-sensitivity of relational parts' properties to intra-systemic conditions
+- Level and scope switching: can be useful to remove biases because of our perceptual biases
+- "the whole is more than the sum of the parts" -- e.g. Huygen, pendulum clocks. There is a "virtual metronome" not present at any of the clocks. This is not antireductionistic: oscillation will center around a true mean. It is also an intuitive case of emergence.
+- We need an analysis of emergence which is consistence with reductionism -- hemoglobin molecules, traffic jams, critical mass for fissionable materials, etc.
+
+Conditions of Aggregativity
+- Emergence involves an interdependence of diverse parts, but there are many possible forms of such interaction
+- It is easier to discuss what it means for a system property *not* to be emergent -- a "mere aggregate" of its parts' properties.
+- Four conditions for aggregativity
+    - Intersubstitution or rearrangement of parts -- invariance of the system property under operations rearranging parts in the system, e.g. commutativity of composition function
+    - Addition or subtraction of parts -- quantiative similarity of the system property under addition or subtraction of parts, e.g. inductive definitions
+    - Decomposition and reaggregation of parts -- invariance of the system under operations involving decomposition and reaggregation, e.g. associativity of composition function
+    - A linearity condition -- no cooperative or inhibitory interactions among parts of the system
+- For a system property to be truly aggregative, it must meet these conditions fro all possible decompositions of the systems into parts -- but this is rarely met. More interesting are when conditions are met for some decompositions but not others.
+- Testing conditions against different ways of decomposing the system is revealing of its organization.
+
+Heuristic and Other Uses of Limited Aggregativity
+- Blindness to assumed constraints
+- Conservation laws of physics, e.g. mass, energy, momentum, net charge are aggregative under all decompositions
+- Maybe anything which is invariant across many transformations must have a major conservation law associated with it
+- Volume is not aggregative if you consdier solvent-solute interactions in chemistry.
+
+Aggregativity, Vulgar Reductionism, and Detecting Organizational Properties
+- Few system properties are aggregative. Emergence therefore is very common.
+- We go on to capture emergence as our systems get more complex (from aggregative models)
+- Aggregativity is a natural criteria for choosing among decompositiosn: aggregative decompositions are natural compositions, joints of nature.
+- Better grounding for vulgar reductionisms
+- 
