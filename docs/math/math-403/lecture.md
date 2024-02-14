@@ -221,7 +221,7 @@ Normal subgroups
 
 ---
 
-## Week 7 Monday -- 
+## Week 7 Monday -- Third Isomorphism Theorem
 - Two useful definitions of normal subgroups
   - For all $$ g\in G$$, $$g N g^{-1} \subseteq N$$
   - For all $$g \in G$$, for all $$n \in N$$, exists $$n' \in N$$ such that $$gn = n' g$$
@@ -241,6 +241,45 @@ Normal subgroups
 - A group is simple if every normal subgroup is either the identity or the group itself, which means that if you try to quotient by a normal subgroup, you get either the identity or the group itself
 - You can decrease complexity by quotienting by normal subgroups
 - $$A_4$$ is simple if $$n \neq 4$$.
+
+---
+
+## Week 7 Wednesday -- 
+Review
+- The set of all subgroups in $$G / N$$ is isomorphic to the set of all subgroups in $$G$$ containing $$N$$
+- The set of all *normal* subgroups in $$G / N$$ is isomorphic to the set of all normal subgroups in $$G$$ containing $$N$$
+- Then $$K \lefttriangleeq G / N$$, $$(G / N) / K \cong G / \pi^{-1}(K)$$, where $$\pi : G \to G / N$$
+- Not true in general: if $$f$$ homomorphism $$G \to H$$, $$N \lefttriangleeq G$$, $$f(N) \subseteq H$$ is not necessarily normal
+- If $$f$$ is surjective, then $$f(N)$$ is normal
+
+Suppose you have a group $$G$$, with $$N_1, N_2, \hdots, N_m \lefttriangleeq G$$, satisfying the following properties:
+- For any $$1 \le i \le m$$, $$N_i \cap N_1 N_2 \hdots N_{i-1} N_{i+1} \hdots N_m = \{ e \}$$, where the product is just generation of elements from sets
+- For all $$g \in G$$, there exists $$n_1, n_2, \hdots, n_m$$ such that $$g = n_1 \cdot n_2 \cdot \hdots \cdot n_m$$, where $$n_i \in N_i$$
+Then $$G \cong N_1 \times N_2 \times \hdots \times N_m$$.
+Basically: if you have a bunch of "disjoint" normal subgroups and they generate $$G$$, then $$G$$ just is their Cartesian product.
+
+Proof for $$2$$ subgroups case.
+1. We know that $$N_1, N_2 \lefttriangleeq G$$, $$N_1 \cap N_2 = \{ e \}$$, and $$N_1 N_2 = G$$ We want to prove that $$N_1 \times N_2 \cong G$$.
+2. Consider the function $$f : N_1 \times N_2 \to G$$ given by $$f(n_1, n_2) = n_1 n_2$$. This is a surjective function, for free.
+3. It is a homomorphism: $$f((n_1, n_2) \cdot (n_1', n_2')) = f(n_1 n_1', n_2 n_2') = n_1 n_1' n_2 n_2' = f(n_1, n_2) f(n_1', n_2')$$. This relies on showing that elements in $$N_1, N_2$$ commute. bitches aint shit frfr ong no cap
+4. Injectivity: need to show that the kernel of $$f$$ is one. You can use the fact that the intersection is $$e$$ to show that the kernel is $$e$$.
+
+Theorem.
+$$G$$ is a finite abelian group.
+$$G \cong \mathbb{Z}_{p_1^{k_1}} \times \hdots \times \mathbb{Z}_{p_m^{k_m}}$$, where $$p_i$$ are primes.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
