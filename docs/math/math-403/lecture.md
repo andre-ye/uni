@@ -268,6 +268,30 @@ Theorem.
 $$G$$ is a finite abelian group.
 $$G \cong \mathbb{Z}_{p_1^{k_1}} \times \hdots \times \mathbb{Z}_{p_m^{k_m}}$$, where $$p_i$$ are primes.
 
+---
+
+## Week 7 Friday -- Structure of Finite Abelian Groups
+
+The book's theorem: 
+If $$\forall g \in G, \exists ! n_i \in N_i : g = n_1 \cdot \hdots \cdot n_m$$, and $$N_i$$ cover all of $$G$$, then $$G \cong N_1 \times \hdots \times N_m$$
+
+Theorem:
+If $$G$$ is a finite abelian group such that $$\vert G \vert = p_1^{m_1} \times \hdots \times p_k^{m_k} where $$p_i$$ are primes, then
+1. $$G \cong G(p_1) \times \hdots \times G(P_k)$$ s.t. $$\vert G(p_i) \vert = p_i^{m_i}$$
+2. $$G(P_i) \cong \mathbb{Z}_{p_i^{m_1}} \times \hdots \times \mathbb{Z}_{p_{i}^{a_n}}$$
+
+That is to say, if $$G$$ is a finite abelian group, then $$G$$ is a product of cyclic groups. 
+
+Proof:
+1. For all $$p$$ prime, $$p \vert \vert G \vert$$, let $$G(p) = \{ g \in G : \vert g \vert = p^{\alpha} \}$$
+2. Claim: $$G(p)$$ is a subgroup of $$G$$. 
+  - $$e \in G(p)$$
+  - If $$g, h \in G(p)$$, then $$\vert g \vert = p^{\alpha}$$ and $$\vert h \vert = p^{\beta}$$, so $$\vert g h \vert = p^{\gamma}$$, where $$\gamma \le \alpha + \beta$$
+  - If $$g \in G(p)$$, then $$\vert g^{-1} \vert = \vert g \vert$$
+3. Now prove that each $$G(p_i)$$ is disjoint except for $$e$$
+4. Now prove that $$G(p_i)$$ covers all of $$G$$: for every $$g \in G$$, $$\exists g_i \in G(p_i) : g = \sum g_i$$. Prove by induction starting from $$m = 1$$
+
+Important part -- if you have a finite abelian group, it is a product of cyclic groups.
 
 
 

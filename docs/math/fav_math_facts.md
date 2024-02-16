@@ -124,3 +124,6 @@ If $$G$$ is a finite group and $$H$$ is a subgroup of $$G$$, then the order of $
 
 **Isomorphisms to prime modulo groups.**
 Every group of prime order, with no subgroups, or simple and abelian is cyclic and isomorphic to $$\mathbb{Z}_p$$.
+
+**Finite abelian groups.**
+Every finite abelian group is isomorphic to a Cartesian product of cyclic groups of prime power order.

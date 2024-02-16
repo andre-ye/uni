@@ -674,7 +674,90 @@ Heuristic and Other Uses of Limited Aggregativity
 
 Aggregativity, Vulgar Reductionism, and Detecting Organizational Properties
 - Few system properties are aggregative. Emergence therefore is very common.
-- We go on to capture emergence as our systems get more complex (from aggregative models)
+- We go                                                                get more complex (from aggregative models)
 - Aggregativity is a natural criteria for choosing among decompositiosn: aggregative decompositions are natural compositions, joints of nature.
 - Better grounding for vulgar reductionisms
+
+---
+
+## "Computability Theory and Ontological Emergence", Jon Cogburn and Mark Silcov
+
+I
+- Often helpful in metaphysics to reflect on how those principles reflect on claims in logic and mathematics.
+- Induction: define a base class and then inclusion by reference to the base class
+- Conditions can be deflationary or inflationary
+- There is an analog in metaphysics
+- Equations reduce at the limit
+- Why has the inflationary strategy been less successful?
+    - Humans don't know what the relevant base class of properties is
+- Questions concerning ultimate properties can be distinguished from questions concerning emergence. Why should a doctrine of emergence say anything interesting about the base class?
+- Distinguish ontologically emergent properties from those which are merely epistemically emergent by simply assuming that the base class of properties is well-defined and asking which properties are emergent relative to them
+- Should we focus exclusively on the inductive component of the inflationary strategy?
+
+II.
+- "Emergent properties": properties of objects that are not properties of the individual parts of those objects.
+- "Ontological emergence": emergent properties that are part of the fundamental furniture of the universe, "the really real ones".
+- "Epistemically emergent" properties: not really part of the fundamental furniture of the universe, but serve as heuristic devices.
+- Three wasy of distinguishing between epistemic and ontological emergence
+
+IIa.
+- Barry Smith: epistemically emergent properties are all and only secondary properties, ontologically emergent properties are recognition-independent
+- Secondary properties seem to be dependent on us; primary properties might exist in a world which does not contain thinkers
+- Looking pretty, tasting salty: both dependent upon us
+- What about being morally praiseworthy? What about color?
+- Some secondary properties are also ontologically emergent
+
+IIb.
+- Ontologically emergent properties have genuine causal powers that are irreducible to the instances of the base properties from which they emergence
+- Popular approach to metaphysics of emergence, e.g. Jaegwon Kim
+- Doesn't help answering our questions: causality not better understood than emergence
+- Kim's definition of ontological emergence seems to suggest that all emergent properties are ontologically emergent
+- Deductive-nomological view of emergence faces Nickles' dilema: if you characterize the difference between epistemic and ontological emergence in terms of irreducibility, then with your formal model of reduction to which ontologically emergent activities fail to conform, the theory vacuously determines all emergent properties to be vacuously emergent.
+- Too much focus on reducibility?
+
+IIc.
+- Kim's functional view of emergence
+- Epistemically emergent properties are characterizable inpurely functional terms, whereas ontologically emergent properties fail
+- What is function? -- ask philosophy of biologist people
+- Kim does not consider properties that satisfy functional specificability but not relevant physical causal roles (?)
+- Does not differentiate between wildly disjunctive physical realizers of functional states and those which are not
+
+III.
+- Emergent properties denote properties of mereological sums that are not instantiated by their parts
+- An ontolgocially emergent property is an emergent property that is really real
+- Borrowing from computability theory: a property is epistemically emergent iff there is an algorithmic procedure that takes in input observed instantiations of properties of a mereological sum's parts, and gives an output "1" if the emergent property is instantiated and "0" if not. Ontologically emergent if there is no such procedure.
+- Godel, Turing, Church: the set of computationally specified numerical functions
+- There is no method for associating perceptually distinct colors with specific unique and distinct wavelengths
+- The color of an object is ontologically emergnet upon the physical properties of the boject
+- Daniel Dennet: color properties depend on utterly contingent biological features of organisms
+- Non-trivial explanation of why some properties are best classified as being merely heuristic
+
+---
+
+## "Determinism, predictability and open-ended evolution: lessons from computational emergence", Philippe Huneman
+
+Introduction
+- Emergence in terms of computational incompressibility
+- Computational view has the advantage of being "objective"
+- Practice of computer simulations?
+- Are too many things made emergent?
+
+Emergence: the concept and its instances
+- Emergence: novelty, irreducibility, unpredictability, downward causation
+- "Unpredictability" -- some kind of derivation of a state of affairs
+- Emergence as irreducibility
+- ...but dependent on the explanatory framework of the cognitive subjects
+- Might emergence be an epistemological property and not ontological?
+- Genetic algorithms, cellular automata, etc. are ways to rigorously discuss emergence: "computational emergnece"
+- A computational simulation process is emergent iff its result cannot be reached except by running the whole simulation; one cannot compress the simulation. Supposedly this definition does not rely on our epistemic capacities.
+- Many unpredictable features are not at all interesting
+- Computationally incompressible processes 
+- Automata display global regularities not implemented in first design: emergent features exhibit a kind of order irreducible to properties of the parts
+- Weak emergent is obht dependent and autonomous
+- Emergence does not oppose reductionism: the processes take place in the building blocks or the cells completely determine the behavior of the automaton, but a more explanatory set of counterfactual dependencies is produced through the emergent, incomputable process. 
+
+Emergence, predictability, and determinism
+- Disentangles determinism and predictability
+- Cellular automata are purely deterministic, yet because processes might be incompressible, they yield unpredictable results.
 - 
+
