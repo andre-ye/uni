@@ -438,6 +438,39 @@ $$G$$ is a simple abelian group iff $$G$$ is isomorphic to the additive group $$
   - The composition factors of $$G$$ totally determine the structure of $$G$$
 - Classification problem strategy: classify all simple groups and show how the composition factors of an arbitrary group determine the structure of the group
 
+### 8.5: The Simplicity of $$A_n$$
+
+Theorem 8.26.
+For each $$ n \neq 4$$, the alternating group $$A_n$$ is simple.
+
+Lemma 8.27.
+Every element of AA_n$$ with $$n \ge 3$$ is a product of 3-cycles.
+
+Lemma 8.28.
+If $$N$$ is a normal subgroup of $$A_n$$ with $$n \ge 3$$ and $$N$$ contains a 3-cycle, then $$N = A_n$$.
+
+**Corollary 8.29.**
+If $$n \ge 5$$, then $$(1)$$, $$A_n$$, and $$S_n$$ are the only normal subgroups of $$S_n$$.
+
+## Chapter 9: Topics in Group Theory
+- Deeper look into the various aspects of the classification problem of finite gruops.
+
+### 9.1: Direct Products
+- if $$G, H$$ are groups, $$G \times H$$ is also a group
+- $$G_1 \times G_2 \times \hdots \times G_n$$ is the direct product of the groups $$G_1, G_2, \hdots, G_n$$ 
+
+Theorem 9.1.
+let $$N_1, N_2, \hdots, N_k$$ be normal subgroups of a group $$G$$ such that every element in $$G$$ can be written uniquely in the form $$a_1 a_2 \hdots a_k$$, with $$a_i \in N_i$$.
+THen $$G$$ is isomorphic to the direct product $$N_1 \times N_2 \times \hdots \times N_k$$.
+
+Lemma 9.2.
+Let $$M, N$$ be normal subgroups of a group $$G$$ such that $$M \cap N = \{e\}$$.
+If $$a \in M$$ and $$b \in N$$, then $$ab = ba$$.
+- Each $$N_i$$ is a direct factor of $$G = N_1 \times \hdots \times N_k$$. 
+- $$G$$ may be the external direct product of the $$N_i$$ (as tuples) or the internal direct product of the $$N_i$$ (as elements in the group).
+
+Theorem 9.3.
+If $$M, N$$ are normal subgroups of a group $$G$$ such that $$G = MN$$ and $$M \cap N = \langle e \rangle$$, then $$G = M \times N$$.
 
 
 
