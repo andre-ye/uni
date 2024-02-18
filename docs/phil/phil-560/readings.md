@@ -779,5 +779,41 @@ Novelty: a case study about artificial life and open-ended evolution
 
 ## "The Architecture of Complexity", Herbert A. Simon
 
+- Should we try to find common properties among different kinds of complex systems?
+- Given the properteis of parts and their interaction, it is not trivial to infer properties of the whole
+- Hierarchy: one of the central structural schemes 
 
+Hierarchic Systems
+- A system composed of interrelated sub-systems
+- "Elementary" units are bsaically pragmatic
+- Examples: business firms, governments, universities, families, tribes; th ecell, organs, systems,atoms & protons, neutrons, electrons; books, episodes, etc.
 
+The Evolution of Complex Systems
+- "Decrease in watch-building time"
+- We can think about these as "stable states"
+- Not all large systems *appear* hierarchical, e.g. linear polymers
+- Problem solving as natural selection. Problem solving is selective trial and erroir.
+- Notion of heuristics
+- How do we make selections?
+    - Stable configurations
+    - Previous experience
+- On empires and empire-building: on Alexander's death, his empire did not crumble to dust, but fragmented into the major subsystems.
+- Complex systems evolve from simple systems much more rapidly if there are stable intermediate forms
+- "Among possible complex forms, hierarchies are the ones that have the time to evolve"
+
+Nearly Decomposable Systems
+- In hierarchic systems, we can distinguish between interactions among subsystems
+- A system is decomposable into subparts; roughly independent behavior
+- Intra-component linkages are stronger than inter-component linkages
+
+The Description of Complexity
+- If you ask a person to draw a complex object, they will drawn in a hierarchic fashion.
+- Comparatively little information is lost by representing systems as hierarchies
+- You can have very simple descriptions of complex systems.
+- Exploiting redundancy in the original structure
+- If a complex structure is completely unredundant, then it is its own simplest description
+- State descriptions vs process descriptions (DNA)
+- Recursion? self-reproducing systems
+- Ontogeny recapitulates phylogeny: solve a complex problem by reducing it to a problem previously solved
+- Hierarchy as central to a nontrivial theory of complex systems
+- Hierarchies have near-decomposability which greatly simplifies their behavior
