@@ -817,3 +817,43 @@ The Description of Complexity
 - Ontogeny recapitulates phylogeny: solve a complex problem by reducing it to a problem previously solved
 - Hierarchy as central to a nontrivial theory of complex systems
 - Hierarchies have near-decomposability which greatly simplifies their behavior
+
+---
+
+## Approaches to Reduction, Kenneth F. Schaffner
+
+Introduction
+- What happens when one scientific theory is explained by a theroy from a different branch of science?
+- Theory reduction: the process of explaining one theory by another
+
+Four Reduction Paradigms
+- Nagel-Woodger-Quine (NWQ): direct reduction in which basic terms of one theory are related to basic terms of another; laws of the reduced theory are derivable form the reducing theory
+    - e.g. Nagel: reduction of thermodynamics to statistical mechanics
+- Kemeny-Oppenheim (KO): indirect reduction, you obtain identical observable predictions from both theories
+    - Lavoisier's oxidation theory of phlogiston
+- Popper-Feyerabend-Kuhn (PFK): relation of later scientific theories to earlier ones, a later theory is able to explain why the previous one "worked" or to "correct" it.
+    - Reduction of Galilean law of free fall to Newtonian mechanics
+- Suppses: find isomorphisms in structures
+
+Formal Presentation of the Paradigms
+- ...
+
+Scientific Interlude
+- There are many examples of reduction in the literature that we can appeal to
+- In practice, reduction conforms best to PFK
+- Some reductions are only approximate, and some are even impossible; others are entirely oerturned rather than reduced -- careful correction
+- Historical evolution FTW
+- A reduction can give us new information about the reduced sicence
+
+The General Reduction Paradigm
+- Reduction occurs iff
+    1. All th eprimitive terms in the corrected secondary theory appear in the primary theory or are associated with them such that
+        - you can have a bijection of individuals in the theories
+        - all effective predicates of the secondary theory are associated with a sentence in the primary theory
+        - all reduction functions ahve empirical support
+    2. The secondary theory is derivable from the primary theory when conjoined with reduction functions
+    3. The corrected secondary theory provides more accurate experimentally verifiable predictions than the original secondary theory
+    4. The secondary theory should be explicable by the primary theory
+    5. Relations between the corrected secondary theory and the primary theory should be one of "strong analogy"
+- It is possible to onstruct a Suppes reduction if it is possible to construct a NWQ reduction.
+- Reduction is a scientific fact, not simple, but also not very recalcitrant that you cannot have a general logic of reduction.
