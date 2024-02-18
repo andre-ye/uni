@@ -759,5 +759,25 @@ Emergence: the concept and its instances
 Emergence, predictability, and determinism
 - Disentangles determinism and predictability
 - Cellular automata are purely deterministic, yet because processes might be incompressible, they yield unpredictable results.
-- 
+- What is predictability?
+- Individual predictions, the trajectory of a micro-element in the system, is not predictable. But macor-predictions can emerge.
+- Trajectories of some agents are not predictable, but you can run several rounds of simulations and show that certain ranges of state parameters always yield the same pattern of behavior.
+- Robust emergence implies the possibility of predictions based on counterfactual dependnecies between global-level entities
+- General classes can be related to ranges of variables.
+- Computational emergence: changing the values of initial states of cells precludes prediction of final states of agents 
+- The study of complex systems can be done through design of simulations and comparisons
+
+Robustness analysis, relevant causal factors, and the instantiations of the formal computational concept of emergence
+- Computational emergence might fit simulations, but what about the real world?
+- The system modeled is captured in its causal structure by the model; so when there is emergence in the model, reality itself displays emergent processes/properties.
+- Can you read causal factors off of scientific models?
+- Downward causation and overdetermination doesn't apply: it's not two levels
+
+Novelty: a case study about artificial life and open-ended evolution
+
+---
+
+## "The Architecture of Complexity", Herbert A. Simon
+
+
 
