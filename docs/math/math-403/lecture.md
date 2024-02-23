@@ -293,8 +293,21 @@ Proof:
 
 Important part -- if you have a finite abelian group, it is a product of cyclic groups.
 
-
-
+- Definition of a group action: given a set $$X$$ and a group $$G$$, an action of $$G$$ on $$X$$ is a group homomorphism $$\phi : G \to A(X)$$, where $$A(X)$$ is the set of bijections from $$X$$ to $$X$$
+- Consider $$f : G \to H$$ a group homomorphism. If we interpret $$H$$ only as a set, the function $$f$$ induces an action of $$G$$ on $$H$$, given by $$a \to F(g)$$, with $$F(g)(h) = f(g) h$$. Indeed, $$F$$ is a homomorphism.
+-  To give an action of $$G$$ on $$X$$, you need
+  1. $$\forall g \in G$$, there should be $$f_g : X \to X$$
+  2. $$\forall g_1, g_2 \in G$$, we have that $$f_{g_1} \circ f_{g_2} = f_{g_1 g_2}$$
+- Equivalent condition:
+  1. #1 as before, without bijection
+  2. #2 as before
+  3. $$f_e = \text{id}$$ (identity function)
+- Example: $$D_4$$ acts on $$X$$, the set of vertices of a square, by rotations and reflections
+- Question: How many 6-faced dices are there up to symmetry?
+- Let $$G$$ be a group on a set $$X$$.
+  1. $$\forall x \in X, \text{Stab}(x) = \{ g \in G : f(g)(x) = x \}$$ (stabilizer)
+  2. $$\forall x \in X, \text{Orb}(x) = \{ f(g)(x) : g \in G \}$$ (orbit)
+- Consider $$\{ Hg : g \in G \} = X$$ for a group $$G$$ and a subgroup $$H$$. We can define an action of $$G$$ on $$X$$ by $$f(g) (H g') = H g' g^{-1}$$ 
 
 
 

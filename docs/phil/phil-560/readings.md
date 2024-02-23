@@ -847,7 +847,7 @@ Scientific Interlude
 
 The General Reduction Paradigm
 - Reduction occurs iff
-    1. All th eprimitive terms in the corrected secondary theory appear in the primary theory or are associated with them such that
+    1. All the primitive terms in the corrected secondary theory appear in the primary theory or are associated with them such that
         - you can have a bijection of individuals in the theories
         - all effective predicates of the secondary theory are associated with a sentence in the primary theory
         - all reduction functions ahve empirical support
