@@ -310,6 +310,19 @@ Important part -- if you have a finite abelian group, it is a product of cyclic 
 - Consider $$\{ Hg : g \in G \} = X$$ for a group $$G$$ and a subgroup $$H$$. We can define an action of $$G$$ on $$X$$ by $$f(g) (H g') = H g' g^{-1}$$ 
 
 
+---
+
+## Week 9 Monday -- More Group Actions
+- A group action is a homomorphism from $$G$$ to the group of bijections of $$X$$
+- The stabilizer of an element is the set of all elements in $$G$$ which fix that element
+- The orbit of an element is the set of all elements in $$X$$ which can be reached by the action of $$G$$
+- We will denote $$f_g(x)$$ by $$g \cdot x$$
+- There is a bijection between the congruence classes of the stabilizer of $$x$$ and the orbit of $$x$$
+- $$f : G \to H$$ is a group homomorphism. We have a left action of $$G$$ on $$H$$ given by $$g \cdot h = f(g) h$$, and a right action of $$H$$ on $$G$$ given by $$h \cdot g = g f(h)$$, as well as a conjugation action of $$G$$ on itself given by $$g \cdot h = g h g^{-1}$$. We assume that $$f$$ is injective.
+  - The stabilizer of $$h$$ is just $$\{ e \}$$, and the orbit of $$h$$ is the set of all elements in $$G$$ which are conjugate to $$h$$
+  - We know that $$\vert H \vert = \sum_{\text{Orb}} \vert \text{orb}(h _i) \vert = \sum_{\text{Orb}} \frac{ \vert G \vert}{\vert \text{Stab}(h_i) \vert} = \sum_{\text{orb}} \vert G \vert$$
+    - The cardinality of $$H$$ is the number of orbits times $$G$$
+
 
 
 
