@@ -307,7 +307,8 @@ Important part -- if you have a finite abelian group, it is a product of cyclic 
 - Let $$G$$ be a group on a set $$X$$.
   1. $$\forall x \in X, \text{Stab}(x) = \{ g \in G : f(g)(x) = x \}$$ (stabilizer)
   2. $$\forall x \in X, \text{Orb}(x) = \{ f(g)(x) : g \in G \}$$ (orbit)
-- Consider $$\{ Hg : g \in G \} = X$$ for a group $$G$$ and a subgroup $$H$$. We can define an action of $$G$$ on $$X$$ by $$f(g) (H g') = H g' g^{-1}$$ 
+- Consider $$\{ Hg : g \in G \} = X$$ for a group $$G$$ and a subgroup $$H$$. We can define an action of $$G$$ on $$X$$ by $$f(g) (H g') = H g' g^{-1}$$
+
 
 
 ---
@@ -323,10 +324,26 @@ Important part -- if you have a finite abelian group, it is a product of cyclic 
   - We know that $$\vert H \vert = \sum_{\text{Orb}} \vert \text{orb}(h _i) \vert = \sum_{\text{Orb}} \frac{ \vert G \vert}{\vert \text{Stab}(h_i) \vert} = \sum_{\text{orb}} \vert G \vert$$
     - The cardinality of $$H$$ is the number of orbits times $$G$$
 
+---
 
+## Week 9 Wednesday -- Group Actions pt 2
+- There is a bijection between congruence classes of the stabilizer of $$x$$ and the orbit of $$x$$
+- Orbits form a partition of $$X$$
 
+$$\vert X \ vert = \sum_{\text{orb}} \vert \text{orb} \vert = \sum \frac{\vert G \vert}{\vert \text{Stab}(x) \vert}$$
 
-
+- Prove Lagrange's Theorem using group actions with $$X = K$$, $$G = G$$ with $$G < K$$, and $$g * k = gk$$
+- Prove Giovanni's Theorem: let $$G$$ be a group and $$p$$ divides $$\vert G \vert$$, $$G$$ admits a subgroup of order $$p$$, $$p$$ is a prime number. 
+  - Prove with $$X = G$$, $$G = G$$, and $$g * x = gxg^{-1}$$
+  - Given $$x \in G$$, $$\text{Stab}(x) = \{ g \in G : gxg^{-1} = x \}$$
+  - In this case, it ends up being the commutator of $$x$$ -- all the elements in $$G$$ that commute with $$x$$
+  - We have that $$\vert G \vert = \sum \vert \text{orb}(x) \vert = \sum_{x_i \in \text{orb}} \frac{\vert G \vert}{\vert C(x_i) \vert}$$
+  - Note that $$C(1) = G$$, so $$C(x_i) = G$$ if $$x_i \in Z(G)$$ (the center of $$G$$)
+  - Note that this simplifies as $$\sum_{x_i \in \text{orb}, \notin Z(G)} \frac{ \vert G \vert }{ \vert C(x_i) \vert } + \vert Z(G) \vert$$
+- First Sylow Theorem: $$G$$ group with $$p^k \vert G \vert$$; $$G$$ has a subgroup of order $$p^k$$
+  - Proof: $$X = G$$, $$G = G$$, $$g * x = gxg^{-1}$$
+  - Prove by induction on Giovanni's Theorem ($$k = 1$$).
+  - Need to show $$k - 1 \implies k$$
 
 
 
