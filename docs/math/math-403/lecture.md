@@ -345,10 +345,22 @@ $$\vert X \ vert = \sum_{\text{orb}} \vert \text{orb} \vert = \sum \frac{\vert G
   - Prove by induction on Giovanni's Theorem ($$k = 1$$).
   - Need to show $$k - 1 \implies k$$
 
+---
 
-
-
-
+## Week 9 Friday -- Sylow Theorems 2 and 3
+- From last time: $$\vert G \vert = \sum_{x_i \in \text{orb}, \notin Z(G)} \frac{ \vert G \vert }{ \vert C(x_i) \vert } + \vert Z(G) \vert$$
+- We can find a normal subgroup $$K$$ of $$Z(G)$$, such that $$\vert K \vert = p$$
+- Suppose $$G$ is a finite group with $$p^n \vert \vert G \vert$$ but $$p^{n + 1} \nmid \vert G \vert$$ with $$p$$ prime.
+- Second Sylow Theorem: If $$P_1, P_2$$ are subgroups of $$G$$ of order $$p^n$$, then $$\exists g \in G : g P_1 g^{-1} = P_2$$
+- Third Sylow Theorem: $$\vert \{ P < G : \vert P \vert = p^n \} \vert \equiv_p 1$$
+- With the notations from above, $$P < G : \vert P \vert = p^n$$ is the $$p$$-Sylow subgroup.
+- Lemma. For a group $$G$$ and $$P$$ sylow in $$G$$ with $$P \lefttriangleeq G$$, then $$P$$ is the unique sylow subgroup of $$G$$.
+- To prove this, we need to use the key formula, and find $$X$$ (the subgroups of $$G$$ of the form $$g P_1 g^{-1}$$) and $$G$$ acting on $$X$$ by conjugation.
+- Stabilizer is the set of elements $$\{ k \in P_2 : kg P_1 g^{-1} k^{-1} = g P_1 g^{-1} \} = P_2 \cap  N_g (g P_1 g^{-1})$$
+- Normalizer: given $$H < G$$ and $$N_G(H) = \{ g \in G : gHg^{-1} \subseteq H \}$$ is the normalizer of $$H$$ in $$G$$
+- If $$P$$ is a $$p$$-sylow subgroup in $$G$$, it is the unique sylow subgroup of $$N_G(H)$$. It is always true that $$H \subseteq N_G(H)$$ and $$H \lefttriangleeq N_G(H)$$
+- To prove theorem II, we have to check that there exists some $$g \in G$$ such that $$P_2 \subseteq N_G(g P_1 g^{-1})$$. Indeed that implies $$P_2 = g P_1 g^{-1}$$ from the previous observation. So $$P_2 = g P_1 g^{-1} \iff P_2 \subseteq N_G ( g P_1 g^{-1}) \implies \vert \text{orb}(g P_1 g^{-1}) \vert = 1$$.
+- Sylow 2 and 3 are equivalen tto saying that the number of orbits with 1 element are congruent to 1 mod $$p$$.
 
 
 
