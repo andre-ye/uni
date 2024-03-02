@@ -107,4 +107,96 @@ Second Proposition
 - In man, natural capacities directed towards use of reason develop in the species, not the individual
 
 Third Proposition
-- 
+
+---
+
+...
+
+---
+
+## "On Popular Music", Adorno
+
+**The Musical Material**
+
+The Two Spheres of Music
+- "Popular vs serious music"
+- Can we do a historical analysis of the division in music production. 
+- American music even accepted the division from the outset
+- Fundamental characteristic of popular music: standardization.
+- "The whole structure of popular music is standardized, even where the attempt is made to circumvent standardization" (3)
+- The general types of hits, dance types, rigidities of patterns, characters, harmonic cornerstones.
+- Break, blue chords, dirty notes: standardization which hides behind a vener of individual "effects"
+- The listener has stronger reactions tot he part than to the whole: the whole is not the living experience, but pre-given and pre-accepted. Details which occupy strategic positions in the framework have a better chance for recognition.
+- "Serious music": every detail derives its musical sense from the concrete totality of the piece. The true meaning of each piece gets acquired throughout the context; its particular lyrical and expressive quality is built up in contrast and development from its first theme. 
+- Popular music is aggregative, permutable; "the listener can supply the 'framework' automatically"
+- Interrelatinoship of elements is unaffected
+- **Connection**: this is what Wimsatt calls "aggregativity"
+- Consistency between the formal structure and its specific content
+- The detail "contains the whole and leads to the exposition of the whole"
+- In popular music the relationship is fortuitous
+
+Standardization
+- "lowbrow / highbrow", "simple / complex", "naive / sophisticated"
+- These are not good ways ot describe the difference between popular and serious music. 
+- Structural standardization aims at standard reactions.
+- Popular music aims at "a system of response mechanisms wholly antagonistic to the ideal of individuality in a free, liberal society". "This has nothing to do with simplicity and complexity" (5)
+- In hit music, the structure underlying the piece is abstract; it never functions as itself but as a disguise: the ear deals with this by achieving slight substitutions in the knowledge of patterns. Translation of the unique into the norm is planned. Popular music is "pre-digested"
+- "The production of popular music is highly centralized in its economic organization, but still 'individualistic' in its social mode of production."
+- Standard patterns of "have become invested with the immunity of bigness"
+- Popular music must simultaneously meet two demands: for stimuli that provoke the listener's attention, and for material to call into the "musically untrained listener"'s notion of 'natural music'
+- "Extravagances are tolerated only in so far as they can be recast into this so-called natural language" -- this is a real risk, the naturalization of tendencies, not leaving things contingent
+- Popular music should be "stimulatory" by deviating in some way from the established "natural", and the supremacy of the natural is exergeted against this deviation
+  - Consumer demand
+
+Pseudo-individualization
+- Both stimulatory and natural -- "the paradox in the desiderata"
+- Residues of individualism are alive in the ideological categories as taste and free choice
+- Pseudo-individualism: endowing cultural mass production with the halo of free choice or open market on the basis of standardization itself. (6)
+- Pre-digestion of the material.
+- "So-called improvisations" -- planned sponteneity
+- Improvisations have become so "normalized"as to enable ä holwe terminology to be developed to express the standard devices of individualization"
+- Stereotyping of improvisatory details
+- "Thus, standardization of the norm enhances in a purely technical way standardization of its own deviation -- pseudo-individualization."
+- Two socio-psychological qualities of popular music
+  - The listener always feels on safe ground
+  - Function of substitution
+- "Popular music becomes a multiple-choice questionaire" -- mechanical dichotomy breaks down indifference, you must favor, you must enjoy. Careful differentiation.
+
+**Theory about the Listener**
+
+Popular Music and 'Leisure Time'
+- Why does this type of music have a hold on the 'masses'?
+- Simultaneously one of distraction and inattention
+- "LIsteners are distracted from the demands of reality by entertainment which does not demand attention either." ()
+- "People want to have fun"
+- Relief from both boredom and effort simultaneously
+- Patterned and pre-digested, so it induces relaxation.
+- The tunes lull the listener to inattention. "They tell him not to worry, for he will not miss anything." -- we should not interpret this in a moralizing sense, but rather in the sense that personalization gives one control, sovereignty.
+
+The Social Cement
+- "music listened to with a general inattention which is only interrupted by sudden flashes of recognition is not followed as a sequence of experiences that have a clear-cut meaning of their own, grasped in each instant and related to all the precedent and subsequent moments".
+- "One may go as far as to suggest that most listeners of popular music do not understand music as a language itself. If they did it would be vastly difficult to explain how they could tolerate the incessatn supply of largely undifferentiated material."
+- "Music today is largely a social cement"
+- "INdividuals of the rhythmically obedient type" "are most suspectible to a process of masochistic adjustment to authoritarian collectivism."
+- There is a real risk of "anthropophagos collectivism" -- repression and crowd-mindedness
+- "The obedient type is the rhythmical type"
+- Disillusion: "antiromantic" feelings, adapting musical adaptation to "reality", acceptance of the unpleasant.
+- Hollywood does not provide categorical wish fulfillment. They in fact find that the whole order of contemporary life ordinarily forbids them to admit happiness. The wretchedness of your own life. "The actual function of sentimental music lies rather in the temporary release given to the awareness that one has missed fulfillment."
+- "They are taken in by the musical expression of frustration rather than by that of happiness."
+- Catharsis for the masses, but catharsis which keeps them all the more firmly in mind
+- "Music that permits its listeners the confession of their unhappiness reocnciles them, by means of this 'release' to their social dependence."
+- The opportunity to feel something, anything
+
+---
+
+## "The Culture Industry: Enlightenment as Mass Deception", Adorno and Horkheimer
+
+- Culture today infects everything with sameness
+- Technical rationality is the rationality of domination, it is the compulsive character of a soceity alienated from itself
+- film denies its audience any dimension in which they might roam freely in imagination
+- The paradox of routine travestied as nature is detectable in every utterance of the culture industry, and in many is quite blatant. A jazz musician who has to play a piece of serious music, Beethoven's simplest minuet, involuntarily syncopates, and condescends to start on the beat only with a superior smile.
+
+
+
+
+
