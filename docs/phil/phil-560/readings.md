@@ -900,14 +900,82 @@ The General Reduction Paradigm
     - Deterministic mechanisms, statistical mechanics, computational mechanics, evolutionary mechanics
 - So is anything ever new? I would answer ‘‘most definitely.’’ With careful attention to the location of the observer and the system-under-study, with detailed accounting of intrinsic computation, with quantitative measures of complexity, we can analyze the patterns, structures, and novel information processing architectures that emerge in nonlinear processes. In this way, we demonstrate that something new has appeared.
 
+---
 
+## "Alternative Views of Complexity", Herbert Simon
+- Interest in complexity and complex systems
+- WWI: holism, Gestalts, creative evolution.
+- WWII: information, feedback, cybernetics, general systems
+- Now: chaos, adaptive systems, genetic algorithms, cellular automata.
 
+Holism and Reductionism
+- Natural objects are wholes
+- Strong: Applied to complex systems in general, it postulates new system properties and relations among subsystems that had no place in the system components; hence it calls for emergence, a ‘‘creative’’ principle. Mechanistic explanations of emergence are rejected
+- Weak: emergence simply means that the parts of a complex system have mutual relations that do not exist for the parts in isolation
 
+Cybernetics and General Systems
+- Norbert Wiener: cybernetics, combination of servomechanism theory, information theory, computers
+- Information theory: organized complexity explained in terms of reduction of entropy / disorder
+- In information theory, energy, information, and pattern all correspond to negative entropy.
+- Feedback control shows how a system can work toward goals and adapt to a changing environment,3 thereby removing the mystery from teleology
+- Although looking at complex systems generally might be difficult, we can look at classes of complex systems.
 
+Current Interest in Complexity
+- Understanding the environment, society, and organisms
+- Relevant mathematics and computational algorithms emerging
+- Age of anxiety: "chaos", "catastrophe"
 
+Catastrophe Theory
+- Classification of nonlinear dynamic systems according to their modes of behavior
+- Such a system can assume two (or more) distinct steady states (static equilibria, for example, or periodic cycles); but when the system is in one of these states, a moderate change in a system parameter may cause it to shift suddenly to the other—or into an unstable state in which variables increase without limit.
+- It is not hard to think of natural systems that exhibit behavior of this kind—stable behavior followed by a sudden shift to disequilibrium or to another, quite different, equilibrium.
 
+Complexity and Chaos
+- Theory of chaos from Poincare
+- Chaotic systems are deterministic dynamic systems that, if their initial conditions are disturbed even infinitesimally, may alter their paths radically
+- Nonlinear differential equations
+- Deep understanding has now been achieved of many aspects of chaos, but to say that we ‘‘understand’’ does not imply that we can predict.
+- Chaos led to the recognition of a new, generalized, notion of equilibrium—the so-called ‘‘strange attractor.’’
 
+Rationality in a Catastrophic or Chaotic World
+- On the basis of the evidence, we should suppose neither that all of the complex systems we encounter in the world are chaotic, nor that few of them are. Moreover, as the airplane example shows, the ominous term ‘‘chaotic’’ should not be read as ‘‘unmanageable.’’
 
+Complexity and Evolution
+- Much current research on complex systems focuses upon the emergence of complexity, that is, system evolution
+
+Conclusion
+- What is new about the present activity is not the study of particular complex systems but the study of the phenomenon of complexity in its own right.
+
+---
+
+## "More is Different", P.W. Anderson
+
+- The reductionist hypothesis may still be a topic for controversy among philosophers, but among the great majority of active scientists I think it is accepted without question
+- The main fallacy in this kind of thinking is that the reductionist hypothesis does not by any means imply a ‘‘constructionist’’ one: The ability to reduce everything to simple fundamental laws does not imply the ability to start from those laws and reconstruct the universe.
+- The constructionist hypothesis breaks down when confronted with the twin difficulties of scale and complexity. The behavior of large and complex aggregates of elementary particles, it turns out, is not to be understood in terms of a simple extrapolation of the properties of a few particles
+- At each stage entirely new laws, concepts, and generalizations are necessary, requiring inspiration and creativity to just as great a degree as in the previous one.
+- In my own field of many-body physics, we are, perhaps, closer to our fundamental, intensive underpinnings than in any other science in which non-trivial complexities occur, and as a result we have begun to formulate a general theory of just how this shift from quantitative to qualitative differentiation takes place. This formulation, called the theory of ‘‘broken symmetry,’’ may be of help in making more generally clear the breakdown of the constructionist converse of reductionism.
+- At this point we must forget about the possibility of inversion and ignore the parity symmetry: the symmetry laws have been, not repealed, but broken.
+- three inferences
+    1. One is that symmetry is of great importance in physics. By symmetry we mean the existence of different viewpoints from which the system appears the same. It is only slightly overstating the case to say that physics is the study of symmetry
+    2. the internal structural of a piece of matter need not be symmetrical even if the total state of it is, e.g. limits to infinity
+    3. s that the state of a really big system does not at all have to have the symmetry of the laws which govern it; in fact, it usually has less symmetry
+        - e.g. a crystal; built from a substrate of atoms, express perfect homogeneity of space; all of a sudden displays a new symmetry
+- The essential idea is that in the so-called N ! y limit of large systems (on our own, macroscopic scale) it is not only convenient but essential to realize that matter will undergo mathematically sharp, singular ‘‘phase transitions’’ to states in which the microscopic symmetries, and even the microscopic equations of motion, are in a sense violated
+
+---
+
+## "The Status of Emergence", Paul Henly
+
+- THE doctrine of emergence, having passed through the stage of acute philosophic controversy, has become to a large extent a generally accepted view. Unfortunately it has not become an un- ambiguous view. In one sense it seems to amount to no more than the insistence that there are novelties in the world
+- If belief in novelty were confined to this subjective aspect of experience, then there could be no question of its existene
+- Novelties, moreover, are assumed to arise not everywhere, but merely at certain stages in the evolution of the world, and are des- ignated as emergents, in contrast to resultants which involve no novelty
+- Novelty, then, pertains primarily to the qualities of things and a quality may be said to be new if it was never before embodied.
+- The crux of these exceptions seems to be that emergent evo- lution has to do with a causal situation. If one claims that life is a quality emergent from the inorganic, this is to claim that living organisms are brought into being by inorganic processes, though they are not explained by these processes
+- It is because of the failure of one group of qualities to explain another that unpredictability in advance of the fact can be used as the criterion of emergence. If there is an adequate basis in one group of characteristics for the explanation of the second, the latter could be predicted in advance of occurrence
+- With the exception just noted, however, unpredietability has been taken as the criterion of emergence, and here discussions of emergent evolution have been at their weakest, for unpredietabil- ity has been treated as a simple quality of events
+- predictability is seen once more to be relative to knowledge
+- Once the dependence of predictability upon evidence is ad- mitted, it becomes clear that unpredietability is not peculiarly the mark of the novel, but merely of what may be loosely called the logically unrelated
 
 
 
