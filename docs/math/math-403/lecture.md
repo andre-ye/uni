@@ -362,6 +362,15 @@ $$\vert X \ vert = \sum_{\text{orb}} \vert \text{orb} \vert = \sum \frac{\vert G
 - To prove theorem II, we have to check that there exists some $$g \in G$$ such that $$P_2 \subseteq N_G(g P_1 g^{-1})$$. Indeed that implies $$P_2 = g P_1 g^{-1}$$ from the previous observation. So $$P_2 = g P_1 g^{-1} \iff P_2 \subseteq N_G ( g P_1 g^{-1}) \implies \vert \text{orb}(g P_1 g^{-1}) \vert = 1$$.
 - Sylow 2 and 3 are equivalen tto saying that the number of orbits with 1 element are congruent to 1 mod $$p$$.
 
+---
+
+## Week 10 Monday -- Sylow Theorems
+
+- Sylow Theorem 2: let $$P_1, P_2$$ be two $$p$$-sylow subgroups of $$G$$, then $$\exists g \in G : g P_1 g^{-1} = P_2$$ (all groups of the same order are conjugations of each other)
+- Sylow Theorem 3: the number of all $$p$$-sylow groups in $$G$$ is congruent to 1 mod $$p$$.
+- Proof via $$X = \{ g P_2 g^{-1} : g \in G \}$$ and $$$G = P_1$$ with $$* = \forall k \in P_1, k + g P-2 g^{-1} = kg P_2 g^{-1} k^{-1}$$
+- If $$G$$ is a group with $$P$$ a normal $$p$$-sylow subgroup of $$G$$, $$P$$ is the only $$p$$-sylow subgroup of $$G$$ (since it conjugates with everything)
+- Start out with the key formula, you take one of the $$p$$-sylows and move it around with elements in $$G$$. 
 
 
 
