@@ -857,3 +857,58 @@ The General Reduction Paradigm
     5. Relations between the corrected secondary theory and the primary theory should be one of "strong analogy"
 - It is possible to onstruct a Suppes reduction if it is possible to construct a NWQ reduction.
 - Reduction is a scientific fact, not simple, but also not very recalcitrant that you cannot have a general logic of reduction.
+
+---
+
+## "Is Anything Ever New? Considering Emergence", James P. Crutchfield
+
+- "Some of the most engaging and perplexing natural phenomena are those in which highly-structured collective behavior emerges over time from the interaction of simple subsystems"
+- "Emergence is generally understood to be a process that leads to the appearance of structure not directly described by the defining constraints and instantaneous forces that control a system"
+- "Over time ‘‘something new’’ appears at scales not directly specified by the equations of motion"
+- WHat is "something", and what does it mean to be "new"?
+- Deterministic chaos: where in the determinism did the randomness come from? -- emergence of the disorder is a result of the complicated behavior of nonlinear dynamic systems and the limitations of the observer
+- Unpredictability and self-similarity: the emergent feature stands in opposition to the system's defining character
+- "The newness in both cases is in the eye of an observer: the observer whose predictions fail or the analyst who notes that the feature of statistical self-similarity captures a commonality across length scales"
+- "Briefly stated, in the realm of pattern formation ‘‘patterns’’ are guessed and then verified."
+- INtrinsic emergence: pattern formation is insufficient to capture the essential aspect
+- Newness is always referred to outside of the system
+- "The problem is that the ‘‘newness’’ in the emergence of pattern is always referred outside the system to some observer that anticipates the structures via a fixed palette of possible regularities"
+- When a new state of matter emerges from a phase transition, for example, initially no one knows the governing ‘‘order parameter.’’
+- What is distinctive about intrinsic emergence is that the patterns formed confer additional functionality which supports global information processing. Recently, examples of this sort have fallen under the rubric of ‘‘emergent computation.
+- In summary, three notions will be distinguished:
+    1. The intuitive definition of emergence: ‘‘something new appears’’;
+    2. Pattern formation: an observer identifies ‘‘organization’’ in a dynamical system; and
+    3. Intrinsic emergence: the system itself capitalizes on patterns that appear.
+- "In pattern formation, the observer is the scientist that uses prior concepts—e.g., ‘‘spiral’’ or ‘‘vortex’’—to detect structure in experimental data and so to verify or falsify their applicability to the phenomenon"
+- What's in a model?
+    - Essential novelty involved has to be referred to an evaluating entity
+    - The observer in this view is a subprocess of the entire system
+- A fundamental point is that any act of modeling makes a distinction between data that is accounted for—the ordered part—and data that is not described—the apparently random part. This distinction might be a null one: for example, for either completely predictable or ideally random (unstructured) sources the data is explained by one descriptive extreme or the other. Nature is seldom so simple. It appears that natural processes are an amalgam of randomness and order. In our view it is the organization of the interplay between order and randomness that makes nature ‘‘complex.’
+- Then the size of the ‘‘best’’ model is a measure of the data’s intrinsic structure. If we believe the data is a faithful representation of the raw behavior of the underlying process, this then translates into a measure of structure in the natural phenomenon originally studied
+- "It is helpful to draw a distinction between discovery and emergence. The level of pattern formation and the modeling framework of computational mechanics concern discovery. Above it was suggested that innovation based on hierarchical machine reconstruction is one type of discovery, in the sense that new regularities across increasingly-accurate models are detected and then taken as a new basis for representation. Discovery, though, is not the same thing as emergence, which at a minimum is dynamical: over time, or over generations in an evolutionary system, something new appears. Discovery, in this sense, is atemporal: the change in state and increased knowledge of the observer are not the focus of the analysis activity; the products of model fitting and statistical parameter estimation are."
+- "In contrast, emergence concerns the process of discovery. Moreover, intrinsic emergence puts the subjective aspects of discovery into the system under study. In short, emergence pushes the semantic stack down one level. In this view analyzing emergence is more objective than analyzing pattern formation in that detecting emergence requires modeling the dynamics of discovery, not just implementing a discovery procedure.
+- ‘‘Emergence’’ is meaningless unless it is defined within the context of processes themselves; the only well-defined notion of emergence would seem to be intrinsic emergence. Why? Simply because emergence defined without this closure leads to an infinite regress of observers detecting patterns of observers detecting patterns. . . . This is not a satisfactory definition, since it is not finite. The regress must be folded into the system, it must be immanent in the dynamics"
+- Modern evolutionary theory continues to be governed by Darwin’s view of the natural selection of individuals that reproduce with variation.
+    - Selectionists hold that structure in the biological world is due primarily to the fitness-based selection of individuals in populations whose diversity is maintained by genetic variation. (In a sense, genetic variation is a destabilizing mechanism that provides the raw diversity of structure. Natural selection then is a stabilizing dynamic that acts on the expression of that variation.)
+    - The second, anarchistic camp consists of the Historicists who hold fast to the Darwinian mechanisms of selection and variation, but emphasize the accidental determinants of biological form (What distinguishes this position from the Selectionists is the claim that major changes in structure can be and have been nonadaptive. While these changes have had the largest effect on the forms of present day life, at the time they occurred they conferred no survival advantage.)
+    - there are the Structuralists whose goal is to elucidate the ‘‘principles of organization’’ that guide the appearance of biological structure. They contend that energetic, mechanical, biomolecular, and morphogenetic constraints limit the infinite range of possible biological form
+- Impressions
+    - Natural selection’s culling of genetic variation provides the Selectionists with a theory of transformation. But the approach does not provide a theory of structure
+    - The Historicists also have a theory of transformation, but they offer neither a theory of structure nor, apparently, a justification for a high fraction of functionality over the space of structures
+    - the Structuralists do not offer a theory of transformation. Neither do they, despite claims for the primacy of organization in evolutionary processes, provide a theory of structure itself
+- Mechanisms
+    - Deterministic mechanisms, statistical mechanics, computational mechanics, evolutionary mechanics
+- So is anything ever new? I would answer ‘‘most definitely.’’ With careful attention to the location of the observer and the system-under-study, with detailed accounting of intrinsic computation, with quantitative measures of complexity, we can analyze the patterns, structures, and novel information processing architectures that emerge in nonlinear processes. In this way, we demonstrate that something new has appeared.
+
+
+
+
+
+
+
+
+
+
+
+
+
