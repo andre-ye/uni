@@ -977,6 +977,9 @@ Conclusion
 - predictability is seen once more to be relative to knowledge
 - Once the dependence of predictability upon evidence is ad- mitted, it becomes clear that unpredietability is not peculiarly the mark of the novel, but merely of what may be loosely called the logically unrelated
 
+---
+
+## "Emergence, Closure and Inter-level Causation in Biological Systems", Mossio et al. 
 
 
 
