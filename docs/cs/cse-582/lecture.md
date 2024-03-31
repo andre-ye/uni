@@ -24,3 +24,18 @@ CSE 582
 </details>
 
 ---
+
+
+## Lecture 2: Human subjects research
+
+- 
+
+
+
+
+
+
+
+
+
+
